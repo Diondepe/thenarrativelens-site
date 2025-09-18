@@ -16,7 +16,10 @@
       <img class="banner" src="assets/tnl-banner-matrix.png" alt="The Narrative Lens">
     </a>
     <div class="top-actions">
-      <a href="subscribe.html" class="btn primary">Subscribe</a>
+      <a href="subscribe.html" class="btn primary with-icon">
+        <img class="mini-icon" src="assets/favicon.ico" alt="">
+        Subscribe
+      </a>
     </div>
   </div>
   <div class="navbar">
@@ -36,11 +39,13 @@
 </header>
 
 <main class="container" style="padding:1rem 1rem 2rem">
-  <h1>Narrative News</h1>
-  <div id="feeds-list" aria-live="polite"></div>
+  <div class="content-narrow"><!-- narrower column reduces image upscaling -->
+    <h1>Narrative News</h1>
+    <div id="feeds-list" aria-live="polite"></div>
+  </div>
 </main>
 
 <footer class="site-footer">© The Narrative Lens</footer>
-<script src="js/app.js?v=5"></script>
+<script src="js/app.js?v=6"></script>
 </body>
 </html>
