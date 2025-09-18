@@ -7,14 +7,14 @@ async function loadJSON(path){
   return r.json();
 }
 
-function imgOf(obj){
-  return obj.thumb_url || obj.image_url || FALLBACK_IMG;
+function pickImg(x){
+  return x.thumb_url || x.image_url || FALLBACK_IMG;
 }
 
 /* ===== Narrative News: Feeds page + Homepage teasers ===== */
 
 function feedCardHTML(item){
-  const img = item.thumb_url || item.image_url || 'assets/og-image.png';
+  const img = pickImg(item);
   return `
     <article class="card" style="margin:1rem 0;">
       <img class="thumb"
@@ -22,7 +22,7 @@ function feedCardHTML(item){
            alt=""
            loading="lazy"
            referrerpolicy="no-referrer"
-           onerror="this.onerror=null;this.src='assets/og-image.png'">
+           onerror="this.onerror=null;this.src='${FALLBACK_IMG}'">
       <div style="padding:1rem">
         <h3 style="margin:.2rem 0 0">${item.title}</h3>
         <div class="meta">
@@ -30,17 +30,20 @@ function feedCardHTML(item){
           <span>${new Date(item.published).toLocaleDateString()}</span>
         </div>
         ${item.summary ? `<p>${item.summary}</p>` : ``}
-        <p style="margin:.75rem 0 0"><a class="btn" href="${item.url}" target="_blank" rel="noopener">Read source</a></p>
+        <p style="margin:.75rem 0 0">
+          <a class="btn" href="${item.url}" target="_blank" rel="noopener">Read source</a>
+        </p>
       </div>
     </article>
   `;
 }
 
 function teaserHTML(item){
-  const img = imgOf(item);
+  const img = pickImg(item);
   return `
     <a href="${item.url}" target="_blank" rel="noopener" class="teaser-card">
-      <img class="teaser-thumb" src="${img}" alt="" loading="lazy" referrerpolicy="no-referrer"
+      <img class="teaser-thumb"
+           src="${img}" alt="" loading="lazy" referrerpolicy="no-referrer"
            onerror="this.onerror=null;this.src='${FALLBACK_IMG}'">
       <div class="teaser-body">
         <div class="meta" style="font-size:.75rem;margin-bottom:.25rem">
@@ -64,16 +67,14 @@ async function initFeeds(){
   catch(e){ console.error('feeds.json', e); return; }
 
   if (feedsHolder){
-    // Full cards with uniform thumb on feeds page
     feedsHolder.innerHTML = data.slice(0, 60).map(feedCardHTML).join('');
   }
   if (homeHolder){
-    // Compact teasers on homepage
     homeHolder.innerHTML = data.slice(0, 9).map(teaserHTML).join('');
   }
 }
 
-/* ===== Narratives: Full page + Featured on home ===== */
+/* ===== Narratives pages (optional for home/narratives) ===== */
 
 async function initNarrativesPage(){
   const container = document.getElementById('narratives-list');
@@ -85,60 +86,19 @@ async function initNarrativesPage(){
 
   container.innerHTML = data.map(n => `
     <article class="card" style="margin:1rem 0;">
-      <img class="thumb" src="${imgOf(n)}" alt="" loading="lazy" referrerpolicy="no-referrer"
+      <img class="thumb" src="${pickImg(n)}" alt="" loading="lazy" referrerpolicy="no-referrer"
            onerror="this.onerror=null;this.src='${FALLBACK_IMG}'">
       <div style="padding:1rem">
-        <h3 class="narr-title">${n.title}</h3>
+        <h3 style="margin:.3rem 0">${n.title}</h3>
         <div class="meta"><span class="badge">${n.category || 'General'}</span></div>
-        ${n.summary ? `<p class="narr-desc">${n.summary}</p>` : ``}
+        ${n.summary ? `<p>${n.summary}</p>` : ``}
       </div>
     </article>
   `).join('');
 }
 
-async function initFeaturedNarratives(){
-  const container = document.getElementById('featured-narratives');
-  const shuffleBtn = document.getElementById('shuffle-narratives');
-  if(!container) return;
-
-  let data = [];
-  try { data = await loadJSON('data/narratives.json'); }
-  catch(e){ console.error('narratives.json', e); return; }
-
-  const renderRandom = () => {
-    container.classList.remove('show'); // fade out
-    setTimeout(() => {
-      container.innerHTML = '';
-      const shuffled = data.slice().sort(() => 0.5 - Math.random());
-      shuffled.slice(0,3).forEach(n => {
-        const card = document.createElement('article');
-        card.className = 'card';
-        card.innerHTML = `
-          <img class="thumb" src="${imgOf(n)}" alt="" loading="lazy" referrerpolicy="no-referrer"
-               onerror="this.onerror=null;this.src='${FALLBACK_IMG}'">
-          <div style="padding:1rem">
-            <h3 class="narr-title" style="margin:.3rem 0">${n.title}</h3>
-            ${n.summary ? `<p class="narr-desc">${n.summary}</p>` : ``}
-            <div class="meta"><span class="badge">${n.category || 'General'}</span></div>
-          </div>
-        `;
-        container.appendChild(card);
-      });
-      container.classList.add('show'); // fade in
-    }, 400);
-  };
-
-  // first render
-  renderRandom();
-
-  if (shuffleBtn){
-    shuffleBtn.addEventListener('click', renderRandom);
-  }
-}
-
 /* ===== Boot ===== */
 document.addEventListener('DOMContentLoaded', () => {
-  initFeeds();               // homepage teasers + feeds page cards
-  initNarrativesPage();      // narratives page
-  initFeaturedNarratives();  // homepage featured narratives
+  initFeeds();
+  initNarrativesPage();
 });
