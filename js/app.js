@@ -14,11 +14,15 @@ function imgOf(obj){
 /* ===== Narrative News: Feeds page + Homepage teasers ===== */
 
 function feedCardHTML(item){
-  const img = imgOf(item);
+  const img = item.thumb_url || item.image_url || 'assets/og-image.png';
   return `
     <article class="card" style="margin:1rem 0;">
-      <img class="thumb" src="${img}" alt="" loading="lazy" referrerpolicy="no-referrer"
-           onerror="this.onerror=null;this.src='${FALLBACK_IMG}'">
+      <img class="thumb"
+           src="${img}"
+           alt=""
+           loading="lazy"
+           referrerpolicy="no-referrer"
+           onerror="this.onerror=null;this.src='assets/og-image.png'">
       <div style="padding:1rem">
         <h3 style="margin:.2rem 0 0">${item.title}</h3>
         <div class="meta">
@@ -26,9 +30,7 @@ function feedCardHTML(item){
           <span>${new Date(item.published).toLocaleDateString()}</span>
         </div>
         ${item.summary ? `<p>${item.summary}</p>` : ``}
-        <p style="margin:.75rem 0 0">
-          <a class="btn" href="${item.url}" target="_blank" rel="noopener">Read source</a>
-        </p>
+        <p style="margin:.75rem 0 0"><a class="btn" href="${item.url}" target="_blank" rel="noopener">Read source</a></p>
       </div>
     </article>
   `;
