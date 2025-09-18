@@ -13,9 +13,9 @@
 <header class="site-header">
   <div class="container topbar">
     <a class="brand" href="index.html">
-      <img class="banner" src="assets/tnl-banner-matrix.png" alt="The Narrative Lens">
-      <!-- favicon on the RIGHT of the logo -->
+      <!-- mini favicon on the LEFT of the logo -->
       <img class="favicon-inline" src="assets/favicon-redesigned.png" alt="">
+      <img class="banner" src="assets/tnl-banner-matrix.png" alt="The Narrative Lens">
     </a>
     <div class="top-actions">
       <a href="subscribe.html" class="btn primary with-icon">
@@ -31,6 +31,7 @@
         <a href="index.html">Home</a>
         <a href="narratives.html">Narratives</a>
         <a href="feeds.html" aria-current="page">Narrative News</a>
+        <!-- 🔒 only where it should be -->
         <a href="timeline.html">Lens-Timeline <span class="pill sub"></span></a>
         <a href="videos.html">Lens-Video</a>
         <a href="actors.html">Lens-Actors <span class="pill sub"></span></a>
@@ -42,7 +43,7 @@
 </header>
 
 <main class="container" style="padding:1rem 1rem 2rem">
-  <!-- Narrow column reduces upscaling → less pixelation -->
+  <!-- Narrower column reduces pixelation; no-upscale logic finishes the job -->
   <div class="content-narrow">
     <h1>Narrative News</h1>
     <div id="feeds-list" aria-live="polite"></div>
@@ -50,6 +51,6 @@
 </main>
 
 <footer class="site-footer">© The Narrative Lens</footer>
-<script src="js/app.js?v=6"></script>
+<script src="js/app.js?v=7"></script>
 </body>
 </html>
