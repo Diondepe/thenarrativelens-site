@@ -105,6 +105,6 @@ a.teaser-card:hover{
 }
 .pill.sub::before {
   content:"🔒";
-  margin-right:.25rem;
-  opacity:.9;
+  margin:0;
 }
+
