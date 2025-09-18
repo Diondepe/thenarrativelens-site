@@ -56,6 +56,7 @@ loadNarratives();
 
 // Load featured narratives on home
 // Load featured narratives on home (random 3 each time)
+// Load featured narratives on home (random 3 each time)
 async function loadFeaturedNarratives() {
   const container = document.getElementById('featured-narratives');
   if (!container) return;
@@ -64,25 +65,37 @@ async function loadFeaturedNarratives() {
     const res = await fetch('data/narratives.json');
     const narratives = await res.json();
 
-    // Shuffle array
-    const shuffled = narratives.sort(() => 0.5 - Math.random());
+    // Function to render 3 random
+    function renderRandom() {
+      container.innerHTML = ""; // clear previous
+      const shuffled = narratives.sort(() => 0.5 - Math.random());
+      shuffled.slice(0, 3).forEach(n => {
+        const card = document.createElement('article');
+        card.className = 'card';
 
-    // Pick first 3
-    shuffled.slice(0, 3).forEach(n => {
-      const card = document.createElement('article');
-      card.className = 'card';
+        card.innerHTML = `
+          ${n.image_url ? `<img class="thumb" src="${n.image_url}" alt="${n.title}">` : ""}
+          <h3>${n.title}</h3>
+          <p>${n.summary}</p>
+          <small>${n.category}</small>
+        `;
 
-      card.innerHTML = `
-        ${n.image_url ? `<img class="thumb" src="${n.image_url}" alt="${n.title}">` : ""}
-        <h3>${n.title}</h3>
-        <p>${n.summary}</p>
-        <small>${n.category}</small>
-      `;
+        container.appendChild(card);
+      });
+    }
 
-      container.appendChild(card);
-    });
+    // Initial render
+    renderRandom();
+
+    // Shuffle button
+    const shuffleBtn = document.getElementById('shuffle-narratives');
+    if (shuffleBtn) {
+      shuffleBtn.addEventListener('click', renderRandom);
+    }
+
   } catch (err) {
     console.error('Error loading featured narratives:', err);
   }
 }
 loadFeaturedNarratives();
+
