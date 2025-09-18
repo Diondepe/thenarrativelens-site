@@ -11,18 +11,41 @@ function pickImg(x){
   return x.thumb_url || x.image_url || FALLBACK_IMG;
 }
 
-/* ===== Narrative News: Feeds page + Homepage teasers ===== */
+/* ===== Image upscaling tamer =====
+   If an image's natural width is smaller than its slot, don't stretch it.
+   We add .no-upscale which uses object-fit:contain and width:auto.
+*/
+function tameUpscaling(scope=document){
+  const imgs = scope.querySelectorAll('.card .thumb');
+  imgs.forEach(img=>{
+    // ensure we run after load (or immediately if cached)
+    const apply = () => {
+      try{
+        const slot = img.parentElement?.clientWidth || 0;
+        const nw = img.naturalWidth || 0;
+        if (nw && slot && nw < slot){
+          img.classList.add('no-upscale');
+        }
+      }catch(e){}
+    };
+    if (img.complete) apply(); else img.addEventListener('load', apply, {once:true});
+  });
+}
+
+/* ===== Feeds rendering ===== */
 
 function feedCardHTML(item){
   const img = pickImg(item);
   return `
     <article class="card" style="margin:1rem 0;">
-      <img class="thumb"
-           src="${img}"
-           alt=""
-           loading="lazy"
-           referrerpolicy="no-referrer"
-           onerror="this.onerror=null;this.src='${FALLBACK_IMG}'">
+      <div class="thumb-wrap">
+        <img class="thumb"
+             src="${img}"
+             alt=""
+             loading="lazy"
+             referrerpolicy="no-referrer"
+             onerror="this.onerror=null;this.src='${FALLBACK_IMG}'">
+      </div>
       <div style="padding:1rem">
         <h3 style="margin:.2rem 0 0">${item.title}</h3>
         <div class="meta">
@@ -38,67 +61,19 @@ function feedCardHTML(item){
   `;
 }
 
-function teaserHTML(item){
-  const img = pickImg(item);
-  return `
-    <a href="${item.url}" target="_blank" rel="noopener" class="teaser-card">
-      <img class="teaser-thumb"
-           src="${img}" alt="" loading="lazy" referrerpolicy="no-referrer"
-           onerror="this.onerror=null;this.src='${FALLBACK_IMG}'">
-      <div class="teaser-body">
-        <div class="meta" style="font-size:.75rem;margin-bottom:.25rem">
-          <span class="badge">${item.source}</span>
-          <span>${new Date(item.published).toLocaleDateString()}</span>
-        </div>
-        <h3>${item.title}</h3>
-        ${item.summary ? `<p>${item.summary}</p>` : ``}
-      </div>
-    </a>
-  `;
-}
-
 async function initFeeds(){
   const feedsHolder = document.getElementById('feeds-list');
-  const homeHolder  = document.getElementById('home-feeds');
-  if(!feedsHolder && !homeHolder) return;
+  if(!feedsHolder) return;
 
   let data = [];
   try { data = await loadJSON('data/feeds.json'); }
   catch(e){ console.error('feeds.json', e); return; }
 
-  if (feedsHolder){
-    feedsHolder.innerHTML = data.slice(0, 60).map(feedCardHTML).join('');
-  }
-  if (homeHolder){
-    homeHolder.innerHTML = data.slice(0, 9).map(teaserHTML).join('');
-  }
+  feedsHolder.innerHTML = data.slice(0, 60).map(feedCardHTML).join('');
+  tameUpscaling(feedsHolder);
 }
 
-/* ===== Narratives pages (optional for home/narratives) ===== */
-
-async function initNarrativesPage(){
-  const container = document.getElementById('narratives-list');
-  if(!container) return;
-
-  let data = [];
-  try { data = await loadJSON('data/narratives.json'); }
-  catch(e){ container.innerHTML = `<p class="badge">No narratives found.</p>`; return; }
-
-  container.innerHTML = data.map(n => `
-    <article class="card" style="margin:1rem 0;">
-      <img class="thumb" src="${pickImg(n)}" alt="" loading="lazy" referrerpolicy="no-referrer"
-           onerror="this.onerror=null;this.src='${FALLBACK_IMG}'">
-      <div style="padding:1rem">
-        <h3 style="margin:.3rem 0">${n.title}</h3>
-        <div class="meta"><span class="badge">${n.category || 'General'}</span></div>
-        ${n.summary ? `<p>${n.summary}</p>` : ``}
-      </div>
-    </article>
-  `).join('');
-}
-
-/* ===== Boot ===== */
+/* Boot */
 document.addEventListener('DOMContentLoaded', () => {
   initFeeds();
-  initNarrativesPage();
 });
