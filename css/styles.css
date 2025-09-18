@@ -141,35 +141,35 @@ a:hover{text-decoration:underline}
   margin-bottom: 0.5rem;
 }
 
-.brand {
+/* Brand and favicon */
+.brand-area {
   display: flex;
+  justify-content: space-between;
   align-items: center;
-  font-size: 1.6rem;
-  font-weight: bold;
-  text-decoration: none;
-  color: var(--tnl-text);
+  margin-bottom: 0.5rem;
 }
 
 .brand-text {
-  font-size: 1.6rem;
+  font-size: 1.8rem; /* bigger for readability */
+  font-weight: bold;
   letter-spacing: 0.05em;
   margin-right: 0.5rem;
 }
 
 .favicon {
-  width: 28px;
-  height: 28px;
+  width: 32px;
+  height: 32px;
 }
 
 /* Subscribe button */
 .subscribe-btn {
   margin-left: auto;
-  margin-right: 0;
   padding: 0.5rem 1rem;
-  font-size: 0.9rem;
+  font-size: 1rem;
   background: var(--tnl-red);
   color: #fff;
   border-radius: 6px;
+  text-decoration: none;
 }
 
 /* Navigation bar */
@@ -177,8 +177,8 @@ a:hover{text-decoration:underline}
   display: flex;
   gap: 1.2rem;
   justify-content: center;
-  margin-top: 0.3rem;
-  font-size: 0.95rem;
+  margin-top: 0.5rem;
+  font-size: 1rem;
 }
 
 .site-nav a {
@@ -191,11 +191,34 @@ a:hover{text-decoration:underline}
   opacity: 0.7;
 }
 
-/* Fix news images */
-.card img, 
-#feeds-list img {
+/* Card grid for narratives + news */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.card {
+  background: var(--tnl-card);
+  border: 1px solid var(--tnl-border);
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.card img {
   width: 100%;
-  max-height: 180px;
-  object-fit: cover;
-  border-radius: 6px;
+  max-height: 160px;
+  object-fit: cover; /* fixes pixelation */
+}
+
+.card-body {
+  padding: 0.8rem;
+}
+
+.card-body h3 {
+  font-size: 1.1rem;
+  margin: 0 0 0.5rem;
 }
