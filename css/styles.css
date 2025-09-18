@@ -7,6 +7,7 @@
   --tnl-border:#232326;
   --tnl-wash:rgba(255,255,255,0.04);
   --tnl-wrap:1000px;
+  --tnl-feeds-wrap:860px; /* narrower feed column to reduce upscaling/pixelation */
 }
 
 *{box-sizing:border-box}
@@ -25,7 +26,7 @@ a:hover{text-decoration:underline}
 .container{max-width:var(--tnl-wrap);margin:0 auto;padding:0 1rem}
 
 /* =========================
-   HEADER (2 ROWS like DailyMail)
+   HEADER (2 ROWS)
    ========================= */
 .site-header{
   position:sticky; top:0; z-index:50;
@@ -36,22 +37,25 @@ a:hover{text-decoration:underline}
   display:flex; align-items:center; justify-content:space-between;
   padding:.6rem 0;
 }
-.site-header .brand{
-  display:flex; align-items:center; gap:.6rem;
-}
+.site-header .brand{ display:flex; align-items:center; gap:.6rem; }
 .site-header .brand img.banner{
-  height:64px; /* bigger crisp logo */
+  height:84px;              /* ↑ Bigger logo so the small red text is readable */
   max-width:100%;
   image-rendering:auto;
 }
+
+/* subscribe closer to logo + icon */
 .site-header .top-actions{
-  display:flex; align-items:center; gap:.5rem;
+  display:flex; align-items:center; gap:.35rem; /* tighter gap */
 }
-.site-header .top-actions .btn.primary{
-  background:var(--tnl-red); color:#fff; border-radius:10px; padding:.5rem .9rem;
+.btn.primary{
+  background:var(--tnl-red); color:#fff; border-radius:10px; padding:.5rem .9rem; border:1px solid transparent;
+}
+.btn.with-icon{ display:inline-flex; align-items:center; gap:.4rem; }
+.mini-icon{
+  width:18px; height:18px; display:inline-block; border-radius:4px;
 }
 
-/* NAV ROW */
 .site-header .navbar{
   border-top:1px solid var(--tnl-border);
   background:rgba(255,255,255,0.02);
@@ -60,23 +64,16 @@ a:hover{text-decoration:underline}
   display:flex; align-items:center; gap:.5rem; flex-wrap:wrap;
   padding:.45rem 0;
 }
-.site-header .nav{
-  display:flex; align-items:center; gap:1rem; flex-wrap:wrap;
-}
+.site-header .nav{ display:flex; align-items:center; gap:1rem; flex-wrap:wrap; }
 .site-header .nav a{
-  padding:.35rem .6rem;
-  border-radius:8px;
-  font-size:.95rem;
-  white-space:nowrap;
+  padding:.35rem .6rem; border-radius:8px; font-size:.95rem; white-space:nowrap;
 }
-.site-header .nav a:hover{background:var(--tnl-wash); text-decoration:none}
+.site-header .nav a:hover{ background:var(--tnl-wash); text-decoration:none; }
 .site-header .nav a[aria-current="page"]{
-  font-weight:700;
-  border-bottom:2px solid var(--tnl-red);
-  border-radius:0;
+  font-weight:700; border-bottom:2px solid var(--tnl-red); border-radius:0;
 }
 
-/* Lock pill (no text) */
+/* Lock pill */
 .pill{
   display:inline-block; padding:.15rem .45rem; border-radius:999px; font-size:.7rem; line-height:1;
   border:1px solid var(--tnl-border); background:var(--tnl-wash); color:var(--tnl-muted);
@@ -123,7 +120,10 @@ a:hover{text-decoration:underline}
 .teaser-body h3{margin:.25rem 0; font-size:1rem}
 .teaser-body p{font-size:.85rem; color:var(--tnl-muted); margin:.25rem 0 0}
 
-/* Narratives grid (if/when used) */
+/* Content width helpers */
+.content-narrow{ max-width:var(--tnl-feeds-wrap); margin:0 auto; }
+
+/* Narratives grid (used on narratives page & featured) */
 .grid{display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:1rem}
 .actions{margin-top:1rem; display:flex; gap:.5rem; flex-wrap:wrap}
 
