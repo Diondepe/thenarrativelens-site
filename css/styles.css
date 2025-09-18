@@ -103,8 +103,6 @@ a.teaser-card:hover{
   margin-left:.35rem;
   vertical-align:middle;
 }
-.pill.sub::before {
-  content:"🔒";
-  margin:0;
-}
+.pill.sub::before { content: "🔒"; margin: 0; }
+
 
