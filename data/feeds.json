@@ -1,12 +1,12 @@
 [
   {
-    "id": "BBC — Top Stories-8b45c38220",
+    "id": "BBC — Top Stories-9e789af0f2",
     "source": "BBC — Top Stories",
-    "title": "No outside pressure to drop China spying charges, says CPS head",
-    "summary": "He said his team had considered \"alternative offences\" but concluded \"none were suitable\".",
-    "url": "https://www.bbc.com/news/articles/cgrqxe47gq4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-18T18:19:59Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72d5/live/930fbaa0-94ad-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "title": "First migrant deported to France under 'one in one out' deal",
+    "summary": "The man was removed on Thursday under the \"one in, one out\" agreement and has arrived in Paris.",
+    "url": "https://www.bbc.com/news/articles/ckg653r06jgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-18T19:04:07Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7a9/live/e9aab620-947c-11f0-ad7d-63b0f51784c5.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -14,11 +14,59 @@
   {
     "id": "The Guardian — UK-6dd8c14190",
     "source": "The Guardian — UK",
-    "title": "Cost of private psychology soaring in UK as practitioners turn away clients",
+    "title": "Cost of private psychology soars in UK as practitioners turn away clients",
     "summary": "Prices have risen by 34% since 2022, with 29% of psychologists refusing new patients The cost of seeing private psychologists is soaring and many are so busy they are turning away new clients, research has found. The prices psychologists charge have risen by 34% since 2022 and 12 sessions now cost an average of £1,550, compared with £1,152 just three years ago, according to a survey by myTribe Insurance, which tracks the cost of private medical care. The average cost of a consultation in the UK has risen from £96 in 2022 to £129.20 in 2025. Psychologists in England charge the most (£131) per session and those in Scotland the least (£124). Those in Scotland have the shortest waiting times (16.9 days), and people in Wales the longest (23.8 days). While London clinics charge the most for a consultation – £160 on average – fees at those in the north-east of England are much lower (£107). Continue reading...",
     "url": "https://www.theguardian.com/society/2025/sep/18/private-psychology-cost-soaring-uk-turn-away-clients",
-    "published": "2025-09-18T18:19:51Z",
+    "published": "2025-09-18T18:35:30Z",
     "image_url": "https://i.guim.co.uk/img/media/0289c647cc6a05c696fe024c87d01dbaaa3d5fd1/133_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=d1d15acd2f18a0d6aa3d423aa9cbeb5d",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-bb8c4816db",
+    "source": "Politico — UK",
+    "title": "Italian MEP fears Hungarian ‘revenge’ ahead of immunity vote",
+    "summary": "European Parliament will vote on whether to waive Ilaria Salis' immunity.",
+    "url": "https://www.politico.eu/article/italy-mep-ilaria-salis-immunity-vote-brussels-hungary/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-18T18:31:12Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/18/12373302-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-088d868e04",
+    "source": "The Guardian — UK",
+    "title": "What is quantitative tightening and how has it affected UK finances?",
+    "summary": "The Bank of England’s disposal of the bonds it bought after the 2008 financial crisis is being slowed down The Bank of England has announced that it will scale back its multibillion-pound “quantitative tightening” programme. The process is significant for the UK economy and the public finances. But how will it work? Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/18/what-is-quantitative-tightening-how-affected-uk-finances",
+    "published": "2025-09-18T18:23:15Z",
+    "image_url": "https://i.guim.co.uk/img/media/516368ab22d61a77ea8aeee57ce7434115e1a4c0/756_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=71e49eedbc7e98ad539b374980fc990b",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-070ca8f7c4",
+    "source": "The Guardian — UK",
+    "title": "Mahmood’s views on ‘last-minute’ modern slavery claims fail to consider Home Office tactics",
+    "summary": "Government should fix broken legal aid system that causes delays, says head of immigration lawyers’ association In a strongly worded response to a high court decision blocking the removal of an asylum seeker under the “one in, one out” scheme, Shabana Mahmood railed at “last-minute vexatious claims” and “migrants suddenly deciding that they are a modern slave on the eve of their removal”. The home secretary’s comments cast aspersions on the 25-year-old Eritrean in the individual case and asylum seekers more widely. But those who work in the system believe they do not reflect the reality of the way – and pace at which – the justice system and the framework for identifying victims of modern slavery work. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/18/mahmood-views-modern-slavery-do-not-reflect-reality-say-professionals",
+    "published": "2025-09-18T18:22:16Z",
+    "image_url": "https://i.guim.co.uk/img/media/51d27f1c92f81baa0b52782ee2cf2e7e0c6501b5/881_375_3451_2761/master/3451.jpg?width=140&quality=85&auto=format&fit=max&s=bc286c0fe276735e7a886a366af6cb75",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-8b45c38220",
+    "source": "BBC — Top Stories",
+    "title": "No outside pressure to drop China spying charges against British men, says CPS head",
+    "summary": "He said his team had considered \"alternative offences\" but concluded \"none were suitable\".",
+    "url": "https://www.bbc.com/news/articles/cgrqxe47gq4o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-18T18:19:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72d5/live/930fbaa0-94ad-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -30,19 +78,7 @@
     "summary": "The US president says illegal migration \"destroys countries from within\", as his two-day state visit to the UK comes to a close.",
     "url": "https://www.bbc.com/news/articles/cpd91wjypj9o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-18T18:16:47Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab8a/live/3335d800-94ba-11f0-bdbf-efe153f15d50.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-070ca8f7c4",
-    "source": "The Guardian — UK",
-    "title": "Mahmood’s views on ‘last-minute’ modern slavery claims do not reflect reality, say professionals",
-    "summary": "Government should fix ‘broken legal aid system’ that causes delays, says head of immigration lawyers’ association In a strongly worded response to a high court decision blocking the removal of an asylum seeker under the “one in, one out” scheme, Shabana Mahmood railed at “last-minute vexatious claims” and “migrants suddenly deciding that they are a modern slave on the eve of their removal”. The home secretary’s comments cast aspersions on the 25-year-old Eritrean in the individual case and asylum seekers more widely. But those who work in the system believe they do not reflect the reality of the way – and pace at which – the justice system and the framework for identifying victims of modern slavery work. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/18/mahmood-views-modern-slavery-do-not-reflect-reality-say-professionals",
-    "published": "2025-09-18T18:16:24Z",
-    "image_url": "https://i.guim.co.uk/img/media/51d27f1c92f81baa0b52782ee2cf2e7e0c6501b5/881_375_3451_2761/master/3451.jpg?width=140&quality=85&auto=format&fit=max&s=bc286c0fe276735e7a886a366af6cb75",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/688d/live/10836c20-94c2-11f0-b391-6936825093bd.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -50,8 +86,8 @@
   {
     "id": "The Guardian — UK-e82e1040bc",
     "source": "The Guardian — UK",
-    "title": "Donald Trump’s state visit press conference: what did we learn?",
-    "summary": "Trump’s press conference with Keir Starmer skirted around several potential topics of conflict – here’s what was said Given an hour to speak freely in front of the world’s media, Donald Trump is always likely to spring a surprise or two. His joint press conference with Keir Starmer at Chequers on Thursday was largely a disciplined performance, skirting around several potential topics of conflict. But it was still full of news, telling details, and startling information and opinions. Here are some of the most important, and some you might have missed. Continue reading...",
+    "title": "Putin, Gaza, tariffs and Mandelson: key details from Trump-Starmer press conference",
+    "summary": "The two leaders skirted around areas of potential conflict but there was still plenty of news and startling information Given an hour to speak freely in front of the world’s media, Donald Trump is always likely to spring a surprise or two. His joint press conference with Keir Starmer at Chequers on Thursday was largely a disciplined performance, skirting around several potential topics of conflict. But it was still full of news, telling details, and startling information and opinions. Here are some of the most important, and some you might have missed. Continue reading...",
     "url": "https://www.theguardian.com/us-news/2025/sep/18/donald-trumps-state-visit-press-conference-what-did-we-learn",
     "published": "2025-09-18T17:56:06Z",
     "image_url": "https://i.guim.co.uk/img/media/91451fdfad63609595e33fefcf1bc0b6c73629ac/478_0_4423_3539/master/4423.jpg?width=140&quality=85&auto=format&fit=max&s=0fae9135073019d7fb150bf6e8795ab6",
@@ -162,7 +198,7 @@
     "summary": "The US and UK leaders fielded questions on Ukraine, migration, free speech and Mandelson among other issues.",
     "url": "https://www.bbc.com/news/articles/cre5nylyzd4o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-18T17:09:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04ce/live/42f0c840-94ab-11f0-a170-65cdc956211e.png",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a686/live/a0e12a90-94c3-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -223,18 +259,6 @@
     "url": "https://www.bbc.com/news/articles/c3w54g14gp9o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-18T16:52:59Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2034/live/d8283ec0-94ab-11f0-a170-65cdc956211e.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9e789af0f2",
-    "source": "BBC — Top Stories",
-    "title": "First migrant deported to France under 'one in one out' deal",
-    "summary": "The man was removed on Thursday under the \"one in, one out\" agreement and has arrived in Paris.",
-    "url": "https://www.bbc.com/news/articles/ckg653r06jgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-18T16:48:58Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7a9/live/e9aab620-947c-11f0-ad7d-63b0f51784c5.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -468,18 +492,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-e46d43a104",
-    "source": "Politico — UK",
-    "title": "First Channel migrant deported under UK’s ‘one in, one out’ deal with France",
-    "summary": "One migrant leaves the U.K. after previous efforts at deportations were delayed.",
-    "url": "https://www.politico.eu/article/first-uk-channel-migrant-deported-to-france-under-new-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-18T12:22:58Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/18/13199249.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-f3830ce087",
     "source": "The Guardian — UK",
     "title": "Taxpayers lose £400m as result of investment fund set up by Rishi Sunak",
@@ -571,18 +583,6 @@
     "url": "https://www.theguardian.com/politics/audio/2025/sep/17/trump-on-tour-pomp-pageantry-and-politics-podcast",
     "published": "2025-09-17T17:13:34Z",
     "image_url": "https://i.guim.co.uk/img/media/cc8a38eaca2f72d5bd38f18dd6fc4f5f0b4e6027/757_0_5795_4636/master/5795.jpg?width=140&quality=85&auto=format&fit=max&s=cb103545c5ae656609b4add601eedb57",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-fde624e2f0",
-    "source": "The Guardian — UK",
-    "title": "What is new in UK-US tech deal and what will it mean for the British economy?",
-    "summary": "Nvidia, OpenAI and Microsoft announce investments as part of multibillion-dollar package alongside Trump visit Donald Trump’s arrival in the UK on Tuesday night was accompanied by a multibillion-dollar transatlantic tech agreement . The announcement features some of the biggest names from Silicon Valley: the chipmaker Nvidia; the ChatGPT developer, OpenAI; and Microsoft. Big numbers were involved, with Microsoft hailing its $30bn (£22bn) investment as a major commitment to the UK – and adding, in an apparent swipe at its rivals, that it was not making “empty tech promises”. Continue reading...",
-    "url": "https://www.theguardian.com/technology/2025/sep/17/what-is-new-uk-us-tech-deal-ai-supercomputers-investment-economy",
-    "published": "2025-09-17T14:29:18Z",
-    "image_url": "https://i.guim.co.uk/img/media/de480a6a5dd62313de113f77399f46e9208b8c16/2791_939_5367_4294/master/5367.jpg?width=140&quality=85&auto=format&fit=max&s=a17fa9d0efeffea79d001d06f77754a0",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
