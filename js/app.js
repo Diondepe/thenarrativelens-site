@@ -1,4 +1,3 @@
-
 const $ = (s, r=document) => r.querySelector(s);
 async function loadJSON(path){ const r = await fetch(path); return r.json(); }
 
@@ -6,7 +5,7 @@ async function renderFeeds(){
   const holder = document.querySelector('#feeds-list');
   if(!holder) return;
   try {
-    const data = await loadJSON('/data/feeds.json');
+    const data = await loadJSON('data/feeds.json'); // <- IMPORTANT: no leading slash
     holder.innerHTML = data.slice(0,50).map(item => `
       <article class="card" style="margin:1rem 0;padding:1rem">
         <h3 style="margin:.2rem 0 0">${item.title}</h3>
@@ -17,7 +16,8 @@ async function renderFeeds(){
       </article>
     `).join('');
   } catch (e) {
-    holder.innerHTML = '<p class="badge">No feed data yet. The hourly workflow will populate /data/feeds.json.</p>';
+    holder.innerHTML = '<p class="badge">No feed data yet. The hourly workflow will populate data/feeds.json.</p>';
+    console.error('Feed render error:', e);
   }
 }
 document.addEventListener('DOMContentLoaded', renderFeeds);
