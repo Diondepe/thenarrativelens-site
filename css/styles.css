@@ -252,3 +252,8 @@ h1,h2,h3 {
   content:"🔒";
   margin:0;
 }
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
