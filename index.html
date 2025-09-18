@@ -28,20 +28,31 @@
   <h1>Welcome to The Narrative Lens</h1>
   <p>Explore contentious narratives, timelines, and daily news framing.</p>
   <p>
-    Jump into <a class="btn" href="feeds.html">Narrative News</a> 
+    Jump into <a class="btn" href="feeds.html">Narrative News</a>
     or take the <a class="btn" href="lens-test.html">Lens Test</a>.
   </p>
 
-<section>
-  <h2>Featured Narratives</h2>
-  <div id="featured-narratives" class="grid"></div>
-  <div class="actions">
-    <button id="shuffle-narratives" class="btn">🔄 Shuffle</button>
-    <a class="btn" href="narratives.html">View all Narratives →</a>
-  </div>
-</section>
+  <!-- Featured Narratives -->
+  <section style="margin-top:1.25rem">
+    <h2>Featured Narratives</h2>
+    <div id="featured-narratives" class="grid fade show"></div>
+    <div class="actions">
+      <button id="shuffle-narratives" class="btn">🔄 Shuffle</button>
+      <a class="btn" href="narratives.html">View all Narratives →</a>
+    </div>
+  </section>
+
+  <!-- Latest from Narrative News -->
+  <section style="margin-top:1.75rem">
+    <h2>Latest from Narrative News</h2>
+    <div id="home-feeds" class="teaser-grid" aria-live="polite"></div>
+    <p style="margin-top:.75rem">
+      <a class="btn" href="feeds.html">See all updates</a>
+    </p>
+  </section>
+</main>
 
 <footer class="site-footer">© The Narrative Lens</footer>
-<script src="js/app.js"></script>
+<script src="js/app.js?v=4"></script>
 </body>
 </html>
