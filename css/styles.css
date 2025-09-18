@@ -90,3 +90,21 @@ a.teaser-card:hover{
   -webkit-box-orient: vertical;
   overflow:hidden;
 }
+/* --- Subscription pill --- */
+.pill {
+  display:inline-block;
+  padding:.15rem .45rem;
+  border-radius:999px;
+  font-size:.7rem;
+  line-height:1;
+  border:1px solid var(--tnl-border);
+  background:var(--tnl-wash);
+  color:var(--tnl-muted);
+  margin-left:.35rem;
+  vertical-align:middle;
+}
+.pill.sub::before {
+  content:"🔒";
+  margin-right:.25rem;
+  opacity:.9;
+}
