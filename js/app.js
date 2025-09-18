@@ -3,7 +3,11 @@ const $ = (s, r=document) => r.querySelector(s);
 const HOME_LIMIT = 6;     // how many items to show on the homepage
 const FEEDS_LIMIT = 50;   // how many items to show on feeds.html
 
-async function loadJSON(path){ const r = await fetch(path, { cache: 'no-store' }); return r.json(); }
+async function loadJSON(path){
+  const r = await fetch(path, { cache: 'no-store' });
+  if (!r.ok) throw new Error(`Failed to fetch ${path}: ${r.status}`);
+  return r.json();
+}
 
 function itemCardHTML(item){
   return `
@@ -19,18 +23,21 @@ function itemCardHTML(item){
 
 function itemTeaserHTML(item){
   return `
-    <a href="${item.url}" target="_blank" rel="noopener" class="card" style="display:block;padding:0;overflow:hidden;margin:.5rem 0;text-decoration:none">
-      <div style="padding:1rem">
-        <div class="meta"><span class="badge">${item.source}</span><span>${new Date(item.published).toLocaleString()}</span></div>
-        <h3 style="margin:.4rem 0 0;color:var(--tnl-text);font-size:1rem;line-height:1.3">${item.title}</h3>
-        ${item.summary ? `<p style="color:var(--tnl-muted);margin:.4rem 0 0">${item.summary}</p>` : ''}
+    <a href="${item.url}" target="_blank" rel="noopener" class="teaser-card">
+      ${item.image_url ? `<img class="teaser-thumb" src="${item.image_url}" alt="">` : ''}
+      <div class="teaser-body">
+        <div class="meta" style="font-size:.75rem;margin-bottom:.25rem">
+          <span class="badge">${item.source}</span>
+          <span>${new Date(item.published).toLocaleDateString()}</span>
+        </div>
+        <h3>${item.title}</h3>
+        ${item.summary ? `<p>${item.summary}</p>` : ''}
       </div>
     </a>
   `;
 }
 
 async function render(){
-  // Load once, render wherever needed
   let data;
   try {
     data = await loadJSON('data/feeds.json'); // IMPORTANT: relative path
