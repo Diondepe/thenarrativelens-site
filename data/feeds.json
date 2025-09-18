@@ -1,5 +1,77 @@
 [
   {
+    "id": "BBC — Top Stories-ef8c542f40",
+    "source": "BBC — Top Stories",
+    "title": "Trump diverted and forced to swap helicopters on way to Stansted",
+    "summary": "Marine One was diverted while ferrying Donald Trump from Chequers to Stansted Airport.",
+    "url": "https://www.bbc.com/news/articles/c1wg8nq0p3ro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-18T22:01:00Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ddc/live/03e7e780-94d5-11f0-aab8-13d35d7e17eb.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d42844adef",
+    "source": "BBC — Top Stories",
+    "title": "Ros Atkins on… What Kimmel's suspension means for free speech in the US",
+    "summary": "The BBC's analysis editor looks at a decision that leading Democrats have called \"an abuse of power\".",
+    "url": "https://www.bbc.com/news/videos/crme42nr8exo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-18T21:38:29Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a07/live/793f7ea0-94d3-11f0-84c8-99de564f0440.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-154aa52dc9",
+    "source": "Politico — UK",
+    "title": "Trump asks the Supreme Court to let him fire Federal Reserve board member Lisa Cook",
+    "summary": "The president’s attempt to fire Cook marks his most significant effort to reshape the central bank board.",
+    "url": "https://www.politico.com/news/2025/09/18/supreme-court-lisa-cook-federal-reserve-board-appeal-00571216?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-18T21:35:43Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-f3e9d9a29c",
+    "source": "The Guardian — UK",
+    "title": "Corbyn clashes with Sultana over membership portal as split emerges in new party",
+    "summary": "Ex-Labour leader says ‘legal advice being taken’ over issue, while Sultana claims ‘sexist boys’ club’ is running party An extraordinary split has opened between Jeremy Corbyn and Zarah Sultana in the formation of their new leftwing party, with the former Labour leader confirming a referral to the Information Commissioner’s Office over an unauthorised membership portal promoted by his co-leader. Corbyn said the site had been set up without approval, describing it as a “false membership system” that collected money and data without authorisation. He confirmed the party had referred the matter to the ICO and urged supporters to ignore an earlier email requesting funds and cancel any payments. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/18/jeremy-corbyn-clashes-zarah-sultana-your-party-split",
+    "published": "2025-09-18T21:34:01Z",
+    "image_url": "https://i.guim.co.uk/img/media/94abb3292ccccd5e8c9f880b6d6d3e0675d333b6/423_0_3335_2668/master/3335.jpg?width=140&quality=85&auto=format&fit=max&s=b74eec01a761838a2dddb8a277f9a81f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-864852ee31",
+    "source": "BBC — Top Stories",
+    "title": "MI6 launches dark web portal to attract spies in Russia",
+    "summary": "Outgoing MI6 chief Sir Richard Moore is expected to confirm details in a speech in Istanbul.",
+    "url": "https://www.bbc.com/news/articles/c0r0vk1j4j8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-18T21:30:10Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f69b/live/78f27440-94cc-11f0-9b53-d3479fe92ada.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-bdaf51e99b",
+    "source": "BBC — Top Stories",
+    "title": "Trump suggests Starmer could use military to control UK borders",
+    "summary": "The US president says illegal migration \"destroys countries from within\", as his two-day state visit to the UK comes to a close.",
+    "url": "https://www.bbc.com/news/articles/cpd91wjypj9o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-18T21:23:45Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f3/live/52f9bb30-94cd-11f0-b391-6936825093bd.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-70b83ba73b",
     "source": "The Guardian — UK",
     "title": "Trump tells Britain to ‘call out the military’ to control its borders",
@@ -72,18 +144,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-71d22573f8",
-    "source": "BBC — Top Stories",
-    "title": "ABC takes Jimmy Kimmel off air over Charlie Kirk comments",
-    "summary": "The late-night host criticised the Republican response to the killing and his suspension came after pressure from the regulator.",
-    "url": "https://www.bbc.com/news/articles/c203n52x1y9o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-18T18:40:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f6/live/3e5c43e0-941a-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-6dd8c14190",
     "source": "The Guardian — UK",
     "title": "Cost of private psychology soars in UK as practitioners turn away clients",
@@ -132,30 +192,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-8b45c38220",
-    "source": "BBC — Top Stories",
-    "title": "No outside pressure to drop China spying charges against British men, says CPS head",
-    "summary": "He said his team had considered \"alternative offences\" but concluded \"none were suitable\".",
-    "url": "https://www.bbc.com/news/articles/cgrqxe47gq4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-18T18:19:59Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72d5/live/930fbaa0-94ad-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-bdaf51e99b",
-    "source": "BBC — Top Stories",
-    "title": "Trump suggests Starmer could use military to control UK borders",
-    "summary": "The US president says illegal migration \"destroys countries from within\", as his two-day state visit to the UK comes to a close.",
-    "url": "https://www.bbc.com/news/articles/cpd91wjypj9o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-18T18:16:47Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f3/live/52f9bb30-94cd-11f0-b391-6936825093bd.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e82e1040bc",
     "source": "The Guardian — UK",
     "title": "Putin, Gaza, tariffs and Mandelson: key details from Trump-Starmer press conference",
@@ -163,18 +199,6 @@
     "url": "https://www.theguardian.com/us-news/2025/sep/18/donald-trumps-state-visit-press-conference-what-did-we-learn",
     "published": "2025-09-18T17:56:06Z",
     "image_url": "https://i.guim.co.uk/img/media/91451fdfad63609595e33fefcf1bc0b6c73629ac/478_0_4423_3539/master/4423.jpg?width=140&quality=85&auto=format&fit=max&s=0fae9135073019d7fb150bf6e8795ab6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-f3e9d9a29c",
-    "source": "The Guardian — UK",
-    "title": "Corbyn clashes with Sultana over membership portal as split emerges in new party",
-    "summary": "Ex-Labour leader says ‘legal advice being taken’ over issue, while Sultana claims ‘sexist boys’ club’ is running party An extraordinary split has opened between Jeremy Corbyn and Zarah Sultana in the formation of their new leftwing party, with the former Labour leader confirming a referral to the Information Commissioner’s Office over an unauthorised membership portal promoted by his co-leader. Corbyn said the site had been set up without approval, describing it as a “false membership system” that collected money and data without authorisation. He confirmed the party had referred the matter to the ICO and urged supporters to ignore an earlier email requesting funds and cancel any payments. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/18/jeremy-corbyn-clashes-zarah-sultana-your-party-split",
-    "published": "2025-09-18T17:42:35Z",
-    "image_url": "https://i.guim.co.uk/img/media/94abb3292ccccd5e8c9f880b6d6d3e0675d333b6/423_0_3335_2668/master/3335.jpg?width=140&quality=85&auto=format&fit=max&s=b74eec01a761838a2dddb8a277f9a81f",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -384,18 +408,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-b10d7389d2",
-    "source": "Politico — UK",
-    "title": "Empty-handed EU left off list for UN climate bash",
-    "summary": "Bloc misses provisional line-up for climate summit after failing on 2035 target, while China makes the list.",
-    "url": "https://www.politico.eu/article/eu-off-list-un-climate-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-18T16:25:24Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/18/GettyImages-2208761166-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-ec8eefe9a7",
     "source": "BBC — Top Stories",
     "title": "Royals, Maga and tech CEOs: What we learned from state banquet guest list",
@@ -432,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-5f5d43a918",
-    "source": "BBC — Top Stories",
-    "title": "Planning approvals for new homes at record low, figures show",
-    "summary": "Planning approvals for new homes were at their lowest on record during Labour’s first year in office, figures show",
-    "url": "https://www.bbc.com/news/articles/cgmzwk4yd1eo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-18T14:39:00Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf96/live/8a7cd050-949c-11f0-ba1c-7d82afe5b321.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-efb67d00b1",
     "source": "The Guardian — UK",
     "title": "UK faces years of anaemic growth amid tax and regulation burden, says Next",
@@ -463,18 +463,6 @@
     "url": "https://www.bbc.com/news/articles/cx2nllgl3q7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-18T14:18:36Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bec1/live/8636db80-9497-11f0-8e88-0f11af0637c1.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-66a0ec9839",
-    "source": "BBC — Top Stories",
-    "title": "Keely Hodgkinson makes winning start to 800m world title bid in Tokyo",
-    "summary": "Great Britain's Olympic champion Keely Hodgkinson makes a winning start to her bid for a first world 800m title in Tokyo.",
-    "url": "https://www.bbc.com/sport/athletics/articles/cevz0wmrz4eo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-18T13:54:56Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc2d/live/27d859d0-949a-11f0-b391-6936825093bd.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -559,6 +547,18 @@
     "url": "https://www.bbc.com/sport/tennis/articles/cz691128dn6o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-18T08:59:32Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dde/live/3e9b8440-9471-11f0-84c8-99de564f0440.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-092fabc4ed",
+    "source": "BBC — Top Stories",
+    "title": "Fashion risks going backwards on diversity, says ex-British Vogue editor",
+    "summary": "Edward Enninful says being \"super-thin\" and European is often seen as \"the norm\" again.",
+    "url": "https://www.bbc.com/news/articles/c3e758v449yo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-18T05:00:33Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e2e/live/faf918a0-9462-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
