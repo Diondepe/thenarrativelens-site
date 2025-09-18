@@ -79,3 +79,30 @@ async function render(){
 }
 
 document.addEventListener('DOMContentLoaded', render);
+// Load narratives
+async function loadNarratives() {
+  const container = document.getElementById('narratives-list');
+  if (!container) return;
+
+  try {
+    const res = await fetch('data/narratives.json');
+    const narratives = await res.json();
+
+    narratives.forEach(n => {
+      const card = document.createElement('article');
+      card.className = 'card';
+
+      card.innerHTML = `
+        ${n.image_url ? `<img class="thumb" src="${n.image_url}" alt="${n.title}">` : ""}
+        <h2>${n.title}</h2>
+        <p>${n.summary}</p>
+        <small>${n.category} · ${new Date(n.published).toLocaleDateString()}</small>
+      `;
+
+      container.appendChild(card);
+    });
+  } catch (err) {
+    console.error('Error loading narratives:', err);
+  }
+}
+loadNarratives();
