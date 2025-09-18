@@ -222,3 +222,21 @@ a:hover{text-decoration:underline}
   font-size: 1.1rem;
   margin: 0 0 0.5rem;
 }
+:root{
+  /* ↓ make feed column a bit narrower to reduce stretching of low-res images */
+  --tnl-feeds-wrap: 820px;
+}
+
+/* brand image and favicon next to it */
+header .brand img.banner{ height:84px; max-width:100%; }
+.favicon-inline{ width:28px; height:28px; margin-left:.5rem; opacity:.95; }
+
+/* subscribe with small icon */
+.btn.with-icon{ display:inline-flex; align-items:center; gap:.4rem; }
+.mini-icon{ width:18px; height:18px; border-radius:4px; }
+
+/* narrow column helper for feeds */
+.content-narrow{ max-width:var(--tnl-feeds-wrap); margin:0 auto; }
+
+/* uniform thumbs; slightly smaller to avoid blur */
+.card img.thumb{ max-height:300px; width:100%; aspect-ratio:16/9; object-fit:cover; }
