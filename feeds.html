@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Narrative News — The Narrative Lens</title>
   <base href="https://diondepe.github.io/thenarrativelens-site/">
-  <link rel="icon" href="assets/favicon.ico">
+  <link rel="icon" type="image/png" href="assets/favicon-redesigned.png">
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
@@ -31,7 +31,6 @@
         <a href="index.html">Home</a>
         <a href="narratives.html">Narratives</a>
         <a href="feeds.html" aria-current="page">Narrative News</a>
-        <!-- 🔒 only on Lens-Timeline and Lens-Actors -->
         <a href="timeline.html">Lens-Timeline <span class="pill sub"></span></a>
         <a href="videos.html">Lens-Video</a>
         <a href="actors.html">Lens-Actors <span class="pill sub"></span></a>
@@ -42,9 +41,9 @@
   </div>
 </header>
 
-
 <main class="container" style="padding:1rem 1rem 2rem">
-  <div class="content-narrow"> <!-- keeps column narrower to avoid upscaling -->
+  <!-- Narrow column reduces upscaling → less pixelation -->
+  <div class="content-narrow">
     <h1>Narrative News</h1>
     <div id="feeds-list" aria-live="polite"></div>
   </div>
