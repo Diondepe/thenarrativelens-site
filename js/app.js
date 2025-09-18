@@ -2,6 +2,7 @@ const $ = (s, r=document) => r.querySelector(s);
 
 const HOME_LIMIT = 6;     // how many items to show on the homepage
 const FEEDS_LIMIT = 50;   // how many items to show on feeds.html
+const FALLBACK_IMG = 'assets/og-image.png'; // simple local fallback
 
 async function loadJSON(path){
   const r = await fetch(path, { cache: 'no-store' });
@@ -9,12 +10,23 @@ async function loadJSON(path){
   return r.json();
 }
 
+function imgFor(item){
+  // Prefer a small thumbnail if available, else full image; if none, null
+  return item.thumb_url || item.image_url || null;
+}
+
 function itemCardHTML(item){
+  const img = imgFor(item);
   return `
     <article class="card" style="margin:1rem 0;padding:1rem">
       <h3 style="margin:.2rem 0 0">${item.title}</h3>
       <div class="meta"><span class="badge">${item.source}</span><span>${new Date(item.published).toLocaleString()}</span></div>
-      ${item.image_url ? `<img src="${item.image_url}" alt="" style="width:100%;height:auto;border-radius:10px;margin:.5rem 0">` : ''}
+      ${
+        img
+          ? `<img src="${img}" alt="" referrerpolicy="no-referrer"
+                 style="width:100%;height:auto;border-radius:10px;margin:.5rem 0;display:block">`
+          : ''
+      }
       <p>${item.summary ?? ''}</p>
       <a class="btn" href="${item.url}" target="_blank" rel="noopener">Read source</a>
     </article>
@@ -22,9 +34,10 @@ function itemCardHTML(item){
 }
 
 function itemTeaserHTML(item){
+  const img = imgFor(item) || FALLBACK_IMG; // ensure we show something
   return `
     <a href="${item.url}" target="_blank" rel="noopener" class="teaser-card">
-      ${item.image_url ? `<img class="teaser-thumb" src="${item.image_url}" alt="">` : ''}
+      <img class="teaser-thumb" src="${img}" alt="" loading="lazy" referrerpolicy="no-referrer">
       <div class="teaser-body">
         <div class="meta" style="font-size:.75rem;margin-bottom:.25rem">
           <span class="badge">${item.source}</span>
