@@ -1,21 +1,82 @@
 [
   {
-    "id": "uk-election-media",
-    "title": "UK Election Framing Wars",
-    "summary": "How papers framed crime, immigration, and spending.",
-    "tags": [
-      "Politics",
-      "UK"
-    ],
-    "bias": "mixed",
+    "id": "narrative-001",
+    "title": "Brexit and the UK’s Future",
+    "summary": "Exploring the political, economic, and cultural narratives around Brexit since 2016.",
     "category": "Politics",
-    "image_url": "/assets/story-images/uk1.jpg",
-    "thumb_url": "/assets/story-images/uk1-400.jpg",
-    "videos": [],
-    "actors": [
-      "Sunak",
-      "Starmer"
-    ],
-    "last_updated": "2025-09-18T08:00:00Z"
+    "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/17C7/production/_115354748_gettyimages-1229892600.jpg",
+    "published": "2025-09-18T00:00:00Z"
+  },
+  {
+    "id": "narrative-002",
+    "title": "Climate Crisis Urgency",
+    "summary": "Competing storylines about climate action, denial, and adaptation worldwide.",
+    "category": "Environment",
+    "image_url": "https://i.guim.co.uk/img/media/0f7df29f1464.jpg",
+    "published": "2025-09-17T00:00:00Z"
+  },
+  {
+    "id": "narrative-003",
+    "title": "Populism and Democracy",
+    "summary": "The rise of populist leaders and its impact on democratic institutions.",
+    "category": "Politics",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop/2025/05/populism.jpg",
+    "published": "2025-09-16T00:00:00Z"
+  },
+  {
+    "id": "narrative-004",
+    "title": "War in Ukraine",
+    "summary": "Narratives of sovereignty, NATO expansion, and peace negotiations.",
+    "category": "Conflict",
+    "image_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/14A6B/production/_124026956_mediaitem124026955.jpg",
+    "published": "2025-09-15T00:00:00Z"
+  },
+  {
+    "id": "narrative-005",
+    "title": "US–China Rivalry",
+    "summary": "Trade, technology, and security tensions shaping the 21st century.",
+    "category": "Geopolitics",
+    "image_url": "https://i.guim.co.uk/img/media/chinaus.jpg",
+    "published": "2025-09-14T00:00:00Z"
+  },
+  {
+    "id": "narrative-006",
+    "title": "Misinformation & Media Trust",
+    "summary": "Debates over fake news, censorship, and the power of platforms.",
+    "category": "Media",
+    "image_url": "https://ichef.bbci.co.uk/news/976/media-trust.jpg",
+    "published": "2025-09-13T00:00:00Z"
+  },
+  {
+    "id": "narrative-007",
+    "title": "Middle East Conflicts",
+    "summary": "From Gaza to Syria, shifting narratives on peace and violence.",
+    "category": "Conflict",
+    "image_url": "https://i.guim.co.uk/img/media/middleeast.jpg",
+    "published": "2025-09-12T00:00:00Z"
+  },
+  {
+    "id": "narrative-008",
+    "title": "Economic Inequality",
+    "summary": "The growing divide between the wealthy and the working class.",
+    "category": "Economy",
+    "image_url": "https://ichef.bbci.co.uk/news/976/equality.jpg",
+    "published": "2025-09-11T00:00:00Z"
+  },
+  {
+    "id": "narrative-009",
+    "title": "Technology & AI Ethics",
+    "summary": "Balancing innovation, privacy, and human rights in the AI era.",
+    "category": "Technology",
+    "image_url": "https://i.guim.co.uk/img/media/aiethics.jpg",
+    "published": "2025-09-10T00:00:00Z"
+  },
+  {
+    "id": "narrative-010",
+    "title": "Global Migration",
+    "summary": "Conflicting stories on refugees, borders, and national identity.",
+    "category": "Society",
+    "image_url": "https://ichef.bbci.co.uk/news/976/migration.jpg",
+    "published": "2025-09-09T00:00:00Z"
   }
 ]
