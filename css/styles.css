@@ -45,13 +45,14 @@ a.teaser-card:hover{
   background:rgba(255,255,255,0.03);
 }
 .teaser-thumb{
-  width:100px;
+  width:120px;              /* a bit larger so it’s obvious */
   flex-shrink:0;
   aspect-ratio:16/9;
   object-fit:cover;
   border-radius:8px;
   background:#222;
   margin:.75rem 0 .75rem .75rem;
+  display:block;
 }
 .teaser-body{
   flex:1;
