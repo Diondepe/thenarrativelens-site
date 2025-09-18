@@ -1,5 +1,17 @@
 [
   {
+    "id": "The Guardian — UK-70b83ba73b",
+    "source": "The Guardian — UK",
+    "title": "Trump tells Britain to ‘call out the military’ to control its borders",
+    "summary": "US president ends second state visit with warning that illegal migration could destroy the UK Donald Trump has told Britain it should “call out the military” to control its borders during a tightly controlled summit in which Keir Starmer ducked major flashpoints with the US president. During a potentially difficult two-day state visit for the government, Trump has for the most part avoided exploiting tensions, although he described the UK’s plan to recognise a Palestinian state as “one of our few disagreements”. Continue reading...",
+    "url": "https://www.theguardian.com/us-news/2025/sep/18/trump-tells-britain-to-call-out-the-military-to-control-its-borders",
+    "published": "2025-09-18T20:56:54Z",
+    "image_url": "https://i.guim.co.uk/img/media/5a33a950d632a8ce0844841baac4123d986fb98a/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=52da4799dab79abe240049b95c554d56",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-b4759f062e",
     "source": "BBC — Top Stories",
     "title": "Sarah Smith: Trump visit showed UK's warm relations - and limited influence",
@@ -19,18 +31,6 @@
     "url": "https://www.bbc.com/news/articles/cgkn3v1e7g3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-18T19:59:22Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e889/live/b8438490-688f-11f0-8dbd-f3d32ebd3327.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-70b83ba73b",
-    "source": "The Guardian — UK",
-    "title": "Trump tells Britain to ‘call out the military’ to control its borders",
-    "summary": "US president ends second state visit with warning that illegal migration could destroy the UK Donald Trump has told Britain it should “call out the military” to control its borders during a tightly controlled summit in which Keir Starmer ducked major flashpoints with the US president. During a potentially difficult two-day state visit for the government, Trump has for the most part avoided exploiting tensions, although he described the UK’s plan to recognise a Palestinian state as “one of our few disagreements”. Continue reading...",
-    "url": "https://www.theguardian.com/us-news/2025/sep/18/trump-tells-britain-to-call-out-the-military-to-control-its-borders",
-    "published": "2025-09-18T19:46:21Z",
-    "image_url": "https://i.guim.co.uk/img/media/5a33a950d632a8ce0844841baac4123d986fb98a/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=52da4799dab79abe240049b95c554d56",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -72,6 +72,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-71d22573f8",
+    "source": "BBC — Top Stories",
+    "title": "ABC takes Jimmy Kimmel off air over Charlie Kirk comments",
+    "summary": "The late-night host criticised the Republican response to the killing and his suspension came after pressure from the regulator.",
+    "url": "https://www.bbc.com/news/articles/c203n52x1y9o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-18T18:40:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f6/live/3e5c43e0-941a-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-6dd8c14190",
     "source": "The Guardian — UK",
     "title": "Cost of private psychology soars in UK as practitioners turn away clients",
@@ -87,7 +99,7 @@
     "id": "Politico — UK-bb8c4816db",
     "source": "Politico — UK",
     "title": "Italian MEP fears Hungarian ‘revenge’ ahead of immunity vote",
-    "summary": "European Parliament will vote on whether to waive Ilaria Salis' immunity.",
+    "summary": "The European Parliament will vote on whether to waive Ilaria Salis' immunity.",
     "url": "https://www.politico.eu/article/italy-mep-ilaria-salis-immunity-vote-brussels-hungary/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-18T18:31:12Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/18/12373302-scaled.jpg",
@@ -113,7 +125,7 @@
     "title": "Mahmood’s views on ‘last-minute’ modern slavery claims fail to consider Home Office tactics",
     "summary": "Government should fix broken legal aid system that causes delays, says head of immigration lawyers’ association In a strongly worded response to a high court decision blocking the removal of an asylum seeker under the “one in, one out” scheme, Shabana Mahmood railed at “last-minute vexatious claims” and “migrants suddenly deciding that they are a modern slave on the eve of their removal”. The home secretary’s comments cast aspersions on the 25-year-old Eritrean in the individual case and asylum seekers more widely. But those who work in the system believe they do not reflect the reality of the way – and pace at which – the justice system and the framework for identifying victims of modern slavery work. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/sep/18/mahmood-views-modern-slavery-do-not-reflect-reality-say-professionals",
-    "published": "2025-09-18T18:22:16Z",
+    "published": "2025-09-18T18:22:15Z",
     "image_url": "https://i.guim.co.uk/img/media/51d27f1c92f81baa0b52782ee2cf2e7e0c6501b5/881_375_3451_2761/master/3451.jpg?width=140&quality=85&auto=format&fit=max&s=bc286c0fe276735e7a886a366af6cb75",
     "thumb_url": null,
     "category": "Politics",
@@ -138,7 +150,7 @@
     "summary": "The US president says illegal migration \"destroys countries from within\", as his two-day state visit to the UK comes to a close.",
     "url": "https://www.bbc.com/news/articles/cpd91wjypj9o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-18T18:16:47Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/688d/live/10836c20-94c2-11f0-b391-6936825093bd.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f3/live/52f9bb30-94cd-11f0-b391-6936825093bd.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -159,7 +171,7 @@
     "id": "The Guardian — UK-f3e9d9a29c",
     "source": "The Guardian — UK",
     "title": "Corbyn clashes with Sultana over membership portal as split emerges in new party",
-    "summary": "Ex-Labour leader says ‘legal advice being taken’ over issue, while Sultana also claims ‘sexist boys’ club’ is running party An extraordinary split has opened between Jeremy Corbyn and Zarah Sultana in the formation of their new leftwing party, with the former Labour leader suggesting he will take legal action over an unauthorised membership portal promoted by his co-leader. Sultana claimed the party was being run by a “sexist boys’ club” and suggested there were deep disagreements over how to launch party membership – including with the four other MPs in Corbyn’s Independent Alliance. Continue reading...",
+    "summary": "Ex-Labour leader says ‘legal advice being taken’ over issue, while Sultana claims ‘sexist boys’ club’ is running party An extraordinary split has opened between Jeremy Corbyn and Zarah Sultana in the formation of their new leftwing party, with the former Labour leader confirming a referral to the Information Commissioner’s Office over an unauthorised membership portal promoted by his co-leader. Corbyn said the site had been set up without approval, describing it as a “false membership system” that collected money and data without authorisation. He confirmed the party had referred the matter to the ICO and urged supporters to ignore an earlier email requesting funds and cancel any payments. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/18/jeremy-corbyn-clashes-zarah-sultana-your-party-split",
     "published": "2025-09-18T17:42:35Z",
     "image_url": "https://i.guim.co.uk/img/media/94abb3292ccccd5e8c9f880b6d6d3e0675d333b6/423_0_3335_2668/master/3335.jpg?width=140&quality=85&auto=format&fit=max&s=b74eec01a761838a2dddb8a277f9a81f",
@@ -547,18 +559,6 @@
     "url": "https://www.bbc.com/sport/tennis/articles/cz691128dn6o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-18T08:59:32Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dde/live/3e9b8440-9471-11f0-84c8-99de564f0440.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-092fabc4ed",
-    "source": "BBC — Top Stories",
-    "title": "Fashion risks going backwards on diversity, says ex-British Vogue editor",
-    "summary": "Edward Enninful says being \"super-thin\" and European is often seen as \"the norm\" again.",
-    "url": "https://www.bbc.com/news/articles/c3e758v449yo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-18T05:00:33Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e2e/live/faf918a0-9462-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
