@@ -55,6 +55,7 @@ async function loadNarratives() {
 loadNarratives();
 
 // Load featured narratives on home
+// Load featured narratives on home (random 3 each time)
 async function loadFeaturedNarratives() {
   const container = document.getElementById('featured-narratives');
   if (!container) return;
@@ -63,8 +64,11 @@ async function loadFeaturedNarratives() {
     const res = await fetch('data/narratives.json');
     const narratives = await res.json();
 
-    // Take first 3 as featured
-    narratives.slice(0, 3).forEach(n => {
+    // Shuffle array
+    const shuffled = narratives.sort(() => 0.5 - Math.random());
+
+    // Pick first 3
+    shuffled.slice(0, 3).forEach(n => {
       const card = document.createElement('article');
       card.className = 'card';
 
