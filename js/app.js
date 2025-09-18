@@ -34,10 +34,15 @@ function itemCardHTML(item){
 }
 
 function itemTeaserHTML(item){
-  const img = imgFor(item) || FALLBACK_IMG; // ensure we show something
+  const img = (item.thumb_url || item.image_url || 'assets/og-image.png');
   return `
     <a href="${item.url}" target="_blank" rel="noopener" class="teaser-card">
-      <img class="teaser-thumb" src="${img}" alt="" loading="lazy" referrerpolicy="no-referrer">
+      <img class="teaser-thumb"
+           src="${img}"
+           alt=""
+           loading="lazy"
+           referrerpolicy="no-referrer"
+           onerror="this.onerror=null;this.src='assets/og-image.png'">
       <div class="teaser-body">
         <div class="meta" style="font-size:.75rem;margin-bottom:.25rem">
           <span class="badge">${item.source}</span>
@@ -49,6 +54,7 @@ function itemTeaserHTML(item){
     </a>
   `;
 }
+
 
 async function render(){
   let data;
