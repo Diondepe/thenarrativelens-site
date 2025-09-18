@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
+
 <header class="site-header">
   <div class="container topbar">
     <a class="brand" href="index.html">
@@ -18,13 +19,12 @@
       <a href="subscribe.html" class="btn primary">Subscribe</a>
     </div>
   </div>
-
   <div class="navbar">
     <div class="container navbar-inner">
       <nav class="nav">
         <a href="index.html">Home</a>
         <a href="narratives.html">Narratives</a>
-        <a href="feeds.html">Narrative News</a>
+        <a href="feeds.html" aria-current="page">Narrative News</a>
         <a href="timeline.html">Lens-Timeline</a>
         <a href="videos.html">Lens-Video <span class="pill sub"></span></a>
         <a href="actors.html">Lens-Actors <span class="pill sub"></span></a>
@@ -35,13 +35,12 @@
   </div>
 </header>
 
-
-<main class="container">
+<main class="container" style="padding:1rem 1rem 2rem">
   <h1>Narrative News</h1>
   <div id="feeds-list" aria-live="polite"></div>
 </main>
 
 <footer class="site-footer">© The Narrative Lens</footer>
-<script src="js/app.js?v=4"></script>
+<script src="js/app.js?v=5"></script>
 </body>
 </html>
