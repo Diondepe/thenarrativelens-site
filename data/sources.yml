@@ -1,0 +1,25 @@
+feeds:
+  - source: BBC — Top Stories
+    url: https://feeds.bbci.co.uk/news/rss.xml
+    category: Politics
+    limit: 20
+  - source: The Guardian — UK
+    url: https://www.theguardian.com/uk-news/rss
+    category: Politics
+    limit: 20
+  - source: Reuters — World
+    url: https://www.reuters.com/world/rss
+    category: Politics
+    limit: 20
+  - source: Financial Times — World
+    url: https://www.ft.com/world/rss
+    category: Economics
+    limit: 15
+  - source: AP — Top News
+    url: https://apnews.com/hub/ap-top-news?utm_source=apnews.com&utm_medium=referral&utm_campaign=ap-rss
+    category: Politics
+    limit: 15
+  - source: Politico — UK
+    url: https://www.politico.eu/feed/
+    category: Politics
+    limit: 15

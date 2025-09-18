@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Subscribe — The Narrative Lens</title>
+  <link rel="stylesheet" href="/css/styles.css" />
+  <style>
+    .badge-demo{display:inline-block;padding:.25rem .5rem;border-radius:999px;font-size:.8rem;font-weight:600;background:#ffe7a3;color:#8a5b00}
+    .note{background:#fff7dc;border:1px solid #f0d995;border-radius:.5rem;padding:1rem;margin:.75rem 0;color:#5c4800}
+    form.subscribe{display:grid;gap:.75rem;max-width:520px}
+    form.subscribe input, form.subscribe select, form.subscribe button, form.subscribe textarea{width:100%;padding:.7rem;border:1px solid #ddd;border-radius:.5rem;font:inherit}
+    .muted{color:#666;font-size:.9rem}
+    .success{background:#e6ffec;border:1px solid #b6f6c8;color:#1c7c3a;padding:.75rem;border-radius:.5rem;margin-top:.5rem;display:none}
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/"><img class="banner" src="/assets/tnl-banner-matrix.png" alt="The Narrative Lens"></a>
+    <nav class="site-nav">
+      <a href="/index.html">Home</a>
+      <a href="/subscribe.html" aria-current="page">Subscribe</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <h1>Subscribe</h1>
+    <p class="muted">Get our digest of the day’s most contentious narratives, headlines, and framing.</p>
+
+    <span class="badge-demo">Demo form</span>
+    <div class="note">
+      <strong>No Mailchimp.</strong> This page is a <em>demo-only</em> form to show the UX.
+      Backend delivery will use <strong>Postmark SMTP</strong> in the workflow (planned). Submissions here do not create or send emails yet.
+    </div>
+
+    <form class="subscribe" id="subscribe-demo-form">
+      <label>Name
+        <input name="name" type="text" placeholder="e.g. Alex" autocomplete="name">
+      </label>
+      <label>Email <span style="color:#c00">*</span>
+        <input name="email" type="email" required placeholder="you@example.com" autocomplete="email">
+      </label>
+      <label>Frequency
+        <select name="freq"><option value="daily" selected>Daily</option><option value="weekly">Weekly</option></select>
+      </label>
+      <label>Notes (optional)
+        <textarea name="notes" rows="3" placeholder="Any preferences…"></textarea>
+      </label>
+      <label class="muted" style="display:flex;gap:.5rem;align-items:flex-start">
+        <input type="checkbox" required> I consent to receive emails from The Narrative Lens. I can unsubscribe anytime.
+      </label>
+      <button type="submit">Submit (Demo)</button>
+      <div id="demo-success" class="success">Got it — this is a demo. No data was sent. Postmark integration is coming in the workflow.</div>
+      <p class="muted">Questions? Email <a href="mailto:hello@thenarrativelens.example">hello@thenarrativelens.example</a></p>
+    </form>
+  </main>
+
+  <script>
+    document.getElementById('subscribe-demo-form').addEventListener('submit', function (e) {
+      e.preventDefault();
+      const ok = document.getElementById('demo-success'); ok.style.display = 'block';
+      const data = Object.fromEntries(new FormData(e.target).entries());
+      console.info('[Demo] Captured (not sent):', data);
+      e.target.reset();
+    });
+  </script>
+</body>
+</html>

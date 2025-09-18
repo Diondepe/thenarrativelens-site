@@ -1,0 +1,11 @@
+[
+  {
+    "id": "q1",
+    "prompt": "Which headline is more sensational?",
+    "options": [
+      "A",
+      "B"
+    ],
+    "answer": null
+  }
+]
