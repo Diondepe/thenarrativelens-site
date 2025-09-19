@@ -1,42 +1,27 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
+  <meta charset="utf-8" />
   <title>The Narrative Lens</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="icon" href="assets/favicon.png">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="assets/favicon.png" />
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <!-- Top Banner -->
+  <!-- Header -->
   <header class="tnl-header">
     <div class="brand">
-      <!-- Mini logo (favicon-style) -->
-      <img class="brand-mini" src="assets/mini-logo.png" alt="TNL mini logo">
-      <!-- Full logo -->
-      <img class="brand-full" src="assets/logo.png" alt="The Narrative Lens">
+      <img class="brand-mini" src="assets/mini-logo.png" alt="TNL mini logo" />
+      <img class="brand-full" src="assets/logo.png" alt="The Narrative Lens" />
     </div>
 
     <nav class="tnl-nav" aria-label="Primary">
       <ul class="nav-list">
         <li class="nav-item"><a href="index.html">Home</a></li>
 
-        <!-- Cluster 1: Actors + Test (locked) + Timeline -->
+        <!-- Cluster 1: Actors + Test + Timeline -->
         <li class="nav-item"><a href="lens-actors.html">Lens-Actors</a></li>
-
-        <li class="nav-item">
-          <a class="locked" href="lens-test.html" aria-label="Lens-Test (Subscribers only)">
-            <span class="label">Lens-Test</span>
-            <span class="lock" aria-hidden="true">
-              <!-- Inline SVG lock (no external deps) -->
-              <svg viewBox="0 0 24 24" width="16" height="16" role="img" focusable="false" aria-hidden="true">
-                <path d="M12 2a5 5 0 0 0-5 5v3H6a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-6a2 2 0 0 0-2-2h-1V7a5 5 0 0 0-5-5Zm-3 8V7a3 3 0 1 1 6 0v3H9Z"/>
-              </svg>
-            </span>
-            <span class="sr-only"> (subscription)</span>
-          </a>
-        </li>
-
+        <li class="nav-item"><a href="lens-test.html">Lens-Test</a></li>
         <li class="nav-item"><a href="lens-timeline.html">Lens-Timeline</a></li>
 
         <!-- Cluster 2: Narrative News + Lens-Video -->
@@ -45,17 +30,17 @@
       </ul>
 
       <div class="nav-cta">
-        <a class="subscribe btn" href="subscribe.html" aria-label="Subscribe to The Narrative Lens">Subscribe</a>
+        <a class="btn" href="subscribe.html">Subscribe</a>
       </div>
     </nav>
   </header>
 
   <!-- Hero Banner -->
   <section class="hero">
-    <img src="assets/tnl-banner-matrix.png" alt="The Narrative Lens banner" class="hero-banner">
+    <img src="assets/tnl-banner-matrix.png" alt="The Narrative Lens banner" class="hero-banner" />
   </section>
 
-  <!-- Main content -->
+  <!-- Main -->
   <main class="container">
     <h1>Welcome to The Narrative Lens</h1>
     <p>Classified headlines, timelines, actors, and deeper context. Updated automatically.</p>
@@ -66,7 +51,6 @@
   </footer>
 
   <script>
-    // Simple year stamp
     document.getElementById('y').textContent = new Date().getFullYear();
   </script>
 </body>
