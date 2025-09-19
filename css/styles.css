@@ -12,8 +12,11 @@
   --tnl-feeds-wrap:820px;            /* narrower column reduces stretching */
   --subscribe-right-offset:140px;    /* pulls Subscribe left to sit above Help (tweak 120–160) */
 
-  /* NEW: brand offset so logo sits slightly to the right (past page edge but before “Home”) */
-  --brand-left-offset:3rem;          /* tweak 2rem–4rem to taste */
+  /* Brand offset so logo block sits a bit to the right */
+  --brand-left-offset:3.5rem;        /* tweak 3rem–4rem to taste */
+
+  /* NEW: match the nav’s left gutter to the brand so “Home” never sits left of the logo */
+  --nav-left-gutter:3.5rem;          /* usually same as --brand-left-offset */
 }
 
 *{box-sizing:border-box}
@@ -77,7 +80,10 @@ header .brand img.banner{ height:96px; max-width:100%; image-rendering:auto; }
 .navbar{ border-top:1px solid var(--tnl-border); background:rgba(255,255,255,0.02); }
 .navbar-inner{
   display:flex; align-items:center; gap:.5rem; flex-wrap:wrap; padding:.5rem 0;
-  justify-content:center; /* center the entire nav for proportional look */
+  justify-content:center; /* keep nav centered overall */
+  /* NEW: pad the nav left/right to mirror brand + subscribe spacing */
+  padding-left:calc(var(--nav-left-gutter) + 1rem);
+  padding-right:calc(var(--subscribe-right-offset) + 1rem);
 }
 .nav{ display:flex; align-items:center; gap:1.1rem; flex-wrap:wrap; }
 .nav a{ padding:.35rem .6rem; border-radius:8px; font-size:.98rem; white-space:nowrap; }
@@ -126,6 +132,10 @@ header .brand img.banner{ height:96px; max-width:100%; image-rendering:auto; }
 @media (max-width:900px){
   .align-subscribe .top-actions{ position:static; transform:none; }
   .topbar{ justify-content:space-between; }
+  .navbar-inner{
+    padding-left:1rem;          /* drop gutters on narrow screens */
+    padding-right:1rem;
+  }
 }
 
 .site-footer{ border-top:1px solid var(--tnl-border); padding:1rem; color:var(--tnl-muted); text-align:center; }
