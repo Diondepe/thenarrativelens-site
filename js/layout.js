@@ -1,23 +1,18 @@
-async function loadPartials() {
-  // Load header
-  const headerRes = await fetch("partials/header.html");
-  const headerHtml = await headerRes.text();
-  document.getElementById("site-header").innerHTML = headerHtml;
-
-  // Load footer
-  const footerRes = await fetch("partials/footer.html");
-  const footerHtml = await footerRes.text();
-  document.getElementById("site-footer").innerHTML = footerHtml;
-
-  // Highlight active nav item
-  const page = document.body.getAttribute("data-page");
-  if (page) {
-    const activeLink = document.querySelector(`nav a[data-page="${page}"]`);
-    if (activeLink) {
-      activeLink.setAttribute("aria-current", "page");
-    }
+(function () {
+  async function inject(id, url, after){
+    const host = document.getElementById(id);
+    if (!host) return;
+    const res = await fetch(url, { cache: "no-store" });
+    host.innerHTML = await res.text();
+    if (after) after();
   }
-}
 
-// Run on page load
-document.addEventListener("DOMContentLoaded", loadPartials);
+  function setActive(){
+    const key = (document.body.dataset.page || "").toLowerCase();
+    const link = document.querySelector(`#site-nav [data-key="${key}"]`);
+    if (link) link.setAttribute("aria-current", "page");
+  }
+
+  inject("site-header", "partials/header.html", setActive);
+  inject("site-footer", "partials/footer.html");
+})();
