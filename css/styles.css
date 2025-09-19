@@ -10,7 +10,10 @@
 
   /* Feeds column + subscribe placement for mock */
   --tnl-feeds-wrap:820px;            /* narrower column reduces stretching */
-  --subscribe-right-offset: 140px;   /* pulls Subscribe left to sit above Help (tweak 120–160 if needed) */
+  --subscribe-right-offset:140px;    /* pulls Subscribe left to sit above Help (tweak 120–160) */
+
+  /* NEW: brand offset so logo sits slightly to the right (past page edge but before “Home”) */
+  --brand-left-offset:3rem;          /* tweak 2rem–4rem to taste */
 }
 
 *{box-sizing:border-box}
@@ -39,23 +42,16 @@ a:hover{text-decoration:underline}
   padding:.6rem 0;
   position:relative; /* enables absolute positioning for align-subscribe variant */
 }
-/* Brand wrapper with logo + mini logo */
-header .brand {
-  display: flex;
-  align-items: center;
-  gap: .5rem;
-  margin-left: 2rem; /* 👈 pushes brand away from left edge */
-}
 
-header .brand img.banner {
-  height: 84px;
+/* Brand wrapper with logo + mini logo (pushed right via var) */
+header .brand{
+  display:flex;
+  align-items:center;
+  gap:.5rem;
+  margin-left:var(--brand-left-offset);
 }
-
-.favicon-inline {
-  width: 28px;
-  height: 28px;
-  opacity: .95;
-}
+.favicon-inline{ width:34px; height:34px; margin-right:.15rem; opacity:.95; }
+header .brand img.banner{ height:96px; max-width:100%; image-rendering:auto; }
 
 .top-actions{ display:flex; align-items:center; gap:.35rem; }
 .btn{
@@ -127,7 +123,7 @@ header .brand img.banner {
 .content-narrow{ max-width:var(--tnl-feeds-wrap); margin:0 auto; }
 
 /* responsive: return Subscribe to far-right on small screens */
-@media (max-width: 900px){
+@media (max-width:900px){
   .align-subscribe .top-actions{ position:static; transform:none; }
   .topbar{ justify-content:space-between; }
 }
