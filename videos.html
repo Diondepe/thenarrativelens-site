@@ -1,42 +1,52 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Lens-Video — The Narrative Lens</title>
   <base href="https://diondepe.github.io/thenarrativelens-site/">
-  <link rel="icon" href="assets/favicon.ico">
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" type="image/png" href="assets/favicon-redesigned.png" />
+  <link rel="stylesheet" href="css/styles.css" />
 </head>
 <body>
-
-<header class="site-header">
-  <div class="container topbar">
-    <a class="brand" href="index.html"><img class="banner" src="assets/tnl-banner-matrix.png" alt="The Narrative Lens"></a>
-    <div class="top-actions"><a href="subscribe.html" class="btn primary">Subscribe</a></div>
-  </div>
-  <div class="navbar">
-    <div class="container navbar-inner">
-      <nav class="nav">
-        <a href="index.html">Home</a>
-        <a href="narratives.html">Narratives</a>
-        <a href="feeds.html">Narrative News</a>
-        <a href="timeline.html">Lens-Timeline</a>
-        <a href="videos.html" aria-current="page">Lens-Video <span class="pill sub"></span></a>
-        <a href="actors.html">Lens-Actors <span class="pill sub"></span></a>
-        <a href="help.html">Help</a>
-        <a href="about.html">About</a>
-      </nav>
+  <header class="site-header align-subscribe">
+    <div class="container topbar">
+      <a class="brand" href="index.html" aria-label="Go to Home">
+        <img class="favicon-inline" src="assets/favicon-redesigned.png" alt="TNL" />
+        <img class="banner" src="assets/tnl-banner-matrix.png" alt="The Narrative Lens" />
+      </a>
+      <div class="top-actions">
+        <a href="subscribe.html" class="btn primary with-icon">
+          <img class="mini-icon" src="assets/favicon-redesigned.png" alt="" /> Subscribe
+        </a>
+      </div>
     </div>
-  </div>
-</header>
+    <div class="navbar">
+      <div class="container navbar-inner">
+        <div class="nav-spacer-left" aria-hidden="true"></div>
+        <nav class="nav" aria-label="Primary">
+          <a href="index.html">Home</a>
+          <a href="narratives.html">Narratives</a>
+          <a href="feeds.html">Narrative News</a>
+          <a href="videos.html" aria-current="page">Lens-Video</a>
+          <a href="actors.html">Lens-Actors <span class="pill sub"></span></a>
+          <a href="lens-test.html">Lens-Test</a>
+          <a href="timeline.html">Lens-Timeline <span class="pill sub"></span></a>
+          <a href="help.html">Help</a>
+          <a href="about.html">About</a>
+        </nav>
+        <div class="nav-spacer-right" aria-hidden="true"></div>
+      </div>
+    </div>
+  </header>
 
-<main class="container" style="padding:1rem 1rem 2rem">
-  <h1>Lens-Video <span class="pill sub"></span></h1>
-  <p>Subscriber videos will appear here. (Demo placeholder.)</p>
-</main>
+  <main class="container pad-main">
+    <h1>Lens-Video</h1>
+    <p>Short explainers and weekly breakdowns. Coming soon.</p>
+    <p><a class="btn" href="feeds.html">Go to Narrative News</a></p>
+  </main>
 
-<footer class="site-footer">© The Narrative Lens</footer>
-<script src="js/app.js?v=5"></script>
+  <footer class="site-footer">© <span id="y"></span> The Narrative Lens</footer>
+  <script>document.getElementById('y').textContent=new Date().getFullYear()</script>
 </body>
 </html>
