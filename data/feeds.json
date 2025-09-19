@@ -1,12 +1,156 @@
 [
   {
+    "id": "BBC — Top Stories-4326fa9b47",
+    "source": "BBC — Top Stories",
+    "title": "Migrant returned to France after government wins court challenge",
+    "summary": "Eritrean man arrives in Paris under the \"one in, one out\" deal as at least three boats carrying migrants leave beaches in France.",
+    "url": "https://www.bbc.com/news/articles/cx273vnkjpmo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T16:20:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1fb/live/8bd4d710-951c-11f0-b0e0-2f34a724e07f.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-a29f37b6e1",
     "source": "BBC — Top Stories",
     "title": "Scottish government minister Jamie Hepburn resigns after assault claim",
-    "summary": "Conservative MSP Douglas Ross said the parliament minister grabbed him as he left the Holyrood chamber on Wednesday.",
+    "summary": "Conservative MSP Douglas Ross said the the SNP MSP grabbed him as he left the Holyrood chamber on Wednesday.",
     "url": "https://www.bbc.com/news/articles/ceq2y0npj32o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T15:09:46Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+    "published": "2025-09-19T16:11:50Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a5/live/2ece28f0-953a-11f0-ad73-8b4a30771edb.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-60c755c9fe",
+    "source": "The Guardian — UK",
+    "title": "What the UK’s recognition of Palestinian statehood will mean",
+    "summary": "What does the decision entail and which other countries are joining Britain in recognition? The UK is expected to formally recognise Palestinian statehood in the coming days, having shifted its position on the subject in July, shortly after Emmanuel Macron announced that France would be making a formal announcement on statehood at the UN in New York this Monday. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/sep/19/what-uk-recognition-palestine-state-will-mean",
+    "published": "2025-09-19T16:05:32Z",
+    "image_url": "https://i.guim.co.uk/img/media/307300cc7fed5661e5050c5e89bae28c537e640f/569_0_5691_4555/master/5691.jpg?width=140&quality=85&auto=format&fit=max&s=2395319a5ddcd8270ea3d683259bbf16",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-cca300f74e",
+    "source": "The Guardian — UK",
+    "title": "Assisted dying bill gets second reading in Lords, but with peers also setting up select committee to review it – as it happened",
+    "summary": "Committee to conclude review of bill by 7 November. This live blog is closed The UK is preparing to recognise the state of Palestine imminently, after Israel failed to meet conditions that would have postponed the historic step, including a ceasefire in Gaza, Patrick Wintour reports. YouGov has relased polling today suggesting that Britons are in favour of this by more than two to one, although a large minority of people do not have a view. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/19/uk-politics-latest-news-updates-labour-keir-starmer-donald-trump",
+    "published": "2025-09-19T15:52:04Z",
+    "image_url": "https://i.guim.co.uk/img/media/2e2f3e91d3b1079cf2f296cee4723d846b1ccb26/446_99_1986_1589/master/1986.jpg?width=140&quality=85&auto=format&fit=max&s=eb064f537e297380a16f30e321cc709c",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7b57ac69e0",
+    "source": "BBC — Top Stories",
+    "title": "Nato intercepts Russian warplanes violating Estonian airspace",
+    "summary": "Estonia says three Russian MiG-31 fighter jets remained in Estonian airspace for 12 minutes.",
+    "url": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T15:50:02Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8007/live/0dfedb80-956f-11f0-aa3a-ddc192c3f339.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b9fd35e56b",
+    "source": "BBC — Top Stories",
+    "title": "The motive behind Charlie Kirk's killing: What we know and don't know",
+    "summary": "Prosecutors have broadly outlined suspect Tyler Robinson's political views - but many questions remain.",
+    "url": "https://www.bbc.com/news/articles/c7v1rle0598o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T15:48:18Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fd8/live/72c275b0-93f6-11f0-b391-6936825093bd.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9fe6405124",
+    "source": "BBC — Top Stories",
+    "title": "Self-styled African tribe in Scottish woodland served with second eviction notice",
+    "summary": "Three members of the self-proclaimed Kingdom of Kubala have already been evicted from one area of woodland in Jedburgh.",
+    "url": "https://www.bbc.com/news/articles/cd9yjkngyklo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T15:47:43Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c611/live/1741a950-8e37-11f0-8bfd-43c7ca883cc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-be4524af3e",
+    "source": "BBC — Top Stories",
+    "title": "Trump and Xi to meet in South Korea as TikTok deal approved",
+    "summary": "The president plans to meet Xi at a global summit in South Korea next month and will travel to China next year.",
+    "url": "https://www.bbc.com/news/articles/c4g7l7yl832o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T15:45:33Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c19/live/a39dc990-9573-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e29d42dd80",
+    "source": "The Guardian — UK",
+    "title": "Reform UK suspends councillor linked to account calling for Starmer’s death",
+    "summary": "Exclusive: Party investigates Northumberland councillor John Allen over alleged YouTube posts Reform UK has suspended one of its councillors while the party investigates him over alleged online comments about wanting to kill Keir Starmer. The suspension came after the party was presented with details indicating that John Allen, a Reform UK Northumberland county councillor, had posted comments online about wanting to shoot the prime minister. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/19/reform-uk-suspends-councillor-linked-to-account-calling-for-starmers-death",
+    "published": "2025-09-19T15:40:34Z",
+    "image_url": "https://i.guim.co.uk/img/media/204ca996394503af30eeccb3c46362aac98fc480/903_0_4465_3571/master/4465.jpg?width=140&quality=85&auto=format&fit=max&s=58fe0dba803856729e0b4c360dd90507",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-778e688fa0",
+    "source": "The Guardian — UK",
+    "title": "Scrapping of two-child benefit cap closer as Bridget Phillipson attacks ‘spiteful’ policy",
+    "summary": "Exclusive: Clearest sign yet No 10 is preparing to ditch policy as its preferred deputy leadership hopeful says issue is ‘profoundly personal’ Ministers are a step closer to abandoning the two-child benefit cap after Downing Street’s preferred candidate to be Labour’s deputy leader said the policy was “spiteful” and had “punished and pushed children into hardship”. Bridget Phillipson said the cap’s abolition was “on the table” – the clearest sign yet that Downing Street is preparing to scrap the controversial policy. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/19/scrapping-of-two-child-benefit-cap-closer-as-bridget-phillipson-attacks-spiteful-policy",
+    "published": "2025-09-19T15:34:10Z",
+    "image_url": "https://i.guim.co.uk/img/media/c420a8cb024b8e0e6a3c4b5cb170c6fd19bb4664/674_124_2657_2126/master/2657.jpg?width=140&quality=85&auto=format&fit=max&s=ec9aa0d58f53518bec5bf7e8e79cd207",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-86496bcedf",
+    "source": "The Guardian — UK",
+    "title": "Assisted dying bill to get further scrutiny by Lords committee",
+    "summary": "Special committee to address concerns over funding and implementation as legislation passes first stage in Lords Peers have agreed to undertake more expert scrutiny of the assisted dying bill, as the legislation passed its first stage in the House of Lords. The house approved the bill at its second reading without a vote, meaning it will go through for further scrutiny later this autumn. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/sep/19/assisted-dying-bill-to-get-further-scrutiny-by-lords-committee",
+    "published": "2025-09-19T15:29:52Z",
+    "image_url": "https://i.guim.co.uk/img/media/5a471906c5047e7bab626bee6280e4b4056b436e/543_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=18f811ea715f2d273a0a8e7db2946a04",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-ac3aa099ff",
+    "source": "The Guardian — UK",
+    "title": "Hilary Benn: Troubles legacy agreement will deal with ‘unfinished business’",
+    "summary": "Northern Ireland secretary says he hopes measures will give answers to victims on both sides of political divide The Northern Ireland secretary has said new measures aiming to deal with crimes committed during the Troubles will address the “unfinished business” of the peace agreement struck 27 years ago. Hilary Benn said the “significant reforms” would replace the controversial Legacy Act 2023 brought in by the Conservative government, which he said had failed to confront the past, partly because it had been “rejected” by all five main political parties and victims’ families. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/19/hilary-benn-troubles-legacy-agreement-deal-unfinished-business",
+    "published": "2025-09-19T15:24:52Z",
+    "image_url": "https://i.guim.co.uk/img/media/4a8e2384840679c4025ba8792c3f8a395e5df086/0_24_2744_2195/master/2744.jpg?width=140&quality=85&auto=format&fit=max&s=137360209a97e548226e874d25c85c8d",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-76da15917d",
+    "source": "The Guardian — UK",
+    "title": "Judge quashes Home Office’s decision on US extradition of vulnerable man",
+    "summary": "Portugal has also made extradition request for Diogo Santos Coelho, who is facing cybercrime charges A high court judge has quashed a Home Office decision that paved the way for a vulnerable autistic man to be extradited to the US on cybercrime charges carrying a possible 52-year sentence. The UK government has accepted that Diogo Santos Coelho, 25, a Portuguese national, was groomed and exploited online by adults from the age of 14, leading to him setting up the website RaidForums, to which the alleged crimes relate. Continue reading...",
+    "url": "https://www.theguardian.com/law/2025/sep/19/judge-quashes-home-office-decision-diogo-santos-coelho-extradition",
+    "published": "2025-09-19T15:20:27Z",
+    "image_url": "https://i.guim.co.uk/img/media/a5cc7a7ed21844bde3596dea573237b670ad7aa4/1871_407_6701_5364/master/6701.jpg?width=140&quality=85&auto=format&fit=max&s=7f5511b2ad1d02f1b47cf7367d35f0e9",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -24,6 +168,18 @@
     "cluster_id": null
   },
   {
+    "id": "The Guardian — UK-f9ba37b49a",
+    "source": "The Guardian — UK",
+    "title": "Green party membership surges after public split between Corbyn and Sultana",
+    "summary": "Almost 1,400 people sign up in 24 hours to increase party membership by 10% since Zack Polanski’s leadership win this month The Green party’s membership has jumped by more than 1,000 people in a day after a public split between Jeremy Corbyn and Zarah Sultana cast doubt on the viability of the pair’s new leftwing party. Almost 1,400 people signed up to the Greens in the 24 hours since the bitter disagreement emerged , in which Corbyn and his allies referred Sultana to the information watchdog after claims that she started collecting membership subscriptions without authority. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/19/greens-membership-surge-after-public-split-between-corbyn-and-sultana",
+    "published": "2025-09-19T15:06:33Z",
+    "image_url": "https://i.guim.co.uk/img/media/b86030ee508d7457d20b577e972785fcb88ca540/974_109_3300_2640/master/3300.jpg?width=140&quality=85&auto=format&fit=max&s=c5b8648919ab6d4cfbea96399667b1cf",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-94fc1feaf0",
     "source": "Politico — UK",
     "title": "Britain and Ireland agree on sweeping new plan to address Northern Ireland’s bloody past",
@@ -31,42 +187,6 @@
     "url": "https://www.politico.eu/article/britain-ireland-agree-sweeping-new-plan-address-northern-ireland-bloody-past/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-19T15:00:13Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/Harris-Benn-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-cca300f74e",
-    "source": "The Guardian — UK",
-    "title": "Assisted dying bill gets second reading in Lords, but with peers also setting up select committee to review it – UK politics live",
-    "summary": "Committee to conclude review of bill by 7 November The UK is preparing to recognise the state of Palestine imminently, after Israel failed to meet conditions that would have postponed the historic step, including a ceasefire in Gaza, Patrick Wintour reports. YouGov has relased polling today suggesting that Britons are in favour of this by more than two to one, although a large minority of people do not have a view. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/sep/19/uk-politics-latest-news-updates-labour-keir-starmer-donald-trump",
-    "published": "2025-09-19T14:57:03Z",
-    "image_url": "https://i.guim.co.uk/img/media/2e2f3e91d3b1079cf2f296cee4723d846b1ccb26/446_99_1986_1589/master/1986.jpg?width=140&quality=85&auto=format&fit=max&s=eb064f537e297380a16f30e321cc709c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7b57ac69e0",
-    "source": "BBC — Top Stories",
-    "title": "Estonia condemns 'brazen' airspace violation by Russian warplanes",
-    "summary": "Tallinn says three Russian MiG-31 fighter jets remained in Estonian airspace for 12 minutes.",
-    "url": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T14:51:52Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ab/live/c3e7c850-9568-11f0-bc5b-7ff2de9d2e33.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-e29d42dd80",
-    "source": "The Guardian — UK",
-    "title": "Reform UK suspends councillor linked to account calling for Starmer’s death",
-    "summary": "Exclusive: Party investigates Northumberland councillor John Allen over alleged YouTube posts Reform UK has suspended one of its councillors as the party investigates him over alleged online comments about wanting to kill Keir Starmer. The suspension came after the party was presented with details indicating that John Allen, a Reform UK Northumberland county councillor, had posted comments online about wanting to shoot the prime minister. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/19/reform-uk-suspends-councillor-linked-to-account-calling-for-starmers-death",
-    "published": "2025-09-19T14:37:25Z",
-    "image_url": "https://i.guim.co.uk/img/media/204ca996394503af30eeccb3c46362aac98fc480/903_0_4465_3571/master/4465.jpg?width=140&quality=85&auto=format&fit=max&s=58fe0dba803856729e0b4c360dd90507",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -99,10 +219,10 @@
     "id": "Politico — UK-a221d45c87",
     "source": "Politico — UK",
     "title": "Russian warplanes breach NATO airspace over Estonia",
-    "summary": "Russian MiG-31s flew into Estonian airspace and approached Tallinn before Italian jets were scrambled to intercept them.",
+    "summary": "Russian MiG-31s flew into Estonian airspace before Italian jets were scrambled to intercept them.",
     "url": "https://www.politico.eu/article/russian-fighter-jets-breach-estonian-airspace-near-tallinn/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-19T14:12:35Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/MiG-31.jpg",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/GettyImages-1234080280-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -132,18 +252,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-5208061d4f",
-    "source": "The Guardian — UK",
-    "title": "Newly retired UK teachers ‘sick with worry’ after delays in pension payments",
-    "summary": "Current and retired staff complain about delays, backlogs and poor communication at Teachers’ Pensions Teachers who retired this summer have been left waiting for pension payments they were supposed to receive at the start of September, with some saying they are “sick with worry” and unable to pay bills. Current and retired teachers have contacted the Guardian to complain about delays, backlogs and poor communication at Teachers’ Pensions, which administers the profession’s scheme on behalf of the government. Continue reading...",
-    "url": "https://www.theguardian.com/money/2025/sep/19/newly-retired-uk-teachers-delays-teachers-pension",
-    "published": "2025-09-19T14:00:48Z",
-    "image_url": "https://i.guim.co.uk/img/media/64b9f33b175574589e5cc45175b8d8d6a5d2c915/0_0_5313_4250/master/5313.jpg?width=140&quality=85&auto=format&fit=max&s=6885fa22df911058447034b5cc970fab",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-91fa0bd765",
     "source": "BBC — Top Stories",
     "title": "Amy Hunt claims GB's second medal at World Athletics with brilliant 200m silver",
@@ -151,18 +259,6 @@
     "url": "https://www.bbc.com/sport/athletics/articles/c701x1wn5rno?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T13:46:53Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c137/live/267cbd30-9565-11f0-a3c3-898ca8bade9c.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-f7c2a3afab",
-    "source": "The Guardian — UK",
-    "title": "Family tell of ‘immense joy’ at release of British couple detained in Afghanistan",
-    "summary": "Peter and Barbie Reynolds were arrested and held without charge for eight months, raising fears for their health A British couple have been freed from months of detention in Afghanistan to the “immense joy” of their family. The Taliban released Barbie Reynolds, 76, and her husband, Peter, 80, after being held for eight months. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/sep/19/british-couple-peter-and-barbie-reynolds-freed-after-six-months-in-captivity-in-afghanistan",
-    "published": "2025-09-19T13:29:58Z",
-    "image_url": "https://i.guim.co.uk/img/media/947b3686fa1adb0f931f0d21b48e8bebdef4e784/462_151_2973_2379/master/2973.jpg?width=140&quality=85&auto=format&fit=max&s=7f5db1f932d86441975f75cd4f0f12fd",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -192,18 +288,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-76da15917d",
-    "source": "The Guardian — UK",
-    "title": "Judge quashes Home Office decision to extradite vulnerable man to US",
-    "summary": "Portugal has also made extradition request for Diogo Santos Coelho, who is facing cybercrime charges A high court judge has quashed a Home Office decision that paved the way for a vulnerable autistic man to be extradited to the US on cybercrime charges carrying a possible 52-year sentence. The UK government has accepted that Diogo Santos Coelho, 25, a Portuguese national, was groomed and exploited online by adults from the age of 14, leading to him setting up the website RaidForums, to which the alleged crimes relate. Continue reading...",
-    "url": "https://www.theguardian.com/law/2025/sep/19/judge-quashes-home-office-decision-diogo-santos-coelho-extradition",
-    "published": "2025-09-19T13:12:55Z",
-    "image_url": "https://i.guim.co.uk/img/media/a5cc7a7ed21844bde3596dea573237b670ad7aa4/1871_407_6701_5364/master/6701.jpg?width=140&quality=85&auto=format&fit=max&s=7f5511b2ad1d02f1b47cf7367d35f0e9",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-777cff29cb",
     "source": "BBC — Top Stories",
     "title": "US TV hosts back Kimmel as Trump threatens TV networks",
@@ -216,25 +300,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-7597e550cf",
+    "id": "The Guardian — UK-e9f6f6e334",
     "source": "The Guardian — UK",
-    "title": "Outgoing MI6 chief says Putin has ‘bitten off more than he can chew’ in Ukraine",
-    "summary": "Richard Moore said Russia was unlikely to win on battlefield, as his agency launched call to recruit spies UK politics live – latest updates Europe live – latest updates The outgoing head of MI6 has issued a damning indictment of Russia’s invasion of Ukraine, saying that Vladimir Putin has “bitten off more than he can chew”. Richard Moore, known within MI6 as C, used his farewell speech in Istanbul to say that while Russia was unlikely to win on the battlefield, his agency was seeking to recruit spies inside Russia and worldwide in order to fight back. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/sep/19/putin-ukraine-richard-moore-mi6-spy-recruitment",
-    "published": "2025-09-19T12:19:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/c3296b374656dca29b0a854ac88efc335b137b72/0_296_3403_2722/master/3403.jpg?width=140&quality=85&auto=format&fit=max&s=2dd3e36f517798602123ec1477a55eed",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-0da6971b65",
-    "source": "The Guardian — UK",
-    "title": "UK households put a record £103bn into Isas amid ‘dash for cash’",
-    "summary": "Figures show 15m more tax-efficient savings accounts were opened in 2023-24, with more following as fears grew allowance might be cut Business live – latest updates British households stuffed a record £103bn into tax-efficient individual savings accounts , according to annual figures that underline the strong appetite for the certainty of cash over stock market investments. Savers opened 15m Isas in the 2023-24 tax year, up from 12.4m the year before and the highest level for 13 years. The spree was driven primarily by a rise in demand for the cash Isas rather than the stocks and shares version. Continue reading...",
-    "url": "https://www.theguardian.com/money/2025/sep/19/uk-isas-cash-tax-savings-accounts-allowance-cut",
-    "published": "2025-09-19T12:11:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/700dc51f1ea7e5e7b34f1d4ea2d46d78754ceff9/292_0_2917_2334/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=409154fc8290aec6e02a7756027cc0df",
+    "title": "British and Irish governments to present new Troubles legacy proposals",
+    "summary": "Framework outlines legislation both sides will need to pass to create agency investigating Troubles-era crimes UK politics live – latest updates The British and Irish governments are to announce a new framework to deal with the legacy of Northern Ireland’s Troubles in an effort to resolve an issue that has bedevilled politics in the region and relations between London and Dublin. The proposals, to be outlined on Friday afternoon, threaten to reopen a rift between the government and former troops who got amnesty from prosecution under the Legacy Act, passed by the Conservative government in 2023. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/19/british-irish-governments-troubles-legacy-proposals",
+    "published": "2025-09-19T12:01:00Z",
+    "image_url": "https://i.guim.co.uk/img/media/3b3f7dcafa0efb51d465b30072f8abe6dea45f17/632_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=09a8775a75307249c9c247d793651139",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -266,8 +338,8 @@
   {
     "id": "Politico — UK-b6b9cb81af",
     "source": "Politico — UK",
-    "title": "EU hammers Putin and charms Trump by targeting China in new Russia sanctions",
-    "summary": "The Kremlin \"has shown the full extent of its contempt for diplomacy and international law,\" says Ursula von der Leyen.",
+    "title": "EU hammers Putin and charms Trump by targeting China, India in new Russia sanctions",
+    "summary": "Twelve Chinese and three Indian entities are proposed for the bloc's blacklist, two EU diplomats confirmed.",
     "url": "https://www.politico.eu/article/eu-commission-approves-new-russia-sanctions-package-to-hit-putins-war-chest/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-19T11:16:38Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/13351580-scaled.jpg",
@@ -283,18 +355,6 @@
     "url": "https://www.politico.eu/article/flag-spat-erupts-france-macron-prepares-recognize-palestinian-statehood/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-19T11:12:16Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/palestine-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4326fa9b47",
-    "source": "BBC — Top Stories",
-    "title": "Migrant returned to France after government wins court challenge",
-    "summary": "Eritrean man arrives in Paris under the \"one in, one out\" deal as at least three boats carrying migrants leave beaches in France.",
-    "url": "https://www.bbc.com/news/articles/cx273vnkjpmo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T10:55:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1fb/live/8bd4d710-951c-11f0-b0e0-2f34a724e07f.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -444,30 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-7080fc9b7a",
-    "source": "BBC — Top Stories",
-    "title": "Premier League ticket black market exposed by BBC investigation",
-    "summary": "Find out what happened when we tried to attend four Premier League games with tickets from \"unauthorised\" websites.",
-    "url": "https://www.bbc.com/sport/articles/cwy9dlqxx2ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T05:05:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43d6/live/436e6ea0-94a9-11f0-b391-6936825093bd.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-0f74b8d97c",
-    "source": "The Guardian — UK",
-    "title": "Ten new wild swimming locations should be created in London, report says",
-    "summary": "London assembly committee says move will increase cleanliness of waterways and offer more access to outdoors Ten new wild swimming locations should be created in London, a report from the London assembly has said, to boost cleanliness of the capital’s waterways and increase access to the outdoors. Other cities are cleaning up their rivers for swimming: Paris has opened a swimming site in the Seine in the city centre and Chicago is running its first river swim in almost a century. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/19/ten-new-wild-swimming-locations-should-created-london-report",
-    "published": "2025-09-19T05:00:36Z",
-    "image_url": "https://i.guim.co.uk/img/media/a42c4c31b28edb612670c58d0fe770a01493117a/259_416_5445_4357/master/5445.jpg?width=140&quality=85&auto=format&fit=max&s=f11ff79789bf2efe13e9da454d03c169",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-737ff91789",
     "source": "The Guardian — UK",
     "title": "Why Britain recognising Palestine matters – podcast",
@@ -487,18 +523,6 @@
     "url": "https://www.bbc.com/news/articles/c4g921p3eq3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T01:56:12Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dd3/live/6fe5b320-94c8-11f0-ae31-4b2ff13b501f.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-de4c0d96d7",
-    "source": "BBC — Top Stories",
-    "title": "Chris Mason: Delight and relief in government after Trump state visit",
-    "summary": "Trump's disagreements with Sir Keir were somehow channelled past him, rather than at him, writes the BBC's political editor.",
-    "url": "https://www.bbc.com/news/articles/cvgn3445655o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T00:24:23Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d15a/live/43fb9d90-9524-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -528,18 +552,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-410dd25be0",
-    "source": "BBC — Top Stories",
-    "title": "China is calling a TikTok deal a win. What's in it for them?",
-    "summary": "Experts tell the BBC what a final deal might look like, and what Beijing might get in return.",
-    "url": "https://www.bbc.com/news/articles/c9dxq0jz2l9o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-18T22:07:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a38c/live/36991280-9502-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-da4bfa4530",
     "source": "The Guardian — UK",
     "title": "Starmer has avoided state-visit bear traps but has he changed any of Trump’s thinking?",
@@ -559,18 +571,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/18/what-is-quantitative-tightening-how-affected-uk-finances",
     "published": "2025-09-18T18:23:15Z",
     "image_url": "https://i.guim.co.uk/img/media/516368ab22d61a77ea8aeee57ce7434115e1a4c0/756_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=71e49eedbc7e98ad539b374980fc990b",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-070ca8f7c4",
-    "source": "The Guardian — UK",
-    "title": "Mahmood’s views on ‘last-minute’ modern slavery claims fail to consider Home Office tactics",
-    "summary": "Government should fix broken legal aid system that causes delays, says head of immigration lawyers’ association In a strongly worded response to a high court decision blocking the removal of an asylum seeker under the “one in, one out” scheme, Shabana Mahmood railed at “last-minute vexatious claims” and “migrants suddenly deciding that they are a modern slave on the eve of their removal”. The home secretary’s comments cast aspersions on the 25-year-old Eritrean in the individual case and asylum seekers more widely. But those who work in the system believe they do not reflect the reality of the way – and pace at which – the justice system and the framework for identifying victims of modern slavery work. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/18/mahmood-views-modern-slavery-do-not-reflect-reality-say-professionals",
-    "published": "2025-09-18T18:22:15Z",
-    "image_url": "https://i.guim.co.uk/img/media/51d27f1c92f81baa0b52782ee2cf2e7e0c6501b5/881_375_3451_2761/master/3451.jpg?width=140&quality=85&auto=format&fit=max&s=bc286c0fe276735e7a886a366af6cb75",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
