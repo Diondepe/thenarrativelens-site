@@ -1,6 +1,6 @@
 <header class="site-header align-subscribe">
-  <!-- Row 1: brand + subscribe -->
-  <div class="container topbar">
+  <!-- Row 1: brand + subscribe (shares width with nav) -->
+  <div class="topbar">
     <a class="brand" href="index.html" aria-label="Go to Home">
       <img class="favicon-inline" src="assets/favicon-redesigned.png" alt="TNL" />
       <img class="banner" src="assets/tnl-banner-matrix.png" alt="The Narrative Lens" />
@@ -12,22 +12,20 @@
     </div>
   </div>
 
-  <!-- Row 2: nav -->
+  <!-- Row 2: centered nav, same left/right gutters as topbar -->
   <div class="navbar">
-    <div class="container navbar-inner">
-      <div class="nav-spacer-left" aria-hidden="true"></div>
-      <nav class="nav" aria-label="Primary">
-        <a href="index.html" data-page="index">Home</a>
-        <a href="narratives.html" data-page="narratives">Narratives</a>
-        <a href="feeds.html" data-page="feeds">Narrative News</a>
-        <a href="videos.html" data-page="videos">Lens-Video</a>
-        <a href="actors.html" data-page="actors">Lens-Actors <span class="pill sub"></span></a>
-        <a href="lens-test.html" data-page="lens-test">Lens-Test <span class="pill sub"></span></a>
-        <a href="timeline.html" data-page="timeline">Lens-Timeline <span class="pill sub"></span></a>
-        <a href="help.html" data-page="help">Help</a>
-        <a href="about.html" data-page="about">About</a>
+    <div class="navbar-inner">
+      <nav class="nav" id="site-nav" aria-label="Primary">
+        <a href="index.html"      data-key="home">Home</a>
+        <a href="narratives.html" data-key="narratives">Narratives</a>
+        <a href="feeds.html"      data-key="feeds">Narrative News</a>
+        <a href="videos.html"     data-key="videos">Lens-Video</a>
+        <a href="actors.html"     data-key="actors">Lens-Actors <span class="pill sub"></span></a>
+        <a href="lens-test.html"  data-key="lens-test">Lens-Test <span class="pill sub"></span></a>
+        <a href="timeline.html"   data-key="timeline">Lens-Timeline <span class="pill sub"></span></a>
+        <a href="help.html"       data-key="help">Help</a>
+        <a href="about.html"      data-key="about">About</a>
       </nav>
-      <div class="nav-spacer-right" aria-hidden="true"></div>
     </div>
   </div>
 </header>
