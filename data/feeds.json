@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-ea7536f0bb",
+    "source": "BBC — Top Stories",
+    "title": "Highest government borrowing in August for five years",
+    "summary": "Increased tax receipts were outstripped by higher spending on public services, benefits and debt interest.",
+    "url": "https://www.bbc.com/news/articles/cly9m4lqznro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T07:13:09Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22fc/live/e7f6b590-9521-11f0-8d9d-ffe2d3393044.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-4326fa9b47",
+    "source": "BBC — Top Stories",
+    "title": "Second migrant removed to France after legal challenge fails",
+    "summary": "The Eritrean man was flown out early on Friday under the government's \"one in, one out\" deal.",
+    "url": "https://www.bbc.com/news/articles/cx273vnkjpmo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T07:04:08Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1fb/live/8bd4d710-951c-11f0-b0e0-2f34a724e07f.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-f5e89f0343",
+    "source": "The Guardian — UK",
+    "title": "Eritrean man is second to be deported to France under UK’s ‘one in, one out’ deal",
+    "summary": "Home Office confirms man left Heathrow for Paris early on Friday after losing high court bid to block move An Eritrean man has been deported to France under the UK government’s “one in, one out” deal with the neighbouring country. The man – the second to be deported under the agreement – was on a flight that left Heathrow for Paris at 6.15am on Friday, the Home Office confirmed after he lost a high court attempt to block the move. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/19/eritrean-man-is-second-to-be-deported-to-france-under-uk-one-in-one-out-deal",
+    "published": "2025-09-19T06:55:42Z",
+    "image_url": "https://i.guim.co.uk/img/media/9664a763f5a0fe2b5c052529c30c46a64a97fbd9/125_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=1fe3b934094f7b4b313bacc5101c5ac0",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-9649c1152c",
     "source": "BBC — Top Stories",
     "title": "Taliban ban books written by women from Afghan universities",
@@ -15,7 +51,7 @@
     "id": "The Guardian — UK-a3dc7ac048",
     "source": "The Guardian — UK",
     "title": "UK borrowing rises to worse-than-expected £18bn in August",
-    "summary": "Figure comes as Treasury prepares budget that is expected to include tax rises to plug yawning deficit The UK government borrowed more than expected last month, official figures show, adding to pressure on the Treasury in the run-up to the autumn budget. Figures from the Office for National Statistics (ONS) showed public sector net borrowing – the difference between public spending and income – rose to £18bn in August, £3.5bn more than in the same month a year earlier. Continue reading...",
+    "summary": "Figure comes as Treasury prepares budget that is expected to include tax rises to plug yawning deficit Business live – latest updates The UK government borrowed more than expected last month, official figures show, adding to pressure on the Treasury in the run-up to the autumn budget. Figures from the Office for National Statistics (ONS) showed public sector net borrowing – the difference between public spending and income – rose to £18bn in August, £3.5bn more than in the same month a year earlier. Continue reading...",
     "url": "https://www.theguardian.com/business/2025/sep/19/uk-borrowing-budget-rachel-reeves",
     "published": "2025-09-19T06:06:19Z",
     "image_url": "https://i.guim.co.uk/img/media/6a45b18070d834b20f2637ae0f4dc5b4296c83d1/595_0_4899_3922/master/4899.jpg?width=140&quality=85&auto=format&fit=max&s=c37be82b057e8b2ae61a942d2d5cf879",
@@ -48,25 +84,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-4326fa9b47",
-    "source": "BBC — Top Stories",
-    "title": "Second migrant removed to France after legal challenge fails",
-    "summary": "The Eritrean man was flown out early on Friday under the government's \"one in, one out\" deal.",
-    "url": "https://www.bbc.com/news/articles/cx273vnkjpmo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T05:45:19Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1fb/live/8bd4d710-951c-11f0-b0e0-2f34a724e07f.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-6c6fde4382",
     "source": "BBC — Top Stories",
-    "title": "Trump says TV networks opposed to him should 'maybe' lose licence",
+    "title": "Trump says TV networks opposed to him should 'maybe' lose licence, after Jimmy Kimmel suspension",
     "summary": "Concerns grow that the Trump administration is curtailing criticism after ABC host Jimmi Kimmel's show was cancelled.",
     "url": "https://www.bbc.com/news/articles/cr4qe0rz2zvo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T05:32:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e6d/live/f369d710-951f-11f0-b391-6936825093bd.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3109/live/80e5ce20-9528-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -74,23 +98,11 @@
   {
     "id": "BBC — Top Stories-7400f90485",
     "source": "BBC — Top Stories",
-    "title": "Ferguson on music, memory and dementia projects",
+    "title": "Alex Ferguson on music, memory and dementia projects",
     "summary": "Former Manchester United boss Sir Alex Ferguson tells BBC Breakfast about his love of music and work with dementia charities.",
     "url": "https://www.bbc.com/sport/football/articles/cjedl85dnpno?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T05:17:35Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b58/live/6f56fac0-9493-11f0-b391-6936825093bd.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-2ce764448f",
-    "source": "BBC — Top Stories",
-    "title": "Ireland commits to co-operate with new Troubles legacy body",
-    "summary": "A new framework seeks to heal a rift between the UK and Irish governments created by the Legacy Act.",
-    "url": "https://www.bbc.com/news/articles/ckged550k76o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T05:17:21Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d29/live/1cd929a0-94b9-11f0-bdbf-efe153f15d50.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -114,7 +126,7 @@
     "summary": "Find out what happened when we tried to attend four Premier League games with tickets from \"unauthorised\" websites.",
     "url": "https://www.bbc.com/sport/articles/cwy9dlqxx2ro?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T05:05:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43d6/live/436e6ea0-94a9-11f0-b391-6936825093bd.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d778/live/9886f550-9527-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -254,7 +266,7 @@
   {
     "id": "Politico — UK-bd04a059ad",
     "source": "Politico — UK",
-    "title": "Tough line on Israel provides boost for Spain’s beleaguered Sánchez",
+    "title": "Tough line on Israel boosts Spain’s beleaguered Sánchez",
     "summary": "The country's Socialist PM praised the protesters who disrupted the Vuelta cycling race.",
     "url": "https://www.politico.eu/article/spain-pedro-sanchez-though-line-israel-vuelta-tough-boost-popularity-pm/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-19T02:00:00Z",
@@ -306,7 +318,7 @@
     "summary": "Trump's disagreements with Sir Keir were somehow channelled past him, rather than at him, writes the BBC's political editor.",
     "url": "https://www.bbc.com/news/articles/cvgn3445655o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T00:24:23Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b554/live/8637b280-951e-11f0-9970-4b07818c144e.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d15a/live/43fb9d90-9524-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -468,18 +480,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-6dd8c14190",
-    "source": "The Guardian — UK",
-    "title": "Cost of private psychology soars in UK as practitioners turn away clients",
-    "summary": "Prices have risen by 34% since 2022, with 29% of psychologists refusing new patients The cost of seeing private psychologists is soaring and many are so busy they are turning away new clients, research has found. The prices psychologists charge have risen by 34% since 2022 and 12 sessions now cost an average of £1,550, compared with £1,152 just three years ago, according to a survey by myTribe Insurance, which tracks the cost of private medical care. The average cost of a consultation in the UK has risen from £96 in 2022 to £129.20 in 2025. Psychologists in England charge the most (£131) per session and those in Scotland the least (£124). Those in Scotland have the shortest waiting times (16.9 days), and people in Wales the longest (23.8 days). Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/sep/18/private-psychology-cost-soaring-uk-turn-away-clients",
-    "published": "2025-09-18T18:35:30Z",
-    "image_url": "https://i.guim.co.uk/img/media/0289c647cc6a05c696fe024c87d01dbaaa3d5fd1/133_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=d1d15acd2f18a0d6aa3d423aa9cbeb5d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-088d868e04",
     "source": "The Guardian — UK",
     "title": "What is quantitative tightening and how has it affected UK finances?",
@@ -499,6 +499,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/18/mahmood-views-modern-slavery-do-not-reflect-reality-say-professionals",
     "published": "2025-09-18T18:22:15Z",
     "image_url": "https://i.guim.co.uk/img/media/51d27f1c92f81baa0b52782ee2cf2e7e0c6501b5/881_375_3451_2761/master/3451.jpg?width=140&quality=85&auto=format&fit=max&s=bc286c0fe276735e7a886a366af6cb75",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e82e1040bc",
+    "source": "The Guardian — UK",
+    "title": "Putin, Gaza, tariffs and Mandelson: key details from Trump-Starmer press conference",
+    "summary": "The two leaders skirted around areas of potential conflict but there was still plenty of news and startling information Given an hour to speak freely in front of the world’s media, Donald Trump is always likely to spring a surprise or two. His joint press conference with Keir Starmer at Chequers on Thursday was largely a disciplined performance, skirting around several potential topics of conflict. But it was still full of news, telling details, and startling information and opinions. Here are some of the most important, and some you might have missed. Continue reading...",
+    "url": "https://www.theguardian.com/us-news/2025/sep/18/donald-trumps-state-visit-press-conference-what-did-we-learn",
+    "published": "2025-09-18T17:56:06Z",
+    "image_url": "https://i.guim.co.uk/img/media/91451fdfad63609595e33fefcf1bc0b6c73629ac/478_0_4423_3539/master/4423.jpg?width=140&quality=85&auto=format&fit=max&s=0fae9135073019d7fb150bf6e8795ab6",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -542,7 +554,7 @@
   {
     "id": "The Guardian — UK-8e46cccd9a",
     "source": "The Guardian — UK",
-    "title": "Trump suggests Starmer use military to cu– UK politics live",
+    "title": "UK politics: Trump suggests Starmer use army to tackle migration and says Putin ‘really let me down’ over Ukraine – as it happened",
     "summary": "US and UK leaders also quizzed over Gaza and free speech as Trump claims he did not know former US ambassador, Peter Mandelson President Trump is now leaving Windsor Castle. He will be flying to Chequers by helicopter. Volodymyr Zelenskyy , the Ukrainian president, has thanked King Charles for what he said at the state banquet last night strongly supporting the Ukrainian cause. I extend my deepest thanks to His Majesty King Charles III @RoyalFamily for his steadfast support. Ukraine greatly values the United Kingdom’s unwavering and principled stance. When tyranny threatens Europe once again, we must all hold firm, and Britain continues to lead in defending freedom on many fronts. Together, we have achieved a lot, and with the support of freedom-loving nations—the UK, our European partners, and the US—we continue to defend values and protect lives. We are united in our efforts to make diplomacy work and secure lasting peace for the European continent. Our countries have the closest defence, security and intelligence relationship ever known. In two world wars, we fought together to defeat the forces of tyranny. Today, as tyranny once again threatens Europe, we and our allies stand together in support of Ukraine, to deter aggression and secure peace. And our Aukus submarine partnership, with Australia, sets the benchmark for innovative and vital collaboration. Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/sep/18/donald-trump-state-visit-uk-keir-starmer-labour-politics-latest-news",
     "published": "2025-09-18T17:10:28Z",
@@ -571,18 +583,6 @@
     "url": "https://www.theguardian.com/business/2025/sep/18/next-shares-slide-as-retailer-warns-on-weak-uk-growth-and-jobs",
     "published": "2025-09-18T14:25:46Z",
     "image_url": "https://i.guim.co.uk/img/media/c5a9b33e9875040e875095a63c208252776b0b39/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=98da979478543d2324c35276550c9b50",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-df02a421a4",
-    "source": "The Guardian — UK",
-    "title": "Who sat next to whom at Trump’s Windsor banquet – and what does it tell us?",
-    "summary": "US president was next to Princess of Wales while Rupert Murdoch had the ear of Starmer’s chief of staff Buckingham Palace has disclosed a wealth of detail about the state banquet at Windsor Castle hosted by the king for Donald Trump – from the 139 candles to the 1,452 pieces of cutlery, all lovingly polished by hand – but all that anyone really wants to know about is the seating plan. In Windsor Castle’s St George’s Hall, the 50 metre-long table runs the length of the room, offering a tantalising indication of a pecking order among the 160 guests. Continue reading...",
-    "url": "https://www.theguardian.com/us-news/2025/sep/18/who-sat-next-to-whom-at-trumps-windsor-banquet-and-what-does-it-tell-us",
-    "published": "2025-09-18T13:09:21Z",
-    "image_url": "https://i.guim.co.uk/img/media/04a5cad16f6b5c9f69a1c2e1c4da528956a4557b/199_0_2738_2191/master/2738.jpg?width=140&quality=85&auto=format&fit=max&s=bf76860348381c5e8bf82e5c29fdb8de",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
