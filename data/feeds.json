@@ -1,11 +1,23 @@
 [
   {
+    "id": "The Guardian — UK-cf482d55dd",
+    "source": "The Guardian — UK",
+    "title": "Man dies after falling from hot air balloon in West Sussex",
+    "summary": "Body of victim who has not yet been formally identified was found in a field at 1.50pm on Friday, police said A man has died after falling from a hot air balloon in West Sussex. Emergency services carried out an extensive search for the man involving police drones and dogs after receiving reports of the incident near Newpound Common, in Wisborough Green, shortly after 9am on Friday. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/19/man-dies-after-falling-from-hot-air-balloon-in-west-sussex",
+    "published": "2025-09-19T19:57:17Z",
+    "image_url": "https://i.guim.co.uk/img/media/49a14dd54a245ae4d529ad29635adf149bfd2907/345_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=214fa859909d02a019fd5d3fdd580e87",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-7b57ac69e0",
     "source": "BBC — Top Stories",
     "title": "Nato intercepts Russian warplanes violating Estonian airspace",
     "summary": "Estonia says three Russian MiG-31 fighter jets remained in Estonian airspace for 12 minutes.",
     "url": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T19:06:29Z",
+    "published": "2025-09-19T19:42:20Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8007/live/0dfedb80-956f-11f0-aa3a-ddc192c3f339.jpg",
     "thumb_url": null,
     "category": "Politics",
@@ -18,7 +30,7 @@
     "summary": "Vladimir Putin has no interest in peace, Margus Tsahkna told POLITICO.",
     "url": "https://www.politico.eu/article/russia-nato-warplane-incursion-estonia-margus-tsahkna/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-19T18:40:22Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/GettyImages-2216084573-scaled.jpg",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/GettyImages-1222402983-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -31,6 +43,18 @@
     "url": "https://www.bbc.com/news/articles/clyxjve3pe2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T18:25:29Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0bd/live/7fb2c200-954c-11f0-b391-6936825093bd.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0bee165cfe",
+    "source": "BBC — Top Stories",
+    "title": "Britishness and free speech - why we travelled 200 miles to Robinson's London rally",
+    "summary": "More than 700 people who were on the march and counter-protest, contacted the BBC to express their views.",
+    "url": "https://www.bbc.com/news/articles/c4g9006l6z6o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T18:24:33Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6582/live/70f5a800-9582-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -62,7 +86,7 @@
   {
     "id": "BBC — Top Stories-2ce764448f",
     "source": "BBC — Top Stories",
-    "title": "New Troubles legacy deal 'a big step forward'",
+    "title": "New Troubles legacy deal 'a big step forward', says Harris",
     "summary": "The UK and Irish governments announce a framework which seeks to heal a rift between London and Dublin created by the NI Legacy Act.",
     "url": "https://www.bbc.com/news/articles/ckged550k76o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T17:44:19Z",
@@ -300,18 +324,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-76da15917d",
-    "source": "The Guardian — UK",
-    "title": "Judge quashes Home Office’s decision on US extradition of vulnerable man",
-    "summary": "Portugal has also made extradition request for Diogo Santos Coelho, who is facing cybercrime charges A high court judge has quashed a Home Office decision that paved the way for a vulnerable autistic man to be extradited to the US on cybercrime charges carrying a possible 52-year sentence. The UK government has accepted that Diogo Santos Coelho, 25, a Portuguese national, was groomed and exploited online by adults from the age of 14, leading to him setting up the website RaidForums, to which the alleged crimes relate. Continue reading...",
-    "url": "https://www.theguardian.com/law/2025/sep/19/judge-quashes-home-office-decision-diogo-santos-coelho-extradition",
-    "published": "2025-09-19T15:20:27Z",
-    "image_url": "https://i.guim.co.uk/img/media/a5cc7a7ed21844bde3596dea573237b670ad7aa4/1871_407_6701_5364/master/6701.jpg?width=140&quality=85&auto=format&fit=max&s=7f5511b2ad1d02f1b47cf7367d35f0e9",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-773c210de3",
     "source": "BBC — Top Stories",
     "title": "Two ambulance workers arrested after the deaths of six people",
@@ -319,6 +331,18 @@
     "url": "https://www.bbc.com/news/articles/cvgvnvnm0vro?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T15:07:44Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c483/live/429e6ad0-9561-11f0-a3c3-898ca8bade9c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-f9ba37b49a",
+    "source": "The Guardian — UK",
+    "title": "Green party membership surges after public split between Corbyn and Sultana",
+    "summary": "Almost 1,400 people sign up in 24 hours to increase party membership by 10% since Zack Polanski’s leadership win this month The Green party’s membership has jumped by more than 1,000 people in a day after a public split between Jeremy Corbyn and Zarah Sultana cast doubt on the viability of the pair’s new leftwing party. Almost 1,400 people signed up to the Greens in the 24 hours since the bitter disagreement emerged , in which Corbyn and his allies referred Sultana to the information watchdog after claims that she started collecting membership subscriptions without authority. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/19/greens-membership-surge-after-public-split-between-corbyn-and-sultana",
+    "published": "2025-09-19T15:06:33Z",
+    "image_url": "https://i.guim.co.uk/img/media/b86030ee508d7457d20b577e972785fcb88ca540/974_109_3300_2640/master/3300.jpg?width=140&quality=85&auto=format&fit=max&s=c5b8648919ab6d4cfbea96399667b1cf",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -456,18 +480,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-a3dc7ac048",
-    "source": "The Guardian — UK",
-    "title": "UK borrowing hits five-year high for August at £18bn",
-    "summary": "Worsening public finances mean Rachel Reeves will almost certainly announce tax rises in November budget UK government borrowing rose to a five-year high in August, official figures show, fuelling growing expectations for Rachel Reeves to raise taxes at the autumn budget. Figures from the Office for National Statistics (ONS) showed public sector net borrowing – the difference between public spending and income – rose to £18bn in August, £3.5bn more than in the same month a year earlier. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/sep/19/uk-borrowing-budget-rachel-reeves",
-    "published": "2025-09-19T09:48:46Z",
-    "image_url": "https://i.guim.co.uk/img/media/52234c01c6c66fc86acece409a1f2efeca7f6229/856_433_3473_2780/master/3473.jpg?width=140&quality=85&auto=format&fit=max&s=1594f67f2eb2cdaa0edf9484de81680a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-318bc201cd",
     "source": "Politico — UK",
     "title": "Leo rejects plan for AI pope",
@@ -571,18 +583,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/18/what-is-quantitative-tightening-how-affected-uk-finances",
     "published": "2025-09-18T18:23:15Z",
     "image_url": "https://i.guim.co.uk/img/media/516368ab22d61a77ea8aeee57ce7434115e1a4c0/756_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=71e49eedbc7e98ad539b374980fc990b",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9720856937",
-    "source": "BBC — Top Stories",
-    "title": "Weekly quiz: Why were these nuns on the run?",
-    "summary": "How much attention did you pay to what happened in the world over the past seven days?",
-    "url": "https://www.bbc.com/news/articles/cn5qk09v151o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-18T17:40:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5881/live/47438e50-94b0-11f0-b391-6936825093bd.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
