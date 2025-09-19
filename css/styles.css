@@ -8,15 +8,17 @@
   --tnl-wash:rgba(255,255,255,0.04);
   --tnl-wrap:1000px;
 
-  /* Feeds column + subscribe placement for mock */
-  --tnl-feeds-wrap:820px;            /* narrower column reduces stretching */
-  --subscribe-right-offset:140px;    /* pulls Subscribe left to sit above Help (tweak 120–160) */
+  /* Content widths */
+  --tnl-feeds-wrap:820px;
 
-  /* Brand offset so logo block sits a bit to the right */
-  --brand-left-offset:3.5rem;        /* tweak 3rem–4rem to taste */
+  /* Header geometry */
+  --brand-left-offset:5rem;          /* push brand (mini logo + logo) to the right */
+  --subscribe-right-offset:140px;    /* pulls Subscribe left (above Help) */
+  --subscribe-btn-width:120px;       /* approx width of the Subscribe pill */
 
-  /* NEW: match the nav’s left gutter to the brand so “Home” never sits left of the logo */
-  --nav-left-gutter:3.5rem;          /* usually same as --brand-left-offset */
+  /* Nav spacers (mirror brand & subscribe so tabs never overlap either) */
+  --nav-left-spacer:var(--brand-left-offset);
+  --nav-right-spacer:calc(var(--subscribe-right-offset) + var(--subscribe-btn-width));
 }
 
 *{box-sizing:border-box}
@@ -32,25 +34,21 @@ a{color:var(--tnl-text);text-decoration:none}
 a:hover{text-decoration:underline}
 .container{max-width:var(--tnl-wrap);margin:0 auto;padding:0 1rem}
 
-/* =========================
-   HEADER (2 rows)
-   ========================= */
+/* ========== HEADER ========== */
 .site-header{
   position:sticky; top:0; z-index:50;
   background:var(--tnl-card);
   border-bottom:1px solid var(--tnl-border);
 }
+
+/* Top row */
 .topbar{
   display:flex; align-items:center; justify-content:space-between;
   padding:.6rem 0;
-  position:relative; /* enables absolute positioning for align-subscribe variant */
+  position:relative;
 }
-
-/* Brand wrapper with logo + mini logo (pushed right via var) */
 header .brand{
-  display:flex;
-  align-items:center;
-  gap:.6rem;
+  display:flex; align-items:center; gap:.5rem;
   margin-left:var(--brand-left-offset);
 }
 .favicon-inline{ width:34px; height:34px; margin-right:.15rem; opacity:.95; }
@@ -67,7 +65,7 @@ header .brand img.banner{ height:96px; max-width:100%; image-rendering:auto; }
 .btn.with-icon{ display:inline-flex; align-items:center; gap:.45rem; }
 .mini-icon{ width:18px; height:18px; border-radius:4px; }
 
-/* align-subscribe variant: keep Subscribe above Help and never past About */
+/* keep Subscribe above Help (not past About) */
 .align-subscribe .topbar{ position:relative; }
 .align-subscribe .top-actions{
   position:absolute;
@@ -76,17 +74,23 @@ header .brand img.banner{ height:96px; max-width:100%; image-rendering:auto; }
   transform:translateY(-50%);
 }
 
-/* nav row */
+/* Nav row (with spacers) */
 .navbar{ border-top:1px solid var(--tnl-border); background:rgba(255,255,255,0.02); }
 .navbar-inner{
-  display:flex; align-items:center; gap:.5rem; flex-wrap:wrap; padding:.5rem 0;
-  justify-content:center; /* keep nav centered overall */
-  /* NEW: pad the nav left/right to mirror brand + subscribe spacing */
-  padding-left:calc(var(--nav-left-gutter) + 1rem);
-  padding-right:calc(var(--subscribe-right-offset) + 1rem);
+  display:grid;
+  grid-template-columns: var(--nav-left-spacer) 1fr var(--nav-right-spacer);
+  align-items:center;
+  gap:1rem;
+  padding:.5rem 0;
 }
-.nav{ display:flex; align-items:center; gap:1.1rem; flex-wrap:wrap; }
-.nav a{ padding:.35rem .6rem; border-radius:8px; font-size:.98rem; white-space:nowrap; }
+.nav{
+  display:flex; justify-content:center; align-items:center;
+  gap:1.4rem; flex-wrap:wrap;
+}
+.nav a{
+  padding:.35rem .6rem; border-radius:8px;
+  font-size:.98rem; white-space:nowrap;
+}
 .nav a:hover{ background:var(--tnl-wash); text-decoration:none; }
 .nav a[aria-current="page"]{ font-weight:700; border-bottom:2px solid var(--tnl-red); border-radius:0; }
 
@@ -99,12 +103,14 @@ header .brand img.banner{ height:96px; max-width:100%; image-rendering:auto; }
 .pill.sub::before{ content:"🔒"; }
 
 /* badges/meta */
-.badge{ display:inline-block; font-size:.75rem; background:var(--tnl-wash);
+.badge{
+  display:inline-block; font-size:.75rem; background:var(--tnl-wash);
   border:1px solid var(--tnl-border); border-radius:6px; padding:.1rem .4rem;
-  margin-right:.25rem; color:var(--tnl-muted); }
+  margin-right:.25rem; color:var(--tnl-muted);
+}
 .meta{ font-size:.8rem; color:var(--tnl-muted); margin:.25rem 0 .5rem; }
 
-/* cards */
+/* ========== CARDS ========== */
 .card{
   background:var(--tnl-card); border:1px solid var(--tnl-border);
   border-radius:12px; overflow:hidden;
@@ -125,17 +131,20 @@ header .brand img.banner{ height:96px; max-width:100%; image-rendering:auto; }
   width:auto; max-width:100%; height:auto; aspect-ratio:auto; object-fit:contain; /* small images won't stretch */
 }
 
-/* feed layout helper */
+/* layout helper */
 .content-narrow{ max-width:var(--tnl-feeds-wrap); margin:0 auto; }
 
-/* responsive: return Subscribe to far-right on small screens */
+/* responsive */
 @media (max-width:900px){
   .align-subscribe .top-actions{ position:static; transform:none; }
   .topbar{ justify-content:space-between; }
   .navbar-inner{
-    padding-left:1rem;          /* drop gutters on narrow screens */
-    padding-right:1rem;
+    grid-template-columns: 1rem 1fr 1rem; /* drop spacers on small screens */
+    padding: .5rem 0;
   }
 }
 
-.site-footer{ border-top:1px solid var(--tnl-border); padding:1rem; color:var(--tnl-muted); text-align:center; }
+.site-footer{
+  border-top:1px solid var(--tnl-border);
+  padding:1rem; color:var(--tnl-muted); text-align:center;
+}
