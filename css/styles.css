@@ -6,19 +6,17 @@
   --tnl-muted:#9a9aa0;
   --tnl-border:#232326;
   --tnl-wash:rgba(255,255,255,0.06);
-  --tnl-wrap:1000px;
 
-  /* Optional header offsets (only used on wide screens) */
-  --brand-left-offset: 0rem;
-  --subscribe-right-offset: 120px;
+  /* Site max width — widened so all tabs fit one line */
+  --tnl-wrap:1200px;
 }
 
-/* Base */
+/* ===== Base ===== */
 *{ box-sizing:border-box; }
 html,body{ height:100%; }
 body{
   margin:0; line-height:1.55;
-  font-family: ui-sans-serif,-apple-system,Segoe UI,Inter,Roboto,sans-serif;
+  font-family:ui-sans-serif,-apple-system,Segoe UI,Inter,Roboto,sans-serif;
   background:var(--tnl-bg); color:var(--tnl-text);
 }
 img{ max-width:100%; height:auto; display:block; }
@@ -26,93 +24,97 @@ a{ color:var(--tnl-text); text-decoration:none; }
 a:hover{ text-decoration:underline; }
 .container{ max-width:var(--tnl-wrap); margin:0 auto; padding:0 1rem; }
 
-/* Header */
+/* ===== Header (brand + nav + subscribe aligned) ===== */
 .site-header{
   position:sticky; top:0; z-index:1000;
   background:var(--tnl-card);
   border-bottom:1px solid var(--tnl-border);
 }
+
+/* Row 1: brand + subscribe */
 .topbar{
   display:flex; align-items:center; justify-content:space-between;
-  padding:.6rem 0;
-  position:relative; z-index:1; /* under nav row so links stay clickable */
+  padding:.75rem 1rem;
+  max-width:var(--tnl-wrap);
+  margin:0 auto;
+  position:relative; z-index:1; /* sits below nav row if needed */
 }
 
-/* Brand */
+/* Brand (mini + banner) */
 header .brand{
-  display:flex; align-items:center; gap:.5rem;
-  margin-left:var(--brand-left-offset);
+  display:flex; align-items:center; gap:.6rem;
   min-width:0;
 }
-.favicon-inline{ width:28px; height:28px; opacity:.95; border-radius:6px; }
-header .brand img.banner{ height:56px; object-fit:contain; }
-
-/* Subscribe */
-.top-actions{ display:flex; align-items:center; gap:.4rem; }
-.btn{
-  display:inline-block; padding:.42rem .9rem; border-radius:10px;
-  border:1px solid var(--tnl-border); background:var(--tnl-card);
-  color:var(--tnl-text); font-size:.95rem;
+.favicon-inline{
+  width:34px; height:34px; border-radius:6px; opacity:.95;
 }
-.btn:hover{ background:var(--tnl-wash); text-decoration:none; }
-.btn.primary{ background:var(--tnl-red); color:#fff; border:1px solid transparent; }
-.btn.with-icon{ display:inline-flex; align-items:center; gap:.45rem; }
+header .brand img.banner{
+  height:110px;           /* bigger logo */
+  object-fit:contain;
+}
+
+/* Subscribe button */
+.top-actions .btn{
+  display:inline-flex; align-items:center; gap:.45rem;
+  font-size:1rem; font-weight:600;
+  padding:.55rem 1.15rem; border-radius:12px;
+  border:1px solid transparent;
+  background:var(--tnl-red); color:#fff;
+  box-shadow:0 1px 0 rgba(255,255,255,.08) inset, 0 6px 20px rgba(225,51,45,.18);
+}
+.top-actions .btn:hover{ text-decoration:none; transform:translateY(-1px); }
 .mini-icon{ width:18px; height:18px; border-radius:4px; }
 
-/* Offset subscribe only on wide screens */
-.align-subscribe .top-actions{ position:static; }
-@media (min-width:1100px){
-  .align-subscribe .top-actions{
-    position:absolute; right:var(--subscribe-right-offset);
-    top:50%; transform:translateY(-50%);
-  }
-}
-
-/* Nav row */
+/* Row 2: nav (shares same left/right with topbar) */
 .navbar{
   border-top:1px solid var(--tnl-border);
   background:rgba(255,255,255,0.02);
-  position:relative; z-index:2; /* above topbar */
+  position:relative; z-index:2;
 }
 .navbar-inner{
-  display:grid; align-items:center; gap:.75rem; padding:.5rem .25rem;
-  grid-template-columns: 1fr auto 1fr; /* left spacer | nav | right spacer */
+  max-width:var(--tnl-wrap);
+  margin:0 auto;
+  padding:.55rem 1rem;
+  display:flex; justify-content:center; align-items:center;
 }
-.nav{
-  display:flex; align-items:center; justify-content:center; gap:1rem;
-  flex-wrap:wrap;                 /* wrap on small screens */
-  overflow-x:auto;                /* safety if many tabs */
+#site-nav.nav{
+  display:flex; align-items:center; justify-content:center;
+  gap:1.25rem;
+  flex-wrap:nowrap;             /* keep one line */
+  overflow-x:auto;              /* allow horizontal scroll if too tight */
   -webkit-overflow-scrolling:touch;
   scrollbar-width:thin;
 }
-.nav a{
+#site-nav.nav a{
   display:inline-flex; align-items:center; gap:.4rem;
-  padding:.35rem .6rem; border-radius:8px; font-size:.95rem;
+  padding:.4rem .7rem;
+  border-radius:9px;
+  font-size:.95rem;
   white-space:nowrap;
 }
-.nav a:hover{ background:var(--tnl-wash); text-decoration:none; }
-.nav a[aria-current="page"]{
+#site-nav.nav a:hover{ background:var(--tnl-wash); text-decoration:none; }
+#site-nav.nav a[aria-current="page"]{
   font-weight:700; border-bottom:2px solid var(--tnl-red); border-radius:0;
 }
 
-/* Lock pills */
+/* Lock pill */
 .pill{
   display:inline-flex; align-items:center; gap:.25rem;
-  padding:.15rem .45rem; border-radius:999px; font-size:.7rem; line-height:1;
-  border:1px solid var(--tnl-border); background:var(--tnl-wash); color:var(--tnl-muted);
+  padding:.15rem .45rem; border-radius:999px;
+  font-size:.7rem; line-height:1;
+  border:1px solid var(--tnl-border);
+  background:var(--tnl-wash); color:var(--tnl-muted);
   margin-left:.25rem;
 }
 .pill.sub::before{ content:"🔒"; }
 
-/* Content helpers */
+/* ===== Content helpers ===== */
 .pad-main{ padding:1rem 1rem 2rem; }
 .h2{ margin-top:2rem; }
 .cta-row{ display:flex; gap:.5rem; flex-wrap:wrap; }
-
-/* Simple teaser grid */
 .teaser-grid{
   display:grid; gap:1rem; margin:1rem 0 2rem;
-  grid-template-columns: repeat(auto-fill, minmax(260px,1fr));
+  grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
 }
 
 /* Cards (optional for feeds) */
@@ -133,11 +135,19 @@ header .brand img.banner{ height:56px; object-fit:contain; }
   padding:1rem; color:var(--tnl-muted); text-align:center;
 }
 
-/* Responsive tweaks */
-@media (max-width:900px){
-  header .brand img.banner{ height:40px; }
+/* ===== Responsive tweaks ===== */
+@media (max-width: 1100px){
+  header .brand img.banner{ height:90px; }
 }
-@media (max-width:520px){
-  .container.topbar{ flex-wrap:wrap; }
-  .top-actions{ width:100%; margin-top:.5rem; }
+@media (max-width: 900px){
+  header .brand img.banner{ height:72px; }
+}
+@media (max-width: 700px){
+  header .brand img.banner{ height:56px; }
+  .favicon-inline{ width:28px; height:28px; }
+  #site-nav.nav{ gap:.9rem; }
+}
+@media (max-width: 520px){
+  .topbar{ flex-wrap:wrap; row-gap:.5rem; }
+  .top-actions{ width:100%; display:flex; justify-content:flex-start; }
 }
