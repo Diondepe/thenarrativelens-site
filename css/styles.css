@@ -39,9 +39,23 @@ a:hover{text-decoration:underline}
   padding:.6rem 0;
   position:relative; /* enables absolute positioning for align-subscribe variant */
 }
-.brand{ display:flex; align-items:center; gap:.4rem; }
-.favicon-inline{ width:34px; height:34px; margin-right:.15rem; opacity:.95; } /* closer to main logo */
-.brand img.banner{ height:96px; max-width:100%; image-rendering:auto; } /* larger logo */
+/* Brand wrapper with logo + mini logo */
+header .brand {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  margin-left: 2rem; /* 👈 pushes brand away from left edge */
+}
+
+header .brand img.banner {
+  height: 84px;
+}
+
+.favicon-inline {
+  width: 28px;
+  height: 28px;
+  opacity: .95;
+}
 
 .top-actions{ display:flex; align-items:center; gap:.35rem; }
 .btn{
