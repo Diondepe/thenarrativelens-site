@@ -1,5 +1,29 @@
 [
   {
+    "id": "BBC — Top Stories-7b57ac69e0",
+    "source": "BBC — Top Stories",
+    "title": "Nato intercepts Russian warplanes violating Estonian airspace",
+    "summary": "Estonia says three Russian MiG-31 fighter jets remained in Estonian airspace for 12 minutes.",
+    "url": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T19:06:29Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8007/live/0dfedb80-956f-11f0-aa3a-ddc192c3f339.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-c4cd17e4c5",
+    "source": "Politico — UK",
+    "title": "Russia ‘testing’ NATO with warplane incursion, Estonia warns",
+    "summary": "Vladimir Putin has no interest in peace, Margus Tsahkna told POLITICO.",
+    "url": "https://www.politico.eu/article/russia-nato-warplane-incursion-estonia-margus-tsahkna/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-19T18:40:22Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/GettyImages-2216084573-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-777cff29cb",
     "source": "BBC — Top Stories",
     "title": "US TV hosts back Kimmel as Trump threatens networks",
@@ -12,10 +36,22 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-d7f67792f2",
+    "source": "BBC — Top Stories",
+    "title": "Watch: Take That megafans 'super excited' ahead of surprise BBC performance",
+    "summary": "The band announced plans to take their Circus Live tour back on the road next summer.",
+    "url": "https://www.bbc.com/news/videos/c39rdpm12reo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T18:05:45Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b49/live/beef0d30-9582-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-4d3ed7cc73",
     "source": "The Guardian — UK",
-    "title": "‘Go-to trope’: how the far right are exploiting violence against women and girls",
-    "summary": "From Tommy Robinson to Reform UK, far right figures are weaponising women’s safety to push anti-migrant fears “Our women, our daughters are scared to walk the streets,” Tommy Robinson told tens of thousands of cheering supporters at last Saturday’s “unite the kingdom” rally. “Their safety has been taken from them,” he said, his voice croaking from the strain of shouting into his microphone. Communities were crumbling, he added, “at the hands of open border, mass uncontrolled immigration”. The need to protect women and children from the threat posed by illegal immigration has this summer become an increasingly frequent rallying cry used by politicians on the right to justify a hardening anti-immigrant rhetoric. Continue reading...",
+    "title": "‘Go-to trope’: how the far right is exploiting violence against women and girls",
+    "summary": "From Tommy Robinson to Reform UK, nationalist figures are weaponising women’s safety to push anti-migrant fears “Our women, our daughters are scared to walk the streets,” Tommy Robinson told tens of thousands of cheering supporters at last Saturday’s “unite the kingdom” rally. “Their safety has been taken from them,” he said, his voice croaking from the strain of shouting into his microphone. Communities were crumbling, he added, “at the hands of open border, mass uncontrolled immigration”. The need to protect women and children from the threat posed by illegal immigration has this summer become an increasingly frequent rallying cry used by politicians on the right to justify a hardening anti-immigrant rhetoric. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/19/go-to-trope-how-the-far-right-are-exploiting-violence-against-women-and-girls",
     "published": "2025-09-19T17:56:52Z",
     "image_url": "https://i.guim.co.uk/img/media/40a0bf1f5632fccca847323e68e387a89dab7fc4/776_0_4213_3371/master/4213.jpg?width=140&quality=85&auto=format&fit=max&s=a3938a6a2a9e10b2af0ca4675585f6a0",
@@ -31,18 +67,6 @@
     "url": "https://www.bbc.com/news/articles/ckged550k76o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T17:44:19Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf0e/live/8167ade0-9560-11f0-84c8-99de564f0440.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7b57ac69e0",
-    "source": "BBC — Top Stories",
-    "title": "Nato intercepts Russian warplanes violating Estonian airspace",
-    "summary": "Estonia says three Russian MiG-31 fighter jets remained in Estonian airspace for 12 minutes.",
-    "url": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T17:43:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8007/live/0dfedb80-956f-11f0-aa3a-ddc192c3f339.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,18 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-5d782f9255",
-    "source": "Politico — UK",
-    "title": "Czech front-runner Babiš rules out lifting ban on sanctioned Russian media",
-    "summary": "Liberals fear that populist victory in next month's election could tilt Prague in Moscow's direction.",
-    "url": "https://www.politico.eu/article/andrej-babis-ano-party-czech-no-plans-lifiting-russia-media-ban/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-19T09:04:13Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/GettyImages-2233025905-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-9df4c6788d",
     "source": "BBC — Top Stories",
     "title": "The lonely life and death of Delhi's only African elephant",
@@ -535,18 +547,6 @@
     "url": "https://www.bbc.com/news/articles/c4g921p3eq3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T01:56:12Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dd3/live/6fe5b320-94c8-11f0-ae31-4b2ff13b501f.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-95a31dc54b",
-    "source": "BBC — Top Stories",
-    "title": "Why France is at risk of becoming the new sick man of Europe",
-    "summary": "The country is at the conjuncture of several crises at once - but is it fair to blame Macron for 'this shipwreck'?",
-    "url": "https://www.bbc.com/news/articles/cvg9n6vr2eyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-18T23:34:01Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a755/live/0b9ce8d0-9481-11f0-84c8-99de564f0440.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
