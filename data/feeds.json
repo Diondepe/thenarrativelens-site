@@ -1,9 +1,57 @@
 [
   {
+    "id": "The Guardian — UK-cca300f74e",
+    "source": "The Guardian — UK",
+    "title": "Peter Mandelson unlikely to retain Labour whip if he returns to Lords, senior peer says – UK politics live",
+    "summary": "Lord Foulkes was responding to Harriet Harman’s suggestion Mandelson should be banned from the Lords The UK is preparing to recognise the state of Palestine imminently, after Israel failed to meet conditions that would have postponed the historic step, including a ceasefire in Gaza, Patrick Wintour reports. YouGov has relased polling today suggesting that Britons are in favour of this by more than two to one, although a large minority of people do not have a view. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/19/uk-politics-latest-news-updates-labour-keir-starmer-donald-trump",
+    "published": "2025-09-19T13:17:46Z",
+    "image_url": "https://i.guim.co.uk/img/media/7d5b459926ed240a42de52db8fcdbf1b5d088d9e/678_0_5705_4564/master/5705.jpg?width=140&quality=85&auto=format&fit=max&s=f626075dbe5211faf2a5ddd9692b0659",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-319fa0efb4",
+    "source": "BBC — Top Stories",
+    "title": "Family describe immense joy as British couple freed from Taliban prison",
+    "summary": "The family of Barbie, 76, and Peter Reynolds, 80, had feared they would die in an Afghan prison as their health deteriorated.",
+    "url": "https://www.bbc.com/news/articles/c0q7l8ewj0wo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T13:13:45Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/635b/live/1b6253c0-954b-11f0-84c8-99de564f0440.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-76da15917d",
+    "source": "The Guardian — UK",
+    "title": "Judge quashes Home Office decision to extradite vulnerable man to US",
+    "summary": "Portugal has also made extradition request for Diogo Santos Coelho, who is facing cybercrime charges A High Court judge has quashed a Home Office decision which paved the way for a vulnerable autistic man to be extradited to the US on cybercrime charges carrying a possible 52-year sentence. The UK government has accepted that Portuguese national Diogo Santos Coelho, 25, was groomed and exploited online by adults from the age of 14, leading to him setting up the website RaidForums, to which the alleged crimes relate. Continue reading...",
+    "url": "https://www.theguardian.com/law/2025/sep/19/judge-quashes-home-office-decision-diogo-santos-coelho-extradition",
+    "published": "2025-09-19T13:12:55Z",
+    "image_url": "https://i.guim.co.uk/img/media/a5cc7a7ed21844bde3596dea573237b670ad7aa4/1871_407_6701_5364/master/6701.jpg?width=140&quality=85&auto=format&fit=max&s=7f5511b2ad1d02f1b47cf7367d35f0e9",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-777cff29cb",
+    "source": "BBC — Top Stories",
+    "title": "US TV hosts back Kimmel as Trump threatens TV networks",
+    "summary": "America's leading late-night TV hosts lament Jimmy Kimmel's suspension as a \"blatant assault on freedom of speech\".",
+    "url": "https://www.bbc.com/news/articles/clyxjve3pe2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T13:06:25Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0bd/live/7fb2c200-954c-11f0-b391-6936825093bd.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-7597e550cf",
     "source": "The Guardian — UK",
     "title": "Outgoing MI6 chief says Putin has ‘bitten off more than he can chew’ in Ukraine",
-    "summary": "Richard Moore said Russia was unlikely to win on battlefield, as his agency launched call to recruit spies UK politics live – latest updates Europe live – latest updates The outgoing head of MI6 has issued a damning indictment of Russia’s invasion of Ukraine saying that Vladimir Putin has “bitten off more than he can chew”. Richard Moore, known within MI6 as C, used his farewell speech in Istanbul to say that while Russia was unlikely to win on the battlefield, his agency was seeking to recruit new spies inside Russia and worldwide in order to fight back. Continue reading...",
+    "summary": "Richard Moore said Russia was unlikely to win on battlefield, as his agency launched call to recruit spies UK politics live – latest updates Europe live – latest updates The outgoing head of MI6 has issued a damning indictment of Russia’s invasion of Ukraine, saying that Vladimir Putin has “bitten off more than he can chew”. Richard Moore, known within MI6 as C, used his farewell speech in Istanbul to say that while Russia was unlikely to win on the battlefield, his agency was seeking to recruit spies inside Russia and worldwide in order to fight back. Continue reading...",
     "url": "https://www.theguardian.com/world/2025/sep/19/putin-ukraine-richard-moore-mi6-spy-recruitment",
     "published": "2025-09-19T12:19:06Z",
     "image_url": "https://i.guim.co.uk/img/media/c3296b374656dca29b0a854ac88efc335b137b72/0_296_3403_2722/master/3403.jpg?width=140&quality=85&auto=format&fit=max&s=2dd3e36f517798602123ec1477a55eed",
@@ -15,7 +63,7 @@
     "id": "The Guardian — UK-0da6971b65",
     "source": "The Guardian — UK",
     "title": "UK households put a record £103bn into Isas amid ‘dash for cash’",
-    "summary": "Figures show 15m more tax-efficient savings accounts were opened in 2023-24, with more following as fears grew allowance might be cut Business live – latest updates British households stuffed a record £103bn into tax-efficient individual savings accounts , according to annual figures that underline the strong appetite for the certainty of cash over stock market investments. Savers opened 15m Isas in the 2023-24 tax year, up from 12.4m the year before and the highest level for 13 years. The spree was driven primarily by a rise in demand for the cash Isas, rather than the stocks and shares version. Continue reading...",
+    "summary": "Figures show 15m more tax-efficient savings accounts were opened in 2023-24, with more following as fears grew allowance might be cut Business live – latest updates British households stuffed a record £103bn into tax-efficient individual savings accounts , according to annual figures that underline the strong appetite for the certainty of cash over stock market investments. Savers opened 15m Isas in the 2023-24 tax year, up from 12.4m the year before and the highest level for 13 years. The spree was driven primarily by a rise in demand for the cash Isas rather than the stocks and shares version. Continue reading...",
     "url": "https://www.theguardian.com/money/2025/sep/19/uk-isas-cash-tax-savings-accounts-allowance-cut",
     "published": "2025-09-19T12:11:06Z",
     "image_url": "https://i.guim.co.uk/img/media/700dc51f1ea7e5e7b34f1d4ea2d46d78754ceff9/292_0_2917_2334/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=409154fc8290aec6e02a7756027cc0df",
@@ -24,22 +72,10 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-cca300f74e",
-    "source": "The Guardian — UK",
-    "title": "Peter Mandelson unlikely to retain Labour whip if he returns to Lords, senior peer says – UK politics live",
-    "summary": "Lord Foulkes was responding to Harriet Harman’s suggestion Mandelson should be banned from the Lords The UK is preparing to recognise the state of Palestine imminently, after Israel failed to meet conditions that would have postponed the historic step, including a ceasefire in Gaza, Patrick Wintour reports. YouGov has relased polling today suggesting that Britons are in favour of this by more than two to one, although a large minority of people do not have a view. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/sep/19/uk-politics-latest-news-updates-labour-keir-starmer-donald-trump",
-    "published": "2025-09-19T12:08:50Z",
-    "image_url": "https://i.guim.co.uk/img/media/7d5b459926ed240a42de52db8fcdbf1b5d088d9e/678_0_5705_4564/master/5705.jpg?width=140&quality=85&auto=format&fit=max&s=f626075dbe5211faf2a5ddd9692b0659",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e9f6f6e334",
     "source": "The Guardian — UK",
     "title": "British and Irish governments to present new Troubles legacy proposals",
-    "summary": "Framework outlines legislation both sides will need to pass to create agency investigating Troubles-era crimes UK politics live – latest updates The British and Irish governments are to announce a new framework to deal with the legacy of Northern Ireland’s Troubles, in an effort to resolve an issue that has bedevilled politics in the region and relations between London and Dublin. The proposals, to be outlined on Friday afternoon, threaten to reopen a rift between the government and former troops who got amnesty from prosecution under the Legacy Act, passed by the Conservative government in 2023. Continue reading...",
+    "summary": "Framework outlines legislation both sides will need to pass to create agency investigating Troubles-era crimes UK politics live – latest updates The British and Irish governments are to announce a new framework to deal with the legacy of Northern Ireland’s Troubles in an effort to resolve an issue that has bedevilled politics in the region and relations between London and Dublin. The proposals, to be outlined on Friday afternoon, threaten to reopen a rift between the government and former troops who got amnesty from prosecution under the Legacy Act, passed by the Conservative government in 2023. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/sep/19/british-irish-governments-troubles-legacy-proposals",
     "published": "2025-09-19T12:01:00Z",
     "image_url": "https://i.guim.co.uk/img/media/3b3f7dcafa0efb51d465b30072f8abe6dea45f17/632_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=09a8775a75307249c9c247d793651139",
@@ -72,6 +108,18 @@
     "cluster_id": null
   },
   {
+    "id": "Politico — UK-f328d13ae9",
+    "source": "Politico — UK",
+    "title": "France eyes optional military service as Putin lurks",
+    "summary": "No conscription yet, but French politicians are getting creative to attract people to the armed forces.",
+    "url": "https://www.politico.eu/article/france-will-reinstate-voluntary-military-service-soon/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-19T11:46:31Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/13193019-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-93a187a7b2",
     "source": "BBC — Top Stories",
     "title": "Taliban official dismisses Trump's hope to 'take back' Afghan airbase",
@@ -86,7 +134,7 @@
   {
     "id": "Politico — UK-b6b9cb81af",
     "source": "Politico — UK",
-    "title": "EU hammers Putin with new sanctions on Russian energy, banking and crypto",
+    "title": "EU hammers Putin and charms Trump by targeting China in new Russia sanctions",
     "summary": "The Kremlin \"has shown the full extent of its contempt for diplomacy and international law,\" says Ursula von der Leyen.",
     "url": "https://www.politico.eu/article/eu-commission-approves-new-russia-sanctions-package-to-hit-putins-war-chest/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-19T11:16:38Z",
@@ -115,18 +163,6 @@
     "url": "https://www.politico.eu/article/flag-spat-erupts-france-macron-prepares-recognize-palestinian-statehood/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-19T11:12:16Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/palestine-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-319fa0efb4",
-    "source": "BBC — Top Stories",
-    "title": "British couple freed after months in Taliban prison",
-    "summary": "The family of Barbie, 76, and Peter Reynolds, 80, had feared they would die in an Afghan prison as their health deteriorated.",
-    "url": "https://www.bbc.com/news/articles/c0q7l8ewj0wo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T11:12:10Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/635b/live/1b6253c0-954b-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -175,30 +211,6 @@
     "url": "https://www.theguardian.com/world/2025/sep/19/british-couple-peter-and-barbie-reynolds-freed-after-six-months-in-captivity-in-afghanistan",
     "published": "2025-09-19T10:54:20Z",
     "image_url": "https://i.guim.co.uk/img/media/947b3686fa1adb0f931f0d21b48e8bebdef4e784/462_151_2973_2379/master/2973.jpg?width=140&quality=85&auto=format&fit=max&s=7f5db1f932d86441975f75cd4f0f12fd",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-777cff29cb",
-    "source": "BBC — Top Stories",
-    "title": "US TV hosts back Kimmel as Trump threatens TV networks",
-    "summary": "America's late-night TV hosts rally behind fellow comedian Jimmy Kimmel after he was suspended by ABC.",
-    "url": "https://www.bbc.com/news/articles/clyxjve3pe2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T10:51:00Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0bd/live/7fb2c200-954c-11f0-b391-6936825093bd.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-76da15917d",
-    "source": "The Guardian — UK",
-    "title": "Judge quashes Home Office decision to extradite vulnerable man to US",
-    "summary": "Portugal has also made extradition request for Diogo Santos Coelho who is facing cybercrime charges A high court judge has ruled that a vulnerable autistic man should not be extradited to the US on cybercrime charges, quashing a Home Office decision. The UK government has accepted that Diogo Santos Coelho, 25, was groomed and exploited online by adults from the age of 14, leading to him setting up the website RaidForums, to which the alleged crimes relate. Continue reading...",
-    "url": "https://www.theguardian.com/law/2025/sep/19/judge-quashes-home-office-decision-diogo-santos-coelho-extradition",
-    "published": "2025-09-19T10:48:37Z",
-    "image_url": "https://i.guim.co.uk/img/media/a5cc7a7ed21844bde3596dea573237b670ad7aa4/1871_407_6701_5364/master/6701.jpg?width=140&quality=85&auto=format&fit=max&s=7f5511b2ad1d02f1b47cf7367d35f0e9",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -403,18 +415,6 @@
     "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/ein-verhinderter-spaziergang-mit-wolfram-weimer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-19T03:01:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/09/Berlin-Playbook-Website-card-1-1.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-d275b305a1",
-    "source": "Politico — UK",
-    "title": "The digital euro has enraged half of Brussels. Here’s what you need to know.",
-    "summary": "Who'd have thought a digital version of physical cash would be so controversial?",
-    "url": "https://www.politico.eu/article/digital-euro-enraged-half-brussels-eu-what-you-need-to-know-ecb/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-19T02:37:20Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/10/web-Digital-Euro-OK.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
