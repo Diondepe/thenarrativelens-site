@@ -11,32 +11,37 @@
 <body>
 
 <header class="site-header align-subscribe">
-  <!-- Top row: Brand (left) + Subscribe (right) -->
   <div class="container topbar">
     <a class="brand" href="index.html" aria-label="Go to Home">
       <img class="favicon-inline" src="assets/favicon-redesigned.png" alt="TNL" />
       <img class="banner" src="assets/tnl-banner-matrix.png" alt="The Narrative Lens" />
     </a>
-
     <div class="top-actions">
-      <a class="btn subscribe" href="subscribe.html">Subscribe</a>
+      <a href="subscribe.html" class="btn primary with-icon">
+        <img class="mini-icon" src="assets/favicon-redesigned.png" alt="" /> Subscribe
+      </a>
     </div>
   </div>
 
-  <!-- Nav row: links only (separate row so they don't overlap logos/subscribe) -->
   <div class="navbar">
-    <ul class="nav-list">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="narratives.html">Narratives</a></li>
-      <li><a href="narrative-news.html">Narrative News</a></li>
-      <li><a href="lens-timeline.html">Lens-Timeline</a></li>
-      <li><a href="lens-video.html">Lens-Video</a></li>
-      <li><a href="lens-actors.html">Lens-Actors</a></li>
-      <li><a href="help.html">Help</a></li>
-      <li><a href="about.html">About</a></li>
-    </ul>
+    <div class="container navbar-inner">
+      <div class="nav-spacer-left" aria-hidden="true"></div>
+      <nav class="nav" aria-label="Primary">
+        <a href="index.html">Home</a>
+        <a href="narratives.html">Narratives</a>
+        <a href="feeds.html" aria-current="page">Narrative News</a>
+        <a href="videos.html">Lens-Video</a>
+        <a href="actors.html">Lens-Actors <span class="pill sub"></span></a>
+        <a href="lens-test.html">Lens-Test <span class="pill sub"></span></a>
+        <a href="timeline.html">Lens-Timeline <span class="pill sub"></span></a>
+        <a href="help.html">Help</a>
+        <a href="about.html">About</a>
+      </nav>
+      <div class="nav-spacer-right" aria-hidden="true"></div>
+    </div>
   </div>
 </header>
+
 
 
 <main class="container" style="padding:1rem 1rem 2rem">
