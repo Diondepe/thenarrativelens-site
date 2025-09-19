@@ -1,57 +1,52 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <title>The Narrative Lens</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="icon" href="assets/favicon.png" />
-  <link rel="stylesheet" href="styles.css" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>The Narrative Lens — Home</title>
+  <base href="https://diondepe.github.io/thenarrativelens-site/">
+  <link rel="icon" type="image/png" href="assets/favicon-redesigned.png">
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-  <!-- Header -->
-  <header class="tnl-header">
-    <div class="brand">
-      <img class="brand-mini" src="assets/mini-logo.png" alt="TNL mini logo" />
-      <img class="brand-full" src="assets/logo.png" alt="The Narrative Lens" />
+<header class="site-header align-subscribe">
+  <div class="container topbar">
+    <a class="brand" href="index.html">
+      <img class="favicon-inline" src="assets/favicon-redesigned.png" alt="">
+      <img class="banner" src="assets/tnl-banner-matrix.png" alt="The Narrative Lens">
+    </a>
+    <div class="top-actions">
+      <a href="subscribe.html" class="btn primary with-icon">
+        <img class="mini-icon" src="assets/favicon-redesigned.png" alt=""> Subscribe
+      </a>
     </div>
-
-    <nav class="tnl-nav" aria-label="Primary">
-      <ul class="nav-list">
-        <li class="nav-item"><a href="index.html">Home</a></li>
-
-        <!-- Cluster 1: Actors + Test + Timeline -->
-        <li class="nav-item"><a href="lens-actors.html">Lens-Actors</a></li>
-        <li class="nav-item"><a href="lens-test.html">Lens-Test</a></li>
-        <li class="nav-item"><a href="lens-timeline.html">Lens-Timeline</a></li>
-
-        <!-- Cluster 2: Narrative News + Lens-Video -->
-        <li class="nav-item"><a href="narrative-news.html">Narrative News</a></li>
-        <li class="nav-item"><a href="lens-video.html">Lens-Video</a></li>
-      </ul>
-
-      <div class="nav-cta">
-        <a class="btn" href="subscribe.html">Subscribe</a>
-      </div>
-    </nav>
-  </header>
-
-  <!-- Hero Banner -->
-  <section class="hero">
-    <img src="assets/tnl-banner-matrix.png" alt="The Narrative Lens banner" class="hero-banner" />
-  </section>
-
-  <!-- Main -->
-  <main class="container">
-    <h1>Welcome to The Narrative Lens</h1>
-    <p>Classified headlines, timelines, actors, and deeper context. Updated automatically.</p>
-  </main>
-
-  <footer class="tnl-footer">
-    <p>© <span id="y"></span> The Narrative Lens</p>
-  </footer>
-
-  <script>
-    document.getElementById('y').textContent = new Date().getFullYear();
-  </script>
+  </div>
+  <div class="navbar">
+    <div class="container navbar-inner">
+      <div class="nav-spacer-left" aria-hidden="true"></div>
+      <nav class="nav">
+        <a href="index.html" aria-current="page">Home</a>
+        <a href="narratives.html">Narratives</a>
+        <a href="feeds.html">Narrative News</a>
+        <a href="videos.html">Lens-Video</a>
+        <a href="actors.html">Lens-Actors <span class="pill sub"></span></a>
+        <a href="lens-test.html">Lens-Test</a>
+        <a href="timeline.html">Lens-Timeline <span class="pill sub"></span></a>
+        <a href="help.html">Help</a>
+        <a href="about.html">About</a>
+      </nav>
+      <div class="nav-spacer-right" aria-hidden="true"></div>
+    </div>
+  </div>
+</header>
+<main class="container" style="padding:1rem 1rem 2rem">
+  <h1>Welcome to The Narrative Lens</h1>
+  <p>Explore contentious narratives, timelines, and daily news framing.</p>
+  <p>Jump into <a class="btn" href="feeds.html">Narrative News</a> or take the <a class="btn" href="lens-test.html">Lens Test</a>.</p>
+  <h2 style="margin-top:2rem">Latest from Narrative News</h2>
+  <div id="home-feeds" class="teaser-grid"></div>
+</main>
+<footer class="site-footer">© The Narrative Lens</footer>
+<script src="js/app.js?v=7"></script>
 </body>
 </html>
