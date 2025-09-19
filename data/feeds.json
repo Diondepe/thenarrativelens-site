@@ -1,24 +1,96 @@
 [
   {
+    "id": "BBC — Top Stories-4326fa9b47",
+    "source": "BBC — Top Stories",
+    "title": "Migrant returned to France after government wins court challenge",
+    "summary": "Eritrean man arrives in Paris under the \"one in, one out\" deal as at least three boats carrying migrants left beaches in France.",
+    "url": "https://www.bbc.com/news/articles/cx273vnkjpmo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T08:23:40Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1fb/live/8bd4d710-951c-11f0-b0e0-2f34a724e07f.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6c6fde4382",
+    "source": "BBC — Top Stories",
+    "title": "Trump says TV networks opposed to him should 'maybe' lose licence, after Jimmy Kimmel suspension",
+    "summary": "Concerns grow that the Trump administration is curtailing criticism after ABC host Jimmi Kimmel's show was cancelled.",
+    "url": "https://www.bbc.com/news/articles/cr4qe0rz2zvo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T08:21:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd4/live/a4583f90-9529-11f0-b391-6936825093bd.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-018a872803",
+    "source": "The Guardian — UK",
+    "title": "Retail sales rise in Great Britain as warm weather boosts clothing purchases",
+    "summary": "Increase of 0.5% in August helped by back-to-school shopping, while food stores also given lift Back-to-school shopping and warm weather helped to boost retail sales last month, according to the latest official data. Total retail sales in Great Britain rose 0.5%, the Office for National Statistics (ONS) said, as parents prepared for the new school year and shoppers enjoyed a series of heatwave and the summer’s last bank holiday. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/sep/19/retail-sales-rise-in-great-britain-as-warm-weather-boosts-clothing-purchases",
+    "published": "2025-09-19T08:14:38Z",
+    "image_url": "https://i.guim.co.uk/img/media/02fcce886002919ce61549f8090bf9df06dcf39b/552_0_3740_2995/master/3740.jpg?width=140&quality=85&auto=format&fit=max&s=613bf02997dc445aae53dfa2fcd4c09a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-cca300f74e",
+    "source": "The Guardian — UK",
+    "title": "Minister dismisses Trump’s claim illegal migration ‘destroys countries from within’ – UK politics live",
+    "summary": "Business secretary Peter Kyle also brushes off suggestion from US president that UK military should be used to prevent illegal migration Good morning. Donald Trump has gone, but his voice and his impact haven’t. Although Keir Starmer got through their joint press conference without mishap, the president’s comments at Chequers about illegal migration are being reported this morning very prominently – in part because they resonate with the big chunk of political opinion in the UK inclined to agree. For Trump, who he seems to judge success almost entirely by how much media attention he can command, this is a triumph. I think your situation is very similar. You have people coming in and I told the prime minister I would stop it, and it doesn’t matter if you call out the military, it doesn’t matter what means you use It destroys countries from within and we’re actually now removing a lot of the people that came into our country. No. What I do believe is that illegal migration is something that is impacting our politics here in the UK. It is something that the British public expect this government to get a grip on. That is why today, when we have the second flight taking off with a migrant who doesn’t have the right to stay here being returned as part of the new returns agreement with France , this is a pilot. This is something we’re trialling. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/19/uk-politics-latest-news-updates-labour-keir-starmer-donald-trump",
+    "published": "2025-09-19T08:11:32Z",
+    "image_url": "https://i.guim.co.uk/img/media/eb4b7f5e14a23e51b2ca183e57dbbe3aff94bb44/69_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=e9a26989e656b1567dcdd85ad6c86b5f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-9b0104370c",
+    "source": "The Guardian — UK",
+    "title": "Senior minister brushes off Trump’s advice to use military to control UK borders",
+    "summary": "Peter Kyle says bolstered Border Force is tackling small boat crossings, as second person is deported ‘under one in, one out’ scheme One of Keir Starmer’s senior ministers has dismissed suggestions by Donald Trump that the British government call out the military to help deal with irregular migration. Peter Kyle, the business secretary, brushed off the comments, which the US president made on Thursday at the end of his two-day state visit. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/19/trump-advice-use-military-control-uk-borders-peter-kyle",
+    "published": "2025-09-19T08:10:06Z",
+    "image_url": "https://i.guim.co.uk/img/media/223db573cbebc0b6dadc59fd299a33391c736014/293_0_2665_2133/master/2665.jpg?width=140&quality=85&auto=format&fit=max&s=5688ff32d996c2658910a37c4de408c5",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-ea7536f0bb",
     "source": "BBC — Top Stories",
     "title": "Highest government borrowing in August for five years",
     "summary": "Increased tax receipts were outstripped by higher spending on public services, benefits and debt interest.",
     "url": "https://www.bbc.com/news/articles/cly9m4lqznro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T07:13:09Z",
+    "published": "2025-09-19T08:05:38Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22fc/live/e7f6b590-9521-11f0-8d9d-ffe2d3393044.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-4326fa9b47",
+    "id": "BBC — Top Stories-2ce764448f",
     "source": "BBC — Top Stories",
-    "title": "Second migrant removed to France after legal challenge fails",
-    "summary": "The Eritrean man was flown out early on Friday under the government's \"one in, one out\" deal.",
-    "url": "https://www.bbc.com/news/articles/cx273vnkjpmo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T07:04:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1fb/live/8bd4d710-951c-11f0-b0e0-2f34a724e07f.jpg",
+    "title": "Ireland commits to co-operate with new Troubles legacy body",
+    "summary": "A new framework seeks to heal a rift between the UK and Irish governments created by the Legacy Act.",
+    "url": "https://www.bbc.com/news/articles/ckged550k76o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T07:46:35Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d29/live/1cd929a0-94b9-11f0-bdbf-efe153f15d50.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e9f6f6e334",
+    "source": "The Guardian — UK",
+    "title": "British and Irish governments to present new Troubles legacy proposals",
+    "summary": "Framework outlines legislation both sides will need to pass to create agency investigating Troubles-era crimes The British and Irish governments are to announce a new framework to deal with the legacy of Northern Ireland’s Troubles, in an effort to resolve an issue that has bedevilled politics in the region and relations between London and Dublin. The proposals, to be outlined this afternoon, threaten to reopen a rift between the government and former soldiers who got amnesty from prosecution under the Legacy Act passed by the Conservative government in 2023. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/19/british-irish-governments-troubles-legacy-proposals",
+    "published": "2025-09-19T07:43:47Z",
+    "image_url": "https://i.guim.co.uk/img/media/3b3f7dcafa0efb51d465b30072f8abe6dea45f17/632_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=09a8775a75307249c9c247d793651139",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -27,22 +99,10 @@
     "id": "The Guardian — UK-f5e89f0343",
     "source": "The Guardian — UK",
     "title": "Eritrean man is second to be deported to France under UK’s ‘one in, one out’ deal",
-    "summary": "Home Office confirms man left Heathrow for Paris early on Friday after losing high court bid to block move An Eritrean man has been deported to France under the UK government’s “one in, one out” deal with the neighbouring country. The man – the second to be deported under the agreement – was on a flight that left Heathrow for Paris at 6.15am on Friday, the Home Office confirmed after he lost a high court attempt to block the move. Continue reading...",
+    "summary": "Home Office says man left Heathrow for Paris early on Friday after losing high court attempt to block move An Eritrean man has been deported to France under the UK government’s “one in, one out” deal with the neighbouring country. The man – the second to be deported under the agreement – was on a flight that left Heathrow for Paris at 6.15am on Friday, the Home Office confirmed after he lost a high court attempt to block the move. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/sep/19/eritrean-man-is-second-to-be-deported-to-france-under-uk-one-in-one-out-deal",
     "published": "2025-09-19T06:55:42Z",
     "image_url": "https://i.guim.co.uk/img/media/9664a763f5a0fe2b5c052529c30c46a64a97fbd9/125_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=1fe3b934094f7b4b313bacc5101c5ac0",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9649c1152c",
-    "source": "BBC — Top Stories",
-    "title": "Taliban ban books written by women from Afghan universities",
-    "summary": "The decree also outlaws the teaching of 18 subjects, including human rights and sexual harassment.",
-    "url": "https://www.bbc.com/news/articles/c0kn7yyzrjgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T06:18:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03e7/live/86d6f5a0-94a3-11f0-8e88-0f11af0637c1.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -84,18 +144,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-6c6fde4382",
-    "source": "BBC — Top Stories",
-    "title": "Trump says TV networks opposed to him should 'maybe' lose licence, after Jimmy Kimmel suspension",
-    "summary": "Concerns grow that the Trump administration is curtailing criticism after ABC host Jimmi Kimmel's show was cancelled.",
-    "url": "https://www.bbc.com/news/articles/cr4qe0rz2zvo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T05:32:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3109/live/80e5ce20-9528-11f0-84c8-99de564f0440.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-7400f90485",
     "source": "BBC — Top Stories",
     "title": "Alex Ferguson on music, memory and dementia projects",
@@ -122,11 +170,11 @@
   {
     "id": "BBC — Top Stories-7080fc9b7a",
     "source": "BBC — Top Stories",
-    "title": "Premier League ticket black market exposed",
+    "title": "BBC investigation exposes black market in Premier League tickets",
     "summary": "Find out what happened when we tried to attend four Premier League games with tickets from \"unauthorised\" websites.",
     "url": "https://www.bbc.com/sport/articles/cwy9dlqxx2ro?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T05:05:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d778/live/9886f550-9527-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43d6/live/436e6ea0-94a9-11f0-b391-6936825093bd.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -139,18 +187,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/19/ten-new-wild-swimming-locations-should-created-london-report",
     "published": "2025-09-19T05:00:36Z",
     "image_url": "https://i.guim.co.uk/img/media/a42c4c31b28edb612670c58d0fe770a01493117a/259_416_5445_4357/master/5445.jpg?width=140&quality=85&auto=format&fit=max&s=f11ff79789bf2efe13e9da454d03c169",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-e9f6f6e334",
-    "source": "The Guardian — UK",
-    "title": "British and Irish governments to unveil new Troubles legacy proposals",
-    "summary": "Framework outlines legislation both sides will need to pass to create agency investigating Troubles-era crimes The British and Irish governments are to unveil a new framework to deal with the legacy of Northern Ireland’s Troubles in an effort to resolve an issue that has bedevilled politics in the region and relations between London and Dublin. Hilary Benn, the Northern Ireland secretary, and Simon Harris, Ireland’s foreign minister, are scheduled to publish the long-awaited proposals on Friday after a year of negotiations to overhaul the controversial Legacy Act passed by the Conservative government in 2023. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/19/british-irish-governments-troubles-legacy-proposals",
-    "published": "2025-09-19T05:00:34Z",
-    "image_url": "https://i.guim.co.uk/img/media/3b3f7dcafa0efb51d465b30072f8abe6dea45f17/632_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=09a8775a75307249c9c247d793651139",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -324,18 +360,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-2a67fef8f0",
-    "source": "BBC — Top Stories",
-    "title": "Top Fortnite streamer Ninja tells BBC: Trolls mock me for being less popular",
-    "summary": "Tyler Blevins says trolls attack him every day for being less popular than he was at the height of his fame.",
-    "url": "https://www.bbc.com/news/articles/cvg98zd9q75o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T00:06:52Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dcc/live/d99c9110-9470-11f0-bc01-a3a35aa734ac.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-a97bbd7c9c",
     "source": "BBC — Top Stories",
     "title": "Spectacular autumn leaves expected after warm UK summer",
@@ -367,18 +391,6 @@
     "url": "https://www.bbc.com/news/articles/cvg9n6vr2eyo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-18T23:34:01Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a755/live/0b9ce8d0-9481-11f0-84c8-99de564f0440.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-957e1817ab",
-    "source": "The Guardian — UK",
-    "title": "UK doctors guilty of sexual misconduct are not being struck off, research finds",
-    "summary": "Analysis reveals 24% of guilty doctors handed suspensions but are allowed to keep working in medicine UK doctors who are guilty of sexual misconduct are not being appropriately sanctioned due to weak disciplinary processes, research reveals. Nearly a quarter (24%) of doctors found guilty of sexual misconduct were handed suspensions but allowed to continue working in medicine, according to analysis of fitness to practice tribunals by the Royal College of Surgeons (RCS). This is despite the regulator, the General Medical Council (GMC), recommending they be struck off the medical register. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/sep/18/uk-doctors-guilty-of-sexual-misconduct-are-not-being-struck-off-research-finds",
-    "published": "2025-09-18T22:30:26Z",
-    "image_url": "https://i.guim.co.uk/img/media/1c6fb69d0257a494f34f8c1a14cc6739a995ac27/28_0_2632_2106/master/2632.jpg?width=140&quality=85&auto=format&fit=max&s=a0735d72fd82d0a3e5cb2b7d9e724b09",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -451,6 +463,18 @@
     "url": "https://www.bbc.com/news/articles/c0r0vk1j4j8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-18T21:30:10Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f69b/live/78f27440-94cc-11f0-9b53-d3479fe92ada.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b4759f062e",
+    "source": "BBC — Top Stories",
+    "title": "Sarah Smith: Trump visit showed UK's warm relations - and limited influence",
+    "summary": "The good-natured state visit demonstrated strong relations, but no ally is likely to change the US president's mind.",
+    "url": "https://www.bbc.com/news/articles/cgkn3key65do?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-18T20:06:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea2d/live/a33aef10-9531-11f0-b391-6936825093bd.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -552,18 +576,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-8e46cccd9a",
-    "source": "The Guardian — UK",
-    "title": "UK politics: Trump suggests Starmer use army to tackle migration and says Putin ‘really let me down’ over Ukraine – as it happened",
-    "summary": "US and UK leaders also quizzed over Gaza and free speech as Trump claims he did not know former US ambassador, Peter Mandelson President Trump is now leaving Windsor Castle. He will be flying to Chequers by helicopter. Volodymyr Zelenskyy , the Ukrainian president, has thanked King Charles for what he said at the state banquet last night strongly supporting the Ukrainian cause. I extend my deepest thanks to His Majesty King Charles III @RoyalFamily for his steadfast support. Ukraine greatly values the United Kingdom’s unwavering and principled stance. When tyranny threatens Europe once again, we must all hold firm, and Britain continues to lead in defending freedom on many fronts. Together, we have achieved a lot, and with the support of freedom-loving nations—the UK, our European partners, and the US—we continue to defend values and protect lives. We are united in our efforts to make diplomacy work and secure lasting peace for the European continent. Our countries have the closest defence, security and intelligence relationship ever known. In two world wars, we fought together to defeat the forces of tyranny. Today, as tyranny once again threatens Europe, we and our allies stand together in support of Ukraine, to deter aggression and secure peace. And our Aukus submarine partnership, with Australia, sets the benchmark for innovative and vital collaboration. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/sep/18/donald-trump-state-visit-uk-keir-starmer-labour-politics-latest-news",
-    "published": "2025-09-18T17:10:28Z",
-    "image_url": "https://i.guim.co.uk/img/media/3b481b3e5184381ee343d9f990e06eea26f9b1b9/463_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b590f89bfcf3d1bce5dd3c28c6ca4eb2",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-82d287c7a6",
     "source": "The Guardian — UK",
     "title": "Bank’s interest rate vote and bond plans are little help to Reeves before budget",
@@ -571,18 +583,6 @@
     "url": "https://www.theguardian.com/business/2025/sep/18/banks-interest-rate-vote-and-bond-plans-are-little-help-to-reeves-ahead-of-budget",
     "published": "2025-09-18T17:02:32Z",
     "image_url": "https://i.guim.co.uk/img/media/e64096448adc3959ac8c849e03cc253dfdb973a6/0_0_4901_3921/master/4901.jpg?width=140&quality=85&auto=format&fit=max&s=a519a02bb66d350563e319e68b6ebb04",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-efb67d00b1",
-    "source": "The Guardian — UK",
-    "title": "UK faces years of anaemic growth amid tax and regulation burden, says Next",
-    "summary": "Retailer says economic outlook clouded by fall in job opportunities and government overspending Bosses at the clothing and homeware chain Next are forecasting years of “anaemic” growth across the UK, with the retailer claiming that regulation, government spending and higher taxes will hurt jobs and productivity. The FTSE 100 company, which is headed by the Conservative peer Simon Wolfson, said that while it did not believe the economy was heading towards a “cliff edge”, the weakening outlook gave the company “another reason to be cautious”. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/sep/18/next-shares-slide-as-retailer-warns-on-weak-uk-growth-and-jobs",
-    "published": "2025-09-18T14:25:46Z",
-    "image_url": "https://i.guim.co.uk/img/media/c5a9b33e9875040e875095a63c208252776b0b39/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=98da979478543d2324c35276550c9b50",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
