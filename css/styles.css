@@ -7,7 +7,10 @@
   --tnl-border:#232326;
   --tnl-wash:rgba(255,255,255,0.04);
   --tnl-wrap:1000px;
-  --tnl-feeds-wrap:820px; /* keep feed column comfortably narrow */
+
+  /* Feeds column + subscribe placement for mock */
+  --tnl-feeds-wrap:820px;            /* narrower column reduces stretching */
+  --subscribe-right-offset: 140px;   /* pulls Subscribe left to sit above Help (tweak 120–160 if needed) */
 }
 
 *{box-sizing:border-box}
@@ -34,10 +37,11 @@ a:hover{text-decoration:underline}
 .topbar{
   display:flex; align-items:center; justify-content:space-between;
   padding:.6rem 0;
+  position:relative; /* enables absolute positioning for align-subscribe variant */
 }
-.brand{ display:flex; align-items:center; gap:.6rem; }
-.favicon-inline{ width:34px; height:34px; margin-right:.25rem; opacity:.95; }
-.brand img.banner{ height:96px; max-width:100%; image-rendering:auto; } /* bigger logo */
+.brand{ display:flex; align-items:center; gap:.4rem; }
+.favicon-inline{ width:34px; height:34px; margin-right:.15rem; opacity:.95; } /* closer to main logo */
+.brand img.banner{ height:96px; max-width:100%; image-rendering:auto; } /* larger logo */
 
 .top-actions{ display:flex; align-items:center; gap:.35rem; }
 .btn{
@@ -50,9 +54,21 @@ a:hover{text-decoration:underline}
 .btn.with-icon{ display:inline-flex; align-items:center; gap:.45rem; }
 .mini-icon{ width:18px; height:18px; border-radius:4px; }
 
+/* align-subscribe variant: keep Subscribe above Help and never past About */
+.align-subscribe .topbar{ position:relative; }
+.align-subscribe .top-actions{
+  position:absolute;
+  right:var(--subscribe-right-offset);
+  top:50%;
+  transform:translateY(-50%);
+}
+
 /* nav row */
 .navbar{ border-top:1px solid var(--tnl-border); background:rgba(255,255,255,0.02); }
-.navbar-inner{ display:flex; align-items:center; gap:.5rem; flex-wrap:wrap; padding:.5rem 0; }
+.navbar-inner{
+  display:flex; align-items:center; gap:.5rem; flex-wrap:wrap; padding:.5rem 0;
+  justify-content:center; /* center the entire nav for proportional look */
+}
 .nav{ display:flex; align-items:center; gap:1.1rem; flex-wrap:wrap; }
 .nav a{ padding:.35rem .6rem; border-radius:8px; font-size:.98rem; white-space:nowrap; }
 .nav a:hover{ background:var(--tnl-wash); text-decoration:none; }
@@ -80,22 +96,26 @@ a:hover{text-decoration:underline}
 }
 .card:hover{ transform:translateY(-2px); box-shadow:0 6px 18px rgba(0,0,0,.25); }
 
-/* image wrapper so we can center small images without stretching */
+/* image wrapper: center small images; don't upscale */
 .thumb-wrap{
   position:relative; background:#222; display:flex; justify-content:center; align-items:center;
   overflow:hidden;
 }
 .card .thumb{
   display:block; height:auto; width:100%;
-  aspect-ratio:16/9; object-fit:cover; /* default for large images */
-  image-rendering:auto;
+  aspect-ratio:16/9; object-fit:cover; image-rendering:auto; /* for big images */
 }
 .card .thumb.no-upscale{
-  width:auto; max-width:100%; height:auto; aspect-ratio:auto; object-fit:contain; /* never stretch */
+  width:auto; max-width:100%; height:auto; aspect-ratio:auto; object-fit:contain; /* small images won't stretch */
 }
 
 /* feed layout helper */
 .content-narrow{ max-width:var(--tnl-feeds-wrap); margin:0 auto; }
 
-/* footer */
+/* responsive: return Subscribe to far-right on small screens */
+@media (max-width: 900px){
+  .align-subscribe .top-actions{ position:static; transform:none; }
+  .topbar{ justify-content:space-between; }
+}
+
 .site-footer{ border-top:1px solid var(--tnl-border); padding:1rem; color:var(--tnl-muted); text-align:center; }
