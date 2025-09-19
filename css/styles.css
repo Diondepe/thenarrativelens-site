@@ -1,125 +1,110 @@
-:root{
+:root {
   --tnl-bg:#0b0b0c;
   --tnl-card:#121214;
   --tnl-red:#e1332d;
   --tnl-text:#e9e9ea;
   --tnl-muted:#9a9aa0;
   --tnl-border:#232326;
-  --tnl-wash:rgba(255,255,255,0.06);
-
-  /* Site max width — widened so all tabs fit one line */
-  --tnl-wrap:1200px;
+  --tnl-wash:rgba(255,255,255,0.04);
+  --tnl-wrap:1200px; /* wider to give space */
 }
 
-/* ===== Base ===== */
-*{ box-sizing:border-box; }
-html,body{ height:100%; }
-body{
-  margin:0; line-height:1.55;
-  font-family:ui-sans-serif,-apple-system,Segoe UI,Inter,Roboto,sans-serif;
-  background:var(--tnl-bg); color:var(--tnl-text);
+* { box-sizing:border-box; }
+html, body { height:100%; margin:0; }
+body {
+  font-family: ui-sans-serif,-apple-system,Segoe UI,Inter,Roboto,sans-serif;
+  background: var(--tnl-bg);
+  color: var(--tnl-text);
+  line-height: 1.55;
 }
-img{ max-width:100%; height:auto; display:block; }
-a{ color:var(--tnl-text); text-decoration:none; }
-a:hover{ text-decoration:underline; }
-.container{ max-width:var(--tnl-wrap); margin:0 auto; padding:0 1rem; }
+a { color:var(--tnl-text); text-decoration:none; }
+a:hover { text-decoration:underline; }
 
-/* --- keep header on top and rows stacked correctly --- */
-.site-header{ position:sticky; top:0; z-index:1000; }
-.topbar{ position:relative; z-index:1; }
-.navbar{ position:relative; z-index:2; }
+/* =========================
+   HEADER
+   ========================= */
+.site-header { 
+  position:sticky; 
+  top:0; 
+  z-index:1000; 
+  background:var(--tnl-card); 
+  border-bottom:1px solid var(--tnl-border);
+}
 
-/* --- Row 1: brand + subscribe (unchanged if you used my last file) --- */
-.topbar{
-  display:flex; align-items:center; justify-content:space-between;
-  padding:.75rem 1rem;
+/* Row 1: brand + subscribe */
+.topbar {
+  display:flex; 
+  align-items:center; 
+  justify-content:space-between;
   max-width:var(--tnl-wrap);
   margin:0 auto;
+  padding:.75rem 1rem;
 }
+.brand { 
+  display:flex; align-items:center; gap:.6rem; 
+}
+.brand img.banner { height:64px; } /* logo bigger */
+.favicon-inline { width:32px; height:32px; }
 
-/* --- Row 2: NAV now LEFT-ALIGNED and sharing the same gutters --- */
-.navbar{
+/* Subscribe */
+.top-actions .btn {
+  display:inline-flex; 
+  align-items:center; 
+  gap:.4rem;
+  background:var(--tnl-red); 
+  border-radius:12px; 
+  color:#fff; 
+  padding:.5rem 1rem;
+  font-weight:600;
+}
+.top-actions .btn:hover { opacity:.9; }
+
+/* Row 2: nav */
+.navbar {
   border-top:1px solid var(--tnl-border);
   background:rgba(255,255,255,0.02);
 }
-.navbar-inner{
+.navbar-inner {
   max-width:var(--tnl-wrap);
   margin:0 auto;
-  padding:.55rem 1rem;           /* same left/right as topbar */
-  display:flex; align-items:center;
-  justify-content:flex-start;    /* left align the nav block */
+  padding:.55rem 1rem;
+  display:flex; 
+  align-items:center; 
+  justify-content:flex-start;
 }
-#site-nav.nav{
-  display:flex; align-items:center;
+#site-nav.nav {
+  display:flex; 
+  align-items:center; 
   gap:1.25rem;
-  justify-content:flex-start;    /* left align links */
-  flex-wrap:nowrap;              /* keep one line on wide screens */
-  overflow-x:auto;               /* graceful on smaller widths */
+  flex-wrap:nowrap;
+  overflow-x:auto;
   -webkit-overflow-scrolling:touch;
-  scrollbar-width:thin;
 }
-#site-nav.nav a{
-  display:inline-flex; align-items:center; gap:.4rem;
-  padding:.4rem .7rem;
-  border-radius:9px; font-size:.95rem; white-space:nowrap;
+#site-nav.nav a {
+  display:inline-flex; 
+  align-items:center; 
+  gap:.35rem;
+  padding:.4rem .7rem; 
+  border-radius:8px; 
+  white-space:nowrap;
 }
-#site-nav.nav a:hover{ background:var(--tnl-wash); text-decoration:none; }
-#site-nav.nav a[aria-current="page"]{
-  font-weight:700; border-bottom:2px solid var(--tnl-red); border-radius:0;
-}
-
-
-/* Lock pill */
-.pill{
-  display:inline-flex; align-items:center; gap:.25rem;
-  padding:.15rem .45rem; border-radius:999px;
-  font-size:.7rem; line-height:1;
-  border:1px solid var(--tnl-border);
-  background:var(--tnl-wash); color:var(--tnl-muted);
-  margin-left:.25rem;
-}
-.pill.sub::before{ content:"🔒"; }
-
-/* ===== Content helpers ===== */
-.pad-main{ padding:1rem 1rem 2rem; }
-.h2{ margin-top:2rem; }
-.cta-row{ display:flex; gap:.5rem; flex-wrap:wrap; }
-.teaser-grid{
-  display:grid; gap:1rem; margin:1rem 0 2rem;
-  grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
+#site-nav.nav a:hover { background:var(--tnl-wash); }
+#site-nav.nav a[aria-current="page"] {
+  font-weight:700; 
+  border-bottom:2px solid var(--tnl-red); 
+  border-radius:0;
 }
 
-/* Cards (optional for feeds) */
-.card{
-  background:var(--tnl-card);
-  border:1px solid var(--tnl-border);
-  border-radius:12px; overflow:hidden;
-  transition:transform .12s ease, box-shadow .12s ease;
-}
-.card:hover{ transform:translateY(-2px); box-shadow:0 6px 18px rgba(0,0,0,.25); }
-.thumb-wrap{ position:relative; background:#222; display:flex; justify-content:center; align-items:center; overflow:hidden; }
-.card .thumb{ width:100%; aspect-ratio:16/9; object-fit:cover; }
-.card .thumb.no-upscale{ width:auto; max-width:100%; height:auto; aspect-ratio:auto; object-fit:contain; }
+/* Pills */
+.pill.sub::before { content:"🔒"; margin-right:.2rem; }
 
-/* Footer */
-.site-footer{
+/* =========================
+   MAIN + FOOTER
+   ========================= */
+.container { max-width:var(--tnl-wrap); margin:0 auto; padding:0 1rem; }
+.pad-main { padding:1rem 1rem 2rem; }
+.site-footer {
   border-top:1px solid var(--tnl-border);
-  padding:1rem; color:var(--tnl-muted); text-align:center;
-}
-
-/* ===== Responsive tweaks ===== */
-@media (max-width: 1100px){
-  header .brand img.banner{ height:90px; }
-}
-@media (max-width: 900px){
-  header .brand img.banner{ height:72px; }
-}
-@media (max-width: 700px){
-  header .brand img.banner{ height:56px; }
-  .favicon-inline{ width:28px; height:28px; }
-  #site-nav.nav{ gap:.9rem; }
-}
-@media (max-width: 520px){
-  .topbar{ flex-wrap:wrap; row-gap:.5rem; }
-  .top-actions{ width:100%; display:flex; justify-content:flex-start; }
+  padding:1rem; text-align:center;
+  font-size:.85rem; color:var(--tnl-muted);
 }
