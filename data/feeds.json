@@ -1,11 +1,83 @@
 [
   {
+    "id": "BBC — Top Stories-e2a5ed4185",
+    "source": "BBC — Top Stories",
+    "title": "David Gandy: 'Britain produces some of the greatest models. We want to keep it that way'",
+    "summary": "The supermodel on AI-generated models, life with two young daughters - and his obsession with his lawn.",
+    "url": "https://www.bbc.com/news/articles/ceq2rz75xypo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T23:06:38Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1f8/live/e0722fc0-9599-11f0-84c8-99de564f0440.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6194d86a1e",
+    "source": "BBC — Top Stories",
+    "title": "Queen statue will show 'grandeur and dignity,' sculptor says",
+    "summary": "A leading British artist has been chosen to create a statue for the national memorial.",
+    "url": "https://www.bbc.com/news/articles/cd9yjzd757eo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T23:04:24Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bacb/live/781ba160-957e-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-33a4f76bea",
+    "source": "BBC — Top Stories",
+    "title": "Russia's answer to Eurovision is less kitsch, more Kremlin",
+    "summary": "Putin resurrects a Soviet-era global song contest, to distract from Russia's invasion of Ukraine.",
+    "url": "https://www.bbc.com/news/articles/cre5vv0x31po?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T23:04:07Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/deab9c00-9556-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-01d3ba92c2",
+    "source": "BBC — Top Stories",
+    "title": "Faisal Islam: Will the US tech bromance turn around the UK economy?",
+    "summary": "In the week the UK hosted Donald Trump for a second state visit, the country also rolled out the red carpet for US tech firms.",
+    "url": "https://www.bbc.com/news/articles/cn4w7wp24llo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T23:03:55Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfdf/live/d81c9b60-956e-11f0-bc5b-7ff2de9d2e33.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5a5ae2545d",
+    "source": "BBC — Top Stories",
+    "title": "I'm nothing like Peaky's Tommy Shelby, says Murphy",
+    "summary": "It comes as the Irish actor promotes a new film which follows attempts to turn around a reform school.",
+    "url": "https://www.bbc.com/news/articles/cm2zvwmen2jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T23:03:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aa2/live/6cf8ead0-9575-11f0-bc5b-7ff2de9d2e33.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-1b243bbb79",
+    "source": "The Guardian — UK",
+    "title": "Quarter of UK university physics departments at risk of closing, survey finds",
+    "summary": "Four out of five making staff cuts as physicists say findings are ‘great concern’ for UK’s leadership in important areas The heads of UK physics departments say their subject is facing a national crisis as one in four warns that their university departments are in danger of closing because of funding pressures. In an anonymous survey of department heads by the Institute of Physics (IoP), 26% said they faced potential closure of their department within the next two years, while 60% said they expected courses to be reduced. Continue reading...",
+    "url": "https://www.theguardian.com/education/2025/sep/20/quarter-of-uk-university-physics-departments-at-risk-of-closing-survey-finds",
+    "published": "2025-09-19T23:01:57Z",
+    "image_url": "https://i.guim.co.uk/img/media/1f4aabc0882bc72e69c776c5399db6a5a9e02d7f/499_0_5018_4016/master/5018.jpg?width=140&quality=85&auto=format&fit=max&s=8395b874aec12c8c3ac7a12a5b82a12e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-7b57ac69e0",
     "source": "BBC — Top Stories",
     "title": "Estonia seeks Nato consultation after Russian jets violate airspace",
     "summary": "Nato intercepted three Russian MiG-31 fighter jets, which remained in Estonian airspace for 12 minutes on Friday.",
     "url": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T21:30:29Z",
+    "published": "2025-09-19T22:35:37Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30a1/live/a6bd5c70-959c-11f0-bbd3-97206a9cd9e0.jpg",
     "thumb_url": null,
     "category": "Politics",
@@ -180,18 +252,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a6bca1b7b8",
-    "source": "BBC — Top Stories",
-    "title": "Corbyn allies disappointed at row with Sultana over new party",
-    "summary": "Zarah Sultana - who was launching the new party with Jeremy Corbyn - accused him overseeing a \"sexist boys' club\".",
-    "url": "https://www.bbc.com/news/articles/cj4ywy0j0rgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T17:13:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/490f/live/e24a1d80-956c-11f0-bc5b-7ff2de9d2e33.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-0a428a2e19",
     "source": "The Guardian — UK",
     "title": "UN votes to allow Palestinian president to address annual gathering via video link",
@@ -235,18 +295,6 @@
     "url": "https://www.bbc.com/news/articles/cgmz2wx201po?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T16:30:26Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cad/live/cbc39870-9549-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-5c02447361",
-    "source": "BBC — Top Stories",
-    "title": "Naked and high flight attendant 'let himself down', says judge",
-    "summary": "Haden Pentecost was found by colleagues in an aeroplane toilet after taking drugs and stripping.",
-    "url": "https://www.bbc.com/news/articles/clyxj2gy7pno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T16:23:12Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b7e/live/3f165050-9573-11f0-91d9-3d6886c3c5a8.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -324,13 +372,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-86496bcedf",
+    "id": "The Guardian — UK-ac3aa099ff",
     "source": "The Guardian — UK",
-    "title": "Assisted dying bill to get further scrutiny by Lords committee",
-    "summary": "Special panel to address concerns over funding and implementation as legislation passes first stage in Lords Peers have agreed to undertake more expert scrutiny of the assisted dying bill as the legislation passed its first stage in the House of Lords. The house approved the bill at its second reading without a vote, meaning it will go through for further scrutiny later this autumn. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/sep/19/assisted-dying-bill-to-get-further-scrutiny-by-lords-committee",
-    "published": "2025-09-19T15:29:52Z",
-    "image_url": "https://i.guim.co.uk/img/media/5a471906c5047e7bab626bee6280e4b4056b436e/543_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=18f811ea715f2d273a0a8e7db2946a04",
+    "title": "Hilary Benn: Troubles legacy agreement will deal with ‘unfinished business’",
+    "summary": "Northern Ireland secretary says he hopes measures will give answers to victims on both sides of political divide The Northern Ireland secretary has said new measures aiming to deal with crimes committed during the Troubles will address the “unfinished business” of the peace agreement struck 27 years ago. Hilary Benn said the “significant reforms” would replace the controversial Legacy Act 2023 brought in by the Conservative government, which he said had failed to confront the past, partly because it had been “rejected” by all five main political parties and victims’ families. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/19/hilary-benn-troubles-legacy-agreement-deal-unfinished-business",
+    "published": "2025-09-19T15:24:52Z",
+    "image_url": "https://i.guim.co.uk/img/media/4a8e2384840679c4025ba8792c3f8a395e5df086/0_24_2744_2195/master/2744.jpg?width=140&quality=85&auto=format&fit=max&s=137360209a97e548226e874d25c85c8d",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -420,18 +468,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-e9f6f6e334",
-    "source": "The Guardian — UK",
-    "title": "British and Irish governments to present new Troubles legacy proposals",
-    "summary": "Framework outlines legislation both sides will need to pass to create agency investigating Troubles-era crimes UK politics live – latest updates The British and Irish governments are to announce a new framework to deal with the legacy of Northern Ireland’s Troubles in an effort to resolve an issue that has bedevilled politics in the region and relations between London and Dublin. The proposals, to be outlined on Friday afternoon, threaten to reopen a rift between the government and former troops who got amnesty from prosecution under the Legacy Act, passed by the Conservative government in 2023. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/19/british-irish-governments-troubles-legacy-proposals",
-    "published": "2025-09-19T12:01:00Z",
-    "image_url": "https://i.guim.co.uk/img/media/3b3f7dcafa0efb51d465b30072f8abe6dea45f17/632_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=09a8775a75307249c9c247d793651139",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-f328d13ae9",
     "source": "Politico — UK",
     "title": "France eyes optional military service as Putin lurks",
@@ -516,30 +552,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-9df4c6788d",
-    "source": "BBC — Top Stories",
-    "title": "The lonely life and death of Delhi's only African elephant",
-    "summary": "For 24 years, Shankar endured a lonely existence - including at least 13 spent in solitary confinement.",
-    "url": "https://www.bbc.com/news/articles/cx2nlevy2gpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T07:03:00Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60e0/live/80fd87d0-9457-11f0-97be-835470f3c9b2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-168fd6e7eb",
-    "source": "BBC — Top Stories",
-    "title": "Play now",
-    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
-    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T05:08:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-737ff91789",
     "source": "The Guardian — UK",
     "title": "Why Britain recognising Palestine matters – podcast",
@@ -547,18 +559,6 @@
     "url": "https://www.theguardian.com/news/audio/2025/sep/19/why-britain-recognising-palestine-matters-podcast",
     "published": "2025-09-19T02:00:31Z",
     "image_url": "https://i.guim.co.uk/img/media/4ebf5b388ecfc7a4002ba9822bb552e74a684c33/96_100_3939_3151/master/3939.jpg?width=140&quality=85&auto=format&fit=max&s=a0b151286ff33ae7e48001d0032d5a9e",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b28cbb1c24",
-    "source": "BBC — Top Stories",
-    "title": "The man taking on Trump's media foes",
-    "summary": "But it is unclear to what extent media companies might push back - at the potential expense of their bottom line.",
-    "url": "https://www.bbc.com/news/articles/c4g921p3eq3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T01:56:12Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dd3/live/6fe5b320-94c8-11f0-ae31-4b2ff13b501f.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
