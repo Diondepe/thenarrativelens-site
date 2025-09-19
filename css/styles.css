@@ -50,7 +50,7 @@ a:hover{text-decoration:underline}
 header .brand{
   display:flex;
   align-items:center;
-  gap:.5rem;
+  gap:.6rem;
   margin-left:var(--brand-left-offset);
 }
 .favicon-inline{ width:34px; height:34px; margin-right:.15rem; opacity:.95; }
