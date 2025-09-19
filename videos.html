@@ -4,41 +4,11 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Lens-Video — The Narrative Lens</title>
-  <base href="https://diondepe.github.io/thenarrativelens-site/">
   <link rel="icon" type="image/png" href="assets/favicon-redesigned.png" />
   <link rel="stylesheet" href="css/styles.css" />
 </head>
-<body>
-  <header class="site-header align-subscribe">
-    <div class="container topbar">
-      <a class="brand" href="index.html" aria-label="Go to Home">
-        <img class="favicon-inline" src="assets/favicon-redesigned.png" alt="TNL" />
-        <img class="banner" src="assets/tnl-banner-matrix.png" alt="The Narrative Lens" />
-      </a>
-      <div class="top-actions">
-        <a href="subscribe.html" class="btn primary with-icon">
-          <img class="mini-icon" src="assets/favicon-redesigned.png" alt="" /> Subscribe
-        </a>
-      </div>
-    </div>
-    <div class="navbar">
-      <div class="container navbar-inner">
-        <div class="nav-spacer-left" aria-hidden="true"></div>
-        <nav class="nav" aria-label="Primary">
-          <a href="index.html">Home</a>
-          <a href="narratives.html">Narratives</a>
-          <a href="feeds.html">Narrative News</a>
-          <a href="videos.html" aria-current="page">Lens-Video</a>
-          <a href="actors.html">Lens-Actors <span class="pill sub"></span></a>
-          <a href="lens-test.html">Lens-Test</a>
-          <a href="timeline.html">Lens-Timeline <span class="pill sub"></span></a>
-          <a href="help.html">Help</a>
-          <a href="about.html">About</a>
-        </nav>
-        <div class="nav-spacer-right" aria-hidden="true"></div>
-      </div>
-    </div>
-  </header>
+<body data-page="videos">
+  <div id="site-header"></div>
 
   <main class="container pad-main">
     <h1>Lens-Video</h1>
@@ -46,7 +16,8 @@
     <p><a class="btn" href="feeds.html">Go to Narrative News</a></p>
   </main>
 
-  <footer class="site-footer">© <span id="y"></span> The Narrative Lens</footer>
-  <script>document.getElementById('y').textContent=new Date().getFullYear()</script>
+  <div id="site-footer"></div>
+
+  <script src="js/layout.js" defer></script>
 </body>
 </html>
