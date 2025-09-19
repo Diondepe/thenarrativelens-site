@@ -1,5 +1,17 @@
 [
   {
+    "id": "Politico — UK-02b201c242",
+    "source": "Politico — UK",
+    "title": "Ein (verhinderter) Spaziergang mit Wolfram Weimer",
+    "summary": "Vom Journalisten zum Kulturstaatsminister: Wolfram Weimer spricht mit Gordon Repinski über Werte, Debattenkultur und den Kampf um die politische Mitte. Er erklärt, warum er die AfD als Ressentiment-Partei sieht und weshalb die „Brandmauer“ eine ethische Kategorie ist. Weimer spricht über Antisemitismus in der Kulturszene und erklärt, wie er nationale Symbole wie die Deutschlandfahne oder das […]",
+    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/ein-verhinderter-spaziergang-mit-wolfram-weimer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-19T03:01:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/09/Berlin-Playbook-Website-card-1-1.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-4326fa9b47",
     "source": "BBC — Top Stories",
     "title": "Second migrant to be removed to France after court bid fails",
@@ -295,18 +307,6 @@
     "url": "https://www.politico.eu/article/eu-2035-climate-targets-emissions-un-plan-enviornment-green/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-18T19:43:30Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/18/GettyImages-2216803141-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-55fe3407e9",
-    "source": "Politico — UK",
-    "title": "EU warns Greece could lose its farm payments amid massive fraud scandal",
-    "summary": "Brussels is seeking to combat a scam to defraud the EU of hundreds of millions of euros.",
-    "url": "https://www.politico.eu/article/eu-greece-farm-eu-subsidies-brussels-eppo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-18T19:32:23Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/18/GettyImages-2235063360-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
