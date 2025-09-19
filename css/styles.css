@@ -1,4 +1,7 @@
 :root{
+  /* …your existing vars… */
+  --brand-left-offset: 5rem;  /* move logo block right; try 4–6rem to taste */
+}
   --tnl-bg:#0b0b0c;
   --tnl-card:#121214;
   --tnl-red:#e1332d;
