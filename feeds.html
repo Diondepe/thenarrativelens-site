@@ -10,16 +10,13 @@
 </head>
 <body>
 
-<!-- add align-subscribe to enable the controlled left shift on Subscribe -->
 <header class="site-header align-subscribe">
+  <!-- Top row: brand (left) + Subscribe (right) -->
   <div class="container topbar">
     <a class="brand" href="index.html">
-      <!-- mini logo on the LEFT, tighter to main logo -->
       <img class="favicon-inline" src="assets/favicon-redesigned.png" alt="">
       <img class="banner" src="assets/tnl-banner-matrix.png" alt="The Narrative Lens">
     </a>
-
-    <!-- Subscribe is positioned via CSS to sit above Help and never past About -->
     <div class="top-actions">
       <a href="subscribe.html" class="btn primary with-icon">
         <img class="mini-icon" src="assets/favicon-redesigned.png" alt="">
@@ -28,8 +25,10 @@
     </div>
   </div>
 
+  <!-- Nav row: spacers ensure tabs sit cleanly between brand & subscribe -->
   <div class="navbar">
     <div class="container navbar-inner">
+      <div class="nav-spacer-left" aria-hidden="true"></div>
       <nav class="nav">
         <a href="index.html">Home</a>
         <a href="narratives.html">Narratives</a>
@@ -40,6 +39,7 @@
         <a href="help.html">Help</a>
         <a href="about.html">About</a>
       </nav>
+      <div class="nav-spacer-right" aria-hidden="true"></div>
     </div>
   </div>
 </header>
