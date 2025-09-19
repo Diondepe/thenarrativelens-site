@@ -1,12 +1,24 @@
 [
   {
-    "id": "BBC — Top Stories-b6bdfeb3af",
+    "id": "BBC — Top Stories-7b57ac69e0",
     "source": "BBC — Top Stories",
-    "title": "Irish language band Kneecap barred from Canada over UK terror charges",
-    "summary": "The group has fired back at the Canadian government, calling their comments \"deeply malicious\" and threatening legal action.",
-    "url": "https://www.bbc.com/news/articles/cvgrvw4ejn4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T21:05:46Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7c3/live/20adf5c0-9571-11f0-bc5b-7ff2de9d2e33.jpg",
+    "title": "Estonia seeks Nato consultation after Russian jets violate airspace",
+    "summary": "Nato intercepted three Russian MiG-31 fighter jets, which remained in Estonian airspace for 12 minutes on Friday.",
+    "url": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T21:30:29Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30a1/live/a6bd5c70-959c-11f0-bbd3-97206a9cd9e0.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-46d3451f7d",
+    "source": "BBC — Top Stories",
+    "title": "Lib Dems call for police desks in supermarkets and libraries",
+    "summary": "The party says the plan, announced as members gather for their annual conference, would boost public confidence.",
+    "url": "https://www.bbc.com/news/articles/ckg6dd8207ro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-19T21:30:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d840/live/81366180-955c-11f0-a3c3-898ca8bade9c.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -15,7 +27,7 @@
     "id": "The Guardian — UK-14b6239f85",
     "source": "The Guardian — UK",
     "title": "Labour rules against dozens of motions about Palestine being debated at party conference",
-    "summary": "The director of the Palestine Solidarity Campaign said the move was ‘shocking’ Labour has ruled out motions about Palestine being debated at its party conference later this month, triggering accusations that it is trying to stifle debate. The conference arrangement committee, made up of Labour elected reps and officials, has ruled about 30 motions about Palestine from local parties out of order. Continue reading...",
+    "summary": "Calls for sanctions on Israel and ban on trade that aids international law violations among snubbed motions Labour has ruled out motions about Palestine being debated at its party conference later this month, triggering accusations that it is trying to stifle debate. The conference arrangement committee, made up of Labour elected reps and officials, has ruled about 30 motions about Palestine from local parties out of order. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/19/labour-rules-against-dozens-of-motions-about-palestine-being-debated-at-party-conference",
     "published": "2025-09-19T20:52:05Z",
     "image_url": "https://i.guim.co.uk/img/media/455429b77857dbcdfb321f10fc45eaa5a9a43a79/1235_0_5158_4126/master/5158.jpg?width=140&quality=85&auto=format&fit=max&s=43bbc8d8ddecef258caf9dff5626beab",
@@ -67,18 +79,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/19/man-dies-after-falling-from-hot-air-balloon-in-west-sussex",
     "published": "2025-09-19T19:57:17Z",
     "image_url": "https://i.guim.co.uk/img/media/49a14dd54a245ae4d529ad29635adf149bfd2907/345_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=214fa859909d02a019fd5d3fdd580e87",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7b57ac69e0",
-    "source": "BBC — Top Stories",
-    "title": "Nato intercepts Russian warplanes violating Estonian airspace",
-    "summary": "Estonia says three Russian MiG-31 fighter jets remained in Estonian airspace for 12 minutes.",
-    "url": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T19:42:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8007/live/0dfedb80-956f-11f0-aa3a-ddc192c3f339.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
