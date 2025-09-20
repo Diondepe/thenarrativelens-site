@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-ba07c44b61",
+    "source": "BBC — Top Stories",
+    "title": "More than 1,000 people cross English Channel in one day",
+    "summary": "The number of people who have made the crossing in 2025 is 32,103, a record for this point in a year.",
+    "url": "https://www.bbc.com/news/articles/cdx20xenzgqo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T13:59:39Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca81/live/9c928810-960f-11f0-9cf6-cbf3e73ce2b9.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a1144a1c5b",
+    "source": "BBC — Top Stories",
+    "title": "British couple held by Taliban arrive in UK after release",
+    "summary": "Their son tells the BBC he is \"overwhelmed\" by release after nearly eight months in prison.",
+    "url": "https://www.bbc.com/news/articles/cly6ve2dg66o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T13:53:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ab3/live/923ef370-9629-11f0-8115-2505008faa13.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-38cbc1653c",
+    "source": "BBC — Top Stories",
+    "title": "Ex Labour MP Sultana 'consulting lawyers' as fallout with Corbyn over new party deepens",
+    "summary": "Former Labour MP hits back in an escalating row between the would-be founders of new left-wing party.",
+    "url": "https://www.bbc.com/news/articles/cn4l3elkzwjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T13:51:11Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5270/live/9ce44b30-9607-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-9ab1800817",
     "source": "BBC — Top Stories",
     "title": "Cyber-attack causes delays at Heathrow and other European airports",
@@ -84,18 +120,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-ba07c44b61",
-    "source": "BBC — Top Stories",
-    "title": "More than 1,000 people cross English Channel in one day",
-    "summary": "The number of people who have made the crossing in 2025 is 32,103, a record for this point in a year.",
-    "url": "https://www.bbc.com/news/articles/cdx20xenzgqo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T11:50:24Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca81/live/9c928810-960f-11f0-9cf6-cbf3e73ce2b9.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-e1d52d3d3c",
     "source": "BBC — Top Stories",
     "title": "Attempted murder arrest over nightclub shooting",
@@ -103,18 +127,6 @@
     "url": "https://www.bbc.com/news/articles/c701xdnr09wo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T11:45:06Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0991/live/d0b644c0-960e-11f0-9cf6-cbf3e73ce2b9.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-38cbc1653c",
-    "source": "BBC — Top Stories",
-    "title": "Ex Labour MP Sultana 'consulting lawyers' as fallout with Corbyn over new party deepens",
-    "summary": "Former Labour MP hits back in an escalating row between the would-be founders of new left-wing party.",
-    "url": "https://www.bbc.com/news/articles/cn4l3elkzwjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T11:41:58Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5270/live/9ce44b30-9607-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -300,18 +312,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a1144a1c5b",
-    "source": "BBC — Top Stories",
-    "title": "Son of British couple held by Taliban 'ecstatic' as they return to UK",
-    "summary": "Jonathan Reynolds tells the BBC he is \"overwhelmed\" by release after nearly eight months in prison.",
-    "url": "https://www.bbc.com/news/articles/cly6ve2dg66o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T06:02:19Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8658/live/2f0ef280-95ea-11f0-90f2-5f87cb020b24.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-ffb595e048",
     "source": "BBC — Top Stories",
     "title": "England are one game away from the Rugby World Cup final. Here's how they can beat France",
@@ -360,18 +360,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-7f273fd4e2",
-    "source": "The Guardian — UK",
-    "title": "NHS integrated care boards halt job cuts in row over £1bn cost",
-    "summary": "Integrated care boards in England cannot afford severance payments, leaving restructuring plan in chaos, union says Labour’s radical reorganisation of the NHS has descended into chaos, a union has said, as a huge programme of job cuts has been halted amid a row over who will foot the £1bn bill. The NHS’s 42 integrated care boards (ICBs) in England were due to make up to 12,500 of their 25,000 staff redundant by the end of the year as a result of health service cost-cutting. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/sep/20/nhs-integrated-care-boards-england-job-cuts-row",
-    "published": "2025-09-20T05:00:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/b29e13c4f78242c4b6d2b8051944cecdf1d529a0/510_0_2990_2392/master/2990.jpg?width=140&quality=85&auto=format&fit=max&s=6627828d6cbe4b93b17e7e3cd7493ddd",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-355f24187c",
     "source": "The Guardian — UK",
     "title": "‘Good humanitarian reason’: Ed Davey calls for emergency programme to clear asylum backlog",
@@ -379,6 +367,18 @@
     "url": "https://www.theguardian.com/politics/2025/sep/20/ed-davey-liberal-democrats-asylum-backlog-election-targets",
     "published": "2025-09-20T05:00:06Z",
     "image_url": "https://i.guim.co.uk/img/media/ce1635706c379236ae896cbb152f0b70f603f7fa/0_195_6613_5291/master/6613.jpg?width=140&quality=85&auto=format&fit=max&s=2eed71381ba7e6c7fd775737895bb407",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-7f273fd4e2",
+    "source": "The Guardian — UK",
+    "title": "Labour’s NHS job cuts plan in chaos amid row over £1bn costs",
+    "summary": "Integrated care boards in England cannot afford severance payments, leaving restructuring plan in chaos, union says Labour’s radical reorganisation of the NHS has descended into chaos, a union has said, as a huge programme of job cuts has been halted amid a row over who will foot the £1bn bill. The NHS’s 42 integrated care boards (ICBs) in England were due to make up to 12,500 of their 25,000 staff redundant by the end of the year as a result of health service cost-cutting. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/sep/20/nhs-integrated-care-boards-england-job-cuts-row",
+    "published": "2025-09-20T05:00:06Z",
+    "image_url": "https://i.guim.co.uk/img/media/b29e13c4f78242c4b6d2b8051944cecdf1d529a0/510_0_2990_2392/master/2990.jpg?width=140&quality=85&auto=format&fit=max&s=6627828d6cbe4b93b17e7e3cd7493ddd",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
