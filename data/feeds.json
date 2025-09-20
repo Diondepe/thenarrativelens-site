@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-b2dd912fbd",
+    "source": "BBC — Top Stories",
+    "title": "Notre-Dame's iconic towers reopen six years after fire",
+    "summary": "Notre-Dame's Medieval towers have been restored after a massive fire ravaged the cathedral in 2019.",
+    "url": "https://www.bbc.com/news/videos/cd9yyxnejeko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T17:51:12Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d74/live/023c54e0-964a-11f0-84c8-99de564f0440.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ec1b2cfbe1",
+    "source": "BBC — Top Stories",
+    "title": "I was groped by TV host, says Gavin and Stacey star Joanna Page",
+    "summary": "The Welsh actress says she was warned by a producer the man could be \"handsy\".",
+    "url": "https://www.bbc.com/news/articles/cp8wwe2xj9do?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T17:46:57Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/685a/live/adbf4a70-9645-11f0-9ed9-693309fd1b9f.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-de41b755d8",
+    "source": "The Guardian — UK",
+    "title": "UK and St George’s flags should never be used to ‘intimidate and terrify’, says senior Lib Dem",
+    "summary": "‘How dare the nationalists steal our flags?’ asks Tim Farron at party conference in Bournemouth People who use the union jack or St George’s cross as a form of aggressive nationalism do not love their country, a senior Liberal Democrat has said, as he hit back at a wave of hard-right activism based around the flags. In a strongly worded speech to a rally opening the party’s annual conference in Bournemouth, Tim Farron, a former leader who now speaks for the party on the environment and rural affairs, said national flags should never be “used to intimidate”. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/20/uk-and-st-georges-flags-should-never-be-used-to-intimidate-and-terrify-says-senior-lib-dem",
+    "published": "2025-09-20T17:30:20Z",
+    "image_url": "https://i.guim.co.uk/img/media/6c5a74178742c152a2b798036ee2335f9cd01d54/0_555_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=ca32d37cc2efd2724f40c0a139d033e5",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-7b7d43ee9c",
     "source": "The Guardian — UK",
     "title": "British couple detained by Taliban in Afghanistan return to UK",
@@ -51,22 +87,10 @@
     "id": "The Guardian — UK-fea2442b5e",
     "source": "The Guardian — UK",
     "title": "King made more than £1m selling land for leg of HS2 that was scrapped",
-    "summary": "Exclusive: Duchy of Lancaster has maximised profits on land deals despite claiming it ‘does not rely on taxpayers’ money’ King Charles’s private property estate has made more than £1m at taxpayers’ expense from the sale of land for projects linked to the leg of HS2 which will no longer be built, the Guardian can reveal. The Duchy of Lancaster negotiated payments totalling £1,132,400 by selling land for road works near a proposed hub station in Crewe, Cheshire in a deal that has emerged despite the organisation’s assertion that it is “completely self-financing and does not rely on taxpayers’ money”. Continue reading...",
+    "summary": "Exclusive: Duchy of Lancaster has maximised profits on land deals despite claiming it ‘does not rely on taxpayers’ money’ King Charles’s private property estate has made more than £1m at taxpayers’ expense from the sale of land for projects linked to the leg of HS2 which will no longer be built, the Guardian can reveal. The Duchy of Lancaster negotiated payments totalling £1,132,400 by selling land for road works near a proposed hub station in Crewe, Cheshire, in a deal that has emerged despite the organisation’s assertion that it is “completely self-financing and does not rely on taxpayers’ money”. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/sep/20/king-made-more-than-1m-selling-land-for-leg-of-hs2-that-was-scrapped",
     "published": "2025-09-20T16:00:18Z",
     "image_url": "https://i.guim.co.uk/img/media/c9091f4b1826ec6c936ca2862f029ccd024347e8/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=22d38bf345d91b11976551ac3e25b278",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-ec1b2cfbe1",
-    "source": "BBC — Top Stories",
-    "title": "I was groped by TV host, says Gavin and Stacey star Joanna Page",
-    "summary": "The Welsh actress says she was warned by a producer the man could be \"handsy\".",
-    "url": "https://www.bbc.com/news/articles/cp8wwe2xj9do?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T15:42:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0ce/live/fdbc2c50-963b-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -348,18 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-8d3f0233c5",
-    "source": "The Guardian — UK",
-    "title": "Parliament vulnerable to ‘foreign actors’ after China spying charges dropped, Commons speaker says",
-    "summary": "Lindsay Hoyle says decision by prosecutors to drop case ‘leaves the door open’ to spies The aide, the associate and the ‘Chinese agent’ – and the collapse of a long-awaited UK spy trial The UK parliament has been left vulnerable to “foreign actors” after charges against two men suspected of spying for China were dropped, the speaker of the House of Commons has warned. Speaking to the Times, Lindsay Hoyle said the decision to drop the charges effectively gave Beijing “licence to operate” within parliament. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/20/parliament-vulnerable-to-foreign-actors-after-china-spying-charges-dropped-commons-speaker-says",
-    "published": "2025-09-20T08:04:50Z",
-    "image_url": "https://i.guim.co.uk/img/media/dba6ef6162d8edf3764cd64a0f92058cec0b6ec0/0_0_6703_5366/master/6703.jpg?width=140&quality=85&auto=format&fit=max&s=317e0a7095ce930a50670b2c427a5b7a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-773b8a7131",
     "source": "Politico — UK",
     "title": "Judge tells Meta not to share Instagram users’ information with Trump admin",
@@ -499,18 +511,6 @@
     "url": "https://www.bbc.com/news/articles/cre5vv0x31po?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T23:04:07Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/deab9c00-9556-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-01d3ba92c2",
-    "source": "BBC — Top Stories",
-    "title": "Faisal Islam: Will the US tech bromance turn around the UK economy?",
-    "summary": "In the week the UK hosted Donald Trump for a second state visit, the country also rolled out the red carpet for US tech firms.",
-    "url": "https://www.bbc.com/news/articles/cn4w7wp24llo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T23:03:55Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dfa/live/f0d98b00-95ea-11f0-a55d-e9f5fb1cc989.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
