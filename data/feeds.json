@@ -1,8 +1,32 @@
 [
   {
+    "id": "BBC — Top Stories-1ce7b042e2",
+    "source": "BBC — Top Stories",
+    "title": "RAF jets join Nato air defence mission over Poland",
+    "summary": "Tensions have risen across Europe after 19 drones entered Polish territory earlier this month.",
+    "url": "https://www.bbc.com/news/articles/c4g7752w1ygo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T21:00:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba90/live/433566b0-963d-11f0-9ed9-693309fd1b9f.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-8e3976325c",
+    "source": "BBC — Top Stories",
+    "title": "Former Liverpool manager Beard dies aged 47",
+    "summary": "Former Liverpool and Burnley manager Matt Beard has died at the age of 47.",
+    "url": "https://www.bbc.com/sport/football/articles/c0r00qx5llko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T20:56:08Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d0e/live/9df73270-9662-11f0-84c8-99de564f0440.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-fcdfa3e756",
     "source": "The Guardian — UK",
-    "title": "Lucy Powell says plan to gambling taxes to cover lifting of two-child benefit cap",
+    "title": "Lucy Powell: Labour should raise gambling taxes to axe two-child benefit cap",
     "summary": "Deputy leadership candidate says party needs to be ‘clear that our objective is to lift children out of poverty’ Labour should consider raising taxes on gambling firms to cover the cost of lifting the two-child benefit cap, the party’s deputy leadership candidate Lucy Powell has suggested. The Manchester Central MP, who is battling with the education secretary, Bridget Phillipson, to succeed Angela Rayner as Labour’s deputy leader, also acknowledged the public was “exasperated” because of “some mistakes” Labour had made in office. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/20/lucy-powell-urges-labour-to-consider-raising-gambling-taxes-so-it-can-axe-two-child-benefit-cap",
     "published": "2025-09-20T19:58:51Z",
@@ -456,18 +480,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-168fd6e7eb",
-    "source": "BBC — Top Stories",
-    "title": "Play now",
-    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
-    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T04:53:25Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-2f41e99695",
     "source": "Politico — UK",
     "title": "Machthaber: Wolodymyr Selenskyj",
@@ -475,18 +487,6 @@
     "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/machthaber-wolodymyr-selenskyj/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-20T03:00:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/Wolodymyr-Selenskyj-Podcast-Cover-Slide-1.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-eccbd7653d",
-    "source": "BBC — Top Stories",
-    "title": "Global treaty to protect world's oceans comes into force after final approval",
-    "summary": "Sixty states have ratified a global treaty to protect the oceans - it will become law in January.",
-    "url": "https://www.bbc.com/news/articles/cq5j87114deo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T02:12:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc6/live/eb4564c0-95b8-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
