@@ -1,5 +1,65 @@
 [
   {
+    "id": "Politico — UK-9d73dc9788",
+    "source": "Politico — UK",
+    "title": "Dutch anti-immigration protest turns violent",
+    "summary": "Police used tear gas and water cannons to disperse rioters in The Hague on Saturday.",
+    "url": "https://www.politico.eu/article/dutch-anti-immigration-protest-violent-the-hague/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-20T16:16:50Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/20/GettyImages-2235888418.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9ab1800817",
+    "source": "BBC — Top Stories",
+    "title": "Cyber-attack causes delays at Heathrow and other European airports",
+    "summary": "Travellers report multi-hour waits for some airlines as disruption also hits Brussels and Berlin.",
+    "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T16:03:46Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d50/live/51b0d0e0-9614-11f0-90f2-5f87cb020b24.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-fea2442b5e",
+    "source": "The Guardian — UK",
+    "title": "King made more than £1m selling land for leg of HS2 that was scrapped",
+    "summary": "Exclusive: Duchy of Lancaster has maximised profits on land deals despite claiming it ‘does not rely on taxpayers’ money’ King Charles’s private property estate has made more than £1m at taxpayers’ expense from the sale of land for projects linked to the leg of HS2 which will no longer be built, the Guardian can reveal. The Duchy of Lancaster negotiated payments totalling £1,132,400 by selling land for road works near a proposed hub station in Crewe, Cheshire in a deal that has emerged despite the organisation’s assertion that it is “completely self-financing and does not rely on taxpayers’ money”. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/20/king-made-more-than-1m-selling-land-for-leg-of-hs2-that-was-scrapped",
+    "published": "2025-09-20T16:00:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/c9091f4b1826ec6c936ca2862f029ccd024347e8/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=22d38bf345d91b11976551ac3e25b278",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-263e132d59",
+    "source": "BBC — Top Stories",
+    "title": "Ukraine says three killed in 'massive' Russian aerial attack",
+    "summary": "President Zelensky says Moscow seeks to \"intimidate civilians\", while Russia reports four deaths in a Ukrainian strike.",
+    "url": "https://www.bbc.com/news/articles/ce3253gxqvwo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T15:30:15Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a28a/live/11237600-961d-11f0-b5f9-bf23d14527d7.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-d8512aaf38",
+    "source": "Politico — UK",
+    "title": "Trump details third US strike on suspected drug traffickers",
+    "summary": "The president said three people were killed in an airstrike in international waters.",
+    "url": "https://www.politico.com/news/2025/09/19/third-drug-boat-strike-00574331?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-20T15:16:23Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-46d3451f7d",
     "source": "BBC — Top Stories",
     "title": "Lib Dems want to use wartime powers to clear asylum backlog",
@@ -24,13 +84,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-9ab1800817",
+    "id": "BBC — Top Stories-c34a0eb2ad",
     "source": "BBC — Top Stories",
-    "title": "Cyber-attack causes delays at Heathrow and other European airports",
-    "summary": "Travellers report multi-hour waits for some airlines as disruption also hits Brussels and Berlin.",
-    "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T14:45:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d50/live/51b0d0e0-9614-11f0-90f2-5f87cb020b24.jpg",
+    "title": "Dame Prue's parachute dress and Romeo Beckham's runway debut - London Fashion week in pictures",
+    "summary": "Fifteen of the most striking looks from the event's opening shows.",
+    "url": "https://www.bbc.com/news/articles/cd63n1wv8nlo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T14:27:06Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb14/live/6815d720-962a-11f0-baf3-df7955adb839.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -55,18 +115,6 @@
     "url": "https://www.politico.eu/article/sinn-fein-not-compete-ireland-presidential-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-20T14:24:02Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/20/GettyImages-2235732260-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-263e132d59",
-    "source": "BBC — Top Stories",
-    "title": "Ukraine says three killed in 'massive' Russian aerial attack",
-    "summary": "President Zelensky says Moscow seeks to \"intimidate civilians\", while Russia reports four deaths in a Ukrainian strike.",
-    "url": "https://www.bbc.com/news/articles/ce3253gxqvwo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T14:17:24Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a28a/live/11237600-961d-11f0-b5f9-bf23d14527d7.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -300,18 +348,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-c866614b23",
-    "source": "The Guardian — UK",
-    "title": "Police make arrests after four people shot in Birmingham nightclub",
-    "summary": "Three people arrested from car on M6 after shootings that left one man in critical condition Four people have been shot at a Birmingham nightclub, leaving one person in a critical condition. West Midlands police said one man remained in hospital, while the other three – two men and a woman – were being treated for less serious injuries after the incident at Mango nightclub in Bristol Street at about 3am on Saturday. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/20/police-make-arrests-after-four-people-shot-in-birmingham-nightclub",
-    "published": "2025-09-20T07:43:31Z",
-    "image_url": "https://i.guim.co.uk/img/media/e5d9832caa80af3b5c1312bfc5ad117e6b97a0c0/793_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=bc1f018499f7606d0d3459ebe94c054e",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-f9bb47973f",
     "source": "The Guardian — UK",
     "title": "UK pension savers urged not to withdraw cash due to budget ‘fear and rumour’",
@@ -372,13 +408,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-355f24187c",
+    "id": "The Guardian — UK-7f273fd4e2",
     "source": "The Guardian — UK",
-    "title": "‘Good humanitarian reason’: Ed Davey calls for emergency programme to clear asylum backlog",
-    "summary": "Exclusive: Lib Dem leader says push to process cases would also ultimately save money and remove far-right target Ed Davey has called for an emergency programme to clear the asylum backlog and treat refugees with compassion, before a Liberal Democrat conference where the party aims to target disillusioned Conservative and Labour voters. Speaking before the gathering in Bournemouth, which begins on Saturday, Davey’s intervention on migration marks a broadening of the Lib Dem policy focus, which at the last election was carefully aimed towards a handful of areas such as health, care and pollution. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/20/ed-davey-liberal-democrats-asylum-backlog-election-targets",
+    "title": "Labour’s NHS job cuts plan in chaos amid row over £1bn costs",
+    "summary": "Integrated care boards in England cannot afford severance payments, leaving restructuring plan in chaos, union says Labour’s radical reorganisation of the NHS has descended into chaos, a union has said, as a huge programme of job cuts has been halted amid a row over who will foot the £1bn bill. The NHS’s 42 integrated care boards (ICBs) in England were due to make up to 12,500 of their 25,000 staff redundant by the end of the year as a result of health service cost-cutting. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/sep/20/nhs-integrated-care-boards-england-job-cuts-row",
     "published": "2025-09-20T05:00:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/ce1635706c379236ae896cbb152f0b70f603f7fa/0_195_6613_5291/master/6613.jpg?width=140&quality=85&auto=format&fit=max&s=2eed71381ba7e6c7fd775737895bb407",
+    "image_url": "https://i.guim.co.uk/img/media/b29e13c4f78242c4b6d2b8051944cecdf1d529a0/510_0_2990_2392/master/2990.jpg?width=140&quality=85&auto=format&fit=max&s=6627828d6cbe4b93b17e7e3cd7493ddd",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -420,18 +456,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-291ad526bb",
-    "source": "Politico — UK",
-    "title": "World’s cartoonists on this week’s events",
-    "summary": "Drawing the top stories around the globe.",
-    "url": "https://www.politico.eu/article/worlds-cartoons-donald-trump-ukraine-russia-eu-king-charles-uk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-20T02:03:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/300059_1536_rgb.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-04001ffb22",
     "source": "BBC — Top Stories",
     "title": "Republican senator says US TV regulator acted like 'mafioso' on Jimmy Kimmel",
@@ -444,18 +468,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-e4aef4c1b4",
-    "source": "Politico — UK",
-    "title": "Europe’s climate refugees: The Greek communities wiped off the map",
-    "summary": "Villages in the country’s agricultural breadbasket lie half-abandoned two years after catastrophic floods.",
-    "url": "https://www.politico.eu/article/europes-climate-refugees-the-greek-villages-wiped-off-the-map/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-20T02:01:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/louiza_vradi_politico_thessaly_2025_23-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-188747f6ef",
     "source": "BBC — Top Stories",
     "title": "She lived in the US for 30 years. Now this Sikh grandmother is locked up and faces deportation",
@@ -463,18 +475,6 @@
     "url": "https://www.bbc.com/news/articles/ckgq63lgn7zo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T00:22:11Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5c/live/aa187440-93ad-11f0-b391-6936825093bd.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e2a5ed4185",
-    "source": "BBC — Top Stories",
-    "title": "Model David Gandy: I guard my private life - no-one knows what my kids look like",
-    "summary": "The supermodel on AI-generated models, life with two young daughters - and his obsession with his lawn.",
-    "url": "https://www.bbc.com/news/articles/ceq2rz75xypo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T23:06:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d44/live/c0cc99d0-9611-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
