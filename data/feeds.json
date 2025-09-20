@@ -1,12 +1,36 @@
 [
   {
+    "id": "The Guardian — UK-fcdfa3e756",
+    "source": "The Guardian — UK",
+    "title": "Lucy Powell says plan to gambling taxes to cover lifting of two-child benefit cap",
+    "summary": "Deputy leadership candidate says party needs to be ‘clear that our objective is to lift children out of poverty’ Labour should consider raising taxes on gambling firms to cover the cost of lifting the two-child benefit cap, the party’s deputy leadership candidate Lucy Powell has suggested. The Manchester Central MP, who is battling with the education secretary, Bridget Phillipson, to succeed Angela Rayner as Labour’s deputy leader, also acknowledged the public was “exasperated” because of “some mistakes” Labour had made in office. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/20/lucy-powell-urges-labour-to-consider-raising-gambling-taxes-so-it-can-axe-two-child-benefit-cap",
+    "published": "2025-09-20T19:58:51Z",
+    "image_url": "https://i.guim.co.uk/img/media/8eb13decf4af5bc6c7231b319863f1b3ae8ea9dc/478_40_2606_2084/master/2606.jpg?width=140&quality=85&auto=format&fit=max&s=19931edc195b26172a518842abc0d189",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-4ee94b34da",
+    "source": "BBC — Top Stories",
+    "title": "Farron drapes himself in flag as Lib Dems seek to reclaim patriotism",
+    "summary": "The Lib Dems are urged to stop being squeamish about national pride, at their annual conference.",
+    "url": "https://www.bbc.com/news/articles/cjd11n14zz1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T19:45:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29d7/live/6623f260-964f-11f0-8383-1902c9cf90cf.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-9ab1800817",
     "source": "BBC — Top Stories",
-    "title": "Cyber-attack causes delays at Heathrow and other European airports",
-    "summary": "Travellers report multi-hour waits for some airlines as disruption also hits Brussels and Berlin.",
+    "title": "Day of delays at Heathrow after cyber-attack brings disruption",
+    "summary": "The issue affecting check-in and baggage systems has also caused cancellations in Brussels and Berlin.",
     "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T19:07:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d50/live/51b0d0e0-9614-11f0-90f2-5f87cb020b24.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2e1/live/0e833490-965d-11f0-90f2-5f87cb020b24.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -26,7 +50,7 @@
   {
     "id": "BBC — Top Stories-298a56e873",
     "source": "BBC — Top Stories",
-    "title": "India warns new US visa fee will have 'humanitarian consequences'",
+    "title": "India warns new US fee for H-1B visa will have 'humanitarian consequences'",
     "summary": "Donald Trump has said those applying for H-1B visas will have to pay $100,000, roughly 60 times the current fee, starting Sunday.",
     "url": "https://www.bbc.com/news/articles/clyll7dlg7lo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T18:22:53Z",
@@ -144,18 +168,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-46d3451f7d",
-    "source": "BBC — Top Stories",
-    "title": "Lib Dems want to use wartime powers to clear asylum backlog",
-    "summary": "The party's home affairs spokesman Lisa Smart is also calling for police desks in shops and supermarkets.",
-    "url": "https://www.bbc.com/news/articles/ckg6dd8207ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T15:08:25Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3924/live/e20f4e70-961c-11f0-b5f9-bf23d14527d7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-c590232df7",
     "source": "The Guardian — UK",
     "title": "Anti-immigration protesters and counter-protesters clash in Glasgow",
@@ -235,6 +247,18 @@
     "url": "https://www.politico.com/news/2025/09/19/pentagon-limits-access-journalists-00574227?fbclid=IwY2xjawM7gLFleHRuA2FlbQIxMQABHoHDoTXeK6bLMN-SG8Ou9xz2_gMH0zYmBBSPdy1hhV_X2DxHdWPou_b52-vZ_aem_Kd0X98Benrh2MXqo9gmbeQ&utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-20T12:54:19Z",
     "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-07dbefce02",
+    "source": "BBC — Top Stories",
+    "title": "Johnson-Thompson shares heptathlon bronze in dramatic conclusion",
+    "summary": "Katarina Johnson-Thompson wins an emotional fourth global heptathlon medal in unprecedented circumstances as she shares world bronze in Tokyo.",
+    "url": "https://www.bbc.com/sport/athletics/articles/c3rv4rerwjpo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T12:29:44Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea67/live/0eb0e3d0-9627-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -324,18 +348,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-eb056bfcbe",
-    "source": "The Guardian — UK",
-    "title": "Zarah Sultana consults defamation lawyers after spat with Jeremy Corbyn over party funds",
-    "summary": "MP says she faced ‘baseless attacks’ over paid membership portal, which Corbyn told supporters not to use Zarah Sultana has consulted defamation lawyers after her public spat with Jeremy Corbyn over the launch of a paid membership system for the party they were to co-lead. Sultana said she has been on the receiving end of “politically motivated” attacks amid the row that has engulfed the launch of Your party. Corbyn had previously urged people not to use the “supposed membership portal”, and said legal advice was being taken over its launch. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/20/zarah-sultana-consults-defamation-lawyers-after-spat-with-jeremy-corbyn-over-party-funds",
-    "published": "2025-09-20T08:57:30Z",
-    "image_url": "https://i.guim.co.uk/img/media/7cfa3ffffd7ae0d948b9f3f4dcc19da0bfdcb278/317_0_3174_2539/master/3174.jpg?width=140&quality=85&auto=format&fit=max&s=6af78959c6221c714517c03a3c6a6252",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-c753210acc",
     "source": "BBC — Top Stories",
     "title": "Ed Davey loves clowning around, but is it time the Lib Dems got serious?",
@@ -367,6 +379,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/20/collapse-uk-spy-trial-china-christopher-cash-christopher-berry",
     "published": "2025-09-20T08:04:54Z",
     "image_url": "https://i.guim.co.uk/img/media/33f77b501863cc75fbdbf3e359ff751a58372653/2021_0_4440_3554/master/4440.jpg?width=140&quality=85&auto=format&fit=max&s=ac1dd524f60ea05d23418863ec12f58f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-8d3f0233c5",
+    "source": "The Guardian — UK",
+    "title": "Parliament vulnerable to ‘foreign actors’ after China spying charges dropped, Commons speaker says",
+    "summary": "Lindsay Hoyle says decision by prosecutors to drop case ‘leaves the door open’ to spies The aide, the associate and the ‘Chinese agent’ – and the collapse of a long-awaited UK spy trial The UK parliament has been left vulnerable to “foreign actors” after charges against two men suspected of spying for China were dropped, the speaker of the House of Commons has warned. Speaking to the Times, Lindsay Hoyle said the decision to drop the charges effectively gave Beijing “licence to operate” within parliament. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/20/parliament-vulnerable-to-foreign-actors-after-china-spying-charges-dropped-commons-speaker-says",
+    "published": "2025-09-20T08:04:50Z",
+    "image_url": "https://i.guim.co.uk/img/media/dba6ef6162d8edf3764cd64a0f92058cec0b6ec0/0_0_6703_5366/master/6703.jpg?width=140&quality=85&auto=format&fit=max&s=317e0a7095ce930a50670b2c427a5b7a",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -432,18 +456,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-7f273fd4e2",
-    "source": "The Guardian — UK",
-    "title": "Labour’s NHS job cuts plan in chaos amid row over £1bn costs",
-    "summary": "Integrated care boards in England cannot afford severance payments, leaving restructuring plan in chaos, union says Labour’s radical reorganisation of the NHS has descended into chaos, a union has said, as a huge programme of job cuts has been halted amid a row over who will foot the £1bn bill. The NHS’s 42 integrated care boards (ICBs) in England were due to make up to 12,500 of their 25,000 staff redundant by the end of the year as a result of health service cost-cutting. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/sep/20/nhs-integrated-care-boards-england-job-cuts-row",
-    "published": "2025-09-20T05:00:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/b29e13c4f78242c4b6d2b8051944cecdf1d529a0/510_0_2990_2392/master/2990.jpg?width=140&quality=85&auto=format&fit=max&s=6627828d6cbe4b93b17e7e3cd7493ddd",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-168fd6e7eb",
     "source": "BBC — Top Stories",
     "title": "Play now",
@@ -487,18 +499,6 @@
     "url": "https://www.bbc.com/news/articles/ckgq63lgn7zo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T00:22:11Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5c/live/aa187440-93ad-11f0-b391-6936825093bd.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-c72e69121d",
-    "source": "BBC — Top Stories",
-    "title": "'I'm Kenyan, don't shoot' - the athlete who says he was duped into the Russian army",
-    "summary": "Evans Kibet, now being held in Ukraine after surrendering, says he did not know he was signing up.",
-    "url": "https://www.bbc.com/news/articles/c79vqpnqgy7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T23:05:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9202/live/bcab3690-94a4-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
