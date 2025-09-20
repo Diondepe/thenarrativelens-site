@@ -1,12 +1,36 @@
 [
   {
+    "id": "Politico — UK-e79c3e360a",
+    "source": "Politico — UK",
+    "title": "G7 needs ‘decisive’ action to end Ukraine war, Canadian finance minister says",
+    "summary": "Finance Minister François-Philippe Champagne ruled out the prospect of Canada joining the EU, saying: “We’re not there.”",
+    "url": "https://www.politico.eu/article/g7-decisive-action-end-ukraine-war-canada-finance-minister-francois-philippe-champagne/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-20T11:04:22Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/20/GettyImages-2222568323-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-9ab1800817",
     "source": "BBC — Top Stories",
-    "title": "Heathrow among airports hit by cyber-attack on check-in system",
-    "summary": "The airport warned delays were possible due to \"technical issues\" also affecting Brussels and Berlin.",
+    "title": "Cyber-attack causes delays at Heathrow and other European airports",
+    "summary": "Travellers report multi-hour waits for some airlines as disruption also hits Brussels and Berlin.",
     "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T10:13:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e36/live/fbd35ad0-9609-11f0-84c8-99de564f0440.jpg",
+    "published": "2025-09-20T10:50:46Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d98/live/11cab050-960e-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7b57ac69e0",
+    "source": "BBC — Top Stories",
+    "title": "Estonia seeks Nato consultation after Russian jets violate airspace",
+    "summary": "Russia denies jets entered Estonian airspace in the same month as its drones violated the airspace of two other Nato members.",
+    "url": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T10:47:20Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c13f/live/c28ed850-95c6-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -15,10 +39,10 @@
     "id": "BBC — Top Stories-e1d52d3d3c",
     "source": "BBC — Top Stories",
     "title": "Birmingham nightclub shooting leaves four injured",
-    "summary": "One man is in a critical condition and three people are arrested after the city centre shooting.",
+    "summary": "One man is in a critical condition and three other people were also injured in the attack in Birmingham.",
     "url": "https://www.bbc.com/news/articles/c701xdnr09wo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T09:33:07Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed9/live/b5d5f920-9604-11f0-a206-7be238e04950.jpg",
+    "published": "2025-09-20T10:39:39Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0991/live/d0b644c0-960e-11f0-9cf6-cbf3e73ce2b9.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -168,18 +192,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-f43ed913c6",
-    "source": "BBC — Top Stories",
-    "title": "Portugal confirms it will recognise Palestinian state",
-    "summary": "A host of countries, including France and the UK, are expected to do the same when world leaders gather at the UN General Assembly next week.",
-    "url": "https://www.bbc.com/news/articles/c5yek72jqk4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T07:46:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a396/live/a223bb00-95e7-11f0-9cf6-cbf3e73ce2b9.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-c866614b23",
     "source": "The Guardian — UK",
     "title": "Police make arrests after four people shot in Birmingham nightclub",
@@ -198,7 +210,7 @@
     "summary": "Exclusive: Instagram pictures of girls as young as 13 were posted to promote Threads site ‘as bait’, campaigner says Meta has used back-to-school pictures of schoolgirls to advertise one of its social media platforms to a 37-year-old man, in a move parents described as “outrageous” and “upsetting”. The man noticed that posts encouraging him to “get Threads”, Mark Zuckerberg’s rival to Elon Musk’s X, were being dropped into his Instagram feed featuring embedded posts of uniformed girls as young as 13 with their faces visible and, in most cases, their names. Continue reading...",
     "url": "https://www.theguardian.com/technology/2025/sep/20/parents-outraged-meta-uses-photos-schoolgirls-ads-man",
     "published": "2025-09-20T07:01:07Z",
-    "image_url": "https://i.guim.co.uk/img/media/8bf4de8fe8e47cae0aca75f004ae9e5d30f799ea/0_706_1179_942/master/1179.jpg?width=140&quality=85&auto=format&fit=max&s=197263c2c53ceade9ae1f15ebd1f54f6",
+    "image_url": "https://i.guim.co.uk/img/media/8e62ae29597794825057c117b808285e6b6fd327/0_0_3110_2488/master/3110.jpg?width=140&quality=85&auto=format&fit=max&s=ed6e8c651c699c41934ab44ec66e27e7",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -228,13 +240,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-7b57ac69e0",
+    "id": "BBC — Top Stories-ffb595e048",
     "source": "BBC — Top Stories",
-    "title": "Estonia seeks Nato consultation after Russian jets violate airspace",
-    "summary": "Russia denies jets entered Estonian airspace in the same month as its drones violated the airspace of two other Nato members.",
-    "url": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T05:57:11Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c13f/live/c28ed850-95c6-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "title": "Can French romance and rebellion defy dominant Red Roses?",
+    "summary": "France have come closer than any other team during England's record run of victories. Beating the tournament hosts in the World Cup semi-final would be the ultimate heist.",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/crl5z22526no?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T05:41:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af38/live/86169550-9573-11f0-b391-6936825093bd.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -255,7 +267,7 @@
     "id": "BBC — Top Stories-6f50cf10d5",
     "source": "BBC — Top Stories",
     "title": "Why I left all my child's school WhatsApp groups",
-    "summary": "Some parents are quitting \"polarised\" school WhatsApp groups in a bid to escape frenzy of \"constant notifications\".",
+    "summary": "Some parents are quitting the group chats to escape the frenzy of \"constant notifications\".",
     "url": "https://www.bbc.com/news/articles/ce9rxed9m5mo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T05:00:53Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b077/live/af4af690-9560-11f0-b391-6936825093bd.png",
@@ -288,6 +300,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-168fd6e7eb",
+    "source": "BBC — Top Stories",
+    "title": "Play now",
+    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
+    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T04:53:25Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-2f41e99695",
     "source": "Politico — UK",
     "title": "Machthaber: Wolodymyr Selenskyj",
@@ -300,13 +324,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-5f277a83c3",
+    "id": "BBC — Top Stories-eccbd7653d",
     "source": "BBC — Top Stories",
-    "title": "Commons open to espionage after China spying charges dropped, says Speaker",
-    "summary": "The Speaker of the Commons is reportedly considering private action against two men accused of spying for China.",
-    "url": "https://www.bbc.com/news/articles/cx20pw994q3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T02:15:40Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51ab/live/b474a2c0-95b4-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "title": "Key oceans treaty crosses threshold to come into force",
+    "summary": "Sixty states have ratified a global treaty to protect the oceans - it will become law in January.",
+    "url": "https://www.bbc.com/news/articles/cq5j87114deo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T02:12:08Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc6/live/eb4564c0-95b8-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -360,25 +384,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-0618ee82ce",
-    "source": "BBC — Top Stories",
-    "title": "The Papers: 'Putin's jets over Estonia' and two-child benefit cap 'spiteful' says MP",
-    "summary": "In the Saturday edition of the paper, the Mail calls jets over Estonia an \"alarming new escalation\".",
-    "url": "https://www.bbc.com/news/articles/c78nmjy8pngo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T00:05:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a105/live/d9af74f0-95b1-11f0-84c8-99de564f0440.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-e2a5ed4185",
     "source": "BBC — Top Stories",
     "title": "Model David Gandy: I guard my private life - no one knows what my kids look like",
     "summary": "The supermodel on AI-generated models, life with two young daughters - and his obsession with his lawn.",
     "url": "https://www.bbc.com/news/articles/ceq2rz75xypo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T23:06:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1f8/live/e0722fc0-9599-11f0-84c8-99de564f0440.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d44/live/c0cc99d0-9611-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -414,7 +426,7 @@
     "summary": "Putin resurrects a Soviet-era global song contest, to distract from Russia's invasion of Ukraine.",
     "url": "https://www.bbc.com/news/articles/cre5vv0x31po?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T23:04:07Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33de/live/680c9c10-95ed-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/deab9c00-9556-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,18 +492,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-ce8994860c",
-    "source": "BBC — Top Stories",
-    "title": "'I could've cheated too': Cardi B gets personal on long-awaited second album",
-    "summary": "The US rapper references her 2024 divorce and a beef with another female rapper on Am I The Drama?",
-    "url": "https://www.bbc.com/news/articles/cgmz2wx201po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T16:30:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb04/live/41645fc0-9607-11f0-84c8-99de564f0440.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-60c755c9fe",
     "source": "The Guardian — UK",
     "title": "What the UK’s recognition of Palestinian statehood will mean",
@@ -540,18 +540,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-f328d13ae9",
-    "source": "Politico — UK",
-    "title": "France eyes optional military service as Putin lurks",
-    "summary": "No conscription yet, but French politicians are getting creative to attract people to the armed forces.",
-    "url": "https://www.politico.eu/article/france-will-reinstate-voluntary-military-service-soon/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-19T11:46:31Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/13193019-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-737ff91789",
     "source": "The Guardian — UK",
     "title": "Why Britain recognising Palestine matters – podcast",
@@ -595,6 +583,18 @@
     "url": "https://www.theguardian.com/politics/audio/2025/sep/17/trump-on-tour-pomp-pageantry-and-politics-podcast",
     "published": "2025-09-17T17:13:34Z",
     "image_url": "https://i.guim.co.uk/img/media/cc8a38eaca2f72d5bd38f18dd6fc4f5f0b4e6027/757_0_5795_4636/master/5795.jpg?width=140&quality=85&auto=format&fit=max&s=cb103545c5ae656609b4add601eedb57",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-53515fb374",
+    "source": "BBC — Top Stories",
+    "title": "BBC News app",
+    "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+    "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+    "published": "2025-04-30T14:04:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
