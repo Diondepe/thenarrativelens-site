@@ -1,9 +1,57 @@
 [
   {
+    "id": "BBC — Top Stories-9ab1800817",
+    "source": "BBC — Top Stories",
+    "title": "Heathrow among airports hit by cyber-attack on check-in system",
+    "summary": "The airport warned delays were possible due to \"technical issues\" also affecting Brussels and Berlin.",
+    "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T10:13:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e36/live/fbd35ad0-9609-11f0-84c8-99de564f0440.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e1d52d3d3c",
+    "source": "BBC — Top Stories",
+    "title": "Birmingham nightclub shooting leaves four injured",
+    "summary": "One man is in a critical condition and three people are arrested after the city centre shooting.",
+    "url": "https://www.bbc.com/news/articles/c701xdnr09wo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T09:33:07Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed9/live/b5d5f920-9604-11f0-a206-7be238e04950.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-6e8816c312",
+    "source": "Politico — UK",
+    "title": "Cyberattack causes delays, disruptions at European airports",
+    "summary": "Collins Aerospace, which provides check-in and boarding systems for airlines at multiple airports, said a \"cyber-related disruption\" affected its systems.",
+    "url": "https://www.politico.eu/article/cyberattack-delay-disruption-european-airport/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-20T09:25:29Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/20/GettyImages-2230290646-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-4afdc40624",
+    "source": "BBC — Top Stories",
+    "title": "Trump adds $100,000 fee for skilled worker visa applicants",
+    "summary": "\"Train Americans,\" the US commerce secretary told big companies, some of which have relied on foreign high-skilled workers for years.",
+    "url": "https://www.bbc.com/news/articles/cm2zk4l8g26o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T09:19:26Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48b/live/7ea15a50-9602-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-3eaf2f3877",
     "source": "The Guardian — UK",
-    "title": "Rachel Reeves due to speak at gambling lobbyist’s event amid £12bn tax review",
-    "summary": "Chancellor’s invitation criticised as ‘very strange timing’ with Treasury looking at whether to raise duties on sector The chancellor, Rachel Reeves, has been urged to cancel plans to be the guest of honour at an event hosted by the chief lobbyist of the gambling industry while the Treasury is in the midst of a review of taxes on the £12bn sector. Reeves is slated to appear at a “private reception” for business leaders, organised by the corporate communications company Brunswick, at the forthcoming Labour party conference in Liverpool. Continue reading...",
+    "title": "Rachel Reeves due to appear at gambling lobbyist’s event amid tax review",
+    "summary": "Chancellor’s invitation criticised as ‘strange timing’ with Treasury looking at whether to raise duties on £12bn sector The chancellor, Rachel Reeves, has been urged to cancel plans to be the guest of honour at an event hosted by the chief lobbyist of the gambling industry while the Treasury is in the midst of a review of taxes on the £12bn sector. Reeves is slated to appear at a “private reception” for business leaders, organised by the corporate communications company Brunswick, at the forthcoming Labour party conference in Liverpool. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/20/rachel-reeves-due-to-speak-at-gambling-lobbyists-event-amid-12bn-tax-review",
     "published": "2025-09-20T09:06:19Z",
     "image_url": "https://i.guim.co.uk/img/media/71e0f3085f4e5366eb1248c99435d9f52008e77b/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5ef28717360b00126e02b3d203e523ae",
@@ -24,18 +72,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-9ab1800817",
-    "source": "BBC — Top Stories",
-    "title": "Heathrow among airports hit by cyber-attack on check-in system",
-    "summary": "The airport warned delays were possible due to \"technical issues\" also affecting Brussels and Berlin.",
-    "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T09:04:36Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7d1/live/dcda6f20-95fe-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-17c87c0237",
     "source": "The Guardian — UK",
     "title": "Huge crater under North Sea was created by asteroid impact, scientists say",
@@ -51,7 +87,7 @@
     "id": "The Guardian — UK-eb056bfcbe",
     "source": "The Guardian — UK",
     "title": "Zarah Sultana consults defamation lawyers after spat with Jeremy Corbyn over party funds",
-    "summary": "MP says she faced ‘baseless attacks’ over paid membership portal, which Corbyn told supporters not to use Zarah Sultana has consulted defamation lawyers after her public spat with Jeremy Corbyn over the launch of a paid membership system for the party they were to co-lead. Sultana said she has been on the receiving end of “politically motivated” attacks amid the row that has engulfed the launch of Your Party. Corbyn had previously urged people not to use the “supposed membership portal”, and said legal advice was being taken over its launch. Continue reading...",
+    "summary": "MP says she faced ‘baseless attacks’ over paid membership portal, which Corbyn told supporters not to use Zarah Sultana has consulted defamation lawyers after her public spat with Jeremy Corbyn over the launch of a paid membership system for the party they were to co-lead. Sultana said she has been on the receiving end of “politically motivated” attacks amid the row that has engulfed the launch of Your party. Corbyn had previously urged people not to use the “supposed membership portal”, and said legal advice was being taken over its launch. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/20/zarah-sultana-consults-defamation-lawyers-after-spat-with-jeremy-corbyn-over-party-funds",
     "published": "2025-09-20T08:57:30Z",
     "image_url": "https://i.guim.co.uk/img/media/7cfa3ffffd7ae0d948b9f3f4dcc19da0bfdcb278/317_0_3174_2539/master/3174.jpg?width=140&quality=85&auto=format&fit=max&s=6af78959c6221c714517c03a3c6a6252",
@@ -168,30 +204,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e1d52d3d3c",
-    "source": "BBC — Top Stories",
-    "title": "Birmingham nightclub shooting leaves four injured",
-    "summary": "One man is in a critical condition and three people are arrested after the city centre shooting.",
-    "url": "https://www.bbc.com/news/articles/c701xdnr09wo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T06:50:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bc0/live/e7b48a20-95ea-11f0-a55d-e9f5fb1cc989.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4afdc40624",
-    "source": "BBC — Top Stories",
-    "title": "Trump adds $100,000 fee for skilled worker visa applicants",
-    "summary": "\"Train Americans,\" the US commerce secretary told big companies, some of which have relied on foreign high-skilled workers for years.",
-    "url": "https://www.bbc.com/news/articles/cm2zk4l8g26o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T06:42:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48b/live/7ea15a50-9602-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-a1144a1c5b",
     "source": "BBC — Top Stories",
     "title": "Son of British couple held by Taliban 'ecstatic' as they return to UK",
@@ -264,13 +276,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-7f273fd4e2",
+    "id": "The Guardian — UK-355f24187c",
     "source": "The Guardian — UK",
-    "title": "NHS integrated care boards halt job cuts in row over £1bn cost",
-    "summary": "Integrated care boards in England cannot afford severance payments, leaving restructuring plan in chaos, union says Labour’s radical reorganisation of the NHS has descended into chaos, a union has said, as a huge programme of job cuts has been halted amid a row over who will foot the £1bn bill. The NHS’s 42 integrated care boards (ICBs) in England were due to make up to 12,500 of their 25,000 staff redundant by the end of the year as a result of health service cost-cutting. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/sep/20/nhs-integrated-care-boards-england-job-cuts-row",
+    "title": "‘Good humanitarian reason’: Ed Davey calls for emergency programme to clear asylum backlog",
+    "summary": "Exclusive: Lib Dem leader says push to process cases would also ultimately save money and remove far-right target Ed Davey has called for an emergency programme to clear the asylum backlog and treat refugees with compassion, before a Liberal Democrat conference where the party aims to target disillusioned Conservative and Labour voters. Speaking before the gathering in Bournemouth, which begins on Saturday, Davey’s intervention on migration marks a broadening of the Lib Dem policy focus, which at the last election was carefully aimed towards a handful of areas such as health, care and pollution. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/20/ed-davey-liberal-democrats-asylum-backlog-election-targets",
     "published": "2025-09-20T05:00:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/b29e13c4f78242c4b6d2b8051944cecdf1d529a0/510_0_2990_2392/master/2990.jpg?width=140&quality=85&auto=format&fit=max&s=6627828d6cbe4b93b17e7e3cd7493ddd",
+    "image_url": "https://i.guim.co.uk/img/media/ce1635706c379236ae896cbb152f0b70f603f7fa/0_195_6613_5291/master/6613.jpg?width=140&quality=85&auto=format&fit=max&s=2eed71381ba7e6c7fd775737895bb407",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -474,7 +486,7 @@
     "summary": "The US rapper references her 2024 divorce and a beef with another female rapper on Am I The Drama?",
     "url": "https://www.bbc.com/news/articles/cgmz2wx201po?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T16:30:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/842c/live/7572aec0-95fd-11f0-84c8-99de564f0440.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb04/live/41645fc0-9607-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,18 +547,6 @@
     "url": "https://www.politico.eu/article/france-will-reinstate-voluntary-military-service-soon/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-19T11:46:31Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/13193019-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-fefb69017e",
-    "source": "Politico — UK",
-    "title": "US-UK tech deal won’t stop UK making its own rules on AI, trade secretary says",
-    "summary": "Four industry insiders said the U.S.-U.K. Tech Prosperity Deal could make it trickier for Britain to bring forward its own AI legislation.",
-    "url": "https://www.politico.eu/article/us-uk-tech-deal-wont-stop-uk-making-its-own-rules-on-ai-trade-secretary-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-19T11:32:21Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/GettyImages-2235502783.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
