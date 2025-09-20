@@ -1,5 +1,29 @@
 [
   {
+    "id": "The Guardian — UK-7b7d43ee9c",
+    "source": "The Guardian — UK",
+    "title": "British couple detained by Taliban in Afghanistan return to UK",
+    "summary": "Barbie Reynolds, 76, and husband Peter, 80, were released after being held without charge for nearly eight months A British couple who were detained without charge for nearly eight months by the Taliban in Afghanistan have arrived in the UK. Barbie Reynolds, 76, and her husband Peter, 80, were released on Friday , having been arrested as they travelled to their home in Bamyan province, central Afghanistan, in February. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/20/british-couple-detained-by-taliban-in-afghanistan-return-to-uk",
+    "published": "2025-09-20T16:32:40Z",
+    "image_url": "https://i.guim.co.uk/img/media/d5aaeaf098e52c5019e21401e69ab61cd0d90dc9/264_95_1572_1258/master/1572.jpg?width=140&quality=85&auto=format&fit=max&s=b23b36fe6f8caedfbf1f6f4f118bbda4",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-54fe5ed799",
+    "source": "BBC — Top Stories",
+    "title": "Kildunne stars as England see off France to make final",
+    "summary": "Ellie Kildunne scores twice as England see off a stubborn France to reach their seventh successive Women's Rugby World Cup final.",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/cx20p2kx9r6o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T16:27:03Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a91/live/06112ed0-9643-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-9d73dc9788",
     "source": "Politico — UK",
     "title": "Dutch anti-immigration protest turns violent",
@@ -31,6 +55,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/20/king-made-more-than-1m-selling-land-for-leg-of-hs2-that-was-scrapped",
     "published": "2025-09-20T16:00:18Z",
     "image_url": "https://i.guim.co.uk/img/media/c9091f4b1826ec6c936ca2862f029ccd024347e8/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=22d38bf345d91b11976551ac3e25b278",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ec1b2cfbe1",
+    "source": "BBC — Top Stories",
+    "title": "I was groped by TV host, says Gavin and Stacey star Joanna Page",
+    "summary": "The Welsh actress says she was warned by a producer the man could be \"handsy\".",
+    "url": "https://www.bbc.com/news/articles/cp8wwe2xj9do?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T15:42:20Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0ce/live/fdbc2c50-963b-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -75,7 +111,7 @@
     "id": "The Guardian — UK-c590232df7",
     "source": "The Guardian — UK",
     "title": "Anti-immigration protesters and counter-protesters clash in Glasgow",
-    "summary": "Event comes a week after the largest far-right event in decades took place in London Anti-immigration protesters have clashed with anti-racist counter-protesters in tense scenes in Glasgow this afternoon, a week after the largest far-right event in decades , organised by the activist Stephen Yaxley-Lennon, known as Tommy Robinson , took place in London. The statue of Scottish statesman Donald Dewar, father of the Holyrood parliament, was surrounded by union flags bearing the words: ‘Stop the boats’, and ‘Unite the kingdom’. Continue reading...",
+    "summary": "Event comes a week after the largest far-right event in decades took place in London Anti-immigration protesters have clashed with anti-racist counter-protesters in tense scenes in Glasgow this afternoon, a week after the largest far-right event in decades took place in London. The statue of Scottish statesman Donald Dewar, father of the Holyrood parliament, was surrounded by union flags bearing the words: “Stop the boats” and “Unite the kingdom”. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/sep/20/anti-immigration-protesters-and-counter-protesters-clash-in-glasgow",
     "published": "2025-09-20T15:07:23Z",
     "image_url": "https://i.guim.co.uk/img/media/a123c762489b69332ce21a0bceb72ff302e26191/484_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=2ac3c0d47b14860bb14eb891ff3b0ee9",
@@ -324,18 +360,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-727e5c2cd2",
-    "source": "The Guardian — UK",
-    "title": "British AI startup beats humans in international forecasting competition",
-    "summary": "ManticAI ranked eighth in the Metaculus Cup, leaving some believing bots’ prediction skills could soon overtake experts An artificial intelligence system has beaten scores of forecasting enthusiasts, including several professionals, in a contest to predict events ranging from bust-ups between Donald Trump and Elon Musk to Kemi Badenoch being removed from the Conservative party leadership. A British AI startup, co-founded by a former Google DeepMind researcher, has ranked in the top 10 of an international forecasting competition, which requires entrants to forecast the likelihood of 60 events over the summer. Continue reading...",
-    "url": "https://www.theguardian.com/technology/2025/sep/20/british-ai-startup-beats-humans-in-international-forecasting-competition",
-    "published": "2025-09-20T08:00:08Z",
-    "image_url": "https://i.guim.co.uk/img/media/b23b6af7acdbb34944ec571e381c47905a493662/907_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=81f7b6052da2da1aee4df8c4167a713b",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-773b8a7131",
     "source": "Politico — UK",
     "title": "Judge tells Meta not to share Instagram users’ information with Trump admin",
@@ -355,18 +379,6 @@
     "url": "https://www.theguardian.com/money/2025/sep/20/uk-pension-savers-withdraw-cash-budget-tax",
     "published": "2025-09-20T06:00:06Z",
     "image_url": "https://i.guim.co.uk/img/media/d6461fb8efb34a50e316594b161ce933fec1c60a/939_0_4776_3822/master/4776.jpg?width=140&quality=85&auto=format&fit=max&s=e883d0b725161587f2f9ee549c6f7452",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-aedfb570e2",
-    "source": "BBC — Top Stories",
-    "title": "The making of a Lioness: Alessia Russo’s path to football royalty",
-    "summary": "England forward Alessia Russo sits down with Kelly Somers to talk about her football career and her family.",
-    "url": "https://www.bbc.com/sport/football/articles/c5yk7jlz3ezo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T05:19:30Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f355/live/88e71d80-948e-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -451,18 +463,6 @@
     "url": "https://www.bbc.com/news/articles/cq5j87114deo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T02:12:08Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc6/live/eb4564c0-95b8-11f0-84c8-99de564f0440.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-04001ffb22",
-    "source": "BBC — Top Stories",
-    "title": "Republican senator says US TV regulator acted like 'mafioso' on Jimmy Kimmel",
-    "summary": "The Texas senator affected a mobster accent to criticise how ABC was pressed to take action on the late-night host.",
-    "url": "https://www.bbc.com/news/articles/c1kwzgrwdd0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T02:01:01Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a4e/live/53756e40-95a6-11f0-9c74-3fb96b77a166.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
