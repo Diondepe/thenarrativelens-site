@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-9ab1800817",
+    "source": "BBC — Top Stories",
+    "title": "Cyber-attack causes delays at Heathrow and other European airports",
+    "summary": "Travellers report multi-hour waits for some airlines as disruption also hits Brussels and Berlin.",
+    "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T19:07:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d50/live/51b0d0e0-9614-11f0-90f2-5f87cb020b24.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-1f7ecb4c20",
+    "source": "The Guardian — UK",
+    "title": "Heathrow flights delayed and cancelled as cyber-attack hits European airports",
+    "summary": "Attack raises questions over security as Brussels and Berlin airports’ check-in and boarding systems also affected Flights have been delayed and cancelled at three leading European airports – including London’s largest, Heathrow – after the company behind the software used for check-in and boarding said it was hit by a cyber-attack. Airports in Brussels and Berlin are also experiencing delays and disruption as a result of the problem affecting Collins Aerospace, which works for several airlines at airports across the world. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/20/heathrow-airport-delays-cyber-attack-berlin-brussels-cancelled-delays",
+    "published": "2025-09-20T18:58:55Z",
+    "image_url": "https://i.guim.co.uk/img/media/eff8d097c15e0b4c721dd1077de90a782d049f24/288_0_2923_2339/master/2923.jpg?width=140&quality=85&auto=format&fit=max&s=efa3e8b65896ae0290fd6c599653f873",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-298a56e873",
+    "source": "BBC — Top Stories",
+    "title": "India warns new US visa fee will have 'humanitarian consequences'",
+    "summary": "Donald Trump has said those applying for H-1B visas will have to pay $100,000, roughly 60 times the current fee, starting Sunday.",
+    "url": "https://www.bbc.com/news/articles/clyll7dlg7lo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T18:22:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3129/live/bcffa3c0-9647-11f0-90f2-5f87cb020b24.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-b2dd912fbd",
     "source": "BBC — Top Stories",
     "title": "Notre-Dame's iconic towers reopen six years after fire",
@@ -67,18 +103,6 @@
     "url": "https://www.politico.eu/article/dutch-anti-immigration-protest-violent-the-hague/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-20T16:16:50Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/20/GettyImages-2235888418.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9ab1800817",
-    "source": "BBC — Top Stories",
-    "title": "Cyber-attack causes delays at Heathrow and other European airports",
-    "summary": "Travellers report multi-hour waits for some airlines as disruption also hits Brussels and Berlin.",
-    "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T16:03:46Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d50/live/51b0d0e0-9614-11f0-90f2-5f87cb020b24.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -216,18 +240,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-1f7ecb4c20",
-    "source": "The Guardian — UK",
-    "title": "Heathrow flights delayed and cancelled as cyber-attack hits European airports",
-    "summary": "Attack raises questions over security as Brussels and Berlin airports’ check-in and boarding systems also affected Flights have been delayed and cancelled at three major European airports – including London’s largest, Heathrow – after the company behind the software used for check-in and boarding said it was hit by a cyber-attack. Airports in Brussels and Berlin are also experiencing delays and disruption after the issue affecting Collins Aerospace, which works for several airlines at airports across the world. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/20/heathrow-airport-delays-cyber-attack-berlin-brussels-cancelled-delays",
-    "published": "2025-09-20T12:30:37Z",
-    "image_url": "https://i.guim.co.uk/img/media/eff8d097c15e0b4c721dd1077de90a782d049f24/288_0_2923_2339/master/2923.jpg?width=140&quality=85&auto=format&fit=max&s=efa3e8b65896ae0290fd6c599653f873",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-2564cb3756",
     "source": "Politico — UK",
     "title": "Russia launches another massive attack on Ukraine",
@@ -276,18 +288,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-7b57ac69e0",
-    "source": "BBC — Top Stories",
-    "title": "Estonia seeks Nato consultation after Russian jets violate airspace",
-    "summary": "Russia denies jets entered Estonian airspace in the same month as its drones violated the airspace of two other Nato members.",
-    "url": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T10:47:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c13f/live/c28ed850-95c6-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-6e8816c312",
     "source": "Politico — UK",
     "title": "Cyberattack causes delays, disruptions at European airports",
@@ -303,7 +303,7 @@
     "id": "The Guardian — UK-3eaf2f3877",
     "source": "The Guardian — UK",
     "title": "Rachel Reeves due to appear at gambling lobbyist’s event amid tax review",
-    "summary": "Chancellor’s invitation criticised as ‘strange timing’ with Treasury looking at whether to raise duties on £12bn sector The chancellor, Rachel Reeves, has been urged to cancel plans to be the guest of honour at an event hosted by the chief lobbyist of the gambling industry while the Treasury is in the midst of a review of taxes on the £12bn sector. Reeves is slated to appear at a “private reception” for business leaders, organised by the corporate communications company Brunswick, at the forthcoming Labour party conference in Liverpool. Continue reading...",
+    "summary": "Chancellor’s invitation criticised as ‘strange timing’ with Treasury looking at whether to raise duties on £12bn sector Rachel Reeves has been urged to cancel plans to be the guest of honour at an event hosted by the chief lobbyist of the gambling industry while the Treasury is in the midst of a review of taxes on the £12bn sector. The chancellor is slated to appear at a “private reception” for business leaders, organised by the corporate communications company Brunswick, at the forthcoming Labour party conference in Liverpool. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/20/rachel-reeves-due-to-speak-at-gambling-lobbyists-event-amid-12bn-tax-review",
     "published": "2025-09-20T09:06:19Z",
     "image_url": "https://i.guim.co.uk/img/media/71e0f3085f4e5366eb1248c99435d9f52008e77b/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5ef28717360b00126e02b3d203e523ae",
@@ -511,18 +511,6 @@
     "url": "https://www.bbc.com/news/articles/cre5vv0x31po?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T23:04:07Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/deab9c00-9556-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-5a5ae2545d",
-    "source": "BBC — Top Stories",
-    "title": "I'm nothing like my Peaky Blinders character, says Cillian Murphy",
-    "summary": "It comes as the Irish actor promotes a new film which follows attempts to turn around a reform school.",
-    "url": "https://www.bbc.com/news/articles/cm2zvwmen2jo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T23:03:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e64/live/58309270-9600-11f0-84c8-99de564f0440.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
