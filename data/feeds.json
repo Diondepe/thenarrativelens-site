@@ -1,12 +1,60 @@
 [
   {
+    "id": "BBC — Top Stories-5f277a83c3",
+    "source": "BBC — Top Stories",
+    "title": "Commons open to espionage after China spying charges dropped, says speaker",
+    "summary": "The Speaker of the Commons is reportedly considering private action against two men accused of spying for China.",
+    "url": "https://www.bbc.com/news/articles/cx20pw994q3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T02:15:40Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51ab/live/b474a2c0-95b4-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-291ad526bb",
+    "source": "Politico — UK",
+    "title": "World’s cartoonists on this week’s events",
+    "summary": "Drawing the top stories around the globe.",
+    "url": "https://www.politico.eu/article/worlds-cartoons-donald-trump-ukraine-russia-eu-king-charles-uk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-20T02:03:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/300059_1536_rgb.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-04001ffb22",
     "source": "BBC — Top Stories",
     "title": "Senator Ted Cruz says US broadcast regulator acted like 'mafioso' on Jimmy Kimmel",
     "summary": "The Texas senator affected a mobster accent to criticise how ABC was pressed to take action on the late-night host.",
     "url": "https://www.bbc.com/news/articles/c1kwzgrwdd0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T00:06:06Z",
+    "published": "2025-09-20T02:01:01Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a4e/live/53756e40-95a6-11f0-9c74-3fb96b77a166.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-e4aef4c1b4",
+    "source": "Politico — UK",
+    "title": "Europe’s climate refugees: The Greek communities wiped off the map",
+    "summary": "Villages in the country’s agricultural breadbasket lie half-abandoned two years after catastrophic floods.",
+    "url": "https://www.politico.eu/article/europes-climate-refugees-the-greek-villages-wiped-off-the-map/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-20T02:01:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/louiza_vradi_politico_thessaly_2025_23-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c764064b4b",
+    "source": "BBC — Top Stories",
+    "title": "US forces strike third alleged drug vessel killing three, Trump says",
+    "summary": "Venezuela has condemned a series of strikes by US forces in the Caribbean targeting alleged drug traffickers.",
+    "url": "https://www.bbc.com/news/articles/crme4pv224wo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T01:30:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fb0/live/8519c9b0-95be-11f0-91c6-1b7e88174a1b.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -102,7 +150,7 @@
     "summary": "Nato intercepted three Russian MiG-31 fighter jets, which remained in Estonian airspace for 12 minutes on Friday.",
     "url": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T22:35:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30a1/live/a6bd5c70-959c-11f0-bbd3-97206a9cd9e0.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c13f/live/c28ed850-95c6-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -235,18 +283,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/19/go-to-trope-how-the-far-right-are-exploiting-violence-against-women-and-girls",
     "published": "2025-09-19T17:56:52Z",
     "image_url": "https://i.guim.co.uk/img/media/40a0bf1f5632fccca847323e68e387a89dab7fc4/776_0_4213_3371/master/4213.jpg?width=140&quality=85&auto=format&fit=max&s=a3938a6a2a9e10b2af0ca4675585f6a0",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f13512be64",
-    "source": "BBC — Top Stories",
-    "title": "Phillipson suggests two-child benefit cap could be lifted",
-    "summary": "The education secretary and Labour deputy leader hopeful signals that the policy could be scrapped.",
-    "url": "https://www.bbc.com/news/articles/cwy917g0420o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T17:23:24Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2aa/live/139f01c0-9577-11f0-bc5b-7ff2de9d2e33.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -396,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-773c210de3",
-    "source": "BBC — Top Stories",
-    "title": "Two ambulance workers arrested after the deaths of six people",
-    "summary": "Two ambulance workers have been arrested over the deaths of six adults, Wiltshire Police have said.",
-    "url": "https://www.bbc.com/news/articles/cvgvnvnm0vro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T15:07:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c483/live/429e6ad0-9561-11f0-a3c3-898ca8bade9c.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-f9ba37b49a",
     "source": "The Guardian — UK",
     "title": "Green party membership surges after public split between Corbyn and Sultana",
@@ -523,30 +547,6 @@
     "url": "https://www.politico.eu/article/pope-leo-rejects-plans-for-an-ai-pope/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-19T09:34:12Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/13352817-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-913bc0c32c",
-    "source": "Politico — UK",
-    "title": "Europe, Canada, Saudi Arabia poke at Trump with Palestinian statehood",
-    "summary": "France and others frustrated with U.S. inaction on Israel have few options to reorient the conflict between Israel and the Palestinians.",
-    "url": "https://www.politico.com/news/2025/09/19/palestine-statehood-trump-un-00572206?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-19T09:24:28Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-040812b250",
-    "source": "Politico — UK",
-    "title": "Cour des comptes : Elisabeth Borne dit non merci",
-    "summary": "PARIS — Elisabeth Borne est-elle intéressée par le poste bientôt vacant de Pierre Moscovici, à la tête de la Cour des Comptes ? “Ce n’est ni envisagé, ni envisageable”, a fait savoir l’entourage de la ministre à POLITICO, ce vendredi. Elisabeth Borne a la “volonté de rester dans l’action au gouvernement”, glisse au passage l’équipe […]",
-    "url": "https://www.politico.eu/article/cour-des-comptes-elisabeth-borne-dit-non-merci/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-19T09:10:58Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/GettyImages-1741388363-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
