@@ -1,12 +1,12 @@
 [
   {
-    "id": "BBC — Top Stories-1ce7b042e2",
-    "source": "BBC — Top Stories",
-    "title": "RAF jets join Nato air defence mission over Poland",
-    "summary": "Tensions have risen across Europe after 19 drones entered Polish territory earlier this month.",
-    "url": "https://www.bbc.com/news/articles/c4g7752w1ygo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T21:00:49Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba90/live/433566b0-963d-11f0-9ed9-693309fd1b9f.jpg",
+    "id": "The Guardian — UK-061bf1543c",
+    "source": "The Guardian — UK",
+    "title": "More than 1,000 people arrive in UK in small boats in one day",
+    "summary": "Home Office figures for Friday end a spell of more than a week with no new arrivals in Dover due to poor weather More than 1,000 people crossed the Channel in small boats on Friday, according to Home Office figures, ending a spell of more than a week with no new arrivals. Thirteen boats carrying 1,072 individuals made the crossing on Friday, which averages more than 80 people a boat. It is the third time this year the figure for a single day has surpassed 1,000 and brings the total number this year to a record 32,103. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/20/more-than-1000-people-arrive-in-uk-in-small-boats-in-one-day",
+    "published": "2025-09-20T21:54:10Z",
+    "image_url": "https://i.guim.co.uk/img/media/2cb664e0b03bdc5aa0b7b2c5fad94c96dd65a467/196_0_2121_1696/master/2121.jpg?width=140&quality=85&auto=format&fit=max&s=429de3cf3c1ae465b3d643cfcd74f471",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -15,10 +15,34 @@
     "id": "BBC — Top Stories-8e3976325c",
     "source": "BBC — Top Stories",
     "title": "Former Liverpool manager Beard dies aged 47",
-    "summary": "Former Liverpool and Burnley manager Matt Beard has died at the age of 47.",
+    "summary": "Former Liverpool manager Matt Beard has died at the age of 47, the Women's Super League club announces.",
     "url": "https://www.bbc.com/sport/football/articles/c0r00qx5llko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T20:56:08Z",
+    "published": "2025-09-20T21:51:59Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d0e/live/9df73270-9662-11f0-84c8-99de564f0440.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-70b5fdd081",
+    "source": "BBC — Top Stories",
+    "title": "Curtain rises on Strictly 2025 as new couples revealed",
+    "summary": "Saturday's spectacular saw a performance by last year's winners Chris McCausland and Dianne Buswell, along with pop star Jessie J.",
+    "url": "https://www.bbc.com/news/articles/cy9nnl78dgzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T21:42:41Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36a6/live/ee303c80-9664-11f0-b41f-71f146651261.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ffdd499a37",
+    "source": "BBC — Top Stories",
+    "title": "Starmer set to announce UK recognition of Palestinian state on Sunday",
+    "summary": "A host of countries, including France and Canada, are expected to do the same when world leaders gather at the UN General Assembly next week.",
+    "url": "https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T21:30:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c9b/live/cd279bf0-965f-11f0-937e-e53bdd730b8c.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -29,8 +53,20 @@
     "title": "Lucy Powell: Labour should raise gambling taxes to axe two-child benefit cap",
     "summary": "Deputy leadership candidate says party needs to be ‘clear that our objective is to lift children out of poverty’ Labour should consider raising taxes on gambling firms to cover the cost of lifting the two-child benefit cap, the party’s deputy leadership candidate Lucy Powell has suggested. The Manchester Central MP, who is battling with the education secretary, Bridget Phillipson, to succeed Angela Rayner as Labour’s deputy leader, also acknowledged the public was “exasperated” because of “some mistakes” Labour had made in office. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/20/lucy-powell-urges-labour-to-consider-raising-gambling-taxes-so-it-can-axe-two-child-benefit-cap",
-    "published": "2025-09-20T19:58:51Z",
+    "published": "2025-09-20T21:07:58Z",
     "image_url": "https://i.guim.co.uk/img/media/8eb13decf4af5bc6c7231b319863f1b3ae8ea9dc/478_40_2606_2084/master/2606.jpg?width=140&quality=85&auto=format&fit=max&s=19931edc195b26172a518842abc0d189",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1ce7b042e2",
+    "source": "BBC — Top Stories",
+    "title": "RAF jets join Nato air defence mission over Poland",
+    "summary": "Tensions have risen across Europe after 19 drones entered Polish territory earlier this month.",
+    "url": "https://www.bbc.com/news/articles/c4g7752w1ygo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T21:00:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba90/live/433566b0-963d-11f0-9ed9-693309fd1b9f.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -252,18 +288,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-38cbc1653c",
-    "source": "BBC — Top Stories",
-    "title": "Ex-Labour MP Sultana 'consulting lawyers' as fallout with Corbyn over new party deepens",
-    "summary": "Former Labour MP hits back in an escalating row between the would-be founders of new left-wing party.",
-    "url": "https://www.bbc.com/news/articles/cn4l3elkzwjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T13:51:11Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5270/live/9ce44b30-9607-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-7884f5d731",
     "source": "Politico — UK",
     "title": "Pentagon to limit journalists’ access unless they agree not to publish certain information",
@@ -360,13 +384,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-17c87c0237",
+    "id": "The Guardian — UK-eb056bfcbe",
     "source": "The Guardian — UK",
-    "title": "Huge crater under North Sea was created by asteroid impact, scientists say",
-    "summary": "Silverpit crater off Yorkshire coast was caused by cathedral-sized asteroid that set off 100-metre tsunami 43m years ago Deep below the seabed, 80 miles off the coast of Yorkshire, is a remarkable crater that has divided scientists – was it, thrillingly, created by an asteroid crash? Or more mundanely was it the result of geological salt movements? Today, the decades-long scientific debate can be settled. The Silverpit crater 700 metres below the seabed under the North Sea was in all likelihood created by a direct hit from an asteroid or comet about the size of York Minster that hurtled towards the Earth more than 43m years ago. Continue reading...",
-    "url": "https://www.theguardian.com/science/2025/sep/20/huge-crater-under-north-sea-was-created-by-asteroid-impact-scientists-say",
-    "published": "2025-09-20T09:00:10Z",
-    "image_url": "https://i.guim.co.uk/img/media/691dd2d5905f13174ee5894a9d48a5565f2df34d/600_0_4486_3588/master/4486.jpg?width=140&quality=85&auto=format&fit=max&s=b69ea8dd914c78ef6466156a2541bbb1",
+    "title": "Zarah Sultana consults defamation lawyers after spat with Jeremy Corbyn over party funds",
+    "summary": "MP says she faced ‘baseless attacks’ over paid membership portal, which Corbyn told supporters not to use Zarah Sultana has consulted defamation lawyers after her public spat with Jeremy Corbyn over the launch of a paid membership system for the party they were to co-lead. Sultana said she has been on the receiving end of “politically motivated” attacks amid the row that has engulfed the launch of Your party. Corbyn had previously urged people not to use the “supposed membership portal”, and said legal advice was being taken over its launch. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/20/zarah-sultana-consults-defamation-lawyers-after-spat-with-jeremy-corbyn-over-party-funds",
+    "published": "2025-09-20T08:57:30Z",
+    "image_url": "https://i.guim.co.uk/img/media/7cfa3ffffd7ae0d948b9f3f4dcc19da0bfdcb278/317_0_3174_2539/master/3174.jpg?width=140&quality=85&auto=format&fit=max&s=6af78959c6221c714517c03a3c6a6252",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -463,18 +487,6 @@
     "url": "https://www.bbc.com/news/articles/ce9rxed9m5mo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T05:00:53Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b077/live/af4af690-9560-11f0-b391-6936825093bd.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-de721180ec",
-    "source": "The Guardian — UK",
-    "title": "Andy Burnham, the man who would be king",
-    "summary": "The Greater Manchester mayor has made no secret of his Labour leadership ambitions, but faces significant obstacles When Andy Burnham addressed a gala dinner this week, he was as coy as he could have been in a week when speculation about his future ambitions was in overdrive. “I love this job,” the mayor of Greater Manchester said. “I am very happy where I am. I have no ambition to be … ambassador to Washington.” It was a gag that got a big laugh. Burnham has never played the game of pretending that he doesn’t seek to enter No 10. But he also does not give the standard ambitious politician’s response of saying that no vacancy is available. Continue reading...",
-    "url": "https://www.theguardian.com/politics/ng-interactive/2025/sep/20/andy-burnham-the-man-who-would-be-king",
-    "published": "2025-09-20T05:00:08Z",
-    "image_url": "https://i.guim.co.uk/img/media/9d5d5328a8f626302d07c183824df75c60c3426c/0_382_3509_2807/master/3509.jpg?width=140&quality=85&auto=format&fit=max&s=39a6a342c4a2c3666f5b0eaab169ad0a",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
