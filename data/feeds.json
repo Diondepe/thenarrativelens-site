@@ -1,5 +1,17 @@
 [
   {
+    "id": "Politico — UK-2f41e99695",
+    "source": "Politico — UK",
+    "title": "Machthaber: Wolodymyr Selenskyj",
+    "summary": "Wer regiert die Welt – und was treibt sie an?In unserem regelmäßigen Machthaber-Spezial geht es um die mächtigsten und umstrittensten Politikerinnen und Politiker unserer Zeit. Wir zeigen, wie sie denken, entscheiden – und was das für uns bedeutet. Eine Politikerin oder Politiker, alle zwei Wochen, ein Blick hinter die Kulissen der Macht. Die nächste Folge […]",
+    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/machthaber-wolodymyr-selenskyj/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-20T03:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/Wolodymyr-Selenskyj-Podcast-Cover-Slide-1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-5f277a83c3",
     "source": "BBC — Top Stories",
     "title": "Commons open to espionage after China spying charges dropped, says speaker",
@@ -55,6 +67,18 @@
     "url": "https://www.bbc.com/news/articles/crme4pv224wo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T01:30:13Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fb0/live/8519c9b0-95be-11f0-91c6-1b7e88174a1b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-041189075e",
+    "source": "BBC — Top Stories",
+    "title": "What does the FCC do - and can it revoke a TV network's licence?",
+    "summary": "The suspension of Jimmy Kimmel's show has triggered concerns about the US communications regulator's power over TV networks.",
+    "url": "https://www.bbc.com/news/articles/c87yel3wgqgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T00:34:12Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ff/live/87f486d0-95a4-11f0-816e-1bf65adb95d3.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -175,18 +199,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/19/labour-rules-against-dozens-of-motions-about-palestine-being-debated-at-party-conference",
     "published": "2025-09-19T20:52:05Z",
     "image_url": "https://i.guim.co.uk/img/media/455429b77857dbcdfb321f10fc45eaa5a9a43a79/1235_0_5158_4126/master/5158.jpg?width=140&quality=85&auto=format&fit=max&s=43bbc8d8ddecef258caf9dff5626beab",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6d65e2ecd3",
-    "source": "BBC — Top Stories",
-    "title": "What you need to know about England's semi-final with France at Women's Rugby World Cup",
-    "summary": "Match preview, kick-off time, teams and head-to-head stats as England face France in the Women's Rugby World Cup semi-finals on Saturday.",
-    "url": "https://www.bbc.com/sport/rugby-union/articles/cd63ged31n0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T20:19:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7b0/live/c06e4f80-9498-11f0-b391-6936825093bd.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,18 +547,6 @@
     "url": "https://www.politico.com/news/2025/09/19/donald-trump-censorship-jimmy-kimmel-live-late-night-reaction-00572648?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-19T10:23:38Z",
     "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-318bc201cd",
-    "source": "Politico — UK",
-    "title": "Leo rejects plan for AI pope",
-    "summary": "“If there’s anybody who should not be represented by an avatar, I would say the pope is high on the list,\" pontiff says.",
-    "url": "https://www.politico.eu/article/pope-leo-rejects-plans-for-an-ai-pope/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-19T09:34:12Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/13352817-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
