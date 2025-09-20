@@ -3,59 +3,20 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>The Narrative Lens — Home</title>
-  <base href="https://diondepe.github.io/thenarrativelens-site/">
+  <title>Lens-Test — The Narrative Lens</title>
   <link rel="icon" type="image/png" href="assets/favicon-redesigned.png" />
   <link rel="stylesheet" href="css/styles.css" />
 </head>
-<body>
-  <header class="site-header">
-    <!-- Row 1: brand + subscribe -->
-    <div class="topbar">
-      <a class="brand" href="index.html" aria-label="Go to Home">
-        <img class="favicon-inline" src="assets/favicon-redesigned.png" alt="TNL" />
-        <img class="banner" src="assets/tnl-banner-matrix.png" alt="The Narrative Lens" />
-      </a>
-      <div class="top-actions">
-        <a href="subscribe.html" class="btn primary with-icon">
-          <img class="mini-icon" src="assets/favicon-redesigned.png" alt="" /> Subscribe
-        </a>
-      </div>
-    </div>
-
-    <!-- Row 2: navigation -->
-    <div class="navbar">
-      <div class="navbar-inner">
-        <nav id="site-nav" class="nav" aria-label="Primary">
-          <a href="index.html" aria-current="page">Home</a>
-          <a href="narratives.html">Narratives</a>
-          <a href="feeds.html">Narrative News</a>
-          <a href="videos.html">Lens-Video</a>
-          <a href="actors.html">Lens-Actors <span class="pill sub"></span></a>
-          <a href="lens-test.html">Lens-Test <span class="pill sub"></span></a>
-          <a href="timeline.html">Lens-Timeline <span class="pill sub"></span></a>
-          <a href="help.html">Help</a>
-          <a href="about.html">About</a>
-        </nav>
-      </div>
-    </div>
-  </header>
+<body data-page="lens-test">
+  <div id="site-header"></div>
 
   <main class="container pad-main">
-    <h1>Welcome to The Narrative Lens</h1>
-    <p>Explore contentious narratives, timelines, and daily news framing.</p>
-
-    <p class="cta-row">
-      <a class="btn" href="feeds.html">Narrative News</a>
-      <a class="btn" href="lens-test.html">Lens Test</a>
-    </p>
-
-    <h2 class="h2">Latest from Narrative News</h2>
-    <div id="home-feeds" class="teaser-grid"></div>
+    <h1>Lens-Test <span class="pill sub">Subscribers</span></h1>
+    <p>🔒 The interactive test to spot framing, omissions, and narrative devices is for subscribers only.</p>
+    <p><a class="btn primary" href="subscribe.html">Subscribe for access</a></p>
   </main>
 
-  <footer class="site-footer">© <span id="y"></span> The Narrative Lens</footer>
-  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
-  <script src="js/app.js?v=7"></script>
+  <div id="site-footer"></div>
+  <script src="js/layout.js" defer></script>
 </body>
 </html>
