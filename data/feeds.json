@@ -1,5 +1,77 @@
 [
   {
+    "id": "BBC — Top Stories-46d3451f7d",
+    "source": "BBC — Top Stories",
+    "title": "Lib Dems want to use wartime powers to clear asylum backlog",
+    "summary": "The party's home affairs spokesman Lisa Smart is also calling for police desks in shops and supermarkets.",
+    "url": "https://www.bbc.com/news/articles/ckg6dd8207ro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T15:08:25Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3924/live/e20f4e70-961c-11f0-b5f9-bf23d14527d7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-c590232df7",
+    "source": "The Guardian — UK",
+    "title": "Anti-immigration protesters and counter-protesters clash in Glasgow",
+    "summary": "Event comes a week after the largest far-right event in decades took place in London Anti-immigration protesters have clashed with anti-racist counter-protesters in tense scenes in Glasgow this afternoon, a week after the largest far-right event in decades , organised by the activist Stephen Yaxley-Lennon, known as Tommy Robinson , took place in London. The statue of Scottish statesman Donald Dewar, father of the Holyrood parliament, was surrounded by union flags bearing the words: ‘Stop the boats’, and ‘Unite the kingdom’. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/20/anti-immigration-protesters-and-counter-protesters-clash-in-glasgow",
+    "published": "2025-09-20T15:07:23Z",
+    "image_url": "https://i.guim.co.uk/img/media/a123c762489b69332ce21a0bceb72ff302e26191/484_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=2ac3c0d47b14860bb14eb891ff3b0ee9",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9ab1800817",
+    "source": "BBC — Top Stories",
+    "title": "Cyber-attack causes delays at Heathrow and other European airports",
+    "summary": "Travellers report multi-hour waits for some airlines as disruption also hits Brussels and Berlin.",
+    "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T14:45:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d50/live/51b0d0e0-9614-11f0-90f2-5f87cb020b24.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a1144a1c5b",
+    "source": "BBC — Top Stories",
+    "title": "British couple held by Taliban arrive in UK after release",
+    "summary": "Their son tells the BBC he is \"overwhelmed\" by release after nearly eight months in prison.",
+    "url": "https://www.bbc.com/news/articles/cly6ve2dg66o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T14:25:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ab3/live/923ef370-9629-11f0-8115-2505008faa13.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-769a81faab",
+    "source": "Politico — UK",
+    "title": "Sinn Féin won’t compete in Ireland’s presidential race",
+    "summary": "The Irish republicans’ decision keeps the field clear on the opposition left for Galway socialist Catherine Connolly.",
+    "url": "https://www.politico.eu/article/sinn-fein-not-compete-ireland-presidential-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-20T14:24:02Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/20/GettyImages-2235732260-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-263e132d59",
+    "source": "BBC — Top Stories",
+    "title": "Ukraine says three killed in 'massive' Russian aerial attack",
+    "summary": "President Zelensky says Moscow seeks to \"intimidate civilians\", while Russia reports four deaths in a Ukrainian strike.",
+    "url": "https://www.bbc.com/news/articles/ce3253gxqvwo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T14:17:24Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a28a/live/11237600-961d-11f0-b5f9-bf23d14527d7.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-ba07c44b61",
     "source": "BBC — Top Stories",
     "title": "More than 1,000 people cross English Channel in one day",
@@ -12,37 +84,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a1144a1c5b",
-    "source": "BBC — Top Stories",
-    "title": "British couple held by Taliban arrive in UK after release",
-    "summary": "Their son tells the BBC he is \"overwhelmed\" by release after nearly eight months in prison.",
-    "url": "https://www.bbc.com/news/articles/cly6ve2dg66o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T13:53:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ab3/live/923ef370-9629-11f0-8115-2505008faa13.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-38cbc1653c",
     "source": "BBC — Top Stories",
-    "title": "Ex Labour MP Sultana 'consulting lawyers' as fallout with Corbyn over new party deepens",
+    "title": "Ex-Labour MP Sultana 'consulting lawyers' as fallout with Corbyn over new party deepens",
     "summary": "Former Labour MP hits back in an escalating row between the would-be founders of new left-wing party.",
     "url": "https://www.bbc.com/news/articles/cn4l3elkzwjo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T13:51:11Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5270/live/9ce44b30-9607-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9ab1800817",
-    "source": "BBC — Top Stories",
-    "title": "Cyber-attack causes delays at Heathrow and other European airports",
-    "summary": "Travellers report multi-hour waits for some airlines as disruption also hits Brussels and Berlin.",
-    "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T13:04:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d50/live/51b0d0e0-9614-11f0-90f2-5f87cb020b24.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -60,18 +108,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-46d3451f7d",
-    "source": "BBC — Top Stories",
-    "title": "Lib Dems want 'Nightingale' courts to clear asylum backlog",
-    "summary": "The party's home affairs spokesman Lisa Smart is also calling for police desks in shops and supermarkets.",
-    "url": "https://www.bbc.com/news/articles/ckg6dd8207ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T12:49:11Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3924/live/e20f4e70-961c-11f0-b5f9-bf23d14527d7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-1f7ecb4c20",
     "source": "The Guardian — UK",
     "title": "Heathrow flights delayed and cancelled as cyber-attack hits European airports",
@@ -79,18 +115,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/20/heathrow-airport-delays-cyber-attack-berlin-brussels-cancelled-delays",
     "published": "2025-09-20T12:30:37Z",
     "image_url": "https://i.guim.co.uk/img/media/eff8d097c15e0b4c721dd1077de90a782d049f24/288_0_2923_2339/master/2923.jpg?width=140&quality=85&auto=format&fit=max&s=efa3e8b65896ae0290fd6c599653f873",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4afdc40624",
-    "source": "BBC — Top Stories",
-    "title": "Trump adds $100,000 fee for skilled worker visa applicants",
-    "summary": "\"Train Americans,\" the US commerce secretary told big companies, some of which have relied on foreign high-skilled workers for years.",
-    "url": "https://www.bbc.com/news/articles/cm2zk4l8g26o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T12:13:02Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48b/live/7ea15a50-9602-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -115,18 +139,6 @@
     "url": "https://www.theguardian.com/business/2025/sep/20/dagenham-london-limbo-rehousing-markets-axed",
     "published": "2025-09-20T12:00:13Z",
     "image_url": "https://i.guim.co.uk/img/media/7d22f545321e512f4d316eb8f4d1a10701825e6e/942_0_6831_5464/master/6831.jpg?width=140&quality=85&auto=format&fit=max&s=75647e449d017f83beeef58bf8e4fb6b",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e1d52d3d3c",
-    "source": "BBC — Top Stories",
-    "title": "Attempted murder arrest over nightclub shooting",
-    "summary": "One man is in a critical condition and three other people were also injured in the attack in Birmingham.",
-    "url": "https://www.bbc.com/news/articles/c701xdnr09wo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T11:45:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0991/live/d0b644c0-960e-11f0-9cf6-cbf3e73ce2b9.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -300,25 +312,25 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-fc2e1ee66f",
+    "id": "The Guardian — UK-f9bb47973f",
     "source": "The Guardian — UK",
-    "title": "Parents outraged as Meta uses photos of schoolgirls in ads targeting man",
-    "summary": "Exclusive: Instagram pictures of girls as young as 13 were posted to promote Threads site ‘as bait’, campaigner says Meta has used back-to-school pictures of schoolgirls to advertise one of its social media platforms to a 37-year-old man, in a move parents described as “outrageous” and “upsetting”. The man noticed that posts encouraging him to “get Threads”, Mark Zuckerberg’s rival to Elon Musk’s X, were being dropped into his Instagram feed featuring embedded posts of uniformed girls as young as 13 with their faces visible and, in most cases, their names. Continue reading...",
-    "url": "https://www.theguardian.com/technology/2025/sep/20/parents-outraged-meta-uses-photos-schoolgirls-ads-man",
-    "published": "2025-09-20T07:01:07Z",
-    "image_url": "https://i.guim.co.uk/img/media/8e62ae29597794825057c117b808285e6b6fd327/0_0_3110_2488/master/3110.jpg?width=140&quality=85&auto=format&fit=max&s=ed6e8c651c699c41934ab44ec66e27e7",
+    "title": "UK pension savers urged not to withdraw cash due to budget ‘fear and rumour’",
+    "summary": "Financial experts express alarm after jump in sums people taking out of retirement pots amid ‘jitters’ about tax Older savers should avoid making rash decisions about their pension cash based on “fear and rumour”, experts urged this week. The warning came as figures showed a rise in the sums people were pulling out of their retirement pots. Continue reading...",
+    "url": "https://www.theguardian.com/money/2025/sep/20/uk-pension-savers-withdraw-cash-budget-tax",
+    "published": "2025-09-20T06:00:06Z",
+    "image_url": "https://i.guim.co.uk/img/media/d6461fb8efb34a50e316594b161ce933fec1c60a/939_0_4776_3822/master/4776.jpg?width=140&quality=85&auto=format&fit=max&s=e883d0b725161587f2f9ee549c6f7452",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-ffb595e048",
+    "id": "BBC — Top Stories-aedfb570e2",
     "source": "BBC — Top Stories",
-    "title": "England are one game away from the Rugby World Cup final. Here's how they can beat France",
-    "summary": "France have come closer than any other team during England's record run of victories. Beating the tournament hosts in the World Cup semi-final would be the ultimate heist.",
-    "url": "https://www.bbc.com/sport/rugby-union/articles/crl5z22526no?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T05:41:59Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b66/live/40c36a30-961a-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "title": "The making of a Lioness: Alessia Russo’s path to football royalty",
+    "summary": "England forward Alessia Russo sits down with Kelly Somers to talk about her football career and her family.",
+    "url": "https://www.bbc.com/sport/football/articles/c5yk7jlz3ezo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T05:19:30Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f355/live/88e71d80-948e-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -372,18 +384,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-7f273fd4e2",
-    "source": "The Guardian — UK",
-    "title": "Labour’s NHS job cuts plan in chaos amid row over £1bn costs",
-    "summary": "Integrated care boards in England cannot afford severance payments, leaving restructuring plan in chaos, union says Labour’s radical reorganisation of the NHS has descended into chaos, a union has said, as a huge programme of job cuts has been halted amid a row over who will foot the £1bn bill. The NHS’s 42 integrated care boards (ICBs) in England were due to make up to 12,500 of their 25,000 staff redundant by the end of the year as a result of health service cost-cutting. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/sep/20/nhs-integrated-care-boards-england-job-cuts-row",
-    "published": "2025-09-20T05:00:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/b29e13c4f78242c4b6d2b8051944cecdf1d529a0/510_0_2990_2392/master/2990.jpg?width=140&quality=85&auto=format&fit=max&s=6627828d6cbe4b93b17e7e3cd7493ddd",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-168fd6e7eb",
     "source": "BBC — Top Stories",
     "title": "Play now",
@@ -403,6 +403,18 @@
     "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/machthaber-wolodymyr-selenskyj/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-20T03:00:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/Wolodymyr-Selenskyj-Podcast-Cover-Slide-1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-eccbd7653d",
+    "source": "BBC — Top Stories",
+    "title": "Global treaty to protect world's oceans comes into force after final approval",
+    "summary": "Sixty states have ratified a global treaty to protect the oceans - it will become law in January.",
+    "url": "https://www.bbc.com/news/articles/cq5j87114deo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T02:12:08Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc6/live/eb4564c0-95b8-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -511,18 +523,6 @@
     "url": "https://www.bbc.com/news/articles/cm2zvwmen2jo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-19T23:03:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e64/live/58309270-9600-11f0-84c8-99de564f0440.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-c4cd17e4c5",
-    "source": "Politico — UK",
-    "title": "Russia ‘testing’ NATO with warplane incursion, Estonia warns",
-    "summary": "Vladimir Putin has no interest in peace, Margus Tsahkna told POLITICO.",
-    "url": "https://www.politico.eu/article/russia-nato-warplane-incursion-estonia-margus-tsahkna/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-19T18:40:22Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/GettyImages-1222402983-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
