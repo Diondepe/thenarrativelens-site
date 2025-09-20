@@ -1,5 +1,53 @@
 [
   {
+    "id": "BBC — Top Stories-9ab1800817",
+    "source": "BBC — Top Stories",
+    "title": "Cyber-attack causes delays at Heathrow and other European airports",
+    "summary": "Travellers report multi-hour waits for some airlines as disruption also hits Brussels and Berlin.",
+    "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T13:04:50Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d50/live/51b0d0e0-9614-11f0-90f2-5f87cb020b24.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-7884f5d731",
+    "source": "Politico — UK",
+    "title": "Pentagon to limit journalists’ access unless they agree not to publish certain information",
+    "summary": "The unprecedented move is the strongest action yet in restricting how reporters cover the country’s largest federal agency.",
+    "url": "https://www.politico.com/news/2025/09/19/pentagon-limits-access-journalists-00574227?fbclid=IwY2xjawM7gLFleHRuA2FlbQIxMQABHoHDoTXeK6bLMN-SG8Ou9xz2_gMH0zYmBBSPdy1hhV_X2DxHdWPou_b52-vZ_aem_Kd0X98Benrh2MXqo9gmbeQ&utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-20T12:54:19Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-46d3451f7d",
+    "source": "BBC — Top Stories",
+    "title": "Lib Dems want 'Nightingale' courts to clear asylum backlog",
+    "summary": "The party's home affairs spokesman Lisa Smart is also calling for police desks in shops and supermarkets.",
+    "url": "https://www.bbc.com/news/articles/ckg6dd8207ro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T12:49:11Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3924/live/e20f4e70-961c-11f0-b5f9-bf23d14527d7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-1f7ecb4c20",
+    "source": "The Guardian — UK",
+    "title": "Heathrow flights delayed and cancelled as cyber-attack hits European airports",
+    "summary": "Attack raises questions over security as Brussels and Berlin airports’ check-in and boarding systems also affected Flights have been delayed and cancelled at three major European airports – including London’s largest, Heathrow – after the company behind the software used for check-in and boarding said it was hit by a cyber-attack. Airports in Brussels and Berlin are also experiencing delays and disruption after the issue affecting Collins Aerospace, which works for several airlines at airports across the world. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/20/heathrow-airport-delays-cyber-attack-berlin-brussels-cancelled-delays",
+    "published": "2025-09-20T12:30:37Z",
+    "image_url": "https://i.guim.co.uk/img/media/eff8d097c15e0b4c721dd1077de90a782d049f24/288_0_2923_2339/master/2923.jpg?width=140&quality=85&auto=format&fit=max&s=efa3e8b65896ae0290fd6c599653f873",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-4afdc40624",
     "source": "BBC — Top Stories",
     "title": "Trump adds $100,000 fee for skilled worker visa applicants",
@@ -19,18 +67,6 @@
     "url": "https://www.politico.eu/article/russia-launch-attack-ukraine-kill-three/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-20T12:08:57Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/20/GettyImages-2235825768.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9ab1800817",
-    "source": "BBC — Top Stories",
-    "title": "Cyber-attack causes delays at Heathrow and other European airports",
-    "summary": "Travellers report multi-hour waits for some airlines as disruption also hits Brussels and Berlin.",
-    "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T12:02:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d50/live/51b0d0e0-9614-11f0-90f2-5f87cb020b24.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -144,18 +180,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-1f7ecb4c20",
-    "source": "The Guardian — UK",
-    "title": "Heathrow warns of delays as suspected cyber-attack hits European airports",
-    "summary": "Brussels and Berlin airports also affected as ‘technical issue’ hits service provider for check-in and boarding systems Flights have been delayed and cancelled at airports including Heathrow after an alleged cyber-attack targeted a service provider for check-in and boarding systems. Airports in Brussels and Berlin are also experiencing delays and disruption after the “technical issue” affecting Collins Aerospace, which works for several airlines at airports across the world. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/20/heathrow-airport-delays-cyber-attack-berlin-brussels-cancelled-delays",
-    "published": "2025-09-20T09:06:17Z",
-    "image_url": "https://i.guim.co.uk/img/media/eff8d097c15e0b4c721dd1077de90a782d049f24/288_0_2923_2339/master/2923.jpg?width=140&quality=85&auto=format&fit=max&s=efa3e8b65896ae0290fd6c599653f873",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-17c87c0237",
     "source": "The Guardian — UK",
     "title": "Huge crater under North Sea was created by asteroid impact, scientists say",
@@ -182,7 +206,7 @@
   {
     "id": "BBC — Top Stories-c753210acc",
     "source": "BBC — Top Stories",
-    "title": "Ed Davey loves clowning around, but is it time the Lib Dems get serious?",
+    "title": "Ed Davey loves clowning around, but is it time the Lib Dems got serious?",
     "summary": "As they gather in Bournemouth for their annual conference, Laura Kuenssberg considers what next for the Lib Dems.",
     "url": "https://www.bbc.com/news/articles/c3e7ny8n44jo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T08:54:02Z",
@@ -264,18 +288,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-46d3451f7d",
-    "source": "BBC — Top Stories",
-    "title": "Lib Dems call for police desks in supermarkets and libraries",
-    "summary": "The party says the plan, announced as members gather for their annual conference, would boost public confidence.",
-    "url": "https://www.bbc.com/news/articles/ckg6dd8207ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T07:04:18Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d840/live/81366180-955c-11f0-a3c3-898ca8bade9c.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-fc2e1ee66f",
     "source": "The Guardian — UK",
     "title": "Parents outraged as Meta uses photos of schoolgirls in ads targeting man",
@@ -339,22 +351,10 @@
     "id": "The Guardian — UK-de721180ec",
     "source": "The Guardian — UK",
     "title": "Andy Burnham, the man who would be king",
-    "summary": "The Greater Manchester mayor has made no secret of his Labour leadership ambitions, but faces significant obstacles When Andy Burnham addressed a gala dinner this week, he was as coy as he could have been in a week when speculation about his future ambitions were in overdrive. “I love this job,” the mayor of Greater Manchester said. “I am very happy where I am. I have no ambition to be … ambassador to Washington.” It was a gag that got a big laugh. Burnham has never played the game of pretending that he doesn’t seek to enter No 10. But he also does not give the standard ambitious politician’s response of saying that no vacancy is available. Continue reading...",
+    "summary": "The Greater Manchester mayor has made no secret of his Labour leadership ambitions, but faces significant obstacles When Andy Burnham addressed a gala dinner this week, he was as coy as he could have been in a week when speculation about his future ambitions was in overdrive. “I love this job,” the mayor of Greater Manchester said. “I am very happy where I am. I have no ambition to be … ambassador to Washington.” It was a gag that got a big laugh. Burnham has never played the game of pretending that he doesn’t seek to enter No 10. But he also does not give the standard ambitious politician’s response of saying that no vacancy is available. Continue reading...",
     "url": "https://www.theguardian.com/politics/ng-interactive/2025/sep/20/andy-burnham-the-man-who-would-be-king",
     "published": "2025-09-20T05:00:08Z",
     "image_url": "https://i.guim.co.uk/img/media/9d5d5328a8f626302d07c183824df75c60c3426c/0_382_3509_2807/master/3509.jpg?width=140&quality=85&auto=format&fit=max&s=39a6a342c4a2c3666f5b0eaab169ad0a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-355f24187c",
-    "source": "The Guardian — UK",
-    "title": "‘Good humanitarian reason’: Ed Davey calls for emergency programme to clear asylum backlog",
-    "summary": "Exclusive: Lib Dem leader says push to process cases would also ultimately save money and remove far-right target Ed Davey has called for an emergency programme to clear the asylum backlog and treat refugees with compassion, before a Liberal Democrat conference where the party aims to target disillusioned Conservative and Labour voters. Speaking before the gathering in Bournemouth, which begins on Saturday, Davey’s intervention on migration marks a broadening of the Lib Dem policy focus, which at the last election was carefully aimed towards a handful of areas such as health, care and pollution. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/20/ed-davey-liberal-democrats-asylum-backlog-election-targets",
-    "published": "2025-09-20T05:00:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/ce1635706c379236ae896cbb152f0b70f603f7fa/0_195_6613_5291/master/6613.jpg?width=140&quality=85&auto=format&fit=max&s=2eed71381ba7e6c7fd775737895bb407",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -367,6 +367,18 @@
     "url": "https://www.theguardian.com/society/2025/sep/20/nhs-integrated-care-boards-england-job-cuts-row",
     "published": "2025-09-20T05:00:06Z",
     "image_url": "https://i.guim.co.uk/img/media/b29e13c4f78242c4b6d2b8051944cecdf1d529a0/510_0_2990_2392/master/2990.jpg?width=140&quality=85&auto=format&fit=max&s=6627828d6cbe4b93b17e7e3cd7493ddd",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-355f24187c",
+    "source": "The Guardian — UK",
+    "title": "‘Good humanitarian reason’: Ed Davey calls for emergency programme to clear asylum backlog",
+    "summary": "Exclusive: Lib Dem leader says push to process cases would also ultimately save money and remove far-right target Ed Davey has called for an emergency programme to clear the asylum backlog and treat refugees with compassion, before a Liberal Democrat conference where the party aims to target disillusioned Conservative and Labour voters. Speaking before the gathering in Bournemouth, which begins on Saturday, Davey’s intervention on migration marks a broadening of the Lib Dem policy focus, which at the last election was carefully aimed towards a handful of areas such as health, care and pollution. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/20/ed-davey-liberal-democrats-asylum-backlog-election-targets",
+    "published": "2025-09-20T05:00:06Z",
+    "image_url": "https://i.guim.co.uk/img/media/ce1635706c379236ae896cbb152f0b70f603f7fa/0_195_6613_5291/master/6613.jpg?width=140&quality=85&auto=format&fit=max&s=2eed71381ba7e6c7fd775737895bb407",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -434,7 +446,7 @@
   {
     "id": "BBC — Top Stories-188747f6ef",
     "source": "BBC — Top Stories",
-    "title": "She lived in the US for 30 Years. Now this Sikh grandmother is locked up and faces deportation",
+    "title": "She lived in the US for 30 years. Now this Sikh grandmother is locked up and faces deportation",
     "summary": "Harjit Kaur, a 73-year-old who unsuccessfully applied for asylum, was arrested by immigration authorities last week.",
     "url": "https://www.bbc.com/news/articles/ckgq63lgn7zo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T00:22:11Z",
@@ -523,18 +535,6 @@
     "url": "https://www.theguardian.com/world/2025/sep/19/what-uk-recognition-palestine-state-will-mean",
     "published": "2025-09-19T16:05:32Z",
     "image_url": "https://i.guim.co.uk/img/media/307300cc7fed5661e5050c5e89bae28c537e640f/569_0_5691_4555/master/5691.jpg?width=140&quality=85&auto=format&fit=max&s=2395319a5ddcd8270ea3d683259bbf16",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-94fc1feaf0",
-    "source": "Politico — UK",
-    "title": "Britain and Ireland agree on sweeping new plan to address Northern Ireland’s bloody past",
-    "summary": "London and Dublin promise a new era of fact-finding that delivers long-sought answers for the families of more than 3,600 dead from three decades of the Troubles.",
-    "url": "https://www.politico.eu/article/britain-ireland-agree-sweeping-new-plan-address-northern-ireland-bloody-past/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-19T15:00:13Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/Harris-Benn-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
