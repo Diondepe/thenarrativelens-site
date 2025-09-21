@@ -1,5 +1,65 @@
 [
   {
+    "id": "The Guardian — UK-455e28b42e",
+    "source": "The Guardian — UK",
+    "title": "Lib Dems should ditch Ed Davey’s stunts and talk policy, survey finds",
+    "summary": "Thinktank poll reveals voters unclear what party stands for despite photo opportunities winning more media coverage The Liberal Democrats should drop their stunts and offer a more serious policy programme if they want to gain support among voters, according to a study presented at the party’s annual conference. Polling by the More in Common thinktank, shown to Lib Dem members at the gathering in Bournemouth, suggested that while it has the scope to go beyond its historic total of 72 MPs at the last election, many voters tempted by the party remain uncertain about what it stands for. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/21/lib-dems-should-ditch-ed-daveys-stunts-and-talk-policy-survey-finds",
+    "published": "2025-09-21T17:55:23Z",
+    "image_url": "https://i.guim.co.uk/img/media/a8a8e23dca761ffa335face0d8a741945a9cccb2/282_1_1831_1464/master/1831.jpg?width=140&quality=85&auto=format&fit=max&s=2639e8bec81cd0396d4d3752de9a462b",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ffdd499a37",
+    "source": "BBC — Top Stories",
+    "title": "UK formally recognises Palestinian state",
+    "summary": "Canada and Australia also announced the move on Sunday, with Israeli PM Benjamin Netanyahu accusing leaders of giving a \"huge reward to terrorism\".",
+    "url": "https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T17:55:15Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b9a/live/3fcba430-9700-11f0-90f2-5f87cb020b24.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-b89169c424",
+    "source": "The Guardian — UK",
+    "title": "Kenya’s arrest warrant is milestone in Agnes Wanjiru case but lengthy UK process awaits",
+    "summary": "After 13 years, warrant has been issued for UK suspect, but Robert James Purkiss would need to be extradited to face charges British soldier accused of murdering Agnes Wanjiru named In the spring of 2012, David Cameron was prime minister and British troops were still fighting in Afghanistan under the stewardship of the then defence secretary, Philip Hammond. Before deploying, soldiers from the UK would be flown 3,000 miles south-west of Helmand province, to Kenya, for hot weather training. They would train at Batuk, the British army base that still operates today, close to Nanyuki, a poor market town in the east of the country. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/sep/21/kenya-issues-arrest-warrant-agnes-wanjiru-uk-must-rule-on-extradition",
+    "published": "2025-09-21T17:39:10Z",
+    "image_url": "https://i.guim.co.uk/img/media/ddd383f5c740f8646eedfe786efe25a90b2d0df1/781_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=144fc5ecca90a664c890275eaf9d6875",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-6cdcc96cca",
+    "source": "The Guardian — UK",
+    "title": "British soldier accused of murdering Kenyan woman Agnes Wanjiru named",
+    "summary": "Arrest warrant issued for Robert James Purkiss, with Kenyan government seeking his extradition to face charges Analysis: Arrest warrant is milestone in Agnes Wanjiru case but lengthy UK process awaits The British soldier accused of murdering the Kenyan woman Agnes Wanjiru in 2012 has been named as Robert James Purkiss. Purkiss, 38, was named in court documents at the high court in Nairobi this week, where a court issued a warrant for his arrest. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/21/british-soldier-accused-of-murdering-kenyan-woman-agnes-wanjiru-named",
+    "published": "2025-09-21T17:39:01Z",
+    "image_url": "https://i.guim.co.uk/img/media/ed394d7f397db30881e0d4aabc3d39ac7ea083b8/680_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=ed80894e863a7d3da2fc97d18f361ea2",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-8c0dfbe47f",
+    "source": "The Guardian — UK",
+    "title": "Netanyahu calls UK’s Palestine recognition ‘absurd prize for terrorism’",
+    "summary": "Opposition leader Yair Golan blames government’s political recklessness and refusal to end the war in Gaza Benjamin Netanyahu, Israel’s prime minister, called the UK’s recognition of Palestine on Sunday “an absurd prize for terrorism”. In remarks to ministers released by his office, he said Israel would have “to fight both in the UN and in all the other fronts against the slanderous propaganda aimed at us, and against the calls to create a Palestinian state that will endanger our existence and constitute an absurd prize for terrorism”. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/sep/21/netanyahu-uk-palestinian-recogniton-absurd-prize-terrorism",
+    "published": "2025-09-21T17:17:31Z",
+    "image_url": "https://i.guim.co.uk/img/media/98327020f6d1b0bcd0bc20a82bde88bdd6da021f/250_0_1996_1597/master/1996.jpg?width=140&quality=85&auto=format&fit=max&s=ffb00701d6d6a202b59a9cd4b64275c5",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-44a6f05f7f",
     "source": "BBC — Top Stories",
     "title": "Heathrow warns of second day of disruption after cyber-attack",
@@ -108,18 +168,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-8a90356b56",
-    "source": "The Guardian — UK",
-    "title": "London mayor says traffic ban trial is start of ‘fightback to rescue Oxford Street’",
-    "summary": "Sadiq Khan hails one-day closure of half-mile stretch to traffic as ‘glimpse to what the future could be like’ The mayor of London has said a one-day trial banning traffic from part of Oxford Street marks “the day the fightback began to rescue this street”. Sadiq Khan visited the street, where vehicles were prohibited from accessing a half-mile stretch of the road from Oxford Circus to Orchard Street between noon and 8pm on Sunday for the event called This is Oxford Street. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/21/london-mayor-sadiq-khan-says-traffic-ban-trial-is-start-of-fightback-to-rescue-oxford-street",
-    "published": "2025-09-21T14:54:08Z",
-    "image_url": "https://i.guim.co.uk/img/media/43be88445f6e765f1d336a8887c9821ccb259a0b/466_0_4637_3712/master/4637.jpg?width=140&quality=85&auto=format&fit=max&s=92147a2fd092179530ac8a49a07b610c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-261e695579",
     "source": "BBC — Top Stories",
     "title": "Lib Dems consider ditching opposition to ID cards",
@@ -127,30 +175,6 @@
     "url": "https://www.bbc.com/news/articles/c5y44pekj28o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-21T14:49:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5e/live/212cdf10-96f8-11f0-b421-1f7adb2b0f32.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-19b2499d62",
-    "source": "The Guardian — UK",
-    "title": "Sarah Ferguson apologised to Jeffrey Epstein after disowning him, leaked emails suggest",
-    "summary": "Duchess had promised convicted sex offender she would never have anything to do with him again The Duchess of York “humbly” apologised to her “dear friend” Jeffrey Epstein a month after publicly disowning the convicted sex offender, according to leaked emails. Sarah Ferguson told the disgraced late financier that she never called him a paedophile in an earlier newspaper interview, and suggested that she had disavowed him to protect her career as a children’s book author and philanthropist, according to emails obtained by the Mail on Sunday (MoS). Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/21/sarah-ferguson-apologised-to-jeffrey-epstein-after-disowning-him-leaked-emails-suggest",
-    "published": "2025-09-21T14:49:10Z",
-    "image_url": "https://i.guim.co.uk/img/media/8aac9140c99991a6f582c93af1822f7273e76dd0/123_0_1929_1543/master/1929.jpg?width=140&quality=85&auto=format&fit=max&s=7a1717ac2712e3f1cb22636af563aa0c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-cc40c95a5a",
-    "source": "The Guardian — UK",
-    "title": "UK, Canada and Australia announce formal recognition of Palestine, with wave of Israel’s allies to follow",
-    "summary": "Partly symbolic move by up to 10 states comes amid fears Israel could respond by annexing parts of West Bank A wave of Israel’s allies are announcing their recognition of the state of Palestine, as part of a wider manoeuvre designed to ostracise Hamas and challenge attempts by the Israeli government to erase the chance of a Palestinian homeland. But the delicate and partly symbolic move by as many 10 states, pioneered largely by the French government, has the potential to lead to a negative spiral of further confrontation amid fears Israel will respond by annexing parts of the West Bank, leading in turn to European trade sanctions and further political isolation for Israel, including an ultimate possible suspension from the UN. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/sep/21/uk-canada-and-australia-announce-formal-recognition-of-palestine-with-wave-of-israel-allies-to-follow",
-    "published": "2025-09-21T14:46:02Z",
-    "image_url": "https://i.guim.co.uk/img/media/631b3781ccc7593aeac609029e5c7f9199b90251/406_0_4295_3435/master/4295.jpg?width=140&quality=85&auto=format&fit=max&s=ecc264f5763c9a8637afa17c8f0348e5",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -204,13 +228,25 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-f66b66c3d9",
+    "id": "BBC — Top Stories-8a3726b028",
     "source": "BBC — Top Stories",
-    "title": "Verstappen wins in Baku after Piastri crashes out",
-    "summary": "Max Verstappen wins the Azerbaijan Grand Prix with Lando Norris seventh after Oscar Piastri crashes out on the first lap.",
-    "url": "https://www.bbc.com/sport/formula1/articles/cn5qqlzl10lo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-21T13:25:55Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/434a/live/534c3050-96e3-11f0-84c8-99de564f0440.jpg",
+    "title": "Beard's death leaves 'football family devastated'",
+    "summary": "Fara Williams says Matt Beard was \"one of a kind and had the purest of souls\" after the former Liverpool manager died on Saturday at the age 47.",
+    "url": "https://www.bbc.com/sport/football/articles/ckgee1yd46ko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T13:43:18Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb5e/live/be5408c0-970e-11f0-84c8-99de564f0440.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-6cec888a98",
+    "source": "The Guardian — UK",
+    "title": "Publisher criticises Reform council’s ‘Trumpian’ boycott of Nottingham Post",
+    "summary": "Reach’s chief content officer says issue is part of a national trend that goes wider than the party The publisher of the Nottingham Post has spoken of an “increasingly Trumpian approach” to the media creeping into British politics, amid a Reform-led council’s continuing ban against the title. The 150-year-old paper, as well as its website, Nottinghamshire Live, have been prevented from speaking to Reform’s Nottingham county council leader, Mick Barton, while he has also prevented the titles from receiving updates and press releases. Continue reading...",
+    "url": "https://www.theguardian.com/media/2025/sep/21/reform-council-trumpian-boycott-nottingham-post",
+    "published": "2025-09-21T13:35:43Z",
+    "image_url": "https://i.guim.co.uk/img/media/621348df62a58cb90abb9a3ff066d9b47b4f85cc/154_136_2838_2271/master/2838.jpg?width=140&quality=85&auto=format&fit=max&s=f1711a2e6fe331109614e3f798db8d08",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -300,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e9506a6b4d",
-    "source": "BBC — Top Stories",
-    "title": "Charities attack ban on Gaza students bringing families to UK",
-    "summary": "Some students say they will have to give up their university places rather than leave family in Gaza.",
-    "url": "https://www.bbc.com/news/articles/ckgee1wwd29o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-21T11:07:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6dd/live/a73f8890-954b-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-ea115e7713",
     "source": "The Guardian — UK",
     "title": "‘Scary’ and ‘I loved it’: readers share polarised views about ‘unite the kingdom’ rally",
@@ -319,18 +343,6 @@
     "url": "https://www.theguardian.com/world/2025/sep/21/readers-polarised-unite-the-kingdom-rally",
     "published": "2025-09-21T10:53:10Z",
     "image_url": "https://i.guim.co.uk/img/media/d16f8bed4e7ff3a3904261eb0b5d11b1de8f632c/0_0_2504_2003/master/2504.jpg?width=140&quality=85&auto=format&fit=max&s=3644a9a8b62ccb7cb1924c9d262649e6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4fa4c584dc",
-    "source": "BBC — Top Stories",
-    "title": "I spent $8,000 to get back to US after fears over Trump visa deadline",
-    "summary": "US officials later clarified current H-1B holders were unaffected but immigration lawyers already advised people to return.",
-    "url": "https://www.bbc.com/news/articles/cn4wwwz2p1po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-21T10:31:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1925/live/ede34c00-96c7-11f0-aaa5-6b36db6f2a24.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -384,6 +396,30 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-30c06a8a20",
+    "source": "BBC — Top Stories",
+    "title": "Murdered Kenyan's friends want UK soldier to face justice",
+    "summary": "Friends of the stabbed 21-year-old Kenyan woman recount to the BBC events on the night she went missing.",
+    "url": "https://www.bbc.com/news/articles/ce3yn033xewo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T08:21:05Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b640/live/ef332a10-92e1-11f0-b391-6936825093bd.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9b237fa28d",
+    "source": "BBC — Top Stories",
+    "title": "World's oldest person, 116, meets King Charles",
+    "summary": "Ethel Caterham tells the monarch \"all the girls were in love with you and wanted to marry you\".",
+    "url": "https://www.bbc.com/news/articles/cp3qqqe15kzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T07:58:38Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f0b/live/4116d690-96b8-11f0-904d-590271132207.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-a7b097ff81",
     "source": "Politico — UK",
     "title": "Trump’s new detention policy targets millions of immigrants. Judges keep saying it’s illegal.",
@@ -415,18 +451,6 @@
     "url": "https://www.bbc.com/news/articles/c0ez9qxzl2jo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-21T05:01:20Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0227/live/19f3d8e0-96ba-11f0-84c8-99de564f0440.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-168fd6e7eb",
-    "source": "BBC — Top Stories",
-    "title": "Play now",
-    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
-    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-21T04:43:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -516,18 +540,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-d9e61636de",
-    "source": "The Guardian — UK",
-    "title": "UK set to recognise Palestinian state on Sunday",
-    "summary": "Keir Starmer expected to confirm move after concluding the situation has worsened significantly in recent weeks The UK is expected to recognise a Palestinian state on Sunday after Israel failed to meet the conditions set out by Keir Starmer in July. The prime minister is to make the announcement after concluding the humanitarian situation has deteriorated significantly in the past few weeks. The move comes despite pressure from the US and the families of hostages held by Hamas. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/sep/20/uk-to-recognise-palestinian-state-despite-pressure-from-us-and-families-of-hostages",
-    "published": "2025-09-20T22:13:23Z",
-    "image_url": "https://i.guim.co.uk/img/media/ce9dce38129da3456be86294705188293a36130b/1178_14_5009_4008/master/5009.jpg?width=140&quality=85&auto=format&fit=max&s=103e312136627e32e2868c6b5abd1981",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-60c755c9fe",
     "source": "The Guardian — UK",
     "title": "What the UK’s recognition of Palestinian statehood will mean",
@@ -571,18 +583,6 @@
     "url": "https://www.theguardian.com/us-news/2025/sep/18/starmer-trump-state-visit-influence-ukraine-gaza",
     "published": "2025-09-18T19:30:04Z",
     "image_url": "https://i.guim.co.uk/img/media/7cbe1d915e9249fb5f399238b4d807414534e342/203_0_2941_2352/master/2941.jpg?width=140&quality=85&auto=format&fit=max&s=6807a2dafac3462bbc368f051e44e03a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-088d868e04",
-    "source": "The Guardian — UK",
-    "title": "What is quantitative tightening and how has it affected UK finances?",
-    "summary": "The Bank of England’s disposal of the bonds it bought after the 2008 financial crisis is being slowed down The Bank of England has announced that it will scale back its multibillion-pound “quantitative tightening” programme. The process is significant for the UK economy and the public finances. But how will it work? Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/18/what-is-quantitative-tightening-how-affected-uk-finances",
-    "published": "2025-09-18T18:23:15Z",
-    "image_url": "https://i.guim.co.uk/img/media/516368ab22d61a77ea8aeee57ce7434115e1a4c0/756_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=71e49eedbc7e98ad539b374980fc990b",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
