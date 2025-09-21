@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-ffdd499a37",
+    "source": "BBC — Top Stories",
+    "title": "Starmer set to announce UK recognition of Palestinian state on Sunday",
+    "summary": "A host of countries, including France and Canada, are expected to do the same when world leaders gather at the UN General Assembly next week.",
+    "url": "https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T06:12:00Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c9b/live/cd279bf0-965f-11f0-937e-e53bdd730b8c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1a829d5fc6",
+    "source": "BBC — Top Stories",
+    "title": "Stab-proof vests to be given to thousands of prison officers",
+    "summary": "Justice Secretary David Lammy is trying to improve jail safety after several high-profile attacks.",
+    "url": "https://www.bbc.com/news/articles/c4gkkegl193o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T06:11:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c3/live/0cec84d0-96a6-11f0-90f2-5f87cb020b24.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-ee1b28d141",
+    "source": "The Guardian — UK",
+    "title": "Owner of Georgian broadcaster called country’s ‘propaganda megaphone’ is based in London",
+    "summary": "Exclusive: Imedi TV owner denies criticism by EU disinformation monitor and says it is editorially independent On Pont Street in Belgravia in central London, on the first floor of a handsome Edwardian townhouse, sitting above the royal green awning of the Jeroboams wine shop, is an office. There are no obvious signs for it beyond a little note next to the intercom. When buzzed this week, no one appeared at the door. This is the registered office of Hunnewell Partners, which describes itself as an “entrepreneurial private equity and litigation funding practice”. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/sep/21/owner-of-georgian-broadcaster-called-countrys-propaganda-megaphone-is-based-in-london",
+    "published": "2025-09-21T06:00:36Z",
+    "image_url": "https://i.guim.co.uk/img/media/d0f9bc4b698b6f948873458e1c303eb75b3a5838/122_0_2512_2010/master/2512.jpg?width=140&quality=85&auto=format&fit=max&s=c028f9c1aecbc4c60b62e105b80de8fe",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-5010e9f40b",
     "source": "BBC — Top Stories",
     "title": "Ed Davey urges regulator to go after Musk over X 'crimes'",
@@ -19,6 +55,18 @@
     "url": "https://www.bbc.com/news/articles/c0ez9qxzl2jo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-21T05:01:20Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/344b/live/31d693b0-954a-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d74a33b11c",
+    "source": "BBC — Top Stories",
+    "title": "Vietnamese singer Duc Phuc wins Russia's Intervision song contest",
+    "summary": "Vietnam was among 23 countries competing in a glitzy Russian song contest, revived three years after Russia was banned from Eurovision.",
+    "url": "https://www.bbc.com/news/videos/cvg998q0557o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T04:17:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0844/live/1559a530-9697-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -50,7 +98,7 @@
   {
     "id": "BBC — Top Stories-30c06a8a20",
     "source": "BBC — Top Stories",
-    "title": "The British Army cannot keep ignoring the murder of our friend in Kenya",
+    "title": "Murdered Kenyan's friends want UK soldier to face justice",
     "summary": "Friends of the stabbed 21-year-old Kenyan woman recount to the BBC events on the night she went missing.",
     "url": "https://www.bbc.com/news/articles/ce3yn033xewo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-21T00:37:05Z",
@@ -108,18 +156,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-346d590aa8",
-    "source": "BBC — Top Stories",
-    "title": "Dutch police clash with anti-immigration protesters",
-    "summary": "Around 1,500 people blocked a highway in The Hague while a police car was also set on fire.",
-    "url": "https://www.bbc.com/news/articles/c0jqqg755wwo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T23:04:01Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0edd/live/0b1db5e0-9672-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-d39c019c6a",
     "source": "BBC — Top Stories",
     "title": "Dating apps, booze and clubbing - Jane Austen's Emma comes into the 21st Century",
@@ -146,7 +182,7 @@
   {
     "id": "BBC — Top Stories-ebd7527df3",
     "source": "BBC — Top Stories",
-    "title": "My student loan doesn't cover my bills - so I wear my work uniform to lectures",
+    "title": "My student loan doesn't cover my bills, so I wear my work uniform to lectures",
     "summary": "As students struggle to cover the cost of university, the BBC speaks to young people to find out how they make it work.",
     "url": "https://www.bbc.com/news/articles/cly68e6r621o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T23:02:45Z",
@@ -159,7 +195,7 @@
     "id": "BBC — Top Stories-cfd3344164",
     "source": "BBC — Top Stories",
     "title": "Creatine - can this muscle-boosting supplement help boost my brain?",
-    "summary": "It's been used in elite sports for years, as its popularity grows can creatine also help our brains?",
+    "summary": "As its popularity grows, research suggests creatine may also benefit short-term memory, mood and focus.",
     "url": "https://www.bbc.com/news/articles/c2lx7klzvpko?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T23:02:35Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3caf/live/31745500-9582-11f0-b391-6936825093bd.jpg",
@@ -187,18 +223,6 @@
     "url": "https://www.bbc.com/news/articles/c5yqqelk39go?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T23:02:10Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d058/live/121a3270-9667-11f0-b41f-71f146651261.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-c4eb570f11",
-    "source": "BBC — Top Stories",
-    "title": "Press could lose Pentagon access for releasing 'unauthorised information'",
-    "summary": "Journalists have been told Pentagon passes will be contingent on agreeing to new restrictions.",
-    "url": "https://www.bbc.com/news/articles/cwywwjevprwo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T22:53:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce4/live/2bef9330-9670-11f0-a16f-ff130f279a52.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -247,18 +271,6 @@
     "url": "https://www.bbc.com/news/articles/cy9nnl78dgzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T21:42:41Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36a6/live/ee303c80-9664-11f0-b41f-71f146651261.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-ffdd499a37",
-    "source": "BBC — Top Stories",
-    "title": "Starmer set to announce UK recognition of Palestinian state on Sunday",
-    "summary": "A host of countries, including France and Canada, are expected to do the same when world leaders gather at the UN General Assembly next week.",
-    "url": "https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T21:30:23Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c9b/live/cd279bf0-965f-11f0-937e-e53bdd730b8c.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -432,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-34e1da3990",
-    "source": "The Guardian — UK",
-    "title": "Northern Ireland at risk of race riot ‘permacrisis’, government files warn",
-    "summary": "Officials fear widespread unrest amid violence and intimidation of ethnic minorities Northern Ireland faces a “permacrisis” from recurring race riots and may need to use military bases to shelter people burnt out of their homes, government documents reveal. Officials fear the region faces prolonged instability and that a single incident, local or international, could spark widespread disorder. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/20/northern-ireland-at-risk-of-race-riot-permacrisis-government-files-warn",
-    "published": "2025-09-20T11:00:12Z",
-    "image_url": "https://i.guim.co.uk/img/media/05c1131647b8771cd12940648c2abf0414267ee3/737_0_6231_4985/master/6231.jpg?width=140&quality=85&auto=format&fit=max&s=9241191ceb974d984d70e6f7ab2f2501",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-fe1c507916",
     "source": "Politico — UK",
     "title": "UK proposes using billions in frozen Russian cash for Ukraine loans",
@@ -463,6 +463,18 @@
     "url": "https://www.politico.eu/article/cyberattack-delay-disruption-european-airport/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-20T09:25:29Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/20/GettyImages-2230290646-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-3eaf2f3877",
+    "source": "The Guardian — UK",
+    "title": "Rachel Reeves due to appear at gambling lobbyist’s event amid tax review",
+    "summary": "Chancellor’s invitation criticised as ‘strange timing’ with Treasury looking at whether to raise duties on £12bn sector Rachel Reeves has been urged to cancel plans to be the guest of honour at an event hosted by the chief lobbyist of the gambling industry while the Treasury is in the midst of a review of taxes on the £12bn sector. The chancellor is slated to appear at a “private reception” for business leaders, organised by the corporate communications company Brunswick, at the forthcoming Labour party conference in Liverpool. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/20/rachel-reeves-due-to-speak-at-gambling-lobbyists-event-amid-12bn-tax-review",
+    "published": "2025-09-20T09:06:19Z",
+    "image_url": "https://i.guim.co.uk/img/media/71e0f3085f4e5366eb1248c99435d9f52008e77b/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5ef28717360b00126e02b3d203e523ae",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -511,18 +523,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/20/parliament-vulnerable-to-foreign-actors-after-china-spying-charges-dropped-commons-speaker-says",
     "published": "2025-09-20T08:04:50Z",
     "image_url": "https://i.guim.co.uk/img/media/dba6ef6162d8edf3764cd64a0f92058cec0b6ec0/0_0_6703_5366/master/6703.jpg?width=140&quality=85&auto=format&fit=max&s=317e0a7095ce930a50670b2c427a5b7a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-f9bb47973f",
-    "source": "The Guardian — UK",
-    "title": "UK pension savers urged not to withdraw cash due to budget ‘fear and rumour’",
-    "summary": "Financial experts express alarm after jump in sums people taking out of retirement pots amid ‘jitters’ about tax Older savers should avoid making rash decisions about their pension cash based on “fear and rumour”, experts urged this week. The warning came as figures showed a rise in the sums people were pulling out of their retirement pots. Continue reading...",
-    "url": "https://www.theguardian.com/money/2025/sep/20/uk-pension-savers-withdraw-cash-budget-tax",
-    "published": "2025-09-20T06:00:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/d6461fb8efb34a50e316594b161ce933fec1c60a/939_0_4776_3822/master/4776.jpg?width=140&quality=85&auto=format&fit=max&s=e883d0b725161587f2f9ee549c6f7452",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
