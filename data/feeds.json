@@ -1,5 +1,137 @@
 [
   {
+    "id": "BBC — Top Stories-30c06a8a20",
+    "source": "BBC — Top Stories",
+    "title": "The British Army cannot keep ignoring the murder of our friend in Kenya",
+    "summary": "Friends of the stabbed 21-year-old Kenyan woman recount to the BBC events on the night she went missing.",
+    "url": "https://www.bbc.com/news/articles/ce3yn033xewo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T00:37:05Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b640/live/ef332a10-92e1-11f0-b391-6936825093bd.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9ab1800817",
+    "source": "BBC — Top Stories",
+    "title": "Day of delays at Heathrow after cyber-attack brings disruption",
+    "summary": "The issue affecting check-in and baggage systems has also caused cancellations in Brussels and Berlin.",
+    "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T00:21:51Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2e1/live/0e833490-965d-11f0-90f2-5f87cb020b24.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-276a8c3dc9",
+    "source": "BBC — Top Stories",
+    "title": "I took a job on a whim on New Year's Eve - and ended up stranded at sea for six months",
+    "summary": "What would you do if you were stuck on a ship, far from loved ones, and you had no idea how - or when - you’d get home?",
+    "url": "https://www.bbc.com/news/articles/crev9y77njpo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T00:07:39Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9e/live/52754130-9486-11f0-84c8-99de564f0440.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a508db82f7",
+    "source": "BBC — Top Stories",
+    "title": "'No sugar-coated cinema for me': Indian director who scripted history at Venice",
+    "summary": "Songs of Forgotten Trees, which won the Orizzonti Award at Venice, marks the first such win by an Indian director.",
+    "url": "https://www.bbc.com/news/articles/ce86148vn1xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T23:50:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4559/live/2292f840-9396-11f0-898b-1d0183764518.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0a5b881862",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'The actual state of Palestine' and 'Fergie's apology'",
+    "summary": "Sir Keir Starmer's plan to announce the recognition of a Palestinian state features prominently on Sunday's papers.",
+    "url": "https://www.bbc.com/news/articles/cn4llyxdl3yo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T23:38:45Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91b9/live/3dd681d0-967a-11f0-84c8-99de564f0440.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-3d88f50370",
+    "source": "BBC — Top Stories",
+    "title": "Charlie Kirk, the conservative influencer who became the voice of MAGA youth",
+    "summary": "Kirk, an influential Trump ally who at age 18 set up Turning Point USA, died in a shooting while speaking at a Utah campus event.",
+    "url": "https://www.bbc.com/news/articles/cdxqnkwerj7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T23:28:44Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccfa/live/60d07140-9662-11f0-90f2-5f87cb020b24.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-346d590aa8",
+    "source": "BBC — Top Stories",
+    "title": "Dutch police clash with anti-immigration protesters",
+    "summary": "Around 1,500 people blocked a highway in The Hague while a police car was also set on fire.",
+    "url": "https://www.bbc.com/news/articles/c0jqqg755wwo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T23:04:01Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0edd/live/0b1db5e0-9672-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d39c019c6a",
+    "source": "BBC — Top Stories",
+    "title": "Dating apps, booze and clubbing - Jane Austen's Emma comes into the 21st Century",
+    "summary": "A new play based on Austen's classic novel places the book's central character in modern-day Essex.",
+    "url": "https://www.bbc.com/news/articles/c8rvd5lrv6po?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T23:03:39Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a8/live/f738b910-8f2f-11f0-b391-6936825093bd.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-02aaa59130",
+    "source": "BBC — Top Stories",
+    "title": "Hamnet to Sinners: 12 films to look out for as Oscars race begins",
+    "summary": "The top contenders for Hollywood’s awards season have emerged following the autumn film festivals.",
+    "url": "https://www.bbc.com/news/articles/cd9y7qx7gqno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T23:03:11Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e134/live/b8978850-93ce-11f0-b391-6936825093bd.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ebd7527df3",
+    "source": "BBC — Top Stories",
+    "title": "My student loan doesn't cover my bills - so I wear my work uniform to lectures",
+    "summary": "As students struggle to cover the cost of university, the BBC speaks to young people to find out how they make it work.",
+    "url": "https://www.bbc.com/news/articles/cly68e6r621o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T23:02:45Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0662/live/84737c60-9562-11f0-a3c3-898ca8bade9c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-cfd3344164",
+    "source": "BBC — Top Stories",
+    "title": "Creatine - can this muscle-boosting supplement help boost my brain?",
+    "summary": "It's been used in elite sports for years, as its popularity grows can creatine also help our brains?",
+    "url": "https://www.bbc.com/news/articles/c2lx7klzvpko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T23:02:35Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3caf/live/31745500-9582-11f0-b391-6936825093bd.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-1dae647f28",
     "source": "BBC — Top Stories",
     "title": "Why Starmer decided the time was right to recognise a Palestinian state",
@@ -12,6 +144,30 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-218ebc5601",
+    "source": "BBC — Top Stories",
+    "title": "Heightened security as Americans gather for Kirk memorial",
+    "summary": "Donald Trump and JD Vance will be among the speakers at the event in Arizona.",
+    "url": "https://www.bbc.com/news/articles/c5yqqelk39go?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T23:02:10Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d058/live/121a3270-9667-11f0-b41f-71f146651261.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c4eb570f11",
+    "source": "BBC — Top Stories",
+    "title": "Press could lose Pentagon access for releasing 'unauthorised information'",
+    "summary": "Journalists have been told Pentagon passes will be contingent on agreeing to new restrictions.",
+    "url": "https://www.bbc.com/news/articles/cwywwjevprwo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T22:53:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce4/live/2bef9330-9670-11f0-a16f-ff130f279a52.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-8e3976325c",
     "source": "BBC — Top Stories",
     "title": "Former Liverpool manager Beard dies aged 47",
@@ -19,18 +175,6 @@
     "url": "https://www.bbc.com/sport/football/articles/c0r00qx5llko?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T22:34:53Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d0e/live/9df73270-9662-11f0-84c8-99de564f0440.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f5beb0fc92",
-    "source": "BBC — Top Stories",
-    "title": "White House outlines TikTok deal that would give US control of algorithm",
-    "summary": "The White House said a deal could be signed \"in the coming days\", but Beijing is yet to comment.",
-    "url": "https://www.bbc.com/news/articles/c89dd747yz7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T22:19:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94ac/live/3b5e1780-9669-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -108,30 +252,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-4ee94b34da",
-    "source": "BBC — Top Stories",
-    "title": "Farron drapes himself in flag as Lib Dems seek to reclaim patriotism",
-    "summary": "The Lib Dems are urged to stop being squeamish about national pride, at their annual conference.",
-    "url": "https://www.bbc.com/news/articles/cjd11n14zz1o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T19:45:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29d7/live/6623f260-964f-11f0-8383-1902c9cf90cf.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9ab1800817",
-    "source": "BBC — Top Stories",
-    "title": "Day of delays at Heathrow after cyber-attack brings disruption",
-    "summary": "The issue affecting check-in and baggage systems has also caused cancellations in Brussels and Berlin.",
-    "url": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T19:07:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2e1/live/0e833490-965d-11f0-90f2-5f87cb020b24.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-1f7ecb4c20",
     "source": "The Guardian — UK",
     "title": "Heathrow flights delayed and cancelled as cyber-attack hits European airports",
@@ -144,18 +264,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-298a56e873",
-    "source": "BBC — Top Stories",
-    "title": "India warns new US fee for H-1B visa will have 'humanitarian consequences'",
-    "summary": "Donald Trump has said those applying for H-1B visas will have to pay $100,000, roughly 60 times the current fee, starting Sunday.",
-    "url": "https://www.bbc.com/news/articles/clyll7dlg7lo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T18:22:53Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3129/live/bcffa3c0-9647-11f0-90f2-5f87cb020b24.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-b2dd912fbd",
     "source": "BBC — Top Stories",
     "title": "Notre-Dame's iconic towers reopen six years after fire",
@@ -163,18 +271,6 @@
     "url": "https://www.bbc.com/news/videos/cd9yyxnejeko?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T17:51:12Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d74/live/023c54e0-964a-11f0-84c8-99de564f0440.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-ec1b2cfbe1",
-    "source": "BBC — Top Stories",
-    "title": "I was groped by TV host, says Gavin and Stacey star Joanna Page",
-    "summary": "The Welsh actress says she was warned by a producer the man could be \"handsy\".",
-    "url": "https://www.bbc.com/news/articles/cp8wwe2xj9do?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T17:46:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/685a/live/adbf4a70-9645-11f0-9ed9-693309fd1b9f.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -204,18 +300,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-54fe5ed799",
-    "source": "BBC — Top Stories",
-    "title": "Kildunne stars as England see off France to make final",
-    "summary": "Ellie Kildunne scores twice as England see off a stubborn France to reach their seventh successive Women's Rugby World Cup final.",
-    "url": "https://www.bbc.com/sport/rugby-union/articles/cx20p2kx9r6o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T16:27:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a91/live/06112ed0-9643-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-9d73dc9788",
     "source": "Politico — UK",
     "title": "Dutch anti-immigration protest turns violent",
@@ -235,6 +319,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/20/king-made-more-than-1m-selling-land-for-leg-of-hs2-that-was-scrapped",
     "published": "2025-09-20T16:00:18Z",
     "image_url": "https://i.guim.co.uk/img/media/c9091f4b1826ec6c936ca2862f029ccd024347e8/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=22d38bf345d91b11976551ac3e25b278",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-263e132d59",
+    "source": "BBC — Top Stories",
+    "title": "Ukraine says three killed in 'massive' Russian aerial attack",
+    "summary": "President Zelensky says Moscow seeks to \"intimidate civilians\", while Russia reports four deaths in a Ukrainian strike.",
+    "url": "https://www.bbc.com/news/articles/ce3253gxqvwo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-20T15:30:15Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a28a/live/11237600-961d-11f0-b5f9-bf23d14527d7.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -264,30 +360,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-c34a0eb2ad",
-    "source": "BBC — Top Stories",
-    "title": "Dame Prue's parachute dress and Romeo Beckham's runway debut - London Fashion week in pictures",
-    "summary": "Fifteen of the most striking looks from the event's opening shows.",
-    "url": "https://www.bbc.com/news/articles/cd63n1wv8nlo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T14:27:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb14/live/6815d720-962a-11f0-baf3-df7955adb839.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a1144a1c5b",
-    "source": "BBC — Top Stories",
-    "title": "British couple held by Taliban arrive in UK after release",
-    "summary": "Their son tells the BBC he is \"overwhelmed\" by release after nearly eight months in prison.",
-    "url": "https://www.bbc.com/news/articles/cly6ve2dg66o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T14:25:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ab3/live/923ef370-9629-11f0-8115-2505008faa13.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-769a81faab",
     "source": "Politico — UK",
     "title": "Sinn Féin won’t compete in Ireland’s presidential race",
@@ -295,18 +367,6 @@
     "url": "https://www.politico.eu/article/sinn-fein-not-compete-ireland-presidential-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-20T14:24:02Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/20/GettyImages-2235732260-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-ba07c44b61",
-    "source": "BBC — Top Stories",
-    "title": "More than 1,000 people cross English Channel in one day",
-    "summary": "The number of people who have made the crossing in 2025 is 32,103, a record for this point in a year.",
-    "url": "https://www.bbc.com/news/articles/cdx20xenzgqo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T13:59:39Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca81/live/9c928810-960f-11f0-9cf6-cbf3e73ce2b9.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -396,18 +456,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-c753210acc",
-    "source": "BBC — Top Stories",
-    "title": "Ed Davey loves clowning around, but is it time the Lib Dems got serious?",
-    "summary": "As they gather in Bournemouth for their annual conference, Laura Kuenssberg considers what next for the Lib Dems.",
-    "url": "https://www.bbc.com/news/articles/c3e7ny8n44jo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T08:54:02Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8259/live/a7babcc0-952f-11f0-b391-6936825093bd.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-ab540135dc",
     "source": "Politico — UK",
     "title": "Trump doubles down on his claims that critical media coverage of him is ‘illegal’",
@@ -468,30 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-7a87ce2eb6",
-    "source": "BBC — Top Stories",
-    "title": "They shed pounds with weight-loss jabs - but then came the loose skin",
-    "summary": "BBC News hears from women dismayed by hanging tissue left behind after rapid weight loss.",
-    "url": "https://www.bbc.com/news/articles/cx2500v087xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T05:01:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cde8/live/a13e43b0-921b-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6f50cf10d5",
-    "source": "BBC — Top Stories",
-    "title": "Why I left all my child's school WhatsApp groups",
-    "summary": "Some parents are quitting the group chats to escape the frenzy of \"constant notifications\".",
-    "url": "https://www.bbc.com/news/articles/ce9rxed9m5mo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T05:00:53Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b077/live/af4af690-9560-11f0-b391-6936825093bd.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-2f41e99695",
     "source": "Politico — UK",
     "title": "Machthaber: Wolodymyr Selenskyj",
@@ -499,30 +523,6 @@
     "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/machthaber-wolodymyr-selenskyj/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-20T03:00:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/Wolodymyr-Selenskyj-Podcast-Cover-Slide-1.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-188747f6ef",
-    "source": "BBC — Top Stories",
-    "title": "She lived in the US for 30 years. Now this Sikh grandmother is locked up and faces deportation",
-    "summary": "Harjit Kaur, a 73-year-old who unsuccessfully applied for asylum, was arrested by immigration authorities last week.",
-    "url": "https://www.bbc.com/news/articles/ckgq63lgn7zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T00:22:11Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5c/live/aa187440-93ad-11f0-b391-6936825093bd.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-33a4f76bea",
-    "source": "BBC — Top Stories",
-    "title": "Russia's answer to Eurovision is less kitsch, more Kremlin",
-    "summary": "Putin resurrects a Soviet-era global song contest, to distract from Russia's invasion of Ukraine.",
-    "url": "https://www.bbc.com/news/articles/cre5vv0x31po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-19T23:04:07Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/deab9c00-9556-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
