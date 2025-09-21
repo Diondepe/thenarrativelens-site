@@ -1,8 +1,20 @@
 [
   {
+    "id": "The Guardian — UK-46c463b2ca",
+    "source": "The Guardian — UK",
+    "title": "Tulip Siddiq fears plans to use ‘fake’ documents to secure conviction in corruption trial",
+    "summary": "Exclusive: Ex-minister being tried in absentia in Bangladesh claims ID card and passport tendered as evidence not hers The former City minister Tulip Siddiq has said she fears prosecutors could be planning to use “fake” documents to secure her conviction in her trial in Bangladesh on corruption charges. The Labour MP, who is being tried in absentia, spoke out after images of a Bangladeshi national identity card and a passport said to be in her name were published in newspapers in the UK and in Bangladesh. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/21/tulip-siddiq-fears-plans-to-use-fake-documents-to-secure-conviction-in-corruption-trial",
+    "published": "2025-09-21T07:00:36Z",
+    "image_url": "https://i.guim.co.uk/img/media/32004165e7c2f380c7330be24090b4e1e70ffe02/88_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=41c6e93e3b3ba0cbdd40d06298522d39",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-ffdd499a37",
     "source": "BBC — Top Stories",
-    "title": "Starmer set to announce UK recognition of Palestinian state on Sunday",
+    "title": "Starmer set to announce UK recognition of Palestinian state",
     "summary": "A host of countries, including France and Canada, are expected to do the same when world leaders gather at the UN General Assembly next week.",
     "url": "https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-21T06:12:00Z",
@@ -27,7 +39,7 @@
     "id": "The Guardian — UK-ee1b28d141",
     "source": "The Guardian — UK",
     "title": "Owner of Georgian broadcaster called country’s ‘propaganda megaphone’ is based in London",
-    "summary": "Exclusive: Imedi TV owner denies criticism by EU disinformation monitor and says it is editorially independent On Pont Street in Belgravia in central London, on the first floor of a handsome Edwardian townhouse, sitting above the royal green awning of the Jeroboams wine shop, is an office. There are no obvious signs for it beyond a little note next to the intercom. When buzzed this week, no one appeared at the door. This is the registered office of Hunnewell Partners, which describes itself as an “entrepreneurial private equity and litigation funding practice”. Continue reading...",
+    "summary": "Imedi TV owner denies criticism by EU disinformation monitor and says it is editorially independent On Pont Street in Belgravia in central London, on the first floor of a handsome Edwardian townhouse, sitting above the royal green awning of the Jeroboams wine shop, is an office. There are no obvious signs for it beyond a little note next to the intercom. When buzzed this week, no one appeared at the door. This is the registered office of Hunnewell Partners, which describes itself as an “entrepreneurial private equity and litigation funding practice”. Continue reading...",
     "url": "https://www.theguardian.com/world/2025/sep/21/owner-of-georgian-broadcaster-called-countrys-propaganda-megaphone-is-based-in-london",
     "published": "2025-09-21T06:00:36Z",
     "image_url": "https://i.guim.co.uk/img/media/d0f9bc4b698b6f948873458e1c303eb75b3a5838/122_0_2512_2010/master/2512.jpg?width=140&quality=85&auto=format&fit=max&s=c028f9c1aecbc4c60b62e105b80de8fe",
@@ -54,7 +66,19 @@
     "summary": "Palestinians living in the West Bank describe the impact of Israel's occupying control.",
     "url": "https://www.bbc.com/news/articles/c0ez9qxzl2jo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-21T05:01:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/344b/live/31d693b0-954a-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0227/live/19f3d8e0-96ba-11f0-84c8-99de564f0440.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-168fd6e7eb",
+    "source": "BBC — Top Stories",
+    "title": "Play now",
+    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
+    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T04:43:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -144,18 +168,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-3d88f50370",
-    "source": "BBC — Top Stories",
-    "title": "Charlie Kirk, the conservative influencer who became the voice of Maga youth",
-    "summary": "The influential Trump ally who at age 18 set up Turning Point USA died in a shooting while speaking at a Utah campus event.",
-    "url": "https://www.bbc.com/news/articles/cdxqnkwerj7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T23:28:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccfa/live/60d07140-9662-11f0-90f2-5f87cb020b24.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-d39c019c6a",
     "source": "BBC — Top Stories",
     "title": "Dating apps, booze and clubbing - Jane Austen's Emma comes into the 21st Century",
@@ -222,7 +234,7 @@
     "summary": "Donald Trump and JD Vance will be among the speakers at the event in Arizona.",
     "url": "https://www.bbc.com/news/articles/c5yqqelk39go?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T23:02:10Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d058/live/121a3270-9667-11f0-b41f-71f146651261.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c77/live/88766f10-96b7-11f0-90f2-5f87cb020b24.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -367,18 +379,6 @@
     "url": "https://www.politico.com/news/2025/09/19/third-drug-boat-strike-00574331?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-20T15:16:23Z",
     "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-c590232df7",
-    "source": "The Guardian — UK",
-    "title": "Anti-immigration protesters and counter-protesters clash in Glasgow",
-    "summary": "Event comes a week after the largest far-right event in decades took place in London Anti-immigration protesters have clashed with anti-racist counter-protesters in tense scenes in Glasgow this afternoon, a week after the largest far-right event in decades took place in London. The statue of Scottish statesman Donald Dewar, father of the Holyrood parliament, was surrounded by union flags bearing the words: “Stop the boats” and “Unite the kingdom”. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/20/anti-immigration-protesters-and-counter-protesters-clash-in-glasgow",
-    "published": "2025-09-20T15:07:23Z",
-    "image_url": "https://i.guim.co.uk/img/media/a123c762489b69332ce21a0bceb72ff302e26191/484_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=2ac3c0d47b14860bb14eb891ff3b0ee9",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
