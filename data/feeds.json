@@ -1,5 +1,29 @@
 [
   {
+    "id": "BBC — Top Stories-5010e9f40b",
+    "source": "BBC — Top Stories",
+    "title": "Ed Davey urges regulator to go after Musk over X 'crimes'",
+    "summary": "The Lib Dem leader urges Ofcom to launch an investigation into the tech mogul and his social platform.",
+    "url": "https://www.bbc.com/news/articles/c5y558r2r1qo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T05:01:43Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c5/live/5405e6d0-9648-11f0-8383-1902c9cf90cf.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5265081446",
+    "source": "BBC — Top Stories",
+    "title": "In West Bank, Palestinian recognition welcomed despite fears of Israeli annexation",
+    "summary": "Palestinians living in the West Bank describe the impact of Israel's occupying control.",
+    "url": "https://www.bbc.com/news/articles/c0ez9qxzl2jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T05:01:20Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/344b/live/31d693b0-954a-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-51fa92d94d",
     "source": "Politico — UK",
     "title": "Macron wants a big diplomatic win on Palestinian statehood. But Europe is split.",
@@ -19,18 +43,6 @@
     "url": "https://www.bbc.com/news/articles/cgj11l3wd35o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-21T01:52:14Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cff1/live/92e6b570-9687-11f0-90f2-5f87cb020b24.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6e9c7f5b05",
-    "source": "BBC — Top Stories",
-    "title": "Morrissey cancels US shows after death threat in Canada",
-    "summary": "A 26-year-old Ottawa man has been charged with allegedly uttering a threat against the British singer.",
-    "url": "https://www.bbc.com/news/articles/cx2jjer23ngo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-21T01:33:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/417f/live/f83ffda0-9687-11f0-bc30-47a784fa333f.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -86,8 +98,8 @@
   {
     "id": "BBC — Top Stories-3d88f50370",
     "source": "BBC — Top Stories",
-    "title": "Charlie Kirk, the conservative influencer who became the voice of MAGA youth",
-    "summary": "Kirk, an influential Trump ally who at age 18 set up Turning Point USA, died in a shooting while speaking at a Utah campus event.",
+    "title": "Charlie Kirk, the conservative influencer who became the voice of Maga youth",
+    "summary": "The influential Trump ally who at age 18 set up Turning Point USA died in a shooting while speaking at a Utah campus event.",
     "url": "https://www.bbc.com/news/articles/cdxqnkwerj7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T23:28:44Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccfa/live/60d07140-9662-11f0-90f2-5f87cb020b24.jpg",
@@ -288,18 +300,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-b2dd912fbd",
-    "source": "BBC — Top Stories",
-    "title": "Notre-Dame's iconic towers reopen six years after fire",
-    "summary": "Notre-Dame's Medieval towers have been restored after a massive fire ravaged the cathedral in 2019.",
-    "url": "https://www.bbc.com/news/videos/cd9yyxnejeko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T17:51:12Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d74/live/023c54e0-964a-11f0-84c8-99de564f0440.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-de41b755d8",
     "source": "The Guardian — UK",
     "title": "UK and St George’s flags should never be used to ‘intimidate and terrify’, says senior Lib Dem",
@@ -444,6 +444,18 @@
     "cluster_id": null
   },
   {
+    "id": "Politico — UK-fe1c507916",
+    "source": "Politico — UK",
+    "title": "UK proposes using billions in frozen Russian cash for Ukraine loans",
+    "summary": "The controversial plan could mirror a similar proposal being considered by the European Union.",
+    "url": "https://www.politico.eu/article/russia-vladimir-putin-rachel-reeves-uk-proposes-billions-frozen-cash-ukraine-loans/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-20T11:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/GettyImages-2233343434-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-6e8816c312",
     "source": "Politico — UK",
     "title": "Cyberattack causes delays, disruptions at European airports",
@@ -499,18 +511,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/20/parliament-vulnerable-to-foreign-actors-after-china-spying-charges-dropped-commons-speaker-says",
     "published": "2025-09-20T08:04:50Z",
     "image_url": "https://i.guim.co.uk/img/media/dba6ef6162d8edf3764cd64a0f92058cec0b6ec0/0_0_6703_5366/master/6703.jpg?width=140&quality=85&auto=format&fit=max&s=317e0a7095ce930a50670b2c427a5b7a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-773b8a7131",
-    "source": "Politico — UK",
-    "title": "Judge tells Meta not to share Instagram users’ information with Trump admin",
-    "summary": "The temporary order comes after Homeland Security Secretary Kristi Noem’s department subpoenaed the tech giant over posts naming a border patrol agent.",
-    "url": "https://www.politico.com/news/2025/09/19/judge-tells-meta-not-to-share-instagram-users-information-with-dhs-00574094?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-20T07:54:25Z",
-    "image_url": null,
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
