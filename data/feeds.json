@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-8db2131c51",
+    "source": "BBC — Top Stories",
+    "title": "Gatwick second runway plan approved by transport secretary",
+    "summary": "There has been strong opposition against the airport wanting to use its northern runway.",
+    "url": "https://www.bbc.com/news/articles/c9v7rz24z23o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T19:11:40Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7630/live/6ef857a0-9712-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-dd4e007ada",
+    "source": "The Guardian — UK",
+    "title": "Gatwick given green light for £2.2bn second runway plan",
+    "summary": "Transport secretary Heidi Alexander approves expansion to allow 100,000 more flights a year Gatwick Airport’s £2.2bn second runway plan has been given the go-ahead by the transport secretary, Heidi Alexander. In the privately financed project, the West Sussex airport will move its emergency runway 12 metres north, enabling it to be used for departures of narrow-bodied planes such as Airbus A320s and Boeing 737s. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/21/gatwick-given-green-light-for-22bn-second-runway-plan",
+    "published": "2025-09-21T18:54:42Z",
+    "image_url": "https://i.guim.co.uk/img/media/cafeb7f39b5bfbbd0184e7e555736d4a2b49162a/464_0_1635_1309/master/1635.jpg?width=140&quality=85&auto=format&fit=max&s=471871ef7559e8a336eb7c742d94816e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-b10d2be14d",
+    "source": "The Guardian — UK",
+    "title": "What role has Britain played in the history of Israel and Palestine?",
+    "summary": "British politicians were heavily involved in region in early to mid 1900s, as Israel was established and Palestinians displaced In announcing at the UN in July that the UK would recognise a Palestinian state, the UK foreign secretary, David Lammy, said he felt the hand of history on his shoulders. That is not altogether unsurprising, since no European state has played a longer or more controversial role in handling the Palestinian people’s right to self-determination. These are some of the key moments for Britain’s involvement. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/sep/21/what-role-has-britain-played-in-the-history-of-israel-and-palestine",
+    "published": "2025-09-21T18:35:32Z",
+    "image_url": "https://i.guim.co.uk/img/media/4cb4100d2999d15aa313ef3f45873301ac56e015/173_0_4688_3750/master/4688.jpg?width=140&quality=85&auto=format&fit=max&s=4d3e5d1bc56b424b9434715027c67a96",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-60d2f4378d",
+    "source": "BBC — Top Stories",
+    "title": "UK rewarding Hamas, says mother of freed British-Israeli hostage",
+    "summary": "Sir Keir Starmer has insisted Hamas can have \"no future, no role in government, no role in security\".",
+    "url": "https://www.bbc.com/news/articles/cy50079dv4qo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T18:34:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acf1/live/a2b2a1f0-9702-11f0-a296-7d79931be7e0.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-7ec515e94e",
+    "source": "The Guardian — UK",
+    "title": "UK recognises state of Palestine to ‘keep alive’ the possibility of peace",
+    "summary": "Keir Starmer says announcement shows government’s hopes for a secure Israel alongside a viable Palestine Netanyahu says recognition is a prize for terrorism The UK has formally recognised Palestine as an independent state, Keir Starmer has said, in a deeply symbolic announcement which the government hopes will show its commitment to peace in the region and ease domestic political tensions. In a sign of the global concern over the humanitarian crisis in Gaza, Canada and Australia also made their own formal declarations recognising Palestine on Sunday ahead of a conference of the UN general assembly in New York. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/21/uk-recognises-palestine-as-an-independent-state",
+    "published": "2025-09-21T18:09:28Z",
+    "image_url": "https://i.guim.co.uk/img/media/6f71b90037423d75d8f07054b07a14c9c79c7637/0_1082_3958_3164/master/3958.jpg?width=140&quality=85&auto=format&fit=max&s=67f301e65a636468f72126e3f5c0b138",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-455e28b42e",
     "source": "The Guardian — UK",
     "title": "Lib Dems should ditch Ed Davey’s stunts and talk policy, survey finds",
@@ -132,30 +192,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-7ec515e94e",
-    "source": "The Guardian — UK",
-    "title": "UK recognises Palestine as an independent state",
-    "summary": "Keir Starmer’s announcement comes seven decades after end of British mandate in Palestine and creation of state of Israel The UK has formally recognised Palestine as an independent state, Keir Starmer has announced. The deeply symbolic move comes seven decades after the end of the British mandate in Palestine and the formation of the state of Israel. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/21/uk-recognises-palestine-as-an-independent-state",
-    "published": "2025-09-21T15:24:42Z",
-    "image_url": "https://i.guim.co.uk/img/media/4ebf5b388ecfc7a4002ba9822bb552e74a684c33/462_0_4617_3693/master/4617.jpg?width=140&quality=85&auto=format&fit=max&s=a208635d80e2ad84c60049c25f3c1c12",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-446b8eb858",
-    "source": "The Guardian — UK",
-    "title": "UK driving instructors shift to automatic cars in industry move from manual",
-    "summary": "Electric vehicle take-up is a factor driving change, with manual lessons expected to become ‘clear minority’ For many teenagers, it feels like the first taste of true adulthood: sinking the clutch to the floor, coaxing the gearstick into first and lurching into motion. But soon, such a milestone could seem as archaic as travelling by horse and cart. Continue reading...",
-    "url": "https://www.theguardian.com/money/2025/sep/21/uk-driving-instructors-automatic-cars-manual-gearshifts",
-    "published": "2025-09-21T15:00:46Z",
-    "image_url": "https://i.guim.co.uk/img/media/bf0c39b99116a58aecf76559380226706e5593a2/990_580_3491_2793/master/3491.jpg?width=140&quality=85&auto=format&fit=max&s=33dbfa5bc243fff1234869be0cf06cac",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-b9e8ca4818",
     "source": "The Guardian — UK",
     "title": "UK, Canada and Australia formally recognise Palestinian state - as it happened",
@@ -163,6 +199,18 @@
     "url": "https://www.theguardian.com/politics/live/2025/sep/21/keir-starmer-palestine-recognition-announcement-gaza-uk-politics-live",
     "published": "2025-09-21T14:58:29Z",
     "image_url": "https://i.guim.co.uk/img/media/5d53a7a61bf6806de877b79414bd2b432f38b9e7/1113_89_4416_3535/master/4416.jpg?width=140&quality=85&auto=format&fit=max&s=5902759011c1df61d67f6e2422d66387",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-8a90356b56",
+    "source": "The Guardian — UK",
+    "title": "London mayor says traffic ban trial is start of ‘fightback to rescue Oxford Street’",
+    "summary": "Sadiq Khan hails one-day closure of half-mile stretch to traffic as ‘glimpse to what the future could be like’ The mayor of London has said a one-day trial banning traffic from part of Oxford Street marks “the day the fightback began to rescue this street”. Sadiq Khan visited the street, where vehicles were prohibited from accessing a half-mile stretch of the road from Oxford Circus to Orchard Street between noon and 8pm on Sunday for the event called This is Oxford Street. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/21/london-mayor-sadiq-khan-says-traffic-ban-trial-is-start-of-fightback-to-rescue-oxford-street",
+    "published": "2025-09-21T14:54:08Z",
+    "image_url": "https://i.guim.co.uk/img/media/43be88445f6e765f1d336a8887c9821ccb259a0b/466_0_4637_3712/master/4637.jpg?width=140&quality=85&auto=format&fit=max&s=92147a2fd092179530ac8a49a07b610c",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -336,18 +384,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-ea115e7713",
-    "source": "The Guardian — UK",
-    "title": "‘Scary’ and ‘I loved it’: readers share polarised views about ‘unite the kingdom’ rally",
-    "summary": "‘We are sleepwalking to fascism’– views about Tommy Robinson’s London rally reveal fears of a new era of division British artists reclaim the St George’s flag Though Tommy Robinson’s march in London was called “unite the kingdom” (UTK), it was a gathering that has raised fears of a new era of division. The Guardian asked readers for their reflections on the event, which attracted an estimated 110,00 protesters and 5,000 counter-protesters. The hundreds of responses we received told their own story of polarisation. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/sep/21/readers-polarised-unite-the-kingdom-rally",
-    "published": "2025-09-21T10:53:10Z",
-    "image_url": "https://i.guim.co.uk/img/media/d16f8bed4e7ff3a3904261eb0b5d11b1de8f632c/0_0_2504_2003/master/2504.jpg?width=140&quality=85&auto=format&fit=max&s=3644a9a8b62ccb7cb1924c9d262649e6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-c60933639f",
     "source": "Politico — UK",
     "title": "Von der Leyen says not thinking about German presidential election",
@@ -396,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-30c06a8a20",
-    "source": "BBC — Top Stories",
-    "title": "Murdered Kenyan's friends want UK soldier to face justice",
-    "summary": "Friends of the stabbed 21-year-old Kenyan woman recount to the BBC events on the night she went missing.",
-    "url": "https://www.bbc.com/news/articles/ce3yn033xewo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-21T08:21:05Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b640/live/ef332a10-92e1-11f0-b391-6936825093bd.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-9b237fa28d",
     "source": "BBC — Top Stories",
     "title": "World's oldest person, 116, meets King Charles",
@@ -427,18 +451,6 @@
     "url": "https://www.politico.com/news/2025/09/20/ice-detention-immigration-policy-00573850?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-21T07:46:21Z",
     "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-46c463b2ca",
-    "source": "The Guardian — UK",
-    "title": "Tulip Siddiq fears plans to use ‘fake’ documents to secure conviction in corruption trial",
-    "summary": "Exclusive: Ex-minister being tried in absentia in Bangladesh claims ID card and passport tendered as evidence not hers The former City minister Tulip Siddiq has said she fears prosecutors could be planning to use “fake” documents to secure her conviction in her trial in Bangladesh on corruption charges. The Labour MP, who is being tried in absentia, spoke out after images of a Bangladeshi national identity card and a passport said to be in her name were published in newspapers in the UK and in Bangladesh. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/21/tulip-siddiq-fears-plans-to-use-fake-documents-to-secure-conviction-in-corruption-trial",
-    "published": "2025-09-21T07:00:36Z",
-    "image_url": "https://i.guim.co.uk/img/media/32004165e7c2f380c7330be24090b4e1e70ffe02/88_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=41c6e93e3b3ba0cbdd40d06298522d39",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -523,18 +535,6 @@
     "url": "https://www.bbc.com/news/articles/c2lx7klzvpko?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-20T23:02:35Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3caf/live/31745500-9582-11f0-b391-6936825093bd.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-1dae647f28",
-    "source": "BBC — Top Stories",
-    "title": "Why Starmer decided the time was right",
-    "summary": "The PM had signalled a shift in policy unless Israel took steps including agreeing to a ceasefire in Gaza.",
-    "url": "https://www.bbc.com/news/articles/cp9848kxp2go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-20T23:02:17Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d2d/live/7ef0c3e0-96f4-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
