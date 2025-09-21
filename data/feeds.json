@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-dcdc395834",
+    "source": "BBC — Top Stories",
+    "title": "PM's 'knee-bending' to Trump is 'cringey', says Clegg",
+    "summary": "The former deputy PM says Starmer and Trump's relationship is \"getting a bit embarrassing\".",
+    "url": "https://www.bbc.com/news/articles/c1l881vnv2no?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T22:39:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/109f/live/a537a8e0-9733-11f0-85fa-7b56c173fde7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-acc9318fca",
+    "source": "BBC — Top Stories",
+    "title": "Sultana looks to 'reconcile' with Corbyn after party row",
+    "summary": "Post on social media comes after the ex-Labour MPs clashed over the formation of their fledgling left-wing party.",
+    "url": "https://www.bbc.com/news/articles/c0q77y25l48o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T22:27:29Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e51/live/76d963d0-9733-11f0-85fa-7b56c173fde7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-1c6b764fbc",
+    "source": "Politico — UK",
+    "title": "France’s Macron defends decision to recognize Palestinian statehood",
+    "summary": "Simply killing as many Hamas members as possible cannot be the only solution, the French president said.",
+    "url": "https://www.politico.com/news/2025/09/21/macron-defends-decision-recognize-palestinian-statehood-00574577?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-21T22:16:20Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-47b3211fe9",
     "source": "BBC — Top Stories",
     "title": "Trump pushes justice department to prosecute his political opponents",
@@ -175,18 +211,6 @@
     "url": "https://www.theguardian.com/world/2025/sep/21/netanyahu-uk-palestinian-recogniton-absurd-prize-terrorism",
     "published": "2025-09-21T17:17:31Z",
     "image_url": "https://i.guim.co.uk/img/media/98327020f6d1b0bcd0bc20a82bde88bdd6da021f/250_0_1996_1597/master/1996.jpg?width=140&quality=85&auto=format&fit=max&s=ffb00701d6d6a202b59a9cd4b64275c5",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-662e5ab6db",
-    "source": "BBC — Top Stories",
-    "title": "Mayor trials car-free Oxford Street for one day",
-    "summary": "The Mayor of London is hoping to pedestrianise Oxford Street in central London.",
-    "url": "https://www.bbc.com/news/articles/c9dxxn43zg5o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-21T16:48:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f082/live/f4b62c70-96fc-11f0-b421-1f7adb2b0f32.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -420,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-7cdc450c86",
-    "source": "BBC — Top Stories",
-    "title": "Duchess of York called Epstein 'supreme friend' in 2011 email",
-    "summary": "A spokesperson for the duchess says the message was sent to counter a threat Epstein had made to sue her for defamation.",
-    "url": "https://www.bbc.com/news/articles/cgj11l3wd35o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-21T09:02:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cff1/live/92e6b570-9687-11f0-90f2-5f87cb020b24.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-03c01b05a7",
     "source": "Politico — UK",
     "title": "US will control TikTok’s algorithm under deal, White House says",
@@ -475,18 +487,6 @@
     "url": "https://www.bbc.com/news/articles/c0ez9qxzl2jo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-21T05:01:20Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0227/live/19f3d8e0-96ba-11f0-84c8-99de564f0440.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-51fa92d94d",
-    "source": "Politico — UK",
-    "title": "Macron wants a big diplomatic win on Palestinian statehood. But Europe is split.",
-    "summary": "The French president is seeking to build a diplomatic counterweight against U.S. support for Israel, but his efforts will do little to end the war in Gaza.",
-    "url": "https://www.politico.eu/article/emmanuel-macron-diplomatic-win-palestine-statehood-europe-split/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-21T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/20/GettyImages-2235687119-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
