@@ -1,5 +1,53 @@
 [
   {
+    "id": "BBC — Top Stories-8e50b4e58e",
+    "source": "BBC — Top Stories",
+    "title": "Trump links pain reliever Tylenol to autism - but many experts are sceptical",
+    "summary": "Some studies have suggested an association between the two, but experts say there is no causal relationship.",
+    "url": "https://www.bbc.com/news/articles/cx20d4lr67lo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T22:10:45Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd6/live/8b5ddf10-979d-11f0-84a3-e314c0b97a4c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-439ee46011",
+    "source": "BBC — Top Stories",
+    "title": "New GPs rule after 27-year-old's cancer missed",
+    "summary": "Jessica Brady's parents campaigned for the initiative after she made repeated calls to GPs before her death aged 27 from terminal cancer.",
+    "url": "https://www.bbc.com/news/articles/cly0428jjpeo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T22:00:47Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1adf/live/c6030d60-97bc-11f0-858a-a904eacbef23.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-3103c1af17",
+    "source": "The Guardian — UK",
+    "title": "English GPs adopt ‘Jess’s rule’ to help ensure they do not miss serious illnesses",
+    "summary": "‘Three strikes and rethink’ approach named after Jess Brady, who died after her cancer was misdiagnosed GPs across England are to adopt a “three strikes and rethink” approach to patients whose illnesses they cannot diagnose, under a safety initiative known as “Jess’s rule”. It is named after Jessica Brady, who died at the age of 27 of stage four cancer in December 2020 after experiencing abdominal pain, coughing, vomiting and weight loss for six months. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/sep/22/english-gps-adopt-jesss-rule-to-help-ensure-they-do-not-miss-serious-illnesses",
+    "published": "2025-09-22T21:30:29Z",
+    "image_url": "https://i.guim.co.uk/img/media/2a8cd5f0b7a2f764bb7a099d10f9f49eb867825c/0_0_1165_932/master/1165.jpg?width=140&quality=85&auto=format&fit=max&s=c3456c1ed6a59731d6082825e43fcaad",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b369a1256c",
+    "source": "BBC — Top Stories",
+    "title": "France formally recognises Palestinian state",
+    "summary": "Speaking at the UN in New York, President Emmanuel Macron said \"the time for peace has come\".",
+    "url": "https://www.bbc.com/news/articles/cd9ykqw22zlo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T21:15:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7923/live/825e3bb0-97f9-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-105b442817",
     "source": "BBC — Top Stories",
     "title": "Copenhagen Airport shut after drone sightings",
@@ -19,6 +67,18 @@
     "url": "https://www.bbc.com/news/articles/c0knp3557j2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T21:00:21Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8529/live/499529f0-97e6-11f0-8f46-6b3a3352ef22.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-3533534c26",
+    "source": "BBC — Top Stories",
+    "title": "Tearful Dembele wins Ballon d'Or as PSG dominate",
+    "summary": "Paris St-Germain's Ousmane Dembele wins the Ballon d'Or, the award for the best player in the world, for the first time.",
+    "url": "https://www.bbc.com/sport/football/articles/c9v71gxp02ro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T20:52:44Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d9/live/acd74230-97f7-11f0-beff-6fe19e0dd9d4.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -276,30 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-573a257662",
-    "source": "The Guardian — UK",
-    "title": "Man who died on Bibby Stockholm ‘tricked’ into going on barge, inquest told",
-    "summary": "Community worker said Leonard Farruku, from Albania, was told he was being taken to a hotel in Swindon An asylum seeker who died onboard the Bibby Stockholm was “tricked” into going to the barge after “point blank” refusing, an inquest has heard. Leonard Farruku, 27, from Albania, was found unresponsive in a shower cubicle onboard the accommodation vessel at Portland Port, Dorset, on 12 December 2023. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/22/man-who-died-on-bibby-stockholm-tricked-into-going-on-barge-inquest-told",
-    "published": "2025-09-22T16:57:10Z",
-    "image_url": "https://i.guim.co.uk/img/media/466277e6566c2310d00ae299639ea80beda31239/134_0_523_418/master/523.jpg?width=140&quality=85&auto=format&fit=max&s=abc2b9edaf5a083ed3289de507bc344e",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9b8011462e",
-    "source": "BBC — Top Stories",
-    "title": "Southport killer stole identities to buy weapons, inquiry told",
-    "summary": "The teenaged knifeman who carried out the Southport attack had a stash of weapons in his bedroom.",
-    "url": "https://www.bbc.com/news/articles/cp8j5vege10o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T16:57:09Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cdb/live/0fef7d90-624e-11f0-b903-f515e3045d80.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-2d63789d15",
     "source": "Politico — UK",
     "title": "Les dessous de la révolte de l’industrie du porno contre la réglementation du numérique",
@@ -384,30 +420,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-6527d7131b",
-    "source": "BBC — Top Stories",
-    "title": "British couple held by Taliban for months feared they would be executed",
-    "summary": "Peter and Barbie Reynolds, 80 and 76, said it was never explained to them why they were being held.",
-    "url": "https://www.bbc.com/news/articles/c4gj79y58e3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T14:50:00Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d0/live/5d341f10-97bf-11f0-af62-91486a511a31.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a072991637",
-    "source": "BBC — Top Stories",
-    "title": "France transfixed by murder trial without a body",
-    "summary": "Cédric Jubillar has always denied killing his wife Delphine, who vanished in December 2020.",
-    "url": "https://www.bbc.com/news/articles/cz69nppezlzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T14:43:05Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c65c/live/741ee0d0-97b9-11f0-a1d2-01653bf009aa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-5b9a5ba05e",
     "source": "The Guardian — UK",
     "title": "What does the UK recognising Palestinian statehood really mean? – podcast",
@@ -475,18 +487,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/22/insolvent-uk-recruiter-acquired-by-previous-owner-who-took-millions-out",
     "published": "2025-09-22T12:10:01Z",
     "image_url": "https://i.guim.co.uk/img/media/7ce537f4f6e0b96c2b6c4ae2d596952c96366384/0_87_4891_3913/master/4891.jpg?width=140&quality=85&auto=format&fit=max&s=2cdc0d8fc7cdbb8904acefdcc77d09ea",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-8e50b4e58e",
-    "source": "BBC — Top Stories",
-    "title": "Trump will reportedly link pain reliever Tylenol to autism - but many experts are sceptical",
-    "summary": "Some studies have suggested an association between the two, but experts say there is no causal relationship.",
-    "url": "https://www.bbc.com/news/articles/cx20d4lr67lo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T11:33:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd6/live/8b5ddf10-979d-11f0-84a3-e314c0b97a4c.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
