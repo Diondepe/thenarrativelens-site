@@ -2,23 +2,11 @@
   {
     "id": "BBC — Top Stories-67d378bf76",
     "source": "BBC — Top Stories",
-    "title": "Sarah Ferguson dropped from charity after Epstein email",
+    "title": "Duchess of York dropped from charity after Epstein email",
     "summary": "The children's hospice charity says it would be inappropriate for her to continue as a patron of the charity.",
     "url": "https://www.bbc.com/news/articles/cddmr6v0jpzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T12:33:36Z",
+    "published": "2025-09-22T13:19:08Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7083/live/48788640-97ad-11f0-a98f-a5aede2eafbc.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-327594605d",
-    "source": "The Guardian — UK",
-    "title": "Farage vows to scrap indefinite leave to remain, placing thousands at risk of deportation",
-    "summary": "Reform UK plans to force non-citizens to apply for visas with high salary thresholds and no access to NHS services Nigel Farage has pledged to abolish what he called the “grossly unfair” main route for immigrants to gain British citizenship, threatening tens of thousands of people legally living in the UK with deportation unless they meet strict rules. The Reform UK leader said his plans would target the “Boriswave” – the wave of legal immigrants who arrived in the UK under post-Brexit rules established by Boris Johnson – which he described as the “greatest betrayal of democratic wishes certainly in anyone’s living memory”. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/22/farage-vows-to-scrap-settled-status-placing-thousands-at-risk-of-deportation",
-    "published": "2025-09-22T12:24:45Z",
-    "image_url": "https://i.guim.co.uk/img/media/d86ec0589913b647e0cd2ba01b8d46b17db1a4ee/433_43_2995_2396/master/2995.jpg?width=140&quality=85&auto=format&fit=max&s=91550ebcb4e7a1d3293917b2f0d3da34",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -29,8 +17,56 @@
     "title": "Reform says it will scrap indefinite leave to remain for migrants if it wins next election",
     "summary": "The party claims ending the scheme and restricting access to benefits will save hundreds of billions of pounds - but Rachel Reeves says the plans 'have no basis in reality'.",
     "url": "https://www.bbc.com/news/articles/c930xypxpqpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T12:10:18Z",
+    "published": "2025-09-22T13:14:11Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d32/live/2f1d3de0-97ac-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-63d9f9d5b7",
+    "source": "BBC — Top Stories",
+    "title": "Rugby star was over drink-drive limit during storm, inquest hears",
+    "summary": "An inquest hears ex-England star Tom Voyce died when his vehicle was washed into a river in a storm.",
+    "url": "https://www.bbc.com/news/articles/cj4y1vkpqrgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T13:12:36Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fb0/live/c708e8d0-b719-11ef-a2ca-e99d0c9a24e3.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-aaa9cb5c40",
+    "source": "Politico — UK",
+    "title": "Moldovan cops raid suspected Russian-backed meddlers before election",
+    "summary": "Authorities have accused Moscow of interfering in multiple votes in the former Soviet republic.",
+    "url": "https://www.politico.eu/article/moldova-launches-pre-election-raids-russia-meddlers-maia-sandu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-22T13:03:24Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/22/12575026-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-18e5a46de8",
+    "source": "The Guardian — UK",
+    "title": "Reform branded ‘threat to democracy’ over Farage plan to remove thousands of migrants with leave to be in UK – politics live",
+    "summary": "Nigel Farage says Reform UK would scrap the main route that migrants take to gain British citizenship Farage and Yusuf are now taking questions. Q: [From the BBC’s Iain Watson] Will you withdraw the £230bn figure, because it has been withdrawn by the thinktank that produced it? What we are attempting to do today is to make people realise that large-scale migration into Britain, where 50% at least of those that come, will never work and live off the British state, is actually making this country substantially poorer. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/22/reform-labour-keir-starmer-nigel-farage-immigration-latest-uk-politics-updates",
+    "published": "2025-09-22T12:54:06Z",
+    "image_url": "https://i.guim.co.uk/img/media/0ea9a207de8e6ff0be680ec4acab4cea10278326/625_0_4623_3698/master/4623.jpg?width=140&quality=85&auto=format&fit=max&s=48e2496fab30522bd003a3eda402ee3c",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-327594605d",
+    "source": "The Guardian — UK",
+    "title": "Farage vows to scrap indefinite leave to remain, placing thousands at risk of deportation",
+    "summary": "Reform UK plans to force non-citizens to apply for visas, with high salary thresholds and no access to NHS services UK politics live – latest update Nigel Farage has pledged to abolish what he called the “grossly unfair” main route for immigrants to gain British citizenship, threatening tens of thousands of people legally living in the UK with deportation unless they meet strict rules. The Reform UK leader said his plans would target the “Boriswave” – the wave of legal immigrants who arrived in the UK under post-Brexit rules established by Boris Johnson – which he described as the “greatest betrayal of democratic wishes certainly in anyone’s living memory”. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/22/farage-vows-to-scrap-settled-status-placing-thousands-at-risk-of-deportation",
+    "published": "2025-09-22T12:24:45Z",
+    "image_url": "https://i.guim.co.uk/img/media/d86ec0589913b647e0cd2ba01b8d46b17db1a4ee/433_43_2995_2396/master/2995.jpg?width=140&quality=85&auto=format&fit=max&s=91550ebcb4e7a1d3293917b2f0d3da34",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -60,21 +96,9 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-18e5a46de8",
-    "source": "The Guardian — UK",
-    "title": "Reform branded ‘threat to democracy’ over Farage plan to remove thousands of migrants with leave to be in UK – politics live",
-    "summary": "Nigel Farage says Reform UK would scrap the main route that migrants take to gain British citizenship Farage and Yusuf are now taking questions. Q: [From the BBC’s Iain Watson] Will you withdraw the £230bn figure, because it has been withdrawn by the thinktank that produced it? What we are attempting to do today is to make people realise that large-scale migration into Britain, where 50% at least of those that come, will never work and live off the British state, is actually making this country substantially poorer. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/sep/22/reform-labour-keir-starmer-nigel-farage-immigration-latest-uk-politics-updates",
-    "published": "2025-09-22T11:54:36Z",
-    "image_url": "https://i.guim.co.uk/img/media/0ea9a207de8e6ff0be680ec4acab4cea10278326/625_0_4623_3698/master/4623.jpg?width=140&quality=85&auto=format&fit=max&s=48e2496fab30522bd003a3eda402ee3c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-1a9b726404",
     "source": "BBC — Top Stories",
-    "title": "Trump hails Charlie Kirk as martyr as thousands fill memorial service",
+    "title": "Trump hails Charlie Kirk as martyr to thousands at memorial service",
     "summary": "The US president broke with the forgiveness message of Kirk's widow, Erika, to say he hated his opponents.",
     "url": "https://www.bbc.com/news/articles/ckgee0x9p40o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T11:42:53Z",
@@ -98,7 +122,7 @@
   {
     "id": "BBC — Top Stories-8e50b4e58e",
     "source": "BBC — Top Stories",
-    "title": "Trump will reportedly link autism to pain reliever Tylenol - but many experts are sceptical",
+    "title": "Trump will reportedly link pain reliever Tylenol to autism - but many experts are sceptical",
     "summary": "Some studies have suggested an association between the two, but experts say there is no causal relationship.",
     "url": "https://www.bbc.com/news/articles/cx20d4lr67lo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T11:33:16Z",
@@ -132,18 +156,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-63d9f9d5b7",
-    "source": "BBC — Top Stories",
-    "title": "Rugby star was over drink-drive limit during storm, inquest hears",
-    "summary": "A coroner hears ex-England star Tom Voyce died when his vehicle was washed into a river in a storm.",
-    "url": "https://www.bbc.com/news/articles/cj4y1vkpqrgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T11:18:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fb0/live/c708e8d0-b719-11ef-a2ca-e99d0c9a24e3.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-7ec515e94e",
     "source": "The Guardian — UK",
     "title": "UK recognises state of Palestine to ‘keep alive’ the possibility of peace",
@@ -151,6 +163,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/21/uk-recognises-palestine-as-an-independent-state",
     "published": "2025-09-22T11:18:12Z",
     "image_url": "https://i.guim.co.uk/img/media/6f71b90037423d75d8f07054b07a14c9c79c7637/0_1082_3958_3164/master/3958.jpg?width=140&quality=85&auto=format&fit=max&s=67f301e65a636468f72126e3f5c0b138",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-8f0705b650",
+    "source": "BBC — Top Stories",
+    "title": "UK says Israel must not retaliate against Palestinian statehood push",
+    "summary": "Yvette Cooper spoke to the BBC as France and more countries prepare to follow the UK and recognise Palestinian statehood.",
+    "url": "https://www.bbc.com/news/articles/c1wggrdn9dno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T11:11:45Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db03/live/1d62c830-977b-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -350,7 +374,7 @@
   {
     "id": "BBC — Top Stories-9651d1e905",
     "source": "BBC — Top Stories",
-    "title": "'My girl can't walk or talk': Searching for answers in Wales' rare disease cluster",
+    "title": "'My girl can't walk or talk': Searching for answers in rare disease cluster",
     "summary": "Families affected by a rare inherited disease say they have had to \"scramble\" for information.",
     "url": "https://www.bbc.com/news/articles/cn0qqvyrdkwo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T04:58:54Z",
@@ -432,21 +456,9 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-c3cbe67566",
-    "source": "Politico — UK",
-    "title": "US tries to keep Russian airlines from getting their hands on sanctioned parts",
-    "summary": "The issue arose after Washington lifted sanctions against Belavia, the main carrier of Russian ally Belarus.",
-    "url": "https://www.politico.eu/article/us-donald-trump-belarus-belavia-russia-airlines-sanctions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-22T02:20:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/18/GettyImages-1233115292-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-e078b50523",
     "source": "BBC — Top Stories",
-    "title": "I've made a music playlist to help me deal with dying",
+    "title": "The songs I've chosen to help me prepare for dying",
     "summary": "Music can evoke powerful memories and offers a sense of normality for people dealing with illness or death.",
     "url": "https://www.bbc.com/news/articles/c3e7n40vyx2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T00:28:03Z",
@@ -511,18 +523,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/21/gatwick-given-green-light-for-22bn-second-runway-plan",
     "published": "2025-09-21T18:54:42Z",
     "image_url": "https://i.guim.co.uk/img/media/cafeb7f39b5bfbbd0184e7e555736d4a2b49162a/464_0_1635_1309/master/1635.jpg?width=140&quality=85&auto=format&fit=max&s=471871ef7559e8a336eb7c742d94816e",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-60d2f4378d",
-    "source": "BBC — Top Stories",
-    "title": "UK rewarding Hamas, says mother of freed British-Israeli hostage",
-    "summary": "Sir Keir Starmer has insisted Hamas can have \"no future, no role in government, no role in security\".",
-    "url": "https://www.bbc.com/news/articles/cy50079dv4qo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-21T18:34:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acf1/live/a2b2a1f0-9702-11f0-a296-7d79931be7e0.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
