@@ -1,5 +1,53 @@
 [
   {
+    "id": "BBC — Top Stories-37a1a0151e",
+    "source": "BBC — Top Stories",
+    "title": "Nvidia to invest $100bn in OpenAI",
+    "summary": "Nvidia says it will supply high-performance chips needed for OpenAI's data centres.",
+    "url": "https://www.bbc.com/news/articles/c0knp3557j2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T19:29:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8529/live/499529f0-97e6-11f0-8f46-6b3a3352ef22.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-59946d7789",
+    "source": "BBC — Top Stories",
+    "title": "Lib Dems have moral duty to defeat Farage, says Davey",
+    "summary": "Speaking at the Lib Dem conference. Sir Ed tells the BBC he's afraid of Nigel Farage and is offering \"radical change\".",
+    "url": "https://www.bbc.com/news/articles/c33rp46nr1jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T19:29:19Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7256/live/e3107cc0-97c7-11f0-af62-91486a511a31.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-b2cb088aca",
+    "source": "Politico — UK",
+    "title": "No one’s laughing at Trump at the UN this year",
+    "summary": "The president will likely tout his peacemaking efforts, but much of the world sees him as a disruptor.",
+    "url": "https://www.politico.com/news/2025/09/22/no-ones-laughing-at-trump-at-the-un-this-year-00574999?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-22T19:22:44Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ded983bb37",
+    "source": "BBC — Top Stories",
+    "title": "Horner, the £52m pay-off, and what next for ex-Red Bull boss?",
+    "summary": "BBC Sport's Andrew Benson assesses Christian Horner's £52m severance deal with Red Bull and how it will reflect on the team and their former F1 supremo.",
+    "url": "https://www.bbc.com/sport/formula1/articles/c20z1npepnvo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T19:21:18Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4976/live/08bb4cd0-97db-11f0-858a-a904eacbef23.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-eda918cf42",
     "source": "Politico — UK",
     "title": "White House: Recognizing Palestinian statehood is ‘a reward to Hamas’",
@@ -103,18 +151,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/22/what-swayed-the-decision-for-second-gatwick-runway-and-what-does-it-mean-for-heathrow",
     "published": "2025-09-22T17:54:06Z",
     "image_url": "https://i.guim.co.uk/img/media/8ecb36302735dd2d367a0e22fc86fc8d98f95172/989_0_4918_3937/master/4918.jpg?width=140&quality=85&auto=format&fit=max&s=2e195cd10a4aeff71726d1ea8c67316d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-59946d7789",
-    "source": "BBC — Top Stories",
-    "title": "Lib Dems have moral duty to defeat Farage, says Davey",
-    "summary": "Speaking at the Lib Dem conference. Sir Ed tells the BBC he's afraid of Nigel Farage and is offering \"radical change\".",
-    "url": "https://www.bbc.com/news/articles/c33rp46nr1jo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T17:54:00Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7256/live/e3107cc0-97c7-11f0-af62-91486a511a31.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -312,6 +348,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-bd5e625dde",
+    "source": "BBC — Top Stories",
+    "title": "New Hilary Mantel prize to help emerging writers",
+    "summary": "The prize for emerging writers is being set up to honour the memory of the Devon-based author.",
+    "url": "https://www.bbc.com/news/articles/cly1k25xq30o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T15:07:14Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e35e/live/0e0d99a0-97c1-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-b697875827",
     "source": "Politico — UK",
     "title": "Energy as a sovereignty project: Moldova’s road from crisis to Europe",
@@ -396,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-63d9f9d5b7",
-    "source": "BBC — Top Stories",
-    "title": "Rugby star over drink-drive limit when car washed away in storm, inquest told",
-    "summary": "An inquest hears ex-England star Tom Voyce died when his vehicle was washed into a river in a storm.",
-    "url": "https://www.bbc.com/news/articles/cj4y1vkpqrgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T13:12:36Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fb0/live/c708e8d0-b719-11ef-a2ca-e99d0c9a24e3.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-aaa9cb5c40",
     "source": "Politico — UK",
     "title": "Moldovan cops raid suspected Russian-backed meddlers before election",
@@ -444,30 +480,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-8e50b4e58e",
-    "source": "BBC — Top Stories",
-    "title": "Trump will reportedly link pain reliever Tylenol to autism - but many experts are sceptical",
-    "summary": "Some studies have suggested an association between the two, but experts say there is no causal relationship.",
-    "url": "https://www.bbc.com/news/articles/cx20d4lr67lo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T11:33:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd6/live/8b5ddf10-979d-11f0-84a3-e314c0b97a4c.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-be344e77bd",
-    "source": "Politico — UK",
-    "title": "Workers stage massive strike across Italy in support of Gaza",
-    "summary": "Unions put pressure on Prime Minister Giorgia Meloni over backing for Israel.",
-    "url": "https://www.politico.eu/article/italian-workers-strike-support-gaza-palestine-state/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-22T11:19:19Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/22/GettyImages-2236216239.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-7ec515e94e",
     "source": "The Guardian — UK",
     "title": "UK recognises state of Palestine to ‘keep alive’ the possibility of peace",
@@ -499,18 +511,6 @@
     "url": "https://www.bbc.com/news/articles/cvgp5z1vvj5o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T08:46:32Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ae7/live/fc9130a0-978a-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-86f18b0b3c",
-    "source": "BBC — Top Stories",
-    "title": "Stranded? Last bus home to rural village leaves five minutes after first one arrives",
-    "summary": "Glentrool residents say their Saturday service to Newton Stewart lets them stay for just five minutes.",
-    "url": "https://www.bbc.com/news/articles/c79vqqq02p4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T05:35:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/929c/live/8447f4a0-9788-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
