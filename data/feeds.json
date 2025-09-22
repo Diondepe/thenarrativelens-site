@@ -1,8 +1,80 @@
 [
   {
+    "id": "BBC — Top Stories-cd6a1b4761",
+    "source": "BBC — Top Stories",
+    "title": "Britain's worst major stations for train cancellations revealed - is yours on the list?",
+    "summary": "Figures show around one in 13 scheduled stops at City Thameslink were cancelled over the past year",
+    "url": "https://www.bbc.com/news/articles/cgl1ze9ppdpo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T23:09:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b25/live/218ba100-97e1-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9a36f659a7",
+    "source": "BBC — Top Stories",
+    "title": "Davey urges US cancer scientists to come to UK",
+    "summary": "The Lib Dem leader will use his party conference speech to attack Donald Trump's \"anti-science agenda\".",
+    "url": "https://www.bbc.com/news/articles/c98en3pdxljo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T23:04:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9940/live/01111700-97d9-11f0-b48d-eb3b631c9a51.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-62c563890b",
+    "source": "BBC — Top Stories",
+    "title": "How the simmering row over freedom of speech reached boiling point",
+    "summary": "How did we reach a point where the UK is being compared to a 'tin pot Third World dictatorship'?",
+    "url": "https://www.bbc.com/news/articles/c62ln7mzd5ro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T23:00:07Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e51/live/2456f2a0-9547-11f0-b391-6936825093bd.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-105b442817",
+    "source": "BBC — Top Stories",
+    "title": "Copenhagen Airport reopens after drone sightings",
+    "summary": "Take-offs and landings at the airport have been suspended since around 20:30 local time (19:30 BST).",
+    "url": "https://www.bbc.com/news/articles/cn4lj1yvgvgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T22:59:39Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3b8/live/b82541c0-97f0-11f0-be9f-872dac3e9076.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-67d378bf76",
+    "source": "BBC — Top Stories",
+    "title": "Duchess of York dropped from multiple charities over Epstein email",
+    "summary": "Seven charities, including the Teenage Cancer Trust, remove the former wife of Prince Andrew as a patron or ambassador.",
+    "url": "https://www.bbc.com/news/articles/cddmr6v0jpzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T22:40:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7083/live/48788640-97ad-11f0-a98f-a5aede2eafbc.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-2429cb25b5",
+    "source": "BBC — Top Stories",
+    "title": "Jimmy Kimmel show to return after suspension over Charlie Kirk comments",
+    "summary": "The late-night comic's show will return to air after Disney said it had \"thoughtful coversations\" with him.",
+    "url": "https://www.bbc.com/news/articles/c701jr01dj2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T22:12:14Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a8f/live/3a2c90b0-97fb-11f0-be80-2974137b337f.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-8e50b4e58e",
     "source": "BBC — Top Stories",
-    "title": "Trump links pain reliever Tylenol to autism - but many experts are sceptical",
+    "title": "Trump urges pregnant women to avoid Tylenol over unproven autism link",
     "summary": "Some studies have suggested an association between the two, but experts say there is no causal relationship.",
     "url": "https://www.bbc.com/news/articles/cx20d4lr67lo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T22:10:45Z",
@@ -48,30 +120,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-105b442817",
-    "source": "BBC — Top Stories",
-    "title": "Copenhagen Airport shut after drone sightings",
-    "summary": "Take-offs and landings at the airport have been suspended since around 20:30 local time (19:30 BST).",
-    "url": "https://www.bbc.com/news/articles/cn4lj1yvgvgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T21:15:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3b8/live/b82541c0-97f0-11f0-be9f-872dac3e9076.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-37a1a0151e",
-    "source": "BBC — Top Stories",
-    "title": "Nvidia to invest $100bn in OpenAI",
-    "summary": "Nvidia says it will supply high-performance chips needed for OpenAI's data centres.",
-    "url": "https://www.bbc.com/news/articles/c0knp3557j2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T21:00:21Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8529/live/499529f0-97e6-11f0-8f46-6b3a3352ef22.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-3533534c26",
     "source": "BBC — Top Stories",
     "title": "Tearful Dembele wins Ballon d'Or as PSG dominate",
@@ -91,18 +139,6 @@
     "url": "https://www.politico.eu/article/france-palestinian-statehood-emmanuel-macron-un-general-assembly/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-22T20:38:58Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/22/GettyImages-2236794486-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-59946d7789",
-    "source": "BBC — Top Stories",
-    "title": "Lib Dems have moral duty to defeat Farage, says Davey",
-    "summary": "Speaking at the Lib Dem conference. Sir Ed tells the BBC he's afraid of Nigel Farage and is offering \"radical change\".",
-    "url": "https://www.bbc.com/news/articles/c33rp46nr1jo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T19:29:19Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7256/live/e3107cc0-97c7-11f0-af62-91486a511a31.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -139,18 +175,6 @@
     "url": "https://www.politico.com/news/2025/09/22/white-house-palestinian-statehood-reward-hamas-00575329?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-22T19:01:55Z",
     "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-67d378bf76",
-    "source": "BBC — Top Stories",
-    "title": "Duchess of York dropped from multiple charities over Epstein email",
-    "summary": "Seven charities, including the Teenage Cancer Trust, remove the former wife of Prince Andrew as a patron or ambassador.",
-    "url": "https://www.bbc.com/news/articles/cddmr6v0jpzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T18:57:56Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7083/live/48788640-97ad-11f0-a98f-a5aede2eafbc.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -210,7 +234,7 @@
     "summary": "Russia shrugs off criticism as Poland and Estonia speak about incursions at emergency meeting of UN security council European allies have vowed to shoot down any Russian aircraft violating their airspace after Nato members accused Moscow of repeated incursions into the alliance’s territory in recent weeks. “If another missile or aircraft enters our space without permission, deliberately or by mistake, and gets shot down and the wreckage falls on Nato territory, please don’t come here to whine about it,” Poland’s foreign minister, Radosław Sikorski, told an emergency meeting of the UN security council in New York on Monday that was called to discuss a Russian airspace incursion over Estonia. Continue reading...",
     "url": "https://www.theguardian.com/world/2025/sep/22/uk-and-poland-vow-to-confront-russian-aircraft-violating-nato-airspace",
     "published": "2025-09-22T18:04:39Z",
-    "image_url": "https://i.guim.co.uk/img/media/3e5744e606d9d33385292e5513f01beef1769bec/633_664_3546_2839/master/3546.jpg?width=140&quality=85&auto=format&fit=max&s=db9dd0d70d436367f1dcdba36605c9ef",
+    "image_url": "https://i.guim.co.uk/img/media/e3871986db777270fe301788bbe9c94704e5be38/495_397_1036_829/master/1036.jpg?width=140&quality=85&auto=format&fit=max&s=7090d43e7fed5f2df0229a729d3118b0",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -300,18 +324,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-6bce29daa6",
-    "source": "BBC — Top Stories",
-    "title": "Bodycare to disappear from High Street with all stores to close",
-    "summary": "Administrators say the business is \"no longer viable to continue\" trading and a sale is \"unlikely\".",
-    "url": "https://www.bbc.com/news/articles/clyd9rk3ljko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T17:13:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c4c/live/f270cf40-97cb-11f0-9dd8-57dfaa725755.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-c83c0779a5",
     "source": "The Guardian — UK",
     "title": "A glut of VIPs and a heckled minister see Palestinian flag raised at London’s newest embassy",
@@ -343,18 +355,6 @@
     "url": "https://www.politico.eu/article/les-dessous-de-la-revolte-de-lindustrie-du-porno-contre-la-reglementation-du-numerique/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-22T16:45:47Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/Untitled_Artwork-scaled.gif",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-175d6cdbf6",
-    "source": "BBC — Top Stories",
-    "title": "Reform wants to scrap indefinite leave to remain - how many people would be affected?",
-    "summary": "Under the plans, migrants would need to reapply for new visas with tougher rules.",
-    "url": "https://www.bbc.com/news/videos/c2ejmwrwj7mo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T16:37:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce4/live/090866f0-97d1-11f0-af62-91486a511a31.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
