@@ -1,8 +1,44 @@
 [
   {
+    "id": "The Guardian — UK-bff401137b",
+    "source": "The Guardian — UK",
+    "title": "Flight delays continue across Europe after weekend cyber-attack",
+    "summary": "Software provider Collins Aerospace completing updates after Heathrow, Brussels and Berlin hit by problems Business live – latest updates Passengers are facing another day of flight delays across Europe, as big airports continue to grapple with the aftermath of a cyber-attack on the company behind the software used for check-in and boarding. Several of the largest airports in Europe, including London Heathrow, have been trying to restore normal operations over the past few days after an attack on Friday disrupted automatic check-in and boarding software. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/sep/22/flight-delays-europe-cyber-attack-heathrow-brussels-berlin",
+    "published": "2025-09-22T08:03:11Z",
+    "image_url": "https://i.guim.co.uk/img/media/667eb3aa5935cdc4ed0a81043c231cb8b530d0ac/325_0_3361_2688/master/3361.jpg?width=140&quality=85&auto=format&fit=max&s=d695bf1f9885c88ca12e39a0e68652b1",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-327594605d",
+    "source": "The Guardian — UK",
+    "title": "Farage vows to scrap settled status, placing thousands at risk of deportation",
+    "summary": "Reform UK plans to force non-citizens to apply for visas with high salary thresholds and no access to NHS services Nigel Farage has said Reform UK would scrap the main route that migrants take to gain British citizenship, leaving tens of thousands of legally settled people facing deportation unless they met strict rules. Farage said the plans would tackle the “Boriswave” – the increase in the number of legal migrants who came to work in the UK under post-Brexit migration rules established under Boris Johnson. Much of that increase was because of schemes from Ukraine, Hong Kong and Afghanistan to settle refugees. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/22/farage-vows-to-scrap-settled-status-placing-thousands-at-risk-of-deportation",
+    "published": "2025-09-22T07:51:34Z",
+    "image_url": "https://i.guim.co.uk/img/media/d86ec0589913b647e0cd2ba01b8d46b17db1a4ee/433_43_2995_2396/master/2995.jpg?width=140&quality=85&auto=format&fit=max&s=91550ebcb4e7a1d3293917b2f0d3da34",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-8db2131c51",
+    "source": "BBC — Top Stories",
+    "title": "Gatwick second runway plan approved by transport secretary",
+    "summary": "There has been strong opposition against the airport wanting to use its northern runway.",
+    "url": "https://www.bbc.com/news/articles/c9v7rz24z23o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T07:50:09Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2524/live/ba7433e0-9779-11f0-84c8-99de564f0440.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-8f0705b650",
     "source": "BBC — Top Stories",
-    "title": "UK warns Israel not to retaliate against Palestinian statehood push",
+    "title": "UK says Israel must not retaliate against Palestinian statehood push",
     "summary": "Yvette Cooper spoke to the BBC as France and more countries prepare to follow the UK and recognise Palestinian statehood.",
     "url": "https://www.bbc.com/news/articles/c1wggrdn9dno?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T07:19:25Z",
@@ -36,33 +72,9 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-dcdc395834",
-    "source": "BBC — Top Stories",
-    "title": "PM's 'knee-bending' to Trump is 'cringey', says Clegg",
-    "summary": "The former deputy PM says Starmer and Trump's relationship is \"getting a bit embarrassing\".",
-    "url": "https://www.bbc.com/news/articles/c1l881vnv2no?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T06:09:58Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/109f/live/a537a8e0-9733-11f0-85fa-7b56c173fde7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-8db2131c51",
-    "source": "BBC — Top Stories",
-    "title": "Gatwick second runway plan approved by transport secretary",
-    "summary": "There has been strong opposition against the airport wanting to use its northern runway.",
-    "url": "https://www.bbc.com/news/articles/c9v7rz24z23o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T06:06:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2524/live/ba7433e0-9779-11f0-84c8-99de564f0440.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-1b62ced7b1",
     "source": "BBC — Top Stories",
-    "title": "Olympic sports calendar needed because of climate change, Sebastian Coe says",
+    "title": "New Olympic calendar likely because of climate change, says Sebastian Coe",
     "summary": "World Athletics president Sebastian Coe says the global calendar of Olympic sports may need to be \"re-engineered\" amid the challenges posed by climate change.",
     "url": "https://www.bbc.com/sport/athletics/articles/c5yj0wyje7lo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T06:06:01Z",
@@ -102,7 +114,7 @@
     "summary": "We look at how six of the key contenders for the 2025 men's and women's Ballon d'Or awards performed last season.",
     "url": "https://www.bbc.com/sport/football/articles/cq536ln0zwno?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T05:51:25Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02c9/live/ee839350-977a-11f0-9cf6-cbf3e73ce2b9.png",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895e/live/4e148a70-978c-11f0-84c8-99de564f0440.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -144,6 +156,18 @@
     "cluster_id": null
   },
   {
+    "id": "The Guardian — UK-211a061dcf",
+    "source": "The Guardian — UK",
+    "title": "Ministers could give mayors control of schools and hospitals in devolution shake-up",
+    "summary": "Exclusive: Labour Together report, endorsed by Steve Reed, says devolving power can improve services while saving money Labour thinktank hopes Starmer will devolve more power to his potential rivals Ministers are drawing up plans to give mayors significant new powers over hospitals and schools as part of a new wave of devolution that could change how public services are run in England. Steve Reed, the local government secretary, wants to give mayors control over many more local services, and is weighing up handing over some NHS services and even parts of the criminal justice system. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/22/ministers-could-give-mayors-control-of-schools-and-hospitals-in-devolution-shake-up",
+    "published": "2025-09-22T05:00:05Z",
+    "image_url": "https://i.guim.co.uk/img/media/5154027eb642ec63da5ee876dcf11f3fc89f1223/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=da8b564a416d361a76f1b564978fda32",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-c939d87f6a",
     "source": "The Guardian — UK",
     "title": "More than 150 lawyers and refugee NGOs report being ‘pressured into silence’ by far-right protesters",
@@ -151,18 +175,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/22/more-than-150-lawyers-and-refugee-ngos-report-being-pressured-into-silence-by-far-right-protesters",
     "published": "2025-09-22T05:00:05Z",
     "image_url": "https://i.guim.co.uk/img/media/225615b4a89d3df44a5a433f5d36b4ed91ec48e4/24_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=4b512b44e5b809ec9549a1a93959ed35",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-211a061dcf",
-    "source": "The Guardian — UK",
-    "title": "Ministers could give mayors control of schools and hospitals in devolution shake-up",
-    "summary": "Exclusive: Labour Together report, endorsed by Steve Reed, says devolving power can improve services while saving money Labour thinktank hopes Starmer will devolve more power to his potential rivals Ministers are drawing up plans to give mayors significant new powers over hospitals and schools as part of a new wave of devolution that could change how public services are run in England. Steve Reed, the local government secretary, wants to give mayors control over many more local services, and is weighing up handing over some NHS services and even parts of the criminal justice system. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/22/ministers-could-give-mayors-control-of-schools-and-hospitals-in-devolution-shake-up",
-    "published": "2025-09-22T05:00:05Z",
-    "image_url": "https://i.guim.co.uk/img/media/95aee6373a17d50aa6c400c9ddb9706c8e4825d0/1091_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=90e903b05cf8b29d81316df889aa1a67",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -186,7 +198,19 @@
     "summary": "Families affected by a rare inherited disease say they have had to \"scramble\" for information.",
     "url": "https://www.bbc.com/news/articles/cn0qqvyrdkwo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T04:58:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f31e/live/fe29e000-96f0-11f0-b421-1f7adb2b0f32.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3776/live/43fc4560-978b-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-f527640c6a",
+    "source": "Politico — UK",
+    "title": "The 17 European Parliament lawmakers you should watch this season",
+    "summary": "Of all 720 MEPs, here's a select group to keep eyes on.",
+    "url": "https://www.politico.eu/article/17-europe-parliament-lawmakers-meps-to-watch/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-22T04:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/10/mep-2025-meps-feat01.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -254,7 +278,7 @@
   {
     "id": "Politico — UK-190b97b6b3",
     "source": "Politico — UK",
-    "title": "EU aims to ‘Le Pen proof’ its budget with swift deal by 2026",
+    "title": "EU aims to ‘Le Pen-proof’ its budget with swift deal by 2026",
     "summary": "Fast-tracking talks would shield the next budget from a possible win by the far right in France.",
     "url": "https://www.politico.eu/article/eu-aims-france-marine-le-pen-proof-budget-deal-2026-election-far-right/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-22T02:20:00Z",
@@ -276,22 +300,10 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-3ee3fd50f5",
-    "source": "Politico — UK",
-    "title": "Inside the porn industry’s revolt against tech rules",
-    "summary": "The porn industry says measures to keep children away from adult content are ultimately driven by puritanical ethics.",
-    "url": "https://www.politico.eu/article/porn-industry-austrian-marcello-bravo-tech-rules-eu-policy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-22T02:18:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/Untitled_Artwork-scaled.gif",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-1a9b726404",
     "source": "BBC — Top Stories",
-    "title": "Trump hails Charlie Kirk as 'American hero' as thousands fill memorial service",
-    "summary": "Kirk's widow, Erika, also delivers a tearful speech, saying she forgives her husband's alleged killer.",
+    "title": "Trump hails Charlie Kirk as 'martyr' as thousands fill memorial service",
+    "summary": "The US president broke with the forgiveness message of Kirk's widow, Erika, to say he hated his opponents.",
     "url": "https://www.bbc.com/news/articles/ckgee0x9p40o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T02:09:32Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb56/live/e9a18490-9780-11f0-9cf6-cbf3e73ce2b9.jpg",
@@ -306,7 +318,7 @@
     "summary": "Music can evoke powerful memories and offers a sense of normality for people dealing with illness or death.",
     "url": "https://www.bbc.com/news/articles/c3e7n40vyx2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T00:28:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1614/live/5a226a30-966a-11f0-8df9-932f955c0ec8.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd3/live/df4f8650-9789-11f0-a4bc-e5c9e246a537.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -326,11 +338,11 @@
   {
     "id": "BBC — Top Stories-03cf39a732",
     "source": "BBC — Top Stories",
-    "title": "Watch: Prayer, tears and a Trump-Musk handshake at Kirk memorial",
+    "title": "Watch: 'I forgive my husband's killer', Charlie Kirk's widow says",
     "summary": "The five-hour service saw top officials from the Trump administration pay tribute to the conservative activist.",
     "url": "https://www.bbc.com/news/videos/c1kwwxgmn21o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-21T23:40:46Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ea/live/04cb42a0-9746-11f0-84c8-99de564f0440.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b434/live/f12eb0f0-978c-11f0-90f2-5f87cb020b24.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -338,7 +350,7 @@
   {
     "id": "BBC — Top Stories-706a856c7d",
     "source": "BBC — Top Stories",
-    "title": "Welfare reform 'must happen', minister says",
+    "title": "Welfare reform 'must happen' to address rising benefits cost, minister says",
     "summary": "The Work and Pensions Secretary tells the BBC he will press ahead with welfare system changes.",
     "url": "https://www.bbc.com/news/articles/ckg3jl0ylkyo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-21T23:10:02Z",
@@ -350,7 +362,7 @@
   {
     "id": "BBC — Top Stories-acc9318fca",
     "source": "BBC — Top Stories",
-    "title": "Sultana looks to 'reconcile' with Corbyn after party row",
+    "title": "Zarah Sultana looks to 'reconcile' with Jeremy Corbyn after new party row",
     "summary": "Post on social media comes after the ex-Labour MPs clashed over the formation of their fledgling left-wing party.",
     "url": "https://www.bbc.com/news/articles/c0q77y25l48o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-21T22:27:29Z",
@@ -420,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-b10d2be14d",
-    "source": "The Guardian — UK",
-    "title": "What role has Britain played in the history of Israel and Palestine?",
-    "summary": "British politicians were heavily involved in region in early to mid 1900s, as Israel was established and Palestinians displaced In announcing at the UN in July that the UK would recognise a Palestinian state, the UK foreign secretary, David Lammy, said he felt the hand of history on his shoulders. That is not altogether unsurprising, since no European state has played a longer or more controversial role in handling the Palestinian people’s right to self-determination. These are some of the key moments for Britain’s involvement. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/sep/21/what-role-has-britain-played-in-the-history-of-israel-and-palestine",
-    "published": "2025-09-21T18:35:32Z",
-    "image_url": "https://i.guim.co.uk/img/media/4cb4100d2999d15aa313ef3f45873301ac56e015/173_0_4688_3750/master/4688.jpg?width=140&quality=85&auto=format&fit=max&s=4d3e5d1bc56b424b9434715027c67a96",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-60d2f4378d",
     "source": "BBC — Top Stories",
     "title": "UK rewarding Hamas, says mother of freed British-Israeli hostage",
@@ -451,6 +451,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/21/uk-recognises-palestine-as-an-independent-state",
     "published": "2025-09-21T18:09:28Z",
     "image_url": "https://i.guim.co.uk/img/media/6f71b90037423d75d8f07054b07a14c9c79c7637/0_1082_3958_3164/master/3958.jpg?width=140&quality=85&auto=format&fit=max&s=67f301e65a636468f72126e3f5c0b138",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-455e28b42e",
+    "source": "The Guardian — UK",
+    "title": "Lib Dems should ditch Ed Davey’s stunts and talk policy, survey finds",
+    "summary": "Thinktank poll reveals voters unclear what party stands for despite photo opportunities winning more media coverage The Liberal Democrats should drop their stunts and offer a more serious policy programme if they want to gain support among voters, according to a study presented at the party’s annual conference. Polling by the More in Common thinktank, shown to Lib Dem members at the gathering in Bournemouth, suggested that while it has the scope to go beyond its historic total of 72 MPs at the last election, many voters tempted by the party remain uncertain about what it stands for. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/21/lib-dems-should-ditch-ed-daveys-stunts-and-talk-policy-survey-finds",
+    "published": "2025-09-21T17:55:23Z",
+    "image_url": "https://i.guim.co.uk/img/media/a8a8e23dca761ffa335face0d8a741945a9cccb2/282_1_1831_1464/master/1831.jpg?width=140&quality=85&auto=format&fit=max&s=2639e8bec81cd0396d4d3752de9a462b",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -516,25 +528,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-6cec888a98",
-    "source": "The Guardian — UK",
-    "title": "Publisher criticises Reform council’s ‘Trumpian’ boycott of Nottingham Post",
-    "summary": "Reach’s chief content officer says issue is part of a national trend that goes wider than the party The publisher of the Nottingham Post has spoken of an “increasingly Trumpian approach” to the media creeping into British politics, amid a Reform-led council’s continuing ban against the title. The 150-year-old paper, as well as its website, Nottinghamshire Live, have been prevented from speaking to Reform’s Nottingham county council leader, Mick Barton, while he has also prevented the titles from receiving updates and press releases. Continue reading...",
-    "url": "https://www.theguardian.com/media/2025/sep/21/reform-council-trumpian-boycott-nottingham-post",
-    "published": "2025-09-21T13:35:43Z",
-    "image_url": "https://i.guim.co.uk/img/media/621348df62a58cb90abb9a3ff066d9b47b4f85cc/154_136_2838_2271/master/2838.jpg?width=140&quality=85&auto=format&fit=max&s=f1711a2e6fe331109614e3f798db8d08",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-d28e8c3fcb",
-    "source": "The Guardian — UK",
-    "title": "Lammy hints at U-turn to allow Palestinian scholars to bring children to UK",
-    "summary": "Group of students from Gaza with places at British universities are due to arrive in the UK within days David Lammy has hinted that the UK government could U-turn to allow Palestinian scholars to bring their children to the UK. A group of 34 Palestinian students, including Chevening scholars, with places at British universities have been given permission to continue their studies in Britain. But nearly all have been told by the Foreign Office that they are not allowed to bring their children with them. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/21/lammy-hints-at-u-turn-to-allow-palestinian-scholars-bring-children-to-uk",
-    "published": "2025-09-21T12:20:08Z",
-    "image_url": "https://i.guim.co.uk/img/media/53f3ee39f726b959e04be15dcd683881957e34ff/119_0_2762_2210/master/2762.jpg?width=140&quality=85&auto=format&fit=max&s=edec683989be90e4bd0186b533e0ecbe",
+    "id": "BBC — Top Stories-322cd327c8",
+    "source": "BBC — Top Stories",
+    "title": "How Russian-funded fake news network aims to disrupt election in Europe - BBC investigation",
+    "summary": "An undercover reporter discovers a network is offering to pay for social media posts undermining Moldova’s ruling party.",
+    "url": "https://www.bbc.com/news/articles/c4g5kl0n5d2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-21T08:26:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfdd/live/d65a2150-9562-11f0-b391-6936825093bd.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
