@@ -1,12 +1,36 @@
 [
   {
+    "id": "BBC — Top Stories-105b442817",
+    "source": "BBC — Top Stories",
+    "title": "Copenhagen Airport shut after drone sightings",
+    "summary": "Take-offs and landings at the airport have been suspended since around 20:30 local time (19:30 BST).",
+    "url": "https://www.bbc.com/news/articles/cn4lj1yvgvgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T21:15:26Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3b8/live/b82541c0-97f0-11f0-be9f-872dac3e9076.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-37a1a0151e",
     "source": "BBC — Top Stories",
     "title": "Nvidia to invest $100bn in OpenAI",
     "summary": "Nvidia says it will supply high-performance chips needed for OpenAI's data centres.",
     "url": "https://www.bbc.com/news/articles/c0knp3557j2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T19:29:23Z",
+    "published": "2025-09-22T21:00:21Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8529/live/499529f0-97e6-11f0-8f46-6b3a3352ef22.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-1e974fe187",
+    "source": "Politico — UK",
+    "title": "France recognizes Palestinian statehood",
+    "summary": "President Emmanuel Macron has led a diplomatic push to get countries to recognize a Palestinian state.",
+    "url": "https://www.politico.eu/article/france-palestinian-statehood-emmanuel-macron-un-general-assembly/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-22T20:38:58Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/22/GettyImages-2236794486-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -348,18 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-bd5e625dde",
-    "source": "BBC — Top Stories",
-    "title": "New Hilary Mantel prize to help emerging writers",
-    "summary": "The prize for emerging writers is being set up to honour the memory of the Devon-based author.",
-    "url": "https://www.bbc.com/news/articles/cly1k25xq30o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T15:07:14Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e35e/live/0e0d99a0-97c1-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-b697875827",
     "source": "Politico — UK",
     "title": "Energy as a sovereignty project: Moldova’s road from crisis to Europe",
@@ -444,18 +456,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-aaa9cb5c40",
-    "source": "Politico — UK",
-    "title": "Moldovan cops raid suspected Russian-backed meddlers before election",
-    "summary": "Authorities have accused Moscow of interfering in multiple votes in the former Soviet republic.",
-    "url": "https://www.politico.eu/article/moldova-launches-pre-election-raids-russia-meddlers-maia-sandu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-22T13:03:24Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/22/12575026-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-327594605d",
     "source": "The Guardian — UK",
     "title": "Farage vows to scrap indefinite leave to remain, placing thousands at risk of deportation",
@@ -475,6 +475,18 @@
     "url": "https://www.theguardian.com/politics/2025/sep/22/insolvent-uk-recruiter-acquired-by-previous-owner-who-took-millions-out",
     "published": "2025-09-22T12:10:01Z",
     "image_url": "https://i.guim.co.uk/img/media/7ce537f4f6e0b96c2b6c4ae2d596952c96366384/0_87_4891_3913/master/4891.jpg?width=140&quality=85&auto=format&fit=max&s=2cdc0d8fc7cdbb8904acefdcc77d09ea",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-8e50b4e58e",
+    "source": "BBC — Top Stories",
+    "title": "Trump will reportedly link pain reliever Tylenol to autism - but many experts are sceptical",
+    "summary": "Some studies have suggested an association between the two, but experts say there is no causal relationship.",
+    "url": "https://www.bbc.com/news/articles/cx20d4lr67lo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T11:33:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd6/live/8b5ddf10-979d-11f0-84a3-e314c0b97a4c.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -547,18 +559,6 @@
     "url": "https://www.bbc.com/news/articles/c3e7n40vyx2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T00:28:03Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc1/live/b52b2820-978e-11f0-a4bc-e5c9e246a537.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-706a856c7d",
-    "source": "BBC — Top Stories",
-    "title": "Welfare reform 'must happen' to address rising benefits cost, minister says",
-    "summary": "The Work and Pensions Secretary tells the BBC he will press ahead with welfare system changes.",
-    "url": "https://www.bbc.com/news/articles/ckg3jl0ylkyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-21T23:10:02Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/47dae220-976a-11f0-84c8-99de564f0440.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
