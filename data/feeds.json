@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-94e4d7b4a7",
+    "source": "BBC — Top Stories",
+    "title": "Lulu: Telling the world I'm an alcoholic was liberating",
+    "summary": "The Shout singer reveals her secret struggle with drink - and how she's stayed sober for 12 years.",
+    "url": "https://www.bbc.com/news/articles/c4g7p8l8214o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T23:09:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29e7/live/30cde1c0-9875-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9174bf48f5",
+    "source": "BBC — Top Stories",
+    "title": "What's the best period product for me?",
+    "summary": "Here is a guide to how each product works and the pros and cons to help you decide what might suit you.",
+    "url": "https://www.bbc.com/news/articles/cgl1z3jxy56o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T23:02:07Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30d4/live/7fe18ea0-9556-11f0-a9d0-b91ec0b66439.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-aec78b55f0",
+    "source": "BBC — Top Stories",
+    "title": "More young people say rising bills now stopping them moving out",
+    "summary": "A growing number of young adults now say the rising cost of running a home means they can't afford their own place.",
+    "url": "https://www.bbc.com/news/articles/cq65m95gqdjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T23:01:07Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18ce/live/0d271e70-93d5-11f0-bab6-4787ef35d8ed.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-09ba7d4002",
+    "source": "Politico — UK",
+    "title": "EU-Iran sanctions talks fail to yield breakthrough with deadline looming",
+    "summary": "Europe wants to avert sanctions against Iran but its diplomats admit Tehran isn't budging on its nuclear program.",
+    "url": "https://www.politico.eu/article/eu-iran-sanctions-deadline-un-kaja-kallas-defense-foreign-ministry-nuclear/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-23T22:48:42Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/24/GettyImages-2235718410-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-fccbdae63d",
+    "source": "BBC — Top Stories",
+    "title": "Gaza City medics overwhelmed by casualties from Israeli strikes",
+    "summary": "Two Australian doctors volunteering at al-Shifa hospital say they are having to carry out operations in filthy conditions with few or no anaesthetics.",
+    "url": "https://www.bbc.com/news/articles/cgknzk46kz6o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T22:30:43Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8159/live/375c58a0-98ca-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-af4fe3f9a6",
     "source": "BBC — Top Stories",
     "title": "Killed seeking food - Jeremy Bowen on Abdullah's shooting and Gaza's lethal aid system",
@@ -39,7 +99,7 @@
     "id": "BBC — Top Stories-29fb2ac571",
     "source": "BBC — Top Stories",
     "title": "Kyiv can win all of Ukraine back from Russia, Trump says",
-    "summary": "He says Ukraine can win back land with support from Nato and Europe, marking a major shift in his position.",
+    "summary": "The US president says Ukraine can win back land with support from Nato and Europe, marking a major shift in his position.",
     "url": "https://www.bbc.com/news/articles/c07vm35rryeo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T20:50:23Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3794/live/982fd820-98aa-11f0-928c-71dbb8619e94.jpg",
@@ -228,18 +288,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-f7aebc621e",
-    "source": "BBC — Top Stories",
-    "title": "Amazon to close its UK grocery stores",
-    "summary": "The online retail giant says it would convert five of the 19 shops into Whole Foods stores.",
-    "url": "https://www.bbc.com/news/articles/cx2xnkkn9ywo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T17:11:29Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc2e/live/a738bca0-987e-11f0-b146-278281693603.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-30b445fbb5",
     "source": "The Guardian — UK",
     "title": "‘Pay no attention’: global health agencies dismiss false Trump claim on everyday painkillers",
@@ -336,30 +384,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-8cb83f142f",
-    "source": "Politico — UK",
-    "title": "EU dismisses Trump claim linking autism to paracetamol use in pregnancy",
-    "summary": "Commission and medicines regulator stress “no evidence” linking paracetamol in pregnancy to autism, countering Trump’s earlier remarks.",
-    "url": "https://www.politico.eu/article/eu-dismiss-donald-trump-claim-autism-paracetamol-use-pregnancy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-23T15:34:55Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/23/GettyImages-1090299214-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-2963c5e436",
-    "source": "BBC — Top Stories",
-    "title": "Nasa plans first crewed Moon mission in 50 years for February 2026",
-    "summary": "The mission around the Moon will pave the way for a lunar landing as soon as 2027.",
-    "url": "https://www.bbc.com/news/articles/cy7pegvz17yo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T15:29:27Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e57/live/d786ec00-9898-11f0-9b4d-3db5bd560027.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-f8d06cd333",
     "source": "BBC — Top Stories",
     "title": "How Dickie Bird became a cricket legend without scoring a run for England",
@@ -391,18 +415,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/23/hongkongers-permanent-residency-uk-economy-value",
     "published": "2025-09-23T14:14:02Z",
     "image_url": "https://i.guim.co.uk/img/media/fb9e6a8bc73dddc38f614713f0e181c8202ae357/302_0_2869_2296/master/2869.jpg?width=140&quality=85&auto=format&fit=max&s=07a88368c826f22c1b48db91cd4b5a26",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b202bc05c7",
-    "source": "BBC — Top Stories",
-    "title": "'We need solutions': Palestinians in West Bank fear recognition is not enough",
-    "summary": "Many are concerned Israel may attempt to annex the occupied territory in response to several countries recognising Palestinian statehood.",
-    "url": "https://www.bbc.com/news/articles/cre5x8qxrqno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T13:53:14Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa78/live/ea24a750-987d-11f0-b146-278281693603.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -487,18 +499,6 @@
     "url": "https://www.bbc.com/weather/articles/cd72r5ynr9jo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T10:55:05Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c257/live/9a926ff0-984c-11f0-b522-917eeb94e02f.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3abc5e51d8",
-    "source": "BBC — Top Stories",
-    "title": "I didn't want sex with my husband after having our baby",
-    "summary": "Both women and men can experience a loss of libido after having a child, here's what can help.",
-    "url": "https://www.bbc.com/news/articles/cwywnlyg3xxo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T10:19:29Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8f5/live/c0d60430-9557-11f0-b830-3f3c6ed9c9f6.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
