@@ -1,12 +1,60 @@
 [
   {
+    "id": "BBC — Top Stories-0752913be2",
+    "source": "BBC — Top Stories",
+    "title": "The Gen Z revolution in Asia shows the power of the young - and their limits",
+    "summary": "Anti-corruption demonstrations, powered by social media, have toppled a government - but will they lead to lasting change?",
+    "url": "https://www.bbc.com/news/articles/cn4ljv39em7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T21:01:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab8e/live/f5e292a0-9869-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e8abe8ccde",
+    "source": "BBC — Top Stories",
+    "title": "Man found guilty of attempting to assassinate Trump in Florida",
+    "summary": "Ryan Routh, 59, was spotted hiding in bushes with a rifle at the president's Florida golf club last year.",
+    "url": "https://www.bbc.com/news/articles/c9wdv0118npo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T20:39:32Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f457/live/d817d7d0-988c-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-c45c37d73d",
+    "source": "The Guardian — UK",
+    "title": "Tories demand inquiry into claims Labour’s McSweeney misled elections watchdog",
+    "summary": "Starmer’s chief of staff used ‘false excuse’ for failing to declare donations to his former thinktank, Tories claim The Conservatives have called for an investigation into Keir Starmer’s beleaguered chief of staff, Morgan McSweeney, after allegations that he tried to mislead the elections watchdog over donations to a Labour thinktank he ran while in opposition. The organisation, Labour Together, was fined £14,250 by the Electoral Commission in 2021 over its handling of almost £740,000 of donations. The Tories have claimed that it used a “false excuse” of administrative errors. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/23/tories-demand-inquiry-into-claims-labours-mcsweeney-misled-elections-watchdog",
+    "published": "2025-09-23T20:33:33Z",
+    "image_url": "https://i.guim.co.uk/img/media/e273bb5d22ba636b3bbad098625ec75f0345b1e2/1345_320_2648_2119/master/2648.jpg?width=140&quality=85&auto=format&fit=max&s=e6f5618ab0ffbaaca5d0612186d4c00c",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5943dcbe18",
+    "source": "BBC — Top Stories",
+    "title": "Dani Dyer pulls out of Strictly with broken ankle",
+    "summary": "The TV presonality says she \"landed funny\" in training on Friday and a scan has confirmed a fracture.",
+    "url": "https://www.bbc.com/news/articles/c98d6z1j9neo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T20:26:32Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c869/live/cd055240-98a1-11f0-b37c-21373da9ac07.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-b1f6d23702",
     "source": "BBC — Top Stories",
     "title": "Six years ago Trump's UN audience laughed, this year they were silent",
     "summary": "The US leader's address was one of the clearest expositions of the way he sees the world, writes James Landale.",
     "url": "https://www.bbc.com/news/articles/c179p4wvz29o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T19:51:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c92/live/51281f70-98b2-11f0-af62-91486a511a31.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc86/live/a8097b80-98bd-11f0-858a-a904eacbef23.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -19,18 +67,6 @@
     "url": "https://www.politico.com/news/2025/09/23/trump-nato-shoot-down-russia-00576909?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-23T19:39:34Z",
     "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e8abe8ccde",
-    "source": "BBC — Top Stories",
-    "title": "Man found guilty of attempting to assassinate Trump in Florida",
-    "summary": "Ryan Routh, 59, was spotted hiding in bushes with a rifle at the president's Florida golf club last year.",
-    "url": "https://www.bbc.com/news/articles/c9wdv0118npo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T19:29:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f457/live/d817d7d0-988c-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -156,18 +192,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-5943dcbe18",
-    "source": "BBC — Top Stories",
-    "title": "Dani Dyer pulls out of Strictly with broken ankle",
-    "summary": "The TV presonality says she \"landed funny\" in training on Friday and a scan has confirmed a fracture.",
-    "url": "https://www.bbc.com/news/articles/c98d6z1j9neo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T17:29:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c869/live/cd055240-98a1-11f0-b37c-21373da9ac07.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-19a24a5b98",
     "source": "Politico — UK",
     "title": "Ed Davey debriefed: Why so much about Nigel Farage?",
@@ -240,18 +264,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-72eb8e85f0",
-    "source": "The Guardian — UK",
-    "title": "Civil servants may feel ‘under attack’ after new rules briefed to media, UK ministers told",
-    "summary": "Guidance that meetings should be held outside working hours was published in Telegraph with quote about ‘nonsense’ events UK politics live – latest updates Ministers have been warned that they risk civil servants feeling attacked after new guidance was published banning staff network meetings in working hours. The document said civil servants should make sure cross-government networks remained impartial, and brought in a requirement for senior managers to sign off events. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/23/uk-civil-servants-staff-network-meeting-rules",
-    "published": "2025-09-23T16:44:34Z",
-    "image_url": "https://i.guim.co.uk/img/media/aa16defe177029710f28200a4e366c175da792f9/89_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=47c5ae42cf3a154a80986fe10c97c10d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-d78f262792",
     "source": "Politico — UK",
     "title": "Trump says he’ll talk to EU countries about turning screws on Putin",
@@ -295,18 +307,6 @@
     "url": "https://www.politico.eu/article/eu-to-send-booze-to-indonesia-trade/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-23T16:01:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/23/GettyImages-1912161987-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-cb0c275a22",
-    "source": "BBC — Top Stories",
-    "title": "Epping hotel asylum seeker jailed for 12 months over sex assaults that sparked protests",
-    "summary": "Hadush Kebatu assaulted a girl eight days after he arrived in the UK by small boat.",
-    "url": "https://www.bbc.com/news/articles/cp8j5vp7413o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T16:00:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c19f/live/b5953180-9873-11f0-928c-71dbb8619e94.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
