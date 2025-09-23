@@ -1,5 +1,29 @@
 [
   {
+    "id": "BBC — Top Stories-af4fe3f9a6",
+    "source": "BBC — Top Stories",
+    "title": "Killed seeking food - Jeremy Bowen on Abdullah's shooting and Gaza's lethal aid system",
+    "summary": "Inside Panorama and BBC Eye's investigation into hunger in Gaza and why so many are risking their lives for aid.",
+    "url": "https://www.bbc.com/news/articles/c75qr0gk0yqo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T21:39:22Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1922/live/72e96d30-98ad-11f0-af62-91486a511a31.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d23138f6fe",
+    "source": "BBC — Top Stories",
+    "title": "Chris Mason: Punchy Lib Dems use Reform UK as call to action",
+    "summary": "The party is taking on Nigel Farage in a way Labour and the Tories either can't or won't, our political editor writes.",
+    "url": "https://www.bbc.com/news/articles/cvg97gq8230o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T21:30:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/394f/live/cea11a60-98c1-11f0-94c0-d393b11c46d7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-0752913be2",
     "source": "BBC — Top Stories",
     "title": "The Gen Z revolution in Asia shows the power of the young - and their limits",
@@ -7,6 +31,18 @@
     "url": "https://www.bbc.com/news/articles/cn4ljv39em7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T21:01:49Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab8e/live/f5e292a0-9869-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-29fb2ac571",
+    "source": "BBC — Top Stories",
+    "title": "Kyiv can win all of Ukraine back from Russia, Trump says",
+    "summary": "He says Ukraine can win back land with support from Nato and Europe, marking a major shift in his position.",
+    "url": "https://www.bbc.com/news/articles/c07vm35rryeo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T20:50:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3794/live/982fd820-98aa-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -27,7 +63,7 @@
     "id": "The Guardian — UK-c45c37d73d",
     "source": "The Guardian — UK",
     "title": "Tories demand inquiry into claims Labour’s McSweeney misled elections watchdog",
-    "summary": "Starmer’s chief of staff used ‘false excuse’ for failing to declare donations to his former thinktank, Tories claim The Conservatives have called for an investigation into Keir Starmer’s beleaguered chief of staff, Morgan McSweeney, after allegations that he tried to mislead the elections watchdog over donations to a Labour thinktank he ran while in opposition. The organisation, Labour Together, was fined £14,250 by the Electoral Commission in 2021 over its handling of almost £740,000 of donations. The Tories have claimed that it used a “false excuse” of administrative errors. Continue reading...",
+    "summary": "Starmer’s chief of staff used ‘false excuse’ for failing to declare donations to his former thinktank, Conservatives claim The Conservatives have called for an investigation into Keir Starmer’s beleaguered chief of staff, Morgan McSweeney, after allegations he tried to mislead the elections watchdog over donations to a Labour thinktank he ran while in opposition. The organisation, Labour Together, was fined £14,250 by the Electoral Commission in 2021 over its handling of almost £740,000 of donations. The Tories have claimed that it used a “false excuse” of administrative errors. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/23/tories-demand-inquiry-into-claims-labours-mcsweeney-misled-elections-watchdog",
     "published": "2025-09-23T20:33:33Z",
     "image_url": "https://i.guim.co.uk/img/media/e273bb5d22ba636b3bbad098625ec75f0345b1e2/1345_320_2648_2119/master/2648.jpg?width=140&quality=85&auto=format&fit=max&s=e6f5618ab0ffbaaca5d0612186d4c00c",
@@ -168,18 +204,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-9210804d6b",
-    "source": "BBC — Top Stories",
-    "title": "Noel Clarke must pay £3m to Guardian after losing legal battle",
-    "summary": "The actor says he's lost \"my work, my savings, my ability to support my family and much of my health\".",
-    "url": "https://www.bbc.com/news/articles/ced56jjnwz1o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T17:40:45Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1727/live/f47c6bc0-9891-11f0-b42a-999ed0e03e41.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-8d03cd6fa3",
     "source": "The Guardian — UK",
     "title": "Donald Trump’s sharia law attack on Sadiq Khan outrages Labour MPs",
@@ -276,18 +300,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-34a7ded574",
-    "source": "BBC — Top Stories",
-    "title": "Cheryl stalker jailed for restraining order breach",
-    "summary": "A man who stalked the singer is jailed for 12 months after turning up at her home.",
-    "url": "https://www.bbc.com/news/articles/ced564v492qo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T16:37:01Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af42/live/16e3e860-00de-11f0-aab7-4fa87103f264.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-4386a17c59",
     "source": "Politico — UK",
     "title": "EU watchdog probes Macron’s text to von der Leyen requesting Mercosur delay",
@@ -331,18 +343,6 @@
     "url": "https://www.politico.eu/article/eu-dismiss-donald-trump-claim-autism-paracetamol-use-pregnancy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-23T15:34:55Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/23/GettyImages-1090299214-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-1fbafbe300",
-    "source": "BBC — Top Stories",
-    "title": "We'll stop Farage turning UK into Trump's America, says Davey",
-    "summary": "The Liberal Democrat leader attacks Nigel Farage in a speech to his party's autumn conference.",
-    "url": "https://www.bbc.com/news/articles/c4g7py75g0ko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T15:32:21Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c06/live/97af9450-9899-11f0-af62-91486a511a31.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
