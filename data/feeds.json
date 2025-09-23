@@ -1,5 +1,29 @@
 [
   {
+    "id": "BBC — Top Stories-105b442817",
+    "source": "BBC — Top Stories",
+    "title": "Copenhagen and Oslo airports forced to close temporarily due to drone sightings",
+    "summary": "Both airports have been reopened, with Danish police unable to confirm where the drones came from.",
+    "url": "https://www.bbc.com/news/articles/cn4lj1yvgvgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T03:05:10Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3b8/live/b82541c0-97f0-11f0-be9f-872dac3e9076.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-48e3a7b25f",
+    "source": "Politico — UK",
+    "title": "Protégeons le médicament : l’urgence d’un choix clair pour la France",
+    "summary": "La spirale du déclassement est enclenchée. Patients privés des progrès thérapeutique, industrie fragilisée, souveraineté menacée... Aujourd’hui plus que jamais, faute d’arbitrage politique clair, la France sacrifie la santé de ces citoyens et la pérennité de tout un secteur.",
+    "url": "https://www.politico.eu/sponsored-content/protegeons-le-medicament-lurgence-dun-choix-clair-pour-la-france/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-23T03:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/19/image1600pxx103238.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-e7e46dd255",
     "source": "Politico — UK",
     "title": "EU readies for time out on enforcing AI rules",
@@ -55,18 +79,6 @@
     "url": "https://www.politico.com/news/2025/09/22/trump-issues-terrorist-organization-antifa-00575921?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-23T02:09:08Z",
     "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-105b442817",
-    "source": "BBC — Top Stories",
-    "title": "Copenhagen Airport reopens after drone sightings as origins still unclear",
-    "summary": "Danish police said that they were unable to confirm the type or the number of drones seen around the airport, or where they flew afterwards.",
-    "url": "https://www.bbc.com/news/articles/cn4lj1yvgvgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T02:06:09Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3b8/live/b82541c0-97f0-11f0-be9f-872dac3e9076.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -204,18 +216,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-42e5ebc4f4",
-    "source": "Politico — UK",
-    "title": "Trump decries Tylenol use by pregnant women",
-    "summary": "His remarks also spurred doctors to warn that they could prompt pregnant women to avoid acetaminophen in situations where it’s warranted and clinically advisable.",
-    "url": "https://www.politico.com/news/2025/09/22/trump-decries-tylenol-use-by-pregnant-women-00575833?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-22T23:36:23Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-cd6a1b4761",
     "source": "BBC — Top Stories",
     "title": "Britain's worst major stations for train cancellations revealed - is yours on the list?",
@@ -326,7 +326,7 @@
   {
     "id": "BBC — Top Stories-439ee46011",
     "source": "BBC — Top Stories",
-    "title": "New GPs rule after 27-year-old's cancer missed",
+    "title": "New rule for GPs after 27-year-old's cancer missed",
     "summary": "Jessica Brady's parents campaigned for the initiative after she made repeated calls to GPs before her death aged 27 from terminal cancer.",
     "url": "https://www.bbc.com/news/articles/cly0428jjpeo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T22:00:47Z",
