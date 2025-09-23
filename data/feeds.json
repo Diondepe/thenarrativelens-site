@@ -1,5 +1,29 @@
 [
   {
+    "id": "Politico — UK-6280d65f86",
+    "source": "Politico — UK",
+    "title": "Is Ed Davey the future of the Lib Dems?",
+    "summary": "What can Sir Ed Davey achieve in 55 minutes? That’s how long his speech to Lib Dem conference delegates is coming in at. Sam, who’s at the conference in Bournemouth, and Anne consider the behind-the-scenes tussles and where the Liberal Democrats are trying to position themselves ahead of the next set of elections. Away from […]",
+    "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/is-ed-davey-the-future-of-the-lib-dems/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-23T07:15:44Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/03/27/PASAA_PODCAST-HERO-16BY9.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-710001849d",
+    "source": "BBC — Top Stories",
+    "title": "Porsche shares plunge after announcing EV rollout delay",
+    "summary": "European carmakers face intense competition from Chinese rivals and weak demand for luxury cars.",
+    "url": "https://www.bbc.com/news/articles/cdr6z6ryxv3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T06:49:47Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fff3/live/11abf140-981d-11f0-9558-4785c3b59242.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-d3a5e92006",
     "source": "The Guardian — UK",
     "title": "Operator pledges to secure Great Britain’s electricity grid against blackouts",
@@ -24,13 +48,25 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-105b442817",
+    "source": "BBC — Top Stories",
+    "title": "Copenhagen and Oslo airports forced to close temporarily due to drone sightings",
+    "summary": "Both airports have been reopened, with Danish police unable to confirm origin of drones.",
+    "url": "https://www.bbc.com/news/articles/cn4lj1yvgvgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T05:31:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3b8/live/b82541c0-97f0-11f0-be9f-872dac3e9076.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-0a38bca09d",
     "source": "BBC — Top Stories",
     "title": "Behind the doors of asylum hotels - what I found when I went inside",
     "summary": "A BBC reporter goes into four hotels and speaks to asylum seekers and staff about what daily life is like.",
     "url": "https://www.bbc.com/news/articles/cwy8ee2w73jo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T05:07:00Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde1/live/09ab6d70-97c0-11f0-af62-91486a511a31.png",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5a2/live/73921240-984a-11f0-af62-91486a511a31.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -55,18 +91,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/23/national-trust-reports-bumper-apple-and-pumpkin-crops-at-its-sites",
     "published": "2025-09-23T05:00:40Z",
     "image_url": "https://i.guim.co.uk/img/media/03ba2a52a08ee4b7890553191cba73d50753a7f3/682_345_3870_3094/master/3870.jpg?width=140&quality=85&auto=format&fit=max&s=d437ab12a839932812ad87d4a01e6406",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4971e41523",
-    "source": "BBC — Top Stories",
-    "title": "Fans flock to mourn iconic Indian singer Zubeen Garg",
-    "summary": "Hundreds of thousands of people gather for a last glimpse of the singer who will be cremated with state honours.",
-    "url": "https://www.bbc.com/news/articles/c8exxep4n00o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T04:59:45Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7082/live/6627ccd0-9769-11f0-a8dc-135f553b0693.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -110,8 +134,8 @@
   {
     "id": "BBC — Top Stories-e351fef162",
     "source": "BBC — Top Stories",
-    "title": "British-Egyptian activist reunited with family",
-    "summary": "After nearly six years in prison, Alaa Abdel Fattah is released from prison in Egypt.",
+    "title": "British-Egyptian activist reunited with family after release from prison",
+    "summary": "Alaa Abdel Fattah, who was imprisoned in Egypt for six years, is reunited with his family in Cairo after being pardoned.",
     "url": "https://www.bbc.com/news/articles/cvg9772q3e1o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T04:03:02Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6697/live/5cf0f4c0-9831-11f0-928c-71dbb8619e94.jpg",
@@ -144,13 +168,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-710001849d",
+    "id": "BBC — Top Stories-ae706e0a63",
     "source": "BBC — Top Stories",
-    "title": "Porsche shares plunge after announcing EV rollout delay",
-    "summary": "European carmakers face intense competition from Chinese rivals and weak demand for luxury cars.",
-    "url": "https://www.bbc.com/news/articles/cdr6z6ryxv3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T03:38:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fff3/live/11abf140-981d-11f0-9558-4785c3b59242.jpg",
+    "title": "Three West African countries to quit UN top court",
+    "summary": "The three military juntas, who came to power through coups, say the judicial body is 'incapable' of handling 'proven war crimes'.",
+    "url": "https://www.bbc.com/news/articles/czjvp0pr3eko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T03:42:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d902/live/b5681460-982e-11f0-af62-91486a511a31.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -242,7 +266,7 @@
   {
     "id": "BBC — Top Stories-8e50b4e58e",
     "source": "BBC — Top Stories",
-    "title": "Trump urges pregnant women to avoid Tylenol over unproven autism link",
+    "title": "Trump makes unproven claims about paracetamol link with autism",
     "summary": "Some studies have suggested an association between the two, but experts say there is no causal relationship.",
     "url": "https://www.bbc.com/news/articles/cx20d4lr67lo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T02:00:38Z",
@@ -276,25 +300,13 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-0d2e4858a8",
-    "source": "Politico — UK",
-    "title": "Russia floods Czech election with disinformation as Babiš leads in polls",
-    "summary": "If the populist right-winger wins he could well side with Putin-friendly EU leaders Orbán and Fico.",
-    "url": "https://www.politico.eu/article/russia-czechia-election-votes-disinformation-vladimir-putin-eu-petr-fiala/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-23T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/22/GettyImages-2235564173-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-b9224bf6ea",
     "source": "BBC — Top Stories",
     "title": "Adolescence writer on new phone-hacking drama: 'It's a celebration of journalists who called out their own industry'",
     "summary": "Jack Thorne says the phone hacking scandal exposed a \"troubling\" relationship between the press and the police.",
     "url": "https://www.bbc.com/news/articles/cwyl598ey4vo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T01:47:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a759/live/985ff310-979d-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65d2/live/73d30850-9849-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -302,7 +314,7 @@
   {
     "id": "BBC — Top Stories-b369a1256c",
     "source": "BBC — Top Stories",
-    "title": "Trump to address UN General Assembly after France recognises Palestinian state",
+    "title": "France becomes latest country to recognise Palestinian state",
     "summary": "Donald Trump will address UN leaders on Tuesday, as more European countries look set to join the French policy change.",
     "url": "https://www.bbc.com/news/articles/cd9ykqw22zlo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T01:26:27Z",
@@ -362,7 +374,7 @@
   {
     "id": "BBC — Top Stories-9a36f659a7",
     "source": "BBC — Top Stories",
-    "title": "Davey urges US cancer scientists to come to UK",
+    "title": "Davey urges cancer scientists to come to UK after research cancelled by US government",
     "summary": "The Lib Dem leader will use his party conference speech to attack Donald Trump's \"anti-science agenda\".",
     "url": "https://www.bbc.com/news/articles/c98en3pdxljo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T23:04:59Z",
@@ -415,6 +427,18 @@
     "url": "https://www.bbc.com/news/articles/c62ln7mzd5ro?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T23:00:07Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e51/live/2456f2a0-9547-11f0-b391-6936825093bd.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-67d378bf76",
+    "source": "BBC — Top Stories",
+    "title": "Duchess of York dropped from multiple charities over Epstein email",
+    "summary": "Seven charities, including the Teenage Cancer Trust, remove the former wife of Prince Andrew as a patron or ambassador.",
+    "url": "https://www.bbc.com/news/articles/cddmr6v0jpzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T22:40:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7083/live/48788640-97ad-11f0-a98f-a5aede2eafbc.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -516,13 +540,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-ff8fd0d5ce",
+    "id": "BBC — Top Stories-83414fe440",
     "source": "BBC — Top Stories",
-    "title": "Clashes break out as Italians strike demanding action over Gaza",
-    "summary": "Tens of thousands turn out and tensions erupt around Milan's main station where 60 police are reported hurt.",
-    "url": "https://www.bbc.com/news/articles/c1jz8rdypw4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T17:24:58Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72f7/live/baabcc20-981d-11f0-928c-71dbb8619e94.jpg",
+    "title": "Families accuse care home of 'neglect' and 'cruelty' after secret filming",
+    "summary": "A BBC Disclosure reporter saw vulnerable elderly people left sitting alone for hours in urine-soaked clothes.",
+    "url": "https://www.bbc.com/news/articles/clylxpjdx8wo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T17:32:35Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/943f/live/f3168300-9487-11f0-9cf6-cbf3e73ce2b9.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,18 +559,6 @@
     "url": "https://www.theguardian.com/politics/live/2025/sep/22/reform-labour-keir-starmer-nigel-farage-immigration-latest-uk-politics-updates",
     "published": "2025-09-22T17:20:23Z",
     "image_url": "https://i.guim.co.uk/img/media/0ea9a207de8e6ff0be680ec4acab4cea10278326/625_0_4623_3698/master/4623.jpg?width=140&quality=85&auto=format&fit=max&s=48e2496fab30522bd003a3eda402ee3c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-705baf0d18",
-    "source": "BBC — Top Stories",
-    "title": "Kirk memorial's religious and political mix hints at future of Maga movement",
-    "summary": "The raucous event combined memorial service, big-church Christian religious revival and conservative political rally.",
-    "url": "https://www.bbc.com/news/articles/ckgykz59nxpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T16:07:24Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ff/live/fed941b0-97d3-11f0-858a-a904eacbef23.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -571,18 +583,6 @@
     "url": "https://www.theguardian.com/world/2025/sep/19/what-uk-recognition-palestine-state-will-mean",
     "published": "2025-09-22T10:03:36Z",
     "image_url": "https://i.guim.co.uk/img/media/fc8606399621ba575a1f35ae1b8fec48d4502d2d/973_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c5b5e88e56d4fd0f7f5707237cf5e33e",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-d95727c5df",
-    "source": "BBC — Top Stories",
-    "title": "What does recognising a Palestinian state mean?",
-    "summary": "The UK, Australia and Canada have recognised a Palestinian state, while France and other countries are set to do so in the coming days.",
-    "url": "https://www.bbc.com/news/articles/cvgp5z1vvj5o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T08:46:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ae7/live/fc9130a0-978a-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
