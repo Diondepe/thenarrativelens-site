@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-0a38bca09d",
+    "source": "BBC — Top Stories",
+    "title": "Behind the doors of asylum hotels - what I found when I went inside",
+    "summary": "A BBC reporter goes into four hotels and speaks to asylum seekers and staff about what daily life is like.",
+    "url": "https://www.bbc.com/news/articles/cwy8ee2w73jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T05:07:00Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde1/live/09ab6d70-97c0-11f0-af62-91486a511a31.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-4971e41523",
+    "source": "BBC — Top Stories",
+    "title": "Fans flock to mourn iconic Indian singer Zubeen Garg",
+    "summary": "Hundreds of thousands of people gather for a last glimpse of the singer who will be cremated with state honours.",
+    "url": "https://www.bbc.com/news/articles/c8exxep4n00o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T04:59:45Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7082/live/6627ccd0-9769-11f0-a8dc-135f553b0693.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-22ee62d480",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'Farage plan would split families' and 'Will the King banish Fergie?'",
+    "summary": "Reform's migration plans and the Duchess of York being dropped from charities make Tuesday's front pages.",
+    "url": "https://www.bbc.com/news/articles/cy0vkw27gq2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T04:53:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d35/live/278b29b0-9807-11f0-af62-91486a511a31.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-168fd6e7eb",
+    "source": "BBC — Top Stories",
+    "title": "Play now",
+    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
+    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T04:52:36Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-c8cdb82f56",
+    "source": "The Guardian — UK",
+    "title": "British-Egyptian activist Alaa Abd el-Fattah freed from prison",
+    "summary": "Writer, who has served six years for sharing a Facebook post, was given a presidential pardon The British-Egyptian human rights activist Alaa Abd el-Fattah has been released from jail after serving six years for sharing a Facebook post. Egypt’s president, Abdel Fatah al-Sisi, granted him his freedom after intensive lobbying by the UK government and pressure from Egypt’s national human rights council. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/sep/22/british-egyptian-activist-alaa-abd-el-fattah-to-be-freed-from-prison",
+    "published": "2025-09-23T04:47:56Z",
+    "image_url": "https://i.guim.co.uk/img/media/3b99c854dba47100cae31017dd01bc740e78d51d/421_0_6129_4906/master/6129.jpg?width=140&quality=85&auto=format&fit=max&s=0e579b7cee2211a0245b8f68c6adc954",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-e351fef162",
     "source": "BBC — Top Stories",
     "title": "British-Egyptian activist reunited with family",
@@ -43,30 +103,6 @@
     "url": "https://www.bbc.com/news/articles/cdr6z6ryxv3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T03:38:44Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fff3/live/11abf140-981d-11f0-9558-4785c3b59242.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-30d56489c0",
-    "source": "BBC — Top Stories",
-    "title": "Hong Kong hunkers down as super typhoon approaches",
-    "summary": "Ragasa, which killed one in the Philippines, is the strongest storm anywhere on earth so far this year.",
-    "url": "https://www.bbc.com/news/articles/c3rvjj7dp7ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T03:27:30Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8213/live/9a7ebc80-982e-11f0-adcb-21446f33a7de.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-105b442817",
-    "source": "BBC — Top Stories",
-    "title": "Copenhagen and Oslo airports forced to close temporarily due to drone sightings",
-    "summary": "Both airports have been reopened, with Danish police unable to confirm where the drones came from.",
-    "url": "https://www.bbc.com/news/articles/cn4lj1yvgvgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T03:05:10Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3b8/live/b82541c0-97f0-11f0-be9f-872dac3e9076.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -222,7 +258,7 @@
     "summary": "Donald Trump will address UN leaders on Tuesday, as more European countries look set to join the French policy change.",
     "url": "https://www.bbc.com/news/articles/cd9ykqw22zlo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T01:26:27Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e9f/live/7123e550-9832-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8617/live/879fa280-9835-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -235,18 +271,6 @@
     "url": "https://www.bbc.com/news/articles/cwywnlyg3xxo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T01:17:13Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8f5/live/c0d60430-9557-11f0-b830-3f3c6ed9c9f6.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-22ee62d480",
-    "source": "BBC — Top Stories",
-    "title": "The Papers: 'Farage plan would split families' and 'Will the King banish Fergie?'",
-    "summary": "Reform's migration plans and the Duchess of York being dropped from charities make Tuesday's front pages.",
-    "url": "https://www.bbc.com/news/articles/cy0vkw27gq2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T01:02:55Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d35/live/278b29b0-9807-11f0-af62-91486a511a31.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -300,18 +324,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-256074fabd",
-    "source": "The Guardian — UK",
-    "title": "Majority of girls and young women in UK alter behaviour to feel safe, study finds",
-    "summary": "Girlguiding survey reveals rising fears of harassment, with many avoiding public transport or changing what they wear Two-thirds of girls and young women have changed their everyday behaviour to try to stay safe, with 31% avoiding taking public transport alone, according to a survey by the Girlguiding charity. The research found that 56% of girls and young women in the UK aged between 11 and 21 said they feel unsafe travelling by themselves, up from 45% in 2022, while almost one-third said they avoided public transport altogether. Continue reading...",
-    "url": "https://www.theguardian.com/education/2025/sep/23/majority-of-girls-and-young-women-in-uk-alter-behaviour-to-feel-safe-study-finds",
-    "published": "2025-09-22T23:01:32Z",
-    "image_url": "https://i.guim.co.uk/img/media/7b54e297e384033d395612a8981ee9f1d99b1959/740_0_4234_3387/master/4234.jpg?width=140&quality=85&auto=format&fit=max&s=e0e8c073c4c99d17f4e16519481d558b",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-146f7c1789",
     "source": "The Guardian — UK",
     "title": "London homes 500 metres from station ‘command £42,700 premium over those 1,500 metres away’",
@@ -319,6 +331,18 @@
     "url": "https://www.theguardian.com/business/2025/sep/23/london-homes-near-station-command-premium-over-those-further-away",
     "published": "2025-09-22T23:01:32Z",
     "image_url": "https://i.guim.co.uk/img/media/3fa76644e6821dd8754b3baf79a083a1f17474f1/416_676_1912_1530/master/1912.jpg?width=140&quality=85&auto=format&fit=max&s=4e971bc76ee11a1f99e247248fe3f7f9",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-256074fabd",
+    "source": "The Guardian — UK",
+    "title": "Majority of girls and young women in UK alter behaviour to feel safe, study finds",
+    "summary": "Girlguiding survey reveals rising fears of harassment, with many avoiding public transport or changing what they wear Two-thirds of girls and young women have changed their everyday behaviour to try to stay safe, with 31% avoiding taking public transport alone, according to a survey by the Girlguiding charity. The research found that 56% of girls and young women in the UK aged between 11 and 21 said they feel unsafe travelling by themselves, up from 45% in 2022, while almost one-third said they avoided public transport altogether. Continue reading...",
+    "url": "https://www.theguardian.com/education/2025/sep/23/majority-of-girls-and-young-women-in-uk-alter-behaviour-to-feel-safe-study-finds",
+    "published": "2025-09-22T23:01:32Z",
+    "image_url": "https://i.guim.co.uk/img/media/7b54e297e384033d395612a8981ee9f1d99b1959/740_0_4234_3387/master/4234.jpg?width=140&quality=85&auto=format&fit=max&s=e0e8c073c4c99d17f4e16519481d558b",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -408,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-4883000c4e",
-    "source": "The Guardian — UK",
-    "title": "Corbyn and Sultana prepare new party memberships launch – without unified line",
-    "summary": "Exclusive: party insiders hope low-stakes launch will help movement move on from chaotic start, despite ongoing tensions Jeremy Corbyn and Zarah Sultana are preparing a fresh attempt to launch memberships for their new party this week but without a joint public statement or a unified line, the Guardian understands. The pair have spoken since Sultana called off legal action on Sunday night in a dramatic climbdown as she acknowledged people had been left feeling “demoralised” by the group’s public spats. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/22/corbyn-and-sultana-prepare-new-party-memberships-launch-without-unified-line",
-    "published": "2025-09-22T18:27:55Z",
-    "image_url": "https://i.guim.co.uk/img/media/e8fd9be893bc06a13115fe564b356fbbde6a39ba/258_0_2578_2063/master/2578.jpg?width=140&quality=85&auto=format&fit=max&s=7158788ea6007b06cb1faf14448b3ecc",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-f9ce386d7d",
     "source": "The Guardian — UK",
     "title": "What are Nigel Farage’s immigration plans – and do his sums add up?",
@@ -427,6 +439,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/22/what-are-nigel-farages-immigration-plans-and-do-his-sums-add-up",
     "published": "2025-09-22T18:27:06Z",
     "image_url": "https://i.guim.co.uk/img/media/cfa7e9c299ec42b322afe44ff6b23c9addff59d3/510_0_4821_3856/master/4821.jpg?width=140&quality=85&auto=format&fit=max&s=83b2399529df69004a5ecf9a5825ee91",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-79e45f0ce3",
+    "source": "The Guardian — UK",
+    "title": "Nigel Farage roundly condemned over plan to abolish indefinite leave to remain",
+    "summary": "Cross-party criticism after Reform UK leader threatens hundreds of thousands of legal immigrants with deportation Nigel Farage has faced cross-party condemnation after threatening hundreds of thousands of legal immigrants with deportation by pledging to abolish the main route towards permanent settlement in the UK. The Reform UK leader was roundly criticised over the principle and practicality of his proposals, with Labour figures accusing him of seeking to “break up families” and “foster division”. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/22/nigel-farage-roundly-condemned-over-plan-to-abolish-indefinite-leave-to-remain",
+    "published": "2025-09-22T18:12:12Z",
+    "image_url": "https://i.guim.co.uk/img/media/89cf2f294870bce26c77544b774ad21c30e081b1/153_0_2988_2391/master/2988.jpg?width=140&quality=85&auto=format&fit=max&s=82c79878dbff002170efc8ddca334cac",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -540,18 +564,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-327594605d",
-    "source": "The Guardian — UK",
-    "title": "Farage vows to scrap indefinite leave to remain, placing thousands at risk of deportation",
-    "summary": "Reform UK plans to force non-citizens to apply for visas, with high salary thresholds and no access to NHS services UK politics live – latest updates Nigel Farage has pledged to abolish what the main route for immigrants to gain British citizenship, threatening tens of thousands of people legally living in the UK with deportation unless they meet strict rules. The Reform UK leader said his plans would target the “Boriswave” – the wave of legal immigrants who arrived in the UK under post-Brexit rules established by Boris Johnson – which he described as the “greatest betrayal of democratic wishes certainly in anyone’s living memory”. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/22/farage-vows-to-scrap-settled-status-placing-thousands-at-risk-of-deportation",
-    "published": "2025-09-22T12:24:45Z",
-    "image_url": "https://i.guim.co.uk/img/media/4b7e7747c60bcecd9b46bdfc6ddb78971cc487aa/524_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8cdf2359850cf0f6e57517977f0637a1",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-60c755c9fe",
     "source": "The Guardian — UK",
     "title": "Why are more countries recognising Palestinian statehood and what does it mean practically?",
@@ -583,18 +595,6 @@
     "url": "https://www.theguardian.com/world/2025/sep/21/latest-recognitions-of-palestinian-state-will-deepen-global-diplomatic-rifts",
     "published": "2025-09-21T20:00:52Z",
     "image_url": "https://i.guim.co.uk/img/media/bca4c3a86e5fa2f95626ced81b245e010a07a24a/374_0_3722_2979/master/3722.jpg?width=140&quality=85&auto=format&fit=max&s=3511f9d269ae6b003284e5e1a7f311e6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-02130f5836",
-    "source": "BBC — Top Stories",
-    "title": "Recognising Palestinian statehood opens another question - who would lead it?",
-    "summary": "With the president approaching 90 years of age and another possible candidate in jail, finding the right leadership would be a challenge",
-    "url": "https://www.bbc.com/news/articles/c930dlxnee4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-21T13:49:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f742/live/3fc93320-9553-11f0-9cf6-cbf3e73ce2b9.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
