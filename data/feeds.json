@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-e351fef162",
+    "source": "BBC — Top Stories",
+    "title": "British-Egyptian activist reunited with family",
+    "summary": "After nearly six years in prison, Alaa Abdel Fattah is released from prison in Egypt.",
+    "url": "https://www.bbc.com/news/articles/cvg9772q3e1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T04:03:02Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6697/live/5cf0f4c0-9831-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-7c71ed92b3",
+    "source": "The Guardian — UK",
+    "title": "Keir Starmer to launch progressive fightback against ‘decline and division’ fuelled by far right",
+    "summary": "Prime minister expected to warn UK is ‘at a crossroads’ as he sets out plan to counter Nigel Farage and Reform Keir Starmer will make a major intervention this week, pledging a progressive fightback and promising the UK will reject the division and hate fuelled by the far right. The move comes ahead of Labour’s conference amid increasing pressure on the prime minister from within his own party, where even senior loyalists have voiced fears that he has not mounted a passionate enough attack on Reform UK and rising racism in Britain. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/23/keir-starmer-to-launch-progressive-fightback-against-decline-and-division-fuelled-by-far-right",
+    "published": "2025-09-23T04:00:39Z",
+    "image_url": "https://i.guim.co.uk/img/media/421e93d7735b814790df0569ee9d8802cb372e17/75_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=6d5363a28629deadccb7ad106227e4ec",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-0b555c5ee6",
+    "source": "Politico — UK",
+    "title": "Wie Union und SPD Steuern erhöhen könnten",
+    "summary": "Gut einen Monat nach seinem erneuten Nein zu Steuererhöhungen öffnet Friedrich Merz die Tür einen Spalt. Die Einkommensteuer bleibt tabu, aber die Erbschaftssteuer rückt ins Zentrum. Ein mögliches Urteil des Bundesverfassungsgerichts könnte Milliarden freisetzen und Union wie SPD in eine Richtung, aber auch in einen Streit treiben. Im 200-Sekunden-Interview spricht die SPD-Ministerpräsidentin von Mecklenburg-Vorpommern, Manuela […]",
+    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/wie-union-und-spd-steuern-erhohen-konnten/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-23T03:46:14Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/23/Berlin-Playbook-Website-Card57.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-710001849d",
+    "source": "BBC — Top Stories",
+    "title": "Porsche shares plunge after announcing EV rollout delay",
+    "summary": "European carmakers face intense competition from Chinese rivals and weak demand for luxury cars.",
+    "url": "https://www.bbc.com/news/articles/cdr6z6ryxv3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T03:38:44Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fff3/live/11abf140-981d-11f0-9558-4785c3b59242.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-30d56489c0",
+    "source": "BBC — Top Stories",
+    "title": "Hong Kong hunkers down as super typhoon approaches",
+    "summary": "Ragasa, which killed one in the Philippines, is the strongest storm anywhere on earth so far this year.",
+    "url": "https://www.bbc.com/news/articles/c3rvjj7dp7ro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T03:27:30Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8213/live/9a7ebc80-982e-11f0-adcb-21446f33a7de.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-105b442817",
     "source": "BBC — Top Stories",
     "title": "Copenhagen and Oslo airports forced to close temporarily due to drone sightings",
@@ -158,11 +218,11 @@
   {
     "id": "BBC — Top Stories-b369a1256c",
     "source": "BBC — Top Stories",
-    "title": "France formally recognises Palestinian state",
-    "summary": "More European countries are expected to make the same move, as President Macron said in UN \"the time for peace has come\".",
+    "title": "Trump to address UN General Assembly after France recognises Palestinian state",
+    "summary": "Donald Trump will address UN leaders on Tuesday, as more European countries look set to join the French policy change.",
     "url": "https://www.bbc.com/news/articles/cd9ykqw22zlo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T01:26:27Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7923/live/825e3bb0-97f9-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e9f/live/7123e550-9832-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -204,18 +264,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-764982097d",
-    "source": "Politico — UK",
-    "title": "Poland to Russia: ‘You have been warned’ so don’t ‘whine’ if your jets are shot down in NATO airspace",
-    "summary": "Radosław Sikorski upbraids Moscow for being \"incapable of living in peace\" with its neighbors following a series of incursions into NATO airspace.",
-    "url": "https://www.politico.eu/article/radoslaw-sikorski-poland-russia-un-security-council-nato/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-22T23:36:55Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/23/GettyImages-2235069357-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-cd6a1b4761",
     "source": "BBC — Top Stories",
     "title": "Britain's worst major stations for train cancellations revealed - is yours on the list?",
@@ -252,18 +300,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-146f7c1789",
-    "source": "The Guardian — UK",
-    "title": "London homes 500 metres from station ‘command £42,700 premium over those 1,500 metres away’",
-    "summary": "Nationwide survey in London, Manchester and Glasgow shows pandemic trends may be reversing as more people return to office People buying homes in London 500 metres from a tube or railway station pay £42,700 more than buyers of similar properties 1,500 metres away from transport hubs, according to new data. The figures indicate that despite the reshaping of the housing market sparked by the coronavirus pandemic and dramatic changes to working patterns, the traditional estate agent mantra of “good transport links” continues to wield its power over buyers. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/sep/23/london-homes-near-station-command-premium-over-those-further-away",
-    "published": "2025-09-22T23:01:32Z",
-    "image_url": "https://i.guim.co.uk/img/media/3fa76644e6821dd8754b3baf79a083a1f17474f1/416_676_1912_1530/master/1912.jpg?width=140&quality=85&auto=format&fit=max&s=4e971bc76ee11a1f99e247248fe3f7f9",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-256074fabd",
     "source": "The Guardian — UK",
     "title": "Majority of girls and young women in UK alter behaviour to feel safe, study finds",
@@ -271,6 +307,18 @@
     "url": "https://www.theguardian.com/education/2025/sep/23/majority-of-girls-and-young-women-in-uk-alter-behaviour-to-feel-safe-study-finds",
     "published": "2025-09-22T23:01:32Z",
     "image_url": "https://i.guim.co.uk/img/media/7b54e297e384033d395612a8981ee9f1d99b1959/740_0_4234_3387/master/4234.jpg?width=140&quality=85&auto=format&fit=max&s=e0e8c073c4c99d17f4e16519481d558b",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-146f7c1789",
+    "source": "The Guardian — UK",
+    "title": "London homes 500 metres from station ‘command £42,700 premium over those 1,500 metres away’",
+    "summary": "Nationwide survey in London, Manchester and Glasgow shows pandemic trends may be reversing as more people return to office People buying homes in London 500 metres from a tube or railway station pay £42,700 more than buyers of similar properties 1,500 metres away from transport hubs, according to new data. The figures indicate that despite the reshaping of the housing market sparked by the coronavirus pandemic and dramatic changes to working patterns, the traditional estate agent mantra of “good transport links” continues to wield its power over buyers. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/sep/23/london-homes-near-station-command-premium-over-those-further-away",
+    "published": "2025-09-22T23:01:32Z",
+    "image_url": "https://i.guim.co.uk/img/media/3fa76644e6821dd8754b3baf79a083a1f17474f1/416_676_1912_1530/master/1912.jpg?width=140&quality=85&auto=format&fit=max&s=4e971bc76ee11a1f99e247248fe3f7f9",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -312,18 +360,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-67d378bf76",
-    "source": "BBC — Top Stories",
-    "title": "Duchess of York dropped from multiple charities over Epstein email",
-    "summary": "Seven charities, including the Teenage Cancer Trust, remove the former wife of Prince Andrew as a patron or ambassador.",
-    "url": "https://www.bbc.com/news/articles/cddmr6v0jpzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T22:40:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7083/live/48788640-97ad-11f0-a98f-a5aede2eafbc.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-439ee46011",
     "source": "BBC — Top Stories",
     "title": "New rule for GPs after 27-year-old's cancer missed",
@@ -343,18 +379,6 @@
     "url": "https://www.theguardian.com/society/2025/sep/22/english-gps-adopt-jesss-rule-to-help-ensure-they-do-not-miss-serious-illnesses",
     "published": "2025-09-22T21:30:29Z",
     "image_url": "https://i.guim.co.uk/img/media/2a8cd5f0b7a2f764bb7a099d10f9f49eb867825c/0_0_1165_932/master/1165.jpg?width=140&quality=85&auto=format&fit=max&s=c3456c1ed6a59731d6082825e43fcaad",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3533534c26",
-    "source": "BBC — Top Stories",
-    "title": "Tearful Dembele wins Ballon d'Or as PSG dominate",
-    "summary": "Paris St-Germain's Ousmane Dembele wins the Ballon d'Or, the award for the best player in the world, for the first time.",
-    "url": "https://www.bbc.com/sport/football/articles/c9v71gxp02ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T20:52:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d9/live/acd74230-97f7-11f0-beff-6fe19e0dd9d4.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -403,18 +427,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/22/what-are-nigel-farages-immigration-plans-and-do-his-sums-add-up",
     "published": "2025-09-22T18:27:06Z",
     "image_url": "https://i.guim.co.uk/img/media/cfa7e9c299ec42b322afe44ff6b23c9addff59d3/510_0_4821_3856/master/4821.jpg?width=140&quality=85&auto=format&fit=max&s=83b2399529df69004a5ecf9a5825ee91",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-79e45f0ce3",
-    "source": "The Guardian — UK",
-    "title": "Nigel Farage roundly condemned over plan to abolish indefinite leave to remain",
-    "summary": "Cross-party criticism after Reform UK leader threatens hundreds of thousands of legal immigrants with deportation Nigel Farage has faced cross-party condemnation after threatening hundreds of thousands of legal immigrants with deportation by pledging to abolish the main route towards permanent settlement in the UK. The Reform UK leader was roundly criticised over the principle and practicality of his proposals, with Labour figures accusing him of seeking to “break up families” and “foster division”. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/22/nigel-farage-roundly-condemned-over-plan-to-abolish-indefinite-leave-to-remain",
-    "published": "2025-09-22T18:12:12Z",
-    "image_url": "https://i.guim.co.uk/img/media/89cf2f294870bce26c77544b774ad21c30e081b1/153_0_2988_2391/master/2988.jpg?width=140&quality=85&auto=format&fit=max&s=82c79878dbff002170efc8ddca334cac",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -559,18 +571,6 @@
     "url": "https://www.bbc.com/news/articles/cvgp5z1vvj5o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T08:46:32Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ae7/live/fc9130a0-978a-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-168fd6e7eb",
-    "source": "BBC — Top Stories",
-    "title": "Play now",
-    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
-    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T04:38:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
