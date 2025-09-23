@@ -1,5 +1,29 @@
 [
   {
+    "id": "The Guardian — UK-d3a5e92006",
+    "source": "The Guardian — UK",
+    "title": "Operator pledges to secure Great Britain’s electricity grid against blackouts",
+    "summary": "‘Future-proofing’ measures in hand to avoid a repeat of Spain and Portugal’s disastrous outage Great Britain’s energy system operator says it has significantly improved its monitoring of domestic electricity grids to “future proof” the country’s low-carbon power network. After widespread power cuts across most of Spain and Portugal in April, the National Energy System Operator (Neso) started work to pinpoint dangerous fluctuations that could lead to outages. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/sep/23/operator-pledges-to-secure-great-britains-electricity-grid-against-blackouts",
+    "published": "2025-09-23T06:00:41Z",
+    "image_url": "https://i.guim.co.uk/img/media/0c233d0e5a0c8f9291bcac9814aa616d077cef8a/1122_275_3582_2865/master/3582.jpg?width=140&quality=85&auto=format&fit=max&s=7253ade220259c3b0694d2ba2b1d17a8",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-4b2e986435",
+    "source": "The Guardian — UK",
+    "title": "Letters found on eBay cast light on UK families who benefited from slavery",
+    "summary": "Researcher Malik Al Nasir bought historical documents while investigating his family history – and began building an archive A bundle of letters discovered for sale on eBay by a man researching his roots has cast new light on the lives of prominent British families who amassed a fortune from slavery. Documents detailing the affairs of 19th-century families linked to Sandbach, Tinne and Company, a business that dealt in enslaved people, cotton, sugar and coffee, were being traded online by collectors of rare stamps and postmarks. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/sep/23/letters-found-on-ebay-cast-light-on-uk-families-who-benefited-from-slavery",
+    "published": "2025-09-23T06:00:40Z",
+    "image_url": "https://i.guim.co.uk/img/media/8ec8b437d4cdcaf0563125c4e6978182ad899ad7/525_71_1420_1136/master/1420.jpg?width=140&quality=85&auto=format&fit=max&s=0a609c7f108473c639f7238c8aebeba5",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-0a38bca09d",
     "source": "BBC — Top Stories",
     "title": "Behind the doors of asylum hotels - what I found when I went inside",
@@ -7,6 +31,30 @@
     "url": "https://www.bbc.com/news/articles/cwy8ee2w73jo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T05:07:00Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde1/live/09ab6d70-97c0-11f0-af62-91486a511a31.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-2d3d7f1063",
+    "source": "The Guardian — UK",
+    "title": "Tenants’ complaints about poor social housing in England jump 43% in a year",
+    "summary": "Ombudsman made 26,901 interventions to put things right, including child’s bedroom window boarded up for four years Complaints from social housing tenants about poor living conditions have risen by more than 40% in England, according to the latest report from the housing ombudsman, including a case in which a child’s bedroom window was boarded up for four years. The Housing Ombudsman Service made 7,082 decisions on complaints from tenants to social landlords about lack of repairs and other failings including antisocial behaviour in the year to 31 March. This was up 30% from the previous year, the public body said in its annual complaints review . Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/sep/23/tenants-complaints-about-poor-social-housing-in-england-jump-43-percent-ombudsman",
+    "published": "2025-09-23T05:00:41Z",
+    "image_url": "https://i.guim.co.uk/img/media/2e9dc24f17d063dce5fc0bffb557fc83bebc0019/3928_1217_1462_1169/master/1462.jpg?width=140&quality=85&auto=format&fit=max&s=0ccdf9c9e436ada8f0e3a9dad60cb7b7",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-298871521a",
+    "source": "The Guardian — UK",
+    "title": "National Trust reports bumper apple and pumpkin crops at its sites",
+    "summary": "Near-ideal conditions have led to high yields at some of the country’s best loved orchards and walled gardens The nights may be drawing in and the days becoming chillier, but there is cheering news from some of the UK’s best loved orchards and walled gardens: a bumper crop of apples and pumpkins. Fruit and squashes have ripened weeks earlier than normal in many places and yields are higher thanks to near-ideal conditions, including 2024’s wet weather followed by a warm and dry spring and plenty of summer sun this year. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/23/national-trust-reports-bumper-apple-and-pumpkin-crops-at-its-sites",
+    "published": "2025-09-23T05:00:40Z",
+    "image_url": "https://i.guim.co.uk/img/media/03ba2a52a08ee4b7890553191cba73d50753a7f3/682_345_3870_3094/master/3870.jpg?width=140&quality=85&auto=format&fit=max&s=d437ab12a839932812ad87d4a01e6406",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -146,7 +194,7 @@
   {
     "id": "Politico — UK-c2fb452998",
     "source": "Politico — UK",
-    "title": "Germany’s €80B defense shopping list leaves little room for US weapons",
+    "title": "Germany’s €80B rearmament plan sidelines US weapons",
     "summary": "A procurement plan obtained by POLITICO shows Berlin’s rearmament spree will overwhelmingly benefit European industry.",
     "url": "https://www.politico.eu/article/germanys-defense-donald-trump-air-defense-washington-us-weapons/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-23T02:27:00Z",
@@ -198,7 +246,7 @@
     "summary": "Some studies have suggested an association between the two, but experts say there is no causal relationship.",
     "url": "https://www.bbc.com/news/articles/cx20d4lr67lo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T02:00:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd6/live/8b5ddf10-979d-11f0-84a3-e314c0b97a4c.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe63/live/e4bbecf0-9842-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -230,8 +278,8 @@
   {
     "id": "Politico — UK-0d2e4858a8",
     "source": "Politico — UK",
-    "title": "Pro-Russian disinformation swamps Czechia as election nears",
-    "summary": "If Andrej Babiš wins he could well side with Putin-friendly EU leaders Orbán and Fico.",
+    "title": "Russia floods Czech election with disinformation as Babiš leads in polls",
+    "summary": "If the populist right-winger wins he could well side with Putin-friendly EU leaders Orbán and Fico.",
     "url": "https://www.politico.eu/article/russia-czechia-election-votes-disinformation-vladimir-putin-eu-petr-fiala/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-23T02:00:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/22/GettyImages-2235564173-scaled.jpg",
@@ -291,10 +339,10 @@
     "id": "BBC — Top Stories-cd6a1b4761",
     "source": "BBC — Top Stories",
     "title": "Britain's worst major stations for train cancellations revealed - is yours on the list?",
-    "summary": "Figures show around one in 13 scheduled stops at City Thameslink were cancelled over the past year",
+    "summary": "Figures show around one in 13 scheduled stops at City Thameslink were cancelled over the past year.",
     "url": "https://www.bbc.com/news/articles/cgl1ze9ppdpo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T23:09:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b25/live/218ba100-97e1-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e52f/live/5b0be340-9840-11f0-b90a-39a50d5034fe.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -324,18 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-146f7c1789",
-    "source": "The Guardian — UK",
-    "title": "London homes 500 metres from station ‘command £42,700 premium over those 1,500 metres away’",
-    "summary": "Nationwide survey in London, Manchester and Glasgow shows pandemic trends may be reversing as more people return to office People buying homes in London 500 metres from a tube or railway station pay £42,700 more than buyers of similar properties 1,500 metres away from transport hubs, according to new data. The figures indicate that despite the reshaping of the housing market sparked by the coronavirus pandemic and dramatic changes to working patterns, the traditional estate agent mantra of “good transport links” continues to wield its power over buyers. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/sep/23/london-homes-near-station-command-premium-over-those-further-away",
-    "published": "2025-09-22T23:01:32Z",
-    "image_url": "https://i.guim.co.uk/img/media/3fa76644e6821dd8754b3baf79a083a1f17474f1/416_676_1912_1530/master/1912.jpg?width=140&quality=85&auto=format&fit=max&s=4e971bc76ee11a1f99e247248fe3f7f9",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-256074fabd",
     "source": "The Guardian — UK",
     "title": "Majority of girls and young women in UK alter behaviour to feel safe, study finds",
@@ -348,13 +384,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-80a570f6cc",
+    "id": "The Guardian — UK-146f7c1789",
     "source": "The Guardian — UK",
-    "title": "Reeves urged to take 2p off employee NI and add it to income tax in budget",
-    "summary": "Resolution Foundation says move could raise additional £6bn a year and ‘level the playing field’ on income tax Rachel Reeves has been urged to take 2p off the rate of employee national insurance and add it to income tax in her autumn budget, to raise billions of pounds while protecting workers’ pay packets. Putting forward plans to raise up to £30bn, the influential Resolution Foundation thinktank called on the chancellor to “level the playing field” on how different forms of income are taxed. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/23/reeves-urged-to-take-2p-off-employee-ni-and-add-it-to-income-tax-in-budget",
-    "published": "2025-09-22T23:01:31Z",
-    "image_url": "https://i.guim.co.uk/img/media/478f8eda0736706a850c9caf905994ba13d4b00d/187_0_1896_1517/master/1896.jpg?width=140&quality=85&auto=format&fit=max&s=0f96cfa2d846427256c803dc393efb85",
+    "title": "London homes 500 metres from station ‘command £42,700 premium over those 1,500 metres away’",
+    "summary": "Nationwide survey in London, Manchester and Glasgow shows pandemic trends may be reversing as more people return to office People buying homes in London 500 metres from a tube or railway station pay £42,700 more than buyers of similar properties 1,500 metres away from transport hubs, according to new data. The figures indicate that despite the reshaping of the housing market sparked by the coronavirus pandemic and dramatic changes to working patterns, the traditional estate agent mantra of “good transport links” continues to wield its power over buyers. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/sep/23/london-homes-near-station-command-premium-over-those-further-away",
+    "published": "2025-09-22T23:01:32Z",
+    "image_url": "https://i.guim.co.uk/img/media/3fa76644e6821dd8754b3baf79a083a1f17474f1/416_676_1912_1530/master/1912.jpg?width=140&quality=85&auto=format&fit=max&s=4e971bc76ee11a1f99e247248fe3f7f9",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -374,7 +410,7 @@
   {
     "id": "BBC — Top Stories-62c563890b",
     "source": "BBC — Top Stories",
-    "title": "How the simmering row over freedom of speech reached boiling point",
+    "title": "Nick Robinson: How the simmering row over freedom of speech reached boiling point",
     "summary": "How did we reach a point where the UK is being compared to a 'tin pot Third World dictatorship'?",
     "url": "https://www.bbc.com/news/articles/c62ln7mzd5ro?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T23:00:07Z",
@@ -386,7 +422,7 @@
   {
     "id": "BBC — Top Stories-439ee46011",
     "source": "BBC — Top Stories",
-    "title": "New rule for GPs after 27-year-old's cancer missed",
+    "title": "New rule for GPs after 27-year-old contacted doctors 20 times and cancer was missed",
     "summary": "Jessica Brady's parents campaigned for the initiative after she made repeated calls to GPs before her death aged 27 from terminal cancer.",
     "url": "https://www.bbc.com/news/articles/cly0428jjpeo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-22T22:00:47Z",
@@ -396,13 +432,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-3103c1af17",
-    "source": "The Guardian — UK",
-    "title": "English GPs adopt ‘Jess’s rule’ to help ensure they do not miss serious illnesses",
-    "summary": "‘Three strikes and rethink’ approach named after Jess Brady, who died after her cancer was misdiagnosed GPs across England are to adopt a “three strikes and rethink” approach to patients whose illnesses they cannot diagnose, under a safety initiative known as “Jess’s rule”. It is named after Jessica Brady, who died at the age of 27 of stage four cancer in December 2020 after experiencing abdominal pain, coughing, vomiting and weight loss for six months. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/sep/22/english-gps-adopt-jesss-rule-to-help-ensure-they-do-not-miss-serious-illnesses",
-    "published": "2025-09-22T21:30:29Z",
-    "image_url": "https://i.guim.co.uk/img/media/2a8cd5f0b7a2f764bb7a099d10f9f49eb867825c/0_0_1165_932/master/1165.jpg?width=140&quality=85&auto=format&fit=max&s=c3456c1ed6a59731d6082825e43fcaad",
+    "id": "BBC — Top Stories-1e5237b919",
+    "source": "BBC — Top Stories",
+    "title": "Barcelona midfielder Bonmati's journey from hospital bed to record third Ballon d'Or",
+    "summary": "Spain and Barcelona midfielder Aitana Bonmati makes history by becoming the first player to win the women's Ballon d'Or three times.",
+    "url": "https://www.bbc.com/sport/football/articles/cjd102jmgr7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T21:32:55Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6922/live/992afbe0-97f8-11f0-beff-6fe19e0dd9d4.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -420,13 +456,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-d86a857444",
+    "id": "The Guardian — UK-4883000c4e",
     "source": "The Guardian — UK",
-    "title": "Bailey the support dog freed from Northern Irish prison after public outcry",
-    "summary": "Cocker spaniel was being kept full-time in Magilligan prison but is now in family home after ‘free Bailey’ campaign The six words that Northern Ireland’s dog-lovers were waiting to hear came on Monday: “Bailey is now out of prison.” A vocal campaign to free the cocker spaniel who committed no crime culminated in his release from Magilligan prison and transfer to an undisclosed location to begin a new life. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/22/bailey-support-dog-freed-magilligan-prison-northern-ireland",
-    "published": "2025-09-22T18:30:24Z",
-    "image_url": "https://i.guim.co.uk/img/media/dc5b6c60bb0459816b2fc16261085c4f681481e0/0_33_850_680/master/850.jpg?width=140&quality=85&auto=format&fit=max&s=2016f987052fbe9f26fcf4a0cadd0257",
+    "title": "Corbyn and Sultana prepare new party memberships launch – without unified line",
+    "summary": "Exclusive: party insiders hope low-stakes launch will help movement move on from chaotic start, despite ongoing tensions Jeremy Corbyn and Zarah Sultana are preparing a fresh attempt to launch memberships for their new party this week but without a joint public statement or a unified line, the Guardian understands. The pair have spoken since Sultana called off legal action on Sunday night in a dramatic climbdown as she acknowledged people had been left feeling “demoralised” by the group’s public spats. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/22/corbyn-and-sultana-prepare-new-party-memberships-launch-without-unified-line",
+    "published": "2025-09-22T18:27:55Z",
+    "image_url": "https://i.guim.co.uk/img/media/e8fd9be893bc06a13115fe564b356fbbde6a39ba/258_0_2578_2063/master/2578.jpg?width=140&quality=85&auto=format&fit=max&s=7158788ea6007b06cb1faf14448b3ecc",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -504,18 +540,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-c83c0779a5",
-    "source": "The Guardian — UK",
-    "title": "A glut of VIPs and a heckled minister see Palestinian flag raised at London’s newest embassy",
-    "summary": "Ambassador welcomes historic event with MPs keen to be seen but minister faces awkward crowd UK politics live – latest updates Middle East crisis – live updates The flag-raising event to mark Britain’s recognition of the Palestinian state was running a little late at London’s newest embassy. Over a century late it might be argued. The formalities had been due to kick off at 11am outside what had been known as the Palestinian Mission to the UK but there was a problem: too many VIPs. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/22/london-flag-raising-at-embassy-marks-long-overdue-step-for-palestinians",
-    "published": "2025-09-22T16:57:23Z",
-    "image_url": "https://i.guim.co.uk/img/media/5dc5b4b0e0d05c43f4f4279a7af3e19f093e2f77/464_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=19431d12a27a2b72b24960856bbbe6d2",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-705baf0d18",
     "source": "BBC — Top Stories",
     "title": "Kirk memorial's religious and political mix hints at future of Maga movement",
@@ -535,30 +559,6 @@
     "url": "https://www.theguardian.com/politics/audio/2025/sep/22/what-does-the-uk-recognising-palestinian-statehood-really-mean-podcast",
     "published": "2025-09-22T14:27:40Z",
     "image_url": "https://i.guim.co.uk/img/media/b3cee75d2d8cf51eeae53f213622f7d22bdfdf84/426_0_4299_3440/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=4fe2e17e80c4af43dda2d87c782d35c3",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-d52230aa4f",
-    "source": "The Guardian — UK",
-    "title": "Disabled Nigerian man living in UK for 38 years wins appeal against deportation",
-    "summary": "Anthony Olubunmi George, who arrived in 1986 and has no criminal convictions, given right to remain A disabled Nigerian man who has lived in the UK for almost 40 years has won an appeal to stay in the country despite the Home Office wanting to deport him . Anthony Olubunmi George, 63, came to the UK at the age of 24 in 1986. He has not left the UK since and has no criminal convictions. He had two strokes in 2019 that left him with speech and mobility issues. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/22/disabled-nigerian-anthony-olubunmi-george-wins-appeal-deportation",
-    "published": "2025-09-22T14:00:14Z",
-    "image_url": "https://i.guim.co.uk/img/media/da28410ea3127e445d64b5edff4bfcf974c71682/0_143_756_605/master/756.jpg?width=140&quality=85&auto=format&fit=max&s=52acd12e383a20f4fee477c3911847ae",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-63eab389c8",
-    "source": "BBC — Top Stories",
-    "title": "Can the UK expand airports and still hit climate targets?",
-    "summary": "Plans for the expansion of Gatwick, Heathrow and Luton could mean hundreds of thousands of additional flights a year.",
-    "url": "https://www.bbc.com/news/articles/cx2jpn881w0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-22T13:36:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85cb/live/d758cfa0-97b2-11f0-a98f-a5aede2eafbc.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
