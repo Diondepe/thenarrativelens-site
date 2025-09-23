@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-b1f6d23702",
+    "source": "BBC — Top Stories",
+    "title": "Six years ago Trump's UN audience laughed, this year they were silent",
+    "summary": "The US leader's address was one of the clearest expositions of the way he sees the world, writes James Landale.",
+    "url": "https://www.bbc.com/news/articles/c179p4wvz29o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T19:51:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c92/live/51281f70-98b2-11f0-af62-91486a511a31.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-da0ff63b7d",
+    "source": "Politico — UK",
+    "title": "Trump slams Putin and calls on Ukraine to win back all of its land",
+    "summary": "Trump also said NATO countries should shoot down Russian planes that fly into their territory.",
+    "url": "https://www.politico.com/news/2025/09/23/trump-nato-shoot-down-russia-00576909?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-23T19:39:34Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e8abe8ccde",
+    "source": "BBC — Top Stories",
+    "title": "Man found guilty of attempting to assassinate Trump in Florida",
+    "summary": "Ryan Routh, 59, was spotted hiding in bushes with a rifle at the president's Florida golf club last year.",
+    "url": "https://www.bbc.com/news/articles/c9wdv0118npo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T19:29:20Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f457/live/d817d7d0-988c-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-d7b18003fe",
     "source": "BBC — Top Stories",
     "title": "TV stations refuse to air 'insensitive' Jimmy Kimmel's show after ABC lifts suspension",
@@ -24,21 +60,9 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e8abe8ccde",
-    "source": "BBC — Top Stories",
-    "title": "Man found guilty of attempting to assassinate Trump in Florida",
-    "summary": "Ryan Routh, 59, was spotted hiding in bushes with a rifle at the president's Florida golf club last year.",
-    "url": "https://www.bbc.com/news/articles/c9wdv0118npo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T19:00:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f457/live/d817d7d0-988c-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-fa0a365c80",
     "source": "BBC — Top Stories",
-    "title": "Judging Booker Prize is agony, says Sarah Jessica Parker",
+    "title": "Booker Prize shortlist choice was agony, says Sarah Jessica Parker",
     "summary": "The Sex and the City star is one of the judges for this year's award and has revealed its shortlist.",
     "url": "https://www.bbc.com/news/articles/c62lej4x148o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T18:59:25Z",
@@ -336,18 +360,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-fa1de162e0",
-    "source": "Politico — UK",
-    "title": "The Lib Dems’ battle for bunting Britain",
-    "summary": "The Liberal Democrats think it’s the end of two-party politics. Their path to stopping a Reform government is finding a home for people who think populism just isn't cricket.",
-    "url": "https://www.politico.eu/article/liberal-democrats-battle-bunting-britain/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-23T14:52:34Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/23/GettyImages-2236075724-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-f8d06cd333",
     "source": "BBC — Top Stories",
     "title": "How Dickie Bird became a cricket legend without scoring a run for England",
@@ -475,18 +487,6 @@
     "url": "https://www.bbc.com/weather/articles/cd72r5ynr9jo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T10:55:05Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c257/live/9a926ff0-984c-11f0-b522-917eeb94e02f.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a45a6eff2e",
-    "source": "BBC — Top Stories",
-    "title": "Why Trump's comments on vaccines and paracetamol risk child health",
-    "summary": "The public relies on measured, careful statements rooted in robust scientific research, not conjecture.",
-    "url": "https://www.bbc.com/news/articles/cdx2rk10ep0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T10:46:45Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4430/live/3f13c490-986e-11f0-af62-91486a511a31.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
