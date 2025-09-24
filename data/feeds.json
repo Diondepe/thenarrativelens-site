@@ -1,5 +1,89 @@
 [
   {
+    "id": "BBC — Top Stories-92649e6f77",
+    "source": "BBC — Top Stories",
+    "title": "AI tool used to recover £500m lost to fraud, government says",
+    "summary": "Ministers say software developed by the Cabinet Office has helped to ramp up fraud detection.",
+    "url": "https://www.bbc.com/news/articles/cpd92gpld0go?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T05:02:08Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98be/live/12f91a30-98ab-11f0-a14e-6d2172009a89.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-328fcef481",
+    "source": "The Guardian — UK",
+    "title": "Change prostate cancer treatment for black men to avoid ‘epidemic’, NHS urged",
+    "summary": "Campaigners seek to raise awareness that twice as many black men are getting the disease than white men The NHS must change how black men are treated for prostate cancer to prevent “an epidemic of unnecessary deaths” in which twice as many die as white men, campaigners have warned. Academics are seeking to raise awareness that one in four black men are getting this cancer, twice the rate of white men, which is one in eight, according to Prostate Cancer UK’s analysis of patient datasets for England. One in 12 black men are at risk of dying of this condition compared with one in 24 white men. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/sep/24/change-prostate-cancer-treatment-black-men-avoid-epidemic-nhs-urged",
+    "published": "2025-09-24T05:00:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/2a7c40c2eb92936a956ae604f66adaf105d19020/390_0_7240_5792/master/7240.jpg?width=140&quality=85&auto=format&fit=max&s=775639d1c479d0294c28121d3f07622c",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-224caf7269",
+    "source": "The Guardian — UK",
+    "title": "‘It changed my view’: the letter campaign urging pupils in deprived areas to try university",
+    "summary": "Personalised notes from students who share similar backgrounds are designed to make higher education feel more accessible “Dear Rahamat, first of all congratulations! I remember the day I got my GCSE results. The potential for your life to change has just begun.” So begins a letter from a young medical student, Kemi Adeyemi, which has been sent to Rahamat and thousands of other sixth formers with top GCSE results in some of England’s most deprived areas, to encourage them to consider going on to university. Continue reading...",
+    "url": "https://www.theguardian.com/education/2025/sep/24/it-changed-my-view-the-letter-campaign-urging-pupils-in-deprived-areas-to-try-university",
+    "published": "2025-09-24T05:00:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/8994a7785cdabf36cb5900c630dd0684a69b8457/805_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=db76644e0156673aecc5513dfca5148a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-9c6d713f8a",
+    "source": "The Guardian — UK",
+    "title": "Almost 1.5m homes could be built on brownfield sites in England, report finds",
+    "summary": "Exclusive: CPRE study suggests housebuilding targets can be met without encroaching on green belt land Almost 1.5m new homes could be built on brownfield sites in England to avoid encroaching on green belt and meet the government target for housing growth by the end of this parliament, new figures suggest. But despite the scale of brownfield land available, developers are pushing to build on green land, including increased housebuilding on and adjacent to areas of outstanding natural beauty . Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/sep/24/almost-15m-homes-could-be-built-on-brownfield-sites-in-england-report-finds",
+    "published": "2025-09-24T05:00:16Z",
+    "image_url": "https://i.guim.co.uk/img/media/91a0115c656c37221e9e309be783970b5f543349/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=3938618def7482ff94685712afe7cb59",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-19a77d5c1e",
+    "source": "The Guardian — UK",
+    "title": "UK white-collar recruits expected in office more as hybrid working balance shifts",
+    "summary": "Job ads analysis finds less flexibility than in post-pandemic period as employers ‘push for more face-to-face time’ Business live – latest updates Most new recruits to white-collar jobs are required to spend at least two or three days a week in the office, while roles requiring just one office day are dying out, according to an analysis of job postings. Hybrid work – where staff split their time between the office and another location, such as their home – has cemented itself as the new normal for millions of workers since the Covid-19 pandemic. Continue reading...",
+    "url": "https://www.theguardian.com/money/2025/sep/24/uk-jobs-back-to-office-hybrid-working",
+    "published": "2025-09-24T05:00:15Z",
+    "image_url": "https://i.guim.co.uk/img/media/6230dc4d806a9ae00ef5091920e21546cb231bd8/740_0_3701_2961/master/3701.jpg?width=140&quality=85&auto=format&fit=max&s=e6d082a584fbad84e2d072ec5e3f4523",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-b71888a676",
+    "source": "The Guardian — UK",
+    "title": "Scottish teenager’s petition on single-use plastics wins support in parliament",
+    "summary": "Groundswell of support for ban propels campaign of Tabby Fletcher, 17, from her island home on Jura to Holyrood A petition by a schoolgirl on a remote island calling on the Scottish government to ban all single-use plastics has received more than 26,000 signatures and the backing of MSPs in the Highlands and Islands. Tabby Fletcher, a 17-year-old from the Isle of Jura, off the west coast of Scotland, launched the petition after seeing dead birds, their bodies entangled in plastic, among piles of waste washed up on Jura’s beaches after a powerful storm. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/sep/24/single-use-plastics-ban-tabby-fletcher-jura-petition-scottish-parliament-msp",
+    "published": "2025-09-24T05:00:15Z",
+    "image_url": "https://i.guim.co.uk/img/media/2f234af143b036a44acd70fb7e05c91feb8d0157/795_584_2684_2148/master/2684.jpg?width=140&quality=85&auto=format&fit=max&s=37a0d001c2d32cfee1229f47a0a2bfbb",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-19f2465564",
+    "source": "BBC — Top Stories",
+    "title": "Boss jailed over deadly fire at South Korea battery plant",
+    "summary": "A blaze last year killed 23 people at an Aricell factory in Hwaseong city, about 45km south of Seoul.",
+    "url": "https://www.bbc.com/news/articles/c5yq2gqppero?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T04:17:40Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024f/live/ba529fd0-98f2-11f0-8951-45a037300f31.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-bb133310f7",
     "source": "The Guardian — UK",
     "title": "‘It goes beyond getting a cash refund for slavery’: Lenny Henry and Marcus Ryder on the case for reparations",
@@ -19,6 +103,18 @@
     "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/gesundheit-mehr-sparsamkeit-warken/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-24T03:45:05Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/18/Berlin-Playbook-Website-card-1-1.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-58b3ebf96e",
+    "source": "BBC — Top Stories",
+    "title": "Australia journalist unfairly fired over Gaza post awarded £73,436",
+    "summary": "Australia's public broadcaster \"sacrificed\" Antoinette Lattouf \"to appease a lobby group\", the judge said.",
+    "url": "https://www.bbc.com/news/articles/cly6dlpd332o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T03:42:38Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d8/live/19001af0-98e7-11f0-882d-79512009c263.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -278,8 +374,8 @@
   {
     "id": "BBC — Top Stories-0752913be2",
     "source": "BBC — Top Stories",
-    "title": "The Gen Z revolution in Asia shows the power of the young - and their limits",
-    "summary": "Anti-corruption demonstrations, powered by social media, have toppled a government - but will they lead to lasting change?",
+    "title": "The Gen Z uprising in Asia shows social media is a double-edged sword",
+    "summary": "Anti-corruption demonstrations have toppled a government - will they lead to lasting change?",
     "url": "https://www.bbc.com/news/articles/cn4ljv39em7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T21:01:49Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab8e/live/f5e292a0-9869-11f0-928c-71dbb8619e94.jpg",
@@ -300,18 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-5943dcbe18",
-    "source": "BBC — Top Stories",
-    "title": "Dani Dyer pulls out of Strictly with broken ankle",
-    "summary": "The TV presonality says she \"landed funny\" in training on Friday and a scan has confirmed a fracture.",
-    "url": "https://www.bbc.com/news/articles/c98d6z1j9neo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T20:26:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c869/live/cd055240-98a1-11f0-b37c-21373da9ac07.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-b1f6d23702",
     "source": "BBC — Top Stories",
     "title": "Six years ago Trump's UN audience laughed, this year they were silent",
@@ -319,18 +403,6 @@
     "url": "https://www.bbc.com/news/articles/c179p4wvz29o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T19:51:42Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc86/live/a8097b80-98bd-11f0-858a-a904eacbef23.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-fa0a365c80",
-    "source": "BBC — Top Stories",
-    "title": "Booker Prize shortlist choice was agony, says Sarah Jessica Parker",
-    "summary": "The Sex and the City star is one of the judges for this year's award and has revealed its shortlist.",
-    "url": "https://www.bbc.com/news/articles/c62lej4x148o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T18:59:25Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ffa/live/366cb760-989c-11f0-858a-a904eacbef23.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -372,30 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-8d03cd6fa3",
-    "source": "The Guardian — UK",
-    "title": "Donald Trump’s sharia law attack on Sadiq Khan outrages Labour MPs",
-    "summary": "Keir Starmer urged to take action over US president’s inflammatory speech to the UN Keir Starmer is facing demands from Labour MPs to reprimand Donald Trump’s administration after the US president falsely claimed London wanted to “go to sharia law” under its “terrible mayor”, Sadiq Khan. In an address to the UN general assembly, Trump said: “I look at London, where you have a terrible mayor, terrible, terrible mayor, and it’s been changed, it’s been so changed. Now they want to go to sharia law. But you are in a different country, you can’t do that.” Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/23/donald-trump-sharia-law-attack-sadiq-khan-outrages-labour",
-    "published": "2025-09-23T17:36:32Z",
-    "image_url": "https://i.guim.co.uk/img/media/413f758b065ff41ce68f06b5b901482175f09bee/308_0_5458_4367/master/5458.jpg?width=140&quality=85&auto=format&fit=max&s=b03a518ebf891a5d676469e13516f0df",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-30b445fbb5",
-    "source": "The Guardian — UK",
-    "title": "‘Pay no attention’: global health agencies dismiss false Trump claim on everyday painkillers",
-    "summary": "Medical experts and regulators say US president should not be questioning established science Global health agencies and regulators have dismissed unscientific advice from Donald Trump that made an unproven link between autism and the use of everyday painkillers and vaccines. In a sign of how worried foreign governments are about the US president’s comments, the health secretary of the UK, which is one the US’s closest allies, told the British public they should not “pay any attention whatsoever to what Donald Trump says about medicine”. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/sep/23/global-health-agencies-dismiss-false-trump-claim-everyday-painkillers",
-    "published": "2025-09-23T17:08:21Z",
-    "image_url": "https://i.guim.co.uk/img/media/869f52b04541fe638cfc292c738614831164f192/62_0_2011_1608/master/2011.jpg?width=140&quality=85&auto=format&fit=max&s=c7eb7ba9bde7e2e7716335d83b51e379",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-98886aa448",
     "source": "The Guardian — UK",
     "title": "Wes Streeting rejects Trump claim linking paracetamol and autism",
@@ -408,13 +456,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-edc9a85026",
+    "id": "The Guardian — UK-57bead331c",
     "source": "The Guardian — UK",
-    "title": "Asylum seeker at centre of Essex hotel protests jailed for 12 months",
-    "summary": "Hadush Gerberslasie Kebatu, 38, was convicted last month of assaulting a 14-year-old girl and a woman An asylum seeker staying at a hotel in Essex that became the focus of protests has been jailed for 12 months for the assault of a 14-year-old girl and a woman. Hadush Gerberslasie Kebatu, 38, from Ethiopia, who had been living in the Bell hotel in Epping, was found guilty last month of two counts of sexual assault and one of attempted sexual assault, committed days after arriving in the UK on a small boat. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/23/asylum-seeker-at-centre-of-essex-hotel-protests-jailed-for-12-months",
-    "published": "2025-09-23T16:49:40Z",
-    "image_url": "https://i.guim.co.uk/img/media/a2236e8615e47bf90c50589b17ef9b05aa329219/99_96_2262_1809/master/2262.jpg?width=140&quality=85&auto=format&fit=max&s=bc938efa679d3f84ff767b60d7149bf5",
+    "title": "Ed Davey warns NHS will be privatised and gun laws rolled back by ‘hypocrite’ Farage in Lib Dem conference speech – as it happened",
+    "summary": "This blog is now closed, you can read more on this story here: Lib Dems the last block against ‘forces of darkness’ led by Farage, says Ed Davey Ed Davey , the Lib Dem leader, criticised Donald Trump for “the cruelty and stupidity” of his approach to medical research in comments distributed yesterday before Trump made bogus claims about autism in the Oval Office. (See 8.41am .) Now Davey has described the president’s latest comments as “dangerous nonsense”. First Trump slashed funding for vaccines research now he’s peddling dangerous nonsense about paracetamol. The UK should take on Trump’s anti-science agenda and open our doors to US researchers. The US government is ignoring science and deliberately spreading misinformation. It will get people killed. And we have a Reform party that seems quite keen to import their health advice from these people. Boldest of the lot are the proposals on migration, which, if taken up even in part, would represent the biggest paradigm shift of all. Reform UK has set the agenda with proposals to deny benefits to even legal migrants. By the standards of the centre-left, Labour Together’s suggestion is just as radical. Rather than leave Isak, an Eritrean with post-traumatic stress disorder, languishing in an asylum hotel , their paper proposes he be granted time-limited refugee status for six months. He signs a contract that obliges him to learn English, find work and private accommodation; his access to any income support via universal credit is strictly conditional on him fulfilling its terms. Of all the changes suggested, this one – given that asylum seekers cannot currently work legally – would have the most profound consequences for British politics and the economy. Why an asylum-seeker is drawn to Britain over, say, France is not obvious. A 2016 report from Warwick University, based on findings from 29 separate studies into asylum-seeker motives, concluded that social networks and shared languages were crucial. The report could not find a single study showing a significant correlation between work rights and destination choice. If asylum-seekers in Calais were motivated by working rights those who had yet to apply would stay in France, where they could work sooner. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/23/lib-dem-ed-davey-conference-donald-trump-keir-starmer-labour-reform-tory-latest-politics-live-news-updates",
+    "published": "2025-09-23T16:48:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/32ee691cb0e28e1ddf16cedba7db7c36ce3c4ab1/857_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=45f7daec55c476c5876f96f443f6ff34",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -427,18 +475,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/23/uk-civil-servants-staff-network-meeting-rules",
     "published": "2025-09-23T16:44:34Z",
     "image_url": "https://i.guim.co.uk/img/media/aa16defe177029710f28200a4e366c175da792f9/89_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=47c5ae42cf3a154a80986fe10c97c10d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f8d06cd333",
-    "source": "BBC — Top Stories",
-    "title": "How Dickie Bird became a cricket legend without scoring a run for England",
-    "summary": "Dickie Bird, who has died aged 92, did not play cricket for England, yet his status as a legend of the game is in no doubt, writes BBC chief cricket reporter Stephan Shemilt.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c3e7pylgzz2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T14:26:21Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d0/live/334ebf40-9880-11f0-b146-278281693603.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -468,30 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-bd6fe847d8",
-    "source": "The Guardian — UK",
-    "title": "Lib Dems the last block against ‘forces of darkness’ led by Farage, says Ed Davey",
-    "summary": "Lib Dem leader’s conference speech takes aim at Reform by predicting it would bring Trump-style policies to UK Analysis: Lib Dems aim to go big as they spot electoral opportunity The Liberal Democrats are the only remaining block against “the forces of darkness” led by Nigel Farage, Ed Davey has told his party’s annual conference in a speech that repeatedly and at times personally took aim at the Reform UK leader. With Lib Dem strategists increasingly believing that Reform has become the party’s main opponent, Davey sought to yoke Farage directly to Donald Trump, arguing that if Farage won power, Reform would implement many of the same policies – including a relaxation of gun laws. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/23/lib-dems-last-block-forces-darkness-farage-says-ed-davey",
-    "published": "2025-09-23T13:48:42Z",
-    "image_url": "https://i.guim.co.uk/img/media/de2c947dc544989cde4c62289f080e3be3d17a17/0_0_2711_2168/master/2711.jpg?width=140&quality=85&auto=format&fit=max&s=7e44be7698d4ac23c09a00bb97baf207",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-d12d50a087",
-    "source": "The Guardian — UK",
-    "title": "UK manufacturing sector falters amid Jaguar Land Rover cyber-attack",
-    "summary": "Business secretary meets employees from JLR and its suppliers as pause in JLR car production is extended The UK manufacturing sector posted a sharp decline in output this month as Britain’s biggest carmaker, Jaguar Land Rover, suffered a cyber-attack and paused production, a shutdown that will drag on into October. The business secretary, Peter Kyle, and the industry minister Chris McDonald met employees from JLR and its suppliers on Tuesday as the government assessed the fallout from the cyber-attack, amid calls for financial support for affected businesses. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/sep/23/peter-kyle-jaguar-land-rover-shutdown-car-production-jlr-cyber-attack",
-    "published": "2025-09-23T13:32:00Z",
-    "image_url": "https://i.guim.co.uk/img/media/46941950b0157c0bec9380861bb804d9e12398a4/1880_367_4068_3254/master/4068.jpg?width=140&quality=85&auto=format&fit=max&s=5b17f50c6a2d33d573673df18e33f046",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-170f806141",
     "source": "The Guardian — UK",
     "title": "Lib Dems aiming to go big as they spot electoral opportunity",
@@ -499,18 +511,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/23/lib-dems-aiming-to-go-big-as-they-eye-electoral-opportunity-ed-davey-party-conference",
     "published": "2025-09-23T13:30:56Z",
     "image_url": "https://i.guim.co.uk/img/media/ff542b4e519e6ef06bf55f92efc75bf9c18e9019/241_0_2470_1976/master/2470.jpg?width=140&quality=85&auto=format&fit=max&s=c767bff1e2115cce9597b54991dc099f",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-503c8d6557",
-    "source": "The Guardian — UK",
-    "title": "UK to suffer highest inflation in G7 this year, says OECD",
-    "summary": "International body warns British rate will be higher than that in US, despite effects of Trump tariffs The UK is expected to suffer the highest inflation among G7 nations this year, the Organisation for Economic Co-operation and Development has said. Amid resurgent food prices, with some retailers blaming the UK government’s £25bn-a-year increase in employer national insurance contributions (NICs) for pushing up costs, the OECD predicts that inflation in the UK will average 3.5% in 2025. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/sep/23/global-economy-more-resilient-trump-tariffs-oecd",
-    "published": "2025-09-23T11:54:59Z",
-    "image_url": "https://i.guim.co.uk/img/media/e63a3621567fa827304c16d5e2450164ff2de337/624_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=9e03318a174d72d96136eb69e39f1274",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
