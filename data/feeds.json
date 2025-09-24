@@ -1,12 +1,96 @@
 [
   {
+    "id": "BBC — Top Stories-2a7c3605a5",
+    "source": "BBC — Top Stories",
+    "title": "Urgent review ordered into asylum seeker taxi costs after BBC investigation",
+    "summary": "Asylum seekers are travelling long distances for appointments, with one telling the BBC his journey to visit a GP cost the Home Office £600.",
+    "url": "https://www.bbc.com/news/articles/cx2j3regpdno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T12:33:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c61/live/c007b100-9923-11f0-af62-91486a511a31.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-a78566c31a",
+    "source": "The Guardian — UK",
+    "title": "Royal Parks say no evidence to back Nigel Farage’s claim that migrants are eating their swans – UK politics live",
+    "summary": "Reform UK leader claimed swans and carp being eaten from parks by ‘people from different cultures’ Wes Streeting , the health secretary, has described Nigel Farage over his comment implying Donald Trump might be right about paracetamol posing a risk to pregnant women. (See 10.23am .) Dangerous and irresponsible. This man is a snake oil salesman and it’s time people stopped buying. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/24/labour-tories-conservatives-reform-uk-politics-live-news-updates",
+    "published": "2025-09-24T12:23:40Z",
+    "image_url": "https://i.guim.co.uk/img/media/0ff5243ef03ba438a063a5e6c5a8e7dad5f42601/383_0_3289_2632/master/3289.jpg?width=140&quality=85&auto=format&fit=max&s=da3f7adea5345537fedd7049a122ad13",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-9e04081135",
+    "source": "The Guardian — UK",
+    "title": "Sadiq Khan hits back at ‘racist, sexist, misogynistic and Islamophobic’ Trump",
+    "summary": "Khan’s comments come after US president used speech at UN to call London mayor ‘terrible’ UK politics live – latest updates Sadiq Khan has hit back at Donald Trump, accusing the US president of being “racist, sexist, misogynistic and Islamophobic” after he used a speech at the UN to call the London mayor “terrible” and claim the city was being steered toward “sharia law”. Trump’s remarks on Tuesday night provoked anger among Labour figures, with the health secretary, Wes Streeting, praising Khan as someone who “stands up for difference of background and opinion”. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/24/sadiq-khan-hits-back-at-racist-sexist-misogynistic-and-islamophobic-trump",
+    "published": "2025-09-24T12:12:56Z",
+    "image_url": "https://i.guim.co.uk/img/media/a6b6d7735ee9c42dbb05dda9bfa0f6d0a35e9f18/213_0_4507_3607/master/4507.jpg?width=140&quality=85&auto=format&fit=max&s=a0619358ed7364d2a26ddc8eb1febb06",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-bce4bb4abc",
     "source": "BBC — Top Stories",
     "title": "Police used journalists' phone data to detect leaks by staff, report says",
     "summary": "There were 21 unlawful uses of covert powers to try to uncover reporters' sources between 2011 and 2024.",
     "url": "https://www.bbc.com/news/articles/c62z5k9kw30o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T11:13:16Z",
+    "published": "2025-09-24T12:09:03Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3696/live/80fddd50-9936-11f0-ab4d-5f8ffff7227b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-dd20520c32",
+    "source": "BBC — Top Stories",
+    "title": "Man arrested in connection with cyber-attack on airports",
+    "summary": "The National Crime Agency (NCA) said a man in his forties was arrested in West Sussex.",
+    "url": "https://www.bbc.com/news/articles/c62ldxyj431o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T11:53:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a132/live/f7b9e9a0-9938-11f0-869a-3fa4ad43e8ee.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-10c0756830",
+    "source": "The Guardian — UK",
+    "title": "UK arrest over cyberattack that hit Heathrow and European airports",
+    "summary": "Man in West Sussex was held as part of investigation into last weekend’s incident affecting Collins Aerospace A man has been arrested in the UK in connection with the cyber-attack that disrupted flights at London Heathrow and several other European airports last weekend. The National Crime Agency said it had arrested a man in his 40s in West Sussex as part of an investigation into the incident affecting Collins Aerospace, which provides check-in desk technology for airlines. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/24/arrest-cyberattack-hit-heathrow-european-airports",
+    "published": "2025-09-24T11:53:22Z",
+    "image_url": "https://i.guim.co.uk/img/media/30cb0c3d6d0c29d43225c598e66778d75da4d3ac/725_0_4004_3204/master/4004.jpg?width=140&quality=85&auto=format&fit=max&s=d7d4f53ad8d2e99d593065fcd9a7da02",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e1e0568bda",
+    "source": "BBC — Top Stories",
+    "title": "Trump is racist and sexist, London Mayor Sadiq Khan says",
+    "summary": "The Mayor of London responds to the US president's speech to the United Nations.",
+    "url": "https://www.bbc.com/news/articles/cre53qn8v07o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T11:31:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9082/live/d4e00a80-993e-11f0-858a-a904eacbef23.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-3d86665b30",
+    "source": "The Guardian — UK",
+    "title": "Peter Mandelson’s advisory firm revokes his voting rights and ends dividend payments",
+    "summary": "Global Counsel co-founder was sacked as US ambassador amid email revelations about extent of relationship with Jeffrey Epstein Peter Mandelson’s advisory company has revoked his voting rights and cut off dividend payments, after his firing as US ambassador amid email revelations about the extent of his relationship with the child sex offender Jeffrey Epstein. Global Counsel, which the Labour peer co-founded in 2010 alongside Benjamin Wegg-Prosser, has moved to alter the designation of Mandelson’s shares in the business. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/24/peter-mandelson-advisory-firm-revokes-his-voting-rights-and-ends-dividend-payments",
+    "published": "2025-09-24T11:25:51Z",
+    "image_url": "https://i.guim.co.uk/img/media/e11c703e1f598db4eb512511684972d44d5e1cbd/550_0_6569_5259/master/6569.jpg?width=140&quality=85&auto=format&fit=max&s=7333bf0c93377421107cfa1f3343ceab",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -24,37 +108,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-2a7c3605a5",
+    "id": "BBC — Top Stories-b326264da7",
     "source": "BBC — Top Stories",
-    "title": "Urgent review ordered into asylum seeker taxi costs after BBC investigation",
-    "summary": "Asylum seekers are travelling long distances for appointments, with one telling the BBC his journey to visit a GP cost the Home Office £600.",
-    "url": "https://www.bbc.com/news/articles/cx2j3regpdno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T11:02:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c61/live/c007b100-9923-11f0-af62-91486a511a31.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-a78566c31a",
-    "source": "The Guardian — UK",
-    "title": "Royal Parks say no evidence to back Nigel Farage’s claim that migrants are eating their swans – UK politics live",
-    "summary": "Reform UK leader claimed swans and carp being eaten from parks by ‘people from different cultures’ The Royal Parks have rejected a claim from Nigel Farage that migrants are killing and eating swans from their grounds. The Reform UK leader made the assertion in his LBC interview this morning as he deflected a question about whether Donald Trump was wrong last year when he claimed migrants in Ohio were eating dogs and cats. Trump’s comment was widely dismissed as a racist slur. If I said to you that swans were being eaten in royal parks and carps were being taken out of ponds and eaten in this country from people with different cultures. Would you agree that is happening? We’ve not had any incidents reported to us of people killing or eating swans in London’s eight Royal Parks. Our wildlife officers work closely with the Swan Sanctuary to ensure the welfare of the swans across the parks. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/sep/24/labour-tories-conservatives-reform-uk-politics-live-news-updates",
-    "published": "2025-09-24T11:01:40Z",
-    "image_url": "https://i.guim.co.uk/img/media/0ff5243ef03ba438a063a5e6c5a8e7dad5f42601/383_0_3289_2632/master/3289.jpg?width=140&quality=85&auto=format&fit=max&s=da3f7adea5345537fedd7049a122ad13",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-dd20520c32",
-    "source": "BBC — Top Stories",
-    "title": "Man arrested in connection with airport cyber-attacks",
-    "summary": "The National Crime Agency (NCA) said a 40-year-old man was arrested in West Sussex.",
-    "url": "https://www.bbc.com/news/articles/c62ldxyj431o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T10:58:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+    "title": "Watch: Water shatters doors of Hong Kong hotel as typhoon batters region",
+    "summary": "A person was swept off their feet as water burst into the building.",
+    "url": "https://www.bbc.com/news/videos/cj6x98nedpyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T11:03:18Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ca9/live/19cbc000-9942-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -72,22 +132,10 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-29fb2ac571",
-    "source": "BBC — Top Stories",
-    "title": "Kyiv can win all of Ukraine back from Russia, Trump says",
-    "summary": "The US president says Ukraine can win back land with support from Nato and Europe, marking a major shift in his position.",
-    "url": "https://www.bbc.com/news/articles/c07vm35rryeo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T10:26:41Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3794/live/982fd820-98aa-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-0c23cf347a",
     "source": "BBC — Top Stories",
     "title": "Jimmy Kimmel pulls no punches in TV return as he ramps up battle with Trump",
-    "summary": "The US talk show host isn't backing down after being suspended, it seems to have hardened his resolve.",
+    "summary": "The US talk show host isn't backing down after being suspended; it seems to have hardened his resolve.",
     "url": "https://www.bbc.com/news/articles/c0r09qdnd4yo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T10:22:53Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5594/live/65cc81f0-9920-11f0-9a4d-cda90a899290.jpg",
@@ -276,18 +324,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-ef47d58d0b",
-    "source": "The Guardian — UK",
-    "title": "Fears of new PFI-style ‘disaster’ as firms handed £6m to advise on using private funds for NHS clinics",
-    "summary": "Exclusive: Consultants and lawyers hired to advise on using public-private partnerships to build ‘neighbourhood health centres’ in England Ministers have handed firms £6m in contracts to help devise plans to build a network of new NHS clinics using private capital, despite fears the move could turn into a PFI-style disaster. The Department of Health and Social Care has awarded contracts worth £3m each to the management consultants Deloitte and the lawyers Addleshaw Goddard. They are advising the DHSC on whether to use public-private partnerships (PPPs) to help build dozens of the promised “neighbourhood health centres” in England. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/sep/24/fears-of-new-pfi-style-disaster-as-firms-handed-6m-to-advise-on-using-private-funds-for-nhs-clinics",
-    "published": "2025-09-24T06:00:16Z",
-    "image_url": "https://i.guim.co.uk/img/media/7602b1f8f0ffdb3a0c7395c9f7699f3d07047667/349_0_2301_1842/master/2301.jpg?width=140&quality=85&auto=format&fit=max&s=aeadc5962071532d79976dcbd21f16f7",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-470ca80067",
     "source": "BBC — Top Stories",
     "title": "Lamine Yamal - the eve of a new football era",
@@ -331,18 +367,6 @@
     "url": "https://www.bbc.com/news/articles/cx2jpmk0lvgo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T05:16:55Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a61/live/fc31d210-98c8-11f0-af62-91486a511a31.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-328fcef481",
-    "source": "The Guardian — UK",
-    "title": "Change prostate cancer treatment for black men to avoid ‘epidemic’, NHS urged",
-    "summary": "Campaigners seek to raise awareness that twice as many black men are getting the disease than white men The NHS must change how black men are treated for prostate cancer to prevent “an epidemic of unnecessary deaths” in which twice as many die as white men, campaigners have warned. Academics are seeking to raise awareness that one in four black men are getting this cancer, twice the rate of white men, which is one in eight, according to Prostate Cancer UK’s analysis of patient datasets for England. One in 12 black men are at risk of dying of this condition compared with one in 24 white men. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/sep/24/change-prostate-cancer-treatment-black-men-avoid-epidemic-nhs-urged",
-    "published": "2025-09-24T05:00:18Z",
-    "image_url": "https://i.guim.co.uk/img/media/2a7c40c2eb92936a956ae604f66adaf105d19020/390_0_7240_5792/master/7240.jpg?width=140&quality=85&auto=format&fit=max&s=775639d1c479d0294c28121d3f07622c",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -422,7 +446,7 @@
   {
     "id": "BBC — Top Stories-9174bf48f5",
     "source": "BBC — Top Stories",
-    "title": "Cups, pants or tampons - what's the best period choice for me?",
+    "title": "How to avoid period leaks - the pros and cons of cups, pants and tampons",
     "summary": "Here is a guide to how each product works and the pros and cons to help you decide what might suit you.",
     "url": "https://www.bbc.com/news/articles/cgl1z3jxy56o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T23:02:07Z",
@@ -444,25 +468,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e7baa52ede",
-    "source": "BBC — Top Stories",
-    "title": "Fat Bear Week kicks off - watch some of the contestants",
-    "summary": "Success gets winners a spot on the champion's wall at Katmai National Park in Alaska, but also improves their survival chances this winter.",
-    "url": "https://www.bbc.com/news/videos/cdxq4x55rnpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T21:54:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d299/live/2b096a00-98c2-11f0-858a-a904eacbef23.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-af4fe3f9a6",
     "source": "BBC — Top Stories",
     "title": "Killed seeking food - Jeremy Bowen on Abdullah's shooting and Gaza's lethal aid system",
     "summary": "Inside Panorama and BBC Eye's investigation into hunger in Gaza and why so many are risking their lives for aid.",
     "url": "https://www.bbc.com/news/articles/c75qr0gk0yqo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T21:39:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1922/live/72e96d30-98ad-11f0-af62-91486a511a31.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c481/live/04606bf0-9940-11f0-af62-91486a511a31.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -511,18 +523,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/23/home-office-blocked-from-appealing-against-halt-to-deportation-of-eritrean-under-one-in-one-out",
     "published": "2025-09-23T18:21:06Z",
     "image_url": "https://i.guim.co.uk/img/media/e6fc3030a850b80ab1324f68ded4d025094029f0/0_0_1440_1152/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=e0cef0d7029e9e15a5f8f9133a8faac6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-98886aa448",
-    "source": "The Guardian — UK",
-    "title": "Wes Streeting rejects Trump claim linking paracetamol and autism",
-    "summary": "Health secretary joins medical experts in urging pregnant women to ignore US president’s remarks Wes Streeting has rejected Donald Trump’s unproven claims of a link between taking paracetamol in pregnancy and autism, urging mothers-to-be to ignore the US president’s remarks. The health secretary challenged Trump’s statements, which medical experts have stressed are not based on evidence , as part of a drive to reassure mothers-to-be in the UK. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/23/wes-streeting-rejects-trump-claim-linking-paracetamol-and-autism",
-    "published": "2025-09-23T16:52:09Z",
-    "image_url": "https://i.guim.co.uk/img/media/b362263f4c25eb6af831352c1bc19c552b6bb505/924_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a423082718d90470abfbed4e703ca4fd",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
