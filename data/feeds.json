@@ -1,5 +1,53 @@
 [
   {
+    "id": "BBC — Top Stories-35f0b282fe",
+    "source": "BBC — Top Stories",
+    "title": "Jimmy Kimmel calls out 'anti-American' threats to free speech in tearful TV return",
+    "summary": "The comedian returned from a brief suspension after comments he made about the killing of conservative activist Charlie Kirk.",
+    "url": "https://www.bbc.com/news/articles/c9dx6dlelw8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T07:17:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eda/live/fe33ab00-9914-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-92649e6f77",
+    "source": "BBC — Top Stories",
+    "title": "AI tool helped recover £500m lost to fraud, government says",
+    "summary": "Ministers say software developed by the Cabinet Office has helped to ramp up fraud detection.",
+    "url": "https://www.bbc.com/news/articles/cpd92gpld0go?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T07:11:54Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98be/live/12f91a30-98ab-11f0-a14e-6d2172009a89.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-5203091bfc",
+    "source": "Politico — UK",
+    "title": "Kimmel jabs ‘bully’ Trump for restricting free speech",
+    "summary": "\"We have to speak out against this bully. He’s not stopping. And it’s not just comedy. He’s gunning for our journalists too,\" TV host said, referring to the U.S. president.",
+    "url": "https://www.politico.com/news/2025/09/24/jimmy-kimmel-return-monologue-00576321?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-24T07:11:35Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-09d7127607",
+    "source": "BBC — Top Stories",
+    "title": "Disruption at Stansted with cancelled trains and fire",
+    "summary": "All trains into the airport have been cancelled or disrupted until 08:00, national Rail has confirmed.",
+    "url": "https://www.bbc.com/news/articles/c0r09nyj5wpo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T06:37:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b49a/live/f848c680-9914-11f0-ac38-4964594604b1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-7b96856e6d",
     "source": "The Guardian — UK",
     "title": "School history lessons minimise the role of women, report finds",
@@ -60,13 +108,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-92649e6f77",
+    "id": "BBC — Top Stories-2afa107945",
     "source": "BBC — Top Stories",
-    "title": "AI tool used to recover £500m lost to fraud, government says",
-    "summary": "Ministers say software developed by the Cabinet Office has helped to ramp up fraud detection.",
-    "url": "https://www.bbc.com/news/articles/cpd92gpld0go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T05:02:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98be/live/12f91a30-98ab-11f0-a14e-6d2172009a89.jpg",
+    "title": "TikTok influencer 'mocked' for stammer refuses apology from German football club",
+    "summary": "Jessie Yendle says videos posted by Borussia Dortmund and Ironman used her as \"clickbait\".",
+    "url": "https://www.bbc.com/news/articles/c36k4ry6kjro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T05:10:17Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f74/live/ec66dfe0-9861-11f0-b567-dbb771c68d85.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -302,8 +350,8 @@
   {
     "id": "BBC — Top Stories-831560af88",
     "source": "BBC — Top Stories",
-    "title": "Phone spyware scandal deepens in Greece as four appear in court",
-    "summary": "Two Israelis and two Greeks are allegedly involved with marketing spy software known as Predator.",
+    "title": "Phone spyware scandal in Greece moves to court as critics claim cover-up",
+    "summary": "Four people go on trial accused of misdemeanours but opponents ask why no government officials have been charged.",
     "url": "https://www.bbc.com/news/articles/ced56p5l2wwo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T23:14:18Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c769/live/b8a4bb70-9873-11f0-af33-49fc1d1f447a.jpg",
@@ -327,10 +375,10 @@
     "id": "BBC — Top Stories-94e4d7b4a7",
     "source": "BBC — Top Stories",
     "title": "Lulu: Telling the world I'm an alcoholic was liberating",
-    "summary": "The Shout singer reveals her secret struggle with drink - and how she's stayed sober for 12 years.",
+    "summary": "The Shout singer discloses her alcohol problem - and the family history that contributed to it.",
     "url": "https://www.bbc.com/news/articles/c4g7p8l8214o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T23:09:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29e7/live/30cde1c0-9875-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8521/live/d795d520-9911-11f0-af62-91486a511a31.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -338,7 +386,7 @@
   {
     "id": "BBC — Top Stories-9174bf48f5",
     "source": "BBC — Top Stories",
-    "title": "What's the best period product for me?",
+    "title": "Cups, pants or tampons - what's the best period choice for me?",
     "summary": "Here is a guide to how each product works and the pros and cons to help you decide what might suit you.",
     "url": "https://www.bbc.com/news/articles/cgl1z3jxy56o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T23:02:07Z",
@@ -360,25 +408,13 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-09ba7d4002",
-    "source": "Politico — UK",
-    "title": "EU-Iran sanctions talks fail to yield breakthrough with deadline looming",
-    "summary": "Europe wants to avert sanctions against Iran but its diplomats admit Tehran isn't budging on its nuclear program.",
-    "url": "https://www.politico.eu/article/eu-iran-sanctions-deadline-un-kaja-kallas-defense-foreign-ministry-nuclear/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-23T22:48:42Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/24/GettyImages-2235718410-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-fccbdae63d",
+    "id": "BBC — Top Stories-85f1dfe12b",
     "source": "BBC — Top Stories",
-    "title": "Casualties from Israeli strikes overwhelm Gaza City medics",
-    "summary": "Australian doctors say they are having to operate in filthy conditions with few or no anaesthetics.",
-    "url": "https://www.bbc.com/news/articles/cgknzk46kz6o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T22:30:43Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8159/live/375c58a0-98ca-11f0-928c-71dbb8619e94.jpg",
+    "title": "Energy users to be offered bill changes, but it might not lead to savings",
+    "summary": "The regulator's plans could be in place by the end of January, but it warns total bills won't fall.",
+    "url": "https://www.bbc.com/news/articles/cx20dwzgq51o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T23:01:03Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6212/live/dceed1c0-9880-11f0-b146-278281693603.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -427,18 +463,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/23/tories-demand-inquiry-into-claims-labours-mcsweeney-misled-elections-watchdog",
     "published": "2025-09-23T20:33:33Z",
     "image_url": "https://i.guim.co.uk/img/media/e273bb5d22ba636b3bbad098625ec75f0345b1e2/1345_320_2648_2119/master/2648.jpg?width=140&quality=85&auto=format&fit=max&s=e6f5618ab0ffbaaca5d0612186d4c00c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-5943dcbe18",
-    "source": "BBC — Top Stories",
-    "title": "Dani Dyer pulls out of Strictly with broken ankle",
-    "summary": "The TV presonality says she \"landed funny\" in training on Friday and a scan has confirmed a fracture.",
-    "url": "https://www.bbc.com/news/articles/c98d6z1j9neo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T20:26:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c869/live/cd055240-98a1-11f0-b37c-21373da9ac07.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -504,18 +528,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-99965364f4",
-    "source": "BBC — Top Stories",
-    "title": "Fact-checking claims Trump made about autism",
-    "summary": "Experts have hit back at claims that use of a common painkiller could cause autism in children.",
-    "url": "https://www.bbc.com/news/articles/cj07e3rjev2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T14:14:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4d6/live/05835970-9882-11f0-928c-71dbb8619e94.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-170f806141",
     "source": "The Guardian — UK",
     "title": "Lib Dems aiming to go big as they spot electoral opportunity",
@@ -523,18 +535,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/23/lib-dems-aiming-to-go-big-as-they-eye-electoral-opportunity-ed-davey-party-conference",
     "published": "2025-09-23T13:30:56Z",
     "image_url": "https://i.guim.co.uk/img/media/ff542b4e519e6ef06bf55f92efc75bf9c18e9019/241_0_2470_1976/master/2470.jpg?width=140&quality=85&auto=format&fit=max&s=c767bff1e2115cce9597b54991dc099f",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9c24f056e4",
-    "source": "BBC — Top Stories",
-    "title": "Is the Epstein email one scandal too many for Duchess of York?",
-    "summary": "Her links to sex offender Jeffrey Epstein seem much harder to resolve than previous mistakes.",
-    "url": "https://www.bbc.com/news/articles/czx0nr29neeo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T11:23:18Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/042b/live/6c5ec810-9872-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
