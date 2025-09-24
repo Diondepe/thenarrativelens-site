@@ -1,5 +1,29 @@
 [
   {
+    "id": "BBC — Top Stories-5957dc7213",
+    "source": "BBC — Top Stories",
+    "title": "'Anti-ICE' message on ammunition at Dallas shooting that killed immigration detainee",
+    "summary": "The gunman fired at an unmarked van near the detention facility, before taking his own life, officials say.",
+    "url": "https://www.bbc.com/news/articles/ckge9d26z1ro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T21:02:43Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ab/live/f4976ef0-996f-11f0-97f5-bd38218a3641.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ce36af6859",
+    "source": "BBC — Top Stories",
+    "title": "Government considers financial support for JLR suppliers",
+    "summary": "Fears are growing that some of the car maker's suppliers could go bust without support.",
+    "url": "https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T20:44:22Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c79/live/56b321e0-997c-11f0-b6a6-3b33e4575a79.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-2d3c508312",
     "source": "The Guardian — UK",
     "title": "Boris Johnson says Farage’s stance on Russia is ‘extremely dangerous’",
@@ -31,18 +55,6 @@
     "url": "https://www.bbc.com/news/articles/cj4y159190go?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T18:57:20Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73e0/live/86e8f090-97d0-11f0-9dd8-57dfaa725755.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-5957dc7213",
-    "source": "BBC — Top Stories",
-    "title": "'Anti-ICE' message on ammunition at Dallas shooting that killed two immigration detainees",
-    "summary": "The gunman fired at an unmarked van near the detention facility, before taking his own life, officials say.",
-    "url": "https://www.bbc.com/news/articles/ckge9d26z1ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T18:55:10Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ab/live/f4976ef0-996f-11f0-97f5-bd38218a3641.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -138,7 +150,7 @@
     "summary": "Physicians worry pregnant women may forgo a treatment over an unproven link between Tylenol and autism.",
     "url": "https://www.bbc.com/news/articles/ckgym44gy24o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T18:13:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ee4/live/cbede530-9959-11f0-af33-e32b3939e8ca.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7d3/live/3c2d7430-9984-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -439,18 +451,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/24/farage-refuses-criticise-trump-paracetamol-health-experts-dismiss-autism-claims",
     "published": "2025-09-24T12:29:40Z",
     "image_url": "https://i.guim.co.uk/img/media/a958a1857ff07d422584b4cd21fad2ff78ddce27/1371_39_4406_3525/master/4406.jpg?width=140&quality=85&auto=format&fit=max&s=de85c3de86f630f38790497d3b9ac214",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-dd20520c32",
-    "source": "BBC — Top Stories",
-    "title": "Man arrested in connection with cyber-attack on airports",
-    "summary": "The National Crime Agency (NCA) said a man in his forties was arrested in West Sussex.",
-    "url": "https://www.bbc.com/news/articles/c62ldxyj431o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T11:53:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a132/live/f7b9e9a0-9938-11f0-869a-3fa4ad43e8ee.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
