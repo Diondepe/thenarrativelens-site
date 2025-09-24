@@ -1,5 +1,41 @@
 [
   {
+    "id": "The Guardian — UK-2d3c508312",
+    "source": "The Guardian — UK",
+    "title": "Boris Johnson says Farage’s stance on Russia is ‘extremely dangerous’",
+    "summary": "Former PM also brands Reform UK a threat to national security and raises concern about its approach to the economy Boris Johnson has said Nigel Farage’s stance on Russia is “extremely dangerous” and Reform UK is a threat to national security. The former prime minister’s attack comes in a week in which Reform has stepped up its criticism of what it calls the “Boriswave” of post-Brexit legal migration. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/24/boris-johnson-says-farages-stance-on-russia-is-extremely-dangerous",
+    "published": "2025-09-24T19:27:36Z",
+    "image_url": "https://i.guim.co.uk/img/media/ce4641d44179b2a71803221baddf7e7717e9fc7b/293_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=ca06df3f8c70b448ecea132d03b2a5fe",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-16b0395668",
+    "source": "Politico — UK",
+    "title": "Shooting down Russian jets ‘on the table,’ von der Leyen says",
+    "summary": "The Commission president's comment follows an assertion by U.S. President Donald Trump that NATO countries should shoot down Russian jets that violate their airspace.",
+    "url": "https://www.politico.eu/article/ursula-von-der-leyen-russia-nato-airspace/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-24T19:22:11Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/24/GettyImages-2235706086-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ac9961d127",
+    "source": "BBC — Top Stories",
+    "title": "China makes landmark pledge to cut its climate emissions",
+    "summary": "It is China's first firm goal to reduce emissions but falls well short of what is needed to meet global targets.",
+    "url": "https://www.bbc.com/news/articles/cj4y159190go?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T18:57:20Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73e0/live/86e8f090-97d0-11f0-9dd8-57dfaa725755.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-5957dc7213",
     "source": "BBC — Top Stories",
     "title": "'Anti-ICE' message on ammunition at Dallas shooting that killed two immigration detainees",
@@ -15,7 +51,7 @@
     "id": "The Guardian — UK-efae9d4e66",
     "source": "The Guardian — UK",
     "title": "‘Sorry for the confusion’: Jeremy Corbyn says membership is open for new party",
-    "summary": "Former Labour leader announces November conference after week of turmoil, without mention of Zarah Sultana Jeremy Corbyn has apologised to his leftwing party’s supporters for a week of turmoil and division, in a video that failed to feature or mention its co-founder Zarah Sultana. The former Labour leader said membership was now officially open and that the new party would have its founding conference in Liverpool at the end of November. Continue reading...",
+    "summary": "Former Labour leader announces November conference after week of turmoil, without mention of Zarah Sultana Jeremy Corbyn has apologised to his leftwing party’s supporters for a week of turmoil and division, in a video that failed to mention its co-founder Zarah Sultana. The former Labour leader said membership was now officially open and that the new party would have its founding conference in Liverpool at the end of November. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/24/sorry-for-the-confusion-jeremy-corbyn-your-party-membership-zarah-sultana",
     "published": "2025-09-24T18:52:37Z",
     "image_url": "https://i.guim.co.uk/img/media/589f0bc322cbf65137159808737752ce784efd52/459_0_4062_3251/master/4062.jpg?width=140&quality=85&auto=format&fit=max&s=efee5c0c27a5f2464fbe4153c7974396",
@@ -60,18 +96,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-1bd1a9dc83",
-    "source": "BBC — Top Stories",
-    "title": "Twenty injured in Yemen drone attack on Israel, rescuers and military say",
-    "summary": "Two have been taken to hospital with serious shrapnel injuries, the Magen David Adom ambulance service says.",
-    "url": "https://www.bbc.com/news/articles/c0m4plxy30wo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T18:36:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cddb/live/0545d1d0-995f-11f0-aca3-edea9c285f2c.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-3e9e9d7c86",
     "source": "Politico — UK",
     "title": "Von der Leyen’s messages auto-delete to save space on her phone, Commission says",
@@ -102,7 +126,7 @@
     "summary": "Small child part of first reciprocal intake after removal of four asylum seekers from Britain to France over past week A family of three including a small child have become the first arrivals from France under Keir Starmer’s “one in, one out” deal, the Home Office has said. The move follows the removal on Wednesday of the first four asylum seekers from the UK to France over the past six days, despite continuing legal challenges. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/sep/24/first-arrivals-uk-one-in-one-out-immigration-deal-france",
     "published": "2025-09-24T18:16:58Z",
-    "image_url": "https://i.guim.co.uk/img/media/651f5c418a4dd00669f0660dc679e524f7ee5794/614_518_2066_1653/master/2066.jpg?width=140&quality=85&auto=format&fit=max&s=0014cf6d0f92e7ee921646fe896a7e02",
+    "image_url": "https://i.guim.co.uk/img/media/76b72c3297c163f041c6726b33f2f9d5fed310b6/521_35_2611_2089/master/2611.jpg?width=140&quality=85&auto=format&fit=max&s=d240216934ca0099786c5ec6587d2c5a",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -110,7 +134,7 @@
   {
     "id": "BBC — Top Stories-de5339a72d",
     "source": "BBC — Top Stories",
-    "title": "How doctors in the US are responding to Trump's autism announcement",
+    "title": "US doctors on women's guilt, anxiety and fear after Trump links Tylenol and autism",
     "summary": "Physicians worry pregnant women may forgo a treatment over an unproven link between Tylenol and autism.",
     "url": "https://www.bbc.com/news/articles/ckgym44gy24o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T18:13:42Z",
@@ -246,7 +270,7 @@
     "summary": "Astronauts of Nasa's first crewed mission to the Moon for more than 50 years hope their journey inspires a new generation.",
     "url": "https://www.bbc.com/news/articles/cvg0kv8rq0xo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T16:20:53Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8bd/live/325d16c0-9945-11f0-858a-a904eacbef23.png",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f078/live/6f02ffa0-997b-11f0-92db-77261a15b9d2.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -360,18 +384,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-6d02cff7b3",
-    "source": "Politico — UK",
-    "title": "Putin forced to raise taxes again as Ukraine war drains finances",
-    "summary": "The costs of running a war economy are slowly coming home to roost.",
-    "url": "https://www.politico.eu/article/vladimir-putin-raise-taxes-ukraine-war-drain-finance/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-24T14:26:33Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/24/GettyImages-2235228147-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-17b33b226d",
     "source": "BBC — Top Stories",
     "title": "Steve Rosenberg: Russia brushes off Trump's claim of 'paper tiger' in aimless war",
@@ -396,13 +408,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-edd00423ab",
+    "id": "The Guardian — UK-c08a3c6f89",
     "source": "The Guardian — UK",
-    "title": "Bloody Sunday: trial of Soldier F can admit hearsay evidence, judge rules",
-    "summary": "Prosecution request granted to admit ‘decisive’ statements by other soldiers present at 1972 shootings in Derry The trial of a former paratrooper charged with two murders and five attempted murders on Bloody Sunday can admit hearsay evidence that has been described by the prosecution as “decisive”, a judge has ruled. The judge, Patrick Lynch, on Wednesday granted a prosecution request to admit statements made by other soldiers who were present during the shootings in Derry on 30 January 1972. The statements include allegations that the accused veteran, known as Soldier F, fired into the courtyard where the two men he is accused of murdering were shot. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/24/bloody-sunday-trial-soldier-f-hearsay-evidence",
-    "published": "2025-09-24T13:48:53Z",
-    "image_url": "https://i.guim.co.uk/img/media/bc71bfb8cf5faf1d8c5f5bf055070e26c90c6cea/0_0_5437_4352/master/5437.jpg?width=140&quality=85&auto=format&fit=max&s=c669e106db54a940bc66cbd0e8f4efad",
+    "title": "BT boss says costs ‘inflicted’ by UK are 10 times those faced by European sector",
+    "summary": "Allison Kirkby also warns that the November budget could be ‘very difficult’ for the chancellor The chief executive of BT has said telecoms operators in the UK pay as much as 10 times the amount in “government-inflicted costs” than those operating in comparable European countries. Allison Kirkby said the industry had already hit the “peak” it could handle in costs imposed by the government, and warned that the November budget could be “very difficult” for the chancellor, Rachel Reeves. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/sep/24/bt-boss-costs-inflicted-uk-10-times-european",
+    "published": "2025-09-24T12:47:14Z",
+    "image_url": "https://i.guim.co.uk/img/media/de490662ea64fd8337ddc9843578eabae19e2d1f/332_0_3335_2668/master/3335.jpg?width=140&quality=85&auto=format&fit=max&s=a63fd6181882f1ca10d15b4953238118",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -482,7 +494,7 @@
   {
     "id": "BBC — Top Stories-421962d4e7",
     "source": "BBC — Top Stories",
-    "title": "Howling winds and sheets of rain: BBC reports from inside the eye of typhoon in China",
+    "title": "Howling winds and sheets of rain: Inside Chinese city battered by Typhoon Ragasa",
     "summary": "The strong winds hit in waves - and standing upright is almost impossible, our correspondent writes.",
     "url": "https://www.bbc.com/news/articles/cq8edyey1llo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T10:00:28Z",
@@ -499,18 +511,6 @@
     "url": "https://www.theguardian.com/money/2025/sep/24/ive-racked-up-3000-in-pcns-on-the-school-run-despite-my-blue-badge",
     "published": "2025-09-24T06:00:18Z",
     "image_url": "https://i.guim.co.uk/img/media/069e2ac492c655dd0e2336a892e9e43a31935c13/0_114_2138_1710/master/2138.jpg?width=140&quality=85&auto=format&fit=max&s=a7f35632f762e8ecac8e88fd0976c90b",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-ef47d58d0b",
-    "source": "The Guardian — UK",
-    "title": "Fears of new PFI-style ‘disaster’ as firms handed £6m to advise on using private funds for NHS clinics",
-    "summary": "Exclusive: Consultants and lawyers hired to advise on using public-private partnerships to build ‘neighbourhood health centres’ in England Ministers have handed firms £6m in contracts to help devise plans to build a network of new NHS clinics using private capital, despite fears the move could turn into a PFI-style disaster. The Department of Health and Social Care has awarded contracts worth £3m each to the management consultants Deloitte and the lawyers Addleshaw Goddard. They are advising the DHSC on whether to use public-private partnerships (PPPs) to help build dozens of the promised “neighbourhood health centres” in England. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/sep/24/fears-of-new-pfi-style-disaster-as-firms-handed-6m-to-advise-on-using-private-funds-for-nhs-clinics",
-    "published": "2025-09-24T06:00:16Z",
-    "image_url": "https://i.guim.co.uk/img/media/7602b1f8f0ffdb3a0c7395c9f7699f3d07047667/349_0_2301_1842/master/2301.jpg?width=140&quality=85&auto=format&fit=max&s=aeadc5962071532d79976dcbd21f16f7",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
