@@ -1,24 +1,36 @@
 [
   {
+    "id": "BBC — Top Stories-ce36af6859",
+    "source": "BBC — Top Stories",
+    "title": "Government considers financial support for JLR suppliers",
+    "summary": "Fears are growing that some of the car maker's suppliers could go bust without support.",
+    "url": "https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T22:08:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c79/live/56b321e0-997c-11f0-b6a6-3b33e4575a79.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-5957dc7213",
     "source": "BBC — Top Stories",
     "title": "'Anti-ICE' message on ammunition at Dallas shooting that killed immigration detainee",
     "summary": "The gunman fired at an unmarked van near the detention facility, before taking his own life, officials say.",
     "url": "https://www.bbc.com/news/articles/ckge9d26z1ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T21:02:43Z",
+    "published": "2025-09-24T22:07:14Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ab/live/f4976ef0-996f-11f0-97f5-bd38218a3641.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-ce36af6859",
-    "source": "BBC — Top Stories",
-    "title": "Government considers financial support for JLR suppliers",
-    "summary": "Fears are growing that some of the car maker's suppliers could go bust without support.",
-    "url": "https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T20:44:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c79/live/56b321e0-997c-11f0-b6a6-3b33e4575a79.png",
+    "id": "The Guardian — UK-388b9e3597",
+    "source": "The Guardian — UK",
+    "title": "Starmer gambles on ‘levelling up’-style initiative to tackle Reform threat",
+    "summary": "Deprived communities to be given tens of millions to patch up derelict shops, pubs and libraries and ‘restore pride’ Deprived areas of the UK will be given tens of millions of pounds each from a new fund that Keir Starmer hopes will help Labour tackle the threat posed by Reform UK. The prime minister will launch the regeneration initiative on Thursday, gambling that an updated version of “levelling up” will address anger about Britain’s broken communities. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/24/starmer-gambles-on-levelling-up-style-initiative-to-tackle-reform-threat",
+    "published": "2025-09-24T21:30:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/c503ff51240a55c5fc67cc606967decbc528deb7/224_0_3516_2813/master/3516.jpg?width=140&quality=85&auto=format&fit=max&s=0b718b211f604c06ff3f88fd883b3b21",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -403,18 +415,6 @@
     "url": "https://www.bbc.com/news/articles/c3e70n4keyjo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T14:26:28Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdda/live/6abe6e60-994a-11f0-b42e-f379dfea869d.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-40175adbd1",
-    "source": "The Guardian — UK",
-    "title": "Huntington’s disease treated successfully for first time in UK gene therapy trial",
-    "summary": "Surgical procedure to treat devastating illness slowed progress of disease by 75% in patients after three years Huntington’s disease, a devastating degenerative illness that runs in families, has been treated successfully for the first time in a breakthrough gene therapy trial. The disease, caused by a single gene defect, steadily kills brain cells leading to dementia, paralysis and ultimately death. Those who have a parent with Huntington’s have a 50% chance of developing the disease, which until now has been incurable. Continue reading...",
-    "url": "https://www.theguardian.com/science/2025/sep/24/huntingtons-disease-treated-successfully-for-first-time-in-gene-therapy-trial",
-    "published": "2025-09-24T14:10:59Z",
-    "image_url": "https://i.guim.co.uk/img/media/f5e4fdd820d66134e43f83e7ecbf54e76d0cfb0f/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=d70309adbbe1c0a36d16c076f5618569",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
