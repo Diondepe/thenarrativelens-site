@@ -1,12 +1,48 @@
 [
   {
-    "id": "BBC — Top Stories-1bd1a9dc83",
+    "id": "BBC — Top Stories-5957dc7213",
     "source": "BBC — Top Stories",
-    "title": "Twenty injured in Yemen drone attack on Israel, rescuers and military say",
-    "summary": "Two have been taken to hospital with serious shrapnel injuries, the Magen David Adom ambulance service says.",
-    "url": "https://www.bbc.com/news/articles/c0m4plxy30wo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T18:21:02Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cddb/live/0545d1d0-995f-11f0-aca3-edea9c285f2c.jpg",
+    "title": "'Anti-ICE' message on ammunition at Dallas shooting that killed two immigration detainees",
+    "summary": "The gunman fired at an unmarked van near the detention facility, before taking his own life, officials say.",
+    "url": "https://www.bbc.com/news/articles/ckge9d26z1ro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T18:55:10Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ab/live/f4976ef0-996f-11f0-97f5-bd38218a3641.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-efae9d4e66",
+    "source": "The Guardian — UK",
+    "title": "‘Sorry for the confusion’: Jeremy Corbyn says membership is open for new party",
+    "summary": "Former Labour leader announces November conference after week of turmoil, without mention of Zarah Sultana Jeremy Corbyn has apologised to his leftwing party’s supporters for a week of turmoil and division, in a video that failed to feature or mention its co-founder Zarah Sultana. The former Labour leader said membership was now officially open and that the new party would have its founding conference in Liverpool at the end of November. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/24/sorry-for-the-confusion-jeremy-corbyn-your-party-membership-zarah-sultana",
+    "published": "2025-09-24T18:52:37Z",
+    "image_url": "https://i.guim.co.uk/img/media/589f0bc322cbf65137159808737752ce784efd52/459_0_4062_3251/master/4062.jpg?width=140&quality=85&auto=format&fit=max&s=efee5c0c27a5f2464fbe4153c7974396",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-8f9cb5c761",
+    "source": "Politico — UK",
+    "title": "Dubai detains Romanian mercenaries over alleged election coup plot",
+    "summary": "Mercenaries allegedly intended to hijack a protest to provoke violence.",
+    "url": "https://www.politico.eu/article/dubai-romania-mercenaries-dorian-horatiu-potra-election-plot/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-24T18:48:09Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/24/GettyImages-166737308-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b8e4e7c991",
+    "source": "BBC — Top Stories",
+    "title": "High-speed rail plan for north of England delayed again",
+    "summary": "The BBC understands the prime minister will now not announce plans for a rail link between Manchester and Liverpool at the Labour Party conference.",
+    "url": "https://www.bbc.com/news/articles/ckge94030g7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T18:44:11Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f75/live/8ea880d0-994b-11f0-9a00-eba1f5856efc.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -17,8 +53,68 @@
     "title": "First migrants arrive in UK from France under 'one in one out' deal",
     "summary": "A family of three are the first people to be allowed into the country from France, the Home Office says.",
     "url": "https://www.bbc.com/news/articles/cwywv34w00ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T18:04:13Z",
+    "published": "2025-09-24T18:38:51Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef1/live/1e403150-9967-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1bd1a9dc83",
+    "source": "BBC — Top Stories",
+    "title": "Twenty injured in Yemen drone attack on Israel, rescuers and military say",
+    "summary": "Two have been taken to hospital with serious shrapnel injuries, the Magen David Adom ambulance service says.",
+    "url": "https://www.bbc.com/news/articles/c0m4plxy30wo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T18:36:51Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cddb/live/0545d1d0-995f-11f0-aca3-edea9c285f2c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-3e9e9d7c86",
+    "source": "Politico — UK",
+    "title": "Von der Leyen’s messages auto-delete to save space on her phone, Commission says",
+    "summary": "Using the disappearing messages feature also reduces risk of leaks, EU executive says.",
+    "url": "https://www.politico.eu/article/ursula-von-der-leyen-messages-auto-delete-save-space-phone-commission-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-24T18:28:11Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/24/GettyImages-1249256774-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0f422a2ed0",
+    "source": "BBC — Top Stories",
+    "title": "Russia will expand aggression beyond Ukraine if not stopped, Zelensky warns",
+    "summary": "Vladimir Putin \"will keep driving the war forward wider and deeper\", the Ukrainian president tells the UN.",
+    "url": "https://www.bbc.com/news/articles/c5yg921rjrko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T18:22:17Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c21b/live/26839050-995d-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-d763cedbd9",
+    "source": "The Guardian — UK",
+    "title": "Family of three are first arrivals in UK under ‘one in, one out’ immigration deal",
+    "summary": "Small child part of first reciprocal intake after removal of four asylum seekers from Britain to France over past week A family of three including a small child have become the first arrivals from France under Keir Starmer’s “one in, one out” deal, the Home Office has said. The move follows the removal on Wednesday of the first four asylum seekers from the UK to France over the past six days, despite continuing legal challenges. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/24/first-arrivals-uk-one-in-one-out-immigration-deal-france",
+    "published": "2025-09-24T18:16:58Z",
+    "image_url": "https://i.guim.co.uk/img/media/651f5c418a4dd00669f0660dc679e524f7ee5794/614_518_2066_1653/master/2066.jpg?width=140&quality=85&auto=format&fit=max&s=0014cf6d0f92e7ee921646fe896a7e02",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-de5339a72d",
+    "source": "BBC — Top Stories",
+    "title": "How doctors in the US are responding to Trump's autism announcement",
+    "summary": "Physicians worry pregnant women may forgo a treatment over an unproven link between Tylenol and autism.",
+    "url": "https://www.bbc.com/news/articles/ckgym44gy24o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T18:13:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ee4/live/cbede530-9959-11f0-af33-e32b3939e8ca.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -27,22 +123,10 @@
     "id": "The Guardian — UK-29a467da74",
     "source": "The Guardian — UK",
     "title": "Labour says Starmer’s 2020 leadership campaign paid McSweeney salary",
-    "summary": "Party says aide’s participation did not need to be declared by Labour Together group he previously headed Starmer’s relationship with chief of staff faces biggest test yet Labour has clarified that Morgan McSweeney’s salary was paid by Keir Starmer’s leadership campaign in 2020, after fresh attacks from the Conservatives on Wednesday. The Tories have called for a parliamentary investigation into whether Starmer failed to declare support – including staffing costs – from the campaign group Labour Together for his leadership campaign. Continue reading...",
+    "summary": "Party says aide’s campaign work did not need to be declared as a Labour Together donation amid new Tory attacks Starmer’s relationship with chief of staff faces biggest test yet Labour has clarified that Morgan McSweeney’s salary was paid by Keir Starmer’s leadership campaign in 2020, after fresh attacks from the Conservatives on Wednesday. The Tories have called for a parliamentary investigation into whether Starmer failed to declare support – including staffing costs – from the campaign group Labour Together for his leadership campaign. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/24/labour-says-keir-starmers-leadership-campaign-paid-salary-of-morgan-mcsweeney",
     "published": "2025-09-24T18:02:47Z",
     "image_url": "https://i.guim.co.uk/img/media/4d43ddd05b7dbfb317458498290cdc8193381f56/356_0_2514_2010/master/2514.jpg?width=140&quality=85&auto=format&fit=max&s=ec3f2a4b7bb1435da9509141fa171b5a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-5957dc7213",
-    "source": "BBC — Top Stories",
-    "title": "'Anti-ICE' message on ammunition at Dallas shooting that killed two immigration detainees",
-    "summary": "The gunman fired at an unmarked van near the detention facility, before taking his own life, officials say.",
-    "url": "https://www.bbc.com/news/articles/ckge9d26z1ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T17:44:35Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94c1/live/421331f0-996b-11f0-80b9-69e2e45f1309.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -79,18 +163,6 @@
     "url": "https://www.bbc.com/news/articles/cx2j3regpdno?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T17:36:28Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c61/live/c007b100-9923-11f0-af62-91486a511a31.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-d763cedbd9",
-    "source": "The Guardian — UK",
-    "title": "Family of three are first arrivals in UK under ‘one in, one out’ immigration deal",
-    "summary": "Small child part of first reciprocal intake after removal of four asylum seekers from Britain to France over past week A family of three including a small child have become the first arrivals from France under Keir Starmer’s “one in, one out” deal, the Home Office has said. The move follows the removal on Wednesday of the first four asylum seekers from the UK to France over the past six days, despite continuing legal challenges. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/24/first-arrivals-uk-one-in-one-out-immigration-deal-france",
-    "published": "2025-09-24T17:29:21Z",
-    "image_url": "https://i.guim.co.uk/img/media/651f5c418a4dd00669f0660dc679e524f7ee5794/614_518_2066_1653/master/2066.jpg?width=140&quality=85&auto=format&fit=max&s=0014cf6d0f92e7ee921646fe896a7e02",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -156,18 +228,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-b8e4e7c991",
-    "source": "BBC — Top Stories",
-    "title": "High-speed rail plan for north of England delayed again",
-    "summary": "The BBC understands the prime minister will now not announce plans for a rail link between Manchester and Liverpool at the Labour Party conference.",
-    "url": "https://www.bbc.com/news/articles/ckge94030g7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T16:35:52Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f75/live/8ea880d0-994b-11f0-9a00-eba1f5856efc.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-e0a8261106",
     "source": "Politico — UK",
     "title": "Jailed mayor urges EU to halt Bulgaria’s slide toward authoritarianism",
@@ -186,7 +246,7 @@
     "summary": "Astronauts of Nasa's first crewed mission to the Moon for more than 50 years hope their journey inspires a new generation.",
     "url": "https://www.bbc.com/news/articles/cvg0kv8rq0xo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T16:20:53Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8186/live/534ee2b0-9944-11f0-b42e-f379dfea869d.png",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8bd/live/325d16c0-9945-11f0-858a-a904eacbef23.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -219,7 +279,7 @@
     "id": "The Guardian — UK-9e04081135",
     "source": "The Guardian — UK",
     "title": "Sadiq Khan hits back at ‘racist, sexist, misogynistic and Islamophobic’ Trump",
-    "summary": "Khan’s comments come after US president used speech at UN to call London mayor ‘terrible’ UK politics live – latest updates Sadiq Khan has hit back at Donald Trump, accusing the US president of being “racist, sexist, misogynistic and Islamophobic” after he used a speech at the UN to call the London mayor “terrible” and claim the city was being steered toward “sharia law”. Trump’s remarks on Tuesday night provoked anger among Labour figures, with the health secretary, Wes Streeting, praising Khan as someone who “stands up for difference of background and opinion”. Continue reading...",
+    "summary": "Khan’s comments come after US president used speech at UN to call London mayor ‘terrible’ Sadiq Khan has hit back at Donald Trump, accusing the US president of being “racist, sexist, misogynistic and Islamophobic” after he used a speech at the UN to call the London mayor “terrible” and claim the city was being steered toward “sharia law”. Trump’s remarks on Tuesday night provoked anger among Labour figures, with the health secretary, Wes Streeting, praising Khan as someone who “stands up for difference of background and opinion”. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/24/sadiq-khan-hits-back-at-racist-sexist-misogynistic-and-islamophobic-trump",
     "published": "2025-09-24T15:37:50Z",
     "image_url": "https://i.guim.co.uk/img/media/a6b6d7735ee9c42dbb05dda9bfa0f6d0a35e9f18/213_0_4507_3607/master/4507.jpg?width=140&quality=85&auto=format&fit=max&s=a0619358ed7364d2a26ddc8eb1febb06",
@@ -336,30 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-95ebb48003",
-    "source": "Politico — UK",
-    "title": "Von der Leyen calls for minimum age to access social media",
-    "summary": "Commission chief throws weight behind calls to ban social media use for kids.",
-    "url": "https://www.politico.eu/article/von-der-leyen-calls-for-minimum-age-to-access-social-media/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-24T14:09:55Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/24/13351580-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-893bc9d43d",
-    "source": "Politico — UK",
-    "title": "Who to thank for Trump’s Ukraine U-turn? Von der Leyen, of course, says Commission",
-    "summary": "American president's new found support for the war-ravaged country \"hasn't happened by accident.\"",
-    "url": "https://www.politico.eu/article/thank-von-der-leyen-trump-ukraine-uturn-eu-commission/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-24T13:57:20Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/24/vdl-trump-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-edd00423ab",
     "source": "The Guardian — UK",
     "title": "Bloody Sunday: trial of Soldier F can admit hearsay evidence, judge rules",
@@ -372,13 +408,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-c08a3c6f89",
+    "id": "The Guardian — UK-707231ed53",
     "source": "The Guardian — UK",
-    "title": "BT boss says costs ‘inflicted’ by UK are 10 times those faced by European sector",
-    "summary": "Allison Kirkby also warns that the November budget could be ‘very difficult’ for the chancellor The chief executive of BT has said telecoms operators in the UK pay as much as 10 times the amount in “government-inflicted costs” than those operating in comparable European countries. Allison Kirkby said the industry had already hit the “peak” it could handle in costs imposed by the government, and warned that the November budget could be “very difficult” for the chancellor, Rachel Reeves. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/sep/24/bt-boss-costs-inflicted-uk-10-times-european",
-    "published": "2025-09-24T12:47:14Z",
-    "image_url": "https://i.guim.co.uk/img/media/de490662ea64fd8337ddc9843578eabae19e2d1f/332_0_3335_2668/master/3335.jpg?width=140&quality=85&auto=format&fit=max&s=a63fd6181882f1ca10d15b4953238118",
+    "title": "Women allegedly abused by Andrew Tate decry ‘misleading’ Spectator article",
+    "summary": "Complaint sent to Ipso over interview with ‘misogynist influencer’ and brother in Michael Gove-edited magazine Four alleged survivors of sexual abuse by Andrew Tate have complained to the press regulator about an interview with the self-proclaimed misogynist influencer and his brother in the Spectator magazine. The women, who have filed a high court claim accusing Tate of rape, coercive control and assault and battery, claim that the article, written by the deputy editor, Freddy Gray, is inaccurate and misleading. Continue reading...",
+    "url": "https://www.theguardian.com/news/2025/sep/24/women-allegedly-abused-by-andrew-tate-decry-misleading-spectator-article",
+    "published": "2025-09-24T12:44:50Z",
+    "image_url": "https://i.guim.co.uk/img/media/f3721b9018e16f8233501ab12733fcf380c59f68/452_0_2783_2226/master/2783.jpg?width=140&quality=85&auto=format&fit=max&s=cbdf114dc8801eb2f55e5af7b1420fd8",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -415,18 +451,6 @@
     "url": "https://www.bbc.com/news/articles/cevz13xkxpro?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T11:05:10Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63cd/live/66dcf740-98c2-11f0-94c0-d393b11c46d7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-0c23cf347a",
-    "source": "BBC — Top Stories",
-    "title": "Jimmy Kimmel pulls no punches in TV return as he ramps up battle with Trump",
-    "summary": "The US talk show host isn't backing down after being suspended; it seems to have hardened his resolve.",
-    "url": "https://www.bbc.com/news/articles/c0r09qdnd4yo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T10:22:53Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5594/live/65cc81f0-9920-11f0-9a4d-cda90a899290.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -492,18 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a250e67563",
-    "source": "BBC — Top Stories",
-    "title": "Mum says daughter who died on M5 'was failed'",
-    "summary": "Tamzin Hall was being transported in a police vehicle when she fled and was hit by car on the M5.",
-    "url": "https://www.bbc.com/news/articles/c7089y4ge21o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T05:19:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e88/live/5ce83b30-987e-11f0-af62-91486a511a31.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-168fd6e7eb",
     "source": "BBC — Top Stories",
     "title": "Play now",
@@ -511,18 +523,6 @@
     "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T05:18:23Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-224caf7269",
-    "source": "The Guardian — UK",
-    "title": "‘It changed my view’: the letter campaign urging pupils in deprived areas to try university",
-    "summary": "Personalised notes from students who share similar backgrounds are designed to make higher education feel more accessible “Dear Rahamat, first of all congratulations! I remember the day I got my GCSE results. The potential for your life to change has just begun.” So begins a letter from a young medical student, Kemi Adeyemi, which has been sent to Rahamat and thousands of other sixth formers with top GCSE results in some of England’s most deprived areas, to encourage them to consider going on to university. Continue reading...",
-    "url": "https://www.theguardian.com/education/2025/sep/24/it-changed-my-view-the-letter-campaign-urging-pupils-in-deprived-areas-to-try-university",
-    "published": "2025-09-24T05:00:18Z",
-    "image_url": "https://i.guim.co.uk/img/media/8994a7785cdabf36cb5900c630dd0684a69b8457/1377_1167_5741_4593/master/5741.jpg?width=140&quality=85&auto=format&fit=max&s=647b42b43deba9c4fd2da1c9d8314a87",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
