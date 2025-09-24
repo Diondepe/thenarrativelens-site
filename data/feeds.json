@@ -1,5 +1,89 @@
 [
   {
+    "id": "Politico — UK-ffe2f014a5",
+    "source": "Politico — UK",
+    "title": "Lecornu takes his turn on France’s political tightrope",
+    "summary": "If the prime minister fails to navigate between the demands of the Socialists and his center-right coalition partners, he’ll be leading France into uncharted territory.",
+    "url": "https://www.politico.eu/article/sebastien-lecornu-take-turn-france-political-tightrope/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-24T02:45:51Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/23/GettyImages-2234034965-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-18a4977624",
+    "source": "Politico — UK",
+    "title": "Which farmers should the EU save? Let the battle begin.",
+    "summary": "Small versus large, young against long-established — farm policy reform sets up clash over scarce funding.",
+    "url": "https://www.politico.eu/article/farmer-eu-save-agriculture-environment-european-commission-budget/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-24T02:40:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/05/2297045-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-8a8bf58b60",
+    "source": "Politico — UK",
+    "title": "Sweden keeps jet fighter options open amid Franco-German tensions",
+    "summary": "Stockholm wants to ensure that it retains the ability to make its own fighter planes.",
+    "url": "https://www.politico.eu/article/sweden-franco-german-pal-jonson-fcas-nato-gdp/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-24T02:40:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/23/13095427-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-669fe6d7c2",
+    "source": "Politico — UK",
+    "title": "Britain to appoint new chief diplomat to the EU",
+    "summary": "Caroline Wilson, a former ambassador to China, is due to take on the role next year.",
+    "url": "https://www.politico.eu/article/uk-appoint-new-chief-diplomat-eu-caroline-wilson/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-24T02:40:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/22/11576564-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-5c6c6d823b",
+    "source": "Politico — UK",
+    "title": "Europe’s climate clout melts away",
+    "summary": "China stands ready to fill the gap as EU infighting leaves a vacuum in global climate talks.",
+    "url": "https://www.politico.eu/article/europe-climate-clout-melts-away-china-target/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-24T02:35:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/22/VDL-climate-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-30acc4aa23",
+    "source": "Politico — UK",
+    "title": "Finger on the trigger: How NATO is responding to Russia’s airspace violations",
+    "summary": "NATO is a defensive alliance, which makes it very cautious about responding with force to Russia's provocations.",
+    "url": "https://www.politico.eu/article/nato-responding-russia-airspace-violation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-24T02:33:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/23/10849775-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-68770c3c7b",
+    "source": "BBC — Top Stories",
+    "title": "Italian actress and star of The Leopard Claudia Cardinale dies aged 87",
+    "summary": "The actress, who starred in Fellini's 8 1/2, is synonymous with the golden age of Italian cinema.",
+    "url": "https://www.bbc.com/news/articles/c237elg3rr3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T02:16:26Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4639/live/d8a17ff0-98e9-11f0-8370-cbf41ac97b25.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-29fb2ac571",
     "source": "BBC — Top Stories",
     "title": "Kyiv can win all of Ukraine back from Russia, Trump says",
@@ -110,8 +194,8 @@
   {
     "id": "BBC — Top Stories-fccbdae63d",
     "source": "BBC — Top Stories",
-    "title": "Gaza City medics overwhelmed by casualties from Israeli strikes",
-    "summary": "Two Australian doctors volunteering at al-Shifa hospital say they are having to carry out operations in filthy conditions with few or no anaesthetics.",
+    "title": "Casualties from Israeli strikes overwhelm Gaza City medics",
+    "summary": "Australian doctors say they are having to operate in filthy conditions with few or no anaesthetics.",
     "url": "https://www.bbc.com/news/articles/cgknzk46kz6o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T22:30:43Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8159/live/375c58a0-98ca-11f0-928c-71dbb8619e94.jpg",
@@ -151,18 +235,6 @@
     "url": "https://www.bbc.com/news/articles/cn4ljv39em7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T21:01:49Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab8e/live/f5e292a0-9869-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e8abe8ccde",
-    "source": "BBC — Top Stories",
-    "title": "Man found guilty of attempting to assassinate Trump in Florida",
-    "summary": "Ryan Routh, 59, was spotted hiding in bushes with a rifle at the president's Florida golf club last year.",
-    "url": "https://www.bbc.com/news/articles/c9wdv0118npo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T20:39:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f457/live/d817d7d0-988c-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -240,6 +312,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-fa0a365c80",
+    "source": "BBC — Top Stories",
+    "title": "Booker Prize shortlist choice was agony, says Sarah Jessica Parker",
+    "summary": "The Sex and the City star is one of the judges for this year's award and has revealed its shortlist.",
+    "url": "https://www.bbc.com/news/articles/c62lej4x148o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T18:59:25Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ffa/live/366cb760-989c-11f0-858a-a904eacbef23.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-cc1dc5dddf",
     "source": "The Guardian — UK",
     "title": "Cheryl Tweedy stalker jailed for a year after again breaching restraining order",
@@ -252,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-fa1ad6a79e",
-    "source": "Politico — UK",
-    "title": "Europe’s liberals demand EU freezes funds to Bulgaria over imprisoned mayor",
-    "summary": "Jailing of Varna mayor evidence of democratic backsliding in Bulgaria, Renew Europe chief warns.",
-    "url": "https://www.politico.eu/article/varna-mayor-blagomir-kotsev-bulgaria-democratic-backsliding-renew-europe-valerie-hayer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-23T18:46:09Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/23/GettyImages-2224725529.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-d4f87b85e4",
     "source": "The Guardian — UK",
     "title": "Mahmood vows to change modern slavery laws after bid to deport Eritrean man thwarted",
@@ -271,18 +343,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/23/home-office-blocked-from-appealing-against-halt-to-deportation-of-eritrean-under-one-in-one-out",
     "published": "2025-09-23T18:21:06Z",
     "image_url": "https://i.guim.co.uk/img/media/e6fc3030a850b80ab1324f68ded4d025094029f0/0_0_1440_1152/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=e0cef0d7029e9e15a5f8f9133a8faac6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-529394bd1e",
-    "source": "Politico — UK",
-    "title": "Suspend Israel from international football over ‘unfolding genocide,’ UN experts say",
-    "summary": "\"Sporting bodies must not turn a blind eye to grave human rights violations,\" human rights panel declares.",
-    "url": "https://www.politico.eu/article/israel-international-football-uefa-fifa-genocide-gaza-united-nations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-23T18:17:32Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/23/GettyImages-2236488508-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -307,18 +367,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/23/donald-trump-sharia-law-attack-sadiq-khan-outrages-labour",
     "published": "2025-09-23T17:36:32Z",
     "image_url": "https://i.guim.co.uk/img/media/413f758b065ff41ce68f06b5b901482175f09bee/308_0_5458_4367/master/5458.jpg?width=140&quality=85&auto=format&fit=max&s=b03a518ebf891a5d676469e13516f0df",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-19a24a5b98",
-    "source": "Politico — UK",
-    "title": "Ed Davey debriefed: Why so much about Nigel Farage?",
-    "summary": "Why was Ed Davey using so much of his Lib Dem conference speech to talk about Nigel Farage? And was threatening “Trump’s America” becoming “Farage’s Britain” a good way to get attention – especially with a claim that a Reform government could involve rolling back gun laws. Sam and Anne’s conference debrief goes over what […]",
-    "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/ed-davey-debriefed-why-so-much-about-nigel-farage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-23T17:20:34Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/03/27/PASAA_PODCAST-HERO-16BY9.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -372,42 +420,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-d78f262792",
-    "source": "Politico — UK",
-    "title": "Trump says he’ll talk to EU countries about turning screws on Putin",
-    "summary": "The U.S. president also lambasted the Europeans for their migration policies and purchases of Russian oil.",
-    "url": "https://www.politico.eu/article/donald-trump-says-hell-talk-eu-countries-turning-screws-vladimir-putin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-23T16:44:25Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/23/GettyImages-2236944560-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-4386a17c59",
-    "source": "Politico — UK",
-    "title": "EU watchdog probes Macron’s text to von der Leyen requesting Mercosur delay",
-    "summary": "The EU executive could not provide access to a text message from the French president to the Commission president, first revealed by POLITICO.",
-    "url": "https://www.politico.eu/article/eu-watchdog-probes-emmanuel-macron-text-ursula-von-der-leyen-block-mercosur-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-23T16:13:29Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/23/GettyImages-2232962066.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-a70695dccc",
-    "source": "Politico — UK",
-    "title": "EU to send booze to Indonesia — but it doesn’t want you to know",
-    "summary": "EU negotiators clinched access for European wine and spirits in the world’s largest Muslim-majority country.",
-    "url": "https://www.politico.eu/article/eu-to-send-booze-to-indonesia-trade/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-23T16:01:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/23/GettyImages-1912161987-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-f8d06cd333",
     "source": "BBC — Top Stories",
     "title": "How Dickie Bird became a cricket legend without scoring a run for England",
@@ -451,18 +463,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/23/lib-dems-last-block-forces-darkness-farage-says-ed-davey",
     "published": "2025-09-23T13:48:42Z",
     "image_url": "https://i.guim.co.uk/img/media/de2c947dc544989cde4c62289f080e3be3d17a17/0_0_2711_2168/master/2711.jpg?width=140&quality=85&auto=format&fit=max&s=7e44be7698d4ac23c09a00bb97baf207",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-0a38bca09d",
-    "source": "BBC — Top Stories",
-    "title": "Illegal working and streams of taxis - BBC gains rare access inside asylum hotels",
-    "summary": "Asylum seekers and hotel staff at four hotels revealed what daily life is like for them.",
-    "url": "https://www.bbc.com/news/articles/cwy8ee2w73jo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T13:33:33Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde1/live/09ab6d70-97c0-11f0-af62-91486a511a31.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
