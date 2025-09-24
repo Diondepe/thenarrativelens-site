@@ -1,5 +1,17 @@
 [
   {
+    "id": "Politico — UK-7228b71e4a",
+    "source": "Politico — UK",
+    "title": "Cracking Europe’s consumer code",
+    "summary": null,
+    "url": "https://www.politico.eu/sponsored-content/cracking-europes-consumer-code/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-24T03:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2015/08/23/Feature-image.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-ffe2f014a5",
     "source": "Politico — UK",
     "title": "Lecornu takes his turn on France’s political tightrope",
@@ -295,18 +307,6 @@
     "url": "https://www.bbc.com/news/articles/cy4j0zldevyo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T19:07:26Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7923/live/5aad1640-9894-11f0-b42a-999ed0e03e41.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-388e225b9c",
-    "source": "Politico — UK",
-    "title": "Macron needles Trump’s Nobel ambitions after UN address",
-    "summary": "President Trump and President Macron don't see eye to eye on how to end Israel's war in Gaza.",
-    "url": "https://www.politico.eu/article/emmanuel-macron-donald-trump-nobel-peace-prize-un-general-assembly-israel-war-in-gaza/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-23T19:06:15Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/23/GettyImages-2236456611-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
