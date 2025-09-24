@@ -1,5 +1,65 @@
 [
   {
+    "id": "The Guardian — UK-7b96856e6d",
+    "source": "The Guardian — UK",
+    "title": "School history lessons minimise the role of women, report finds",
+    "summary": "Campaigners say key stage 3 curriculum plays to misogny and teaches a ‘false version of the past’ The role of women in history goes far beyond Elizabeth I or Anne Boleyn, according to a campaign that seeks to add more female lives and achievements to the curriculum taught in England’s schools. Research by the group End Sexism in Schools found that women were largely absent from history taught in key stage 3, the first three years of secondary education in England. Monarchs were among only a handful of women mentioned by name alongside the suffragettes Emmeline Pankhurst and Emily Davison. Continue reading...",
+    "url": "https://www.theguardian.com/education/2025/sep/24/school-history-lessons-minimise-the-role-of-women-report-finds",
+    "published": "2025-09-24T06:00:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/832a539d471bd5f7042f32752b3171c6c5316f34/474_0_4152_3322/master/4152.jpg?width=140&quality=85&auto=format&fit=max&s=87f1e7f9c6a5149dd4d21db1881c53bc",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-19e9a85b1d",
+    "source": "The Guardian — UK",
+    "title": "I’ve racked up £3,000 in PCNs on the school run despite my blue badge",
+    "summary": "Temporary permits for courtesy cars issued by insurer after accident not enough to stop Newham council issuing penalties I have been sent 19 penalty charge notices (PCNs) by Newham council for driving into a restricted healthy school streets zone despite the fact I hold a blue badge access permit to drop and collect my children at school. The problems began when I had a car accident. My insurer issued me with three successive courtesy cars while mine was out of action. I therefore bought courtesy permits for each vehicle so I could continue driving into the zone. I have a disability and I am dependent on my car. Continue reading...",
+    "url": "https://www.theguardian.com/money/2025/sep/24/ive-racked-up-3000-in-pcns-on-the-school-run-despite-my-blue-badge",
+    "published": "2025-09-24T06:00:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/069e2ac492c655dd0e2336a892e9e43a31935c13/0_114_2138_1710/master/2138.jpg?width=140&quality=85&auto=format&fit=max&s=a7f35632f762e8ecac8e88fd0976c90b",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-ef47d58d0b",
+    "source": "The Guardian — UK",
+    "title": "Fears of new PFI-style ‘disaster’ as firms handed £6m to advise on using private funds for NHS clinics",
+    "summary": "Exclusive: Consultants and lawyers hired to advise on using public-private partnerships to build ‘neighbourhood health centres’ in England Ministers have handed firms £6m in contracts to help devise plans to build a network of new NHS clinics using private capital, despite fears the move could turn into a PFI-style disaster. The Department of Health and Social Care has awarded contracts worth £3m each to the management consultants Deloitte and the lawyers Addleshaw Goddard. They are advising the DHSC on whether to use public-private partnerships (PPPs) to help build dozens of the promised “neighbourhood health centres” in England. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/sep/24/fears-of-new-pfi-style-disaster-as-firms-handed-6m-to-advise-on-using-private-funds-for-nhs-clinics",
+    "published": "2025-09-24T06:00:16Z",
+    "image_url": "https://i.guim.co.uk/img/media/7602b1f8f0ffdb3a0c7395c9f7699f3d07047667/349_0_2301_1842/master/2301.jpg?width=140&quality=85&auto=format&fit=max&s=aeadc5962071532d79976dcbd21f16f7",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a02d364825",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'West going to hell' and 'Kate and William's support' for Southport",
+    "summary": "Trump's UN speech and the visit of the Prince and Princess of Wales to Southport make Wednesday's headlines.",
+    "url": "https://www.bbc.com/news/articles/c62le27q3eqo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T05:52:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d96/live/4f4448a0-98d0-11f0-af62-91486a511a31.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-168fd6e7eb",
+    "source": "BBC — Top Stories",
+    "title": "Play now",
+    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
+    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T05:18:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-92649e6f77",
     "source": "BBC — Top Stories",
     "title": "AI tool used to recover £500m lost to fraud, government says",
@@ -48,18 +108,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-19a77d5c1e",
-    "source": "The Guardian — UK",
-    "title": "UK white-collar recruits expected in office more as hybrid working balance shifts",
-    "summary": "Job ads analysis finds less flexibility than in post-pandemic period as employers ‘push for more face-to-face time’ Business live – latest updates Most new recruits to white-collar jobs are required to spend at least two or three days a week in the office, while roles requiring just one office day are dying out, according to an analysis of job postings. Hybrid work – where staff split their time between the office and another location, such as their home – has cemented itself as the new normal for millions of workers since the Covid-19 pandemic. Continue reading...",
-    "url": "https://www.theguardian.com/money/2025/sep/24/uk-jobs-back-to-office-hybrid-working",
-    "published": "2025-09-24T05:00:15Z",
-    "image_url": "https://i.guim.co.uk/img/media/6230dc4d806a9ae00ef5091920e21546cb231bd8/740_0_3701_2961/master/3701.jpg?width=140&quality=85&auto=format&fit=max&s=e6d082a584fbad84e2d072ec5e3f4523",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-b71888a676",
     "source": "The Guardian — UK",
     "title": "Scottish teenager’s petition on single-use plastics wins support in parliament",
@@ -72,9 +120,21 @@
     "cluster_id": null
   },
   {
+    "id": "The Guardian — UK-19a77d5c1e",
+    "source": "The Guardian — UK",
+    "title": "UK white-collar recruits expected in office more as hybrid working balance shifts",
+    "summary": "Job ads analysis finds less flexibility than in post-pandemic period as employers ‘push for more face-to-face time’ Business live – latest updates Most new recruits to white-collar jobs are required to spend at least two or three days a week in the office, while roles requiring just one office day are dying out, according to an analysis of job postings. Hybrid work – where staff split their time between the office and another location, such as their home – has cemented itself as the new normal for millions of workers since the Covid-19 pandemic. Continue reading...",
+    "url": "https://www.theguardian.com/money/2025/sep/24/uk-jobs-back-to-office-hybrid-working",
+    "published": "2025-09-24T05:00:15Z",
+    "image_url": "https://i.guim.co.uk/img/media/6230dc4d806a9ae00ef5091920e21546cb231bd8/740_0_3701_2961/master/3701.jpg?width=140&quality=85&auto=format&fit=max&s=e6d082a584fbad84e2d072ec5e3f4523",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-19f2465564",
     "source": "BBC — Top Stories",
-    "title": "Boss jailed over deadly fire at South Korea battery plant",
+    "title": "Boss jailed for 15 years over deadly fire at S Korea battery plant",
     "summary": "A blaze last year killed 23 people at an Aricell factory in Hwaseong city, about 45km south of Seoul.",
     "url": "https://www.bbc.com/news/articles/c5yq2gqppero?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T04:17:40Z",
@@ -127,18 +187,6 @@
     "url": "https://www.politico.eu/sponsored-content/cracking-europes-consumer-code/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-24T03:00:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2015/08/23/Feature-image.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-c1b9d8bbdd",
-    "source": "BBC — Top Stories",
-    "title": "Safety mechanism caused Trump escalator malfunction, UN says",
-    "summary": "The US president's videographer \"may have inadvertently triggered the safety function\" while capturing his arrival, the UN says.",
-    "url": "https://www.bbc.com/news/articles/cn76kyxp6epo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T02:53:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1642/live/f0b2f0f0-98ef-11f0-858a-a904eacbef23.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -252,18 +300,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a02d364825",
-    "source": "BBC — Top Stories",
-    "title": "The Papers: 'West going to hell' and 'Kate and William's support' for Southport",
-    "summary": "Trump's UN speech and the visit of the Prince and Princess of Wales to Southport make Wednesday's headlines.",
-    "url": "https://www.bbc.com/news/articles/c62le27q3eqo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T00:07:23Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d96/live/4f4448a0-98d0-11f0-af62-91486a511a31.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-831560af88",
     "source": "BBC — Top Stories",
     "title": "Phone spyware scandal deepens in Greece as four appear in court",
@@ -278,7 +314,7 @@
   {
     "id": "Politico — UK-2e2bfe2146",
     "source": "Politico — UK",
-    "title": "Trump’s apparent U-turn on Ukraine cheers Europeans amid deeper skepticism about US policy",
+    "title": "Trump’s apparent U-turn on Ukraine cheers Europeans — but skepticism persists",
     "summary": "Elation over Trump's pro-Ukraine post vied with doubts that he will ever follow through with tougher action against Russia.",
     "url": "https://www.politico.eu/article/donald-trump-ukraine-europe-us-policy-un-kyiv-war-russia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-23T23:12:56Z",
@@ -396,6 +432,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-5943dcbe18",
+    "source": "BBC — Top Stories",
+    "title": "Dani Dyer pulls out of Strictly with broken ankle",
+    "summary": "The TV presonality says she \"landed funny\" in training on Friday and a scan has confirmed a fracture.",
+    "url": "https://www.bbc.com/news/articles/c98d6z1j9neo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-23T20:26:32Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c869/live/cd055240-98a1-11f0-b37c-21373da9ac07.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-b1f6d23702",
     "source": "BBC — Top Stories",
     "title": "Six years ago Trump's UN audience laughed, this year they were silent",
@@ -415,30 +463,6 @@
     "url": "https://www.theguardian.com/culture/2025/sep/23/cheryl-tweedy-stalker-jailed-for-a-year-after-again-breaching-restraining-order",
     "published": "2025-09-23T18:55:31Z",
     "image_url": "https://i.guim.co.uk/img/media/fb94afb524aacd5ab2ecdaaa8039c27260e05013/0_365_1181_944/master/1181.jpg?width=140&quality=85&auto=format&fit=max&s=afc07f58286c69ff0b86991b58ae04aa",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-d4f87b85e4",
-    "source": "The Guardian — UK",
-    "title": "Mahmood vows to change modern slavery laws after bid to deport Eritrean man thwarted",
-    "summary": "Appeal court rejects home secretary’s attempt to appeal against blocking of return of man to France under ‘one in, one out’ deal Shabana Mahmood has announced plans to change modern slavery laws to prevent migrants from making last minute attempts to “frustrate a removal” after her bid to appeal in a trafficking case was thrown out by the court of appeal. The home secretary had applied for permission to appeal against a high court ruling temporarily blocking the removal of an Eritrean asylum seeker to France under Labour’s “one in, one out” scheme so that he had more time to gather evidence in support of his trafficking claim. Three appeal court judges rejected her application. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/23/home-office-blocked-from-appealing-against-halt-to-deportation-of-eritrean-under-one-in-one-out",
-    "published": "2025-09-23T18:21:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/e6fc3030a850b80ab1324f68ded4d025094029f0/0_0_1440_1152/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=e0cef0d7029e9e15a5f8f9133a8faac6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-2f95f3e375",
-    "source": "The Guardian — UK",
-    "title": "Jeffrey Epstein ‘threatened to destroy’ Sarah Ferguson before her apology",
-    "summary": "Duchess’s then spokesperson recalls disgraced financier’s ‘Hannibal Lecter-style’ phone call after she disowned him The Duchess of York allegedly sent an email apologising to disgraced late financier Jeffrey Epstein after he threatened to “destroy her” in a “Hannibal Lecter-style” phone call, according to reports. Sarah Ferguson sent the message in April 2011, describing Epstein as a “supreme friend”, after she had publicly disowned him in the media. Continue reading...",
-    "url": "https://www.theguardian.com/us-news/2025/sep/23/jeffrey-epstein-threatened-destroy-sarah-ferguson-before-her-apology",
-    "published": "2025-09-23T17:47:17Z",
-    "image_url": "https://i.guim.co.uk/img/media/d02857693f6494cc0cacc19d43bc89b53c5b4feb/299_0_4337_3470/master/4337.jpg?width=140&quality=85&auto=format&fit=max&s=12ce813743ec16b614e97c3d3c85c97f",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -492,18 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-1b23ef5787",
-    "source": "The Guardian — UK",
-    "title": "Permanent residency for Hongkongers may be worth £4bn to UK economy, says thinktank",
-    "summary": "Analysis finds value of moved pensions savings could raise similar revenue by 2029 as a year’s air passenger duty UK politics live – latest updates Allowing Hongkongers who have moved to the UK to stay permanently after five years could net more than £4bn for the Treasury by 2029, according to a thinktank. The analysis by the China Strategic Risks Institute (CSRI), which was sent to the Home Office before the budget, suggests the move could raise almost as much revenue as a year’s worth of air passenger duty by enabling Hongkongers to move their pension savings here. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/23/hongkongers-permanent-residency-uk-economy-value",
-    "published": "2025-09-23T14:14:02Z",
-    "image_url": "https://i.guim.co.uk/img/media/fb9e6a8bc73dddc38f614713f0e181c8202ae357/302_0_2869_2296/master/2869.jpg?width=140&quality=85&auto=format&fit=max&s=07a88368c826f22c1b48db91cd4b5a26",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-170f806141",
     "source": "The Guardian — UK",
     "title": "Lib Dems aiming to go big as they spot electoral opportunity",
@@ -535,18 +547,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/23/what-does-boriswave-mean-nigel-farage-reform-uk-immigration",
     "published": "2025-09-23T09:16:08Z",
     "image_url": "https://i.guim.co.uk/img/media/8903ec54d7200b8e282ac219071a1808844d93d9/510_270_2716_2173/master/2716.jpg?width=140&quality=85&auto=format&fit=max&s=6c69505f865f9aba2e54db5c890916cf",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-168fd6e7eb",
-    "source": "BBC — Top Stories",
-    "title": "Play now",
-    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
-    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T04:52:36Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
