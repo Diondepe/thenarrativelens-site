@@ -1,8 +1,80 @@
 [
   {
+    "id": "BBC — Top Stories-021f7e8305",
+    "source": "BBC — Top Stories",
+    "title": "YouTube content creators contributed £2.2bn to UK economy in 2024",
+    "summary": "The data has been released to coincide with the launch of a new group of MPs representing creators and influencers.",
+    "url": "https://www.bbc.com/news/articles/c0knpm6v36go?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T09:03:45Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e45a/live/386998d0-989c-11f0-8e62-81f400027fcb.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-35f0b282fe",
+    "source": "BBC — Top Stories",
+    "title": "Jimmy Kimmel calls out 'anti-American' threats to free speech in tearful TV return",
+    "summary": "The comedian returned from a brief suspension after comments he made about the killing of conservative activist Charlie Kirk.",
+    "url": "https://www.bbc.com/news/articles/c9dx6dlelw8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T08:57:06Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eda/live/fe33ab00-9914-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-29fb2ac571",
+    "source": "BBC — Top Stories",
+    "title": "Kyiv can win all of Ukraine back from Russia, Trump says",
+    "summary": "The US president says Ukraine can win back land with support from Nato and Europe, marking a major shift in his position.",
+    "url": "https://www.bbc.com/news/articles/c07vm35rryeo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T08:55:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3794/live/982fd820-98aa-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-a78566c31a",
+    "source": "The Guardian — UK",
+    "title": "Trump’s comments on sharia law in London a ‘misreading of our great capital’, says minister – UK politics live",
+    "summary": "Pat McFadden responds to US president’s false claims over Labour mayor Sadiq Khan In his interviews this morning Pat McFadden , the work and pensions secretary, also dismissed Donald Trump’s false claim yesterday that Sadiq Khan is introducing sharia law in London, where he is the Labour mayor. Some Labour MPs have reacted very angrily to the claim, which Trump made in the course of a provacative and rambling speech to the United Nations, accusing the president of Islamophobia. Well, I’m here at Selhurst Park in south London where we don’t have sharia law, we have British law. It’s a great capital city that we have. I think it’s a great asset to the UK. And I’m afraid I differ from the president on that. I just think it’s a misreading of our great capital city. I’ve known @SadiqKhan for over 30 yrs. He’s a feminist, a socialist & an LGBTQ+ ally. I’m so proud he’s our London mayor. For the record, he’s as interested in introducing Sharia Law to London as I am - ie 0%. Those who suggest otherwise are deluded, or have a v sinister agenda. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/24/labour-tories-conservatives-reform-uk-politics-live-news-updates",
+    "published": "2025-09-24T08:46:01Z",
+    "image_url": "https://i.guim.co.uk/img/media/d2b58ba15f3ec4c8c8756b3c7915a738a07a1383/619_0_1820_1457/master/1820.jpg?width=140&quality=85&auto=format&fit=max&s=59f86c2dc6ca58d78d11dea2da311c03",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-2a7c3605a5",
+    "source": "BBC — Top Stories",
+    "title": "Urgent review ordered into asylum seeker taxi costs after BBC investigation",
+    "summary": "The move follows a BBC investigation which found migrants travelling long distances on trips costing hundreds of pounds.",
+    "url": "https://www.bbc.com/news/articles/cx2j3regpdno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T08:34:24Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f3c/live/1903a620-9923-11f0-858a-a904eacbef23.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-93fca80d35",
+    "source": "BBC — Top Stories",
+    "title": "Dua Lipa denies firing agent over pro-Israel views",
+    "summary": "Reports claimed the singer dropped her agent after he urged Glastonbury to ban Irish band Kneecap.",
+    "url": "https://www.bbc.com/news/articles/c98dn41v74zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T08:27:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecfa/live/61974410-991d-11f0-85dd-bf0234260a08.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-85f1dfe12b",
     "source": "BBC — Top Stories",
-    "title": "Households to be offered energy bill changes, but unlikely to lead to savings",
+    "title": "Households to be offered lower standing charges but energy bill savings unlikely",
     "summary": "The regulator's plans could be in place by the end of January, but it warns total bills won't fall.",
     "url": "https://www.bbc.com/news/articles/cx20dwzgq51o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T08:07:56Z",
@@ -19,18 +91,6 @@
     "url": "https://www.politico.eu/article/palestine-gaza-aid-flotilla-crew-drones-greta-thunberg/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-24T08:06:27Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/24/13341459-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-a78566c31a",
-    "source": "The Guardian — UK",
-    "title": "Pat McFadden dismisses Tory claims that Morgan McSweeney misled elections watchdog – UK politics live",
-    "summary": "Cabinet minister says Electoral Commission have looked into claims against ‘talented’ chief of staff Good morning. Pat McFadden has been on media round duties this morning. He is now work and pensions secreratary, and his interviews (conducted from Selhurst Park) were ostensibly about promoting an announcement about premier league football clubs getting involved in a £25m expansion of the youth hubs programme. In his old job, as chancellor of the duchy of Lancaster, McFadden was in effect the “minister for the Today programme”, the No 10 figure sent out to hose down the media in the face of assorted scandals and problems and there was quite a bit of that going on this morning. He was asked about Donald Trump’s latest outburst. And he was asked about the Conservative allegations that Morgan McSweeney, the PM’s chief of staff, mislead the elections watchdog over donations to a Labour thinktank when the party was in opposition. Yes, I do. I worked with him very closely on the election campaign. He’s a person of enormous talent. The Electoral Commission made a statement on this last night, and they said that they’d looked into all these things some years ago and they really didn’t have anything to add to it. Look, I’m not surprised that the Conservatives are trying to, attack someone who was very effective, who was an integral part of Labour’s general election campaign last year in delivering the Labour victory. And they don’t have very often; they don’t fall from the sky. They require talented people to work on them. He did that, and he did it in a very effective way. Look, I think the Electoral Commission have looked into that. They’ve said there is nothing to add here. They are the people actually charged with policing the rules around declarations to nations and all the rest of that. And they looked into this as far back, I think, as 2021. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/sep/24/labour-tories-conservatives-reform-uk-politics-live-news-updates",
-    "published": "2025-09-24T08:03:03Z",
-    "image_url": "https://i.guim.co.uk/img/media/f370a1954bbd763f601ad5e18ccb47db59859162/845_0_4225_3380/master/4225.jpg?width=140&quality=85&auto=format&fit=max&s=dbec6c9b39a76c6aa395ff9cf789c68a",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -55,18 +115,6 @@
     "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/is-jaguar-land-rover-suffering-the-curse-of-starmer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-24T07:18:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/03/27/PASAA_PODCAST-HERO-16BY9.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-35f0b282fe",
-    "source": "BBC — Top Stories",
-    "title": "Jimmy Kimmel calls out 'anti-American' threats to free speech in tearful TV return",
-    "summary": "The comedian returned from a brief suspension after comments he made about the killing of conservative activist Charlie Kirk.",
-    "url": "https://www.bbc.com/news/articles/c9dx6dlelw8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T07:17:49Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eda/live/fe33ab00-9914-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -132,13 +180,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a02d364825",
+    "id": "BBC — Top Stories-470ca80067",
     "source": "BBC — Top Stories",
-    "title": "The Papers: 'West going to hell' and 'Kate and William's support' for Southport",
-    "summary": "Trump's UN speech and the visit of the Prince and Princess of Wales to Southport make Wednesday's headlines.",
-    "url": "https://www.bbc.com/news/articles/c62le27q3eqo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T05:52:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d96/live/4f4448a0-98d0-11f0-af62-91486a511a31.png",
+    "title": "Lamine Yamal - the eve of a new football era",
+    "summary": "Barcelona teenager Lamine Yamal missed out on becoming the youngest Ballon d'Or winner, but he is destined to create a new footballing era, writes Guillem Balague.",
+    "url": "https://www.bbc.com/sport/football/articles/c0m4x1274kmo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T05:41:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df9a/live/e22c1460-97c0-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -210,7 +258,7 @@
     "summary": "Personalised notes from students who share similar backgrounds are designed to make higher education feel more accessible “Dear Rahamat, first of all congratulations! I remember the day I got my GCSE results. The potential for your life to change has just begun.” So begins a letter from a young medical student, Kemi Adeyemi, which has been sent to Rahamat and thousands of other sixth formers with top GCSE results in some of England’s most deprived areas, to encourage them to consider going on to university. Continue reading...",
     "url": "https://www.theguardian.com/education/2025/sep/24/it-changed-my-view-the-letter-campaign-urging-pupils-in-deprived-areas-to-try-university",
     "published": "2025-09-24T05:00:18Z",
-    "image_url": "https://i.guim.co.uk/img/media/8994a7785cdabf36cb5900c630dd0684a69b8457/805_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=db76644e0156673aecc5513dfca5148a",
+    "image_url": "https://i.guim.co.uk/img/media/8994a7785cdabf36cb5900c630dd0684a69b8457/1377_1167_5741_4593/master/5741.jpg?width=140&quality=85&auto=format&fit=max&s=647b42b43deba9c4fd2da1c9d8314a87",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -228,18 +276,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-b71888a676",
-    "source": "The Guardian — UK",
-    "title": "Scottish teenager’s petition on single-use plastics wins support in parliament",
-    "summary": "Groundswell of support for ban propels campaign of Tabby Fletcher, 17, from her island home on Jura to Holyrood A petition by a schoolgirl on a remote island calling on the Scottish government to ban all single-use plastics has received more than 26,000 signatures and the backing of MSPs in the Highlands and Islands. Tabby Fletcher, a 17-year-old from the Isle of Jura, off the west coast of Scotland, launched the petition after seeing dead birds, their bodies entangled in plastic, among piles of waste washed up on Jura’s beaches after a powerful storm. Continue reading...",
-    "url": "https://www.theguardian.com/environment/2025/sep/24/single-use-plastics-ban-tabby-fletcher-jura-petition-scottish-parliament-msp",
-    "published": "2025-09-24T05:00:15Z",
-    "image_url": "https://i.guim.co.uk/img/media/2f234af143b036a44acd70fb7e05c91feb8d0157/795_584_2684_2148/master/2684.jpg?width=140&quality=85&auto=format&fit=max&s=37a0d001c2d32cfee1229f47a0a2bfbb",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-19a77d5c1e",
     "source": "The Guardian — UK",
     "title": "UK white-collar recruits expected in office more as hybrid working balance shifts",
@@ -247,6 +283,18 @@
     "url": "https://www.theguardian.com/money/2025/sep/24/uk-jobs-back-to-office-hybrid-working",
     "published": "2025-09-24T05:00:15Z",
     "image_url": "https://i.guim.co.uk/img/media/6230dc4d806a9ae00ef5091920e21546cb231bd8/740_0_3701_2961/master/3701.jpg?width=140&quality=85&auto=format&fit=max&s=e6d082a584fbad84e2d072ec5e3f4523",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-b71888a676",
+    "source": "The Guardian — UK",
+    "title": "Scottish teenager’s petition on single-use plastics wins support in parliament",
+    "summary": "Groundswell of support for ban propels campaign of Tabby Fletcher, 17, from her island home on Jura to Holyrood A petition by a schoolgirl on a remote island calling on the Scottish government to ban all single-use plastics has received more than 26,000 signatures and the backing of MSPs in the Highlands and Islands. Tabby Fletcher, a 17-year-old from the Isle of Jura, off the west coast of Scotland, launched the petition after seeing dead birds, their bodies entangled in plastic, among piles of waste washed up on Jura’s beaches after a powerful storm. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/sep/24/single-use-plastics-ban-tabby-fletcher-jura-petition-scottish-parliament-msp",
+    "published": "2025-09-24T05:00:15Z",
+    "image_url": "https://i.guim.co.uk/img/media/2f234af143b036a44acd70fb7e05c91feb8d0157/795_584_2684_2148/master/2684.jpg?width=140&quality=85&auto=format&fit=max&s=37a0d001c2d32cfee1229f47a0a2bfbb",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -271,18 +319,6 @@
     "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/gesundheit-mehr-sparsamkeit-warken/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-24T03:45:05Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/18/Berlin-Playbook-Website-card-1-1.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-58b3ebf96e",
-    "source": "BBC — Top Stories",
-    "title": "Australia journalist unfairly fired over Gaza post awarded £73,436",
-    "summary": "Australia's public broadcaster \"sacrificed\" Antoinette Lattouf \"to appease a lobby group\", the judge said.",
-    "url": "https://www.bbc.com/news/articles/cly6dlpd332o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T03:42:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d8/live/19001af0-98e7-11f0-882d-79512009c263.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -362,35 +398,11 @@
   {
     "id": "BBC — Top Stories-68770c3c7b",
     "source": "BBC — Top Stories",
-    "title": "Italian actress and star of The Leopard Claudia Cardinale dies aged 87",
+    "title": "Italian actress and star of The Pink Panther Claudia Cardinale dies aged 87",
     "summary": "The actress, who starred in Fellini's 8 1/2, is synonymous with the golden age of Italian cinema.",
     "url": "https://www.bbc.com/news/articles/c237elg3rr3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T02:16:26Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4639/live/d8a17ff0-98e9-11f0-8370-cbf41ac97b25.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-29fb2ac571",
-    "source": "BBC — Top Stories",
-    "title": "Kyiv can win all of Ukraine back from Russia, Trump says",
-    "summary": "The US president says Ukraine can win back land with support from Nato and Europe, marking a major shift in his position.",
-    "url": "https://www.bbc.com/news/articles/c07vm35rryeo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T01:00:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3794/live/982fd820-98aa-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9664c583a6",
-    "source": "BBC — Top Stories",
-    "title": "NHS trust repays £5m over maternity failings",
-    "summary": "Leeds NHS Trust was paid the money after claiming services met safe standards of care.",
-    "url": "https://www.bbc.com/news/articles/czrp1282grvo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T00:42:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef5/live/628ea1d0-986c-11f0-af62-91486a511a31.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -415,18 +427,6 @@
     "url": "https://www.bbc.com/news/articles/cgl1z3jxy56o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T23:02:07Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30d4/live/7fe18ea0-9556-11f0-a9d0-b91ec0b66439.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-021f7e8305",
-    "source": "BBC — Top Stories",
-    "title": "YouTube content creators contributed £2.2bn to UK economy in 2024",
-    "summary": "The data has been released to coincide with the launch of a new group of MPs representing creators and influencers.",
-    "url": "https://www.bbc.com/news/articles/c0knpm6v36go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T23:01:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e45a/live/386998d0-989c-11f0-8e62-81f400027fcb.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
