@@ -1,5 +1,101 @@
 [
   {
+    "id": "BBC — Top Stories-a2d8142f76",
+    "source": "BBC — Top Stories",
+    "title": "It's got Peaky Blinders swagger, says House of Guinness writer",
+    "summary": "The new Netflix drama tells the story of Ireland's most famous family name at the moment of crisis.",
+    "url": "https://www.bbc.com/news/articles/cz9j45gggvxo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T23:12:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc03/live/b366af50-9950-11f0-9ab8-fd188b933226.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a12ba6d15f",
+    "source": "BBC — Top Stories",
+    "title": "'She doesn't get another childhood': The lives on hold waiting for wheelchairs",
+    "summary": "More than a thousand disabled children are waiting for wheelchairs and equipment that could transform their lives, Whizz Kidz say",
+    "url": "https://www.bbc.com/news/articles/cm2zwm8m41mo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T23:03:35Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b4/live/d6d85fc0-97d8-11f0-b48d-eb3b631c9a51.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-3d3449eb86",
+    "source": "The Guardian — UK",
+    "title": "‘Maggots raining down’: survey lays bare dire state of courts in England and Wales",
+    "summary": "Asbestos and faeces flooding cells also among problems contributing to huge backlog in cases, Law Society finds Asbestos, mould, rotten seagulls and cells flooding with excrement are among the problems experienced in crumbling courts in England and Wales, the Law Society has found. The professional body for solicitors said deteriorating buildings and unreliable technology were contributing to the record backlog in crown courts and undermining confidence and trust in the justice system. Continue reading...",
+    "url": "https://www.theguardian.com/law/2025/sep/25/maggots-asbestos-excrement-mould-law-society-survey-dire-state-of-courts-england-wales",
+    "published": "2025-09-24T23:01:21Z",
+    "image_url": "https://i.guim.co.uk/img/media/0664021bb5472982bb1f886aaae4108371e89717/0_127_3595_2876/master/3595.jpg?width=140&quality=85&auto=format&fit=max&s=b246530ad7cd6475ccef57c1ab3873a0",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-f85e575286",
+    "source": "The Guardian — UK",
+    "title": "Moderna boss defends UK in drug-pricing row as he opens £150m Oxfordshire facility",
+    "summary": "‘We’re here to invest,’ says Darius Hughes as he calls comments by other pharma companies ‘a little harsh’ The UK boss of the US drugmaker Moderna, which shot to prominence with its Covid vaccine during the pandemic, has defended the country after it was labelled the “worst in Europe” for drug pricing. Darius Hughes spoke as he opened a £150m vaccine site in Oxfordshire, just days after MSD, AstraZeneca and Eli Lilly announced that they would ditch or pause planned UK investments amid a row over pricing between the pharmaceutical industry and the government. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/sep/25/moderna-boss-defends-uk-in-drug-pricing-row-as-he-opens-150m-oxfordshire-facility",
+    "published": "2025-09-24T23:01:20Z",
+    "image_url": "https://i.guim.co.uk/img/media/d7cbd0ec0384889448f2ab7ac96ced6b27071d08/885_0_4423_3539/master/4423.jpg?width=140&quality=85&auto=format&fit=max&s=8928ac7b2d02acaa2ee79530e3347faf",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-bf4709886c",
+    "source": "The Guardian — UK",
+    "title": "Bank of England urged to do more to tackle climate crisis",
+    "summary": "Environmental groups mark 10 years since Mark Carney’s ‘short-term horizons’ speech with plea to act ‘while there’s still time’ A coalition of 10 campaign groups is calling on the Bank of England to do more to tackle the climate crisis, a decade after the then governor Mark Carney warned of the “tragedy of the horizon”. Carney, now prime minister of Canada, argued in a speech at Lloyd’s of London in September 2015 that the short time-horizons of politicians and policymakers made it difficult to tackle the climate emergency, despite the threat it posed to the global financial system. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/sep/25/bank-of-england-tackle-climate-crisis-mark-carney-greepeace",
+    "published": "2025-09-24T23:01:20Z",
+    "image_url": "https://i.guim.co.uk/img/media/fc4be2cb09b3c6650a2b69041ee35cb6c54d5360/506_0_4591_3674/master/4591.jpg?width=140&quality=85&auto=format&fit=max&s=b00d89b6b155fb35865048749de30d9e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0e8e4a7fb4",
+    "source": "BBC — Top Stories",
+    "title": "Labour MPs are privately urging me to challenge PM, says Burnham",
+    "summary": "Andy Burnham tells the Telegraph MPs have privately urged him to challenge Sir Keir Starmer to be PM.",
+    "url": "https://www.bbc.com/news/articles/c7v1m873mjyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T22:35:54Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8dc/live/83c40390-9975-11f0-8717-17ff87ac5f38.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-1684fda4f9",
+    "source": "Politico — UK",
+    "title": "A new Trump policy on Ukraine, or more of the same?",
+    "summary": "Vice President Vance said the president's position isn't changing, as allies remain skeptical of a major shift.",
+    "url": "https://www.politico.com/news/2025/09/24/trump-ukraine-vance-russia-00579397?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-24T22:33:32Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-8957a15daf",
+    "source": "Politico — UK",
+    "title": "China doubles down on climate, wind and solar pledges — a day after Trump called them a ‘scam’",
+    "summary": "Clean energy is the \"trend of our time,\" Chinese President Xi Jinping said while announcing modest targets for trimming the economic superpower's carbon pollution.",
+    "url": "https://www.politico.com/news/2025/09/24/china-doubles-down-on-climate-wind-and-solar-pledges-a-day-after-trump-called-them-a-scam-00579411?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-24T22:17:40Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-ce36af6859",
     "source": "BBC — Top Stories",
     "title": "Government considers financial support for JLR suppliers",
@@ -30,7 +126,7 @@
     "summary": "Deprived communities to be given tens of millions to patch up derelict shops, pubs and libraries and ‘restore pride’ Deprived areas of the UK will be given tens of millions of pounds each from a new fund that Keir Starmer hopes will help Labour tackle the threat posed by Reform UK. The prime minister will launch the regeneration initiative on Thursday, gambling that an updated version of “levelling up” will address anger about Britain’s broken communities. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/24/starmer-gambles-on-levelling-up-style-initiative-to-tackle-reform-threat",
     "published": "2025-09-24T21:30:18Z",
-    "image_url": "https://i.guim.co.uk/img/media/c503ff51240a55c5fc67cc606967decbc528deb7/224_0_3516_2813/master/3516.jpg?width=140&quality=85&auto=format&fit=max&s=0b718b211f604c06ff3f88fd883b3b21",
+    "image_url": "https://i.guim.co.uk/img/media/cb119a8f2a7884f65b46079392dec7c6053f8afb/1025_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=8e787932b9939cdbaefcfb60cf5477dc",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -204,18 +300,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-2a7c3605a5",
-    "source": "BBC — Top Stories",
-    "title": "Urgent review ordered into asylum seeker taxi costs after BBC investigation",
-    "summary": "Asylum seekers are travelling long distances for appointments, with one telling the BBC his journey to visit a GP cost the Home Office £600.",
-    "url": "https://www.bbc.com/news/articles/cx2j3regpdno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T17:36:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c61/live/c007b100-9923-11f0-af62-91486a511a31.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-dc25537529",
     "source": "Politico — UK",
     "title": "EU concedes trade deal with Trump falls short of WTO rules",
@@ -240,18 +324,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-a78566c31a",
-    "source": "The Guardian — UK",
-    "title": "Andy Burnham says Britain needs ‘wholesale change’ as Labour MPs prepare for conference – as it happened",
-    "summary": "Manchester mayor urges Keir Starmer to reveal plans to deliver reform but denies he is plotting to replace PM Wes Streeting , the health secretary, has described Nigel Farage over his comment implying Donald Trump might be right about paracetamol posing a risk to pregnant women. (See 10.23am .) Dangerous and irresponsible. This man is a snake oil salesman and it’s time people stopped buying. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/sep/24/labour-tories-conservatives-reform-uk-politics-live-news-updates",
-    "published": "2025-09-24T16:48:37Z",
-    "image_url": "https://i.guim.co.uk/img/media/351d549f47d01c9d8533975fa94569bf659d5cec/125_225_5659_4527/master/5659.jpg?width=140&quality=85&auto=format&fit=max&s=b8785dad87d592cebdb8de1b62a44c0b",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-8395a690fc",
     "source": "BBC — Top Stories",
     "title": "Corbyn sorry for 'confusion' as new party membership launched",
@@ -259,18 +331,6 @@
     "url": "https://www.bbc.com/news/articles/cm2zvy74e1eo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T16:42:32Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e31d/live/af107160-994c-11f0-9a00-eba1f5856efc.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-ef535e3b1f",
-    "source": "BBC — Top Stories",
-    "title": "Bride moves wedding to care home so mum with dementia can be there",
-    "summary": "Rachel Berry celebrated her wedding day at her mum's care home, who lives with dementia.",
-    "url": "https://www.bbc.com/news/articles/c9qney4nn74o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T16:41:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b79d/live/a0037690-996a-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -372,30 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-c0176bb9d9",
-    "source": "Politico — UK",
-    "title": "Trump promises Arab leaders he won’t let Israel annex the West Bank",
-    "summary": "The president’s pledge came in a closed-door meeting at the UN.",
-    "url": "https://www.politico.com/news/2025/09/24/trump-west-bank-annex-00578051?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-24T15:02:31Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-beaa5328d1",
-    "source": "Politico — UK",
-    "title": "Update: Merz im Bundestag, Reiches Streichliste",
-    "summary": "Während die Staats- und Regierungschefs bei der UN-Vollversammlung in New York reden, bleibt Kanzler Friedrich Merz in Berlin – und verteidigt im Bundestag seinen Kurs. In der Generaldebatte setzt er auf Wachstum, Reformen und Kompromissfähigkeit, doch Streitpunkte wie Migration und Technologieoffenheit zeigen die Bruchlinien mit der SPD. Gleichzeitig sorgt ein internes Papier aus dem Wirtschaftsministerium […]",
-    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/update-merz-im-bundestag-reiches-streichliste/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-24T15:01:15Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/23/Berlin-Playbook-Website-Card57.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e07bc7521e",
     "source": "The Guardian — UK",
     "title": "Government looks at buying up Jaguar Land Rover parts to protect jobs at suppliers",
@@ -468,18 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-4aefea90ae",
-    "source": "The Guardian — UK",
-    "title": "UK’s YouTube and TikTok content creators deserve more rights, say MPs",
-    "summary": "Cross-party group to ‘tear down barriers that stifle talent’, from mortgage difficulties to filming permit problems UK politics live – latest updates A new cross-party group of MPs and peers is demanding more rights for Britain’s growing army of online content creators, amid concerns they face obstacles in securing everything from basic equipment to mortgages. The rise of content creators on YouTube and TikTok has transformed the media world, with individual streamers each attracting millions of subscribers to their channels. New research has suggested they are worth £2.2bn to the economy. Continue reading...",
-    "url": "https://www.theguardian.com/media/2025/sep/24/uks-youtube-and-tiktok-content-creators-deserve-more-rights-say-mps",
-    "published": "2025-09-24T10:21:44Z",
-    "image_url": "https://i.guim.co.uk/img/media/d8fdc8eda100db278ff4eeefc783777c579bc41f/640_0_6402_5121/master/6402.jpg?width=140&quality=85&auto=format&fit=max&s=f979d8460682cdecf7af3863dd6ecce7",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-fa0a365c80",
     "source": "BBC — Top Stories",
     "title": "The novels that made it to this year's Booker Prize shortlist - at a glance",
@@ -504,18 +528,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-19e9a85b1d",
-    "source": "The Guardian — UK",
-    "title": "I’ve racked up £3,000 in PCNs on the school run despite my blue badge",
-    "summary": "Temporary permits for courtesy cars issued by insurer after accident not enough to stop Newham council issuing penalties I have been sent 19 penalty charge notices (PCNs) by Newham council for driving into a restricted healthy school streets zone despite the fact I hold a blue badge access permit to drop and collect my children at school. The problems began when I had a car accident. My insurer issued me with three successive courtesy cars while mine was out of action. I therefore bought courtesy permits for each vehicle so I could continue driving into the zone. I have a disability and I am dependent on my car. Continue reading...",
-    "url": "https://www.theguardian.com/money/2025/sep/24/ive-racked-up-3000-in-pcns-on-the-school-run-despite-my-blue-badge",
-    "published": "2025-09-24T06:00:18Z",
-    "image_url": "https://i.guim.co.uk/img/media/069e2ac492c655dd0e2336a892e9e43a31935c13/0_114_2138_1710/master/2138.jpg?width=140&quality=85&auto=format&fit=max&s=a7f35632f762e8ecac8e88fd0976c90b",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-168fd6e7eb",
     "source": "BBC — Top Stories",
     "title": "Play now",
@@ -523,18 +535,6 @@
     "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T05:18:23Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-94e4d7b4a7",
-    "source": "BBC — Top Stories",
-    "title": "Lulu: Telling the world I'm an alcoholic was liberating",
-    "summary": "The Shout singer discloses her alcohol problem - and the family history that contributed to it.",
-    "url": "https://www.bbc.com/news/articles/c4g7p8l8214o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T23:09:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8521/live/d795d520-9911-11f0-af62-91486a511a31.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
