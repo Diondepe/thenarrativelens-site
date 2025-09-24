@@ -1,5 +1,29 @@
 [
   {
+    "id": "The Guardian — UK-bb133310f7",
+    "source": "The Guardian — UK",
+    "title": "‘It goes beyond getting a cash refund for slavery’: Lenny Henry and Marcus Ryder on the case for reparations",
+    "summary": "With their new book, Henry and Ryder are determined to start a discussion about compensation for the descendants of slaves. But how would any scheme work? And why is it yet to happen? ‘Nobody knows how to talk about reparations,” says Lenny Henry, which is why the entertainer teamed up with his regular collaborator, media diversity campaigner Marcus Ryder, to write a book about it: The Big Payback : The Case for Reparations for Slavery and How They Would Work. Triggered by the revelation that the British government only finished paying off its debts from compensating slave owners for abolishing slavery in 2015, Henry and Ryder spoke to economists, politicians and race relations experts about how to tackle this most contentious of topics, maintaining their sense of humour throughout. When did you start thinking about reparations? Marcus Ryder: It’s always been part of the Black dialogue, but in terms of me thinking about it with Lenny, it was 2014 right? You might not remember this Lenny – it’s like we’re a married couple … Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/sep/24/lenny-henry-marcus-ryder-the-case-for-reparations-slavery",
+    "published": "2025-09-24T04:00:15Z",
+    "image_url": "https://i.guim.co.uk/img/media/eab64d0ea865b18c6fef480f79b7d58ed51aef03/0_1960_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=dd3eadf8f5cd12dcab4ef33c27104030",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-f250dab279",
+    "source": "Politico — UK",
+    "title": "Gesundheit: Mehr Sparsamkeit, Warken",
+    "summary": "Friedrich Merz will den Herbst zum Aufbruch machen und spricht dazu heute in den Haushaltsberatungen im Bundestag. Wie schwer sein Projekt wird, zeigt das deutsche Gesundheitssystem.Gesundheitsministerin Nina Warken kämpft wie ihre Vorgänger mit Milliardenlöchern bei den Krankenkassen, steigenden Beiträgen und einer Reformkommission, deren Empfehlungen frühestens 2027 greifen. Jürgen Klöckner ordnet ein, warum Beitragserhöhungen kaum zu […]",
+    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/gesundheit-mehr-sparsamkeit-warken/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-24T03:45:05Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/18/Berlin-Playbook-Website-card-1-1.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-7228b71e4a",
     "source": "Politico — UK",
     "title": "Cracking Europe’s consumer code",
@@ -7,6 +31,18 @@
     "url": "https://www.politico.eu/sponsored-content/cracking-europes-consumer-code/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-24T03:00:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2015/08/23/Feature-image.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c1b9d8bbdd",
+    "source": "BBC — Top Stories",
+    "title": "Safety mechanism caused Trump escalator malfunction, UN says",
+    "summary": "The US president's videographer \"may have inadvertently triggered the safety function\" while capturing his arrival, the UN says.",
+    "url": "https://www.bbc.com/news/articles/cn76kyxp6epo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T02:53:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1642/live/f0b2f0f0-98ef-11f0-858a-a904eacbef23.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -288,30 +324,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-da0ff63b7d",
-    "source": "Politico — UK",
-    "title": "Trump slams Putin and calls on Ukraine to win back all of its land",
-    "summary": "Trump also said NATO countries should shoot down Russian planes that fly into their territory.",
-    "url": "https://www.politico.com/news/2025/09/23/trump-nato-shoot-down-russia-00576909?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-23T19:39:34Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-d7b18003fe",
-    "source": "BBC — Top Stories",
-    "title": "TV stations refuse to air 'insensitive' Jimmy Kimmel's show after ABC lifts suspension",
-    "summary": "The comedian's late-night show was suspended last week after his remarks about the killing of conservative influencer Charlie Kirk.",
-    "url": "https://www.bbc.com/news/articles/cy4j0zldevyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-23T19:07:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7923/live/5aad1640-9894-11f0-b42a-999ed0e03e41.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-fa0a365c80",
     "source": "BBC — Top Stories",
     "title": "Booker Prize shortlist choice was agony, says Sarah Jessica Parker",
@@ -408,13 +420,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-57bead331c",
+    "id": "The Guardian — UK-72eb8e85f0",
     "source": "The Guardian — UK",
-    "title": "Ed Davey warns NHS will be privatised and gun laws rolled back by ‘hypocrite’ Farage in Lib Dem conference speech – as it happened",
-    "summary": "This blog is now closed, you can read more on this story here: Lib Dems the last block against ‘forces of darkness’ led by Farage, says Ed Davey Ed Davey , the Lib Dem leader, criticised Donald Trump for “the cruelty and stupidity” of his approach to medical research in comments distributed yesterday before Trump made bogus claims about autism in the Oval Office. (See 8.41am .) Now Davey has described the president’s latest comments as “dangerous nonsense”. First Trump slashed funding for vaccines research now he’s peddling dangerous nonsense about paracetamol. The UK should take on Trump’s anti-science agenda and open our doors to US researchers. The US government is ignoring science and deliberately spreading misinformation. It will get people killed. And we have a Reform party that seems quite keen to import their health advice from these people. Boldest of the lot are the proposals on migration, which, if taken up even in part, would represent the biggest paradigm shift of all. Reform UK has set the agenda with proposals to deny benefits to even legal migrants. By the standards of the centre-left, Labour Together’s suggestion is just as radical. Rather than leave Isak, an Eritrean with post-traumatic stress disorder, languishing in an asylum hotel , their paper proposes he be granted time-limited refugee status for six months. He signs a contract that obliges him to learn English, find work and private accommodation; his access to any income support via universal credit is strictly conditional on him fulfilling its terms. Of all the changes suggested, this one – given that asylum seekers cannot currently work legally – would have the most profound consequences for British politics and the economy. Why an asylum-seeker is drawn to Britain over, say, France is not obvious. A 2016 report from Warwick University, based on findings from 29 separate studies into asylum-seeker motives, concluded that social networks and shared languages were crucial. The report could not find a single study showing a significant correlation between work rights and destination choice. If asylum-seekers in Calais were motivated by working rights those who had yet to apply would stay in France, where they could work sooner. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/sep/23/lib-dem-ed-davey-conference-donald-trump-keir-starmer-labour-reform-tory-latest-politics-live-news-updates",
-    "published": "2025-09-23T16:48:18Z",
-    "image_url": "https://i.guim.co.uk/img/media/32ee691cb0e28e1ddf16cedba7db7c36ce3c4ab1/857_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=45f7daec55c476c5876f96f443f6ff34",
+    "title": "Civil servants may feel ‘under attack’ after new rules briefed to media, UK ministers told",
+    "summary": "Guidance that meetings should be held outside working hours was published in Telegraph with quote about ‘nonsense’ events UK politics live – latest updates Ministers have been warned that they risk civil servants feeling attacked after new guidance was published banning staff network meetings in working hours. The document said civil servants should make sure cross-government networks remained impartial, and brought in a requirement for senior managers to sign off events. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/23/uk-civil-servants-staff-network-meeting-rules",
+    "published": "2025-09-23T16:44:34Z",
+    "image_url": "https://i.guim.co.uk/img/media/aa16defe177029710f28200a4e366c175da792f9/89_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=47c5ae42cf3a154a80986fe10c97c10d",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,18 +547,6 @@
     "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-23T04:52:36Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-7c71ed92b3",
-    "source": "The Guardian — UK",
-    "title": "Keir Starmer to launch progressive fightback against ‘decline and division’ fuelled by far right",
-    "summary": "Prime minister expected to warn UK is ‘at a crossroads’ as he sets out plan to counter Nigel Farage and Reform Keir Starmer will make a major intervention this week, pledging a progressive fightback and promising the UK will reject the division and hate fuelled by the far right. The move comes ahead of Labour’s conference amid increasing pressure on the prime minister from within his own party, where even senior loyalists have voiced fears that he has not mounted a passionate enough attack on Reform UK and rising racism in Britain. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/23/keir-starmer-to-launch-progressive-fightback-against-decline-and-division-fuelled-by-far-right",
-    "published": "2025-09-23T04:00:39Z",
-    "image_url": "https://i.guim.co.uk/img/media/421e93d7735b814790df0569ee9d8802cb372e17/75_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=6d5363a28629deadccb7ad106227e4ec",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
