@@ -1,9 +1,69 @@
 [
   {
+    "id": "Politico — UK-93a8a351f2",
+    "source": "Politico — UK",
+    "title": "Top EU diplomat warns Trump that Europe can’t shoulder Ukraine war burden alone",
+    "summary": "UNITED NATIONS — Europe alone is not responsible for helping Ukraine bring an end to its war with Russia, EU top diplomat Kaja Kallas warned Thursday. That is particularly true when considering President Donald Trump’s pledge to halt the fighting, she said in an interview on the sidelines of the U.N. General Assembly. “He was […]",
+    "url": "https://www.politico.com/news/2025/09/25/kaja-kallas-interview-trump-ukraine-war-00581253?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-25T22:06:11Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c55d1beb8d",
+    "source": "BBC — Top Stories",
+    "title": "PM compares Burnham's economic proposals to Truss 'disaster'",
+    "summary": "Sir Keir Starmer's comments follow criticism of his leadership from the Mayor of Manchester.",
+    "url": "https://www.bbc.com/news/articles/cly0n24k04ro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T21:59:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7e0/live/71049af0-9a4a-11f0-97bc-a980e58f8f49.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-46b82239f0",
+    "source": "The Guardian — UK",
+    "title": "Starmer to unveil digital ID cards in plan set to ignite civil liberties row",
+    "summary": "‘Brit card’ already facing opposition from privacy campaigners as government looks for ways to tackle illegal immigration All working adults will need digital ID cards under plans to be announced by Keir Starmer in a move that will spark a battle with civil liberties campaigners. The prime minister will set out the plans on Friday at a conference on how progressive politicians can tackle the problems facing the UK, including addressing voter concerns around immigration. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/25/keir-starmer-expected-to-announce-plans-for-digital-id-cards",
+    "published": "2025-09-25T21:33:41Z",
+    "image_url": "https://i.guim.co.uk/img/media/247eda2f7fd6f0fa29ec7c3cbc38b02fedfd81a9/381_0_1906_1525/master/1906.jpg?width=140&quality=85&auto=format&fit=max&s=67ad862cf5fe57e364e4ccb50a9c76af",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-25154dc238",
+    "source": "BBC — Top Stories",
+    "title": "Digital ID to be compulsory for all UK adults under government plans",
+    "summary": "The prime minister believes a new scheme would help crack down on illegal working in the UK.",
+    "url": "https://www.bbc.com/news/articles/c4g54g6vgpdo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T21:31:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3651/live/f0ba5230-9a27-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-cd60e24999",
+    "source": "Politico — UK",
+    "title": "Russian foreign minister says Moscow is in a ‘real war’ with NATO, Europe",
+    "summary": "President Donald Trump proclaimed emphatically early this week that Kyiv could win the war — and earn back all of its territory.",
+    "url": "https://www.politico.com/news/2025/09/25/russia-nato-eu-ukraine-war-00581261?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-25T21:16:54Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-47ce25deb3",
     "source": "The Guardian — UK",
     "title": "Actor Noel Clarke arrested at family home in London",
-    "summary": "Police search former Dr Who star’s property and are seen leaving with boxes The actor Noel Clarke has been arrested by police at his family home in London. Detectives searched the former Dr Who star’s property in Kensington and officers were seen leaving the address with boxes apparently containing a laptop and documents. Continue reading...",
+    "summary": "Police search former Doctor Who star’s property and are seen leaving with boxes The actor Noel Clarke has been arrested by police at his family home in London. Detectives searched the former Doctor Who star’s property in Kensington and officers were seen leaving the address with boxes apparently containing a laptop and documents. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/sep/25/actor-noel-clarke-arrested-at-family-home-in-london",
     "published": "2025-09-25T20:43:20Z",
     "image_url": "https://i.guim.co.uk/img/media/1a7e70bc2795bc576abe0641cdb153ff2c68f4bc/391_0_3238_2591/master/3238.jpg?width=140&quality=85&auto=format&fit=max&s=60b301827cf94489c60939ebb189017f",
@@ -38,7 +98,7 @@
   {
     "id": "The Guardian — UK-7e4d9d6ec8",
     "source": "The Guardian — UK",
-    "title": "Hackers reportedly steal details of 8,000 children from Kido nursery chain",
+    "title": "Hackers reportedly steal pictures of 8,000 children from Kido nursery chain",
     "summary": "Firm, which has 18 sites around London and more in US, India and China, has received ransom demand, say reports The names, pictures and addresses of about 8,000 children have reportedly been stolen from the Kido nursery chain by a gang of cybercriminals. The criminals have demanded a ransom from the company – which has 18 sites around London, with more in the US, India and China – according to the BBC. Continue reading...",
     "url": "https://www.theguardian.com/technology/2025/sep/25/cybercriminals-steal-pictures-and-details-of-8000-children-from-nursery-chain",
     "published": "2025-09-25T18:47:12Z",
@@ -55,18 +115,6 @@
     "url": "https://www.bbc.com/news/articles/c147vd511djo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T18:43:43Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec77/live/9f4bf410-9a33-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-46b82239f0",
-    "source": "The Guardian — UK",
-    "title": "Starmer to unveil digital ID cards in plan set to ignite civil liberties row",
-    "summary": "‘Brit card’ already facing opposition from privacy campaigners as government looks for ways to tackle illegal immigration All working adults will need digital ID cards under plans to be announced by Keir Starmer in a move that will spark a battle with civil liberties campaigners. The prime minister will set out the plans on Friday at a conference on how progressive politicians can tackle the problems facing the UK, including addressing voter concerns around immigration. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/25/keir-starmer-expected-to-announce-plans-for-digital-id-cards",
-    "published": "2025-09-25T18:31:12Z",
-    "image_url": "https://i.guim.co.uk/img/media/247eda2f7fd6f0fa29ec7c3cbc38b02fedfd81a9/381_0_1906_1525/master/1906.jpg?width=140&quality=85&auto=format&fit=max&s=67ad862cf5fe57e364e4ccb50a9c76af",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -108,18 +156,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-2c0b1dfe5e",
-    "source": "BBC — Top Stories",
-    "title": "Backlash from Labour MPs to Burnham leadership ambitions",
-    "summary": "The majority of Labour MPs contacted by the BBC say they are against Andy Burnham challenging Keir Starmer.",
-    "url": "https://www.bbc.com/news/articles/c70190e0p6yo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T18:01:11Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a4/live/8fbefa00-9a34-11f0-97f5-bd38218a3641.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-787b953363",
     "source": "The Guardian — UK",
     "title": "‘A sticking plaster’: Labour’s levelling up offer leaves Blackpool voters unmoved",
@@ -135,7 +171,7 @@
     "id": "The Guardian — UK-44d206df89",
     "source": "The Guardian — UK",
     "title": "Labour’s internal warfare breaks open as Starmer and ministers criticise Andy Burnham",
-    "summary": "Starmer understood to be furious at Greater Manchester mayor’s admission that he would seek to challenge for the leadership Labour’s internal warfare broke into the open on Thursday as Keir Starmer and several cabinet ministers criticised Andy Burnham over his comments dismissing the bond markets. Senior Labour figures compared the Greater Manchester mayor’s attitude to the cavalier approach taken by former Conservative prime minister Liz Truss in a sign of how low relations between No 10 and Burnham have plunged. Continue reading...",
+    "summary": "Starmer understood to be furious at Greater Manchester mayor’s admission that he would seek to challenge for the leadership Labour’s internal warfare broke into the open on Thursday as Keir Starmer and several cabinet ministers criticised Andy Burnham over his comments dismissing the bond markets. Senior party figures compared the Greater Manchester mayor’s attitude to the cavalier approach taken by the former Conservative prime minister, Liz Truss, in a sign of how low relations between No 10 and Burnham have plunged. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/25/labour-internal-warfare-breaks-open-as-keir-starmer-and-ministers-criticise-andy-burnham",
     "published": "2025-09-25T17:43:38Z",
     "image_url": "https://i.guim.co.uk/img/media/6a89f0e5950f5b56382f9799a8495ddf4f67bf19/643_0_4355_3486/master/4355.jpg?width=140&quality=85&auto=format&fit=max&s=0b0369ee191b943a914021a3eb2bb09b",
@@ -187,18 +223,6 @@
     "url": "https://www.bbc.com/news/articles/c0q751vlxw1o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T17:22:38Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f9/live/d254ab40-996b-11f0-97f5-bd38218a3641.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-25154dc238",
-    "source": "BBC — Top Stories",
-    "title": "Digital ID to be compulsory for all UK adults under government plans",
-    "summary": "The prime minister believes a new scheme would help crack down on illegal working in the UK.",
-    "url": "https://www.bbc.com/news/articles/c4g54g6vgpdo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T17:15:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3651/live/f0ba5230-9a27-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -487,30 +511,6 @@
     "url": "https://www.theguardian.com/world/2025/sep/25/labour-faces-legal-scrutiny-allowing-chickens-carried-legs",
     "published": "2025-09-25T12:39:19Z",
     "image_url": "https://i.guim.co.uk/img/media/bbd638b02edba46b970532c5edbd87cfa84a71a7/698_0_4569_3657/master/4569.jpg?width=140&quality=85&auto=format&fit=max&s=66f21a4898df6ffa498291dba960782a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-a3321a1f35",
-    "source": "Politico — UK",
-    "title": "EU Commission to ‘leave doors open’ for social media ban",
-    "summary": "'If we need to go a step further to protect our kids, then why not?’ says Commission spokesperson.",
-    "url": "https://www.politico.eu/article/eu-commission-to-leave-doors-open-for-social-media-ban/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-25T12:34:53Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2204995847.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-7f5a0e1cad",
-    "source": "Politico — UK",
-    "title": "Europe is too weak to counter Trump, says conservative chief Weber",
-    "summary": "The U.S. president used American military strength to get his way with the EU on trade, said the conservative head of the largest group in the European Parliament.",
-    "url": "https://www.politico.eu/article/europe-weak-counter-donald-trump-manfred-weber/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-25T11:47:32Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/12511231-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
