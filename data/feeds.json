@@ -1,5 +1,65 @@
 [
   {
+    "id": "The Guardian — UK-5026c69279",
+    "source": "The Guardian — UK",
+    "title": "Biometric checks to visit EU to get ‘phased rollout’ from October",
+    "summary": "Though registration kiosks are due to open in UK in two weeks, system may not be fully enforced for nine months Biometric registration to visit the EU may not be fully enforced for another nine months, with border officials allowed to relax the rules to alleviate queues or chaos at ports after the system finally goes live. In just over two weeks, Eurotunnel, Eurostar and the Port of Dover will all open new biometric registration kiosks in the UK, installed at a cost of tens of millions of pounds. Continue reading...",
+    "url": "https://www.theguardian.com/travel/2025/sep/25/biometric-checks-to-visit-eu-to-get-phased-rollout-from-october",
+    "published": "2025-09-25T06:00:29Z",
+    "image_url": "https://i.guim.co.uk/img/media/267d93c69f3a634c5b4d8af7cd4ce2a1b202e1c9/716_0_4514_3610/master/4514.jpg?width=140&quality=85&auto=format&fit=max&s=d910f3790629c4b180c8fb25c676c766",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-55fd814a80",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'MPs want me to oust Starmer' and 'Wayne's booze hell'",
+    "summary": "An interview with the Greater Manchester mayor and Wayne Rooney's comments on his drinking top the papers.",
+    "url": "https://www.bbc.com/news/articles/czjv0004nxgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T05:55:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082a/live/a268f980-9999-11f0-928c-71dbb8619e94.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0e8e4a7fb4",
+    "source": "BBC — Top Stories",
+    "title": "Labour MPs are privately urging me to challenge PM, says Burnham",
+    "summary": "Andy Burnham tells the Telegraph MPs have privately urged him to challenge Sir Keir Starmer to be PM.",
+    "url": "https://www.bbc.com/news/articles/c7v1m873mjyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T05:51:36Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/518e/live/d2394980-99b7-11f0-a0b0-671be1fcc3e1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a6c8306054",
+    "source": "BBC — Top Stories",
+    "title": "Drone activity confirmed at multiple airports in Denmark",
+    "summary": "The incidents come after the country's Copenhagen airport was forced to close earlier this week due to a drone incursion.",
+    "url": "https://www.bbc.com/news/articles/c7401vk4lgzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T05:49:19Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b352/live/d1a4b990-99d6-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-19c990518c",
+    "source": "BBC — Top Stories",
+    "title": "BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza",
+    "summary": "Israel does not allow foreign journalists into Gaza independently, citing security grounds.",
+    "url": "https://www.bbc.com/news/articles/c8d7yrp80m8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T05:43:55Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0250/live/b6164580-997d-11f0-b6a6-3b33e4575a79.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-168fd6e7eb",
     "source": "BBC — Top Stories",
     "title": "Play now",
@@ -48,18 +108,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-55fd814a80",
-    "source": "BBC — Top Stories",
-    "title": "The Papers: 'MPs want me to oust Starmer' and 'Wayne's booze hell'",
-    "summary": "An interview with the Greater Manchester mayor and Wayne Rooney's comments on his drinking top the papers.",
-    "url": "https://www.bbc.com/news/articles/czjv0004nxgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T04:55:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082a/live/a268f980-9999-11f0-928c-71dbb8619e94.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-997ce3fe88",
     "source": "Politico — UK",
     "title": "Richterwahl: Nach der Krise ist (hoffentlich nicht) vor der Krise",
@@ -103,6 +151,18 @@
     "url": "https://www.theguardian.com/politics/audio/2025/sep/25/labour-lucy-powell-progressive-voters-politics-weekly-uk-podcast",
     "published": "2025-09-25T04:00:26Z",
     "image_url": "https://i.guim.co.uk/img/media/83229aa2d532edb40d383c74e343b415e926d48a/404_0_3705_2964/master/3705.jpg?width=140&quality=85&auto=format&fit=max&s=71bf28137ad443d9d90cb4dc355da452",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-fe62824745",
+    "source": "BBC — Top Stories",
+    "title": "Trump demands inquiry over UN 'triple sabotage'",
+    "summary": "The US president called the incidents that included an escalator and teleprompter mishap \"a real disgrace\".",
+    "url": "https://www.bbc.com/news/articles/c3dr0zrr1kpo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T03:15:40Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b789/live/d1508210-99b5-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -228,18 +288,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a6c8306054",
-    "source": "BBC — Top Stories",
-    "title": "Drone activity confirmed at multiple Denmark airports",
-    "summary": "The incidents come after the country's Copenhagen airport was forced to close earlier this week due to a drone incursion.",
-    "url": "https://www.bbc.com/news/articles/c7401vk4lgzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T01:38:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcaf/live/93e21710-9995-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-de419deba2",
     "source": "BBC — Top Stories",
     "title": "America's blame game over Canada's wildfire smoke misses the point, experts say",
@@ -278,23 +326,11 @@
   {
     "id": "BBC — Top Stories-ce36af6859",
     "source": "BBC — Top Stories",
-    "title": "Government considers financial support for Jaguar Land Rover suppliers",
+    "title": "Government considers financial support for Jaguar Land Rover suppliers after cyber-attack",
     "summary": "Fears are growing that some of the car maker's suppliers could go bust without support.",
     "url": "https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T23:20:25Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f4/live/0fa11a10-99b2-11f0-8ba8-03c56d5ecc75.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-19c990518c",
-    "source": "BBC — Top Stories",
-    "title": "BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza",
-    "summary": "Israel does not allow foreign journalists into Gaza independently, citing security grounds.",
-    "url": "https://www.bbc.com/news/articles/c8d7yrp80m8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T23:15:12Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0250/live/b6164580-997d-11f0-b6a6-3b33e4575a79.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -314,7 +350,7 @@
   {
     "id": "BBC — Top Stories-907f795968",
     "source": "BBC — Top Stories",
-    "title": "Labubu dolls made up 90% of fake toys seized at UK border",
+    "title": "Labubu dolls make up 90% of fake toys seized at UK border",
     "summary": "Of the 259,000 fake toys seized in 2025, 236,000 were counterfeit Labubus, the Home Office says.",
     "url": "https://www.bbc.com/news/articles/c8645pdq4e0o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T23:05:02Z",
@@ -338,11 +374,11 @@
   {
     "id": "BBC — Top Stories-5193b27b44",
     "source": "BBC — Top Stories",
-    "title": "UK drug price rises 'necessary', says Patrick Vallance",
+    "title": "Drug price rises needed to keep pharmaceutical investment in UK, says minister",
     "summary": "His comments come after pharmaceutical giants either paused or scrapped projects in the UK.",
     "url": "https://www.bbc.com/news/articles/cre53qgey0eo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T23:02:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee66/live/f64f50c0-9972-11f0-8386-d166d7be2209.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/008b/live/f06cf620-99d2-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -379,18 +415,6 @@
     "url": "https://www.theguardian.com/business/2025/sep/25/moderna-boss-defends-uk-in-drug-pricing-row-as-he-opens-150m-oxfordshire-facility",
     "published": "2025-09-24T23:01:20Z",
     "image_url": "https://i.guim.co.uk/img/media/d7cbd0ec0384889448f2ab7ac96ced6b27071d08/885_0_4423_3539/master/4423.jpg?width=140&quality=85&auto=format&fit=max&s=8928ac7b2d02acaa2ee79530e3347faf",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-0e8e4a7fb4",
-    "source": "BBC — Top Stories",
-    "title": "Labour MPs are privately urging me to challenge PM, says Burnham",
-    "summary": "Andy Burnham tells the Telegraph MPs have privately urged him to challenge Sir Keir Starmer to be PM.",
-    "url": "https://www.bbc.com/news/articles/c7v1m873mjyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T22:35:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/518e/live/d2394980-99b7-11f0-a0b0-671be1fcc3e1.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -444,25 +468,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-efae9d4e66",
+    "id": "The Guardian — UK-d763cedbd9",
     "source": "The Guardian — UK",
-    "title": "‘Sorry for the confusion’: Jeremy Corbyn says membership is open for new party",
-    "summary": "Former Labour leader announces November conference after week of turmoil, without mention of Zarah Sultana Jeremy Corbyn has apologised to his leftwing party’s supporters for a week of turmoil and division, in a video that failed to mention its co-founder Zarah Sultana. The former Labour leader said membership was now officially open and that the new party would have its founding conference in Liverpool at the end of November. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/24/sorry-for-the-confusion-jeremy-corbyn-your-party-membership-zarah-sultana",
-    "published": "2025-09-24T18:52:37Z",
-    "image_url": "https://i.guim.co.uk/img/media/589f0bc322cbf65137159808737752ce784efd52/459_0_4062_3251/master/4062.jpg?width=140&quality=85&auto=format&fit=max&s=efee5c0c27a5f2464fbe4153c7974396",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-0f422a2ed0",
-    "source": "BBC — Top Stories",
-    "title": "Russia will expand aggression beyond Ukraine if not stopped, Zelensky warns",
-    "summary": "Vladimir Putin \"will keep driving the war forward wider and deeper\", the Ukrainian president tells the UN.",
-    "url": "https://www.bbc.com/news/articles/c5yg921rjrko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T18:22:17Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c21b/live/26839050-995d-11f0-928c-71dbb8619e94.jpg",
+    "title": "Family of three are first arrivals in UK under ‘one in, one out’ immigration deal",
+    "summary": "Small child part of first reciprocal intake after removal of four asylum seekers from Britain to France over past week A family of three including a small child have become the first arrivals from France under Keir Starmer’s “one in, one out” deal, the Home Office has said. The move follows the removal on Wednesday of the first four asylum seekers from the UK to France over the past six days, despite continuing legal challenges. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/24/first-arrivals-uk-one-in-one-out-immigration-deal-france",
+    "published": "2025-09-24T18:16:58Z",
+    "image_url": "https://i.guim.co.uk/img/media/76b72c3297c163f041c6726b33f2f9d5fed310b6/521_35_2611_2089/master/2611.jpg?width=140&quality=85&auto=format&fit=max&s=d240216934ca0099786c5ec6587d2c5a",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -547,18 +559,6 @@
     "url": "https://www.theguardian.com/business/2025/sep/24/government-looks-at-buying-up-jaguar-land-rover-parts-to-protect-jobs-suppliers-cyber-attack",
     "published": "2025-09-24T14:57:41Z",
     "image_url": "https://i.guim.co.uk/img/media/f0147f482dd8bfe02070b9399c81a00f0dd866bd/556_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2043b96ec770568950162c7904d13ee0",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-c08a3c6f89",
-    "source": "The Guardian — UK",
-    "title": "BT boss says costs ‘inflicted’ by UK are 10 times those faced by European sector",
-    "summary": "Allison Kirkby also warns that the November budget could be ‘very difficult’ for the chancellor The chief executive of BT has said telecoms operators in the UK pay as much as 10 times the amount in “government-inflicted costs” than those operating in comparable European countries. Allison Kirkby said the industry had already hit the “peak” it could handle in costs imposed by the government, and warned that the November budget could be “very difficult” for the chancellor, Rachel Reeves. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/sep/24/bt-boss-costs-inflicted-uk-10-times-european",
-    "published": "2025-09-24T12:47:14Z",
-    "image_url": "https://i.guim.co.uk/img/media/de490662ea64fd8337ddc9843578eabae19e2d1f/332_0_3335_2668/master/3335.jpg?width=140&quality=85&auto=format&fit=max&s=a63fd6181882f1ca10d15b4953238118",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
