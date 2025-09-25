@@ -1,12 +1,84 @@
 [
   {
+    "id": "Politico — UK-5805565981",
+    "source": "Politico — UK",
+    "title": "German recovery still on ‘shaky ground’, economic institutes say",
+    "summary": "The German economy should grow again for the first time in three years this year, but its long-term prospects remain challenging, five leading economic institutes said in a new forecast. Europe’s largest economy is expected to grow by 0.2 percent this year, before accelerating to 1.3 percent in 2026 and 1.4 percent in 2027, primarily […]",
+    "url": "https://www.politico.eu/article/german-recovery-still-on-shaky-ground-economic-institutes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-25T08:07:00Z",
+    "image_url": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ce36af6859",
+    "source": "BBC — Top Stories",
+    "title": "Government considers financial support for Jaguar Land Rover suppliers after cyber-attack",
+    "summary": "Fears are growing that some of the carmaker's suppliers could go bust without support.",
+    "url": "https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T07:49:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f4/live/0fa11a10-99b2-11f0-8ba8-03c56d5ecc75.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-69ad28ad72",
+    "source": "Politico — UK",
+    "title": "What does Andy Burnham want?",
+    "summary": "Is Labour’s king of the north about to challenge the prime minister in Westminster? After an explosive interview, the Mayor of Greater Manchester, Andy Burnham, says MPs are urging him to challenge Sir Keir Starmer. Sam and Anne consider: — What vision Mr Burnham has for the country? — Can the PM match him and […]",
+    "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/what-does-andy-burnham-want/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-25T07:46:50Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/03/27/PASAA_PODCAST-HERO-16BY9.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-0e8e4a7fb4",
     "source": "BBC — Top Stories",
     "title": "Labour MPs are privately urging me to challenge PM, says Burnham",
     "summary": "Andy Burnham tells the Telegraph MPs have privately urged him to challenge Sir Keir Starmer to be PM.",
     "url": "https://www.bbc.com/news/articles/c7v1m873mjyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T07:16:20Z",
+    "published": "2025-09-25T07:46:25Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4660/live/05a268f0-99dc-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-dcf3dea2ec",
+    "source": "Politico — UK",
+    "title": "With Europe on edge, wave of drone sightings across Denmark disrupts air travel",
+    "summary": "The continent is on high alert after a spate of airspace breaches and drone sightings.",
+    "url": "https://www.politico.eu/article/denmark-closes-airports-after-wave-drone-sightings-across-country/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-25T07:42:46Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2236432797-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-fde92fcd3d",
+    "source": "The Guardian — UK",
+    "title": "Burnham says MPs are privately urging him to challenge Starmer for Labour leadership",
+    "summary": "Greater Manchester mayor accuses Downing Street of creating a ‘climate of fear’ and says wholesale change is required Andy Burnham has said Labour MPs are privately urging him to challenge Keir Starmer to become prime minister. In an intervention likely to fuel speculation that he is seeking a return to Westminster, Burnham accused Downing Street of creating a “climate of fear” and spreading “alienation and demoralisation” among MPs. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/25/andy-burnham-mps-challenge-starmer-labour-leadership-prime-minister-greater-manchester-mayo",
+    "published": "2025-09-25T07:18:00Z",
+    "image_url": "https://i.guim.co.uk/img/media/e5bac2df2fa958d607fd34e0c06a8f8809301b98/202_64_4424_3541/master/4424.jpg?width=140&quality=85&auto=format&fit=max&s=eb3b40ecb215094f51452306fc8a3073",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d00c381651",
+    "source": "BBC — Top Stories",
+    "title": "Woman in Spanish cold case identified after 20 years",
+    "summary": "Russian citizen Liudmila Zavada, 31, was found dead in July 2005 by a road in the northeastern Spain.",
+    "url": "https://www.bbc.com/news/articles/cj4yqwnl1q7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T07:01:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aa0/live/0e47be80-9958-11f0-af33-e32b3939e8ca.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -19,18 +91,6 @@
     "url": "https://www.theguardian.com/business/2025/sep/25/co-op-says-malicious-cyber-attack-has-hit-profits-by-80m",
     "published": "2025-09-25T06:55:22Z",
     "image_url": "https://i.guim.co.uk/img/media/a2cf1b6c71c4fe14bd657abda31c417d2b29faf0/115_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=ccb9916debcf63987530e4052da8d40c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-ce36af6859",
-    "source": "BBC — Top Stories",
-    "title": "Government considers financial support for Jaguar Land Rover suppliers after cyber-attack",
-    "summary": "Fears are growing that some of the car maker's suppliers could go bust without support.",
-    "url": "https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T06:31:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f4/live/0fa11a10-99b2-11f0-8ba8-03c56d5ecc75.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -67,6 +127,18 @@
     "url": "https://www.bbc.com/news/articles/c8d7yrp80m8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T05:43:55Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0250/live/b6164580-997d-11f0-b6a6-3b33e4575a79.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b2500ee811",
+    "source": "BBC — Top Stories",
+    "title": "Australian film altered in China to make gay couple straight",
+    "summary": "A scene featuring a same-sex couple was digitally altered to depict a heterosexual couple.",
+    "url": "https://www.bbc.com/news/articles/cp8w9492lg6o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T05:30:03Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6495/live/42cb6b80-99c5-11f0-8a77-13b9382bfc21.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -264,42 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-08e97b2db0",
-    "source": "Politico — UK",
-    "title": "Europe is at war with Russia, whether it likes it or not",
-    "summary": "The fighting in Ukraine is only part of Russia’s wider war against the continent as a whole. It’s high time to recognize this reality and act accordingly.",
-    "url": "https://www.politico.eu/article/europe-russia-war-in-ukraine-nato-poland-romania-estonia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-25T02:01:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/24/GettyImages-2236259954-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-4a1e345ad5",
-    "source": "Politico — UK",
-    "title": "How Italy’s Meloni is making the far right cool for Gen Z",
-    "summary": "The PM's youth wing rallied under the shadow of the killing of U.S. conservative activist Charlie Kirk.",
-    "url": "https://www.politico.eu/article/italy-meloni-far-right-genz-tiktok-rome-milan-nationalism-politics-people/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-25T02:01:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2236718893-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-3567a2e63a",
-    "source": "Politico — UK",
-    "title": "MEP invited genocide-linked militiamen to talk peace in European Parliament",
-    "summary": "\"This is a situation to learn from,\" acknowledges lawmaker after supporters of group fighting Sudan's civil war was due to speak in Brussels.",
-    "url": "https://www.politico.eu/article/mep-genocide-european-parliament-peace-militiamen-sudan-human-rights/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-25T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/24/IMG_0824-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-de419deba2",
     "source": "BBC — Top Stories",
     "title": "America's blame game over Canada's wildfire smoke misses the point, experts say",
@@ -319,18 +355,6 @@
     "url": "https://www.bbc.com/news/articles/c147e23l3rro?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T01:12:18Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8071/live/2296c280-953b-11f0-ad73-8b4a30771edb.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-635de9c0a3",
-    "source": "BBC — Top Stories",
-    "title": "Environment Agency failed to visit serious pollution incidents, files show",
-    "summary": "Data from inside England's environment watchdog show an agency struggling to monitor serious pollution.",
-    "url": "https://www.bbc.com/news/articles/cy4jk8njpngo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T01:07:14Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b78a/live/381897e0-9555-11f0-a9d0-b91ec0b66439.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -367,18 +391,6 @@
     "url": "https://www.bbc.com/news/articles/cm2zwm8m41mo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T23:03:35Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b4/live/d6d85fc0-97d8-11f0-b48d-eb3b631c9a51.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-5193b27b44",
-    "source": "BBC — Top Stories",
-    "title": "Drug price rises needed to keep pharmaceutical investment in UK, says minister",
-    "summary": "His comments come after pharmaceutical giants either paused or scrapped projects in the UK.",
-    "url": "https://www.bbc.com/news/articles/cre53qgey0eo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T23:02:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/008b/live/f06cf620-99d2-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -432,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-388b9e3597",
-    "source": "The Guardian — UK",
-    "title": "Starmer gambles on ‘levelling up’-style initiative to tackle Reform threat",
-    "summary": "Deprived communities to be given tens of millions to patch up derelict shops, pubs and libraries and ‘restore pride’ Deprived areas of the UK will be given tens of millions of pounds each from a new fund that Keir Starmer hopes will help Labour tackle the threat posed by Reform UK. The prime minister will launch the regeneration initiative on Thursday, gambling that an updated version of “levelling up” will address anger about Britain’s broken communities. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/24/starmer-gambles-on-levelling-up-style-initiative-to-tackle-reform-threat",
-    "published": "2025-09-24T21:30:18Z",
-    "image_url": "https://i.guim.co.uk/img/media/cb119a8f2a7884f65b46079392dec7c6053f8afb/1025_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=8e787932b9939cdbaefcfb60cf5477dc",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-522409cbec",
     "source": "BBC — Top Stories",
     "title": "'No warning' - residents reel from deadly flood after typhoon bursts Taiwan lake",
@@ -458,11 +458,23 @@
   {
     "id": "BBC — Top Stories-62965b2d86",
     "source": "BBC — Top Stories",
-    "title": "Kindy parents told to pay thousands for kids' art - sparking uproar and a midnight heist",
+    "title": "Kindergarten parents told to pay thousands for kids' art - sparking uproar and a midnight heist",
     "summary": "The debt-ridden centre said the money would go towards paying overdue bills.",
     "url": "https://www.bbc.com/news/articles/cq8ed2g95zlo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T20:57:00Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ed5/live/5a0e4a50-98f9-11f0-ac0b-b386b30bb4f1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-2d3c508312",
+    "source": "The Guardian — UK",
+    "title": "Boris Johnson says Farage’s stance on Russia is ‘extremely dangerous’",
+    "summary": "Former PM also brands Reform UK a threat to national security and raises concern about its approach to the economy Boris Johnson has said Nigel Farage’s stance on Russia is “extremely dangerous” and Reform UK is a threat to national security. The former prime minister’s attack comes in a week in which Reform has stepped up its criticism of what it calls the “Boriswave” of post-Brexit legal migration. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/24/boris-johnson-says-farages-stance-on-russia-is-extremely-dangerous",
+    "published": "2025-09-24T19:27:36Z",
+    "image_url": "https://i.guim.co.uk/img/media/ce4641d44179b2a71803221baddf7e7717e9fc7b/293_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=ca06df3f8c70b448ecea132d03b2a5fe",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -547,18 +559,6 @@
     "url": "https://www.bbc.com/news/articles/cvg0kv8rq0xo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T16:20:53Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f078/live/6f02ffa0-997b-11f0-92db-77261a15b9d2.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-9e04081135",
-    "source": "The Guardian — UK",
-    "title": "Sadiq Khan hits back at ‘racist, sexist, misogynistic and Islamophobic’ Trump",
-    "summary": "Khan’s comments come after US president used speech at UN to call London mayor ‘terrible’ Sadiq Khan has hit back at Donald Trump, accusing the US president of being “racist, sexist, misogynistic and Islamophobic” after he used a speech at the UN to call the London mayor “terrible” and claim the city was being steered toward “sharia law”. Trump’s remarks on Tuesday night provoked anger among Labour figures, with the health secretary, Wes Streeting, praising Khan as someone who “stands up for difference of background and opinion”. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/24/sadiq-khan-hits-back-at-racist-sexist-misogynistic-and-islamophobic-trump",
-    "published": "2025-09-24T15:37:50Z",
-    "image_url": "https://i.guim.co.uk/img/media/a6b6d7735ee9c42dbb05dda9bfa0f6d0a35e9f18/213_0_4507_3607/master/4507.jpg?width=140&quality=85&auto=format&fit=max&s=a0619358ed7364d2a26ddc8eb1febb06",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
