@@ -1,5 +1,17 @@
 [
   {
+    "id": "BBC — Top Stories-de1c745fde",
+    "source": "BBC — Top Stories",
+    "title": "Samaritans facing volunteer exodus over proposed branch closures",
+    "summary": "Opponents fear plans to close more than100 branches could put the charity’s ability to answer calls in doubt.",
+    "url": "https://www.bbc.com/news/articles/c931w38kdqwo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T23:12:08Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd6f/live/9636e270-9a17-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-93a8a351f2",
     "source": "Politico — UK",
     "title": "Top EU diplomat warns Trump that Europe can’t shoulder Ukraine war burden alone",
@@ -27,7 +39,7 @@
     "id": "The Guardian — UK-46b82239f0",
     "source": "The Guardian — UK",
     "title": "Starmer to unveil digital ID cards in plan set to ignite civil liberties row",
-    "summary": "‘Brit card’ already facing opposition from privacy campaigners as government looks for ways to tackle illegal immigration All working adults will need digital ID cards under plans to be announced by Keir Starmer in a move that will spark a battle with civil liberties campaigners. The prime minister will set out the plans on Friday at a conference on how progressive politicians can tackle the problems facing the UK, including addressing voter concerns around immigration. Continue reading...",
+    "summary": "‘Brit card’ already facing opposition from privacy campaigners as government looks for ways to tackle illegal immigration All working adults will need digital ID cards under plans to be announced by Keir Starmer, in a move that will spark a battle with civil liberties campaigners. The prime minister will set out the measures on Friday at a conference on how progressive politicians can tackle the problems facing the UK, including addressing voter concerns around immigration. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/25/keir-starmer-expected-to-announce-plans-for-digital-id-cards",
     "published": "2025-09-25T21:33:41Z",
     "image_url": "https://i.guim.co.uk/img/media/247eda2f7fd6f0fa29ec7c3cbc38b02fedfd81a9/381_0_1906_1525/master/1906.jpg?width=140&quality=85&auto=format&fit=max&s=67ad862cf5fe57e364e4ccb50a9c76af",
@@ -63,7 +75,7 @@
     "id": "The Guardian — UK-47ce25deb3",
     "source": "The Guardian — UK",
     "title": "Actor Noel Clarke arrested at family home in London",
-    "summary": "Police search former Doctor Who star’s property and are seen leaving with boxes The actor Noel Clarke has been arrested by police at his family home in London. Detectives searched the former Doctor Who star’s property in Kensington and officers were seen leaving the address with boxes apparently containing a laptop and documents. Continue reading...",
+    "summary": "Police search former Doctor Who star’s property and are seen leaving with boxes The actor Noel Clarke has been arrested by police at his family home in London. Detectives searched the former Doctor Who star’s property in Kensington on Thursday and officers were seen leaving the address with boxes apparently containing a laptop and documents. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/sep/25/actor-noel-clarke-arrested-at-family-home-in-london",
     "published": "2025-09-25T20:43:20Z",
     "image_url": "https://i.guim.co.uk/img/media/1a7e70bc2795bc576abe0641cdb153ff2c68f4bc/391_0_3238_2591/master/3238.jpg?width=140&quality=85&auto=format&fit=max&s=60b301827cf94489c60939ebb189017f",
@@ -246,7 +258,7 @@
     "summary": "In an era of hybrid warfare, there is a sense of embarrassment that Denmark's critical infrastructure has become vulnerable.",
     "url": "https://www.bbc.com/news/articles/c4g96gvql99o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T17:13:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f4b/live/d4f6c090-9a1f-11f0-89b7-f92e020b4774.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e14b/live/0090ac50-9a5e-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -295,18 +307,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/25/fate-of-hundreds-arrested-for-alleged-palestine-action-support-in-limbo-if-challenge-to-ban-is-blocked-court-told",
     "published": "2025-09-25T17:01:52Z",
     "image_url": "https://i.guim.co.uk/img/media/a2e68f9c557b3b750c5dfeeda52bbf977e45697a/825_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=d8ebd8009a3c0b48d8c72507624f47d6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-421618b8e6",
-    "source": "BBC — Top Stories",
-    "title": "Asylum seeker taxi bills must stop, says PM",
-    "summary": "Some migrants in hotels are taking journeys costing hundreds of pounds, a BBC investigation found.",
-    "url": "https://www.bbc.com/news/articles/cy0vpxqyz45o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T17:01:02Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/7af4d380-9a28-11f0-97f5-bd38218a3641.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
