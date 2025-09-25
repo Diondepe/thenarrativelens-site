@@ -1,5 +1,17 @@
 [
   {
+    "id": "The Guardian — UK-ad2e00049b",
+    "source": "The Guardian — UK",
+    "title": "Argyle Street ash in Glasgow wins tree of the year competition",
+    "summary": "Beloved specimen triumphs in Woodland Trust contest over ‘King of Limbs’ oak in Wiltshire A much-loved ash tree in the heart of Glasgow has won the annual tree of the year competition organised by the Woodland Trust. While many trees that have featured in the competition are located in the remote British countryside, the Argyle Street ash is on one of the city’s busiest roads. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/sep/25/argyle-street-ash-glasgow-wins-woodland-trust-tree-of-the-year-competition",
+    "published": "2025-09-25T19:00:45Z",
+    "image_url": "https://i.guim.co.uk/img/media/9cb9cc776ed1e809fdd9d627beef74002172c099/594_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=9fad5a7763ab471928b26ca26f73aaea",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-58005c24be",
     "source": "BBC — Top Stories",
     "title": "Trump urges Turkey to stop buying Russian oil as Erdogan chases deal on F-35s",
@@ -24,9 +36,21 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-26136d0308",
+    "source": "BBC — Top Stories",
+    "title": "PM defends London Mayor Sadiq Khan against 'ridiculous' Trump claims",
+    "summary": "Sir Keir Starmer says he stands with mayor Sir Sadiq Khan, after Donald Trump's statement to the UN.",
+    "url": "https://www.bbc.com/news/articles/c147vd511djo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T18:43:43Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec77/live/9f4bf410-9a33-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-46b82239f0",
     "source": "The Guardian — UK",
-    "title": "Keir Starmer expected to announce plans for digital ID cards",
+    "title": "Keir Starmer to announce plans for digital ID cards",
     "summary": "As government looks for ways to tackle illegal immigration, move will spark battle with civil liberties campaigners All working adults will need digital ID cards under plans to be announced by Keir Starmer in a move that will spark a battle with civil liberties campaigners. The prime minister will set out the plans on Friday at a conference on how progressive politicians can tackle the problems facing the UK, including addressing voter concerns around immigration. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/25/keir-starmer-expected-to-announce-plans-for-digital-id-cards",
     "published": "2025-09-25T18:31:12Z",
@@ -51,7 +75,7 @@
     "id": "BBC — Top Stories-9998f6f726",
     "source": "BBC — Top Stories",
     "title": "Former Arsenal striker dies after sustaining 'significant injury' during game",
-    "summary": "Chichester City FC confirmed that Billy Vigar died on Thursday morning.",
+    "summary": "Chichester City FC confirmed that Billy Vigar, 21, died on Thursday morning.",
     "url": "https://www.bbc.com/news/articles/cq5jye4v64no?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T18:13:13Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a276/live/49a63c90-9a39-11f0-8766-3f88e8be4733.jpg",
@@ -192,6 +216,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-fc9b815604",
+    "source": "BBC — Top Stories",
+    "title": "Vinted users furious over InPost UK parcel delays",
+    "summary": "Some users describe parcels not being collected from InPost UK lockers or left stuck in transit.",
+    "url": "https://www.bbc.com/news/articles/c4gvpgy1w20o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T17:08:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ff7/live/7dcab400-9a21-11f0-89b7-f92e020b4774.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-20055d0dae",
     "source": "BBC — Top Stories",
     "title": "From former president to future prisoner: Sarkozy's conviction divides France",
@@ -207,7 +243,7 @@
     "id": "Politico — UK-6113416e35",
     "source": "Politico — UK",
     "title": "Trump’s Sharia law comments are ‘nonsense,’ says Starmer",
-    "summary": "The PM called London Mayor Sadiq Khan a \"very good man\" and dismissed the US president's accusation as \"ridiculous.\"",
+    "summary": "The PM called London Mayor Sadiq Khan a \"very good man\" and dismissed the U.S. president's accusation as \"ridiculous.\"",
     "url": "https://www.politico.eu/article/keir-starmer-donald-trump-sharia-law-comments-london/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-25T17:03:34Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2236146609-scaled.jpg",
@@ -259,6 +295,18 @@
     "url": "https://www.politico.eu/article/sudan-militiamen-invite-labour-party-conference-event/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-25T16:48:24Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2223715770-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6f4c199099",
+    "source": "BBC — Top Stories",
+    "title": "Palestinian president says ready to work with Trump for two-state peace plan",
+    "summary": "In a speech to the UN, Mahmoud Abbas also calls on more countries to recognise a Palestinian state.",
+    "url": "https://www.bbc.com/news/articles/czdjgdnjnlgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T16:15:14Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6619/live/40a9a5e0-9a26-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -319,18 +367,6 @@
     "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/update-merz-zwischen-afd-hoch-und-ost-hoffnung-deutschlands-suche-nach-drohnenabwehr/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-25T15:11:41Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/09/Berlin-Playbook-Website-card-1-1.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-11c1717c3c",
-    "source": "The Guardian — UK",
-    "title": "Starmer’s head of communications Steph Driver quits in latest No 10 exit",
-    "summary": "Exclusive: Departure of key figure comes little over a week after that of director of political strategy Keir Starmer’s head of communications, Steph Driver, has announced she is leaving Downing Street, the latest in a series of trusted aides to the prime minister who have quit No 10 in recent months. The departure of Driver, who spent five years at Starmer’s side as communications chief when he was opposition leader, before becoming deputy director and then director of communications at Downing Street, comes little more than a week after another key figure, Paul Ovenden, quit as the PM’s director of political strategy. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/25/starmers-head-of-communications-steph-driver-quits-in-latest-no-10-exit",
-    "published": "2025-09-25T15:10:09Z",
-    "image_url": "https://i.guim.co.uk/img/media/f52c634cf44be2a425af9e232c4495c3d8070096/197_0_1845_1476/master/1845.jpg?width=140&quality=85&auto=format&fit=max&s=826541503beb67a1ebbc0773a6468859",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,18 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-f0168ae65a",
-    "source": "BBC — Top Stories",
-    "title": "What lessons can Starmer learn from world leaders on fighting Reform?",
-    "summary": "On economic and immigration issues, many international leaders are trying to work out how to combat the rise of the populist right.",
-    "url": "https://www.bbc.com/news/articles/c3w5703yn77o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T11:25:24Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f652/live/ac2d2de0-9a18-11f0-97f5-bd38218a3641.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-90847bdbc9",
     "source": "BBC — Top Stories",
     "title": "Taxi driver who dropped off Southport killer regrets not calling police for 50 minutes",
@@ -499,18 +523,6 @@
     "url": "https://www.bbc.com/news/articles/cpd96g46vzwo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T11:20:07Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6343/live/53f71da0-9a15-11f0-aaf4-b9479fdf41dd.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-65a1208241",
-    "source": "BBC — Top Stories",
-    "title": "Is Sega restarting Nintendo rivalry with new Sonic Racing game?",
-    "summary": "The video game icon has been taking shots at an old rival, but the real competition comes from newer games.",
-    "url": "https://www.bbc.com/news/articles/cy8ry1vn097o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T11:07:07Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24f1/live/378389d0-99f5-11f0-928c-71dbb8619e94.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -547,18 +559,6 @@
     "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T05:07:57Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a12ba6d15f",
-    "source": "BBC — Top Stories",
-    "title": "'She doesn't get another childhood': The lives on hold waiting for wheelchairs",
-    "summary": "More than a thousand disabled children are waiting for wheelchairs and equipment that could transform their lives, Whizz Kidz say",
-    "url": "https://www.bbc.com/news/articles/cm2zwm8m41mo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T23:03:35Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b4/live/d6d85fc0-97d8-11f0-b48d-eb3b631c9a51.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
