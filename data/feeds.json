@@ -1,5 +1,17 @@
 [
   {
+    "id": "The Guardian — UK-47ce25deb3",
+    "source": "The Guardian — UK",
+    "title": "Actor Noel Clarke arrested at family home in London",
+    "summary": "Police search former Dr Who star’s property and are seen leaving with boxes The actor Noel Clarke has been arrested by police at his family home in London. Detectives searched the former Dr Who star’s property in Kensington and officers were seen leaving the address with boxes apparently containing a laptop and documents. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/25/actor-noel-clarke-arrested-at-family-home-in-london",
+    "published": "2025-09-25T20:43:20Z",
+    "image_url": "https://i.guim.co.uk/img/media/1a7e70bc2795bc576abe0641cdb153ff2c68f4bc/391_0_3238_2591/master/3238.jpg?width=140&quality=85&auto=format&fit=max&s=60b301827cf94489c60939ebb189017f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-ad2e00049b",
     "source": "The Guardian — UK",
     "title": "Argyle Street ash in Glasgow wins tree of the year competition",
@@ -50,8 +62,8 @@
   {
     "id": "The Guardian — UK-46b82239f0",
     "source": "The Guardian — UK",
-    "title": "Keir Starmer to announce plans for digital ID cards",
-    "summary": "As government looks for ways to tackle illegal immigration, move will spark battle with civil liberties campaigners All working adults will need digital ID cards under plans to be announced by Keir Starmer in a move that will spark a battle with civil liberties campaigners. The prime minister will set out the plans on Friday at a conference on how progressive politicians can tackle the problems facing the UK, including addressing voter concerns around immigration. Continue reading...",
+    "title": "Starmer to unveil digital ID cards in plan set to ignite civil liberties row",
+    "summary": "‘Brit card’ already facing opposition from privacy campaigners as government looks for ways to tackle illegal immigration All working adults will need digital ID cards under plans to be announced by Keir Starmer in a move that will spark a battle with civil liberties campaigners. The prime minister will set out the plans on Friday at a conference on how progressive politicians can tackle the problems facing the UK, including addressing voter concerns around immigration. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/25/keir-starmer-expected-to-announce-plans-for-digital-id-cards",
     "published": "2025-09-25T18:31:12Z",
     "image_url": "https://i.guim.co.uk/img/media/247eda2f7fd6f0fa29ec7c3cbc38b02fedfd81a9/381_0_1906_1525/master/1906.jpg?width=140&quality=85&auto=format&fit=max&s=67ad862cf5fe57e364e4ccb50a9c76af",
@@ -324,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-d4224696b8",
-    "source": "The Guardian — UK",
-    "title": "Taxi driver who dropped Southport killer at scene ‘regrets not calling police sooner’",
-    "summary": "Gary Poland, who rang police 50 minutes after attack, tells inquiry he wishes he had checked on the children’s welfare A taxi driver who took the Southport killer to the scene of the attack has said he regrets not phoning the police sooner. Gary Poland, who did not phone police until 50 minutes after the attack, said he feared a gunman was at large and that he would be a target. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/25/taxi-driver-southport-attacks-killer-police",
-    "published": "2025-09-25T15:30:52Z",
-    "image_url": "https://i.guim.co.uk/img/media/23e2c554c0a76d4041b80ba996c737920a1b9ffe/0_245_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=c9b1164ebc3767f12763a2ac57e38ee7",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-d26327e1ea",
     "source": "Politico — UK",
     "title": "Germany cuts new arms export approvals for Israel to zero",
@@ -367,6 +367,18 @@
     "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/update-merz-zwischen-afd-hoch-und-ost-hoffnung-deutschlands-suche-nach-drohnenabwehr/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-25T15:11:41Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/09/Berlin-Playbook-Website-card-1-1.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-11c1717c3c",
+    "source": "The Guardian — UK",
+    "title": "Starmer’s head of communications Steph Driver quits in latest No 10 exit",
+    "summary": "Exclusive: Departure of key figure comes little over a week after that of director of political strategy Keir Starmer’s head of communications, Steph Driver, has announced she is leaving Downing Street, the latest in a series of trusted aides to the prime minister who have quit No 10 in recent months. The departure of Driver, who spent five years at Starmer’s side as communications chief when he was opposition leader, before becoming deputy director and then director of communications at Downing Street, comes little more than a week after another key figure, Paul Ovenden, quit as the PM’s director of political strategy. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/25/starmers-head-of-communications-steph-driver-quits-in-latest-no-10-exit",
+    "published": "2025-09-25T15:10:09Z",
+    "image_url": "https://i.guim.co.uk/img/media/f52c634cf44be2a425af9e232c4495c3d8070096/197_0_1845_1476/master/1845.jpg?width=140&quality=85&auto=format&fit=max&s=826541503beb67a1ebbc0773a6468859",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -487,18 +499,6 @@
     "url": "https://www.politico.eu/article/eu-commission-to-leave-doors-open-for-social-media-ban/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-25T12:34:53Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2204995847.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-51f0745cb1",
-    "source": "The Guardian — UK",
-    "title": "Tory candidates must pledge support for leaving ECHR or stand down, says Jenrick",
-    "summary": "Shadow justice secretary demands prospective MPs sign contract saying they stand for ‘Conservative values’ UK politics – latest updates Robert Jenrick has demanded that prospective Conservative candidates should either promise to support leaving the European convention on human rights or stand down. As the party continues to debate whether to pledge to withdraw from the international agreement, the shadow justice secretary said he would get candidates “to sign a contract to say they actually stand for Conservative values”. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/25/tory-candidates-must-pledge-support-for-leaving-echr-or-stand-down-says-jenrick",
-    "published": "2025-09-25T12:21:20Z",
-    "image_url": "https://i.guim.co.uk/img/media/1cbf48af8930c1c826e2922129a9326499ae971b/670_0_3386_2709/master/3386.jpg?width=140&quality=85&auto=format&fit=max&s=e74d51ba303bed5bf712bfdc6a48c973",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
