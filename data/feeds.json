@@ -1,5 +1,77 @@
 [
   {
+    "id": "BBC — Top Stories-168fd6e7eb",
+    "source": "BBC — Top Stories",
+    "title": "Play now",
+    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
+    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T05:07:57Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-d95635594b",
+    "source": "The Guardian — UK",
+    "title": "Ed Miliband looking into more North Sea drilling despite Labour pledge",
+    "summary": "Exclusive: Energy secretary examining ways to allow oil and gas exploration without breaking manifesto promise Ed Miliband is planning to encourage drilling in the North Sea despite a manifesto promise not to grant new licences on new parts of the British sea bed. The energy secretary is looking at ways in which the government can allow companies to look for and produce more oil and gas without breaking Labour’s pre-election pledge not to issue new licences on new fields . Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/sep/25/ed-miliband-looking-into-more-north-sea-drilling-despite-labour-pledge",
+    "published": "2025-09-25T05:00:29Z",
+    "image_url": "https://i.guim.co.uk/img/media/3c555bb8a40b3d7c9df73c9edd199d190a15ad5a/412_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=578c886588f18908157cf721314d1b76",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-83794c6965",
+    "source": "The Guardian — UK",
+    "title": "Low birthrates in England could lead to ‘closure of 800 primary schools by 2029’",
+    "summary": "Primary pupil numbers could fall by 4% over next five years leading to reduction of 162,000 pupils, study finds Declining numbers of children across England could lead to the equivalent of 800 primary schools falling empty or being closed by the end of the decade, according to research by a thinktank. The national decline in pupils at state primary schools is mainly driven by low birthrates but is magnified in London by increasing numbers of people moving out of the capital or leaving the state system to move abroad or send their children to private schools, according to the Education Policy Institute. Continue reading...",
+    "url": "https://www.theguardian.com/education/2025/sep/25/low-birthrates-in-england-could-lead-to-closure-of-800-primary-schools-by-2029",
+    "published": "2025-09-25T05:00:28Z",
+    "image_url": "https://i.guim.co.uk/img/media/d5586dd01a7787a6bf79dca8ce073ec10fffb24a/455_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=97af955608f189b1579296bac8891560",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-866ee8e1d4",
+    "source": "BBC — Top Stories",
+    "title": "'Film me all you want' - teenage girls with no fear of police torment one High Street",
+    "summary": "Teenagers have been targeting shops in Shirley, Hampshire, with antisocial behaviour - leaving the owners feeling \"helpless\".",
+    "url": "https://www.bbc.com/news/articles/c0q751vlxw1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T05:00:09Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f9/live/d254ab40-996b-11f0-97f5-bd38218a3641.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-55fd814a80",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'MPs want me to oust Starmer' and 'Wayne's booze hell'",
+    "summary": "An interview with the Greater Manchester mayor and Wayne Rooney's comments on his drinking top the papers.",
+    "url": "https://www.bbc.com/news/articles/czjv0004nxgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T04:55:06Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082a/live/a268f980-9999-11f0-928c-71dbb8619e94.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-997ce3fe88",
+    "source": "Politico — UK",
+    "title": "Richterwahl: Nach der Krise ist (hoffentlich nicht) vor der Krise",
+    "summary": "Zweiter Anlauf für die Verfassungsrichterwahl: Nach dem Sommer-Desaster treten heute Sigrid Emmenegger, Günter Spinner und Ann-Katrin Kaufhold an. Union und SPD sind auf Stimmen von Grünen und Linken angewiesen. Rasmus Buchsteiner erklärt, warum das Votum zum Test für die Koalition wird, ein Scheitern aber unwahrscheinlich ist. Im 200-Sekunden-Interview spricht Grünen-Fraktionschefin Britta Haßelmann über Verantwortung, Vertrauen […]",
+    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/richterwahl-nach-der-krise-ist-hoffentlich-nicht-vor-der-krise/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-25T04:24:06Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/23/Berlin-Playbook-Website-Card57.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-7e18b5cb5d",
     "source": "BBC — Top Stories",
     "title": "US attacks on alleged drug boats are 'act of tyranny', Colombia's president tells BBC",
@@ -156,18 +228,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-a7d4d0f300",
-    "source": "Politico — UK",
-    "title": "Hi Donald, it’s Ursula: Von der Leyen opens crucial hotline to Trump",
-    "summary": "The European Commission president appears to be winning the U.S. president's ear on Ukraine, but that comes at a price.",
-    "url": "https://www.politico.eu/article/donald-trump-ursula-von-der-leyen-hotline-diplomacy-russia-canada-trade-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-25T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/24/GettyImages-2236950402.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-a6c8306054",
     "source": "BBC — Top Stories",
     "title": "Drone activity confirmed at multiple Denmark airports",
@@ -211,18 +271,6 @@
     "url": "https://www.bbc.com/news/articles/cy4jk8njpngo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T01:07:14Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b78a/live/381897e0-9555-11f0-a9d0-b91ec0b66439.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-55fd814a80",
-    "source": "BBC — Top Stories",
-    "title": "The Papers: 'MPs want me to oust Starmer' and 'Wayne's booze hell'",
-    "summary": "An interview with the Greater Manchester mayor and Wayne Rooney's comments on his drinking top the papers.",
-    "url": "https://www.bbc.com/news/articles/czjv0004nxgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T00:21:41Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082a/live/a268f980-9999-11f0-928c-71dbb8619e94.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -312,18 +360,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-f85e575286",
-    "source": "The Guardian — UK",
-    "title": "Moderna boss defends UK in drug-pricing row as he opens £150m Oxfordshire facility",
-    "summary": "‘We’re here to invest,’ says Darius Hughes as he calls comments by other pharma companies ‘a little harsh’ The UK boss of the US drugmaker Moderna, which shot to prominence with its Covid vaccine during the pandemic, has defended the country after it was labelled the “worst in Europe” for drug pricing. Darius Hughes spoke as he opened a £150m vaccine site in Oxfordshire, just days after MSD, AstraZeneca and Eli Lilly announced that they would ditch or pause planned UK investments amid a row over pricing between the pharmaceutical industry and the government. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/sep/25/moderna-boss-defends-uk-in-drug-pricing-row-as-he-opens-150m-oxfordshire-facility",
-    "published": "2025-09-24T23:01:20Z",
-    "image_url": "https://i.guim.co.uk/img/media/d7cbd0ec0384889448f2ab7ac96ced6b27071d08/885_0_4423_3539/master/4423.jpg?width=140&quality=85&auto=format&fit=max&s=8928ac7b2d02acaa2ee79530e3347faf",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-bf4709886c",
     "source": "The Guardian — UK",
     "title": "Bank of England urged to do more to tackle climate crisis",
@@ -331,6 +367,18 @@
     "url": "https://www.theguardian.com/business/2025/sep/25/bank-of-england-tackle-climate-crisis-mark-carney-greepeace",
     "published": "2025-09-24T23:01:20Z",
     "image_url": "https://i.guim.co.uk/img/media/fc4be2cb09b3c6650a2b69041ee35cb6c54d5360/506_0_4591_3674/master/4591.jpg?width=140&quality=85&auto=format&fit=max&s=b00d89b6b155fb35865048749de30d9e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-f85e575286",
+    "source": "The Guardian — UK",
+    "title": "Moderna boss defends UK in drug-pricing row as he opens £150m Oxfordshire facility",
+    "summary": "‘We’re here to invest,’ says Darius Hughes as he calls comments by other pharma companies ‘a little harsh’ The UK boss of the US drugmaker Moderna, which shot to prominence with its Covid vaccine during the pandemic, has defended the country after it was labelled the “worst in Europe” for drug pricing. Darius Hughes spoke as he opened a £150m vaccine site in Oxfordshire, just days after MSD, AstraZeneca and Eli Lilly announced that they would ditch or pause planned UK investments amid a row over pricing between the pharmaceutical industry and the government. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/sep/25/moderna-boss-defends-uk-in-drug-pricing-row-as-he-opens-150m-oxfordshire-facility",
+    "published": "2025-09-24T23:01:20Z",
+    "image_url": "https://i.guim.co.uk/img/media/d7cbd0ec0384889448f2ab7ac96ced6b27071d08/885_0_4423_3539/master/4423.jpg?width=140&quality=85&auto=format&fit=max&s=8928ac7b2d02acaa2ee79530e3347faf",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -396,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-ac9961d127",
-    "source": "BBC — Top Stories",
-    "title": "China makes landmark pledge to cut its climate emissions",
-    "summary": "It is China's first firm goal to reduce emissions but falls well short of what is needed to meet global targets.",
-    "url": "https://www.bbc.com/news/articles/cj4y159190go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T18:57:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73e0/live/86e8f090-97d0-11f0-9dd8-57dfaa725755.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-efae9d4e66",
     "source": "The Guardian — UK",
     "title": "‘Sorry for the confusion’: Jeremy Corbyn says membership is open for new party",
@@ -427,18 +463,6 @@
     "url": "https://www.bbc.com/news/articles/c5yg921rjrko?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T18:22:17Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c21b/live/26839050-995d-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-d763cedbd9",
-    "source": "The Guardian — UK",
-    "title": "Family of three are first arrivals in UK under ‘one in, one out’ immigration deal",
-    "summary": "Small child part of first reciprocal intake after removal of four asylum seekers from Britain to France over past week A family of three including a small child have become the first arrivals from France under Keir Starmer’s “one in, one out” deal, the Home Office has said. The move follows the removal on Wednesday of the first four asylum seekers from the UK to France over the past six days, despite continuing legal challenges. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/24/first-arrivals-uk-one-in-one-out-immigration-deal-france",
-    "published": "2025-09-24T18:16:58Z",
-    "image_url": "https://i.guim.co.uk/img/media/76b72c3297c163f041c6726b33f2f9d5fed310b6/521_35_2611_2089/master/2611.jpg?width=140&quality=85&auto=format&fit=max&s=d240216934ca0099786c5ec6587d2c5a",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,30 +559,6 @@
     "url": "https://www.theguardian.com/business/2025/sep/24/bt-boss-costs-inflicted-uk-10-times-european",
     "published": "2025-09-24T12:47:14Z",
     "image_url": "https://i.guim.co.uk/img/media/de490662ea64fd8337ddc9843578eabae19e2d1f/332_0_3335_2668/master/3335.jpg?width=140&quality=85&auto=format&fit=max&s=a63fd6181882f1ca10d15b4953238118",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-707231ed53",
-    "source": "The Guardian — UK",
-    "title": "Women allegedly abused by Andrew Tate decry ‘misleading’ Spectator article",
-    "summary": "Complaint sent to Ipso over interview with ‘misogynist influencer’ and brother in Michael Gove-edited magazine Four alleged survivors of sexual abuse by Andrew Tate have complained to the press regulator about an interview with the self-proclaimed misogynist influencer and his brother in the Spectator magazine. The women, who have filed a high court claim accusing Tate of rape, coercive control and assault and battery, claim that the article, written by the deputy editor, Freddy Gray, is inaccurate and misleading. Continue reading...",
-    "url": "https://www.theguardian.com/news/2025/sep/24/women-allegedly-abused-by-andrew-tate-decry-misleading-spectator-article",
-    "published": "2025-09-24T12:44:50Z",
-    "image_url": "https://i.guim.co.uk/img/media/f3721b9018e16f8233501ab12733fcf380c59f68/452_0_2783_2226/master/2783.jpg?width=140&quality=85&auto=format&fit=max&s=cbdf114dc8801eb2f55e5af7b1420fd8",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-168fd6e7eb",
-    "source": "BBC — Top Stories",
-    "title": "Play now",
-    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
-    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T05:18:23Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
