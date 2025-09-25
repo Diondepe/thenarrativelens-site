@@ -276,18 +276,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-f85e575286",
-    "source": "The Guardian — UK",
-    "title": "Moderna boss defends UK in drug-pricing row as he opens £150m Oxfordshire facility",
-    "summary": "‘We’re here to invest,’ says Darius Hughes as he calls comments by other pharma companies ‘a little harsh’ The UK boss of the US drugmaker Moderna, which shot to prominence with its Covid vaccine during the pandemic, has defended the country after it was labelled the “worst in Europe” for drug pricing. Darius Hughes spoke as he opened a £150m vaccine site in Oxfordshire, just days after MSD, AstraZeneca and Eli Lilly announced that they would ditch or pause planned UK investments amid a row over pricing between the pharmaceutical industry and the government. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/sep/25/moderna-boss-defends-uk-in-drug-pricing-row-as-he-opens-150m-oxfordshire-facility",
-    "published": "2025-09-24T23:01:20Z",
-    "image_url": "https://i.guim.co.uk/img/media/d7cbd0ec0384889448f2ab7ac96ced6b27071d08/885_0_4423_3539/master/4423.jpg?width=140&quality=85&auto=format&fit=max&s=8928ac7b2d02acaa2ee79530e3347faf",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-bf4709886c",
     "source": "The Guardian — UK",
     "title": "Bank of England urged to do more to tackle climate crisis",
@@ -295,6 +283,18 @@
     "url": "https://www.theguardian.com/business/2025/sep/25/bank-of-england-tackle-climate-crisis-mark-carney-greepeace",
     "published": "2025-09-24T23:01:20Z",
     "image_url": "https://i.guim.co.uk/img/media/fc4be2cb09b3c6650a2b69041ee35cb6c54d5360/506_0_4591_3674/master/4591.jpg?width=140&quality=85&auto=format&fit=max&s=b00d89b6b155fb35865048749de30d9e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-f85e575286",
+    "source": "The Guardian — UK",
+    "title": "Moderna boss defends UK in drug-pricing row as he opens £150m Oxfordshire facility",
+    "summary": "‘We’re here to invest,’ says Darius Hughes as he calls comments by other pharma companies ‘a little harsh’ The UK boss of the US drugmaker Moderna, which shot to prominence with its Covid vaccine during the pandemic, has defended the country after it was labelled the “worst in Europe” for drug pricing. Darius Hughes spoke as he opened a £150m vaccine site in Oxfordshire, just days after MSD, AstraZeneca and Eli Lilly announced that they would ditch or pause planned UK investments amid a row over pricing between the pharmaceutical industry and the government. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/sep/25/moderna-boss-defends-uk-in-drug-pricing-row-as-he-opens-150m-oxfordshire-facility",
+    "published": "2025-09-24T23:01:20Z",
+    "image_url": "https://i.guim.co.uk/img/media/d7cbd0ec0384889448f2ab7ac96ced6b27071d08/885_0_4423_3539/master/4423.jpg?width=140&quality=85&auto=format&fit=max&s=8928ac7b2d02acaa2ee79530e3347faf",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
