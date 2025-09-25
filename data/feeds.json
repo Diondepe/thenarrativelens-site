@@ -1,5 +1,53 @@
 [
   {
+    "id": "BBC — Top Stories-095df20f0a",
+    "source": "BBC — Top Stories",
+    "title": "Former French president Sarkozy sentenced to five years in Libya campaign financing case",
+    "summary": "Nicolas Sarkozy, president from 2007-12, was found guilty of criminal conspiracy but cleared of other charges.",
+    "url": "https://www.bbc.com/news/articles/cp98kepmj9lo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T13:09:54Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c1/live/c9d39070-99f8-11f0-88dc-4bebfe637e18.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-0a78994a12",
+    "source": "The Guardian — UK",
+    "title": "Crown court backlog in England and Wales hits new record of almost 80,000 cases",
+    "summary": "Ministry of Justice data shows 10% increase in open cases as waiting times for trial dates reach up to four years UK politics – latest updates The crown court backlog in England and Wales has risen by 10% to a new record of almost 80,000 cases, as wait times for trial dates have reached up to four years. Figures from the Ministry of Justice showed the open caseload was 78,329 at the end of June, up 2% from 76,957 at the end of March, the first time the backlog passed 75,000. It is also up 10% from 70,893 a year earlier, the figures show. Continue reading...",
+    "url": "https://www.theguardian.com/law/2025/sep/25/crown-court-england-wales-law-justice-politics",
+    "published": "2025-09-25T12:59:22Z",
+    "image_url": "https://i.guim.co.uk/img/media/1d205542be2124eea526b71ddf64a6afeae69c9f/516_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=19a6bb78e1c0ae29bd97bd5ea10df2ef",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-b773ed50e9",
+    "source": "The Guardian — UK",
+    "title": "Burnham claims he is ‘completely committed’ to his Greater Manchester mayoral job - UK politics live",
+    "summary": "Burnham says he loves ‘everything about this job’ and that he will support the Labour party ‘in whatever way I can’ Sweeney asked about Northern Powerhouse Rail, and reports it is being shelved again . Burnham said these reports were “disappointing”. It feels always that projects in the southern half the country are green lighted but often red lighted up here. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/25/andy-burnham-steve-reed-keir-starmer-labour-news-updates-uk-politics-live",
+    "published": "2025-09-25T12:55:41Z",
+    "image_url": "https://i.guim.co.uk/img/media/3d33381f6da48c2fca3926a72dc63bcfa12e069b/629_0_4303_3442/master/4303.jpg?width=140&quality=85&auto=format&fit=max&s=f39632e29ec1d6fa85ac80176114daae",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-b52c50696d",
+    "source": "The Guardian — UK",
+    "title": "Labour faces legal scrutiny after allowing chickens to be carried by legs",
+    "summary": "Practice was forbidden under EU law, but secondary legislation came into force in July permitting it in England, Wales and Scotland Labour faces further scrutiny of its record on animal welfare after a high court judge allowed permission for a challenge to the legalisation of the harmful practice of carrying chickens by their legs. The practice, which causes distress and injuries to chickens, was forbidden under European regulations but a statutory instrument , laid by the environment secretary, Steve Reed, came into force on 22 July allowing it in England, Wales and Scotland. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/sep/25/labour-faces-legal-scrutiny-allowing-chickens-carried-legs",
+    "published": "2025-09-25T12:39:19Z",
+    "image_url": "https://i.guim.co.uk/img/media/bbd638b02edba46b970532c5edbd87cfa84a71a7/698_0_4569_3657/master/4569.jpg?width=140&quality=85&auto=format&fit=max&s=66f21a4898df6ffa498291dba960782a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-0e8e4a7fb4",
     "source": "BBC — Top Stories",
     "title": "It's up to Labour MPs, says Burnham on leadership bid speculation",
@@ -24,10 +72,22 @@
     "cluster_id": null
   },
   {
+    "id": "Politico — UK-a3321a1f35",
+    "source": "Politico — UK",
+    "title": "EU Commission to ‘leave doors open’ for social media ban",
+    "summary": "'If we need to go a step further to protect our kids, then why not?’ says Commission spokesperson.",
+    "url": "https://www.politico.eu/article/eu-commission-to-leave-doors-open-for-social-media-ban/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-25T12:34:53Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2204995847.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-13bececdbb",
     "source": "The Guardian — UK",
     "title": "BP predicts higher oil and gas demand, suggesting world will not hit 2050 net zero target",
-    "summary": "Conflict in Ukraine and Middle East as well as trade tariffs are making states focus on energy security Business live – latest updates BP has raised its forecasts for oil and gas demand, suggesting global net zero target for 2050 will not be met, in the latest sign the transition to clean energy is decelerating. The energy company’s closely watched outlook report has estimated that oil use is on track to hit 83m barrels a day in 2050, a rise of 8% compared with its previous estimate of 77m barrels a day. Continue reading...",
+    "summary": "Conflict in Ukraine and Middle East as well as trade tariffs are making states focus on energy security Business live – latest updates BP has raised its forecasts for oil and gas demand, suggesting the global net zero target for 2050 will not be met and highlighting a slowdown in the transition to clean energy. The energy company’s closely watched outlook report has estimated that oil use is on track to hit 83m barrels a day in 2050, a rise of 8% compared with its previous estimate of 77m barrels a day. Continue reading...",
     "url": "https://www.theguardian.com/business/2025/sep/25/bp-oil-and-gas-clean-energy-ukraine-middle-east-tariffs",
     "published": "2025-09-25T12:25:20Z",
     "image_url": "https://i.guim.co.uk/img/media/2f9871761aba480fc8aef48dedda5f5ea0fb100b/171_0_2911_2329/master/2911.jpg?width=140&quality=85&auto=format&fit=max&s=f0f757015d95d0262efb097203e0071a",
@@ -36,22 +96,10 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-b773ed50e9",
-    "source": "The Guardian — UK",
-    "title": "Burnham claims he is ‘completely committed’ to his Greater Manchester mayoral job - UK politics live",
-    "summary": "Burnham says he loves ‘everything about this job’ and that he will support the Labour party ‘in whatever way I can’ Sweeney asked about Northern Powerhouse Rail, and reports it is being shelved again . Burnham said these reports were “disappointing”. It feels always that projects in the southern half the country are green lighted but often red lighted up here. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/sep/25/andy-burnham-steve-reed-keir-starmer-labour-news-updates-uk-politics-live",
-    "published": "2025-09-25T12:24:14Z",
-    "image_url": "https://i.guim.co.uk/img/media/3d33381f6da48c2fca3926a72dc63bcfa12e069b/629_0_4303_3442/master/4303.jpg?width=140&quality=85&auto=format&fit=max&s=f39632e29ec1d6fa85ac80176114daae",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-51f0745cb1",
     "source": "The Guardian — UK",
     "title": "Tory candidates must pledge support for leaving ECHR or stand down, says Jenrick",
-    "summary": "Shadow justice secretary demands that prospective MPs sign contract saying they stand for ‘Conservative values’ UK politics – latest updates Robert Jenrick has demanded that prospective Conservative candidates should either promise to support leaving the European convention on human rights or stand down. As the party continues to debate whether to pledge to withdraw from the international agreement, the the shadow justice secretary said he would get candidates “to sign a contract to say they actually stand for Conservative values”. Continue reading...",
+    "summary": "Shadow justice secretary demands prospective MPs sign contract saying they stand for ‘Conservative values’ UK politics – latest updates Robert Jenrick has demanded that prospective Conservative candidates should either promise to support leaving the European convention on human rights or stand down. As the party continues to debate whether to pledge to withdraw from the international agreement, the shadow justice secretary said he would get candidates “to sign a contract to say they actually stand for Conservative values”. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/25/tory-candidates-must-pledge-support-for-leaving-echr-or-stand-down-says-jenrick",
     "published": "2025-09-25T12:21:20Z",
     "image_url": "https://i.guim.co.uk/img/media/1cbf48af8930c1c826e2922129a9326499ae971b/670_0_3386_2709/master/3386.jpg?width=140&quality=85&auto=format&fit=max&s=e74d51ba303bed5bf712bfdc6a48c973",
@@ -72,13 +120,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-095df20f0a",
+    "id": "BBC — Top Stories-0e4d726869",
     "source": "BBC — Top Stories",
-    "title": "Former French president Sarkozy sentenced to five years in Libya campaign financing case",
-    "summary": "The former French president was found guilty of criminal conspiracy but cleared of other charges.",
-    "url": "https://www.bbc.com/news/articles/cp98kepmj9lo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T12:00:14Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c1/live/c9d39070-99f8-11f0-88dc-4bebfe637e18.jpg",
+    "title": "Palestinians in West Bank stranded as Israel shuts only international crossing",
+    "summary": "Many have been unable to leave the territory since the Allenby Bridge crossing was shut indefinitely on Wednesday.",
+    "url": "https://www.bbc.com/news/articles/c9wd74r0qdvo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T11:57:10Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f597/live/933332a0-9a07-11f0-97f5-bd38218a3641.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -122,8 +170,8 @@
   {
     "id": "The Guardian — UK-7c516a520a",
     "source": "The Guardian — UK",
-    "title": "United Utilities underspent £52m on vital work in Windermere, FoI reveals",
-    "summary": "Privatised water company criticised over efforts to connect private septic tanks to mains and cut pollution Business live – latest updates The water company United Utilities has underspent by more than £50m on vital work in Windermere, north-west England, to connect private septic tanks to the mains network and reduce sewage pollution, it can be revealed. The financial regulator, Ofwat, revealed in response to a freedom of information request that the privatised water company had been allocated £129m to connect non-mains systems – mostly septic tanks – to the mains sewer network since 2000. Continue reading...",
+    "title": "United Utilities underspent £52m on vital work to reduce sewage pollution, FoI reveals",
+    "summary": "Privatised water company criticised over efforts to connect private septic tanks to mains and cut pollution Business live – latest updates The water company United Utilities has underspent by more than £50m on vital work in Windermere and elsewhere in north-west England, to connect private septic tanks to the mains network and reduce sewage pollution, it can be revealed. The financial regulator, Ofwat, revealed in response to a freedom of information request that the privatised water company had been allocated £129m to connect non-mains systems – mostly septic tanks – to the mains sewer network since 2000. Continue reading...",
     "url": "https://www.theguardian.com/business/2025/sep/25/united-utilities-underspent-work-windermere-water-company-pollution",
     "published": "2025-09-25T11:20:52Z",
     "image_url": "https://i.guim.co.uk/img/media/3c32ca5d55606bdccdcf5e553bc0645f7bf7928b/0_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=fee6adf33b7d3543bddf80f87fb75225",
@@ -138,7 +186,7 @@
     "summary": "The taxi driver who took the Southport attacker to Hart Space did not call 999 for 50 minutes.",
     "url": "https://www.bbc.com/news/articles/cpd96g46vzwo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T11:20:07Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8a/live/84828870-9a00-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6eb/live/235c19e0-9a13-11f0-aaf4-b9479fdf41dd.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -187,18 +235,6 @@
     "url": "https://www.theguardian.com/business/2025/sep/25/co-op-says-malicious-cyber-attack-has-hit-profits-by-80m",
     "published": "2025-09-25T10:45:40Z",
     "image_url": "https://i.guim.co.uk/img/media/a2cf1b6c71c4fe14bd657abda31c417d2b29faf0/115_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=ccb9916debcf63987530e4052da8d40c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-fde92fcd3d",
-    "source": "The Guardian — UK",
-    "title": "Burnham says MPs are privately urging him to challenge Starmer for Labour leadership",
-    "summary": "Greater Manchester mayor accuses Downing Street of creating a ‘climate of fear’ and says wholesale change is required UK politics – latest updates Andy Burnham has said Labour MPs are privately urging him to challenge Keir Starmer to become prime minister but any such move would have to be “more than a personality contest”. In an intervention likely to increase speculation that he is seeking a return to Westminster, Burnham accused Downing Street of creating a “climate of fear” and spreading “alienation and demoralisation” among MPs. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/25/andy-burnham-mps-challenge-starmer-labour-leadership-prime-minister-greater-manchester-mayo",
-    "published": "2025-09-25T10:40:25Z",
-    "image_url": "https://i.guim.co.uk/img/media/e5bac2df2fa958d607fd34e0c06a8f8809301b98/202_64_4424_3541/master/4424.jpg?width=140&quality=85&auto=format&fit=max&s=eb3b40ecb215094f51452306fc8a3073",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -259,18 +295,6 @@
     "url": "https://www.politico.eu/article/former-french-president-sarkozy-found-guilty-gadhafi-case/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-25T08:58:02Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/13373389-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-261cbdbdee",
-    "source": "The Guardian — UK",
-    "title": "Ticketmaster forced to change how it advertises tickets after Oasis row",
-    "summary": "Firm must be clearer about price fans will pay and avoid using ‘misleading’ labels about ticket quality, says CMA Business live – latest updates Ticketmaster has been forced by the competition watchdog to change how it advertises concert tickets, including an end to “misleading” information about the seats they are buying, after a fan backlash over its handling of the Oasis reunion tour. The Competition and Markets Authority (CMA) launched an investigation into Ticketmaster last year, after bitter complaints from fans of the Mancunian rock group about how tickets for the band’s long-awaited return to the stage were priced. Continue reading...",
-    "url": "https://www.theguardian.com/music/2025/sep/25/ticketmaster-advertises-tickets-oasis-cma",
-    "published": "2025-09-25T08:39:14Z",
-    "image_url": "https://i.guim.co.uk/img/media/eca4d5b12bf2a6bd269eaa54bd43c6b25f3fbfdb/485_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=9a0229bec1d9704abb3697430364842c",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -396,18 +420,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-fe62824745",
-    "source": "BBC — Top Stories",
-    "title": "Trump demands inquiry over UN 'triple sabotage' after escalator and teleprompter mishaps",
-    "summary": "The US president called the incidents that included an escalator and teleprompter mishap \"a real disgrace\".",
-    "url": "https://www.bbc.com/news/articles/c3dr0zrr1kpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T03:15:40Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9400/live/56734630-99de-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-cf8bc1b9fd",
     "source": "Politico — UK",
     "title": "UK energy chief eyes an oil and gas loophole",
@@ -427,18 +439,6 @@
     "url": "https://www.politico.eu/article/uk-visa-workers-talent-rachel-reeves-labour-reform-immigration-us-policy-donald-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-25T02:25:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/24/GettyImages-2234043771-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-1211939d0b",
-    "source": "Politico — UK",
-    "title": "France ready to make next-gen fighter jet alone if talks with Germany fail",
-    "summary": "\"If the needs are divergent [between France, Germany and Spain], we must say so,\" a French official told reporters.",
-    "url": "https://www.politico.eu/article/france-ready-to-make-next-gen-fighter-jet-alone-if-talks-with-germany-fail/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-25T02:20:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/24/13131140-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
