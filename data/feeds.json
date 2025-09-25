@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-58005c24be",
+    "source": "BBC — Top Stories",
+    "title": "Trump urges Turkey to stop buying Russian oil as Erdogan chases deal on F-35s",
+    "summary": "The US president suggests the US could lift sanctions on Turkey and allow it to buy F-35 jets.",
+    "url": "https://www.bbc.com/news/articles/c8jm3lr7vkyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T18:59:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9401/live/cda7cb50-9a37-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-7e4d9d6ec8",
+    "source": "The Guardian — UK",
+    "title": "Hackers reportedly steal details of 8,000 children from Kido nursery chain",
+    "summary": "Firm, which has 18 sites around London and more in US, India and China, has received ransom demand, say reports The names, pictures and addresses of about 8,000 children have reportedly been stolen from the Kido nursery chain by a gang of cybercriminals. The criminals have demanded a ransom from the company – which has 18 sites around London, with more in the US, India and China – according to the BBC. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2025/sep/25/cybercriminals-steal-pictures-and-details-of-8000-children-from-nursery-chain",
+    "published": "2025-09-25T18:47:12Z",
+    "image_url": "https://i.guim.co.uk/img/media/6951203ead30f3218ee1c5b13c35cf57f7ecb4e9/370_0_4559_3650/master/4559.jpg?width=140&quality=85&auto=format&fit=max&s=4d1ba2c51da8e5eb860e8afef393844d",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-46b82239f0",
+    "source": "The Guardian — UK",
+    "title": "Keir Starmer expected to announce plans for digital ID cards",
+    "summary": "As government looks for ways to tackle illegal immigration, move will spark battle with civil liberties campaigners All working adults will need digital ID cards under plans to be announced by Keir Starmer in a move that will spark a battle with civil liberties campaigners. The prime minister will set out the plans on Friday at a conference on how progressive politicians can tackle the problems facing the UK, including addressing voter concerns around immigration. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/25/keir-starmer-expected-to-announce-plans-for-digital-id-cards",
+    "published": "2025-09-25T18:31:12Z",
+    "image_url": "https://i.guim.co.uk/img/media/247eda2f7fd6f0fa29ec7c3cbc38b02fedfd81a9/381_0_1906_1525/master/1906.jpg?width=140&quality=85&auto=format&fit=max&s=67ad862cf5fe57e364e4ccb50a9c76af",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-32ae84bfb7",
     "source": "The Guardian — UK",
     "title": "Digital ID cards: a versatile and useful tool or a worrying cybersecurity risk?",
@@ -24,6 +60,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-3b9abc931a",
+    "source": "BBC — Top Stories",
+    "title": "Million-year-old skull rewrites human evolution, scientists claim",
+    "summary": "New analysis suggests our species began to emerge at least half a million years earlier than we thought",
+    "url": "https://www.bbc.com/news/articles/cdx01ve5151o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T18:03:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7293/live/6123b2f0-865f-11f0-8c3f-f11535c1796a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-2c0b1dfe5e",
     "source": "BBC — Top Stories",
     "title": "Backlash from Labour MPs to Burnham leadership ambitions",
@@ -31,18 +79,6 @@
     "url": "https://www.bbc.com/news/articles/c70190e0p6yo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T18:01:11Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a4/live/8fbefa00-9a34-11f0-97f5-bd38218a3641.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-58005c24be",
-    "source": "BBC — Top Stories",
-    "title": "Trump urges Turkey to stop buying Russian oil as Erdogan chases deal on F-35s",
-    "summary": "The US president suggests the US could lift sanctions on Turkey and allow it to buy F-35 jets.",
-    "url": "https://www.bbc.com/news/articles/c8jm3lr7vkyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T17:51:21Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9401/live/cda7cb50-9a37-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -87,7 +123,7 @@
     "id": "The Guardian — UK-7357e749f6",
     "source": "The Guardian — UK",
     "title": "Andy Burnham alarms investors with call to end UK dependence on foreign lenders",
-    "summary": "Approach would risk fresh bond market crisis, say investors, amid speculation Greater Manchester mayor is seeking Westminster return A call to end the UK’s dependence on foreign lenders by Andy Burnham , a senior Labour figure, has been criticised by City investors who said such an approach would risk another bond market crisis. Burnham, the mayor of Greater Manchester, said the UK should not be “in hock” to bond markets as he outlined measures that he believed a Labour government should pursue, including a big council house building programme and the nationalisation of utilities paid for with a rise in taxes on the higher paid, a charge on expensive London homes and £40bn of extra borrowing. Continue reading...",
+    "summary": "Approach would risk fresh bond market crisis, say investors, amid speculation Greater Manchester mayor is seeking Westminster return A call to end the UK’s dependence on foreign lenders by Andy Burnham has been criticised by City investors who said such an approach would risk another bond market crisis. The mayor of Greater Manchester said the UK should not be “in hock” to bond markets as he outlined measures that he believed a Labour government should pursue, including a big council housebuilding programme and the nationalisation of utilities paid for with a rise in taxes on the higher paid, a charge on expensive London homes and £40bn of extra borrowing. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/25/andy-burnham-alarms-city-call-end-uk-dependence-foreign-lenders",
     "published": "2025-09-25T17:30:38Z",
     "image_url": "https://i.guim.co.uk/img/media/93d8aac844ca47fa2b147d810ad5e441a0fc9b1f/388_116_3967_3173/master/3967.jpg?width=140&quality=85&auto=format&fit=max&s=2d5b665f6e1ab006cca3ea894c8d1065",
@@ -300,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-46b82239f0",
-    "source": "The Guardian — UK",
-    "title": "Keir Starmer expected to announce plans for digital ID cards",
-    "summary": "Measure could be announced as soon as Friday as government looks for ways to tackle illegal immigration to the UK All working adults will need digital ID cards under plans to be announced by Keir Starmer on Friday, in a move that will spark a battle with civil liberties campaigners. The prime minister will set out the plans at a conference on how progressive politicians can tackle the problems facing the country, including addressing voter concerns around immigration. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/25/keir-starmer-expected-to-announce-plans-for-digital-id-cards",
-    "published": "2025-09-25T15:04:58Z",
-    "image_url": "https://i.guim.co.uk/img/media/247eda2f7fd6f0fa29ec7c3cbc38b02fedfd81a9/381_0_1906_1525/master/1906.jpg?width=140&quality=85&auto=format&fit=max&s=67ad862cf5fe57e364e4ccb50a9c76af",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-c8cd854ed8",
     "source": "BBC — Top Stories",
     "title": "Emma Watson says she still loves JK Rowling despite rift over trans views",
@@ -348,13 +372,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-9a7d04fe45",
+    "id": "The Guardian — UK-0ed074a591",
     "source": "The Guardian — UK",
-    "title": "Third of women report facing sexual harassment at university in England, survey finds",
-    "summary": "Higher education regulator’s findings from survey of 50,000 final-year students described as ‘national scandal’ One in three female students say they have endured sexual harassment during their time at university or college, with most of it taking place around campus, according to data published by England’s higher education regulator. The results showed that nearly one in five women also experienced sexual assault or violence during their time as a student, often at the hands of other students or staff, with younger women, lesbian, gay or bisexual students and students with disabilities at higher risk. Continue reading...",
-    "url": "https://www.theguardian.com/education/2025/sep/25/third-of-women-endure-sexual-harassment-university-england-survey-finds",
-    "published": "2025-09-25T14:00:53Z",
-    "image_url": "https://i.guim.co.uk/img/media/10033af3951c5e4ed33c0912fcd6fc83be67ad7d/393_0_4245_3396/master/4245.jpg?width=140&quality=85&auto=format&fit=max&s=84cc4084a1eec4ca25277c5797892d5b",
+    "title": "Andy Burnham calls two-child benefit limit the ‘worst of Westminster’",
+    "summary": "Exclusive: Greater Manchester mayor says policy introduced in 2017 is arbitrary and cannot be justified Andy Burnham has thrown further weight behind calls to scrap the two-child benefit limit, calling it an abhorrent policy that represents the “worst of Westminster”. The two-child limit, which was introduced by the Conservative government in 2017, only allows families to claim universal credit and tax credits for up to two children. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/25/andy-burnham-calls-two-child-benefit-limit-the-worst-of-westminster",
+    "published": "2025-09-25T13:56:36Z",
+    "image_url": "https://i.guim.co.uk/img/media/351d549f47d01c9d8533975fa94569bf659d5cec/125_225_5659_4527/master/5659.jpg?width=140&quality=85&auto=format&fit=max&s=b8785dad87d592cebdb8de1b62a44c0b",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -492,18 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-5473a3bcb0",
-    "source": "The Guardian — UK",
-    "title": "Farage steps up calls for Bank of England to halt bond sales",
-    "summary": "Reform UK leader presses governor Andrew Bailey over quantitative easing in meeting at Threadneedle Street Business live – latest updates The Reform UK leader, Nigel Farage, has stepped up calls for the Bank of England to halt bond sales and cut the interest it pays to UK banks, after a meeting with its governor, Andrew Bailey. They met on Thursday morning at the Bank’s Threadneedle Street headquarters along with the Reform MP Richard Tice, after an exchange of letters in which the governor agreed to a meeting. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/sep/25/nigel-farage-bank-of-england-halt-bond-sales-reform-uk",
-    "published": "2025-09-25T11:00:39Z",
-    "image_url": "https://i.guim.co.uk/img/media/10683ae9e076e0011b37fd054df61e49e173f63b/23_0_6121_4899/master/6121.jpg?width=140&quality=85&auto=format&fit=max&s=d3837513a68fabef9c5b741db953586d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-d8ac940dc3",
     "source": "The Guardian — UK",
     "title": "‘We’ve taken our progressive voters for granted’: Labour ex-minister – podcast",
@@ -547,18 +559,6 @@
     "url": "https://www.bbc.com/news/articles/cm2zwm8m41mo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-24T23:03:35Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b4/live/d6d85fc0-97d8-11f0-b48d-eb3b631c9a51.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-62965b2d86",
-    "source": "BBC — Top Stories",
-    "title": "Kindergarten parents told to pay thousands for kids' art - sparking uproar and a midnight heist",
-    "summary": "The debt-ridden centre said the money would go towards paying overdue bills.",
-    "url": "https://www.bbc.com/news/articles/cq8ed2g95zlo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T20:57:00Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ed5/live/5a0e4a50-98f9-11f0-ac0b-b386b30bb4f1.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
