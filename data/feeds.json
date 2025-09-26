@@ -1,9 +1,57 @@
 [
   {
+    "id": "The Guardian — UK-fa156b1632",
+    "source": "The Guardian — UK",
+    "title": "Labour restores whip to two more child benefit cap rebels",
+    "summary": "John McDonnell and Apsana Begum were among last still suspended for July 2024 rebellion Labour has restored the party whip to the former shadow chancellor, John McDonnell, and the Poplar and Limehouse MP Apsana Begum, 14 months after they lost it for rebelling over the two-child benefit cap, the Guardian understands. The pair had the whip reinstated after a conversation on Friday with Jonathan Reynolds, who became Labour’s chief whip in a reshuffle earlier this month. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/26/labour-restores-whip-to-two-more-child-benefit-cap-rebels",
+    "published": "2025-09-26T18:16:20Z",
+    "image_url": "https://i.guim.co.uk/img/media/1c42f0f34ead640b0ea324053de5927c8491a16a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1c541f71fa5f2b5376c3c210081c6082",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-bfdb0107bf",
+    "source": "Politico — UK",
+    "title": "Brussels eyes loophole to isolate Hungary, send billions in Russian assets to Ukraine",
+    "summary": "EU legal experts are studying a way to get round the need for unanimity to send €140 billion to Kyiv.",
+    "url": "https://www.politico.eu/article/hungary-viktor-orban-russian-assets-sanctions-war-in-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-26T17:54:42Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-2222275722-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-ab5fa34e35",
+    "source": "The Guardian — UK",
+    "title": "Why does the UK need digital IDs and what data will they include?",
+    "summary": "Starmer’s proposal has been criticised by rivals and civil liberties groups and campaigners worry about people without smartphones PM’s plan ‘risks creating an enormous hacking target’ Keir Starmer has announced plans to consult on a mandatory digital ID to come into force by mid-2029 at the latest. Here we answer some of the most pressing questions. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/26/why-does-the-uk-need-digital-ids-and-what-data-will-they-include",
+    "published": "2025-09-26T17:47:26Z",
+    "image_url": "https://i.guim.co.uk/img/media/7afa98180f840e21e4e5df6469db8a64e582a600/1397_0_5215_4172/master/5215.jpg?width=140&quality=85&auto=format&fit=max&s=6058669ecf55f6e6158ab2571e7789b5",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a2648fa818",
+    "source": "BBC — Top Stories",
+    "title": "What to know about James Comey's indictment and what happens next",
+    "summary": "The news puts the ex-FBI boss back in the spotlight nearly a decade after the drama of the 2016 election.",
+    "url": "https://www.bbc.com/news/articles/cj07ndrnr34o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T17:23:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f844/live/316dacc0-9afd-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-b673ef937f",
     "source": "The Guardian — UK",
-    "title": "Keir Starmer’s plan for digital IDs risks creating ‘an enormous hacking target’",
-    "summary": "Cyber security expert offers warning as tech companies prepare to bid for potentially multi-billion pound contracts Keir Starmer’s plan for digital IDs risks creating “an enormous hacking target”, a cybersecurity expert has warned, as technology companies prepared to bid for contracts that could run into billions of pounds. Amid widespread opposition, the prime minister said the mandatory digital ID – including citizens’ photos, names, dates of birth, nationalities and residency status – would come into use by July 2029. Continue reading...",
+    "title": "Digital ID plan for UK risks creating ‘an enormous hacking target’, expert warns",
+    "summary": "Cyber security expert offers warning as tech companies prepare to bid for potentially multi-billion pound contracts Why does the UK need digital IDs and what data will they include? Keir Starmer’s plan for digital IDs risks creating “an enormous hacking target”, a cybersecurity expert has warned, as technology companies prepared to bid for contracts that could run into billions of pounds. Amid widespread opposition, the prime minister said the mandatory digital ID – including citizens’ photos, names, dates of birth, nationalities and residency status – would come into use by July 2029. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/sep/26/keir-starmers-plan-for-digital-ids-risks-creating-an-enormous-hacking-target",
     "published": "2025-09-26T17:02:20Z",
     "image_url": "https://i.guim.co.uk/img/media/4d2cc7f56f31d1889c202d56f1eae7da7c67008e/0_1_3058_2444/master/3058.jpg?width=140&quality=85&auto=format&fit=max&s=dd97e59ed79e7ddbded7ed17ad5b7c95",
@@ -240,13 +288,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-af520ef9dc",
+    "id": "The Guardian — UK-e6bb93b53f",
     "source": "The Guardian — UK",
-    "title": "Scottish Prison Service admits human rights law breach over death in custody",
-    "summary": "Police Scotland and Crown Office also make admissions in court relating to death of Allan Marshall in 2015 The Scottish Prison Service has admitted breaching human rights law by causing the death of a man who was restrained by 17 officers and has apologised to his family. In a series of unprecedented admissions, Police Scotland and the Crown Office accepted they similarly breached Allan Marshall’s right to life under article 2 of the European convention on human rights when they failed to carry out an adequate investigation into his death in custody. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/26/scottish-prison-service-admits-human-rights-law-breach-death-custody",
-    "published": "2025-09-26T13:11:01Z",
-    "image_url": "https://i.guim.co.uk/img/media/e5065b5c55cc028748e41e877d644764e6106670/60_577_821_656/master/821.jpg?width=140&quality=85&auto=format&fit=max&s=7125fb58e7b87bb7b600d7896c108cdb",
+    "title": "Politicians must confront lies used by populists, Starmer tells London summit",
+    "summary": "In speech to Global Progress Action summit, PM criticises rhetoric describing London as ‘decaying and lawless’ Progressive politicians must directly confront the “lies” used by populists and counter their “industrialised infrastructure of grievance”, Keir Starmer has said in a speech that included thinly veiled criticism of Donald Trump’s rhetoric. Addressing the Global Progress Action summit in London, where he also spoke publicly for the first time about the plan for mandatory ID cards , Starmer took aim at the idea of London as a decaying, dangerous city, one put forward repeatedly by the US president. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/26/keir-starmer-london-uk-politics-trump",
+    "published": "2025-09-26T13:05:44Z",
+    "image_url": "https://i.guim.co.uk/img/media/9dab717617bf2136ea967a62c17e54190ed3988b/690_0_4284_3427/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=5f3d48da5a018b96cf5fa0fb77fa9286",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -396,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-4fb6264286",
-    "source": "Politico — UK",
-    "title": "Commission warns Big Tech over how it plugs AI into its services",
-    "summary": "AI features on Google search, Instagram and elsewhere have to respect digital competition rules, EU executive says.",
-    "url": "https://www.politico.eu/article/commission-warns-big-tech-over-ai-services/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-26T11:37:10Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-2216731906-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-ad85e5520f",
     "source": "BBC — Top Stories",
     "title": "Arena bomb-maker used five makeshift knives in attack on prison officers, court hears",
@@ -468,25 +504,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-89ed5b8055",
-    "source": "The Guardian — UK",
-    "title": "Farage endangering women by failing to condemn paracetamol claims, says Bridget Phillipson",
-    "summary": "Labour deputy leader candidate criticises ‘scaremongering’ on autism and says party must be firmer in tackling Reform UK politics live – latest updates Nigel Farage is “endangering women’s health” by failing to condemn Donald Trump’s claims that using paracetamol during pregnancy causes autism, Bridget Phillipson has said. The education secretary and minister for women said she had used the painkiller throughout her second pregnancy, and she warned that Reform’s connections with medical conspiracy theories including anti-vaccine rhetoric made the party a danger to public health. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/26/nigel-farage-endangering-womens-health-paracetamol-claims-bridget-phillipson-labour",
-    "published": "2025-09-26T08:26:35Z",
-    "image_url": "https://i.guim.co.uk/img/media/462f91fd6c000a5f55b0179bdd98d9c78cf7014d/185_91_1743_1393/master/1743.jpg?width=140&quality=85&auto=format&fit=max&s=6d35e4548d0c3ea03f5665db9382150e",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-201e2e361f",
     "source": "BBC — Top Stories",
     "title": "Chicken Shop Date's Amelia Dimoldenberg on 10 years of her hit web series",
     "summary": "Amelia Dimoldenburg looks back on how a youth magazine column became a huge internet show.",
     "url": "https://www.bbc.com/news/articles/c3w57g0g5p2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T08:19:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b41b/live/61e171b0-9ab8-11f0-b741-177e3e2c2fc7.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be4a/live/82eb47f0-9b03-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -552,18 +576,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-aacbea5da5",
-    "source": "BBC — Top Stories",
-    "title": "Anthony Zurcher: Trump urged prosecutors to target Comey. Now he's been charged",
-    "summary": "The criminal case against Comey fulfils the president's desire to seek retribution and further raises concerns about abuse of power.",
-    "url": "https://www.bbc.com/news/articles/c33r872egvjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T03:26:01Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2e5/live/9ccd0ec0-9a9e-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-32ae84bfb7",
     "source": "The Guardian — UK",
     "title": "Digital ID cards: a versatile and useful tool or a worrying cybersecurity risk?",
@@ -571,18 +583,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/25/digital-id-cards-a-versatile-and-useful-tool-or-a-worrying-cybersecurity-risk",
     "published": "2025-09-25T18:14:31Z",
     "image_url": "https://i.guim.co.uk/img/media/4d2cc7f56f31d1889c202d56f1eae7da7c67008e/0_3_3058_2444/master/3058.jpg?width=140&quality=85&auto=format&fit=max&s=3ec737e5a2b2bd3b0dc1cd2dc5afc243",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-3c3ea1a2a3",
-    "source": "The Guardian — UK",
-    "title": "What is the Labour Together row and are there risks for Keir Starmer?",
-    "summary": "The Tories are calling for the standards commissioner and the police to investigate the Labour-aligned thinktank The Conservatives are urging Commons standards officials and the police to investigate money donated to the Labour Together group and whether Keir Starmer potentially benefited from it. So what is the row about? And do the Tory claims stand up? Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/25/what-is-the-labour-together-row-keir-starmer-risks",
-    "published": "2025-09-25T14:15:28Z",
-    "image_url": "https://i.guim.co.uk/img/media/ab99bfbff1be63d2f63f1bf356c8acf01eb867ef/62_23_891_712/master/891.jpg?width=140&quality=85&auto=format&fit=max&s=4fd4c9a3f15c41b0489a9c600a60ba7f",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
