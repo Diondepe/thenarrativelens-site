@@ -1,5 +1,41 @@
 [
   {
+    "id": "The Guardian — UK-f52ea8c912",
+    "source": "The Guardian — UK",
+    "title": "Labour MPs call for action to tackle deprivation in coastal ‘sea wall’ seats",
+    "summary": "Exclusive: Group warn coastal communities need greater investment to reduce inequality and fight off threat from Reform A group of Labour MPs representing coastal areas will demand urgent action to tackle deprivation in their seats, warning a lack of progress could leave them vulnerable to Reform. They will use the party conference this weekend to call for an equivalent of the London Challenge , which turned around failing schools in the capital under Tony Blair’s government, but with a focus on post-16 training and apprenticeships. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/26/labour-mps-call-for-action-to-tackle-deprivation-in-coastal-sea-wall-seats",
+    "published": "2025-09-26T07:00:02Z",
+    "image_url": "https://i.guim.co.uk/img/media/61dd103aff977a35485a02dd0a19c026bb0b80a9/0_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=c7374cb69d9f5392556197928f6f3da0",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e9999394fc",
+    "source": "BBC — Top Stories",
+    "title": "Ratmageddon: Why rats are overrunning our cities",
+    "summary": "Rats are multiplying at speed in urban areas. So, what's really behind the boom - and is it now unstoppable?",
+    "url": "https://www.bbc.com/news/articles/c4gvk397j80o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T06:55:02Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5884/live/8487c980-9a09-11f0-92db-77261a15b9d2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7f488f8a13",
+    "source": "BBC — Top Stories",
+    "title": "Tony Blair in discussions to run transitional Gaza authority",
+    "summary": "The former prime minister has been in high-level planning talks over the territory's future, the BBC understands.",
+    "url": "https://www.bbc.com/news/articles/c3drmk95xlzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T06:24:58Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0372/live/4e7a88b0-9a80-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-f4167e768c",
     "source": "BBC — Top Stories",
     "title": "Former FBI director James Comey indicted on two charges",
@@ -91,18 +127,6 @@
     "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T04:59:12Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3902de2eba",
-    "source": "BBC — Top Stories",
-    "title": "Trump announces new tariffs on drugs, trucks and kitchen cabinets",
-    "summary": "The US president said the move aims to help protect American manufacturers from foreign imports.",
-    "url": "https://www.bbc.com/news/articles/crkjreprp3po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T04:05:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed0c/live/0f72d480-9a6a-11f0-b39f-8faa1a82cdd5.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -255,10 +279,10 @@
     "id": "BBC — Top Stories-c94d28f388",
     "source": "BBC — Top Stories",
     "title": "Trump says he 'will not allow' Netanyahu to annex West Bank",
-    "summary": "The US president was speaking ahead the Israeli PM's address to the UN General Assembly on Friday.",
+    "summary": "The US president spoke ahead the Israeli PM's address to the UN General Assembly on Friday.",
     "url": "https://www.bbc.com/news/articles/c3e7d32epk3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T01:13:41Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2266/live/67ee2e50-9a71-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4f7/live/6f935d70-9aa7-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -270,7 +294,7 @@
     "summary": "The Anthony Nolan Cell Collection Centre is the first in the UK dedicated to transplants.",
     "url": "https://www.bbc.com/news/articles/c5y2y2pgd75o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T01:13:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/435c/live/331b1360-87dd-11f0-9457-214de3f1fa91.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f8a/live/c3f0fd30-9aa4-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -312,25 +336,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e9999394fc",
-    "source": "BBC — Top Stories",
-    "title": "Ratmageddon: Why rats are overrunning our cities",
-    "summary": "Rats are multiplying at speed in urban areas. So, what's really behind the boom - and is it now unstoppable?",
-    "url": "https://www.bbc.com/news/articles/c4gvk397j80o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T23:50:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5884/live/8487c980-9a09-11f0-92db-77261a15b9d2.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-de1c745fde",
     "source": "BBC — Top Stories",
     "title": "Samaritans facing volunteer exodus over proposed branch closures",
     "summary": "Opponents fear plans to close more than100 branches could put the charity’s ability to answer calls in doubt.",
     "url": "https://www.bbc.com/news/articles/c931w38kdqwo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T23:12:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd6f/live/9636e270-9a17-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8925/live/f55f3a00-9aa7-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -348,18 +360,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-f232a6d817",
-    "source": "The Guardian — UK",
-    "title": "Fighter jets purchase would put UK in breach of nuclear treaty, says CND",
-    "summary": "Legal opinion for campaign group says deal amounts to reversal of UK’s commitment to nuclear disarmament Britain will violate its nuclear disarmament obligations if Labour presses ahead with the £1bn purchase of 12 F-35A fighter jets, according to a specialist legal opinion prepared on behalf of the Campaign for Nuclear Disarmament (CND). Two international lawyers argue that the government’s plan to reintroduce air-launched nuclear weapons for the RAF will break a key provision of the nuclear non-proliferation treaty (NPT) signed by the UK and 190 other countries. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/sep/26/uk-fighter-jets-purchase-nuclear-treaty-cnd",
-    "published": "2025-09-25T23:01:50Z",
-    "image_url": "https://i.guim.co.uk/img/media/bb4e6c1f674e2d9a7c50d3f0f1ba4394e9d84d3f/2320_590_3304_2643/master/3304.jpg?width=140&quality=85&auto=format&fit=max&s=88e3d831af7934b98d188d8916a24fae",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-50e32b3062",
     "source": "The Guardian — UK",
     "title": "UK government backs return of international rail travel to Kent stations",
@@ -367,6 +367,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/26/uk-government-backs-return-of-international-rail-travel-to-kent-stations",
     "published": "2025-09-25T23:01:50Z",
     "image_url": "https://i.guim.co.uk/img/media/9cd008bd9bbf79baddeea4106450bdf7ecbfa412/185_0_2200_1761/master/2200.jpg?width=140&quality=85&auto=format&fit=max&s=40f026f7c3b47db1a8bdd18d79fb7c14",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-f232a6d817",
+    "source": "The Guardian — UK",
+    "title": "Fighter jets purchase would put UK in breach of nuclear treaty, says CND",
+    "summary": "Legal opinion for campaign group says deal amounts to reversal of UK’s commitment to nuclear disarmament Britain will violate its nuclear disarmament obligations if Labour presses ahead with the £1bn purchase of 12 F-35A fighter jets, according to a specialist legal opinion prepared on behalf of the Campaign for Nuclear Disarmament (CND). Two international lawyers argue that the government’s plan to reintroduce air-launched nuclear weapons for the RAF will break a key provision of the nuclear non-proliferation treaty (NPT) signed by the UK and 190 other countries. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/sep/26/uk-fighter-jets-purchase-nuclear-treaty-cnd",
+    "published": "2025-09-25T23:01:50Z",
+    "image_url": "https://i.guim.co.uk/img/media/bb4e6c1f674e2d9a7c50d3f0f1ba4394e9d84d3f/2320_590_3304_2643/master/3304.jpg?width=140&quality=85&auto=format&fit=max&s=88e3d831af7934b98d188d8916a24fae",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -456,18 +468,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-7e4d9d6ec8",
-    "source": "The Guardian — UK",
-    "title": "Hackers reportedly steal pictures of 8,000 children from Kido nursery chain",
-    "summary": "Firm, which has 18 sites around London and more in US, India and China, has received ransom demand, say reports The names, pictures and addresses of about 8,000 children have reportedly been stolen from the Kido nursery chain by a gang of cybercriminals. The criminals have demanded a ransom from the company – which has 18 sites around London, with more in the US, India and China – according to the BBC. Continue reading...",
-    "url": "https://www.theguardian.com/technology/2025/sep/25/cybercriminals-steal-pictures-and-details-of-8000-children-from-nursery-chain",
-    "published": "2025-09-25T18:47:12Z",
-    "image_url": "https://i.guim.co.uk/img/media/6951203ead30f3218ee1c5b13c35cf57f7ecb4e9/370_0_4559_3650/master/4559.jpg?width=140&quality=85&auto=format&fit=max&s=4d1ba2c51da8e5eb860e8afef393844d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-32ae84bfb7",
     "source": "The Guardian — UK",
     "title": "Digital ID cards: a versatile and useful tool or a worrying cybersecurity risk?",
@@ -487,6 +487,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/25/a-sticking-plaster-labours-levelling-up-offer-leaves-blackpool-voters-unmoved",
     "published": "2025-09-25T17:46:02Z",
     "image_url": "https://i.guim.co.uk/img/media/27c74cde9d62c48ba9fb03d6c8f29eb8bddc3254/730_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=59de5707cea744031a8f5d04848eb8b1",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-44d206df89",
+    "source": "The Guardian — UK",
+    "title": "Labour’s internal warfare breaks open as Starmer and ministers criticise Andy Burnham",
+    "summary": "Starmer understood to be furious at Greater Manchester mayor’s admission that he would seek to challenge for the leadership Labour’s internal warfare broke into the open on Thursday as Keir Starmer and several cabinet ministers criticised Andy Burnham over his comments dismissing the bond markets. Senior party figures compared the Greater Manchester mayor’s attitude to the cavalier approach taken by the former Conservative prime minister, Liz Truss, in a sign of how low relations between No 10 and Burnham have plunged. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/25/labour-internal-warfare-breaks-open-as-keir-starmer-and-ministers-criticise-andy-burnham",
+    "published": "2025-09-25T17:43:38Z",
+    "image_url": "https://i.guim.co.uk/img/media/6a89f0e5950f5b56382f9799a8495ddf4f67bf19/643_0_4355_3486/master/4355.jpg?width=140&quality=85&auto=format&fit=max&s=0b0369ee191b943a914021a3eb2bb09b",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,18 +547,6 @@
     "url": "https://www.bbc.com/news/articles/c62ldyvpwv9o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T17:00:38Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a8/live/472be100-9a29-11f0-97f5-bd38218a3641.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-11c1717c3c",
-    "source": "The Guardian — UK",
-    "title": "Starmer’s head of communications Steph Driver quits in latest No 10 exit",
-    "summary": "Exclusive: Departure of key figure comes little over a week after that of director of political strategy Keir Starmer’s head of communications, Steph Driver, has announced she is leaving Downing Street, the latest in a series of trusted aides to the prime minister who have quit No 10 in recent months. The departure of Driver, who spent five years at Starmer’s side as communications chief when he was opposition leader, before becoming deputy director and then director of communications at Downing Street, comes little more than a week after another key figure, Paul Ovenden, quit as the PM’s director of political strategy. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/25/starmers-head-of-communications-steph-driver-quits-in-latest-no-10-exit",
-    "published": "2025-09-25T15:10:09Z",
-    "image_url": "https://i.guim.co.uk/img/media/f52c634cf44be2a425af9e232c4495c3d8070096/197_0_1845_1476/master/1845.jpg?width=140&quality=85&auto=format&fit=max&s=826541503beb67a1ebbc0773a6468859",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
