@@ -1,12 +1,84 @@
 [
   {
-    "id": "BBC — Top Stories-3902de2eba",
+    "id": "BBC — Top Stories-22672e1386",
     "source": "BBC — Top Stories",
-    "title": "Trump announces new tariffs on drugs, trucks and kitchen cabinets",
-    "summary": "The US president said the move aims to help protect American manufacturers from foreign imports.",
-    "url": "https://www.bbc.com/news/articles/crkjreprp3po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T04:05:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed0c/live/0f72d480-9a6a-11f0-b39f-8faa1a82cdd5.jpg",
+    "title": "'I've got to get out of here': Antisocial acts leave locals living in fear",
+    "summary": "People living in Portsmouth have told the BBC's Dan Johnson they feel unsafe in their own homes.",
+    "url": "https://www.bbc.com/news/videos/c0jqv18yd5eo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T05:06:07Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b0a/live/a457b5a0-9a53-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-fb4b32ea94",
+    "source": "Politico — UK",
+    "title": "‘Let’s have a trial’: Comey proclaims innocence as Trump revels in grand jury indictment he demanded",
+    "summary": "A grand jury indicted the former FBI director on two felony charges stemming from congressional testimony he gave in September 2020.",
+    "url": "https://www.politico.com/news/2025/09/25/james-comey-charges-indictment-00581501?llkkkddddfedppp&utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-26T05:04:16Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-0db4c21f50",
+    "source": "The Guardian — UK",
+    "title": "‘History will remember who showed up’: Keir Starmer faces call to attend Cop30 summit",
+    "summary": "Response from leaders and key climate figures comes after PM’s aides advised non-attendance over concerns Reform may attack him Leading climate figures and Labour MPs have urged Keir Starmer to attend the crucial Cop30 climate summit this November, after aides advised him not to attend for fear of attracting the ire of the Reform party. Simon Stiell, the UN’s climate chief, said: “Cop30 is where leaders are expected to come and roll up their sleeves, make deals to help their nation’s economy transition faster, creating more jobs, and guide the world on what next steps we take together.” Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/sep/26/keir-starmer-faces-call-to-attend-cop30-summit",
+    "published": "2025-09-26T05:00:59Z",
+    "image_url": "https://i.guim.co.uk/img/media/69c2444171bc9fbaa219854940dd54aae0e24890/740_0_5733_4587/master/5733.jpg?width=140&quality=85&auto=format&fit=max&s=8cf4975e7930e97a7c4b60509d7bef6c",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-4ce98d21c0",
+    "source": "BBC — Top Stories",
+    "title": "No 'pensioner deportations' under Reform, says Kruger",
+    "summary": "The MP for East Wiltshire was responding to concerns about scrapping indefinite leave to remain.",
+    "url": "https://www.bbc.com/news/articles/cy9nyex12j5o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T05:00:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e88/live/a141b980-9a47-11f0-97bc-a980e58f8f49.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-168fd6e7eb",
+    "source": "BBC — Top Stories",
+    "title": "Play now",
+    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
+    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T04:59:12Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-cba49c0d4f",
+    "source": "BBC — Top Stories",
+    "title": "Drone attacks leave Denmark exposed - and searching for response",
+    "summary": "In an era of hybrid warfare, there is a sense of embarrassment that Denmark's critical infrastructure has become vulnerable.",
+    "url": "https://www.bbc.com/news/articles/c4g96gvql99o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T04:38:35Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e14b/live/0090ac50-9a5e-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b81a1d91c3",
+    "source": "BBC — Top Stories",
+    "title": "Chris Mason: Starmer's irritation with Burnham shows as he seeks to tackle critics",
+    "summary": "Andy Burnham's recent remarks seem to have narked the prime minister, our political editor writes.",
+    "url": "https://www.bbc.com/news/articles/cly19zld70qo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T04:30:21Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a419/live/0b04f540-9a79-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -168,18 +240,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-637d48a865",
-    "source": "Politico — UK",
-    "title": "Escalating trouble – Trump takes on the UN and Europe",
-    "summary": "Trump says Ukraine can win — but should Europe believe him? At a hectic U.N. General Assembly in New York, U.S. President Donald Trump stunned world leaders with a dramatic rhetorical reversal on the war in Ukraine, mocking Russia as a “paper tiger” and urging NATO allies to shoot down Russian aircraft. Host Sarah Wheaton […]",
-    "url": "https://www.politico.eu/podcast/eu-confidential/escalating-trouble-trump-takes-on-the-un-and-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-26T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/04/11/EU-Confidential-Webcard-1920x1080-px.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-88f611f139",
     "source": "BBC — Top Stories",
     "title": "Reform faces questions over tech investor's role in cost-cutting drive",
@@ -318,19 +378,7 @@
     "summary": "Pessimistic social media posts may now be targets of a fresh crackdown by the Chinese government.",
     "url": "https://www.bbc.com/news/articles/c39r7p47wzgo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T22:01:24Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c3/live/fb300b00-982f-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-c55d1beb8d",
-    "source": "BBC — Top Stories",
-    "title": "PM compares Burnham's economic proposals to Truss 'disaster'",
-    "summary": "Sir Keir Starmer's comments follow criticism of his leadership from the Mayor of Manchester.",
-    "url": "https://www.bbc.com/news/articles/cly0n24k04ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T21:59:23Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7e0/live/71049af0-9a4a-11f0-97bc-a980e58f8f49.png",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3274/live/90509f20-9a96-11f0-88f7-0f8a7eda6f0c.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -408,18 +456,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-9998f6f726",
-    "source": "BBC — Top Stories",
-    "title": "Former Arsenal striker dies after sustaining 'significant injury' during game",
-    "summary": "Chichester City FC confirmed that Billy Vigar, 21, died on Thursday morning.",
-    "url": "https://www.bbc.com/news/articles/cq5jye4v64no?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T18:13:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a276/live/49a63c90-9a39-11f0-8766-3f88e8be4733.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-787b953363",
     "source": "The Guardian — UK",
     "title": "‘A sticking plaster’: Labour’s levelling up offer leaves Blackpool voters unmoved",
@@ -444,13 +480,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-7357e749f6",
+    "id": "The Guardian — UK-b773ed50e9",
     "source": "The Guardian — UK",
-    "title": "Andy Burnham alarms investors with call to end UK dependence on foreign lenders",
-    "summary": "Approach would risk fresh bond market crisis, say investors, amid speculation Greater Manchester mayor is seeking Westminster return A call to end the UK’s dependence on foreign lenders by Andy Burnham has been criticised by City investors who said such an approach would risk another bond market crisis. The mayor of Greater Manchester said the UK should not be “in hock” to bond markets as he outlined measures that he believed a Labour government should pursue, including a big council housebuilding programme and the nationalisation of utilities paid for with a rise in taxes on the higher paid, a charge on expensive London homes and £40bn of extra borrowing. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/25/andy-burnham-alarms-city-call-end-uk-dependence-foreign-lenders",
-    "published": "2025-09-25T17:30:38Z",
-    "image_url": "https://i.guim.co.uk/img/media/93d8aac844ca47fa2b147d810ad5e441a0fc9b1f/388_116_3967_3173/master/3967.jpg?width=140&quality=85&auto=format&fit=max&s=2d5b665f6e1ab006cca3ea894c8d1065",
+    "title": "UK politics: ID cards ‘will make Britons’ everyday lives easier and build trust’, claims Blair thinktank - as it happened",
+    "summary": "Thinktank’s Alexander Iosad claims says cards will tackle illegal migration and help people access government services Sweeney asked about Northern Powerhouse Rail, and reports it is being shelved again . Burnham said these reports were “disappointing”. It feels always that projects in the southern half the country are green lighted but often red lighted up here. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/25/andy-burnham-steve-reed-keir-starmer-labour-news-updates-uk-politics-live",
+    "published": "2025-09-25T17:24:17Z",
+    "image_url": "https://i.guim.co.uk/img/media/c53b08140f6d0024e3945a9fe299a17f1af576c2/2039_0_3252_2601/master/3252.jpg?width=140&quality=85&auto=format&fit=max&s=f8e2f298f565d13b29ff3e244ec8181d",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -463,18 +499,6 @@
     "url": "https://www.bbc.com/news/articles/c1mx8vr2gr1o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T17:14:54Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e6e/live/98e71050-9a01-11f0-8db4-51edddaa67df.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-cba49c0d4f",
-    "source": "BBC — Top Stories",
-    "title": "Drone attacks leave Denmark exposed - and searching for response",
-    "summary": "In an era of hybrid warfare, there is a sense of embarrassment that Denmark's critical infrastructure has become vulnerable.",
-    "url": "https://www.bbc.com/news/articles/c4g96gvql99o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T17:13:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e14b/live/0090ac50-9a5e-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -540,18 +564,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-0a78994a12",
-    "source": "The Guardian — UK",
-    "title": "Crown court backlog in England and Wales hits new record of almost 80,000 cases",
-    "summary": "Ministry of Justice data shows 10% increase in open cases as waiting times for trial dates reach up to four years UK politics – latest updates The crown court backlog in England and Wales has risen by 10% to a new record of almost 80,000 cases, while wait times for trial dates have reached up to four years. Figures from the Ministry of Justice showed the open caseload was 78,329 at the end of June, up 2% from 76,957 at the end of March, the first time the backlog passed 75,000. It is also up 10% from 70,893 a year earlier, the figures show. Continue reading...",
-    "url": "https://www.theguardian.com/law/2025/sep/25/crown-court-england-wales-law-justice-politics",
-    "published": "2025-09-25T12:59:22Z",
-    "image_url": "https://i.guim.co.uk/img/media/1d205542be2124eea526b71ddf64a6afeae69c9f/516_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=19a6bb78e1c0ae29bd97bd5ea10df2ef",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-d8ac940dc3",
     "source": "The Guardian — UK",
     "title": "‘We’ve taken our progressive voters for granted’: Labour ex-minister – podcast",
@@ -559,18 +571,6 @@
     "url": "https://www.theguardian.com/politics/audio/2025/sep/25/labour-lucy-powell-progressive-voters-politics-weekly-uk-podcast",
     "published": "2025-09-25T10:25:06Z",
     "image_url": "https://i.guim.co.uk/img/media/83229aa2d532edb40d383c74e343b415e926d48a/404_0_3705_2964/master/3705.jpg?width=140&quality=85&auto=format&fit=max&s=71bf28137ad443d9d90cb4dc355da452",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-168fd6e7eb",
-    "source": "BBC — Top Stories",
-    "title": "Play now",
-    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
-    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T05:07:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
