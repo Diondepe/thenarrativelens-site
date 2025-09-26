@@ -1,12 +1,72 @@
 [
   {
+    "id": "The Guardian — UK-b673ef937f",
+    "source": "The Guardian — UK",
+    "title": "Keir Starmer’s plan for digital IDs risks creating ‘an enormous hacking target’",
+    "summary": "Cyber security expert offers warning as tech companies prepare to bid for potentially multi-billion pound contracts Keir Starmer’s plan for digital IDs risks creating “an enormous hacking target”, a cybersecurity expert has warned, as technology companies prepared to bid for contracts that could run into billions of pounds. Amid widespread opposition, the prime minister said the mandatory digital ID – including citizens’ photos, names, dates of birth, nationalities and residency status – would come into use by July 2029. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/26/keir-starmers-plan-for-digital-ids-risks-creating-an-enormous-hacking-target",
+    "published": "2025-09-26T17:02:20Z",
+    "image_url": "https://i.guim.co.uk/img/media/4d2cc7f56f31d1889c202d56f1eae7da7c67008e/0_1_3058_2444/master/3058.jpg?width=140&quality=85&auto=format&fit=max&s=dd97e59ed79e7ddbded7ed17ad5b7c95",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-d1b7a6ae0f",
     "source": "BBC — Top Stories",
     "title": "New digital ID will be mandatory to work in the UK, Starmer says",
     "summary": "PM says the scheme will make it harder to work illegally but opposition parties argue it won't stop small boat crossings.",
     "url": "https://www.bbc.com/news/articles/cn832y43ql5o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T16:05:01Z",
+    "published": "2025-09-26T17:01:47Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc39/live/a2647d70-9add-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d398734acf",
+    "source": "BBC — Top Stories",
+    "title": "Netanyahu attacks Palestinian recognition as dozens walk out of UN speech",
+    "summary": "Officials and diplomats left the auditorium in protest as the Israeli leader took the stage, leaving large parts of the hall empty.",
+    "url": "https://www.bbc.com/news/articles/cderxxylpzdo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T16:41:44Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87e/live/39823af0-9af0-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-4aa04b3a5e",
+    "source": "BBC — Top Stories",
+    "title": "Starmer pushes immigration front and centre to fight Farage",
+    "summary": "The prime minister believes a new digital ID scheme can help tackle illegal migration.",
+    "url": "https://www.bbc.com/news/articles/c62q00gzqgpo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T16:37:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58d7/live/93ea1190-9aee-11f0-89b4-1b2d09c610c7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5e5cf70dab",
+    "source": "BBC — Top Stories",
+    "title": "Nursery worker jailed over abuse of 21 babies",
+    "summary": "Roksana Lecka, 22, has been jailed for eight years for multiple counts of child cruelty.",
+    "url": "https://www.bbc.com/news/articles/c30616ev66eo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T15:58:14Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b17b/live/33d61150-9ae9-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-dfbf7da3c1",
+    "source": "BBC — Top Stories",
+    "title": "Dubai sex-trade ring boss held by police after BBC investigation",
+    "summary": "Charles Mwesigwa led a degrading network exploiting vulnerable women in glamorous parts of Dubai.",
+    "url": "https://www.bbc.com/news/articles/ce84ezl461po?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T15:52:35Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc8d/live/16a38630-9abc-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -15,7 +75,7 @@
     "id": "The Guardian — UK-06f7e31fcc",
     "source": "The Guardian — UK",
     "title": "Kido nursery hackers threaten to publish more children’s profiles",
-    "summary": "Criminals calling themselves Radiant say they will post additional private data online unless they are paid Hackers with pictures and private information of thousands of nursery children have threatened to publish more information online unless they are paid. Criminals calling themselves Radiant hacked the UK-based Kido nursery chain and posted profiles of 10 children online on Thursday. Their website on the dark web has posted a “data leakage roadmap” that sets out how the “next steps for us will be to release 30 more profiles of each child and 100 employees’ private data”. Continue reading...",
+    "summary": "Criminals calling themselves Radiant say they will post additional private data online unless they are paid Hackers with pictures and the private information of thousands of nursery children have threatened to publish more information online unless they are paid. Criminals calling themselves Radiant hacked the UK-based Kido nursery chain and posted profiles of 10 children online on Thursday. Their website on the dark web has posted a “data leakage roadmap” that sets out how the “next steps for us will be to release 30 more profiles of each child and 100 employees’ private data”. Continue reading...",
     "url": "https://www.theguardian.com/technology/2025/sep/26/kido-nursery-hackers-radiant-threaten-publish-children-profiles",
     "published": "2025-09-26T15:46:05Z",
     "image_url": "https://i.guim.co.uk/img/media/3c65d05733e9de26e17e6929d83320c02a663fef/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=db27b27f4c4b587ec64959f1d6d1bba9",
@@ -27,7 +87,7 @@
     "id": "The Guardian — UK-2836e58dd4",
     "source": "The Guardian — UK",
     "title": "Starmer’s ID plan has caused upset, but in the EU the debate has long been settled",
-    "summary": "ID cards have become an essential part of life for many across the bloc, with digital versions already launched in many member states On the continent, the debate currently raging in the UK over national ID cards has long been settled. Across Europe, physical identity cards have existed for decades, and digital versions have either already been successfully launched or are being trialled. In all bar two of the EU’s 27 member states, physical ID cards , in a standard, machine-readable EU format introduced in 2021, serve both as identity documents in citizens’ home countries, and for travel within the passport-free Schengen zone. Continue reading...",
+    "summary": "ID cards have become an essential part of life for many across the bloc, with digital versions already launched in many member states On the continent, the debate raging in the UK over national ID cards has long been settled. Across Europe, physical identity cards have existed for decades, and digital versions have either already been successfully launched or are being trialled. In all bar two of the EU’s 27 member states, physical ID cards , in a standard, machine-readable EU format introduced in 2021, are used both as identity documents in citizens’ home countries, and for travel within the passport-free Schengen zone. Continue reading...",
     "url": "https://www.theguardian.com/world/2025/sep/26/starmer-id-card-plan-has-caused-upset-but-in-the-eu-the-debate-has-long-been-settled",
     "published": "2025-09-26T15:45:41Z",
     "image_url": "https://i.guim.co.uk/img/media/c8c7b49487f89c837e780a3d2f6e35c3f4b36636/239_0_4750_3800/master/4750.jpg?width=140&quality=85&auto=format&fit=max&s=9d15ca1a77c412ede6b44dda21a6b4c9",
@@ -42,7 +102,7 @@
     "summary": "The incident mirrors an attack on Aug. 24, when the rescue ship Ocean Viking came under fire from a Libyan patrol boat.",
     "url": "https://www.politico.eu/article/libya-militia-sea-watch-migrant-rescue-ship-eu-tensions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-26T15:39:28Z",
-    "image_url": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-1244457930-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -192,18 +252,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-e6bb93b53f",
-    "source": "The Guardian — UK",
-    "title": "Politicians must confront lies used by populists, Starmer tells London summit",
-    "summary": "In speech to Global Progress Action summit, PM criticises rhetoric describing London as ‘decaying and lawless’ UK politics live – latest updates Progressive politicians must directly confront the “lies” used by populists and counter their “industrialised infrastructure of grievance”, Keir Starmer has said in a speech that included thinly veiled criticism of Donald Trump’s rhetoric. Addressing the Global Progress Action summit in London, where he also spoke publicly for the first time about the plan for mandatory ID cards , Starmer took aim at the idea of London as a decaying, dangerous city, one put forward repeatedly by the US president. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/26/keir-starmer-london-uk-politics-trump",
-    "published": "2025-09-26T13:05:44Z",
-    "image_url": "https://i.guim.co.uk/img/media/9dab717617bf2136ea967a62c17e54190ed3988b/690_0_4284_3427/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=5f3d48da5a018b96cf5fa0fb77fa9286",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-1ae0cb5fdb",
     "source": "Politico — UK",
     "title": "Digital ID for the UK — what we know and don’t know so far",
@@ -264,18 +312,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-99c39f6497",
-    "source": "BBC — Top Stories",
-    "title": "Nursery hackers threaten to publish more children's profiles online",
-    "summary": "The criminals say they will share 30 more profiles along with 100 employees' data if a ransom is not paid.",
-    "url": "https://www.bbc.com/news/articles/c07vxv8v89lo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T12:09:27Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2273/live/808869a0-9abf-11f0-b832-7b9888705b9b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-6da2e341ed",
     "source": "Politico — UK",
     "title": "Finland urges US to keep key military equipment in Europe",
@@ -288,6 +324,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-6bc8735117",
+    "source": "BBC — Top Stories",
+    "title": "Year to 2024 sees UK record second largest population growth in 75 years",
+    "summary": "Net international migration continues to be the main driver of this growth, the Office for National Statistics said.",
+    "url": "https://www.bbc.com/news/articles/cm2djl9jem7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T12:00:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9894/live/48e9e7a0-9acc-11f0-abef-4bf262341dd3.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-de750fd3b2",
     "source": "The Guardian — UK",
     "title": "Treasury ‘putting the squeeze’ on OBR over Labour growth plans amid tensions over downgrade",
@@ -295,6 +343,18 @@
     "url": "https://www.theguardian.com/business/2025/sep/26/treasury-putting-squeeze-on-obr-growth-plans-tensions-over-downgrade-rachel-reeves",
     "published": "2025-09-26T12:00:13Z",
     "image_url": "https://i.guim.co.uk/img/media/9778801a9cf5c943fcf8cd4e80853477c1f95f1e/1380_711_4669_3737/master/4669.jpg?width=140&quality=85&auto=format&fit=max&s=3d745fca298f7768cb65f26a3921add0",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e00597d7d7",
+    "source": "The Guardian — UK",
+    "title": "Reform UK’s ex-leader in Wales Nathan Gill pleads guilty to bribery charges",
+    "summary": "Gill admits eight counts of bribery relating to pro-Russia statements made in European parliament and articles The former leader of Reform UK in Wales has pleaded guilty to bribery charges relating to statements in favour of Russia in the European parliament. Nathan Gill, of Anglesey, north Wales, admitted eight counts of bribery between 6 December 2018 and 18 July 2019. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/26/reform-uk-ex-leader-wales-nathan-gill-pleads-guilty-bribery-charges",
+    "published": "2025-09-26T11:59:51Z",
+    "image_url": "https://i.guim.co.uk/img/media/32f212798b55140943b4b524661266f2276256ea/975_667_3992_3194/master/3992.jpg?width=140&quality=85&auto=format&fit=max&s=c73899934af7c634486801d4921210da",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -360,18 +420,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-4d8ccf55b7",
-    "source": "BBC — Top Stories",
-    "title": "Year 8 pupils to sit compulsory reading tests under new plans",
-    "summary": "The government says reading is key, but unions say it could lead to more stress for staff and students.",
-    "url": "https://www.bbc.com/news/articles/cm2dj1g9d4yo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T10:57:29Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e9/live/546f3d20-9ac0-11f0-8459-f985f888de2a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-c5b9425911",
     "source": "The Guardian — UK",
     "title": "Year 8 state school pupils in England could face mandatory reading tests",
@@ -391,18 +439,6 @@
     "url": "https://www.bbc.com/news/videos/cg5ege645reo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T10:02:14Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a0c/live/dcbf1430-9aba-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7f488f8a13",
-    "source": "BBC — Top Stories",
-    "title": "Tony Blair in discussions to run transitional Gaza authority",
-    "summary": "The former prime minister has been in high-level planning talks over the territory's future, the BBC understands.",
-    "url": "https://www.bbc.com/news/articles/c3drmk95xlzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T09:58:49Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4424/live/0fc44180-9aba-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -446,23 +482,11 @@
   {
     "id": "BBC — Top Stories-201e2e361f",
     "source": "BBC — Top Stories",
-    "title": "Chicken Shop Date's Amelia Dimoldenberg answers the questions for once",
+    "title": "Chicken Shop Date's Amelia Dimoldenberg on 10 years of her hit web series",
     "summary": "Amelia Dimoldenburg looks back on how a youth magazine column became a huge internet show.",
     "url": "https://www.bbc.com/news/articles/c3w57g0g5p2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T08:19:51Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b41b/live/61e171b0-9ab8-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-9b805f2a38",
-    "source": "The Guardian — UK",
-    "title": "Keir Starmer says digital ID cards an ‘enormous opportunity’ for the UK",
-    "summary": "PM to set out plans for compulsory ‘Brit card’ but faces opposition from civil liberty groups over privacy concerns UK politics – latest updates Digital ID cards present “an enormous opportunity” for the UK, Keir Starmer has said, as the government braces for a civil liberties row over the proposals. The prime minister will set out the measures on Friday morning at a conference on how progressive politicians can tackle the problems facing the UK, including addressing voter concerns around immigration. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/26/keir-starmer-digital-id-cards-enormous-opportunity-uk",
-    "published": "2025-09-26T07:53:16Z",
-    "image_url": "https://i.guim.co.uk/img/media/5f51011e1bf4656b5530a1252e0338b14be2c191/0_0_5010_4008/master/5010.jpg?width=140&quality=85&auto=format&fit=max&s=a91778f56751ecfe1f4299d26c16c429",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,30 +559,6 @@
     "url": "https://www.bbc.com/news/articles/c33r872egvjo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T03:26:01Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2e5/live/9ccd0ec0-9a9e-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-fad83b7cc4",
-    "source": "BBC — Top Stories",
-    "title": "How US megastar Luke Combs helped Britain fall in love with country music",
-    "summary": "The star looks forward to country music's famous Grand Ole Opry relocating from Nashville to London.",
-    "url": "https://www.bbc.com/news/articles/c87yl745xqlo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T01:07:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5af/live/a7e21870-9aa1-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a3cbbe9c45",
-    "source": "BBC — Top Stories",
-    "title": "Weekly quiz: Why did Dani Dyer pull out of Strictly?",
-    "summary": "How much attention did you pay to what happened in the world over the past seven days?",
-    "url": "https://www.bbc.com/news/articles/c33rm0ryjlxo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T18:55:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d3/live/53bf5e40-9a35-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
