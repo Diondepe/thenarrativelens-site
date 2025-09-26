@@ -120,6 +120,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-ad7a8c724f",
+    "source": "BBC — Top Stories",
+    "title": "Prince William shares a pint with Schitt's Creek star Eugene Levy",
+    "summary": "The Prince of Wales invites Schitt's Creek star Eugene Levy to Windsor Castle for his travel show.",
+    "url": "https://www.bbc.com/news/articles/cgrqdd4jvlyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T16:53:01Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4676/live/aef6e1e0-9aec-11f0-8ee5-3b441e09ef17.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-d398734acf",
     "source": "BBC — Top Stories",
     "title": "Netanyahu attacks Palestinian recognition as dozens walk out of UN speech",
@@ -391,18 +403,6 @@
     "url": "https://www.politico.eu/article/finland-urges-us-retain-military-equipment-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-26T12:03:25Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-2235186940.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6bc8735117",
-    "source": "BBC — Top Stories",
-    "title": "Year to 2024 sees UK record second largest population growth in 75 years",
-    "summary": "Net international migration continues to be the main driver of this growth, the Office for National Statistics said.",
-    "url": "https://www.bbc.com/news/articles/cm2djl9jem7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T12:00:23Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9894/live/48e9e7a0-9acc-11f0-abef-4bf262341dd3.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
