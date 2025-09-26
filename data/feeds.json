@@ -1,5 +1,29 @@
 [
   {
+    "id": "BBC — Top Stories-e142fc2bb2",
+    "source": "BBC — Top Stories",
+    "title": "Police watchdog removes some staff from Nottingham attacks investigation",
+    "summary": "An investigation by the watchdog into Leicestershire Police officers was reopened in March.",
+    "url": "https://www.bbc.com/news/articles/czxw18v9851o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T08:09:29Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2f2/live/eefbe110-9a6e-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-9b805f2a38",
+    "source": "The Guardian — UK",
+    "title": "Keir Starmer says digital ID cards an ‘enormous opportunity’ for the UK",
+    "summary": "PM to set out plans for compulsory ‘Brit card’ but faces opposition from civil liberty groups over privacy concerns UK politics – latest updates Digital ID cards present “an enormous opportunity” for the UK, Keir Starmer has said, as the government braces for a civil liberties row over the proposals. The prime minister will set out the measures on Friday morning at a conference on how progressive politicians can tackle the problems facing the UK, including addressing voter concerns around immigration. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/26/keir-starmer-digital-id-cards-enormous-opportunity-uk",
+    "published": "2025-09-26T07:53:16Z",
+    "image_url": "https://i.guim.co.uk/img/media/5f51011e1bf4656b5530a1252e0338b14be2c191/0_0_5010_4008/master/5010.jpg?width=140&quality=85&auto=format&fit=max&s=a91778f56751ecfe1f4299d26c16c429",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-f52ea8c912",
     "source": "The Guardian — UK",
     "title": "Labour MPs call for action to tackle deprivation in coastal ‘sea wall’ seats",
@@ -72,9 +96,21 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-f9f9262b60",
+    "source": "BBC — Top Stories",
+    "title": "Dahl, Torres and 'Keighley Queens' - the making of Kildunne",
+    "summary": "Ellie Kildunne went from not having a rugby club to playing for England in four years. A World Cup win would confirm the sport's new superstar.",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/cx2xpxl5lwvo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T05:29:19Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd9b/live/def5fe70-9967-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-22672e1386",
     "source": "BBC — Top Stories",
-    "title": "Watch: How antisocial acts leave locals living in fear",
+    "title": "'I've got to get out of here': Antisocial acts leave locals living in fear",
     "summary": "People living in Portsmouth have told the BBC's Dan Johnson they feel unsafe in their own homes.",
     "url": "https://www.bbc.com/news/videos/c0jqv18yd5eo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T05:06:07Z",
@@ -396,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-c55d1beb8d",
-    "source": "BBC — Top Stories",
-    "title": "PM compares Burnham's economic proposals to Truss 'disaster'",
-    "summary": "Sir Keir Starmer's comments follow criticism of his leadership from the Mayor of Manchester.",
-    "url": "https://www.bbc.com/news/articles/cly0n24k04ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T21:59:23Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7e0/live/71049af0-9a4a-11f0-97bc-a980e58f8f49.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-46b82239f0",
     "source": "The Guardian — UK",
     "title": "Starmer to unveil digital ID cards in plan set to ignite civil liberties row",
@@ -432,25 +456,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-b74829a4f1",
+    "id": "BBC — Top Stories-38e226523b",
     "source": "BBC — Top Stories",
-    "title": "McIlroy & Fleetwood to reunite in foursomes on Ryder Cup's opening day",
-    "summary": "European captain Luke Donald picks a series of heavyweight pairings as he looks for the visitors to make a fast start at Bethpage.",
-    "url": "https://www.bbc.com/sport/golf/articles/cqlz4ry27ywo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T20:11:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1be5/live/09cc0410-9a4d-11f0-97bc-a980e58f8f49.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-ad2e00049b",
-    "source": "The Guardian — UK",
-    "title": "Argyle Street ash in Glasgow wins tree of the year competition",
-    "summary": "Beloved specimen triumphs in Woodland Trust contest over ‘King of Limbs’ oak in Wiltshire A much-loved ash tree in the heart of Glasgow has won the annual tree of the year competition organised by the Woodland Trust. While many trees that have featured in the competition are located in the remote British countryside, the Argyle Street ash is on one of the city’s busiest roads. Continue reading...",
-    "url": "https://www.theguardian.com/environment/2025/sep/25/argyle-street-ash-glasgow-wins-woodland-trust-tree-of-the-year-competition",
-    "published": "2025-09-25T19:00:45Z",
-    "image_url": "https://i.guim.co.uk/img/media/9cb9cc776ed1e809fdd9d627beef74002172c099/594_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=9fad5a7763ab471928b26ca26f73aaea",
+    "title": "Glasgow's Argyle Street Ash wins Tree of the Year title",
+    "summary": "The tree defeated nine other contenders in a public vote to win the annual prize.",
+    "url": "https://www.bbc.com/news/articles/c4g79nngdj1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T19:00:25Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f938/live/75681980-5dac-11f0-960d-e9f1088a89fe.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,18 +547,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/25/fate-of-hundreds-arrested-for-alleged-palestine-action-support-in-limbo-if-challenge-to-ban-is-blocked-court-told",
     "published": "2025-09-25T17:01:52Z",
     "image_url": "https://i.guim.co.uk/img/media/a2e68f9c557b3b750c5dfeeda52bbf977e45697a/825_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=d8ebd8009a3c0b48d8c72507624f47d6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-415420e2ec",
-    "source": "BBC — Top Stories",
-    "title": "Names, pictures and addresses of 8,000 children stolen in nursery chain hack",
-    "summary": "Experts have condemned the hack as an \"absolute new low\" for cyber-crime.",
-    "url": "https://www.bbc.com/news/articles/c62ldyvpwv9o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T17:00:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a8/live/472be100-9a29-11f0-97f5-bd38218a3641.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
