@@ -1,8 +1,44 @@
 [
   {
+    "id": "BBC — Top Stories-f4167e768c",
+    "source": "BBC — Top Stories",
+    "title": "Former FBI director James Comey indicted on two charges",
+    "summary": "James Comey says he is innocent after being accused of lying to Congress in 2020 while testifying about leaks to the media.",
+    "url": "https://www.bbc.com/news/articles/cy50ggv35zpo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T06:05:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/267c/live/beb29810-9a72-11f0-85fc-9b9ff658e449.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-039de51f88",
+    "source": "The Guardian — UK",
+    "title": "Ministers plan to allow naming and shaming of offenders completing community sentences",
+    "summary": "Exclusive: critics say the move, part of the sentencing bill for England and Wales, would bring shame upon families of offenders Ministers are pushing through powers to photograph, name and shame offenders who have been ordered to complete unpaid community work in England and Wales. The sentencing bill , now moving through parliament, will for the first time give probation officers “a legal power” to take and publish the names and pictures of individuals ordered by courts to tidy grass verges, litter-pick or scrub graffiti. Continue reading...",
+    "url": "https://www.theguardian.com/law/2025/sep/26/offenders-unpaid-work-england-wales-could-be-named-and-shamed",
+    "published": "2025-09-26T06:00:03Z",
+    "image_url": "https://i.guim.co.uk/img/media/9cbfd66c3873b65ccb4c289e7f40c4a22704ef05/0_951_2704_2163/master/2704.jpg?width=140&quality=85&auto=format&fit=max&s=f243dad4aae432f8a3efc72c75fa096e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b81a1d91c3",
+    "source": "BBC — Top Stories",
+    "title": "Chris Mason: Starmer's irritation with Burnham shows as he seeks to tackle critics",
+    "summary": "Andy Burnham's recent remarks seem to have narked the prime minister, our political editor writes.",
+    "url": "https://www.bbc.com/news/articles/cly19zld70qo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T05:36:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b01/live/3c600720-9a9b-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-22672e1386",
     "source": "BBC — Top Stories",
-    "title": "'I've got to get out of here': Antisocial acts leave locals living in fear",
+    "title": "Watch: How antisocial acts leave locals living in fear",
     "summary": "People living in Portsmouth have told the BBC's Dan Johnson they feel unsafe in their own homes.",
     "url": "https://www.bbc.com/news/videos/c0jqv18yd5eo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T05:06:07Z",
@@ -38,7 +74,7 @@
   {
     "id": "BBC — Top Stories-4ce98d21c0",
     "source": "BBC — Top Stories",
-    "title": "No 'pensioner deportations' under Reform, says Kruger",
+    "title": "No 'pensioner deportations' under Reform, says newly recruited MP Kruger",
     "summary": "The MP for East Wiltshire was responding to concerns about scrapping indefinite leave to remain.",
     "url": "https://www.bbc.com/news/articles/cy9nyex12j5o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T05:00:53Z",
@@ -60,25 +96,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-cba49c0d4f",
+    "id": "BBC — Top Stories-3902de2eba",
     "source": "BBC — Top Stories",
-    "title": "Drone attacks leave Denmark exposed - and searching for response",
-    "summary": "In an era of hybrid warfare, there is a sense of embarrassment that Denmark's critical infrastructure has become vulnerable.",
-    "url": "https://www.bbc.com/news/articles/c4g96gvql99o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T04:38:35Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e14b/live/0090ac50-9a5e-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b81a1d91c3",
-    "source": "BBC — Top Stories",
-    "title": "Chris Mason: Starmer's irritation with Burnham shows as he seeks to tackle critics",
-    "summary": "Andy Burnham's recent remarks seem to have narked the prime minister, our political editor writes.",
-    "url": "https://www.bbc.com/news/articles/cly19zld70qo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T04:30:21Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a419/live/0b04f540-9a79-11f0-928c-71dbb8619e94.jpg",
+    "title": "Trump announces new tariffs on drugs, trucks and kitchen cabinets",
+    "summary": "The US president said the move aims to help protect American manufacturers from foreign imports.",
+    "url": "https://www.bbc.com/news/articles/crkjreprp3po?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T04:05:20Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed0c/live/0f72d480-9a6a-11f0-b39f-8faa1a82cdd5.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -114,19 +138,7 @@
     "summary": "The criminal case against Comey fulfils the president's desire to seek retribution and further raises concerns about abuse of power.",
     "url": "https://www.bbc.com/news/articles/c33r872egvjo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T03:26:01Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8934/live/f48932e0-9a87-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-d1b7a6ae0f",
-    "source": "BBC — Top Stories",
-    "title": "Starmer says Labour shied away from illegal immigration concerns",
-    "summary": "The prime minister is expected to announce plans for a compulsory UK-wide digital ID scheme.",
-    "url": "https://www.bbc.com/news/articles/cn832y43ql5o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T02:30:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb5f/live/89c583d0-9a66-11f0-97f5-bd38218a3641.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2e5/live/9ccd0ec0-9a9e-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -151,18 +163,6 @@
     "url": "https://www.politico.eu/article/china-offers-unlikely-glimmer-hope-fight-against-plastic-pollution/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-26T02:18:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/12/plastic-waste-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f4167e768c",
-    "source": "BBC — Top Stories",
-    "title": "Former FBI director James Comey indicted on two charges",
-    "summary": "James Comey says he is innocent after being accused of lying to Congress in 2020 while testifying about leaks to the media.",
-    "url": "https://www.bbc.com/news/articles/cy50ggv35zpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T02:17:43Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/267c/live/beb29810-9a72-11f0-85fc-9b9ff658e449.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -282,7 +282,7 @@
     "summary": "The star looks forward to country music's famous Grand Ole Opry relocating from Nashville to London.",
     "url": "https://www.bbc.com/news/articles/c87yl745xqlo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T01:07:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2df/live/03744d70-9a20-11f0-89b7-f92e020b4774.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5af/live/a7e21870-9aa1-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -348,18 +348,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-50e32b3062",
-    "source": "The Guardian — UK",
-    "title": "UK government backs return of international rail travel to Kent stations",
-    "summary": "Ashford and Ebbsfleet have been shut to cross-Channel services since 2020, with Eurostar calling them unviable Hopes that international rail services could return to UK stations abandoned by Eurostar have grown, with the government backing new competitors who plan to serve stops in Kent. Ministers have been leaning on the rail regulator to give crucial space on the railway to prospective entrants who pledge to bring cross-Channel services back to Ashford and Ebbsfleet stations – and possibly London’s Stratford International. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/26/uk-government-backs-return-of-international-rail-travel-to-kent-stations",
-    "published": "2025-09-25T23:01:50Z",
-    "image_url": "https://i.guim.co.uk/img/media/9cd008bd9bbf79baddeea4106450bdf7ecbfa412/185_0_2200_1761/master/2200.jpg?width=140&quality=85&auto=format&fit=max&s=40f026f7c3b47db1a8bdd18d79fb7c14",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-f232a6d817",
     "source": "The Guardian — UK",
     "title": "Fighter jets purchase would put UK in breach of nuclear treaty, says CND",
@@ -372,6 +360,18 @@
     "cluster_id": null
   },
   {
+    "id": "The Guardian — UK-50e32b3062",
+    "source": "The Guardian — UK",
+    "title": "UK government backs return of international rail travel to Kent stations",
+    "summary": "Ashford and Ebbsfleet have been shut to cross-Channel services since 2020, with Eurostar calling them unviable Hopes that international rail services could return to UK stations abandoned by Eurostar have grown, with the government backing new competitors who plan to serve stops in Kent. Ministers have been leaning on the rail regulator to give crucial space on the railway to prospective entrants who pledge to bring cross-Channel services back to Ashford and Ebbsfleet stations – and possibly London’s Stratford International. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/26/uk-government-backs-return-of-international-rail-travel-to-kent-stations",
+    "published": "2025-09-25T23:01:50Z",
+    "image_url": "https://i.guim.co.uk/img/media/9cd008bd9bbf79baddeea4106450bdf7ecbfa412/185_0_2200_1761/master/2200.jpg?width=140&quality=85&auto=format&fit=max&s=40f026f7c3b47db1a8bdd18d79fb7c14",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-1414985cb5",
     "source": "BBC — Top Stories",
     "title": "China launches campaign to keep killjoys off the internet",
@@ -379,6 +379,18 @@
     "url": "https://www.bbc.com/news/articles/c39r7p47wzgo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T22:01:24Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3274/live/90509f20-9a96-11f0-88f7-0f8a7eda6f0c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c55d1beb8d",
+    "source": "BBC — Top Stories",
+    "title": "PM compares Burnham's economic proposals to Truss 'disaster'",
+    "summary": "Sir Keir Starmer's comments follow criticism of his leadership from the Mayor of Manchester.",
+    "url": "https://www.bbc.com/news/articles/cly0n24k04ro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T21:59:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7e0/live/71049af0-9a4a-11f0-97bc-a980e58f8f49.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -403,6 +415,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/25/actor-noel-clarke-arrested-at-family-home-in-london",
     "published": "2025-09-25T20:43:20Z",
     "image_url": "https://i.guim.co.uk/img/media/1a7e70bc2795bc576abe0641cdb153ff2c68f4bc/391_0_3238_2591/master/3238.jpg?width=140&quality=85&auto=format&fit=max&s=60b301827cf94489c60939ebb189017f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b74829a4f1",
+    "source": "BBC — Top Stories",
+    "title": "McIlroy & Fleetwood to reunite in foursomes on Ryder Cup's opening day",
+    "summary": "European captain Luke Donald picks a series of heavyweight pairings as he looks for the visitors to make a fast start at Bethpage.",
+    "url": "https://www.bbc.com/sport/golf/articles/cqlz4ry27ywo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T20:11:06Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1be5/live/09cc0410-9a4d-11f0-97bc-a980e58f8f49.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -468,13 +492,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-44d206df89",
+    "id": "The Guardian — UK-7357e749f6",
     "source": "The Guardian — UK",
-    "title": "Labour’s internal warfare breaks open as Starmer and ministers criticise Andy Burnham",
-    "summary": "Starmer understood to be furious at Greater Manchester mayor’s admission that he would seek to challenge for the leadership Labour’s internal warfare broke into the open on Thursday as Keir Starmer and several cabinet ministers criticised Andy Burnham over his comments dismissing the bond markets. Senior party figures compared the Greater Manchester mayor’s attitude to the cavalier approach taken by the former Conservative prime minister, Liz Truss, in a sign of how low relations between No 10 and Burnham have plunged. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/25/labour-internal-warfare-breaks-open-as-keir-starmer-and-ministers-criticise-andy-burnham",
-    "published": "2025-09-25T17:43:38Z",
-    "image_url": "https://i.guim.co.uk/img/media/6a89f0e5950f5b56382f9799a8495ddf4f67bf19/643_0_4355_3486/master/4355.jpg?width=140&quality=85&auto=format&fit=max&s=0b0369ee191b943a914021a3eb2bb09b",
+    "title": "Andy Burnham alarms investors with call to end UK dependence on foreign lenders",
+    "summary": "Approach would risk fresh bond market crisis, say investors, amid speculation Greater Manchester mayor is seeking Westminster return A call to end the UK’s dependence on foreign lenders by Andy Burnham has been criticised by City investors who said such an approach would risk another bond market crisis. The mayor of Greater Manchester said the UK should not be “in hock” to bond markets as he outlined measures that he believed a Labour government should pursue, including a big council housebuilding programme and the nationalisation of utilities paid for with a rise in taxes on the higher paid, a charge on expensive London homes and £40bn of extra borrowing. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/25/andy-burnham-alarms-city-call-end-uk-dependence-foreign-lenders",
+    "published": "2025-09-25T17:30:38Z",
+    "image_url": "https://i.guim.co.uk/img/media/93d8aac844ca47fa2b147d810ad5e441a0fc9b1f/388_116_3967_3173/master/3967.jpg?width=140&quality=85&auto=format&fit=max&s=2d5b665f6e1ab006cca3ea894c8d1065",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -492,30 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a4973dc190",
-    "source": "BBC — Top Stories",
-    "title": "High Streets and rundown spaces to get £5bn boost - is your area on the list?",
-    "summary": "Under the Pride in Place programme, 169 communities will get £20m over a decade to spend on boosting their local area.",
-    "url": "https://www.bbc.com/news/articles/c1mx8vr2gr1o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T17:14:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e6e/live/98e71050-9a01-11f0-8db4-51edddaa67df.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-20055d0dae",
-    "source": "BBC — Top Stories",
-    "title": "From former president to future prisoner: Sarkozy's conviction divides France",
-    "summary": "Sarkozy is back where he used to be – dominating the news and dividing the nation, writes the BBC's Hugh Schofield.",
-    "url": "https://www.bbc.com/news/articles/c0r09r29pw8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T17:06:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/398a/live/caf50ec0-9a34-11f0-97f5-bd38218a3641.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-0e6100edab",
     "source": "The Guardian — UK",
     "title": "Fate of hundreds arrested for alleged Palestine Action support in limbo if challenge to ban is blocked, court told",
@@ -523,6 +523,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/25/fate-of-hundreds-arrested-for-alleged-palestine-action-support-in-limbo-if-challenge-to-ban-is-blocked-court-told",
     "published": "2025-09-25T17:01:52Z",
     "image_url": "https://i.guim.co.uk/img/media/a2e68f9c557b3b750c5dfeeda52bbf977e45697a/825_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=d8ebd8009a3c0b48d8c72507624f47d6",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-415420e2ec",
+    "source": "BBC — Top Stories",
+    "title": "Names, pictures and addresses of 8,000 children stolen in nursery chain hack",
+    "summary": "Experts have condemned the hack as an \"absolute new low\" for cyber-crime.",
+    "url": "https://www.bbc.com/news/articles/c62ldyvpwv9o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T17:00:38Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a8/live/472be100-9a29-11f0-97f5-bd38218a3641.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -547,18 +559,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/25/what-is-the-labour-together-row-keir-starmer-risks",
     "published": "2025-09-25T14:15:28Z",
     "image_url": "https://i.guim.co.uk/img/media/ab99bfbff1be63d2f63f1bf356c8acf01eb867ef/62_23_891_712/master/891.jpg?width=140&quality=85&auto=format&fit=max&s=4fd4c9a3f15c41b0489a9c600a60ba7f",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-0ed074a591",
-    "source": "The Guardian — UK",
-    "title": "Andy Burnham calls two-child benefit limit the ‘worst of Westminster’",
-    "summary": "Exclusive: Greater Manchester mayor says policy introduced in 2017 is arbitrary and cannot be justified Andy Burnham has thrown further weight behind calls to scrap the two-child benefit limit, calling it an abhorrent policy that represents the “worst of Westminster”. The two-child limit, which was introduced by the Conservative government in 2017, only allows families to claim universal credit and tax credits for up to two children. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/25/andy-burnham-calls-two-child-benefit-limit-the-worst-of-westminster",
-    "published": "2025-09-25T13:56:36Z",
-    "image_url": "https://i.guim.co.uk/img/media/351d549f47d01c9d8533975fa94569bf659d5cec/125_225_5659_4527/master/5659.jpg?width=140&quality=85&auto=format&fit=max&s=b8785dad87d592cebdb8de1b62a44c0b",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
