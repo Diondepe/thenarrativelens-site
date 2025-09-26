@@ -1,5 +1,77 @@
 [
   {
+    "id": "The Guardian — UK-c93c76335a",
+    "source": "The Guardian — UK",
+    "title": "What are the critical environmental decisions piling up in Labour’s inbox?",
+    "summary": "From airport expansion to North Sea oil, the government is being pulled in multiple directions on a range of issues Climate change scepticism is rising. Will Starmer hold firm or buckle? Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/sep/26/what-are-the-critical-environmental-decisions-piling-up-in-labours-inbox",
+    "published": "2025-09-26T09:00:03Z",
+    "image_url": "https://i.guim.co.uk/img/media/fef96f2528b049eb5c5f65f42ec7fb6f7e9c9668/0_0_4260_3407/master/4260.jpg?width=140&quality=85&auto=format&fit=max&s=8c7e15967d1097f34cf57a08759e750d",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-c9fdae688e",
+    "source": "The Guardian — UK",
+    "title": "IOPC investigators allegedly said Nottingham stabbings inquiry was ‘politically motivated’",
+    "summary": "Mother of victim Barnaby Webber says allegations about watchdog staff have left families asking whom they can trust Police watchdog investigators who are alleged to have described an inquiry into the 2023 Nottingham stabbings as politically motivated are “disrespectful and inhumane”, the mother of one victim has said. Emma Webber said new allegations about staff at the Independent Office for Police Conduct (IOPC) had left families asking whom they could trust. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/26/iopc-nottingham-stabbings-inquiry-politically-motivated",
+    "published": "2025-09-26T08:49:09Z",
+    "image_url": "https://i.guim.co.uk/img/media/a79ed4a4f912d2f6aaeb5c708ea2be4dae076be3/1184_246_2316_1853/master/2316.jpg?width=140&quality=85&auto=format&fit=max&s=54959888ab7efa241ace6f33aaaad8ba",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-5f6a54f775",
+    "source": "Politico — UK",
+    "title": "Europe is at hybrid war, Danish prime minister announces",
+    "summary": "There is one obvious antagonist \"and that is Russia,\" Mette Frederiksen says.",
+    "url": "https://www.politico.eu/article/europe-hybrid-war-danish-prime-minister-says-russia-drones/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-26T08:36:43Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-2236413560-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7f488f8a13",
+    "source": "BBC — Top Stories",
+    "title": "Tony Blair in discussions to run transitional Gaza authority",
+    "summary": "The former prime minister has been in high-level planning talks over the territory's future, the BBC understands.",
+    "url": "https://www.bbc.com/news/articles/c3drmk95xlzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T08:36:30Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0372/live/4e7a88b0-9a80-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-89ed5b8055",
+    "source": "The Guardian — UK",
+    "title": "Farage endangering women by failing to condemn paracetamol claims, says Bridget Phillipson",
+    "summary": "Labour deputy leader candidate criticises ‘scaremongering’ on autism and says party must be firmer in tackling Reform UK politics live – latest updates Nigel Farage is “endangering women’s health” by failing to condemn Donald Trump’s claims that using paracetamol during pregnancy causes autism, Bridget Phillipson has said. The education secretary and minister for women said she had used the painkiller throughout her second pregnancy, and she warned that Reform’s connections with medical conspiracy theories including anti-vaccine rhetoric made the party a danger to public health. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/26/nigel-farage-endangering-womens-health-paracetamol-claims-bridget-phillipson-labour",
+    "published": "2025-09-26T08:26:35Z",
+    "image_url": "https://i.guim.co.uk/img/media/462f91fd6c000a5f55b0179bdd98d9c78cf7014d/185_91_1743_1393/master/1743.jpg?width=140&quality=85&auto=format&fit=max&s=6d35e4548d0c3ea03f5665db9382150e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-e9e0fc7be4",
+    "source": "Politico — UK",
+    "title": "Israel faces expulsion from Eurovision in November vote",
+    "summary": "An expanding group of countries want Israel out over its war in Gaza.",
+    "url": "https://www.politico.eu/article/countries-vote-israel-participation-eurovision-november/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-26T08:26:21Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-2214795526-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-e142fc2bb2",
     "source": "BBC — Top Stories",
     "title": "Police watchdog removes some staff from Nottingham attacks investigation",
@@ -48,25 +120,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-7f488f8a13",
-    "source": "BBC — Top Stories",
-    "title": "Tony Blair in discussions to run transitional Gaza authority",
-    "summary": "The former prime minister has been in high-level planning talks over the territory's future, the BBC understands.",
-    "url": "https://www.bbc.com/news/articles/c3drmk95xlzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T06:24:58Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0372/live/4e7a88b0-9a80-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-f4167e768c",
     "source": "BBC — Top Stories",
     "title": "Former FBI director James Comey indicted on two charges",
-    "summary": "James Comey says he is innocent after being accused of lying to Congress in 2020 while testifying about leaks to the media.",
+    "summary": "James Comey says he is innocent and the charges are politically motivated, as they follow Trump pressure on prosecutors to act.",
     "url": "https://www.bbc.com/news/articles/cy50ggv35zpo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T06:05:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/267c/live/beb29810-9a72-11f0-85fc-9b9ff658e449.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48d1/live/58829c20-9ab8-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -98,7 +158,7 @@
   {
     "id": "BBC — Top Stories-f9f9262b60",
     "source": "BBC — Top Stories",
-    "title": "Dahl, Torres and 'Keighley Queens' - the making of Kildunne",
+    "title": "Ellie Kildunne chose rugby over netball aged 11. Now she's in a World Cup final",
     "summary": "Ellie Kildunne went from not having a rugby club to playing for England in four years. A World Cup win would confirm the sport's new superstar.",
     "url": "https://www.bbc.com/sport/rugby-union/articles/cx2xpxl5lwvo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T05:29:19Z",
@@ -276,30 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-8790dd2254",
-    "source": "Politico — UK",
-    "title": "What do Gen Z want?",
-    "summary": "Four and a half thousand miles away in Nepal, Gen Z protestors recently brought down their government in just 48 hours, amid roiling anger over corruption and nepotism. The uprising, led by online influencers harnessing the power of AI and Tik Tok, has sent shockwaves through South Asia. So, this week on Westminster Insider, host Patrick Baker decides […]",
-    "url": "https://www.politico.eu/podcast/westminster-insider/what-do-gen-z-want/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-26T02:01:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/03/13/Westminster-Insider-Website-Card.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-1960c2d12f",
-    "source": "Politico — UK",
-    "title": "3 top Italian government officials accused of helping Libyan warlord flee justice",
-    "summary": "Italy's parliament will vote on Tuesday on whether two ministers and a cabinet secretary can be prosecuted over the case.",
-    "url": "https://www.politico.eu/article/libya-justice-war-italy-giorgia-meloni-osama-almasri-njeem-icc/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-26T02:01:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/12800827-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-88f611f139",
     "source": "BBC — Top Stories",
     "title": "Reform faces questions over tech investor's role in cost-cutting drive",
@@ -378,7 +414,7 @@
     "summary": "Opponents fear plans to close more than100 branches could put the charity’s ability to answer calls in doubt.",
     "url": "https://www.bbc.com/news/articles/c931w38kdqwo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T23:12:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8925/live/f55f3a00-9aa7-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd6f/live/9636e270-9a17-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -396,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-50e32b3062",
-    "source": "The Guardian — UK",
-    "title": "UK government backs return of international rail travel to Kent stations",
-    "summary": "Ashford and Ebbsfleet have been shut to cross-Channel services since 2020, with Eurostar calling them unviable Hopes that international rail services could return to UK stations abandoned by Eurostar have grown, with the government backing new competitors who plan to serve stops in Kent. Ministers have been leaning on the rail regulator to give crucial space on the railway to prospective entrants who pledge to bring cross-Channel services back to Ashford and Ebbsfleet stations – and possibly London’s Stratford International. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/26/uk-government-backs-return-of-international-rail-travel-to-kent-stations",
-    "published": "2025-09-25T23:01:50Z",
-    "image_url": "https://i.guim.co.uk/img/media/9cd008bd9bbf79baddeea4106450bdf7ecbfa412/185_0_2200_1761/master/2200.jpg?width=140&quality=85&auto=format&fit=max&s=40f026f7c3b47db1a8bdd18d79fb7c14",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-f232a6d817",
     "source": "The Guardian — UK",
     "title": "Fighter jets purchase would put UK in breach of nuclear treaty, says CND",
@@ -420,6 +444,18 @@
     "cluster_id": null
   },
   {
+    "id": "The Guardian — UK-50e32b3062",
+    "source": "The Guardian — UK",
+    "title": "UK government backs return of international rail travel to Kent stations",
+    "summary": "Ashford and Ebbsfleet have been shut to cross-Channel services since 2020, with Eurostar calling them unviable Hopes that international rail services could return to UK stations abandoned by Eurostar have grown, with the government backing new competitors who plan to serve stops in Kent. Ministers have been leaning on the rail regulator to give crucial space on the railway to prospective entrants who pledge to bring cross-Channel services back to Ashford and Ebbsfleet stations – and possibly London’s Stratford International. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/26/uk-government-backs-return-of-international-rail-travel-to-kent-stations",
+    "published": "2025-09-25T23:01:50Z",
+    "image_url": "https://i.guim.co.uk/img/media/b7556c5b114a15b6a976f431fae1523a4c6f9547/55_382_3842_3074/master/3842.jpg?width=140&quality=85&auto=format&fit=max&s=badc678766d76bb99fb7456bcd53cfbe",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-1414985cb5",
     "source": "BBC — Top Stories",
     "title": "China launches campaign to keep killjoys off the internet",
@@ -427,30 +463,6 @@
     "url": "https://www.bbc.com/news/articles/c39r7p47wzgo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-25T22:01:24Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3274/live/90509f20-9a96-11f0-88f7-0f8a7eda6f0c.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-46b82239f0",
-    "source": "The Guardian — UK",
-    "title": "Starmer to unveil digital ID cards in plan set to ignite civil liberties row",
-    "summary": "‘Brit card’ already facing opposition from privacy campaigners as government looks for ways to tackle illegal immigration All working adults will need digital ID cards under plans to be announced by Keir Starmer, in a move that will spark a battle with civil liberties campaigners. The prime minister will set out the measures on Friday at a conference on how progressive politicians can tackle the problems facing the UK, including addressing voter concerns around immigration. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/25/keir-starmer-expected-to-announce-plans-for-digital-id-cards",
-    "published": "2025-09-25T21:33:41Z",
-    "image_url": "https://i.guim.co.uk/img/media/925d7155fbeebfc18429c7f8283b1c30d5edae76/328_0_2633_2106/master/2633.jpg?width=140&quality=85&auto=format&fit=max&s=102dcac7814fa379dd225bd76c29d79c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-47ce25deb3",
-    "source": "The Guardian — UK",
-    "title": "Actor Noel Clarke arrested at family home in London",
-    "summary": "Police search former Doctor Who star’s property and are seen leaving with boxes The actor Noel Clarke has been arrested by police at his family home in London. Detectives searched the former Doctor Who star’s property in Kensington on Thursday and officers were seen leaving the address with boxes apparently containing a laptop and documents. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/25/actor-noel-clarke-arrested-at-family-home-in-london",
-    "published": "2025-09-25T20:43:20Z",
-    "image_url": "https://i.guim.co.uk/img/media/1a7e70bc2795bc576abe0641cdb153ff2c68f4bc/391_0_3238_2591/master/3238.jpg?width=140&quality=85&auto=format&fit=max&s=60b301827cf94489c60939ebb189017f",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -583,18 +595,6 @@
     "url": "https://www.theguardian.com/us-news/2025/sep/24/trumps-un-speech-what-he-said-about-london-oil-and-the-uks-green-policies",
     "published": "2025-09-24T17:44:08Z",
     "image_url": "https://i.guim.co.uk/img/media/d2b58ba15f3ec4c8c8756b3c7915a738a07a1383/549_44_1850_1480/master/1850.jpg?width=140&quality=85&auto=format&fit=max&s=0a9ae1552447999155504bf78bd20add",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-b6c1ad049e",
-    "source": "The Guardian — UK",
-    "title": "Keir Starmer’s relationship with his chief of staff faces biggest test yet",
-    "summary": "Morgan McSweeney under spotlight over late declarations of donations to thinktank when he was its director Labour says Starmer’s 2020 leadership campaign paid McSweeney salary History is littered with the resignation letters of those who have tried to drive a wedge between Keir Starmer and Morgan McSweeney. But that relationship is now facing its biggest test with the spotlight on the conduct of McSweeney as the former director of the Labour Together thinktank and whether there was any ill intent behind late declarations of more than £700,000 in donations . Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/24/keir-starmers-relationship-with-his-chief-of-staff-faces-biggest-test-yet",
-    "published": "2025-09-24T17:39:37Z",
-    "image_url": "https://i.guim.co.uk/img/media/3b66b4bb326dcb7f852b702883723e5194251ed6/0_3_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=f67439ee53f617f57b936f5510fe1dbf",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
