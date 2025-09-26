@@ -1,9 +1,33 @@
 [
   {
+    "id": "BBC — Top Stories-503b329ccb",
+    "source": "BBC — Top Stories",
+    "title": "Will digital ID cards stop illegal working?",
+    "summary": "The scheme is being billed by No 10 as a way of cracking down on migrants who do not have the right to earn wages in the UK.",
+    "url": "https://www.bbc.com/news/articles/c740vjrp81po?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T14:05:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66f8/live/05358330-9ad5-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-9f59ab5288",
+    "source": "The Guardian — UK",
+    "title": "Samaritans volunteers could quit if branches are closed, say local directors",
+    "summary": "Charity’s board accused of failing to listen ahead of decision expected this weekend on ‘future-proofing’ plans Samaritans has been warned that thousands of its helpline volunteers could quit if controversial proposals to close half of its 200 local branches over the next decade go ahead. The mental health charity, sometimes regarded as the fourth emergency service, has about 22,000 volunteers answering calls and messages from people in crisis in the UK and Ireland. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/sep/26/samaritans-helpline-volunteers-could-quit-if-plans-to-close-branches-go-ahead-say-local-directors",
+    "published": "2025-09-26T13:32:28Z",
+    "image_url": "https://i.guim.co.uk/img/media/08b4dfc1083175d1fa5ea5f892687050b0c41248/1_97_3767_3013/master/3767.jpg?width=140&quality=85&auto=format&fit=max&s=bfd000d9693c2c458547591ebba09482",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-af520ef9dc",
     "source": "The Guardian — UK",
     "title": "Scottish Prison Service admits human rights law breach over death in custody",
-    "summary": "Police Scotland and Crown Office also make admissions in court relating to death of Allan Marshall in 2015 The Scottish Prison Service has admitted breaching human rights law by causing the death of a man who was restrained by 17 officers and has apologised to his family. In a series of unprecedented admissions, Police Scotland and the Crown Office accepted they similarly breached Allan Marshall’s right to life under article 2 of the European convention on human rights when they failed to carry out an adequate investigation into his death in custody. Continue reading...",
+    "summary": "Police Scotland and Crown Office also make admissions in court relating to death of Allan Marshall in 2015 The Scottish Prison Service has admitted breaching human rights law by causing the death of a man who was restrained by 17 officers and has apologised to his family. Police Scotland also apologised to the family. In a series of unprecedented admissions, Police Scotland and the Crown Office accepted they similarly breached Allan Marshall’s right to life under article 2 of the European convention on human rights when they failed to carry out an adequate investigation into his death in custody. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/sep/26/scottish-prison-service-admits-human-rights-law-breach-death-custody",
     "published": "2025-09-26T13:11:01Z",
     "image_url": "https://i.guim.co.uk/img/media/e5065b5c55cc028748e41e877d644764e6106670/60_577_821_656/master/821.jpg?width=140&quality=85&auto=format&fit=max&s=7125fb58e7b87bb7b600d7896c108cdb",
@@ -14,8 +38,8 @@
   {
     "id": "The Guardian — UK-e6bb93b53f",
     "source": "The Guardian — UK",
-    "title": "‘Politicians must confront lies used by populists’, Starmer says in London summit address",
-    "summary": "In speech to Global Progress Action summit, PM criticises rhetoric describing London as ‘decaying and lawless ’ UK politics live – latest updates Progressive politicians must directly confront the “lies” used by populists and counter their “industrialised infrastructure of grievance”, Keir Starmer has said in a speech that included thinly veiled criticism of the rhetoric of Donald Trump. Addressing the Global Progress Action summit in London, where he also spoke publicly for the first time about the new plan for mandatory ID cards, Starmer took aim at the idea of London as a decaying, dangerous city, one put forward repeatedly by the US president. Continue reading...",
+    "title": "Politicians must confront lies used by populists, Starmer tells London summit",
+    "summary": "In speech to Global Progress Action summit, PM criticises rhetoric describing London as ‘decaying and lawless’ UK politics live – latest updates Progressive politicians must directly confront the “lies” used by populists and counter their “industrialised infrastructure of grievance”, Keir Starmer has said in a speech that included thinly veiled criticism of Donald Trump’s rhetoric. Addressing the Global Progress Action summit in London, where he also spoke publicly for the first time about the plan for mandatory ID cards , Starmer took aim at the idea of London as a decaying, dangerous city, one put forward repeatedly by the US president. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/26/keir-starmer-london-uk-politics-trump",
     "published": "2025-09-26T13:05:44Z",
     "image_url": "https://i.guim.co.uk/img/media/9dab717617bf2136ea967a62c17e54190ed3988b/690_0_4284_3427/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=5f3d48da5a018b96cf5fa0fb77fa9286",
@@ -30,7 +54,7 @@
     "summary": "Digital ID is being pitched by Keir Starmer as a way to curb illegal migration — but how will it work?",
     "url": "https://www.politico.eu/article/digital-id-uk-what-we-know-and-dont-know-starmer-immigration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-26T12:54:37Z",
-    "image_url": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/starmer-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -96,13 +120,25 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-d1b7a6ae0f",
+    "source": "BBC — Top Stories",
+    "title": "New digital ID will be mandatory to work in the UK, Starmer says",
+    "summary": "PM says the scheme will make it harder to work illegally but opposition parties argue it won't stop small boat crossings.",
+    "url": "https://www.bbc.com/news/articles/cn832y43ql5o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T12:17:26Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc39/live/a2647d70-9add-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-782af8d01b",
     "source": "BBC — Top Stories",
-    "title": "What is the plan for digital IDs and will they be mandatory?",
+    "title": "Why is the government introducing digital IDs?",
     "summary": "The IDs will not have to be carried day-to-day, but they will be compulsory for anyone wanting to work.",
     "url": "https://www.bbc.com/news/articles/clyl3lzzed2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T12:17:18Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7a4/live/43963d40-9ad0-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b5d/live/04e71410-9ae0-11f0-8ee5-3b441e09ef17.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -150,7 +186,7 @@
     "summary": "Rachel Reeves may have to find up to £30bn in tax rises or spending cuts if forecaster revisits expectations Treasury policymakers frustrated by the politically damaging timing of a downgrade to UK productivity forecasts by the Office for Budget Responsibility (OBR) are pressing the watchdog to score the benefits of Labour’s pro-growth plans. Rachel Reeves faces the prospect of having to find up to £30bn in tax rises or spending cuts in her 26 November budget if, as expected , the OBR cuts its forecast for future productivity growth to match the consensus of other experts. Continue reading...",
     "url": "https://www.theguardian.com/business/2025/sep/26/treasury-putting-squeeze-on-obr-growth-plans-tensions-over-downgrade-rachel-reeves",
     "published": "2025-09-26T12:00:13Z",
-    "image_url": "https://i.guim.co.uk/img/media/2a5a8c5a765d90509c9da8d0ac980227f11ad404/398_0_6618_5297/master/6618.jpg?width=140&quality=85&auto=format&fit=max&s=994214398a8467b48779306a1ae13419",
+    "image_url": "https://i.guim.co.uk/img/media/9778801a9cf5c943fcf8cd4e80853477c1f95f1e/1380_711_4669_3737/master/4669.jpg?width=140&quality=85&auto=format&fit=max&s=3d745fca298f7768cb65f26a3921add0",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -276,18 +312,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-c5b9425911",
-    "source": "The Guardian — UK",
-    "title": "Year 8 state school pupils in England could face mandatory reading tests",
-    "summary": "Proposal aims to tackle under-achievement by white working-class children and improve schools’ focus on reading Pupils at state schools in England will face new reading tests in an attempt to tackle under-achievement by white working-class children. The government’s forthcoming white paper on schools is to include a new test of reading ability for pupils in year 8, when they are aged 12 or 13, in an effort to encourage secondary schools to improve their teaching. Continue reading...",
-    "url": "https://www.theguardian.com/education/2025/sep/26/year-8-state-school-pupils-in-england-could-face-mandatory-reading-tests",
-    "published": "2025-09-26T10:06:31Z",
-    "image_url": "https://i.guim.co.uk/img/media/274e4a5e0a94fb6eb7deaed379b882cb16664f23/856_0_4264_3413/master/4264.jpg?width=140&quality=85&auto=format&fit=max&s=ac61e150e98b70e22456a3aeb9718a60",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-f3712622f7",
     "source": "Politico — UK",
     "title": "Microsoft cuts services to Israel Defense Ministry over Gaza surveillance fears",
@@ -319,6 +343,18 @@
     "url": "https://www.bbc.com/news/articles/c3drmk95xlzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T09:58:49Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4424/live/0fc44180-9aba-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-c7cf722083",
+    "source": "Politico — UK",
+    "title": "Pharma lobby blasts Oct. 1 Trump tariff threat",
+    "summary": "The European Commission says EU industry should be protected from the latest tariff threat through the EU-U.S. trade deal.",
+    "url": "https://www.politico.eu/article/pharma-lobby-blast-october-1-us-donald-trump-tariff-threat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-26T09:49:32Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-2236865864-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -372,18 +408,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-e9e0fc7be4",
-    "source": "Politico — UK",
-    "title": "Israel faces expulsion from Eurovision in November vote",
-    "summary": "An expanding group of countries want Israel out over its war in Gaza.",
-    "url": "https://www.politico.eu/article/countries-vote-israel-participation-eurovision-november/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-26T08:26:21Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-2214795526-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-201e2e361f",
     "source": "BBC — Top Stories",
     "title": "Chicken Shop Date's Amelia Dimoldenberg answers the questions for once",
@@ -391,18 +415,6 @@
     "url": "https://www.bbc.com/news/articles/c3w57g0g5p2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T08:19:51Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b41b/live/61e171b0-9ab8-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e142fc2bb2",
-    "source": "BBC — Top Stories",
-    "title": "Watchdog staff comments on attack inquiry 'inhumane'",
-    "summary": "An investigation by the watchdog into Leicestershire Police officers was reopened in March.",
-    "url": "https://www.bbc.com/news/articles/czxw18v9851o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T08:09:29Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2f2/live/eefbe110-9a6e-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -523,18 +535,6 @@
     "url": "https://www.bbc.com/news/articles/c87yl745xqlo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T01:07:16Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5af/live/a7e21870-9aa1-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-0da5d1503b",
-    "source": "BBC — Top Stories",
-    "title": "Stray Kids downplay global fame: 'Success is a strong word'",
-    "summary": "As the K-pop idols continue to break records, they stay focused on making music and meeting fans.",
-    "url": "https://www.bbc.com/news/articles/cy9n502g0vxo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T00:07:56Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/450c/live/abdfdc90-99e9-11f0-ab25-c9c4c516f15a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
