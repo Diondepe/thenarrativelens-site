@@ -1,5 +1,149 @@
 [
   {
+    "id": "BBC — Top Stories-d1b7a6ae0f",
+    "source": "BBC — Top Stories",
+    "title": "Starmer says Labour shied away from illegal immigration concerns",
+    "summary": "The prime minister is expected to announce plans for a compulsory UK-wide digital ID scheme.",
+    "url": "https://www.bbc.com/news/articles/cn832y43ql5o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T02:30:08Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb5f/live/89c583d0-9a66-11f0-97f5-bd38218a3641.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-1fb271db0b",
+    "source": "Politico — UK",
+    "title": "Farage takes on the Bank of England with blast against QE legacy",
+    "summary": "Reform leadership leans on BoE to scrap gilt sales and cut interest payments on excess reserves.",
+    "url": "https://www.politico.eu/article/nigel-farage-bank-of-england-against-qe-legacy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-26T02:20:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2236864562-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-7492c200aa",
+    "source": "Politico — UK",
+    "title": "China offers unlikely glimmer of hope in fight against plastic pollution",
+    "summary": "Subtle shift in Asian industrial giant's position sparks optimism for further talks to control plastics.",
+    "url": "https://www.politico.eu/article/china-offers-unlikely-glimmer-hope-fight-against-plastic-pollution/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-26T02:18:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/12/plastic-waste-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-79ad66873e",
+    "source": "Politico — UK",
+    "title": "Deleting texts to save space, Ursula? ‘It’s not the 1990s.’",
+    "summary": "Tech experts debunk the European Commission's policy of deleting its president's phone messages to \"save space.\"",
+    "url": "https://www.politico.eu/article/deleting-text-save-space-ursula-von-der-leyen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-26T02:16:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2158884623-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-258c5bb33c",
+    "source": "Politico — UK",
+    "title": "Dockworkers from across Europe gather to plan trade squeeze on Israel",
+    "summary": "Dockworker unions are fast becoming an important factor in exerting pressure over the war in Gaza.",
+    "url": "https://www.politico.eu/article/putting-the-squeeze-on-israel-italy-dockworkers-usb-gather-to-plan-boycott/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-26T02:15:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2236756828-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-3902de2eba",
+    "source": "BBC — Top Stories",
+    "title": "Trump announces new tariffs on drugs, trucks and kitchen cabinets",
+    "summary": "The US president said the move aims to help protect American manufacturers from foreign imports.",
+    "url": "https://www.bbc.com/news/articles/crkjreprp3po?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T02:12:46Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed0c/live/0f72d480-9a6a-11f0-b39f-8faa1a82cdd5.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-67108e9e13",
+    "source": "Politico — UK",
+    "title": "Friedrich Merz’s fight to fix the German economy is already on the ropes",
+    "summary": "The chancellor came to power on a promise to bring a rapid end to Germany's industrial malaise, but the outlook has turned increasingly grim.",
+    "url": "https://www.politico.eu/article/friedrich-merz-germany-economy-business-afd-alice-weidel-industry/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-26T02:12:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2237055118-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-55555568a8",
+    "source": "Politico — UK",
+    "title": "Sanctions alone will never stop Putin",
+    "summary": "If the West really wants to force Russia to stop the war, it needs to focus on military build-up — not just economic action.",
+    "url": "https://www.politico.eu/article/vladimir-putin-russia-war-in-ukraine-sanctions-oil-military/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-26T02:01:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2235749257-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-8790dd2254",
+    "source": "Politico — UK",
+    "title": "What do Gen Z want?",
+    "summary": "Four and a half thousand miles away in Nepal, Gen Z protestors recently brought down their government in just 48 hours, amid roiling anger over corruption and nepotism. The uprising, led by online influencers harnessing the power of AI and Tik Tok, has sent shockwaves through South Asia. So, this week on Westminster Insider, host Patrick Baker decides […]",
+    "url": "https://www.politico.eu/podcast/westminster-insider/what-do-gen-z-want/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-26T02:01:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/03/13/Westminster-Insider-Website-Card.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-1960c2d12f",
+    "source": "Politico — UK",
+    "title": "3 top Italian government officials accused of helping Libyan warlord flee justice",
+    "summary": "Italy's parliament will vote on Tuesday on whether two ministers and a cabinet secretary can be prosecuted over the case.",
+    "url": "https://www.politico.eu/article/libya-justice-war-italy-giorgia-meloni-osama-almasri-njeem-icc/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-26T02:01:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/12800827-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-637d48a865",
+    "source": "Politico — UK",
+    "title": "Escalating trouble – Trump takes on the UN and Europe",
+    "summary": "Trump says Ukraine can win — but should Europe believe him? At a hectic U.N. General Assembly in New York, U.S. President Donald Trump stunned world leaders with a dramatic rhetorical reversal on the war in Ukraine, mocking Russia as a “paper tiger” and urging NATO allies to shoot down Russian aircraft. Host Sarah Wheaton […]",
+    "url": "https://www.politico.eu/podcast/eu-confidential/escalating-trouble-trump-takes-on-the-un-and-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-26T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/04/11/EU-Confidential-Webcard-1920x1080-px.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-2b4985d67e",
+    "source": "Politico — UK",
+    "title": "Flat-pack diplomacy: The UN’s tiny Ikea table takes center stage",
+    "summary": "Trump likes gold. Putin likes giants. The United Nations likes its tables to be very cheap.",
+    "url": "https://www.politico.eu/article/declassified-flat-pack-diplomacy-un-tiny-ikea-table-takes-center-stage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-26T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2236481161-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-88f611f139",
     "source": "BBC — Top Stories",
     "title": "Reform faces questions over tech investor's role in cost-cutting drive",
@@ -43,18 +187,6 @@
     "url": "https://www.bbc.com/news/articles/c87yl745xqlo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T01:07:16Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2df/live/03744d70-9a20-11f0-89b7-f92e020b4774.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3902de2eba",
-    "source": "BBC — Top Stories",
-    "title": "Trump announces new tariffs on drugs, trucks and kitchen cabinets",
-    "summary": "The US president said the move aims to help protect American manufacturers from foreign imports.",
-    "url": "https://www.bbc.com/news/articles/crkjreprp3po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T01:06:24Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed0c/live/0f72d480-9a6a-11f0-b39f-8faa1a82cdd5.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -120,18 +252,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-f232a6d817",
-    "source": "The Guardian — UK",
-    "title": "Fighter jets purchase would put UK in breach of nuclear treaty, says CND",
-    "summary": "Legal opinion for campaign group says deal amounts to reversal of UK’s commitment to nuclear disarmament Britain will violate its nuclear disarmament obligations if Labour presses ahead with the £1bn purchase of 12 F-35A fighter jets, according to a specialist legal opinion prepared on behalf of the Campaign for Nuclear Disarmament (CND). Two international lawyers argue that the government’s plan to reintroduce air-launched nuclear weapons for the RAF will break a key provision of the nuclear non-proliferation treaty (NPT) signed by the UK and 190 other countries. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/sep/26/uk-fighter-jets-purchase-nuclear-treaty-cnd",
-    "published": "2025-09-25T23:01:50Z",
-    "image_url": "https://i.guim.co.uk/img/media/bb4e6c1f674e2d9a7c50d3f0f1ba4394e9d84d3f/2320_590_3304_2643/master/3304.jpg?width=140&quality=85&auto=format&fit=max&s=88e3d831af7934b98d188d8916a24fae",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-50e32b3062",
     "source": "The Guardian — UK",
     "title": "UK government backs return of international rail travel to Kent stations",
@@ -144,13 +264,25 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-93a8a351f2",
-    "source": "Politico — UK",
-    "title": "Top EU diplomat warns Trump that Europe can’t shoulder Ukraine war burden alone",
-    "summary": "UNITED NATIONS — Europe alone is not responsible for helping Ukraine bring an end to its war with Russia, EU top diplomat Kaja Kallas warned Thursday. That is particularly true when considering President Donald Trump’s pledge to halt the fighting, she said in an interview on the sidelines of the U.N. General Assembly. “He was […]",
-    "url": "https://www.politico.com/news/2025/09/25/kaja-kallas-interview-trump-ukraine-war-00581253?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-25T22:06:11Z",
-    "image_url": null,
+    "id": "The Guardian — UK-f232a6d817",
+    "source": "The Guardian — UK",
+    "title": "Fighter jets purchase would put UK in breach of nuclear treaty, says CND",
+    "summary": "Legal opinion for campaign group says deal amounts to reversal of UK’s commitment to nuclear disarmament Britain will violate its nuclear disarmament obligations if Labour presses ahead with the £1bn purchase of 12 F-35A fighter jets, according to a specialist legal opinion prepared on behalf of the Campaign for Nuclear Disarmament (CND). Two international lawyers argue that the government’s plan to reintroduce air-launched nuclear weapons for the RAF will break a key provision of the nuclear non-proliferation treaty (NPT) signed by the UK and 190 other countries. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/sep/26/uk-fighter-jets-purchase-nuclear-treaty-cnd",
+    "published": "2025-09-25T23:01:50Z",
+    "image_url": "https://i.guim.co.uk/img/media/bb4e6c1f674e2d9a7c50d3f0f1ba4394e9d84d3f/2320_590_3304_2643/master/3304.jpg?width=140&quality=85&auto=format&fit=max&s=88e3d831af7934b98d188d8916a24fae",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1414985cb5",
+    "source": "BBC — Top Stories",
+    "title": "China launches campaign to keep killjoys off the internet",
+    "summary": "Pessimistic social media posts may now be targets of a fresh crackdown by the Chinese government.",
+    "url": "https://www.bbc.com/news/articles/c39r7p47wzgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-25T22:01:24Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c3/live/fb300b00-982f-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -175,30 +307,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/25/keir-starmer-expected-to-announce-plans-for-digital-id-cards",
     "published": "2025-09-25T21:33:41Z",
     "image_url": "https://i.guim.co.uk/img/media/925d7155fbeebfc18429c7f8283b1c30d5edae76/328_0_2633_2106/master/2633.jpg?width=140&quality=85&auto=format&fit=max&s=102dcac7814fa379dd225bd76c29d79c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-25154dc238",
-    "source": "BBC — Top Stories",
-    "title": "Digital ID to be compulsory for all UK adults under government plans",
-    "summary": "The prime minister believes a new scheme would help crack down on illegal working in the UK.",
-    "url": "https://www.bbc.com/news/articles/c4g54g6vgpdo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T21:31:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3651/live/f0ba5230-9a27-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-cd60e24999",
-    "source": "Politico — UK",
-    "title": "Russian foreign minister says Moscow is in a ‘real war’ with NATO, Europe",
-    "summary": "President Donald Trump proclaimed emphatically early this week that Kyiv could win the war — and earn back all of its territory.",
-    "url": "https://www.politico.com/news/2025/09/25/russia-nato-eu-ukraine-war-00581261?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-25T21:16:54Z",
-    "image_url": null,
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -312,18 +420,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-ef31326ef7",
-    "source": "Politico — UK",
-    "title": "German lawmakers end deadlock over top court judge",
-    "summary": "The appointment of three top court judges ends a months-long dispute that threatened to derail the coalition.",
-    "url": "https://www.politico.eu/article/german-lawmakers-end-deadlock-over-top-court-judge/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-25T17:36:16Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/13374575-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-7357e749f6",
     "source": "The Guardian — UK",
     "title": "Andy Burnham alarms investors with call to end UK dependence on foreign lenders",
@@ -372,18 +468,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-6113416e35",
-    "source": "Politico — UK",
-    "title": "Trump’s Sharia law comments are ‘nonsense,’ says Starmer",
-    "summary": "The PM called London Mayor Sadiq Khan a \"very good man\" and dismissed the U.S. president's accusation as \"ridiculous.\"",
-    "url": "https://www.politico.eu/article/keir-starmer-donald-trump-sharia-law-comments-london/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-25T17:03:34Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2236146609-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-0e6100edab",
     "source": "The Guardian — UK",
     "title": "Fate of hundreds arrested for alleged Palestine Action support in limbo if challenge to ban is blocked, court told",
@@ -408,54 +492,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-94ffb658ed",
-    "source": "Politico — UK",
-    "title": "Sudanese ‘militiamen’ invited to Labour Party conference event",
-    "summary": "Event was arranged by organization run by Labour councillor known in Westminster for running the British Kebab Awards.",
-    "url": "https://www.politico.eu/article/sudan-militiamen-invite-labour-party-conference-event/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-25T16:48:24Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2223715770-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-d26327e1ea",
-    "source": "Politico — UK",
-    "title": "Germany cuts new arms export approvals for Israel to zero",
-    "summary": "The original intent was to halt exports of weapons that could be used in Gaza. but the impact appears to have been wider.",
-    "url": "https://www.politico.eu/article/germany-arms-export-israel-friedrich-merz-gaza-war-foreign-policy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-25T15:16:14Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2236861531-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-84760f3728",
-    "source": "Politico — UK",
-    "title": "Keir Starmer to set out plan for millions to require digital ID",
-    "summary": "The U.K. prime minister will announce the move in a speech on Friday.",
-    "url": "https://www.politico.eu/article/keir-starmer-to-set-out-plan-for-millions-to-require-digital-id/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-25T15:15:50Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2159720694-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-9849225bf4",
-    "source": "Politico — UK",
-    "title": "Update: Merz zwischen AfD-Hoch und Ost-Hoffnung – Deutschlands Suche nach Drohnenabwehr",
-    "summary": "Bundeskanzler Friedrich Merz und Verteidigungsminister Boris Pistorius reisen zur Ost-MPK nach Weimar. Es geht um Milliardeninvestitionen in die Verteidigungsindustrie, eine neue Industriestrategie und die Frage, wie sich die Ampel mit dem „neuen Osten“ befassen will. Im Gespräch mit Rasmus Buchsteiner analysiert Rixa Fürsen die Umfrage-Schieflage für die CDU, den wachsenden Druck durch die AfD – […]",
-    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/update-merz-zwischen-afd-hoch-und-ost-hoffnung-deutschlands-suche-nach-drohnenabwehr/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-25T15:11:41Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/09/Berlin-Playbook-Website-card-1-1.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-11c1717c3c",
     "source": "The Guardian — UK",
     "title": "Starmer’s head of communications Steph Driver quits in latest No 10 exit",
@@ -463,18 +499,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/25/starmers-head-of-communications-steph-driver-quits-in-latest-no-10-exit",
     "published": "2025-09-25T15:10:09Z",
     "image_url": "https://i.guim.co.uk/img/media/f52c634cf44be2a425af9e232c4495c3d8070096/197_0_1845_1476/master/1845.jpg?width=140&quality=85&auto=format&fit=max&s=826541503beb67a1ebbc0773a6468859",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-01d2fc6421",
-    "source": "Politico — UK",
-    "title": "EU Commission lashes out at Apple for wanting landmark digital law scrapped",
-    "summary": "\"Apple has simply contested every little bit of the DMA since its entry into application,” says Commission spokesperson.",
-    "url": "https://www.politico.eu/article/eu-commission-apple-digital-markets-act/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-25T14:16:08Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2236394684-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -504,18 +528,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-355f4b9aec",
-    "source": "Politico — UK",
-    "title": "Tusk issues stark reality check about Trump’s pro-Ukraine pivot",
-    "summary": "The U.S. president's words actually mean he might be done with Kyiv, Poland's prime minister warns.",
-    "url": "https://www.politico.eu/article/donald-tusk-issues-stark-reality-check-about-trump-pro-ukraine-pivot/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-25T13:34:48Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2234199007-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-0a78994a12",
     "source": "The Guardian — UK",
     "title": "Crown court backlog in England and Wales hits new record of almost 80,000 cases",
@@ -523,18 +535,6 @@
     "url": "https://www.theguardian.com/law/2025/sep/25/crown-court-england-wales-law-justice-politics",
     "published": "2025-09-25T12:59:22Z",
     "image_url": "https://i.guim.co.uk/img/media/1d205542be2124eea526b71ddf64a6afeae69c9f/516_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=19a6bb78e1c0ae29bd97bd5ea10df2ef",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-90847bdbc9",
-    "source": "BBC — Top Stories",
-    "title": "Taxi driver who dropped off Southport killer regrets not calling police for 50 minutes",
-    "summary": "The taxi driver who took the Southport attacker to Hart Space did not call 999 for 50 minutes.",
-    "url": "https://www.bbc.com/news/articles/cpd96g46vzwo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-25T11:20:07Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6343/live/53f71da0-9a15-11f0-aaf4-b9479fdf41dd.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
