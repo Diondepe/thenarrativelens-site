@@ -1,5 +1,17 @@
 [
   {
+    "id": "BBC — Top Stories-3e80e51ef9",
+    "source": "BBC — Top Stories",
+    "title": "King Charles to meet Pope Leo on rearranged Vatican visit",
+    "summary": "Their previous official visit to the Vatican was postponed earlier this year due to the poor health of Pope Francis.",
+    "url": "https://www.bbc.com/news/articles/cn0xykpdje8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T23:02:02Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb88/live/fa731210-9aec-11f0-89b4-1b2d09c610c7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-e024d12e20",
     "source": "BBC — Top Stories",
     "title": "TV station owners reinstate Kimmel show after ban",
@@ -367,18 +379,6 @@
     "url": "https://www.politico.eu/sponsored-content/we-are-in-the-business-of-everyday/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-26T12:53:02Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2015/09/26/PG-IA-feature-image.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e9e5e42f7d",
-    "source": "BBC — Top Stories",
-    "title": "Terror case against Kneecap rapper thrown out",
-    "summary": "The case against Liam Óg Ó hAnnaidh is thrown out following a technical error in the way the charge against him was brought.",
-    "url": "https://www.bbc.com/news/articles/ce846r2drg8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T12:21:23Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e0e/live/17ad3130-9ac0-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
