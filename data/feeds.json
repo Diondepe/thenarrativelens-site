@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-ab22554760",
+    "source": "BBC — Top Stories",
+    "title": "Man dies and seven treated in takeaway 'carbon monoxide poisoning'",
+    "summary": "The incident is believed to involve carbon monoxide and seven others, including emergency staff, were treated.",
+    "url": "https://www.bbc.com/news/articles/c78nj53vy28o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T17:12:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0de0/live/e5225ef0-9bbb-11f0-852e-075d0572b37f.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0767e9b085",
+    "source": "BBC — Top Stories",
+    "title": "PM takes aim at 'toxic' Reform as he arrives for Labour conference",
+    "summary": "The Labour conference is set to be dominated by questions over how to respond to Nigel Farage's party.",
+    "url": "https://www.bbc.com/news/articles/cn0xzdgyx0do?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T16:25:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4260/live/801478a0-9bb0-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e3d756f7df",
+    "source": "The Guardian — UK",
+    "title": "Prince Harry says ‘sources intent on sabotage’ behind reports of strained meeting with King",
+    "summary": "Spokesperson says claims Harry felt like an ‘official visitor’ were fabricated as duke seeks reconciliation with father Prince Harry has suggested that people are seeking to sabotage his reconciliation with King Charles as he hit back at “invention fed” media reports on the pair’s recent meeting. Harry met the king for the first time in almost two years at Clarence House in London on 10 September. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/27/prince-harry-says-sources-intent-on-sabotage-behind-reports-of-strained-meeting-with-king",
+    "published": "2025-09-27T16:15:02Z",
+    "image_url": "https://i.guim.co.uk/img/media/91a536cdd2160f59a3a712ad4603965bc41dcfa2/417_0_2077_1662/master/2077.jpg?width=140&quality=85&auto=format&fit=max&s=e84410408f806666621b0eb8a1e13b4d",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-a2ae6e7aca",
     "source": "BBC — Top Stories",
     "title": "Trump authorises 'full force' as Portland set to become latest city to see troops deployed",
@@ -19,18 +55,6 @@
     "url": "https://www.theguardian.com/society/2025/sep/27/build-prefab-homes-to-address-harm-to-generation-of-homeless-children-says-labour-mp-siobhain-mcdonagh",
     "published": "2025-09-27T16:00:47Z",
     "image_url": "https://i.guim.co.uk/img/media/33b4920b6a000b350acf3e936ae88c16dd70e987/514_0_3640_2912/master/3640.jpg?width=140&quality=85&auto=format&fit=max&s=a2ca1c964352b7299e6e7379dda47de8",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-0767e9b085",
-    "source": "BBC — Top Stories",
-    "title": "PM takes aim at 'toxic' Reform as he arrives for Labour conference",
-    "summary": "The Labour conference is set to be dominated by questions over how to respond to Nigel Farage's party.",
-    "url": "https://www.bbc.com/news/articles/cn0xzdgyx0do?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T15:41:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4260/live/801478a0-9bb0-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -300,13 +324,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-f0efa9e744",
+    "id": "The Guardian — UK-e7f9cbfbb8",
     "source": "The Guardian — UK",
-    "title": "FCA faces battle over £1m ad campaign rejecting car loan claims firms",
-    "summary": "City watchdog aims to tell drivers they will not need to use companies to apply for share of £18bn compensation scheme The City regulator is facing a battle with claims companies over a £1m advertising campaign designed to discourage drivers from using their services to get payouts over the car loan scandal . The Financial Conduct Authority (FCA) announced this month that it would roll out a series of online and radio adverts, telling drivers they will not need to use claims management companies (CMCs) or law firms to apply for their share of the regulator’s proposed £18bn compensation scheme. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/sep/27/fca-faces-battle-over-1m-ad-campaign-rejecting-car-loan-claims-firms",
-    "published": "2025-09-27T10:00:43Z",
-    "image_url": "https://i.guim.co.uk/img/media/16c84e98c47cf9ef551d2c758df3d44e6e86ae0b/2_0_3687_2949/master/3687.jpg?width=140&quality=85&auto=format&fit=max&s=721791c4f7cb0038cec483e40e78a2ac",
+    "title": "Starmer asks Conservative peer to write planning bill to block judicial reviews",
+    "summary": "Exclusive: One option could be to leave treaty that allows legal claims against projects such as Heathrow expansion Keir Starmer has tasked a Conservative peer with writing a new planning bill to remove the ability for environmental groups to delay projects such as Heathrow’s third runway with judicial reviews. The Guardian understands that leaving the Aarhus convention is being discussed as an option. This is an international treaty signed up to by the EU and other countries in Europe, which protects the right for campaigners to bring legal claims against large infrastructure projects such as waste plants, nuclear power stations and motorways. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/27/starmer-asks-conservative-peer-write-planning-bill-block-judicial-reviews",
+    "published": "2025-09-27T10:00:41Z",
+    "image_url": "https://i.guim.co.uk/img/media/d97fae63aa78e2ae60f09873f97066545c294223/584_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5a3242e6877052a601961bf2207ff374",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -372,18 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-a0ebb37bc0",
-    "source": "The Guardian — UK",
-    "title": "‘A hacker’s dream’: Britons on Keir Starmer’s plan for digital ID cards",
-    "summary": "Views range from concerns over civil liberties and cybersecurity, to welcoming it as a helpful system to streamline services Keir Starmer has announced plans for a digital ID system , which will become mandatory as a means of proving the right to work in the UK. From concerns around civil liberties and cybersecurity to a helpful system to streamline services in line with other European countries’ existing ID schemes, eight people share their views. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/27/britons-on-keir-starmer-plan-digital-id-cards",
-    "published": "2025-09-27T05:00:38Z",
-    "image_url": "https://i.guim.co.uk/img/media/27a6e400dcf25f948da601709181838de103fd55/0_241_3120_2495/master/3120.jpg?width=140&quality=85&auto=format&fit=max&s=f543cb6513c11994b4261940fe056f45",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-bda7b20d39",
     "source": "The Guardian — UK",
     "title": "‘Don’t trust Trump’: how UK health experts are fighting back against a war on medicine",
@@ -396,13 +408,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-ecee216295",
+    "id": "The Guardian — UK-a0ebb37bc0",
     "source": "The Guardian — UK",
-    "title": "Six great reads: meeting Matthew McConaughey, stodgy puddings and the truth about the ‘Boriswave’",
-    "summary": "Need something brilliant to read this weekend? Here are six of our favourite pieces from the past seven days Continue reading...",
-    "url": "https://www.theguardian.com/news/2025/sep/27/six-great-reads-meeting-matthew-mcconaughey-stodgy-puddings-and-the-truth-about-the-boriswave",
-    "published": "2025-09-27T05:00:36Z",
-    "image_url": "https://i.guim.co.uk/img/media/886f49f87530c77c9a57ca9991e04aae0b1b0ca3/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=351bdbe36b6123f6852bfe9fcde7bace",
+    "title": "‘A hacker’s dream’: Britons on Keir Starmer’s plan for digital ID cards",
+    "summary": "Views range from concerns over civil liberties and cybersecurity, to welcoming it as a helpful system to streamline services Keir Starmer has announced plans for a digital ID system , which will become mandatory as a means of proving the right to work in the UK. From concerns around civil liberties and cybersecurity to a helpful system to streamline services in line with other European countries’ existing ID schemes, eight people share their views. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/27/britons-on-keir-starmer-plan-digital-id-cards",
+    "published": "2025-09-27T05:00:38Z",
+    "image_url": "https://i.guim.co.uk/img/media/27a6e400dcf25f948da601709181838de103fd55/0_241_3120_2495/master/3120.jpg?width=140&quality=85&auto=format&fit=max&s=f543cb6513c11994b4261940fe056f45",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -487,18 +499,6 @@
     "url": "https://www.bbc.com/news/articles/cy7pe3l3d6no?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T00:33:32Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26bc/live/18ccbdf0-99ef-11f0-8075-a1f3b14172f9.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4fce19ab93",
-    "source": "BBC — Top Stories",
-    "title": "UK urged to act on colonial-era war crimes case after recognising Palestinian state",
-    "summary": "A legal petition alleges colonial-era war crimes by the UK in historical Palestine in 1917-48.",
-    "url": "https://www.bbc.com/news/articles/ce3yepedj57o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T22:17:00Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b41/live/f7271330-9b1f-11f0-a521-fb5ed45b1785.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
