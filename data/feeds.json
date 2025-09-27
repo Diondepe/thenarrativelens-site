@@ -1,12 +1,24 @@
 [
   {
-    "id": "BBC — Top Stories-52cdffb6c6",
+    "id": "BBC — Top Stories-50e62a352d",
     "source": "BBC — Top Stories",
-    "title": "Israeli strikes kill dozens in Gaza including civilians seeking aid, health workers say",
-    "summary": "Israel is continuing its offensive against Hamas, after PM Benjamin Netanyahu told the UN ​​Israel “must finish the job” in Gaza.",
-    "url": "https://www.bbc.com/news/articles/c87y58jgn5lo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T18:06:21Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e064/live/6c52fed0-9bc0-11f0-852e-075d0572b37f.jpg",
+    "title": "England overpower Canada to win Women's World Cup",
+    "summary": "England produce a performance full of power and ferocity to defeat Canada at Twickenham and win the Women's Rugby World Cup for a third time.",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/czjvgj81y2mo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T18:43:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab87/live/d15f17c0-9bc8-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0767e9b085",
+    "source": "BBC — Top Stories",
+    "title": "PM takes aim at 'toxic' Reform as he arrives for Labour conference",
+    "summary": "The Labour conference is set to be dominated by questions over how to respond to Nigel Farage's party.",
+    "url": "https://www.bbc.com/news/articles/cn0xzdgyx0do?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T18:41:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4260/live/801478a0-9bb0-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -17,8 +29,56 @@
     "title": "Trump authorises 'full force' as Portland set to become latest city to see troops deployed",
     "summary": "The president says the latest move to send troops to a major US city is \"necessary\" to protect immigration detention facilities.",
     "url": "https://www.bbc.com/news/articles/cddmn6ge6e2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T18:05:23Z",
+    "published": "2025-09-27T18:35:45Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f35b/live/f3e23540-9bcb-11f0-abc3-59cd99a67fd1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e7d9c0159c",
+    "source": "BBC — Top Stories",
+    "title": "Dozens dead in crush at political rally in India",
+    "summary": "Tens of thousands had gathered at a campaign event for actor-turned-politician Vijay in the southern state of Tamil Nadu.",
+    "url": "https://www.bbc.com/news/articles/c98dqyj5dpjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T18:31:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b4a/live/55e79ee0-9bc9-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-10b3534bc9",
+    "source": "BBC — Top Stories",
+    "title": "Russia has no intention of attacking EU or Nato states, foreign minister says",
+    "summary": "Sergei Lavrov has been highly critical of Western countries and Israel in his speech at the UN General Assembly.",
+    "url": "https://www.bbc.com/news/articles/c5ygjv0r2myo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T18:21:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa8/live/e7815fc0-9bca-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1eb6f3fd04",
+    "source": "BBC — Top Stories",
+    "title": "Scale of World Cup win unimaginable, says England star Hunt",
+    "summary": "Scrum-half Natasha Hunt says the scale of England's World Cup final victory - and the size of the Twickenham crowd - was \"unimaginable\".",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/cqlzgdxplyyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T18:09:45Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddce/live/a7d5fa10-9bcb-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-52cdffb6c6",
+    "source": "BBC — Top Stories",
+    "title": "Israeli strikes kill dozens in Gaza including civilians seeking aid, health workers say",
+    "summary": "Israel is continuing its offensive against Hamas, after PM Benjamin Netanyahu told the UN ​​Israel “must finish the job” in Gaza.",
+    "url": "https://www.bbc.com/news/articles/c87y58jgn5lo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T18:06:21Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e064/live/6c52fed0-9bc0-11f0-852e-075d0572b37f.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -42,7 +102,7 @@
     "summary": "England have won their third Rugby World Cup title with a commanding 13-33 performance over Canada in front of an 81,885 person home crowd in Twickenham.",
     "url": "https://www.bbc.com/sport/rugby-union/videos/c4g7qz5xx5lo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T17:12:49Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7961/live/6b7e25d0-9bc4-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c17/live/8d576330-9bd1-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -60,18 +120,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-50e62a352d",
-    "source": "BBC — Top Stories",
-    "title": "Full match report: England overpower Canada",
-    "summary": "England produce a performance full of power and ferocity to defeat Canada at Twickenham and win the Women's Rugby World Cup for a third time.",
-    "url": "https://www.bbc.com/sport/rugby-union/articles/czjvgj81y2mo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T16:45:14Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab87/live/d15f17c0-9bc8-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-951ebca69a",
     "source": "BBC — Top Stories",
     "title": "Tattoos, forfeit hairstyles and Channing Tatum - inside Red Roses' winning camp",
@@ -79,18 +127,6 @@
     "url": "https://www.bbc.com/sport/rugby-union/articles/c04q377rwq0o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T16:44:50Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1dc/live/b3848040-9bb0-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-0767e9b085",
-    "source": "BBC — Top Stories",
-    "title": "PM takes aim at 'toxic' Reform as he arrives for Labour conference",
-    "summary": "The Labour conference is set to be dominated by questions over how to respond to Nigel Farage's party.",
-    "url": "https://www.bbc.com/news/articles/cn0xzdgyx0do?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T16:25:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4260/live/801478a0-9bb0-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -247,30 +283,6 @@
     "url": "https://www.politico.eu/article/germany-plans-to-allow-military-to-shoot-down-drones-domestically/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-27T13:00:07Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/27/13351830-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-ed497b2b7b",
-    "source": "BBC — Top Stories",
-    "title": "Drones seen over Danish military bases in latest air disruption",
-    "summary": "Drones were detected near its largest military facility, with possible sightings also reported in Germany, Norway and Lithuania.",
-    "url": "https://www.bbc.com/news/articles/c3rvzdq93yro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T12:51:55Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b934/live/b23db4f0-9b9b-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-0902a506ed",
-    "source": "BBC — Top Stories",
-    "title": "FBI fires agents pictured kneeling at George Floyd protest, US media reports",
-    "summary": "The FBI Agents Association says the terminations - not yet confirmed by the bureau - violate the agents' rights.",
-    "url": "https://www.bbc.com/news/articles/cr4q5xrz9dpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T12:44:12Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c3c/live/bfa11940-9b8f-11f0-bdeb-9de9348d5d1d.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -583,18 +595,6 @@
     "url": "https://www.theguardian.com/politics/audio/2025/sep/25/labour-lucy-powell-progressive-voters-politics-weekly-uk-podcast",
     "published": "2025-09-25T10:25:06Z",
     "image_url": "https://i.guim.co.uk/img/media/83229aa2d532edb40d383c74e343b415e926d48a/404_0_3705_2964/master/3705.jpg?width=140&quality=85&auto=format&fit=max&s=71bf28137ad443d9d90cb4dc355da452",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f2240a1dbb",
-    "source": "BBC — Top Stories",
-    "title": "Meet the history-making astronauts headed for the Moon",
-    "summary": "Astronauts of Nasa's first crewed mission to the Moon for more than 50 years hope their journey inspires a new generation.",
-    "url": "https://www.bbc.com/news/articles/cvg0kv8rq0xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-24T16:20:53Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f078/live/6f02ffa0-997b-11f0-92db-77261a15b9d2.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
