@@ -1,5 +1,29 @@
 [
   {
+    "id": "The Guardian — UK-f0d275f4ea",
+    "source": "The Guardian — UK",
+    "title": "More than 150,000 UK graduates have student loan debts of £100,000-plus",
+    "summary": "‘Debt sentences’ rose by a third in six months, finds Royal London after FoI request to Student Loans Company More than 150,000 people in the UK now have student loan debts of more than £100,000, with one borrower owing £298,000, data shows. The company that obtained the figures says these “debt sentences” hanging over people are damaging graduates’ ability to save for the future and get on the property ladder. Continue reading...",
+    "url": "https://www.theguardian.com/money/2025/sep/27/uk-graduates-student-loan-debt-sentences",
+    "published": "2025-09-27T06:00:34Z",
+    "image_url": "https://i.guim.co.uk/img/media/e66e862d2a17b00662f9cb9e4e99d270596651dd/308_0_2160_1729/master/2160.jpg?width=140&quality=85&auto=format&fit=max&s=08e2c9c59ff31706dbd39fe639207e71",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-99fcc604c6",
+    "source": "BBC — Top Stories",
+    "title": "UN sanctions against Iran to resume over banned nuclear activity",
+    "summary": "Sanctions lifted in 2015 look set to be snapped back after Tehran was accused of failing to fulfil its commitments.",
+    "url": "https://www.bbc.com/news/articles/c39rpgpvwy1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T05:28:36Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0353/live/8873a830-9b52-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-bda7b20d39",
     "source": "The Guardian — UK",
     "title": "‘Don’t trust Trump’: how UK health experts are fighting back against a war on medicine",
@@ -96,18 +120,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-99fcc604c6",
-    "source": "BBC — Top Stories",
-    "title": "UN sanctions against Iran to resume over banned nuclear activity",
-    "summary": "Sanctions lifted in 2015 look set to be snapped back after Tehran was accused of failing to fulfil its commitments.",
-    "url": "https://www.bbc.com/news/articles/c39rpgpvwy1o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T04:00:12Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0353/live/8873a830-9b52-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-2842976033",
     "source": "BBC — Top Stories",
     "title": "Moldova holds key election as Russia's shadow looms large",
@@ -139,6 +151,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/27/king-charles-to-visit-vatican-and-meet-pope-leo-for-first-time",
     "published": "2025-09-27T03:22:24Z",
     "image_url": "https://i.guim.co.uk/img/media/5793877c5282268b255dd358ce888b8673a4a102/196_53_2494_1995/master/2494.jpg?width=140&quality=85&auto=format&fit=max&s=64b409e6df3ffedce8cca93fc7dc103f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d275832cff",
+    "source": "BBC — Top Stories",
+    "title": "Watch: Moment freediver sets new world record with breath-defying 126m plunge",
+    "summary": "Russian Alexey Molchanov breaks his own 2024 world record in one of the most technically challenging freediving events.",
+    "url": "https://www.bbc.com/news/videos/c4gvw7zmwgko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T02:39:36Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b19b/live/652ff370-9b47-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -206,7 +230,7 @@
   {
     "id": "BBC — Top Stories-e4c9fbb935",
     "source": "BBC — Top Stories",
-    "title": "‘I’m petrified’: Backstage with Strictly stars ahead of first live show",
+    "title": "'Have I made the wrong decision?': Backstage at Strictly as live show looms",
     "summary": "Fifteen couples are hoping to waltz their way to the glitterball trophy.",
     "url": "https://www.bbc.com/news/articles/c9dx0x68z46o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T01:08:19Z",
@@ -258,7 +282,7 @@
     "summary": "The prime minister has stepped up his framing of the \"open fight\" between Labour and Reform UK.",
     "url": "https://www.bbc.com/news/articles/cvg41lljnryo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T00:23:17Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fea/live/e65f2a50-9b2f-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a899/live/280e58d0-9b3b-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -384,18 +408,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-d398734acf",
-    "source": "BBC — Top Stories",
-    "title": "Netanyahu attacks Palestinian recognition as dozens walk out of UN speech",
-    "summary": "Officials and diplomats left the auditorium in protest as the Israeli leader took the stage, leaving large parts of the hall empty.",
-    "url": "https://www.bbc.com/news/articles/cderxxylpzdo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T16:41:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87e/live/39823af0-9af0-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-06f7e31fcc",
     "source": "The Guardian — UK",
     "title": "Kido nursery hackers threaten to publish more children’s profiles",
@@ -492,18 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-87b7833ffe",
-    "source": "The Guardian — UK",
-    "title": "Man cleared of murdering Jill Dando charged with rape of teenager in 1987",
-    "summary": "Barry George, jailed then cleared of murder of BBC’s Jill Dando, charged with rape and two indecent assaults Barry George has been charged with rape and two indecent assaults against a teenager alleged to have happened almost four decades ago, police have said. The Metropolitan police said the alleged offences happened in west London against a 14-year-old girl in September 1987. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/26/barry-george-charged",
-    "published": "2025-09-26T14:46:10Z",
-    "image_url": "https://i.guim.co.uk/img/media/9adb690c0fa3dcc0265257d733a202ab541a2e36/0_199_1338_1069/master/1338.jpg?width=140&quality=85&auto=format&fit=max&s=1e346c801e4b8c5e743c50af23812de2",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-bd7203a81f",
     "source": "Politico — UK",
     "title": "Cheering Comey indictment, Trump predicts ‘there will be others’",
@@ -516,13 +516,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-e6bb93b53f",
+    "id": "The Guardian — UK-7c9d185bf0",
     "source": "The Guardian — UK",
-    "title": "Politicians must confront lies used by populists, Starmer tells London summit",
-    "summary": "In speech to Global Progress Action summit, PM criticises rhetoric describing London as ‘decaying and lawless’ Progressive politicians must directly confront the “lies” used by populists and counter their “industrialised infrastructure of grievance”, Keir Starmer has said in a speech that included thinly veiled criticism of Donald Trump’s rhetoric. Addressing the Global Progress Action summit in London, where he also spoke publicly for the first time about the plan for mandatory ID cards , Starmer took aim at the idea of London as a decaying, dangerous city, one put forward repeatedly by the US president. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/26/keir-starmer-london-uk-politics-trump",
-    "published": "2025-09-26T13:05:44Z",
-    "image_url": "https://i.guim.co.uk/img/media/9dab717617bf2136ea967a62c17e54190ed3988b/690_0_4284_3427/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=5f3d48da5a018b96cf5fa0fb77fa9286",
+    "title": "Morgan McSweeney will not face new donations investigation, says watchdog",
+    "summary": "Electoral Commission decision will come as relief to PM after Tory claims that his chief of staff’s position was in peril Morgan McSweeney, the prime minister’s beleaguered chief of staff, will not face another investigation into undeclared donations to the Labour Together thinktank, the elections watchdog has said. The Electoral Commission said it had found “no evidence of any other potential offences” by the thinktank formerly led by McSweeney, which was previously fined in 2021. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/26/morgan-mcsweeney-labour-together-electoral-commission-no-evidence-other-offences",
+    "published": "2025-09-26T14:45:22Z",
+    "image_url": "https://i.guim.co.uk/img/media/d23bf21cd2337eb34aa9e90cf56e1b7b6ed263c7/359_64_2759_2207/master/2759.jpg?width=140&quality=85&auto=format&fit=max&s=95d3df30d3b72b5f0fe896762e841d24",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
