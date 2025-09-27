@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-a2ae6e7aca",
+    "source": "BBC — Top Stories",
+    "title": "Trump authorises 'full force' as Portland set to become latest city to see troops deployed",
+    "summary": "The president says the latest move to send troops to a major US city is \"necessary\" to protect immigration detention facilities.",
+    "url": "https://www.bbc.com/news/articles/cddmn6ge6e2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T16:03:01Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a64/live/b9338580-9bb6-11f0-852e-075d0572b37f.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e67a458de8",
+    "source": "The Guardian — UK",
+    "title": "Build prefab homes to address harm to ‘generation of homeless children’, says Labour MP",
+    "summary": "Siobhain McDonagh urges parliament to pass renters’ rights bill to stem no-fault evictions in England ‘Total panic’: the effect of no-fault evictions on renters in England A Labour MP has called for the government to start building prefabricated homes in England to address the “terrible things” happening to a generation of homeless children. Dame Siobhain McDonagh, who helped found an all-party parliamentary group aimed at supporting record numbers of families in temporary accommodation after being “completely overwhelmed” by the amount of cases in her constituency, said the situation was “devastating”. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/sep/27/build-prefab-homes-to-address-harm-to-generation-of-homeless-children-says-labour-mp-siobhain-mcdonagh",
+    "published": "2025-09-27T16:00:47Z",
+    "image_url": "https://i.guim.co.uk/img/media/33b4920b6a000b350acf3e936ae88c16dd70e987/514_0_3640_2912/master/3640.jpg?width=140&quality=85&auto=format&fit=max&s=a2ca1c964352b7299e6e7379dda47de8",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0767e9b085",
+    "source": "BBC — Top Stories",
+    "title": "PM takes aim at 'toxic' Reform as he arrives for Labour conference",
+    "summary": "The Labour conference is set to be dominated by questions over how to respond to Nigel Farage's party.",
+    "url": "https://www.bbc.com/news/articles/cn0xzdgyx0do?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T15:41:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4260/live/801478a0-9bb0-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-3d1aa54e58",
+    "source": "Politico — UK",
+    "title": "Russia loses bid for UN aviation authority council seat",
+    "summary": "Moscow immediately called for “a repeat round of voting” after Russia fell short of the support needed to gain a seat on the International Civil Aviation Organization’s 36-member council.",
+    "url": "https://www.politico.eu/article/russia-loses-bid-for-un-aviation-authority-council-seat-icao/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-27T15:31:30Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/27/13303289-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-ed8fa0586e",
+    "source": "The Guardian — UK",
+    "title": "Labour conference chance to show alternative to ‘toxic divide and decline’ offered by Reform, says Starmer – as it happened",
+    "summary": "Labour party conference ‘really big opportunity to make our case to the country’, says PM Hundreds of thousands more children are to receive a free breakfast through a government scheme, Bridget Phillipson has announced. On Saturday, education secretary, said that 500,000 more children across England will soon benefit from the government’s role out of free breakfast clubs The start of the national rollout of free breakfast clubs will be an historic change in working families’ daily routines and is another example of this Labour government making good on its promises to deliver the change the British people voted for. This is Labour choosing a path of renewal towards a fairer country – breaking down the barriers to opportunity and ensuring every child starts school ready to learn. I have worked hard as a councillor for Langside for the past three years to build a better community and now I can’t wait to be the voice of change across our great communities in the constituency. As your candidate for Glasgow Southside, I will always put people and planet before corporate greed, I will fight back against the millionaires who are pushing racist anti-migrant narratives and I will call out the horrific genocide in Gaza. Since then, she’s been a great voice for the local community and I have no doubt that she’ll be a fantastic candidate for the constituency. Green support in Glasgow Southside has been growing steadily in recent years and we’re looking forward to the campaign for Holyrood, in Southside, across Glasgow and throughout the country. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/27/railway-operators-trains-public-ownership-labour-party-conference-uk-politics-live-latest-news",
+    "published": "2025-09-27T15:03:42Z",
+    "image_url": "https://i.guim.co.uk/img/media/21c840c1f00847aa2e39c287cdce437eefe4ec09/661_0_4663_3730/master/4663.jpg?width=140&quality=85&auto=format&fit=max&s=d961a2f0d573b1048b6ced66f2e7220a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-797748ab8f",
     "source": "Politico — UK",
     "title": "Trump says he is authorizing military to use ‘Full Force’ in Portland",
@@ -12,18 +72,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-ed8fa0586e",
-    "source": "The Guardian — UK",
-    "title": "Labour conference chance to show alternative to ‘toxic divide and decline’ offered by Reform, says Starmer – UK politics live",
-    "summary": "Labour party conference ‘really big opportunity to make our case to the country’, says PM Hundreds of thousands more children are to receive a free breakfast through a government scheme, Bridget Phillipson has announced. On Saturday, education secretary, said that 500,000 more children across England will soon benefit from the government’s role out of free breakfast clubs The start of the national rollout of free breakfast clubs will be an historic change in working families’ daily routines and is another example of this Labour government making good on its promises to deliver the change the British people voted for. This is Labour choosing a path of renewal towards a fairer country – breaking down the barriers to opportunity and ensuring every child starts school ready to learn. I have worked hard as a councillor for Langside for the past three years to build a better community and now I can’t wait to be the voice of change across our great communities in the constituency. As your candidate for Glasgow Southside, I will always put people and planet before corporate greed, I will fight back against the millionaires who are pushing racist anti-migrant narratives and I will call out the horrific genocide in Gaza. Since then, she’s been a great voice for the local community and I have no doubt that she’ll be a fantastic candidate for the constituency. Green support in Glasgow Southside has been growing steadily in recent years and we’re looking forward to the campaign for Holyrood, in Southside, across Glasgow and throughout the country. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/sep/27/railway-operators-trains-public-ownership-labour-party-conference-uk-politics-live-latest-news",
-    "published": "2025-09-27T14:51:04Z",
-    "image_url": "https://i.guim.co.uk/img/media/21c840c1f00847aa2e39c287cdce437eefe4ec09/661_0_4663_3730/master/4663.jpg?width=140&quality=85&auto=format&fit=max&s=d961a2f0d573b1048b6ced66f2e7220a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-a8d1abfb2c",
     "source": "The Guardian — UK",
     "title": "Scottish Labour MSP suspended over inappropriate conduct allegation",
@@ -31,18 +79,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/27/foysol-choudhury-scottish-labour-msp-suspended-inappropriate-conduct-allegation",
     "published": "2025-09-27T14:34:44Z",
     "image_url": "https://i.guim.co.uk/img/media/0b317737c01d04f1baa1afbfe3cc223434193387/514_205_3892_3113/master/3892.jpg?width=140&quality=85&auto=format&fit=max&s=22cc08772682ce639f189ee042411147",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-0767e9b085",
-    "source": "BBC — Top Stories",
-    "title": "PM takes aim at 'toxic' Reform as he arrives for Labour conference",
-    "summary": "The Labour conference is set to be dominated by questions over how to respond to Nigel Farage's party.",
-    "url": "https://www.bbc.com/news/articles/cn0xzdgyx0do?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T14:21:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4260/live/801478a0-9bb0-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -264,18 +300,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-47f9626d72",
-    "source": "Politico — UK",
-    "title": "Ex-Brexit Party MEP pleads guilty in Russia bribe case",
-    "summary": "Nathan Gill admitted to taking bribes in exchange for making pro-Kremlin statements while he was a member of the European Parliament.",
-    "url": "https://www.politico.eu/article/uk-ex-brexit-party-mep-nathan-gill-pleads-guilty-in-russia-bribe-case/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-27T10:02:33Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/27/GettyImages-2237116371-1-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-f0efa9e744",
     "source": "The Guardian — UK",
     "title": "FCA faces battle over £1m ad campaign rejecting car loan claims firms",
@@ -283,18 +307,6 @@
     "url": "https://www.theguardian.com/business/2025/sep/27/fca-faces-battle-over-1m-ad-campaign-rejecting-car-loan-claims-firms",
     "published": "2025-09-27T10:00:43Z",
     "image_url": "https://i.guim.co.uk/img/media/16c84e98c47cf9ef551d2c758df3d44e6e86ae0b/2_0_3687_2949/master/3687.jpg?width=140&quality=85&auto=format&fit=max&s=721791c4f7cb0038cec483e40e78a2ac",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-e7f9cbfbb8",
-    "source": "The Guardian — UK",
-    "title": "Starmer asks Conservative peer to write planning bill to block judicial reviews",
-    "summary": "Exclusive: One option could be to leave treaty that allows legal claims against projects such as Heathrow expansion Keir Starmer has tasked a Conservative peer with writing a new planning bill to remove the ability for environmental groups to delay projects such as Heathrow’s third runway with judicial reviews. The Guardian understands that leaving the Aarhus convention is being discussed as an option. This is an international treaty signed up to by the EU and other countries in Europe, which protects the right for campaigners to bring legal claims against large infrastructure projects such as waste plants, nuclear power stations and motorways. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/27/starmer-asks-conservative-peer-write-planning-bill-block-judicial-reviews",
-    "published": "2025-09-27T10:00:41Z",
-    "image_url": "https://i.guim.co.uk/img/media/d97fae63aa78e2ae60f09873f97066545c294223/584_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5a3242e6877052a601961bf2207ff374",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -360,13 +372,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-51bf5665e5",
-    "source": "BBC — Top Stories",
-    "title": "Harrods says customers' data stolen in IT breach",
-    "summary": "The luxury department store says stolen information includes names and contact details.",
-    "url": "https://www.bbc.com/news/articles/c8d70d912e6o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T07:43:40Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a942/live/b66a9390-9b8c-11f0-96fc-07d17b5e3a9f.jpg",
+    "id": "The Guardian — UK-a0ebb37bc0",
+    "source": "The Guardian — UK",
+    "title": "‘A hacker’s dream’: Britons on Keir Starmer’s plan for digital ID cards",
+    "summary": "Views range from concerns over civil liberties and cybersecurity, to welcoming it as a helpful system to streamline services Keir Starmer has announced plans for a digital ID system , which will become mandatory as a means of proving the right to work in the UK. From concerns around civil liberties and cybersecurity to a helpful system to streamline services in line with other European countries’ existing ID schemes, eight people share their views. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/27/britons-on-keir-starmer-plan-digital-id-cards",
+    "published": "2025-09-27T05:00:38Z",
+    "image_url": "https://i.guim.co.uk/img/media/27a6e400dcf25f948da601709181838de103fd55/0_241_3120_2495/master/3120.jpg?width=140&quality=85&auto=format&fit=max&s=f543cb6513c11994b4261940fe056f45",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -379,18 +391,6 @@
     "url": "https://www.theguardian.com/news/ng-interactive/2025/sep/27/dont-trust-trump-how-uk-health-experts-fighting-back-war-medicine",
     "published": "2025-09-27T05:00:38Z",
     "image_url": "https://i.guim.co.uk/img/media/15f1a9a4aebab334337c4a2c7547133dfe5aee52/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3c39b9d8303c02b6782cf5b293531f13",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-a0ebb37bc0",
-    "source": "The Guardian — UK",
-    "title": "‘A hacker’s dream’: Britons on Keir Starmer’s plan for digital ID cards",
-    "summary": "Views range from concerns over civil liberties and cybersecurity, to welcoming it as a helpful system to streamline services Keir Starmer has announced plans for a digital ID system , which will become mandatory as a means of proving the right to work in the UK. From concerns around civil liberties and cybersecurity to a helpful system to streamline services in line with other European countries’ existing ID schemes, eight people share their views. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/27/britons-on-keir-starmer-plan-digital-id-cards",
-    "published": "2025-09-27T05:00:38Z",
-    "image_url": "https://i.guim.co.uk/img/media/27a6e400dcf25f948da601709181838de103fd55/0_241_3120_2495/master/3120.jpg?width=140&quality=85&auto=format&fit=max&s=f543cb6513c11994b4261940fe056f45",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
