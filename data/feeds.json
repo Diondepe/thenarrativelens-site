@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-f66adf6dc0",
+    "source": "BBC — Top Stories",
+    "title": "Building of three new towns will start before election, Labour pledges",
+    "summary": "The housing secretary is expected to announce the plans on the first day of Labour's party conference.",
+    "url": "https://www.bbc.com/news/articles/cly1geen679o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T21:45:12Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2455/live/a0183b40-9bd4-11f0-8bfb-0171e9a883f4.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a2ae6e7aca",
+    "source": "BBC — Top Stories",
+    "title": "Trump authorises 'full force' as Portland set to become latest city to see troops deployed",
+    "summary": "The president says the latest move to send troops to a major US city is \"necessary\" to protect immigration detention facilities.",
+    "url": "https://www.bbc.com/news/articles/cddmn6ge6e2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T21:42:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f35b/live/f3e23540-9bcb-11f0-abc3-59cd99a67fd1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-468db2fea4",
+    "source": "The Guardian — UK",
+    "title": "Plan to build 12 new towns in England to be unveiled at Labour conference",
+    "summary": "Housing secretary is set to announce initiative modelled on Clement Attlee’s postwar ‘housing boom’ The government is expected to announce on Sunday a programme to build 12 new towns across England in a bid to address the country’s housing crisis. The housing secretary, Steve Reed, will unveil the initiative at Labour’s annual conference as it begins in Liverpool. The prime minister, Keir Starmer, described the proposals as “national renewal in action”. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/27/plan-to-build-12-new-towns-in-england-to-be-unveiled-at-labour-conference",
+    "published": "2025-09-27T21:30:53Z",
+    "image_url": "https://i.guim.co.uk/img/media/e08c8986d1ebd688b6b7687619037fbf23cdda6f/37_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=84482cfbe3ed25e8ccdbf23581e6da56",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-c07216194b",
     "source": "BBC — Top Stories",
     "title": "George Galloway stopped by counter-terror police at Gatwick",
@@ -19,18 +55,6 @@
     "url": "https://www.bbc.com/news/articles/cgl15ykerlro?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T21:00:13Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1505/live/303c0ab0-9be6-11f0-bddd-5f1abb8b5445.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a2ae6e7aca",
-    "source": "BBC — Top Stories",
-    "title": "Trump authorises 'full force' as Portland set to become latest city to see troops deployed",
-    "summary": "The president says the latest move to send troops to a major US city is \"necessary\" to protect immigration detention facilities.",
-    "url": "https://www.bbc.com/news/articles/cddmn6ge6e2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T20:36:33Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f35b/live/f3e23540-9bcb-11f0-abc3-59cd99a67fd1.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -86,7 +110,7 @@
   {
     "id": "BBC — Top Stories-1eb6f3fd04",
     "source": "BBC — Top Stories",
-    "title": "Scale of World Cup win unimaginable, says England star Hunt",
+    "title": "England can dominate world for long time, says head coach Mitchell",
     "summary": "England \"can dominate the world for a long time\" believes Red Roses head coach John Mitchell after his side beat Canada to win the World Cup.",
     "url": "https://www.bbc.com/sport/rugby-union/articles/cqlzgdxplyyo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T19:20:04Z",
@@ -336,18 +360,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-fe443c94d0",
-    "source": "The Guardian — UK",
-    "title": "Education unions urge Keir Starmer to scrap ‘cruel’ two-child benefit cap",
-    "summary": "A letter to the prime minister on the eve of the Labour conference warns of ‘critical need’ to abandon the policy Teaching unions have written to the prime minister asking him to scrap the two-child benefit cap ahead of Labour’s annual conference, which begins in Liverpool on Sunday. In a letter to Keir Starmer, the unions described the policy as “cruel” and said it must be fully abandoned as part of the government’s delayed child poverty strategy, expected to be published before Christmas. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/27/education-unions-urge-keir-starmer-scrap-cruel-two-child-benefit-cap",
-    "published": "2025-09-27T12:23:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/ecb676c8f017f05f7c99878cf986418b66e0d821/439_0_4376_3503/master/4376.jpg?width=140&quality=85&auto=format&fit=max&s=b7dba992a5557804a33b3848091cc2bd",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-0fd12f393b",
     "source": "BBC — Top Stories",
     "title": "How much trouble is Labour in - and is the PM the right man for the job?",
@@ -391,6 +403,18 @@
     "url": "https://www.politico.com/news/2025/09/26/supreme-court-foreign-aid-impoundment-ruling-00583052?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-27T11:27:01Z",
     "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-c9d89a8d32",
+    "source": "The Guardian — UK",
+    "title": "Labour seeks ‘ambitious’ youth mobility scheme with EU",
+    "summary": "Chancellor says plan would allow thousands of young Europeans to temporarily live and work in UK, and vice versa UK politics live – latest updates Labour will seek an “ambitious” youth mobility scheme with the EU, allowing thousands of young Europeans to temporarily live and work in the UK, Rachel Reeves has said. The chancellor told the Times the scheme would be “good for the economy, good for growth and good for business”, but stopped short of specifying who would be eligible. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/sep/27/labour-seeks-youth-mobility-scheme-with-eu",
+    "published": "2025-09-27T10:38:01Z",
+    "image_url": "https://i.guim.co.uk/img/media/c9e0184c64c11e5d7e0bb0b8cb14b5e7e39c04ba/178_0_5355_4284/master/5355.jpg?width=140&quality=85&auto=format&fit=max&s=087d59cad97b1ee0afed87eb346e6055",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -444,18 +468,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-a0ebb37bc0",
-    "source": "The Guardian — UK",
-    "title": "‘A hacker’s dream’: Britons on Keir Starmer’s plan for digital ID cards",
-    "summary": "Views range from concerns over civil liberties and cybersecurity, to welcoming it as a helpful system to streamline services Keir Starmer has announced plans for a digital ID system , which will become mandatory as a means of proving the right to work in the UK. From concerns around civil liberties and cybersecurity to a helpful system to streamline services in line with other European countries’ existing ID schemes, eight people share their views. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/27/britons-on-keir-starmer-plan-digital-id-cards",
-    "published": "2025-09-27T05:00:38Z",
-    "image_url": "https://i.guim.co.uk/img/media/27a6e400dcf25f948da601709181838de103fd55/0_241_3120_2495/master/3120.jpg?width=140&quality=85&auto=format&fit=max&s=f543cb6513c11994b4261940fe056f45",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-bda7b20d39",
     "source": "The Guardian — UK",
     "title": "‘Don’t trust Trump’: how UK health experts are fighting back against a war on medicine",
@@ -463,18 +475,6 @@
     "url": "https://www.theguardian.com/news/ng-interactive/2025/sep/27/dont-trust-trump-how-uk-health-experts-fighting-back-war-medicine",
     "published": "2025-09-27T05:00:38Z",
     "image_url": "https://i.guim.co.uk/img/media/15f1a9a4aebab334337c4a2c7547133dfe5aee52/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3c39b9d8303c02b6782cf5b293531f13",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-986c29dfd9",
-    "source": "BBC — Top Stories",
-    "title": "Trump promised retribution - how far will he go?",
-    "summary": "As the US president pushes a crackdown on left-wing groups and openly targets political foes, critics ask where he's taking America",
-    "url": "https://www.bbc.com/news/articles/c0q74pxx871o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T05:00:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2b/live/ca2a45a0-9aed-11f0-92db-77261a15b9d2.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
