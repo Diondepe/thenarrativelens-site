@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-7cecbf99a6",
+    "source": "BBC — Top Stories",
+    "title": "'Primal and sexual': Wuthering Heights director on bringing Brontë to life",
+    "summary": "Emerald Fennell speaks about her much-discussed adaptation of Emily Brontë's novel for the first time.",
+    "url": "https://www.bbc.com/news/articles/cly0nnrr48ko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T02:20:33Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d606/live/f3005770-9b20-11f0-a521-fb5ed45b1785.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-13a6e8fea2",
+    "source": "Politico — UK",
+    "title": "These stadiums expose Putin’s brutal war on Ukrainian culture",
+    "summary": "International megastars once performed in arenas that Russian forces have bombarded — or turned into propaganda stages.",
+    "url": "https://www.politico.eu/article/stadium-expose-vladimir-putin-brutal-war-ukraine-culture/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-27T02:01:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-146395055-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-091c442c68",
+    "source": "Politico — UK",
+    "title": "Britain’s Keir Starmer, under friendly fire, tries to hoist his flag",
+    "summary": "The U.K. prime minister will use his annual party conference to promise \"patriotic renewal.\" Some of his own party wants to renew him.",
+    "url": "https://www.politico.eu/article/britain-keir-starmer-labour-party-conference/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-27T02:01:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-2237508116-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-763a6a37a6",
+    "source": "Politico — UK",
+    "title": "World’s cartoonists on this week’s events",
+    "summary": "Drawing the top stories around the globe.",
+    "url": "https://www.politico.eu/article/worlds-cartoonists-on-this-weeks-events-171/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-27T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/300299_1536_rgb.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-53eeb07375",
+    "source": "BBC — Top Stories",
+    "title": "Flags, wars and fantasy kingdoms: Turner Prize artists show us their worlds",
+    "summary": "Work by the four artists nominated for this year's award will go on show in Bradford this weekend.",
+    "url": "https://www.bbc.com/news/articles/cn0xyqj7pxwo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T01:25:33Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6851/live/bba34220-9aa7-11f0-b4e7-254680b9a68e.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-e4c9fbb935",
     "source": "BBC — Top Stories",
     "title": "‘I’m petrified’: Backstage with Strictly couples ahead of first live show",
@@ -31,6 +91,18 @@
     "url": "https://www.bbc.com/news/articles/c179z9z1lxwo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T00:35:20Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c53f/live/6f4db490-9b39-11f0-bd12-8ba761220fbb.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-729e77bfca",
+    "source": "BBC — Top Stories",
+    "title": "How hard is it to become an influencer? Three people with zero followers find out",
+    "summary": "Three beginners take on the challenge of turning their talent into social media traction in three months.",
+    "url": "https://www.bbc.com/news/articles/cy7pe3l3d6no?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T00:33:32Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26bc/live/18ccbdf0-99ef-11f0-8075-a1f3b14172f9.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -79,6 +151,18 @@
     "url": "https://www.bbc.com/news/articles/cn0xykpdje8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T23:02:02Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb88/live/fa731210-9aec-11f0-89b4-1b2d09c610c7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-80811dc95e",
+    "source": "BBC — Top Stories",
+    "title": "Solving the 100-year-old mystery of two missing Scottish soldiers",
+    "summary": "How a small, dedicated team identified two Scots who died more than 100 years ago in Northern France.",
+    "url": "https://www.bbc.com/news/articles/c7088ynken8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T21:58:22Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/288f/live/b9fc2280-971d-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -360,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-503b329ccb",
-    "source": "BBC — Top Stories",
-    "title": "Will digital ID cards stop illegal working?",
-    "summary": "The scheme is being billed by No 10 as a way of cracking down on migrants who do not have the right to earn wages in the UK.",
-    "url": "https://www.bbc.com/news/articles/c740vjrp81po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T14:05:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b5c/live/6e0ca9b0-9ae4-11f0-b834-df3e788fef97.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e6bb93b53f",
     "source": "The Guardian — UK",
     "title": "Politicians must confront lies used by populists, Starmer tells London summit",
@@ -408,30 +480,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-265afdb604",
-    "source": "Politico — UK",
-    "title": "Moldova’s electoral commission suffered cyberattack days ahead of vote",
-    "summary": "Sunday's vote is mired in \"most advanced hybrid threats of our times,\" deputy prime minister tells POLITICO.",
-    "url": "https://www.politico.eu/article/moldova-electoral-commission-cyberattack-days-ahead-vote-russia-democracy-doina-nistor/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-26T12:18:24Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-2181968880.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-6da2e341ed",
-    "source": "Politico — UK",
-    "title": "Finland urges US to keep key military equipment in Europe",
-    "summary": "Donald Trump's about-face on Ukraine was a result of \"disappointment\" with Vladimir Putin, says Alexander Stubb.",
-    "url": "https://www.politico.eu/article/finland-urges-us-retain-military-equipment-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-26T12:03:25Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-2235186940.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-de750fd3b2",
     "source": "The Guardian — UK",
     "title": "Treasury ‘putting the squeeze’ on OBR over Labour growth plans amid tensions over downgrade",
@@ -451,18 +499,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/26/reform-uk-ex-leader-wales-nathan-gill-pleads-guilty-bribery-charges",
     "published": "2025-09-26T11:59:51Z",
     "image_url": "https://i.guim.co.uk/img/media/32f212798b55140943b4b524661266f2276256ea/975_667_3992_3194/master/3992.jpg?width=140&quality=85&auto=format&fit=max&s=c73899934af7c634486801d4921210da",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-031ef37342",
-    "source": "Politico — UK",
-    "title": "Slovakia enshrines 2 genders in constitution",
-    "summary": "Fico government's controversial move sets up clash with EU law.",
-    "url": "https://www.politico.eu/article/slovakia-two-gender-constitution-male-female/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-26T11:53:31Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-2217832539-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -492,18 +528,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-8d5514a8cf",
-    "source": "BBC — Top Stories",
-    "title": "Is the US-China TikTok deal done? Here's what you need to know",
-    "summary": "Donald Trump says a deal on the future of TikTok in the US has been made, but it’s not been confirmed by China or the app’s owner ByteDance.",
-    "url": "https://www.bbc.com/news/videos/cg5ege645reo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T10:02:14Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a0c/live/dcbf1430-9aba-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-c93c76335a",
     "source": "The Guardian — UK",
     "title": "What are the critical environmental decisions piling up in Labour’s inbox?",
@@ -523,30 +547,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/26/iopc-nottingham-stabbings-inquiry-politically-motivated",
     "published": "2025-09-26T08:49:09Z",
     "image_url": "https://i.guim.co.uk/img/media/a79ed4a4f912d2f6aaeb5c708ea2be4dae076be3/1184_246_2316_1853/master/2316.jpg?width=140&quality=85&auto=format&fit=max&s=54959888ab7efa241ace6f33aaaad8ba",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-201e2e361f",
-    "source": "BBC — Top Stories",
-    "title": "Chicken Shop Date's Amelia Dimoldenberg on 10 years of her hit web series",
-    "summary": "Amelia Dimoldenberg looks back on how a youth magazine column became a huge internet show.",
-    "url": "https://www.bbc.com/news/articles/c3w57g0g5p2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T08:19:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be4a/live/82eb47f0-9b03-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e9999394fc",
-    "source": "BBC — Top Stories",
-    "title": "Rats are overrunning our cities - but not only for the reasons you think",
-    "summary": "Rats are multiplying at speed in urban areas. So, what's really behind the boom - and is it now unstoppable?",
-    "url": "https://www.bbc.com/news/articles/c4gvk397j80o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T06:55:02Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5884/live/8487c980-9a09-11f0-92db-77261a15b9d2.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
