@@ -1,24 +1,72 @@
 [
   {
-    "id": "BBC — Top Stories-ed497b2b7b",
-    "source": "BBC — Top Stories",
-    "title": "Drones seen over Danish military bases in latest air disruption",
-    "summary": "Drones were detected near at Karup airbase, following a series of incidents that disrupted airports this week.",
-    "url": "https://www.bbc.com/news/articles/c3rvzdq93yro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T10:59:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0c6/live/f7f46820-9b89-11f0-96fc-07d17b5e3a9f.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-ed8fa0586e",
     "source": "The Guardian — UK",
     "title": "More railway operators to be returned to public ownership next year, says Labour – UK politics live",
     "summary": "Govia Thameslink, Chiltern and Great Western to follow West Midlands Trains into public ownership in 2026, transport secretary to tell Labour party conference Hundreds of thousands more children are to receive a free breakfast through a government scheme, Bridget Phillipson has announced. On Saturday, education secretary, said that 500,000 more children across England will soon benefit from the government’s role out of free breakfast clubs The start of the national rollout of free breakfast clubs will be an historic change in working families’ daily routines and is another example of this Labour government making good on its promises to deliver the change the British people voted for. This is Labour choosing a path of renewal towards a fairer country – breaking down the barriers to opportunity and ensuring every child starts school ready to learn. I have worked hard as a councillor for Langside for the past three years to build a better community and now I can’t wait to be the voice of change across our great communities in the constituency. As your candidate for Glasgow Southside, I will always put people and planet before corporate greed, I will fight back against the millionaires who are pushing racist anti-migrant narratives and I will call out the horrific genocide in Gaza. Since then, she’s been a great voice for the local community and I have no doubt that she’ll be a fantastic candidate for the constituency. Green support in Glasgow Southside has been growing steadily in recent years and we’re looking forward to the campaign for Holyrood, in Southside, across Glasgow and throughout the country. Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/sep/27/railway-operators-trains-public-ownership-labour-party-conference-uk-politics-live-latest-news",
-    "published": "2025-09-27T10:48:29Z",
+    "published": "2025-09-27T12:23:27Z",
     "image_url": "https://i.guim.co.uk/img/media/565527e809a9f8364f67b2e409bc660d4b1006f4/246_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=7a9daebf7137749c4bb231a2c824a80f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-fe443c94d0",
+    "source": "The Guardian — UK",
+    "title": "Education unions urge Keir Starmer to scrap ‘cruel’ two-child benefit cap",
+    "summary": "A letter to the prime minister on the eve of the Labour conference warns of ‘critical need’ to abandon the policy Teaching unions have written to the prime minister asking him to scrap the two-child benefit cap ahead of Labour’s annual conference, which begins in Liverpool on Sunday. In a letter to Keir Starmer, the unions described the policy as “cruel” and said it must be fully abandoned as part of the government’s delayed child poverty strategy, expected to be published before Christmas. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/27/education-unions-urge-keir-starmer-scrap-cruel-two-child-benefit-cap",
+    "published": "2025-09-27T12:23:06Z",
+    "image_url": "https://i.guim.co.uk/img/media/ecb676c8f017f05f7c99878cf986418b66e0d821/439_0_4376_3503/master/4376.jpg?width=140&quality=85&auto=format&fit=max&s=b7dba992a5557804a33b3848091cc2bd",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ed497b2b7b",
+    "source": "BBC — Top Stories",
+    "title": "Drones seen over Danish military bases in latest air disruption",
+    "summary": "Drones were detected near at Karup airbase, following a series of incidents that disrupted airports this week.",
+    "url": "https://www.bbc.com/news/articles/c3rvzdq93yro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T12:16:11Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b934/live/b23db4f0-9b9b-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-abe5e4a8a0",
+    "source": "Politico — UK",
+    "title": "Musk, Bannon and Thiel named in new Epstein estate documents",
+    "summary": "The House Oversight Committee is continuing to release redacted materials in its ongoing Jeffrey Epstein investigation.",
+    "url": "https://www.politico.com/news/2025/09/26/musk-bannon-thiel-epstein-documents-00582627?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-27T12:11:08Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-10ac78d25d",
+    "source": "Politico — UK",
+    "title": "UN sanctions on Iran set to resume after push for delay fails",
+    "summary": "Efforts by China and Russia to delay the renewal of the sanctions failed to garner enough support in the U.N. Security Council on Friday.",
+    "url": "https://www.politico.eu/article/un-sanctions-iran-set-to-resume-nuclear-program/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-27T11:44:41Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/27/13379143-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-73762b73b1",
+    "source": "Politico — UK",
+    "title": "Supreme Court clears way for Trump to withhold $4B in foreign aid approved by Congress",
+    "summary": "The ruling could further muddle negotiations over the impending government shutdown.",
+    "url": "https://www.politico.com/news/2025/09/26/supreme-court-foreign-aid-impoundment-ruling-00583052?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-27T11:27:01Z",
+    "image_url": null,
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -27,7 +75,7 @@
     "id": "The Guardian — UK-c9d89a8d32",
     "source": "The Guardian — UK",
     "title": "Labour seeks ‘ambitious’ youth mobility scheme with EU",
-    "summary": "Chancellor says plan allows thousands of young Europeans to temporarily live and work in UK, and vice versa Labour will seek out an “ambitious” youth mobility scheme with the EU, allowing thousands of young Europeans to temporarily live and work in the UK, Rachel Reeves has said. The chancellor told the Times the scheme would be “good for the economy, good for growth and good for business”, but stopped short of specifying precisely who will be eligible. Continue reading...",
+    "summary": "Chancellor says plan would allow thousands of young Europeans to temporarily live and work in UK, and vice versa UK politics live – latest updates Labour will seek an “ambitious” youth mobility scheme with the EU, allowing thousands of young Europeans to temporarily live and work in the UK, Rachel Reeves has said. The chancellor told the Times the scheme would be “good for the economy, good for growth and good for business”, but stopped short of specifying who would be eligible. Continue reading...",
     "url": "https://www.theguardian.com/world/2025/sep/27/labour-seeks-youth-mobility-scheme-with-eu",
     "published": "2025-09-27T10:38:01Z",
     "image_url": "https://i.guim.co.uk/img/media/c9e0184c64c11e5d7e0bb0b8cb14b5e7e39c04ba/178_0_5355_4284/master/5355.jpg?width=140&quality=85&auto=format&fit=max&s=087d59cad97b1ee0afed87eb346e6055",
@@ -120,6 +168,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-f789ba04fe",
+    "source": "BBC — Top Stories",
+    "title": "England v Canada: Rugby World Cup final guide",
+    "summary": "England and Canada meet on Saturday in the Women's Rugby World Cup final at Twickenham. Here's everything you need to know.",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/cd9yyx4kq1jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T09:20:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4263/live/bcb0ae20-9ae1-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-355e9f2e3e",
     "source": "Politico — UK",
     "title": "Trump vows to declassify Amelia Earhart files",
@@ -180,18 +240,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-b699f6aa23",
-    "source": "BBC — Top Stories",
-    "title": "How the King’s vision is shaping next wave of new towns",
-    "summary": "King Charles's views on town planning were once controversial but are now an influence on new developments.",
-    "url": "https://www.bbc.com/news/articles/c179z9z1lxwo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T08:18:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c53f/live/6f4db490-9b39-11f0-bd12-8ba761220fbb.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-8ffde5a3b6",
     "source": "The Guardian — UK",
     "title": "Keir Starmer to warn Labour that battle with Reform is ‘fight for soul of the nation’",
@@ -216,13 +264,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-15c92cdf40",
+    "id": "The Guardian — UK-e155a237e7",
     "source": "The Guardian — UK",
-    "title": "‘Affordable luxuries’: British shoppers spread their love for flavoured butter",
-    "summary": "Experts say rise in consumers buying flavours such as chocolate and truffle driven by social media trends and ‘foodie’ culture Butter is no longer just salted or unsalted: British shoppers are increasingly buying flavours such as chocolate and truffle, driven by social media trends and a growing appetite for convenience in home cooking. Figures from Worldpanel, an analyst that tracks supermarket sales, show spending on flavoured butters across Britain rose by 24% in the 52 weeks to 7 September 2025, compared with the previous year. In the same period, growth for packs of flavoured butter is also up 16.2%. Continue reading...",
-    "url": "https://www.theguardian.com/food/2025/sep/27/britain-butter-food-cooking-retail-social-media",
-    "published": "2025-09-27T08:01:22Z",
-    "image_url": "https://i.guim.co.uk/img/media/42279d6e324d6b5629b09b1b439bd7021d64dc5f/0_324_1212_969/master/1212.jpg?width=140&quality=85&auto=format&fit=max&s=c442996bf390a67ac78ef382081bdebe",
+    "title": "Anti-migrant activists may target rental homes, charities warn",
+    "summary": "Fears raised over social media posts urging action against shared properties housing asylum seekers ‘They’ve got to go somewhere’: Bolton residents on the rise of HMOs Fears are growing that shared houses may become the focus of anti-migrant protests, with residents and charities saying tensions are building in some areas. Homes of multiple occupation (HMOs) have grown in number as renters seek affordable accommodation amid a housing crisis. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/27/anti-migrant-activists-may-target-rental-homes-charities-warn",
+    "published": "2025-09-27T08:00:37Z",
+    "image_url": "https://i.guim.co.uk/img/media/edc1a84184473e0cab5672b811938f7e27d109a5/649_0_6489_5192/master/6489.jpg?width=140&quality=85&auto=format&fit=max&s=e8f502c18a332f8117fbcc7fa65f75a4",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -264,13 +312,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-8fec0a3921",
-    "source": "BBC — Top Stories",
-    "title": "From RAF engineers to plumbers: The working lives behind England’s rugby world cup final stars",
-    "summary": "England's players will be fully focused on their game when they take on Canada in Saturday's Women's Rugby World Cup final - but they know what it's like to combine sport with a full-time job.",
-    "url": "https://www.bbc.com/sport/rugby-union/articles/cp8j407x6mko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T05:00:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fb7/live/d1f1ef60-99fb-11f0-92db-77261a15b9d2.jpg",
+    "id": "The Guardian — UK-a0ebb37bc0",
+    "source": "The Guardian — UK",
+    "title": "‘A hacker’s dream’: Britons on Keir Starmer’s plan for digital ID cards",
+    "summary": "Views range from concerns over civil liberties and cybersecurity, to welcoming it as a helpful system to streamline services Keir Starmer has announced plans for a digital ID system , which will become mandatory as a means of proving the right to work in the UK. From concerns around civil liberties and cybersecurity to a helpful system to streamline services in line with other European countries’ existing ID schemes, eight people share their views. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/27/britons-on-keir-starmer-plan-digital-id-cards",
+    "published": "2025-09-27T05:00:38Z",
+    "image_url": "https://i.guim.co.uk/img/media/27a6e400dcf25f948da601709181838de103fd55/0_241_3120_2495/master/3120.jpg?width=140&quality=85&auto=format&fit=max&s=f543cb6513c11994b4261940fe056f45",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -283,18 +331,6 @@
     "url": "https://www.theguardian.com/news/ng-interactive/2025/sep/27/dont-trust-trump-how-uk-health-experts-fighting-back-war-medicine",
     "published": "2025-09-27T05:00:38Z",
     "image_url": "https://i.guim.co.uk/img/media/15f1a9a4aebab334337c4a2c7547133dfe5aee52/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3c39b9d8303c02b6782cf5b293531f13",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-a0ebb37bc0",
-    "source": "The Guardian — UK",
-    "title": "‘A hacker’s dream’: Britons on Keir Starmer’s plan for digital ID cards",
-    "summary": "Views range from concerns over civil liberties and cybersecurity, to welcoming it as a helpful system to streamline services Keir Starmer has announced plans for a digital ID system , which will become mandatory as a means of proving the right to work in the UK. From concerns around civil liberties and cybersecurity to a helpful system to streamline services in line with other European countries’ existing ID schemes, eight people share their views. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/27/britons-on-keir-starmer-plan-digital-id-cards",
-    "published": "2025-09-27T05:00:38Z",
-    "image_url": "https://i.guim.co.uk/img/media/27a6e400dcf25f948da601709181838de103fd55/0_241_3120_2495/master/3120.jpg?width=140&quality=85&auto=format&fit=max&s=f543cb6513c11994b4261940fe056f45",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -331,18 +367,6 @@
     "url": "https://www.bbc.com/news/articles/c0q74pxx871o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T05:00:08Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2b/live/ca2a45a0-9aed-11f0-92db-77261a15b9d2.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-168fd6e7eb",
-    "source": "BBC — Top Stories",
-    "title": "Play now",
-    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
-    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T04:30:56Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -408,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-763a6a37a6",
-    "source": "Politico — UK",
-    "title": "World’s cartoonists on this week’s events",
-    "summary": "Drawing the top stories around the globe.",
-    "url": "https://www.politico.eu/article/worlds-cartoonists-on-this-weeks-events-171/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-27T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/300299_1536_rgb.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-53eeb07375",
     "source": "BBC — Top Stories",
     "title": "Flags, wars and fantasy kingdoms: Turner Prize artists show us their worlds",
@@ -434,11 +446,11 @@
   {
     "id": "BBC — Top Stories-e4c9fbb935",
     "source": "BBC — Top Stories",
-    "title": "'Have I made the wrong decision?': Backstage at Strictly as live show looms",
+    "title": "Spray tans and sparkles: Backstage with Strictly stars ahead of first live show",
     "summary": "Fifteen couples are hoping to waltz their way to the glitterball trophy.",
     "url": "https://www.bbc.com/news/articles/c9dx0x68z46o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T01:08:19Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a00/live/a64ed6d0-9ab8-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53d5/live/ae040710-9b94-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -446,8 +458,8 @@
   {
     "id": "BBC — Top Stories-12a7e8fdd7",
     "source": "BBC — Top Stories",
-    "title": "Huntington's breakthrough 'like winning the lottery 10 times over'",
-    "summary": "Families are elated by news of the first treatment for the devastating disease - but when and how will the NHS fund it?",
+    "title": "I thought my husband might not see our kids grow up. That's all changed now",
+    "summary": "Families are elated by news of the first treatment for Huntington's disease - but when and how will the NHS fund it?",
     "url": "https://www.bbc.com/news/articles/c3vzek4dkyyo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T01:02:20Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4277/live/b3c50530-9abf-11f0-b832-7b9888705b9b.jpg",
@@ -458,7 +470,7 @@
   {
     "id": "BBC — Top Stories-729e77bfca",
     "source": "BBC — Top Stories",
-    "title": "How hard is it to become an influencer? Three people with zero followers find out",
+    "title": "Can anyone become an influencer? Three people with zero followers find out",
     "summary": "Three beginners take on the challenge of turning their talent into social media traction in three months.",
     "url": "https://www.bbc.com/news/articles/cy7pe3l3d6no?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T00:33:32Z",
@@ -480,6 +492,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-3e80e51ef9",
+    "source": "BBC — Top Stories",
+    "title": "King Charles to meet Pope Leo on rearranged Vatican visit",
+    "summary": "Their previous official visit to the Vatican was postponed earlier this year due to the poor health of Pope Francis.",
+    "url": "https://www.bbc.com/news/articles/cn0xykpdje8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T23:02:02Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb88/live/fa731210-9aec-11f0-89b4-1b2d09c610c7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-dbf5184443",
     "source": "BBC — Top Stories",
     "title": "Holocaust survivor Ruth Posner and husband die at Swiss clinic",
@@ -487,30 +511,6 @@
     "url": "https://www.bbc.com/news/articles/cp8j256l79go?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T18:54:27Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/984b/live/40f022b0-9b00-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-fa156b1632",
-    "source": "The Guardian — UK",
-    "title": "Labour restores whip to two more child benefit cap rebels",
-    "summary": "John McDonnell and Apsana Begum were among last still suspended for July 2024 rebellion Labour has restored the party whip John McDonnell and Apsana Begum 14 months after they lost it for rebelling over the two-child benefit cap, the Guardian understands. The pair had the whip reinstated after a conversation on Friday with Jonathan Reynolds, who became Labour’s chief whip in a reshuffle earlier this month. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/26/labour-restores-whip-to-two-more-child-benefit-cap-rebels",
-    "published": "2025-09-26T18:16:20Z",
-    "image_url": "https://i.guim.co.uk/img/media/1c42f0f34ead640b0ea324053de5927c8491a16a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1c541f71fa5f2b5376c3c210081c6082",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-bfdb0107bf",
-    "source": "Politico — UK",
-    "title": "Brussels eyes loophole to isolate Hungary, send billions in Russian assets to Ukraine",
-    "summary": "EU legal experts are studying a way to get round the need for unanimity to send €140 billion to Kyiv.",
-    "url": "https://www.politico.eu/article/hungary-viktor-orban-russian-assets-sanctions-war-in-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-26T17:54:42Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-2222275722-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,18 +535,6 @@
     "url": "https://www.theguardian.com/world/2025/sep/26/starmer-id-card-plan-has-caused-upset-but-in-the-eu-the-debate-has-long-been-settled",
     "published": "2025-09-26T15:45:41Z",
     "image_url": "https://i.guim.co.uk/img/media/c8c7b49487f89c837e780a3d2f6e35c3f4b36636/239_0_4750_3800/master/4750.jpg?width=140&quality=85&auto=format&fit=max&s=9d15ca1a77c412ede6b44dda21a6b4c9",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-a397f096a3",
-    "source": "Politico — UK",
-    "title": "Libyan militia fires on Sea-Watch migrant rescue ship, escalating EU tensions",
-    "summary": "The incident mirrors an attack on Aug. 24, when the rescue ship Ocean Viking came under fire from a Libyan patrol boat.",
-    "url": "https://www.politico.eu/article/libya-militia-sea-watch-migrant-rescue-ship-eu-tensions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-26T15:39:28Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-1244457930-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -595,6 +583,18 @@
     "url": "https://www.theguardian.com/politics/audio/2025/sep/25/labour-lucy-powell-progressive-voters-politics-weekly-uk-podcast",
     "published": "2025-09-25T10:25:06Z",
     "image_url": "https://i.guim.co.uk/img/media/83229aa2d532edb40d383c74e343b415e926d48a/404_0_3705_2964/master/3705.jpg?width=140&quality=85&auto=format&fit=max&s=71bf28137ad443d9d90cb4dc355da452",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f2240a1dbb",
+    "source": "BBC — Top Stories",
+    "title": "Meet the history-making astronauts headed for the Moon",
+    "summary": "Astronauts of Nasa's first crewed mission to the Moon for more than 50 years hope their journey inspires a new generation.",
+    "url": "https://www.bbc.com/news/articles/cvg0kv8rq0xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-24T16:20:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f078/live/6f02ffa0-997b-11f0-92db-77261a15b9d2.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
