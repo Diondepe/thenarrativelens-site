@@ -1,12 +1,48 @@
 [
   {
+    "id": "BBC — Top Stories-c07216194b",
+    "source": "BBC — Top Stories",
+    "title": "George Galloway stopped by counter-terror police at Gatwick",
+    "summary": "Counter-terrorism officers intercepted the Workers Party leader and his wife without arresting them.",
+    "url": "https://www.bbc.com/news/articles/c20e4ge36e6o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T21:01:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6827/live/5599cc00-9bd4-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f05e73bc4d",
+    "source": "BBC — Top Stories",
+    "title": "Government to guarantee £1.5bn loan to Jaguar Land Rover after cyber shutdown",
+    "summary": "Ministers hope the loan, from a commercial bank and underwritten by the government, will give certainty to suppliers.",
+    "url": "https://www.bbc.com/news/articles/cgl15ykerlro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T21:00:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1505/live/303c0ab0-9be6-11f0-bddd-5f1abb8b5445.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-a2ae6e7aca",
     "source": "BBC — Top Stories",
     "title": "Trump authorises 'full force' as Portland set to become latest city to see troops deployed",
     "summary": "The president says the latest move to send troops to a major US city is \"necessary\" to protect immigration detention facilities.",
     "url": "https://www.bbc.com/news/articles/cddmn6ge6e2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T20:16:01Z",
+    "published": "2025-09-27T20:36:33Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f35b/live/f3e23540-9bcb-11f0-abc3-59cd99a67fd1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0767e9b085",
+    "source": "BBC — Top Stories",
+    "title": "PM takes aim at 'toxic' Reform as Labour conference gets going",
+    "summary": "The Labour conference is set to be dominated by questions over how to respond to Nigel Farage's party.",
+    "url": "https://www.bbc.com/news/articles/cn0xzdgyx0do?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T20:29:07Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4260/live/801478a0-9bb0-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -26,7 +62,7 @@
   {
     "id": "BBC — Top Stories-e7d9c0159c",
     "source": "BBC — Top Stories",
-    "title": "Dozens dead in crush at political rally in India",
+    "title": "More than 30 dead in crush at political rally in India",
     "summary": "Tens of thousands had gathered at a campaign event for actor-turned-politician Vijay in India's southern state of Tamil Nadu.",
     "url": "https://www.bbc.com/news/articles/c98dqyj5dpjo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T20:04:05Z",
@@ -51,7 +87,7 @@
     "id": "BBC — Top Stories-1eb6f3fd04",
     "source": "BBC — Top Stories",
     "title": "Scale of World Cup win unimaginable, says England star Hunt",
-    "summary": "England never contemplated anything less than winning the Women's World Cup in a landmark final at Twickenham, says captain Zoe Aldcroft.",
+    "summary": "England \"can dominate the world for a long time\" believes Red Roses head coach John Mitchell after his side beat Canada to win the World Cup.",
     "url": "https://www.bbc.com/sport/rugby-union/articles/cqlzgdxplyyo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T19:20:04Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a480/live/2639adb0-9bdc-11f0-b741-177e3e2c2fc7.jpg",
@@ -67,18 +103,6 @@
     "url": "https://www.bbc.com/sport/rugby-union/articles/czjvgj81y2mo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T18:43:53Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab87/live/d15f17c0-9bc8-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-0767e9b085",
-    "source": "BBC — Top Stories",
-    "title": "PM takes aim at 'toxic' Reform as he arrives for Labour conference",
-    "summary": "The Labour conference is set to be dominated by questions over how to respond to Nigel Farage's party.",
-    "url": "https://www.bbc.com/news/articles/cn0xzdgyx0do?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T18:41:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4260/live/801478a0-9bb0-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -372,18 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-19888bdd6e",
-    "source": "BBC — Top Stories",
-    "title": "Reeves pushes for EU youth migration scheme ahead of Budget",
-    "summary": "The chancellor calls for an 'ambitious' deal as she looks to boost growth ahead of the 26 November Budget.",
-    "url": "https://www.bbc.com/news/articles/c179z10vy28o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T10:07:09Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/3528db00-9b34-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e7f9cbfbb8",
     "source": "The Guardian — UK",
     "title": "Starmer asks Conservative peer to write planning bill to block judicial reviews",
@@ -391,18 +403,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/27/starmer-asks-conservative-peer-write-planning-bill-block-judicial-reviews",
     "published": "2025-09-27T10:00:41Z",
     "image_url": "https://i.guim.co.uk/img/media/d97fae63aa78e2ae60f09873f97066545c294223/584_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5a3242e6877052a601961bf2207ff374",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e9620a3316",
-    "source": "BBC — Top Stories",
-    "title": "Two women die during failed Channel crossing attempt",
-    "summary": "Authorities say the pair died off the coast of northern France after about 100 people set off by makeshift boat.",
-    "url": "https://www.bbc.com/news/articles/cx2jg20pdm0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T09:54:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9fb/live/b3e81c80-9b8e-11f0-bdeb-9de9348d5d1d.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
