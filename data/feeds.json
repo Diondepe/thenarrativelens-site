@@ -1,5 +1,77 @@
 [
   {
+    "id": "The Guardian — UK-bda7b20d39",
+    "source": "The Guardian — UK",
+    "title": "‘Don’t trust Trump’: how UK health experts are fighting back against a war on medicine",
+    "summary": "Ministers and medical groups have acted quickly to limit fallout after US president made unproven link between paracetamol and autism Wes Streeting, the UK health secretary, was in a government car heading back into central London from a flag-raising to mark the UK’s recognition of Palestine when he saw the news . “He was aghast,” an aide said. Streeting was reading on his phone that Donald Trump had just warned women not to take Tylenol – known outside the US as paracetamol – during pregnancy. The US president had alleged without evidence that the common painkiller caused autism in children. “Don’t take Tylenol,” Trump said about a drug also known as acetaminophen. Continue reading...",
+    "url": "https://www.theguardian.com/news/ng-interactive/2025/sep/27/dont-trust-trump-how-uk-health-experts-fighting-back-war-medicine",
+    "published": "2025-09-27T05:00:38Z",
+    "image_url": "https://i.guim.co.uk/img/media/15f1a9a4aebab334337c4a2c7547133dfe5aee52/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3c39b9d8303c02b6782cf5b293531f13",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-a0ebb37bc0",
+    "source": "The Guardian — UK",
+    "title": "‘A hacker’s dream’: Britons on Keir Starmer’s plan for digital ID cards",
+    "summary": "Views range from concerns over civil liberties and cybersecurity, to welcoming it as a helpful system to streamline services Keir Starmer has announced plans for a digital ID system , which will become mandatory as a means of proving the right to work in the UK. From concerns around civil liberties and cybersecurity to a helpful system to streamline services in line with other European countries’ existing ID schemes, eight people share their views. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/27/britons-on-keir-starmer-plan-digital-id-cards",
+    "published": "2025-09-27T05:00:38Z",
+    "image_url": "https://i.guim.co.uk/img/media/27a6e400dcf25f948da601709181838de103fd55/0_241_3120_2495/master/3120.jpg?width=140&quality=85&auto=format&fit=max&s=f543cb6513c11994b4261940fe056f45",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-ecee216295",
+    "source": "The Guardian — UK",
+    "title": "Six great reads: meeting Matthew McConaughey, stodgy puddings and the truth about the ‘Boriswave’",
+    "summary": "Need something brilliant to read this weekend? Here are six of our favourite pieces from the past seven days Continue reading...",
+    "url": "https://www.theguardian.com/news/2025/sep/27/six-great-reads-meeting-matthew-mcconaughey-stodgy-puddings-and-the-truth-about-the-boriswave",
+    "published": "2025-09-27T05:00:36Z",
+    "image_url": "https://i.guim.co.uk/img/media/886f49f87530c77c9a57ca9991e04aae0b1b0ca3/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=351bdbe36b6123f6852bfe9fcde7bace",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-973709fea2",
+    "source": "The Guardian — UK",
+    "title": "Challenge for Starmer on stark display as Labour conference begins",
+    "summary": "Leader needs to draw a line under the chaos and offer hope – to his party and to the nation In the imposing marble rooms of the Methodist Central Hall in the heart of Westminster on Friday, the great and the good of the progressive movement gathered at what many fear is an existential moment for their brand of centre-left politics. Keir Starmer was on punchier form than usual , telling the summit audience that he was up for the fight against the populist right’s “industrialised infrastructure of grievance”. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/27/challenge-for-starmer-on-stark-display-as-labour-conference-begins",
+    "published": "2025-09-27T05:00:34Z",
+    "image_url": "https://i.guim.co.uk/img/media/26139ba21a476883a89249c78fc775a19b525985/312_58_2867_2294/master/2867.jpg?width=140&quality=85&auto=format&fit=max&s=33160142afb0a034bd73d28e68ed4d2e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-986c29dfd9",
+    "source": "BBC — Top Stories",
+    "title": "Trump promised retribution - how far will he go?",
+    "summary": "As the US president pushes a crackdown on left-wing groups and openly targets political foes, critics ask where he's taking America.",
+    "url": "https://www.bbc.com/news/articles/c0q74pxx871o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T05:00:08Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2b/live/ca2a45a0-9aed-11f0-92db-77261a15b9d2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-168fd6e7eb",
+    "source": "BBC — Top Stories",
+    "title": "Play now",
+    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
+    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T04:30:56Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-4fd16c8a5f",
     "source": "BBC — Top Stories",
     "title": "William's 'hardest year' and King 'key to Trump U-turn'",
@@ -235,18 +307,6 @@
     "url": "https://www.bbc.com/news/articles/cy7pm1jz0dlo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-26T21:54:51Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b157/live/0a72c3f0-9b14-11f0-a0ea-414bd016a286.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-d52d56c685",
-    "source": "BBC — Top Stories",
-    "title": "Trump pushed to prosecute Comey, but his own actions could undermine the case",
-    "summary": "Legal experts say his comments about the former FBI director and the unusual lead-up to this week's indictment could make it hard to win in court.",
-    "url": "https://www.bbc.com/news/articles/cg42e01p23qo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T21:45:40Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef55/live/06b86a20-9b0b-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -492,42 +552,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-de750fd3b2",
-    "source": "The Guardian — UK",
-    "title": "Treasury ‘putting the squeeze’ on OBR over Labour growth plans amid tensions over downgrade",
-    "summary": "Rachel Reeves may have to find up to £30bn in tax rises or spending cuts if forecaster revisits expectations Treasury policymakers frustrated by the politically damaging timing of a downgrade to UK productivity forecasts by the Office for Budget Responsibility (OBR) are pressing the watchdog to score the benefits of Labour’s pro-growth plans. Rachel Reeves faces the prospect of having to find up to £30bn in tax rises or spending cuts in her 26 November budget if, as expected , the OBR cuts its forecast for future productivity growth to match the consensus of other experts. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/sep/26/treasury-putting-squeeze-on-obr-growth-plans-tensions-over-downgrade-rachel-reeves",
-    "published": "2025-09-26T12:00:13Z",
-    "image_url": "https://i.guim.co.uk/img/media/9778801a9cf5c943fcf8cd4e80853477c1f95f1e/1380_711_4669_3737/master/4669.jpg?width=140&quality=85&auto=format&fit=max&s=3d745fca298f7768cb65f26a3921add0",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-e00597d7d7",
-    "source": "The Guardian — UK",
-    "title": "Reform UK’s ex-leader in Wales Nathan Gill pleads guilty to bribery charges",
-    "summary": "Gill admits eight counts of bribery relating to pro-Russia statements made in European parliament and articles The former leader of Reform UK in Wales has pleaded guilty to bribery charges relating to statements in favour of Russia in the European parliament. Nathan Gill, of Anglesey, north Wales, admitted eight counts of bribery between 6 December 2018 and 18 July 2019. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/26/reform-uk-ex-leader-wales-nathan-gill-pleads-guilty-bribery-charges",
-    "published": "2025-09-26T11:59:51Z",
-    "image_url": "https://i.guim.co.uk/img/media/32f212798b55140943b4b524661266f2276256ea/975_667_3992_3194/master/3992.jpg?width=140&quality=85&auto=format&fit=max&s=c73899934af7c634486801d4921210da",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-c5b9425911",
-    "source": "The Guardian — UK",
-    "title": "Year 8 state school pupils in England could face mandatory reading tests",
-    "summary": "Proposal aims to tackle under-achievement by white working-class children and improve schools’ focus on reading Pupils at state schools in England will face new reading tests in an attempt to tackle under-achievement by white working-class children. The government’s forthcoming white paper on schools is to include a new test of reading ability for pupils in year 8, when they are aged 12 or 13, in an effort to encourage secondary schools to improve their teaching. Continue reading...",
-    "url": "https://www.theguardian.com/education/2025/sep/26/year-8-state-school-pupils-in-england-could-face-mandatory-reading-tests",
-    "published": "2025-09-26T10:06:31Z",
-    "image_url": "https://i.guim.co.uk/img/media/274e4a5e0a94fb6eb7deaed379b882cb16664f23/856_0_4264_3413/master/4264.jpg?width=140&quality=85&auto=format&fit=max&s=ac61e150e98b70e22456a3aeb9718a60",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-c93c76335a",
     "source": "The Guardian — UK",
     "title": "What are the critical environmental decisions piling up in Labour’s inbox?",
@@ -535,30 +559,6 @@
     "url": "https://www.theguardian.com/environment/2025/sep/26/what-are-the-critical-environmental-decisions-piling-up-in-labours-inbox",
     "published": "2025-09-26T09:00:03Z",
     "image_url": "https://i.guim.co.uk/img/media/fef96f2528b049eb5c5f65f42ec7fb6f7e9c9668/0_0_4260_3407/master/4260.jpg?width=140&quality=85&auto=format&fit=max&s=8c7e15967d1097f34cf57a08759e750d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-c9fdae688e",
-    "source": "The Guardian — UK",
-    "title": "IOPC investigators allegedly said Nottingham stabbings inquiry was ‘politically motivated’",
-    "summary": "Mother of victim Barnaby Webber says allegations about watchdog staff have left families asking whom they can trust Police watchdog investigators who are alleged to have described an inquiry into the 2023 Nottingham stabbings as politically motivated are “disrespectful and inhumane”, the mother of one victim has said. Emma Webber said new allegations about staff at the Independent Office for Police Conduct (IOPC) had left families asking whom they could trust. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/26/iopc-nottingham-stabbings-inquiry-politically-motivated",
-    "published": "2025-09-26T08:49:09Z",
-    "image_url": "https://i.guim.co.uk/img/media/a79ed4a4f912d2f6aaeb5c708ea2be4dae076be3/1184_246_2316_1853/master/2316.jpg?width=140&quality=85&auto=format&fit=max&s=54959888ab7efa241ace6f33aaaad8ba",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-168fd6e7eb",
-    "source": "BBC — Top Stories",
-    "title": "Play now",
-    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
-    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T04:59:12Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
