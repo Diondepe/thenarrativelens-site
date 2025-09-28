@@ -1,12 +1,48 @@
 [
   {
-    "id": "BBC — Top Stories-46c07e790f",
+    "id": "BBC — Top Stories-eb201fd198",
     "source": "BBC — Top Stories",
-    "title": "Collagen: Do you drink it? Inject it? Rub it on your skin? And does it work?",
-    "summary": "Pills, powders and creams promise to top up natural supplies which decrease as we get older.",
-    "url": "https://www.bbc.com/news/articles/cjr5zj12ye1o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T22:37:43Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f92d/live/0c8a5d50-9ae8-11f0-92db-77261a15b9d2.jpg",
+    "title": "Move over, Murdochs - a new family dynasty is shaking up US media",
+    "summary": "Larry Ellison's relationship with Donald Trump has drawn scrutiny as the tech billionaire and his son strive to become major media moguls.",
+    "url": "https://www.bbc.com/news/articles/cr4qwwk0g0yo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T00:30:14Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f10/live/68429800-9b02-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-2f70652b6a",
+    "source": "BBC — Top Stories",
+    "title": "Europe on the brink of Ryder Cup greatness after dominant Saturday performance",
+    "summary": "Europe's 6-2 demolition job of the US to take an 11½-4½ lead into the singles has seemingly made Sunday a formality.",
+    "url": "https://www.bbc.com/sport/golf/articles/ce8621jddj2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T00:20:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e0d/live/0e79e280-9bff-11f0-bd58-71d6e4e1de23.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-282537ba7d",
+    "source": "BBC — Top Stories",
+    "title": "From drug theft to Dubai arrests: How a Scottish gangland feud went global",
+    "summary": "The deadly dispute between the Daniel and Lyons crime families has been raging for 25 years.",
+    "url": "https://www.bbc.com/news/articles/c8xr1n4pp49o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T23:55:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c71/live/6072fbb0-9896-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-40636b2134",
+    "source": "BBC — Top Stories",
+    "title": "England's Roses 'rule the world' and PM heads for crunch conference",
+    "summary": "The build-up to Labour's big meeting this week and England's Rugby World Cup glory dominate Sunday's papers.",
+    "url": "https://www.bbc.com/news/articles/cn95e19rlj3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T23:20:47Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bb5/live/5c890580-9bf2-11f0-b741-177e3e2c2fc7.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -42,7 +78,7 @@
     "summary": "The president says the latest move to send troops to a major US city is \"necessary\" to protect immigration detention facilities.",
     "url": "https://www.bbc.com/news/articles/cddmn6ge6e2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T21:42:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f35b/live/f3e23540-9bcb-11f0-abc3-59cd99a67fd1.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f730/live/021eaaf0-9c01-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -79,6 +115,18 @@
     "url": "https://www.bbc.com/news/articles/cgl15ykerlro?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T21:00:13Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1505/live/303c0ab0-9be6-11f0-bddd-5f1abb8b5445.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-dd47737458",
+    "source": "BBC — Top Stories",
+    "title": "England's Red Roses have World Cup glory - and it will 'change their lives'",
+    "summary": "By beating Canada in front of a world record crowd at Twickenham, England put to bed the ghost of the 2022 Women's World Cup final.",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/cpq5w24899ro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T20:59:18Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19e9/live/0fb030b0-9be0-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -139,18 +187,6 @@
     "url": "https://www.bbc.com/sport/rugby-union/articles/cqlzgdxplyyo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T19:20:04Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a480/live/2639adb0-9bdc-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-50e62a352d",
-    "source": "BBC — Top Stories",
-    "title": "England overpower Canada to win Women's World Cup",
-    "summary": "England produce a performance full of power and ferocity to defeat Canada at Twickenham and win the Women's Rugby World Cup for a third time.",
-    "url": "https://www.bbc.com/sport/rugby-union/articles/czjvgj81y2mo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T18:43:53Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab87/live/d15f17c0-9bc8-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,18 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-80811dc95e",
-    "source": "BBC — Top Stories",
-    "title": "Solving the 100-year-old mystery of two missing Scottish soldiers",
-    "summary": "The painstaking investigation by a dedicated team of war detectives also tracked down living relatives of the men.",
-    "url": "https://www.bbc.com/news/articles/c7088ynken8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T07:59:10Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/288f/live/b9fc2280-971d-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-a0ebb37bc0",
     "source": "The Guardian — UK",
     "title": "‘A hacker’s dream’: Britons on Keir Starmer’s plan for digital ID cards",
@@ -499,30 +523,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/27/britons-on-keir-starmer-plan-digital-id-cards",
     "published": "2025-09-27T05:00:38Z",
     "image_url": "https://i.guim.co.uk/img/media/27a6e400dcf25f948da601709181838de103fd55/0_241_3120_2495/master/3120.jpg?width=140&quality=85&auto=format&fit=max&s=f543cb6513c11994b4261940fe056f45",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-afce693a12",
-    "source": "BBC — Top Stories",
-    "title": "Elon Musk and Prince Andrew named in new Epstein files",
-    "summary": "More documents related to the late convicted paedophile Jeffrey Epstein have been released by lawmakers in the US.",
-    "url": "https://www.bbc.com/news/articles/cwyl8j1we0lo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T03:39:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e42/live/89472f60-9b53-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-53eeb07375",
-    "source": "BBC — Top Stories",
-    "title": "Flags, wars and fantasy kingdoms: Turner Prize artists let us into their worlds",
-    "summary": "Work by the four artists nominated for this year's award will go on show in Bradford this weekend.",
-    "url": "https://www.bbc.com/news/articles/cn0xyqj7pxwo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T01:25:33Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f1d/live/391fea10-9bc9-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
