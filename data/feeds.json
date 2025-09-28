@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-b4c0e0f803",
+    "source": "BBC — Top Stories",
+    "title": "Pro-EU party in Moldova set to win election mired in claims of interference",
+    "summary": "The vote was seen as critical for Moldova's EU path, and President Maia Sandu warned the country's future was in danger.",
+    "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T23:15:11Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc3/live/79042050-9c47-11f0-82b3-31d97f4e1ffa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c88d01a9d1",
+    "source": "BBC — Top Stories",
+    "title": "How weight-loss injections are turning obesity into a wealth issue",
+    "summary": "With claims of a 'two-tier system', could it be that these drugs are exacerbating health inequalities?",
+    "url": "https://www.bbc.com/news/articles/cre5xp83394o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T23:02:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c8e/live/6181cad0-991e-11f0-af62-91486a511a31.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-3d01622910",
+    "source": "The Guardian — UK",
+    "title": "UK graduates and healthcare workers worst hit as jobs market ‘cools’",
+    "summary": "Recruitment report identifies sharp rise in vacancies for warehouse staff and cleaners but large fall in graduate opportunities Editorial: AI and jobs: tech revolution should be for the many not the few Graduates fresh from university will find it difficult to find a job after a 35% drop in hiring by employers over the last year, according to analysis by a leading recruitment data provider. Hiring freezes at many employers have taken the biggest toll on graduates and meant there is fierce competition for the few jobs left for younger workers. Continue reading...",
+    "url": "https://www.theguardian.com/money/2025/sep/29/uk-graduates-and-healthcare-workers-worst-hit-as-jobs-market-cools",
+    "published": "2025-09-28T23:01:24Z",
+    "image_url": "https://i.guim.co.uk/img/media/3237c2a7d7c8f732086f5725f0b740c4d22ea59e/240_0_2666_2132/master/2666.jpg?width=140&quality=85&auto=format&fit=max&s=db9a4fd5d0e07b4f2505fa9ba8e15502",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-61a556a435",
     "source": "BBC — Top Stories",
     "title": "Reeves to guarantee paid work for young people unemployed for 18 months",
@@ -7,18 +43,6 @@
     "url": "https://www.bbc.com/news/articles/c80gj2knrx4o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T22:13:31Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0104/live/6e3af170-9cac-11f0-8e15-edf4f5ab4f3b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b4c0e0f803",
-    "source": "BBC — Top Stories",
-    "title": "Pro-EU party in Moldova takes lead in election mired in claims of interference",
-    "summary": "The vote is seen as critical for Moldova's future EU path, and President Maia Sandu has warned of Russian interference.",
-    "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T22:12:19Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc3/live/79042050-9c47-11f0-82b3-31d97f4e1ffa.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -182,7 +206,7 @@
   {
     "id": "Politico — UK-684af2c1d8",
     "source": "Politico — UK",
-    "title": "UK minister confirms digital ID could root out benefit fraud",
+    "title": "UK minister says digital ID could root out benefit fraud",
     "summary": "LIVERPOOL — Controversial new plans for digital ID in Britain will help the government crack down on benefit fraud, according to the minister in charge of welfare. Ministers have insisted the digital ID rollout is aimed at ensuring people have the right to work in the U.K. in a bid to tackle illegal employment and […]",
     "url": "https://www.politico.eu/article/uk-minister-digital-id-benefit-fraud-welfare-reform-populist-tech-liverpool/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-28T17:45:03Z",
@@ -276,18 +300,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-dccd0911e9",
-    "source": "The Guardian — UK",
-    "title": "Britain’s oldest identical twin dies, aged 105, three years after her sister",
-    "summary": "Kathleen Whitehead, known with sibling as ‘the Twinnies’, put their long life down to wine, chocolate and exercise Britain’s oldest identical twin has died at the age of 105 – three years after her sister. Kathleen Whitehead died peacefully this month. Her twin, Dorothy Sivyer, died in July 2022. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/28/britain-oldest-identical-twin-kathleen-whitehead-dies-three-years-after-sister",
-    "published": "2025-09-28T16:41:42Z",
-    "image_url": "https://i.guim.co.uk/img/media/144cda6530936db1cfa11cb569d79b581eaf7397/266_0_2220_1777/master/2220.jpg?width=140&quality=85&auto=format&fit=max&s=fe2d9fa2009892825a41c52d1d3d7e38",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-b372ac9780",
     "source": "BBC — Top Stories",
     "title": "Swiss voters narrowly approve plan for electronic ID cards",
@@ -319,6 +331,18 @@
     "url": "https://www.bbc.com/sport/rugby-union/articles/cd9ygg1l48zo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T15:15:12Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ac6/live/98efbeb0-9c79-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-538df0bdf3",
+    "source": "The Guardian — UK",
+    "title": "Populist threat to rule of law a danger to UK working class, says attorney general",
+    "summary": "Richard Hermer aims criticism at Nigel Farage and Robert Jenrick at Labour conference event Rightwing populists threaten working-class people’s protections under the rule of law, the attorney general has said in his most political intervention yet. In a criticism directed squarely at Nigel Farage and Robert Jenrick, Richard Hermer said populist politicians posed a threat to the everyday protectionsafforded to people who used the legal system and the courts to right significant wrongs. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/28/labour-richard-hermer-attorney-general-populist-danger-rule-of-law-uk-working-class",
+    "published": "2025-09-28T14:45:20Z",
+    "image_url": "https://i.guim.co.uk/img/media/5b7c206020ffb7f17b01ea48a0faa1176019eb4e/616_88_3603_2883/master/3603.jpg?width=140&quality=85&auto=format&fit=max&s=6379491fa4bb79d3f7504cc556e26620",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,18 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-48ffd8bac5",
-    "source": "The Guardian — UK",
-    "title": "Inside the everyday Facebook networks where far-right ideas grow",
-    "summary": "The Guardian spent a year studying an online community trading in anti-immigration sentiment and misinformation. Experts say such spaces can play a role in radicalisation Far-right Facebook groups are engine of radicalisation in UK, data investigation suggests Far-right ideas are gaining ground. They are thriving in online worlds which are not easily visible to large swathes of the public but which spread misinformation that has real-world consequences. Take last year. In the summer of 2024, riots broke out across parts of the UK, fuelled by misinformation that spread on social media . Continue reading...",
-    "url": "https://www.theguardian.com/world/ng-interactive/2025/sep/28/inside-the-everyday-facebook-networks-where-far-right-ideas-grow",
-    "published": "2025-09-28T07:00:05Z",
-    "image_url": "https://i.guim.co.uk/img/media/c503514b4c62e6fface446b85b9e70568eb8de19/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=15866ae31c112311e83a1809f4499051",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-168fd6e7eb",
     "source": "BBC — Top Stories",
     "title": "Play now",
@@ -499,18 +511,6 @@
     "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T04:43:27Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-11645bd0fb",
-    "source": "BBC — Top Stories",
-    "title": "Dismissed as a joke, UK's first rice crop ripe for picking after hot summer",
-    "summary": "Paddy fields are thriving in a quiet part of east England and might help feed us in the future.",
-    "url": "https://www.bbc.com/news/articles/c1wgeq702dyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T00:50:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91a0/live/11a64bd0-9252-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
