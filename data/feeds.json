@@ -36,18 +36,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-11645bd0fb",
-    "source": "BBC — Top Stories",
-    "title": "Dismissed as a joke, UK's first rice crop ripe for picking after hot summer",
-    "summary": "Paddy fields are thriving in a quiet part of east England and might help feed us in the future.",
-    "url": "https://www.bbc.com/news/articles/c1wgeq702dyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T00:50:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91a0/live/11a64bd0-9252-11f0-9cf6-cbf3e73ce2b9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-eb201fd198",
     "source": "BBC — Top Stories",
     "title": "Move over, Murdochs - a new family dynasty is shaking up US media",
@@ -91,6 +79,18 @@
     "url": "https://www.bbc.com/news/articles/cn95e19rlj3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T23:20:47Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bb5/live/5c890580-9bf2-11f0-b741-177e3e2c2fc7.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-374ac5fa8c",
+    "source": "BBC — Top Stories",
+    "title": "Swiss vote on electronic identity cards for second time",
+    "summary": "The proposal was revised after voters rejected the idea in 2021 amid concerns over data protection.",
+    "url": "https://www.bbc.com/news/articles/c20e4z2z8n7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T22:39:55Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59b7/live/27b946d0-9bf2-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
