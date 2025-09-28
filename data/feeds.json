@@ -1,8 +1,56 @@
 [
   {
+    "id": "BBC — Top Stories-f05e73bc4d",
+    "source": "BBC — Top Stories",
+    "title": "Government to guarantee £1.5bn loan to Jaguar Land Rover after cyber shutdown",
+    "summary": "Ministers hope the loan, from a commercial bank and underwritten by the government, will give certainty to suppliers.",
+    "url": "https://www.bbc.com/news/articles/cgl15ykerlro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T10:11:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1505/live/303c0ab0-9be6-11f0-bddd-5f1abb8b5445.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a20dc75955",
+    "source": "BBC — Top Stories",
+    "title": "Zelensky condemns 'vile' Russian strikes lasting 12 hours",
+    "summary": "More than 600 drones and missiles, predominantly aimed at Kyiv, hit factories and the Institute of Cardiology.",
+    "url": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T09:51:47Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e0c/live/0796d830-9c48-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-46f39492ff",
+    "source": "The Guardian — UK",
+    "title": "Starmer calls Reform’s policy on immigration ‘racist’ and says Farage’s party would ‘tear country apart’ – Labour conference live",
+    "summary": "PM calls Reform’s policy immoral but says people who want to vote for them are not racist but frustrated Kuenssberg ended her interview by asking about Andy Burnham, and the leadership. Starmer said Burnham was doing a very good job as mayor of Greater Manchester. Comments about leaders and leadership are part and parcel of being in politics. It is the bread and butter of politics, every leader get its, it always comes up, particularly at conference. It’s in the job description. People are entitled to their views and I’m not sticking my fingers in my ear in the slightest. What I am saying is that it is important to keep focusing on what it is that we are delivering, and saying, absolutely in clear terms, the difference it makes to people’s lives. One, have we improved living standards? Do people genuinly feel better off? Two, have we improved public services? Is the NHS in a better place, and people can feel it. And, three, do people feel safe and secure in their home, in their neighbourhood, and that their country is secure. It’s a five-year mandate, and I will be judged at the end of that five years, and quite right too. I just need the space and get on and do what we need to do, and do those three things above all else. I am saying we have got the fight of our lives ahead of us because we’ve got to take on Reform and we’ve got to beat them. So now is not the time for introspection or navel-gazing. There is a fight that we are all in together, and every single member of our party and our movement – actually, everyone who cares about what this country is, whether they vote Labour or otherwise - it’s the fight of our lives for who we are as a country. We need to be in that fight, united not navel-gazing. I’m absolutely clear in my mind about that, and that’s what I will be talking about at conference. Sir Keir Starmer gave land to his parents via a trust that meant their estates would never pay inheritance tax on the asset whatever its eventual value, according to legal experts. The prime minister’s decision to place a seven-acre field within the structure meant its value was excluded from his parents’ estate, of which he was a beneficiary, when they died. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/28/labour-conference-keir-starmer-latest-uk-politics-news-live-updates",
+    "published": "2025-09-28T09:31:06Z",
+    "image_url": "https://i.guim.co.uk/img/media/278884c7175aa9e0168f0cf2237632369f74848c/237_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=8a64dc441b65a229636a4aa4092a2295",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-5a1c50c5ad",
+    "source": "The Guardian — UK",
+    "title": "Keir Starmer attacks ‘racist’ Farage plan to deport people settled in the UK",
+    "summary": "Prime minister says Reform proposal to abolish indefinite leave to remain could ‘tear this country apart’ Labour conference – live updates Keir Starmer has attacked Reform UK’s plan to deport thousands of people already legally living in the UK as “racist” and “immoral”, as he said that Labour had a generational struggle ahead with the populist right. The prime minister, in Liverpool for his party conference, said he did not think that Nigel Farage’s party was trying to appeal to racists, and that he understood people tempted to vote for Reform were frustrated and wanted change. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/28/keir-starmer-says-farage-plan-racist-deport-people-settled-in-the-uk",
+    "published": "2025-09-28T09:17:12Z",
+    "image_url": "https://i.guim.co.uk/img/media/b7763638a2ab36efa96e358b310121d73572b66f/521_138_4080_3266/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=e31f0e2acaf9b1ada24e67197aa01084",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-8c60fb874e",
     "source": "Politico — UK",
-    "title": "Poland closes airspace, scrambles jets after Russia launches ‘massive’ attack on Ukraine",
+    "title": "Poland closes airspace, scrambles jets amid ‘massive’ Russian attack on Ukraine",
     "summary": "The scrambling of jets and airspace closures are becoming more frequent as multiple NATO countries report drone sightings and other incursions.",
     "url": "https://www.politico.eu/article/poland-closes-airspace-after-russian-attack-on-kyiv/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-28T09:11:25Z",
@@ -19,30 +67,6 @@
     "url": "https://www.politico.com/news/2025/09/27/state-department-colombia-president-visa-00583382?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-28T09:03:30Z",
     "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-46f39492ff",
-    "source": "The Guardian — UK",
-    "title": "Starmer calls Reform UK’s indefinite leave to remain plans ‘racist’ and says Farage’s party would ‘tear country apart’ – Labour conference live",
-    "summary": "PM calls Reform’s policy immoral but says people who want to vote for them are not racist but frustrated Kuenssberg ended her interview by asking about Andy Burnham, and the leadership. Starmer said Burnham was doing a very good job as mayor of Greater Manchester. Comments about leaders and leadership are part and parcel of being in politics. It is the bread and butter of politics, every leader get its, it always comes up, particularly at conference. It’s in the job description. People are entitled to their views and I’m not sticking my fingers in my ear in the slightest. What I am saying is that it is important to keep focusing on what it is that we are delivering, and saying, absolutely in clear terms, the difference it makes to people’s lives. One, have we improved living standards? Do people genuinly feel better off? Two, have we improved public services? Is the NHS in a better place, and people can feel it. And, three, do people feel safe and secure in their home, in their neighbourhood, and that their country is secure. It’s a five-year mandate, and I will be judged at the end of that five years, and quite right too. I just need the space and get on and do what we need to do, and do those three things above all else. I am saying we have got the fight of our lives ahead of us because we’ve got to take on Reform and we’ve got to beat them. So now is not the time for introspection or navel-gazing. There is a fight that we are all in together, and every single member of our party and our movement – actually, everyone who cares about what this country is, whether they vote Labour or otherwise - it’s the fight of our lives for who we are as a country. We need to be in that fight, united not navel-gazing. I’m absolutely clear in my mind about that, and that’s what I will be talking about at conference. Sir Keir Starmer gave land to his parents via a trust that meant their estates would never pay inheritance tax on the asset whatever its eventual value, according to legal experts. The prime minister’s decision to place a seven-acre field within the structure meant its value was excluded from his parents’ estate, of which he was a beneficiary, when they died. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/sep/28/labour-conference-keir-starmer-latest-uk-politics-news-live-updates",
-    "published": "2025-09-28T09:00:55Z",
-    "image_url": "https://i.guim.co.uk/img/media/278884c7175aa9e0168f0cf2237632369f74848c/237_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=8a64dc441b65a229636a4aa4092a2295",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a20dc75955",
-    "source": "BBC — Top Stories",
-    "title": "Zelensky condemns 'vile' Russian strikes lasting 12 hours",
-    "summary": "More than 600 drones and missiles, predominantly aimed at Kyiv, hit factories and the Institute of Cardiology.",
-    "url": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T08:31:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e0c/live/0796d830-9c48-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -115,18 +139,6 @@
     "url": "https://www.bbc.com/news/articles/crme84w3n23o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T07:36:53Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8223/live/7a3ef040-9c05-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f05e73bc4d",
-    "source": "BBC — Top Stories",
-    "title": "Government to guarantee £1.5bn loan to Jaguar Land Rover after cyber shutdown",
-    "summary": "Ministers hope the loan, from a commercial bank and underwritten by the government, will give certainty to suppliers.",
-    "url": "https://www.bbc.com/news/articles/cgl15ykerlro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T07:26:49Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1505/live/303c0ab0-9be6-11f0-bddd-5f1abb8b5445.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -264,6 +276,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-840628a99d",
+    "source": "BBC — Top Stories",
+    "title": "Have scientists found the answer to stop shoes stinking?",
+    "summary": "Two Indian researchers have designed a shoe rack that banishes foul odours - and have won a fun science prize.",
+    "url": "https://www.bbc.com/news/articles/cpq51xp4e91o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T00:25:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3a6/live/2f94e720-9926-11f0-858a-a904eacbef23.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-55737857fc",
     "source": "BBC — Top Stories",
     "title": "The US navy killed 17 in deadly strikes. Now Venezuela is giving civilians guns",
@@ -271,18 +295,6 @@
     "url": "https://www.bbc.com/news/articles/c5y5q173053o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T23:30:46Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be2f/live/a41a1560-9a1c-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-40636b2134",
-    "source": "BBC — Top Stories",
-    "title": "England's Roses 'rule the world' and PM heads for crunch conference",
-    "summary": "The build-up to Labour's big meeting this week and England's Rugby World Cup glory dominate Sunday's papers.",
-    "url": "https://www.bbc.com/news/articles/cn95e19rlj3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T23:20:47Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bb5/live/5c890580-9bf2-11f0-b741-177e3e2c2fc7.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -360,18 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-1eb6f3fd04",
-    "source": "BBC — Top Stories",
-    "title": "England can dominate world for long time, says head coach Mitchell",
-    "summary": "England \"can dominate the world for a long time\" believes Red Roses head coach John Mitchell after his side beat Canada to win the World Cup.",
-    "url": "https://www.bbc.com/sport/rugby-union/articles/cqlzgdxplyyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T19:20:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a480/live/2639adb0-9bdc-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e2d9c22cd0",
     "source": "The Guardian — UK",
     "title": "Family of British couple held in Iran say their health is deteriorating in prison",
@@ -396,18 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-951ebca69a",
-    "source": "BBC — Top Stories",
-    "title": "Tattoos, forfeit hairstyles and Channing Tatum - inside Red Roses' winning camp",
-    "summary": "England's triumph was spawned from a camp that focused on togetherness and living in the moment",
-    "url": "https://www.bbc.com/sport/rugby-union/articles/c04q377rwq0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T16:44:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2a4/live/daed15d0-9bd7-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e3d756f7df",
     "source": "The Guardian — UK",
     "title": "Prince Harry says ‘sources intent on sabotage’ behind reports of strained meeting with King",
@@ -420,18 +408,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-e67a458de8",
-    "source": "The Guardian — UK",
-    "title": "Build prefab homes to address harm to ‘generation of homeless children’, says Labour MP",
-    "summary": "Siobhain McDonagh urges parliament to pass renters’ rights bill to stem no-fault evictions in England ‘Total panic’: the effect of no-fault evictions on renters in England A Labour MP has called for the government to start building prefabricated homes in England to address the “terrible things” happening to a generation of homeless children. Dame Siobhain McDonagh, who helped found an all-party parliamentary group aimed at supporting record numbers of families in temporary accommodation after being “completely overwhelmed” by the amount of cases in her constituency, said the situation was “devastating”. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/sep/27/build-prefab-homes-to-address-harm-to-generation-of-homeless-children-says-labour-mp-siobhain-mcdonagh",
-    "published": "2025-09-27T16:00:47Z",
-    "image_url": "https://i.guim.co.uk/img/media/33b4920b6a000b350acf3e936ae88c16dd70e987/514_0_3640_2912/master/3640.jpg?width=140&quality=85&auto=format&fit=max&s=a2ca1c964352b7299e6e7379dda47de8",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-3d1aa54e58",
     "source": "Politico — UK",
     "title": "Russia loses bid for UN aviation authority council seat",
@@ -439,6 +415,18 @@
     "url": "https://www.politico.eu/article/russia-loses-bid-for-un-aviation-authority-council-seat-icao/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-27T15:31:30Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/27/13303289-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-ed8fa0586e",
+    "source": "The Guardian — UK",
+    "title": "Labour conference chance to show alternative to ‘toxic divide and decline’ offered by Reform, says Starmer – as it happened",
+    "summary": "Labour party conference ‘really big opportunity to make our case to the country’, says PM Hundreds of thousands more children are to receive a free breakfast through a government scheme, Bridget Phillipson has announced. On Saturday, education secretary, said that 500,000 more children across England will soon benefit from the government’s role out of free breakfast clubs The start of the national rollout of free breakfast clubs will be an historic change in working families’ daily routines and is another example of this Labour government making good on its promises to deliver the change the British people voted for. This is Labour choosing a path of renewal towards a fairer country – breaking down the barriers to opportunity and ensuring every child starts school ready to learn. I have worked hard as a councillor for Langside for the past three years to build a better community and now I can’t wait to be the voice of change across our great communities in the constituency. As your candidate for Glasgow Southside, I will always put people and planet before corporate greed, I will fight back against the millionaires who are pushing racist anti-migrant narratives and I will call out the horrific genocide in Gaza. Since then, she’s been a great voice for the local community and I have no doubt that she’ll be a fantastic candidate for the constituency. Green support in Glasgow Southside has been growing steadily in recent years and we’re looking forward to the campaign for Holyrood, in Southside, across Glasgow and throughout the country. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/27/railway-operators-trains-public-ownership-labour-party-conference-uk-politics-live-latest-news",
+    "published": "2025-09-27T15:03:42Z",
+    "image_url": "https://i.guim.co.uk/img/media/21c840c1f00847aa2e39c287cdce437eefe4ec09/661_0_4663_3730/master/4663.jpg?width=140&quality=85&auto=format&fit=max&s=d961a2f0d573b1048b6ced66f2e7220a",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -516,18 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-fe443c94d0",
-    "source": "The Guardian — UK",
-    "title": "Education unions urge Keir Starmer to scrap ‘cruel’ two-child benefit cap",
-    "summary": "A letter to the prime minister on the eve of the Labour conference warns of ‘critical need’ to abandon the policy Teaching unions have written to the prime minister asking him to scrap the two-child benefit cap ahead of Labour’s annual conference, which begins in Liverpool on Sunday. In a letter to Keir Starmer, the unions described the policy as “cruel” and said it must be fully abandoned as part of the government’s delayed child poverty strategy, expected to be published before Christmas. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/27/education-unions-urge-keir-starmer-scrap-cruel-two-child-benefit-cap",
-    "published": "2025-09-27T12:23:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/ecb676c8f017f05f7c99878cf986418b66e0d821/439_0_4376_3503/master/4376.jpg?width=140&quality=85&auto=format&fit=max&s=b7dba992a5557804a33b3848091cc2bd",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-ab5fa34e35",
     "source": "The Guardian — UK",
     "title": "Why does the UK need digital IDs and what data will they include?",
@@ -564,6 +540,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-201e2e361f",
+    "source": "BBC — Top Stories",
+    "title": "'People don't realise Chicken Shop Date is 10 years old'",
+    "summary": "Amelia Dimoldenberg looks back on how a youth magazine column became a huge internet show.",
+    "url": "https://www.bbc.com/news/articles/c3w57g0g5p2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-26T08:19:51Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b41b/live/61e171b0-9ab8-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-50346a6994",
     "source": "The Guardian — UK",
     "title": "Kent, where the politics of small boats and asylum has exploded – podcast",
@@ -595,6 +583,18 @@
     "url": "https://www.theguardian.com/politics/audio/2025/sep/25/labour-lucy-powell-progressive-voters-politics-weekly-uk-podcast",
     "published": "2025-09-25T10:25:06Z",
     "image_url": "https://i.guim.co.uk/img/media/83229aa2d532edb40d383c74e343b415e926d48a/404_0_3705_2964/master/3705.jpg?width=140&quality=85&auto=format&fit=max&s=71bf28137ad443d9d90cb4dc355da452",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e078b50523",
+    "source": "BBC — Top Stories",
+    "title": "The songs I've chosen to help me prepare for dying",
+    "summary": "Music can evoke powerful memories and offers a sense of normality for people dealing with illness or death.",
+    "url": "https://www.bbc.com/news/articles/c3e7n40vyx2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-22T00:28:03Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc1/live/b52b2820-978e-11f0-a4bc-e5c9e246a537.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
