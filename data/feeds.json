@@ -1,12 +1,48 @@
 [
   {
+    "id": "Politico — UK-8c60fb874e",
+    "source": "Politico — UK",
+    "title": "Poland closes airspace, scrambles jets after Russia launches ‘massive’ attack on Ukraine",
+    "summary": "The scrambling of jets and airspace closures are becoming more frequent as multiple NATO countries report drone sightings and other incursions.",
+    "url": "https://www.politico.eu/article/poland-closes-airspace-after-russian-attack-on-kyiv/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-28T09:11:25Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/28/13335497-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-f3b6b7745a",
+    "source": "Politico — UK",
+    "title": "US State Department revokes Colombian president’s visa",
+    "summary": "Gustavo Petro responded by writing the U.S. government “no longer honors international law.”",
+    "url": "https://www.politico.com/news/2025/09/27/state-department-colombia-president-visa-00583382?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-28T09:03:30Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-46f39492ff",
     "source": "The Guardian — UK",
-    "title": "Starmer says change takes time when asked how much political trouble he is in – Labour conference live",
-    "summary": "PM says he is focused on delivering and claims government has ‘done a lot’ when asked about poor Labour polling Keir Starmer is being interviewed by Laura Kuenssberg on the BBC now. Q: How much trouble are you in? [Starmer has] been written off many, many times over his career. People said that Keir Starmer could not win a general election for Labour. He picked this party up off the floor and he led us to a landslide victory in the general last year. Continue reading...",
+    "title": "Starmer calls Reform UK’s indefinite leave to remain plans ‘racist’ and says Farage’s party would ‘tear country apart’ – Labour conference live",
+    "summary": "PM calls Reform’s policy immoral but says people who want to vote for them are not racist but frustrated Kuenssberg ended her interview by asking about Andy Burnham, and the leadership. Starmer said Burnham was doing a very good job as mayor of Greater Manchester. Comments about leaders and leadership are part and parcel of being in politics. It is the bread and butter of politics, every leader get its, it always comes up, particularly at conference. It’s in the job description. People are entitled to their views and I’m not sticking my fingers in my ear in the slightest. What I am saying is that it is important to keep focusing on what it is that we are delivering, and saying, absolutely in clear terms, the difference it makes to people’s lives. One, have we improved living standards? Do people genuinly feel better off? Two, have we improved public services? Is the NHS in a better place, and people can feel it. And, three, do people feel safe and secure in their home, in their neighbourhood, and that their country is secure. It’s a five-year mandate, and I will be judged at the end of that five years, and quite right too. I just need the space and get on and do what we need to do, and do those three things above all else. I am saying we have got the fight of our lives ahead of us because we’ve got to take on Reform and we’ve got to beat them. So now is not the time for introspection or navel-gazing. There is a fight that we are all in together, and every single member of our party and our movement – actually, everyone who cares about what this country is, whether they vote Labour or otherwise - it’s the fight of our lives for who we are as a country. We need to be in that fight, united not navel-gazing. I’m absolutely clear in my mind about that, and that’s what I will be talking about at conference. Sir Keir Starmer gave land to his parents via a trust that meant their estates would never pay inheritance tax on the asset whatever its eventual value, according to legal experts. The prime minister’s decision to place a seven-acre field within the structure meant its value was excluded from his parents’ estate, of which he was a beneficiary, when they died. Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/sep/28/labour-conference-keir-starmer-latest-uk-politics-news-live-updates",
-    "published": "2025-09-28T08:09:12Z",
-    "image_url": "https://i.guim.co.uk/img/media/2315d78495d8e60c31191af6ee91420d7c8ab258/522_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=b1b717dcda9a66ecd92e15f4871385ba",
+    "published": "2025-09-28T09:00:55Z",
+    "image_url": "https://i.guim.co.uk/img/media/278884c7175aa9e0168f0cf2237632369f74848c/237_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=8a64dc441b65a229636a4aa4092a2295",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a20dc75955",
+    "source": "BBC — Top Stories",
+    "title": "Zelensky condemns 'vile' Russian strikes lasting 12 hours",
+    "summary": "More than 600 drones and missiles, predominantly aimed at Kyiv, hit factories and the Institute of Cardiology.",
+    "url": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T08:31:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e0c/live/0796d830-9c48-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -72,6 +108,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-aca8b819ff",
+    "source": "BBC — Top Stories",
+    "title": "Sanctions reimposed on Iran 10 years after landmark nuclear deal",
+    "summary": "Iran says the sanctions are \"unjust\" and \"illegal\" and has urged countries not to implement them.",
+    "url": "https://www.bbc.com/news/articles/crme84w3n23o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T07:36:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8223/live/7a3ef040-9c05-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-f05e73bc4d",
     "source": "BBC — Top Stories",
     "title": "Government to guarantee £1.5bn loan to Jaguar Land Rover after cyber shutdown",
@@ -79,18 +127,6 @@
     "url": "https://www.bbc.com/news/articles/cgl15ykerlro?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T07:26:49Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1505/live/303c0ab0-9be6-11f0-bddd-5f1abb8b5445.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a20dc75955",
-    "source": "BBC — Top Stories",
-    "title": "Kyiv hit by 'massive' Russian attack, mayor says",
-    "summary": "As well as intensifying attacks against Ukraine, Russia is also accused of violating the airspace of several Nato countries.",
-    "url": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T07:12:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f2c/live/f7147c40-9c35-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -228,18 +264,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-840628a99d",
-    "source": "BBC — Top Stories",
-    "title": "Have scientists found the answer to stop shoes stinking?",
-    "summary": "Two Indian researchers have designed a shoe rack that banishes foul odours - and have won a fun science prize.",
-    "url": "https://www.bbc.com/news/articles/cpq51xp4e91o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T00:25:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3a6/live/2f94e720-9926-11f0-858a-a904eacbef23.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-55737857fc",
     "source": "BBC — Top Stories",
     "title": "The US navy killed 17 in deadly strikes. Now Venezuela is giving civilians guns",
@@ -270,7 +294,7 @@
     "summary": "Pills, powders and creams promise to top up natural supplies which decrease as we get older.",
     "url": "https://www.bbc.com/news/articles/cjr5zj12ye1o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T22:37:43Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f92d/live/0c8a5d50-9ae8-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0049/live/861c7ea0-9c4b-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -282,7 +306,7 @@
     "summary": "Millions flock to Bali to Eat, Pray, Love. They also get crowds, traffic and the cacophony of construction.",
     "url": "https://www.bbc.com/news/articles/c07vxdny178o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T22:06:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58f6/live/692a68f0-9a9f-11f0-8a5e-2b93bd7574d5.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d50/live/d3016360-9c47-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -492,18 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-a439bc8f56",
-    "source": "Politico — UK",
-    "title": "Trump asks Supreme Court to let him end birthright citizenship",
-    "summary": "The president’s Day 1 executive order purporting to end birthright citizenship has not taken effect because four federal judges ruled it violates the 14th Amendment.",
-    "url": "https://www.politico.com/news/2025/09/26/supreme-court-birthright-citizenship-trump-admin-00583378?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-27T12:33:56Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-fe443c94d0",
     "source": "The Guardian — UK",
     "title": "Education unions urge Keir Starmer to scrap ‘cruel’ two-child benefit cap",
@@ -511,18 +523,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/27/education-unions-urge-keir-starmer-scrap-cruel-two-child-benefit-cap",
     "published": "2025-09-27T12:23:06Z",
     "image_url": "https://i.guim.co.uk/img/media/ecb676c8f017f05f7c99878cf986418b66e0d821/439_0_4376_3503/master/4376.jpg?width=140&quality=85&auto=format&fit=max&s=b7dba992a5557804a33b3848091cc2bd",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-abe5e4a8a0",
-    "source": "Politico — UK",
-    "title": "Musk, Bannon and Thiel named in new Epstein estate documents",
-    "summary": "The House Oversight Committee is continuing to release redacted materials in its ongoing Jeffrey Epstein investigation.",
-    "url": "https://www.politico.com/news/2025/09/26/musk-bannon-thiel-epstein-documents-00582627?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-27T12:11:08Z",
-    "image_url": null,
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
