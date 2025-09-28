@@ -1,5 +1,29 @@
 [
   {
+    "id": "BBC — Top Stories-b4c0e0f803",
+    "source": "BBC — Top Stories",
+    "title": "Moldovans await pivotal election result as leader warns of Russian interference",
+    "summary": "The vote is seen as critical for Moldova's future EU path, with the two main political forces thought to be neck and neck.",
+    "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T20:06:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc3/live/79042050-9c47-11f0-82b3-31d97f4e1ffa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-18cf51a8a0",
+    "source": "The Guardian — UK",
+    "title": "‘Dozens’ arrested at Palestine Action protest outside Labour party conference",
+    "summary": "Defend Our Juries says about 100 people had gathered holding signs outside conference venue in Liverpool Police have arrested protesters on suspicion of supporting the banned group Palestine Action outside the Labour party conference in Liverpool. About 100 people gathered silently on Sunday to hold signs reading “I oppose genocide, I support Palestine Action”, according to protest organisation Defend Our Juries, who said there were dozens of arrests. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/28/arrests-palestine-action-protest-labour-party-conference",
+    "published": "2025-09-28T19:51:36Z",
+    "image_url": "https://i.guim.co.uk/img/media/78ce1f02a1ce8a2f25deecbb6012e6127bb9b590/2_0_2957_2367/master/2957.jpg?width=140&quality=85&auto=format&fit=max&s=63b560556c0714a387ce44b0264c6dad",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-8550ac1e62",
     "source": "The Guardian — UK",
     "title": "Andy Burnham says ‘climate of fear’ in Labour is shutting down debate",
@@ -19,18 +43,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/28/starmer-decries-reforms-racist-plans-as-ministers-escalate-attacks-on-farage",
     "published": "2025-09-28T18:49:41Z",
     "image_url": "https://i.guim.co.uk/img/media/db09ccbcdc7513a1ea236ec7ec11fa6d93a867bd/500_0_4411_3531/master/4411.jpg?width=140&quality=85&auto=format&fit=max&s=8024ea665071ada2e9ec576e1e1e4ac3",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b4c0e0f803",
-    "source": "BBC — Top Stories",
-    "title": "Moldovans await pivotal election result as leader warns of Russian interference",
-    "summary": "The vote is seen as critical for Moldova's future EU path, with the two main political forces thought to be neck and neck.",
-    "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T18:42:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc3/live/79042050-9c47-11f0-82b3-31d97f4e1ffa.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -74,7 +86,7 @@
   {
     "id": "Politico — UK-946684f447",
     "source": "Politico — UK",
-    "title": "Polls close in Moldova after defining vote on EU path",
+    "title": "Pro-EU party leads in high-stakes Moldovan election",
     "summary": "The parliamentary election comes amid reports of an \"unprecedented\" Russian hybrid interference campaign.",
     "url": "https://www.politico.eu/article/polls-moldova-vote-eu-path-russia-interference-election-ballots/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-28T18:03:09Z",
@@ -276,18 +288,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e7d9c0159c",
-    "source": "BBC — Top Stories",
-    "title": "At least 40 dead in crush at political rally in India",
-    "summary": "Tens of thousands had gathered at a campaign event for actor-turned-politician Vijay in India's southern state of Tamil Nadu.",
-    "url": "https://www.bbc.com/news/articles/c98dqyj5dpjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T14:45:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b4a/live/55e79ee0-9bc9-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-befc84325a",
     "source": "BBC — Top Stories",
     "title": "Starmer calls Reform migrant policy 'racist' and 'immoral'",
@@ -396,6 +396,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-150e6e9d65",
+    "source": "BBC — Top Stories",
+    "title": "Another person dies trying to cross English Channel",
+    "summary": "The latest death comes amid a surge of crossing attempts this weekend helped by good weather.",
+    "url": "https://www.bbc.com/news/articles/cn0re8x7172o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T12:54:24Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca3/live/bf497af0-9c61-11f0-b66e-67a4632b8ff2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-f3e31f980d",
     "source": "BBC — Top Stories",
     "title": "Woman raped by group of men in churchyard",
@@ -408,18 +420,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-84e5763f4a",
-    "source": "The Guardian — UK",
-    "title": "UK businesses fear new EHRC guidance on toilets will be ‘unworkable’",
-    "summary": "Exclusive: Stonewall writes to ministers and warns cost of compliance could be ‘significant’ for struggling companies Businesses across the UK fear that new guidance from the Equality and Human Rights Commission (EHRC) on the use of toilets and changing rooms will be “confusing”, “unworkable” and could “undermine inclusion”. The LGBTQ+ rights charity Stonewall has written to the newly appointed business and trade ministers to highlight the significant costs of compliance for struggling companies. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/sep/28/uk-businesses-fear-new-ehrc-guidance-on-toilets-will-be-unworkable",
-    "published": "2025-09-28T12:09:46Z",
-    "image_url": "https://i.guim.co.uk/img/media/653adae6d07d8b48111892b5178714d054dde0cb/523_0_6509_5207/master/6509.jpg?width=140&quality=85&auto=format&fit=max&s=19a8f01139b38babf41b473948d4feb5",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-a20dc75955",
     "source": "BBC — Top Stories",
     "title": "Zelensky condemns 'vile' Russian strikes lasting 12 hours",
@@ -427,6 +427,18 @@
     "url": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T11:46:41Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e0c/live/0796d830-9c48-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-ffecf60d71",
+    "source": "The Guardian — UK",
+    "title": "UK government urged to restore Electoral Commission’s independence to protect democracy",
+    "summary": "Oversight of watchdog could be abused by a future authoritarian government, report warns The independence of the Electoral Commission must be fully restored to protect the UK’s electoral integrity from a future authoritarian government, a new report warns. The Democracy in Danger report by the campaign group Spotlight on Corruption found the UK government was in breach of eight different international standards on ensuring the independence of electoral bodies by maintaining the government’s oversight of the watchdog. The UK government is in breach of eight different international standards on ensuring the independence of electoral bodies by maintaining the new power in place. All the constitutional oversight bodies that reviewed the ministerial power opposed its introduction – including two parliamentary committees, the UK’s top ethics body, the Committee on Standards in Public Life, and the Electoral Commission’s oversight body, the Speaker’s Committee. The UK has plummeted down international rankings for electoral body autonomy since the power was introduced and now ranks 44th, among countries such as Ghana, Nepal and Croatia. It has fallen out of line with comparable countries such as Canada, Australia, Ireland and New Zealand. The power, which was described by the former MI5 director general and former chair of the committee on standards in public life, Jonathan Evans, as “giving a toddler a gun”, could be used by a future government with autocratic tendencies to distort electoral rules in its favour to maintain power. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/28/uk-government-urged-to-restore-electoral-commissions-independence-to-protect-democracy",
+    "published": "2025-09-28T11:00:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/433e8aa862270192f9815bfeaf9f806556e00c97/86_0_2796_2239/master/2796.jpg?width=140&quality=85&auto=format&fit=max&s=194126c637362ecf154b9bf7c241018a",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -475,18 +487,6 @@
     "url": "https://www.theguardian.com/world/ng-interactive/2025/sep/28/inside-the-everyday-facebook-networks-where-far-right-ideas-grow",
     "published": "2025-09-28T07:00:05Z",
     "image_url": "https://i.guim.co.uk/img/media/c503514b4c62e6fface446b85b9e70568eb8de19/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=15866ae31c112311e83a1809f4499051",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-3c6dd38c64",
-    "source": "The Guardian — UK",
-    "title": "Reading the post-riot posts: how we traced far-right radicalisation across 51,000 Facebook messages",
-    "summary": "Tracing profiles of those charged with online offences in summer 2024 helped us map a thriving social ecosystem trading far-right sentiment and political disillusionment Far-right Facebook groups are engine of radicalisation in UK, data investigation suggests Inside the everyday Facebook networks where far-right ideas grow More than 1,100 people have been charged in connection to the summer 2024 riots. A small number of them were charged for offences related to their online activity. Their jail sentences – which ranged from 12 weeks to seven years – became a flashpoint for online criticism. The people behind the posts were variously defended , held up as a cause célèbre and cast as “ political prisoners ”; their posts minimised and repeated; their prosecution misrepresented as an attack on free speech (the majority of those prosecuted for online offences faced charges of stirring up racial hatred). Accuracy (percentage of correctly classified instances): 94.7% . Precision (percentage of times the True labels assigned by GPT are correct): 79.5 . Recall (percentage of instances classified as True by the humans that were also classified as True by GPT): 86.1% . F1 (a single percentage that combines precision and recall, higher when GPT both finds the True cases and avoids false alarms): 82.6% . Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/sep/28/reading-the-post-riot-posts-how-we-traced-far-right-radicalisation-across-51000-facebook-messages",
-    "published": "2025-09-28T07:00:04Z",
-    "image_url": "https://i.guim.co.uk/img/media/6f558a04e3653c09f5ddd15ec9d64bb784a6a550/416_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=c727afdd5a4911453b43a4a212584a3e",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
