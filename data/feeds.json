@@ -1,12 +1,12 @@
 [
   {
-    "id": "BBC — Top Stories-150e6e9d65",
+    "id": "BBC — Top Stories-61a556a435",
     "source": "BBC — Top Stories",
-    "title": "Small boat carrying record 125 people crosses Channel",
-    "summary": "Another migrant dies attempting the journey on a weekend which has seen a number of crossings.",
-    "url": "https://www.bbc.com/news/articles/cn0re8x7172o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T21:04:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca3/live/bf497af0-9c61-11f0-b66e-67a4632b8ff2.jpg",
+    "title": "Reeves to guarantee paid work for young people unemployed for 18 months",
+    "summary": "The chancellor will commit to \"the abolition of long-term youth unemployment\" in her speech at Labour conference.",
+    "url": "https://www.bbc.com/news/articles/c80gj2knrx4o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T22:13:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0104/live/6e3af170-9cac-11f0-8e15-edf4f5ab4f3b.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -17,8 +17,68 @@
     "title": "Pro-EU party in Moldova takes lead in election mired in claims of interference",
     "summary": "The vote is seen as critical for Moldova's future EU path, and President Maia Sandu has warned of Russian interference.",
     "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T20:50:05Z",
+    "published": "2025-09-28T22:12:19Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc3/live/79042050-9c47-11f0-82b3-31d97f4e1ffa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a3985d615b",
+    "source": "BBC — Top Stories",
+    "title": "Mahmood to demand migrants earn right to settled status",
+    "summary": "The home secretary will outline new conditions migrants have to meet to earn indefinite leave to remain.",
+    "url": "https://www.bbc.com/news/articles/c0m4g3zvy02o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T21:32:01Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e9a/live/e7ff7d70-9c9b-11f0-be60-77dafac10a24.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e207a2baae",
+    "source": "The Guardian — UK",
+    "title": "Rachel Reeves pledges a library in every primary school in England",
+    "summary": "Exclusive: Chancellor also set to unveil plans to get young people back into work in party conference speech Rachel Reeves will deliver a library in every primary school in England as part of Labour’s plans to give all children the best start in life regardless of their background. The scheme, which will create libraries in the 1,700 primaries currently without them, will be funded from £132.5m of dormant assets that will be unlocked to give young people access to cultural opportunities. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/28/rachel-reeves-pledges-a-library-in-every-primary-school-in-england",
+    "published": "2025-09-28T21:30:22Z",
+    "image_url": "https://i.guim.co.uk/img/media/d550efb6b2a99af4db9431a592c2eaa1d3f274da/968_0_4843_3874/master/4843.jpg?width=140&quality=85&auto=format&fit=max&s=11466ad81b839aa6f1e7d1f3773f7488",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-90875dd345",
+    "source": "The Guardian — UK",
+    "title": "High standard of English to be required for leave to remain, Mahmood to pledge",
+    "summary": "Home secretary to set out proposed tougher conditions including not taking benefits and ‘spotless’ criminal record Criminals and people who cannot speak English to “a high standard” will be denied permission to settle in the UK, Shabana Mahmood will announce on Monday, in proposals intended to contain the growing electoral threat from Reform UK. In a speech framing herself as a “tough home secretary”, Mahmood will say people seeking indefinite leave to remain (ILR) will have to demonstrate they have integrated and “contributed” to society through national insurance payments and voluntary work, and not relied on benefits. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/28/english-indefinite-leave-to-remain-shabana-mahmood-labour-conference",
+    "published": "2025-09-28T21:30:22Z",
+    "image_url": "https://i.guim.co.uk/img/media/bebbc89e19f784d4393ef1c77a427c485ad42098/95_38_2131_1705/master/2131.jpg?width=140&quality=85&auto=format&fit=max&s=fe5a8bfeb6395002ec9c76497825bb91",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-70c4f34867",
+    "source": "The Guardian — UK",
+    "title": "Starmer decries Reform’s ‘racist’ plans as ministers escalate attacks on Farage",
+    "summary": "PM says immigration proposals could tear country apart as Labour delegates gather for first day of party conference Keir Starmer has decried Reform UK’s “racist” plans to revoke the rights of thousands of people to live in Britain, as a number of cabinet ministers escalated attacks on Nigel Farage on the first day of the Labour party conference. The prime minister said Farage’s plans to revoke indefinite leave to remain for families who may have spent years working in Britain could “tear this country apart”, though he said he understood that many people tempted to vote for Reform were frustrated at the slow pace of change. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/28/starmer-decries-reforms-racist-plans-as-ministers-escalate-attacks-on-farage",
+    "published": "2025-09-28T21:30:20Z",
+    "image_url": "https://i.guim.co.uk/img/media/db09ccbcdc7513a1ea236ec7ec11fa6d93a867bd/500_0_4411_3531/master/4411.jpg?width=140&quality=85&auto=format&fit=max&s=8024ea665071ada2e9ec576e1e1e4ac3",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-150e6e9d65",
+    "source": "BBC — Top Stories",
+    "title": "Small boat carrying record 125 people crosses Channel",
+    "summary": "Another migrant dies attempting the journey on a weekend which has seen a number of crossings.",
+    "url": "https://www.bbc.com/news/articles/cn0re8x7172o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T21:04:03Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca3/live/bf497af0-9c61-11f0-b66e-67a4632b8ff2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -55,18 +115,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/28/andy-burnham-climate-of-fear-labour-shutting-down-debate",
     "published": "2025-09-28T18:50:45Z",
     "image_url": "https://i.guim.co.uk/img/media/73cb5e293c32f9acd002a13d7aa48c7072ed66a1/500_394_3652_2922/master/3652.jpg?width=140&quality=85&auto=format&fit=max&s=e1239856e2c35335ff7231e207bc924b",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-70c4f34867",
-    "source": "The Guardian — UK",
-    "title": "Starmer decries Reform’s ‘racist’ plans as ministers escalate attacks on Farage",
-    "summary": "PM says immigration proposals could tear country apart as Labour delegates gather for first day of party conference Keir Starmer has decried Reform UK’s “racist” plans to revoke the rights of thousands of people to live in Britain, as a number of cabinet ministers escalated attacks on Nigel Farage on the first day of the Labour party conference. The prime minister said Farage’s plans to revoke indefinite leave to remain for families who may have spent years working in Britain could “tear this country apart”, though he said he understood that many people tempted to vote for Reform were frustrated at the slow pace of change. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/28/starmer-decries-reforms-racist-plans-as-ministers-escalate-attacks-on-farage",
-    "published": "2025-09-28T18:49:41Z",
-    "image_url": "https://i.guim.co.uk/img/media/db09ccbcdc7513a1ea236ec7ec11fa6d93a867bd/500_0_4411_3531/master/4411.jpg?width=140&quality=85&auto=format&fit=max&s=8024ea665071ada2e9ec576e1e1e4ac3",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -240,18 +288,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-11eda90cef",
-    "source": "BBC — Top Stories",
-    "title": "Watch: PM repeatedly asked if he will rule out VAT rise in Budget",
-    "summary": "BBC's Laura Kuenssberg quizzed the prime minister on his government's tax plans ahead of Chancellor Rachel Reeves' Budget in November.",
-    "url": "https://www.bbc.com/news/videos/c5y86zxvmmpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T16:00:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c34c/live/64b74080-9c85-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-b372ac9780",
     "source": "BBC — Top Stories",
     "title": "Swiss voters narrowly approve plan for electronic ID cards",
@@ -288,30 +324,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-538df0bdf3",
-    "source": "The Guardian — UK",
-    "title": "Populist threat to rule of law a danger to UK working class, says attorney general",
-    "summary": "Richard Hermer aims criticism at Nigel Farage and Robert Jenrick at Labour conference event Rightwing populists threaten working-class people’s protections under the rule of law, the attorney general has said in his most political intervention yet. In a criticism directed squarely at Nigel Farage and Robert Jenrick, Richard Hermer said populist politicians posed a threat to the everyday protectionsafforded to people who used the legal system and the courts to right significant wrongs. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/28/labour-richard-hermer-attorney-general-populist-danger-rule-of-law-uk-working-class",
-    "published": "2025-09-28T14:45:20Z",
-    "image_url": "https://i.guim.co.uk/img/media/5b7c206020ffb7f17b01ea48a0faa1176019eb4e/616_88_3603_2883/master/3603.jpg?width=140&quality=85&auto=format&fit=max&s=6379491fa4bb79d3f7504cc556e26620",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-befc84325a",
-    "source": "BBC — Top Stories",
-    "title": "Starmer calls Reform migrant policy 'racist' and 'immoral'",
-    "summary": "The prime minister told the BBC he needed \"space\" to make good on the promises he made at last year's general election.",
-    "url": "https://www.bbc.com/news/articles/cj6xdw1dg4zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T14:33:19Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b7/live/6b8815d0-9c51-11f0-92db-77261a15b9d2.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-f34e368aca",
     "source": "BBC — Top Stories",
     "title": "Lola Young 'doing OK' after collapsing on stage during gig",
@@ -343,18 +355,6 @@
     "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/is-keir-for-keeps-labour-conference-special/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-28T13:27:18Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/03/27/PASAA_PODCAST-HERO-16BY9.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-3a581bc19e",
-    "source": "The Guardian — UK",
-    "title": "Child dies while reportedly trying to reach UK in small boat",
-    "summary": "Body of teenager found on beach in northern France after three other people die in Channel crossings on Saturday A child is believed to have died while trying to cross the Channel in a small boat, according to French reports. The body of the teenager, who was believed to have fallen from a dinghy, was discovered on a beach in northern France on Sunday. The death follows those of three other people on Saturday who were trying to reach the UK – two Somali women who were reportedly crushed in a boat, and a man whose body was recovered from a canal in the town of Gravelines, near Dunkirk. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/sep/28/child-dies-channel-france-uk-small-boat-crossings",
-    "published": "2025-09-28T13:23:53Z",
-    "image_url": "https://i.guim.co.uk/img/media/b26669284d2f56686fd1463c86dc5a4fae818d9c/880_0_3408_2726/master/3408.jpg?width=140&quality=85&auto=format&fit=max&s=c9a3194c4f02583cbd9597dd6d06b6da",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
