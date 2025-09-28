@@ -1,12 +1,84 @@
 [
   {
+    "id": "Politico — UK-5f23265b34",
+    "source": "Politico — UK",
+    "title": "The Kremlin Shut Down His Comedy Show. He Has Some Advice for US Talk Show Hosts.",
+    "summary": "“This is a test,” says Russian satirist Viktor Shenderovich.",
+    "url": "https://www.politico.com/news/magazine/2025/09/28/russian-talk-show-satire-00582629?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-28T11:11:33Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-ffecf60d71",
+    "source": "The Guardian — UK",
+    "title": "UK government urged to restore Electoral Commission’s independence to protect democracy",
+    "summary": "Oversight of watchdog could be abused by a future authoritarian government, report warns The independence of the Electoral Commission must be fully restored to protect the UK’s electoral integrity from a future authoritarian government, a new report warns. The Democracy in Danger report by Spotlight on Corruption found the UK government is in breach of eight different international standards on ensuring the independence of electoral bodies by maintaining the government’s oversight of the watchdog. The UK government is in breach of eight different international standards on ensuring the independence of electoral bodies by maintaining the new power in place. All the constitutional oversight bodies that reviewed the ministerial power opposed its introduction – including two parliamentary committees, the UK’s top ethics body, the Committee on Standards in Public Life, and the Electoral Commission’s oversight body, the Speaker’s Committee. The UK has plummeted down international rankings for electoral body autonomy since the power was introduced and now ranks 44th, among countries such as Ghana, Nepal and Croatia. It has fallen out of line with comparable countries such as Canada, Australia, Ireland and New Zealand. The power, which was described by the former MI5 director general and chair of the top ethics body, Lord Evans, as “giving a toddler a gun”, could be used by a future government with autocratic tendencies to distort electoral rules in its favour to maintain power. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/28/uk-government-urged-to-restore-electoral-commissions-independence-to-protect-democracy",
+    "published": "2025-09-28T11:00:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/433e8aa862270192f9815bfeaf9f806556e00c97/86_0_2796_2239/master/2796.jpg?width=140&quality=85&auto=format&fit=max&s=194126c637362ecf154b9bf7c241018a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-aca8b819ff",
+    "source": "BBC — Top Stories",
+    "title": "Sanctions reimposed on Iran 10 years after landmark nuclear deal",
+    "summary": "Iran says the sanctions are \"unjust\" and \"illegal\" and has urged countries not to implement them.",
+    "url": "https://www.bbc.com/news/articles/crme84w3n23o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T10:49:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8223/live/7a3ef040-9c05-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-46f39492ff",
+    "source": "The Guardian — UK",
+    "title": "Starmer calls Reform’s policy on immigration ‘racist’ and says Farage’s party would ‘tear country apart’ – Labour conference live",
+    "summary": "PM calls Reform’s policy immoral but says people who want to vote for them are not racist but frustrated Kuenssberg ended her interview by asking about Andy Burnham, and the leadership. Starmer said Burnham was doing a very good job as mayor of Greater Manchester. Comments about leaders and leadership are part and parcel of being in politics. It is the bread and butter of politics, every leader get its, it always comes up, particularly at conference. It’s in the job description. People are entitled to their views and I’m not sticking my fingers in my ear in the slightest. What I am saying is that it is important to keep focusing on what it is that we are delivering, and saying, absolutely in clear terms, the difference it makes to people’s lives. One, have we improved living standards? Do people genuinly feel better off? Two, have we improved public services? Is the NHS in a better place, and people can feel it. And, three, do people feel safe and secure in their home, in their neighbourhood, and that their country is secure. It’s a five-year mandate, and I will be judged at the end of that five years, and quite right too. I just need the space and get on and do what we need to do, and do those three things above all else. I am saying we have got the fight of our lives ahead of us because we’ve got to take on Reform and we’ve got to beat them. So now is not the time for introspection or navel-gazing. There is a fight that we are all in together, and every single member of our party and our movement – actually, everyone who cares about what this country is, whether they vote Labour or otherwise - it’s the fight of our lives for who we are as a country. We need to be in that fight, united not navel-gazing. I’m absolutely clear in my mind about that, and that’s what I will be talking about at conference. Sir Keir Starmer gave land to his parents via a trust that meant their estates would never pay inheritance tax on the asset whatever its eventual value, according to legal experts. The prime minister’s decision to place a seven-acre field within the structure meant its value was excluded from his parents’ estate, of which he was a beneficiary, when they died. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/28/labour-conference-keir-starmer-latest-uk-politics-news-live-updates",
+    "published": "2025-09-28T10:46:26Z",
+    "image_url": "https://i.guim.co.uk/img/media/278884c7175aa9e0168f0cf2237632369f74848c/237_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=8a64dc441b65a229636a4aa4092a2295",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-befc84325a",
+    "source": "BBC — Top Stories",
+    "title": "Keir Starmer calls Reform migrant policy 'racist' and 'immoral'",
+    "summary": "The prime minister said he needed \"space\" to make good on the promises he made at last year's general election.",
+    "url": "https://www.bbc.com/news/articles/cj6xdw1dg4zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T10:33:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b7/live/6b8815d0-9c51-11f0-92db-77261a15b9d2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-5a1c50c5ad",
+    "source": "The Guardian — UK",
+    "title": "Keir Starmer attacks ‘racist’ Farage plan to deport people settled in the UK",
+    "summary": "Prime minister says Reform proposal to abolish indefinite leave to remain could ‘tear this country apart’ Labour conference – live updates Keir Starmer has attacked Reform UK’s plan to deport thousands of people already legally living in the UK as “racist” and “immoral”, as he said that Labour had a generational struggle ahead with the populist right. The prime minister, in Liverpool for his party conference, said he did not think that Nigel Farage’s party was trying to appeal to racists, and that he understood people tempted to vote for Reform were frustrated and wanted change. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/28/keir-starmer-says-farage-plan-racist-deport-people-settled-in-the-uk",
+    "published": "2025-09-28T10:31:53Z",
+    "image_url": "https://i.guim.co.uk/img/media/b7763638a2ab36efa96e358b310121d73572b66f/521_138_4080_3266/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=e31f0e2acaf9b1ada24e67197aa01084",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-f05e73bc4d",
     "source": "BBC — Top Stories",
     "title": "Government to guarantee £1.5bn loan to Jaguar Land Rover after cyber shutdown",
     "summary": "Ministers hope the loan, from a commercial bank and underwritten by the government, will give certainty to suppliers.",
     "url": "https://www.bbc.com/news/articles/cgl15ykerlro?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T10:11:53Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1505/live/303c0ab0-9be6-11f0-bddd-5f1abb8b5445.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f6/live/8d1a5bf0-9c5a-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -19,30 +91,6 @@
     "url": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T09:51:47Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e0c/live/0796d830-9c48-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-46f39492ff",
-    "source": "The Guardian — UK",
-    "title": "Starmer calls Reform’s policy on immigration ‘racist’ and says Farage’s party would ‘tear country apart’ – Labour conference live",
-    "summary": "PM calls Reform’s policy immoral but says people who want to vote for them are not racist but frustrated Kuenssberg ended her interview by asking about Andy Burnham, and the leadership. Starmer said Burnham was doing a very good job as mayor of Greater Manchester. Comments about leaders and leadership are part and parcel of being in politics. It is the bread and butter of politics, every leader get its, it always comes up, particularly at conference. It’s in the job description. People are entitled to their views and I’m not sticking my fingers in my ear in the slightest. What I am saying is that it is important to keep focusing on what it is that we are delivering, and saying, absolutely in clear terms, the difference it makes to people’s lives. One, have we improved living standards? Do people genuinly feel better off? Two, have we improved public services? Is the NHS in a better place, and people can feel it. And, three, do people feel safe and secure in their home, in their neighbourhood, and that their country is secure. It’s a five-year mandate, and I will be judged at the end of that five years, and quite right too. I just need the space and get on and do what we need to do, and do those three things above all else. I am saying we have got the fight of our lives ahead of us because we’ve got to take on Reform and we’ve got to beat them. So now is not the time for introspection or navel-gazing. There is a fight that we are all in together, and every single member of our party and our movement – actually, everyone who cares about what this country is, whether they vote Labour or otherwise - it’s the fight of our lives for who we are as a country. We need to be in that fight, united not navel-gazing. I’m absolutely clear in my mind about that, and that’s what I will be talking about at conference. Sir Keir Starmer gave land to his parents via a trust that meant their estates would never pay inheritance tax on the asset whatever its eventual value, according to legal experts. The prime minister’s decision to place a seven-acre field within the structure meant its value was excluded from his parents’ estate, of which he was a beneficiary, when they died. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/sep/28/labour-conference-keir-starmer-latest-uk-politics-news-live-updates",
-    "published": "2025-09-28T09:31:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/278884c7175aa9e0168f0cf2237632369f74848c/237_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=8a64dc441b65a229636a4aa4092a2295",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-5a1c50c5ad",
-    "source": "The Guardian — UK",
-    "title": "Keir Starmer attacks ‘racist’ Farage plan to deport people settled in the UK",
-    "summary": "Prime minister says Reform proposal to abolish indefinite leave to remain could ‘tear this country apart’ Labour conference – live updates Keir Starmer has attacked Reform UK’s plan to deport thousands of people already legally living in the UK as “racist” and “immoral”, as he said that Labour had a generational struggle ahead with the populist right. The prime minister, in Liverpool for his party conference, said he did not think that Nigel Farage’s party was trying to appeal to racists, and that he understood people tempted to vote for Reform were frustrated and wanted change. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/28/keir-starmer-says-farage-plan-racist-deport-people-settled-in-the-uk",
-    "published": "2025-09-28T09:17:12Z",
-    "image_url": "https://i.guim.co.uk/img/media/b7763638a2ab36efa96e358b310121d73572b66f/521_138_4080_3266/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=e31f0e2acaf9b1ada24e67197aa01084",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -127,18 +175,6 @@
     "url": "https://www.politico.com/news/2025/09/27/trump-january-6-fbi-00583383?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-28T07:37:19Z",
     "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-aca8b819ff",
-    "source": "BBC — Top Stories",
-    "title": "Sanctions reimposed on Iran 10 years after landmark nuclear deal",
-    "summary": "Iran says the sanctions are \"unjust\" and \"illegal\" and has urged countries not to implement them.",
-    "url": "https://www.bbc.com/news/articles/crme84w3n23o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T07:36:53Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8223/live/7a3ef040-9c05-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -240,18 +276,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-149eaa30b7",
-    "source": "BBC — Top Stories",
-    "title": "Europeans silence jeering US crowd with famous Ryder Cup display",
-    "summary": "After facing abuse from American fans which \"crossed the line\", Rory McIlroy and Shane Lowry lead Europe towards a rare Ryder Cup away win.",
-    "url": "https://www.bbc.com/sport/golf/articles/cg5endmdq42o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T01:23:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/509b/live/d25f81e0-9bf6-11f0-be96-85c61452c8b2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-11645bd0fb",
     "source": "BBC — Top Stories",
     "title": "Dismissed as a joke, UK's first rice crop ripe for picking after hot summer",
@@ -288,6 +312,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-2f70652b6a",
+    "source": "BBC — Top Stories",
+    "title": "They silenced the jeering US crowds. Now Europe are on the cusp of Ryder Cup greatness",
+    "summary": "Europe's 6-2 demolition job of the US to take an 11½-4½ lead into the singles has seemingly made Sunday a formality.",
+    "url": "https://www.bbc.com/sport/golf/articles/ce8621jddj2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T00:20:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e0d/live/0e79e280-9bff-11f0-bd58-71d6e4e1de23.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-55737857fc",
     "source": "BBC — Top Stories",
     "title": "The US navy killed 17 in deadly strikes. Now Venezuela is giving civilians guns",
@@ -314,7 +350,7 @@
   {
     "id": "BBC — Top Stories-c780258c99",
     "source": "BBC — Top Stories",
-    "title": "Instagram vs reality: Bali is becoming a victim of its own success",
+    "title": "Bali's Instagram image draws millions - but record tourism is taking its toll",
     "summary": "Millions flock to Bali to Eat, Pray, Love. They also get crowds, traffic and the cacophony of construction.",
     "url": "https://www.bbc.com/news/articles/c07vxdny178o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T22:06:50Z",
@@ -386,23 +422,11 @@
   {
     "id": "BBC — Top Stories-49a9bc41d8",
     "source": "BBC — Top Stories",
-    "title": "Watch: Highlights of England's victory",
+    "title": "Watch: Highlights of England's Riugby World Cup victory",
     "summary": "England have won their third Rugby World Cup title with a commanding 13-33 performance over Canada in front of an 81,885 person home crowd in Twickenham.",
     "url": "https://www.bbc.com/sport/rugby-union/videos/c4g7qz5xx5lo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T17:12:49Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c17/live/8d576330-9bd1-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-e3d756f7df",
-    "source": "The Guardian — UK",
-    "title": "Prince Harry says ‘sources intent on sabotage’ behind reports of strained meeting with King",
-    "summary": "Spokesperson says claims Harry felt like an ‘official visitor’ were fabricated as duke seeks reconciliation with father Prince Harry has suggested that people are seeking to sabotage his reconciliation with King Charles as he hit back at “invention fed” media reports on the pair’s recent meeting. Harry met the king for the first time in almost two years at Clarence House in London on 10 September. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/27/prince-harry-says-sources-intent-on-sabotage-behind-reports-of-strained-meeting-with-king",
-    "published": "2025-09-27T16:15:02Z",
-    "image_url": "https://i.guim.co.uk/img/media/91a536cdd2160f59a3a712ad4603965bc41dcfa2/417_0_2077_1662/master/2077.jpg?width=140&quality=85&auto=format&fit=max&s=e84410408f806666621b0eb8a1e13b4d",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -492,18 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-380ceed12c",
-    "source": "Politico — UK",
-    "title": "Germany plans to let military shoot down drones domestically",
-    "summary": "Berlin is moving to tighten aviation law as drone incursions grow.",
-    "url": "https://www.politico.eu/article/germany-plans-to-allow-military-to-shoot-down-drones-domestically/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-27T13:00:07Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/27/13351830-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-ab5fa34e35",
     "source": "The Guardian — UK",
     "title": "Why does the UK need digital IDs and what data will they include?",
@@ -535,18 +547,6 @@
     "url": "https://www.theguardian.com/environment/2025/sep/26/what-are-the-critical-environmental-decisions-piling-up-in-labours-inbox",
     "published": "2025-09-26T09:00:03Z",
     "image_url": "https://i.guim.co.uk/img/media/fef96f2528b049eb5c5f65f42ec7fb6f7e9c9668/0_0_4260_3407/master/4260.jpg?width=140&quality=85&auto=format&fit=max&s=8c7e15967d1097f34cf57a08759e750d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-201e2e361f",
-    "source": "BBC — Top Stories",
-    "title": "'People don't realise Chicken Shop Date is 10 years old'",
-    "summary": "Amelia Dimoldenberg looks back on how a youth magazine column became a huge internet show.",
-    "url": "https://www.bbc.com/news/articles/c3w57g0g5p2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-26T08:19:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b41b/live/61e171b0-9ab8-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
