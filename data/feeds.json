@@ -1,5 +1,29 @@
 [
   {
+    "id": "The Guardian — UK-b938db5a57",
+    "source": "The Guardian — UK",
+    "title": "Something inside so wrong: Labi Siffre tells Tommy Robinson to stop using anti-apartheid anthem",
+    "summary": "Exclusive: UK singer, 80, says it is ‘absurd’ as a ‘positive atheist, homosexual black artist’ for far right to claim his work For decades, Labi Siffre’s hit (Something Inside) So Strong has been a global anthem against apartheid. It was inspired by a documentary about apartheid-era South Africa, and was widely reported to be Nelson Mandela’s favourite song. But now the singer-songwriter has taken the step of issuing Tommy Robinson with a cease and desist order after the far-right activist incorporated the song into his social media posts and used it at the recent “unite the kingdom” rally in central London. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/28/labi-siffre-cease-and-desist-letter-tommy-robinson-anti-apartheid-anthem-something-inside-so-strong",
+    "published": "2025-09-28T06:00:03Z",
+    "image_url": "https://i.guim.co.uk/img/media/a4a942a33b0bceb4a95fcf3f3273e721c3ec2689/567_322_2243_1794/master/2243.jpg?width=140&quality=85&auto=format&fit=max&s=63aac6d1b0a5d710375b80e6d0a517ac",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-374ac5fa8c",
+    "source": "BBC — Top Stories",
+    "title": "Swiss vote on electronic identity cards for second time",
+    "summary": "The proposal was revised after voters rejected the idea in 2021 amid concerns over data protection.",
+    "url": "https://www.bbc.com/news/articles/c20e4z2z8n7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T05:27:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59b7/live/27b946d0-9bf2-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-0767e9b085",
     "source": "BBC — Top Stories",
     "title": "We can pull this round, Starmer says ahead of Labour conference",
@@ -79,18 +103,6 @@
     "url": "https://www.bbc.com/news/articles/cn95e19rlj3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T23:20:47Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bb5/live/5c890580-9bf2-11f0-b741-177e3e2c2fc7.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-374ac5fa8c",
-    "source": "BBC — Top Stories",
-    "title": "Swiss vote on electronic identity cards for second time",
-    "summary": "The proposal was revised after voters rejected the idea in 2021 amid concerns over data protection.",
-    "url": "https://www.bbc.com/news/articles/c20e4z2z8n7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T22:39:55Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59b7/live/27b946d0-9bf2-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -384,18 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-41e125e61d",
-    "source": "The Guardian — UK",
-    "title": "Prisoners held over alleged Palestine Action offences face crackdown since group ban",
-    "summary": "People charged before protest group was proscribed describe restrictions on wearing keffiyehs and holding certain prison jobs People who have been in jail since last year awaiting trial for alleged offences relating to Palestine Action activities say they have faced a crackdown since the group was proscribed, including being banned from wearing the keffiyeh and from prison jobs. The prisoners were charged before Palestine Action was banned and none have been charged with Terrorism Act offences, although the Crown Prosecution Service has said there is a “terrorism connection”. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/27/palestine-action-protest-terrorism-uk-prisons",
-    "published": "2025-09-27T13:00:42Z",
-    "image_url": "https://i.guim.co.uk/img/media/8408668c6b012b3ba163b090bd1cf784005f65f0/303_167_1004_803/master/1004.jpg?width=140&quality=85&auto=format&fit=max&s=835cd522ba2f1d1c70d371d1570fbff0",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-380ceed12c",
     "source": "Politico — UK",
     "title": "Germany plans to let military shoot down drones domestically",
@@ -415,6 +415,18 @@
     "url": "https://www.politico.com/news/2025/09/26/supreme-court-birthright-citizenship-trump-admin-00583378?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-27T12:33:56Z",
     "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-fe443c94d0",
+    "source": "The Guardian — UK",
+    "title": "Education unions urge Keir Starmer to scrap ‘cruel’ two-child benefit cap",
+    "summary": "A letter to the prime minister on the eve of the Labour conference warns of ‘critical need’ to abandon the policy Teaching unions have written to the prime minister asking him to scrap the two-child benefit cap ahead of Labour’s annual conference, which begins in Liverpool on Sunday. In a letter to Keir Starmer, the unions described the policy as “cruel” and said it must be fully abandoned as part of the government’s delayed child poverty strategy, expected to be published before Christmas. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/27/education-unions-urge-keir-starmer-scrap-cruel-two-child-benefit-cap",
+    "published": "2025-09-27T12:23:06Z",
+    "image_url": "https://i.guim.co.uk/img/media/ecb676c8f017f05f7c99878cf986418b66e0d821/439_0_4376_3503/master/4376.jpg?width=140&quality=85&auto=format&fit=max&s=b7dba992a5557804a33b3848091cc2bd",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -511,18 +523,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/27/anti-migrant-activists-may-target-rental-homes-charities-warn",
     "published": "2025-09-27T08:00:37Z",
     "image_url": "https://i.guim.co.uk/img/media/edc1a84184473e0cab5672b811938f7e27d109a5/649_0_6489_5192/master/6489.jpg?width=140&quality=85&auto=format&fit=max&s=e8f502c18a332f8117fbcc7fa65f75a4",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-bda7b20d39",
-    "source": "The Guardian — UK",
-    "title": "‘Don’t trust Trump’: how UK health experts are fighting back against a war on medicine",
-    "summary": "Ministers and medical groups have acted quickly to limit fallout after US president made unproven link between paracetamol and autism Wes Streeting, the UK health secretary, was in a government car heading back into central London from a flag-raising to mark the UK’s recognition of Palestine when he saw the news . “He was aghast,” an aide said. Streeting was reading on his phone that Donald Trump had just warned women not to take Tylenol – known outside the US as paracetamol – during pregnancy. The US president had alleged without evidence that the common painkiller caused autism in children. “Don’t take Tylenol,” Trump said about a drug also known as acetaminophen. Continue reading...",
-    "url": "https://www.theguardian.com/news/ng-interactive/2025/sep/27/dont-trust-trump-how-uk-health-experts-fighting-back-war-medicine",
-    "published": "2025-09-27T05:00:38Z",
-    "image_url": "https://i.guim.co.uk/img/media/15f1a9a4aebab334337c4a2c7547133dfe5aee52/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3c39b9d8303c02b6782cf5b293531f13",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
