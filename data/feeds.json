@@ -1,5 +1,89 @@
 [
   {
+    "id": "BBC — Top Stories-a20dc75955",
+    "source": "BBC — Top Stories",
+    "title": "Kyiv hit by 'massive' Russian attack, mayor says",
+    "summary": "As well as intensifying attacks against Ukraine, Russia is also accused of violating the airspace of several Nato countries.",
+    "url": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T07:12:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f2c/live/f7147c40-9c35-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-41b70ea652",
+    "source": "The Guardian — UK",
+    "title": "Far-right Facebook groups are engine of radicalisation in UK, data investigation suggests",
+    "summary": "Network exposes hundreds of thousands of Britons to racist language, conspiracy and disinformation, Guardian research indicates Inside the everyday Facebook networks where far-right ideas grow A network of far-right Facebook groups is exposing hundreds of thousands of Britons to racist and extremist disinformation and has become an “engine of radicalisation”, a Guardian investigation suggests. Run by otherwise ordinary members of the public – many of whom are of retirement age – the groups are a hotbed of hardline anti-immigration and racist language, where online hate goes apparently unchecked. Additional reporting by Olivia Lee and Carmen Aguilar García. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/sep/28/far-right-facebook-groups-are-engine-of-radicalisation-in-uk-data-investigation-suggests",
+    "published": "2025-09-28T07:00:06Z",
+    "image_url": "https://i.guim.co.uk/img/media/3ad719263d95a5d09da51559f93b7765b022b3b1/1_0_4998_4000/master/4998.png?width=140&quality=85&auto=format&fit=max&s=97a62e47eb0fba61cf8ef207df575c2e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-48ffd8bac5",
+    "source": "The Guardian — UK",
+    "title": "Inside the everyday Facebook networks where far-right ideas grow",
+    "summary": "The Guardian spent a year studying an online community trading in anti-immigration sentiment and misinformation. Experts say such spaces can play a role in radicalisation Far-right Facebook groups are engine of radicalisation in UK, data investigation suggests Far-right ideas are gaining ground. They are thriving in online worlds which are not easily visible to large swathes of the public but which spread misinformation that has real-world consequences. Take last year. In the summer of 2024, riots broke out across parts of the UK, fuelled by misinformation that spread on social media . Continue reading...",
+    "url": "https://www.theguardian.com/world/ng-interactive/2025/sep/28/inside-the-everyday-facebook-networks-where-far-right-ideas-grow",
+    "published": "2025-09-28T07:00:05Z",
+    "image_url": "https://i.guim.co.uk/img/media/c503514b4c62e6fface446b85b9e70568eb8de19/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=15866ae31c112311e83a1809f4499051",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-3c6dd38c64",
+    "source": "The Guardian — UK",
+    "title": "Reading the post-riot posts: how we traced far-right radicalisation across 51,000 Facebook messages",
+    "summary": "Tracing profiles of those charged with online offences in summer 2024 helped us map a thriving social ecosystem trading far-right sentiment and political disillusionment Far-right Facebook groups are engine of radicalisation in UK, data investigation suggests Inside the everyday Facebook networks where far-right ideas grow More than 1,100 people have been charged in connection to the summer 2024 riots. A small number of them were charged for offences related to their online activity. Their jail sentences – which ranged from 12 weeks to seven years – became a flashpoint for online criticism. The people behind the posts were variously defended , held up as a cause célèbre and cast as “ political prisoners ”; their posts minimised and repeated; their prosecution misrepresented as an attack on free speech (the majority of those prosecuted for online offences faced charges of stirring up racial hatred). Accuracy (percentage of correctly classified instances): 94.7% . Precision (percentage of times the True labels assigned by GPT are correct): 79.5 . Recall (percentage of instances classified as True by the humans that were also classified as True by GPT): 86.1% . F1 (a single percentage that combines precision and recall, higher when GPT both finds the True cases and avoids false alarms): 82.6% . Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/sep/28/reading-the-post-riot-posts-how-we-traced-far-right-radicalisation-across-51000-facebook-messages",
+    "published": "2025-09-28T07:00:04Z",
+    "image_url": "https://i.guim.co.uk/img/media/6f558a04e3653c09f5ddd15ec9d64bb784a6a550/416_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=c727afdd5a4911453b43a4a212584a3e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-bf31b9b448",
+    "source": "Politico — UK",
+    "title": "Zelenskyy says ‘mega deal’ in works for US arms purchases",
+    "summary": "The package under discussion is estimated to be worth $90 billion, according to media reports.",
+    "url": "https://www.politico.eu/article/zelenskyy-says-mega-deal-in-works-for-us-arms-purchases/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-28T06:58:26Z",
+    "image_url": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f05e73bc4d",
+    "source": "BBC — Top Stories",
+    "title": "Government to guarantee £1.5bn loan to Jaguar Land Rover after cyber shutdown",
+    "summary": "Ministers hope the loan, from a commercial bank and underwritten by the government, will give certainty to suppliers.",
+    "url": "https://www.bbc.com/news/articles/cgl15ykerlro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T06:57:22Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1505/live/303c0ab0-9be6-11f0-bddd-5f1abb8b5445.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f66adf6dc0",
+    "source": "BBC — Top Stories",
+    "title": "Building of three new towns will start before election, Labour pledges",
+    "summary": "The housing secretary is expected to announce the plans on the first day of Labour's party conference.",
+    "url": "https://www.bbc.com/news/articles/cly1geen679o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T06:26:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2455/live/a0183b40-9bd4-11f0-8bfb-0171e9a883f4.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-b938db5a57",
     "source": "The Guardian — UK",
     "title": "Something inside so wrong: Labi Siffre tells Tommy Robinson to stop using anti-apartheid anthem",
@@ -24,18 +108,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-0767e9b085",
-    "source": "BBC — Top Stories",
-    "title": "We can pull this round, Starmer says ahead of Labour conference",
-    "summary": "Labour's annual gathering is likely to be dominated by how it responds to the challenge from Reform.",
-    "url": "https://www.bbc.com/news/articles/cn0xzdgyx0do?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T03:50:18Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5a9/live/b70714b0-9c1b-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-254ae8e24a",
     "source": "BBC — Top Stories",
     "title": "Florence Welch says she had life-saving surgery after ectopic pregnancy",
@@ -55,6 +127,18 @@
     "url": "https://www.bbc.com/sport/golf/articles/cg5endmdq42o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T01:23:32Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/509b/live/d25f81e0-9bf6-11f0-be96-85c61452c8b2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-11645bd0fb",
+    "source": "BBC — Top Stories",
+    "title": "Dismissed as a joke, UK's first rice crop ripe for picking after hot summer",
+    "summary": "Paddy fields are thriving in a quiet part of east England and might help feed us in the future.",
+    "url": "https://www.bbc.com/news/articles/c1wgeq702dyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T00:50:54Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91a0/live/11a64bd0-9252-11f0-9cf6-cbf3e73ce2b9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -96,6 +180,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-55737857fc",
+    "source": "BBC — Top Stories",
+    "title": "The US navy killed 17 in deadly strikes. Now Venezuela is giving civilians guns",
+    "summary": "Tensions between the two countries have increased after the US Navy targeted boats off the coast of Venezuela.",
+    "url": "https://www.bbc.com/news/articles/c5y5q173053o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-27T23:30:46Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be2f/live/a41a1560-9a1c-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-40636b2134",
     "source": "BBC — Top Stories",
     "title": "England's Roses 'rule the world' and PM heads for crunch conference",
@@ -132,22 +228,10 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-f66adf6dc0",
-    "source": "BBC — Top Stories",
-    "title": "Building of three new towns will start before election, Labour pledges",
-    "summary": "The housing secretary is expected to announce the plans on the first day of Labour's party conference.",
-    "url": "https://www.bbc.com/news/articles/cly1geen679o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T21:45:12Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2455/live/a0183b40-9bd4-11f0-8bfb-0171e9a883f4.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-a2ae6e7aca",
     "source": "BBC — Top Stories",
     "title": "Trump authorises 'full force' as Portland set to become latest city to see troops deployed",
-    "summary": "The president says the latest move to send troops to a major US city is \"necessary\" to protect immigration detention facilities.",
+    "summary": "The president says the latest move is \"necessary\" to protect immigration detention facilities in the major US city.",
     "url": "https://www.bbc.com/news/articles/cddmn6ge6e2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T21:42:04Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f730/live/021eaaf0-9c01-11f0-928c-71dbb8619e94.jpg",
@@ -175,18 +259,6 @@
     "url": "https://www.bbc.com/news/articles/c20e4ge36e6o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T21:01:59Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6827/live/5599cc00-9bd4-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f05e73bc4d",
-    "source": "BBC — Top Stories",
-    "title": "Government to guarantee £1.5bn loan to Jaguar Land Rover after cyber shutdown",
-    "summary": "Ministers hope the loan, from a commercial bank and underwritten by the government, will give certainty to suppliers.",
-    "url": "https://www.bbc.com/news/articles/cgl15ykerlro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T21:00:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1505/live/303c0ab0-9be6-11f0-bddd-5f1abb8b5445.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -223,18 +295,6 @@
     "url": "https://www.bbc.com/sport/rugby-union/articles/cqlzgdxplyyo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-27T19:20:04Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a480/live/2639adb0-9bdc-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-52cdffb6c6",
-    "source": "BBC — Top Stories",
-    "title": "Israeli strikes kill dozens in Gaza including civilians seeking aid, health workers say",
-    "summary": "Israel is continuing its offensive against Hamas, after PM Benjamin Netanyahu told the UN ​​Israel “must finish the job” in Gaza.",
-    "url": "https://www.bbc.com/news/articles/c87y58jgn5lo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T18:06:21Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e064/live/6c52fed0-9bc0-11f0-852e-075d0572b37f.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -372,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-32805add91",
-    "source": "The Guardian — UK",
-    "title": "Anthony Albanese meets King Charles at Balmoral",
-    "summary": "Australian PM attends private audience at Scottish castle and on Sunday will visit Labour conference in Liverpool Anthony Albanese has met King Charles at Balmoral Castle, attending a private audience with the monarch at the historic estate in Scotland. On the second full day of his visit to the UK , and before visiting Liverpool for the Labour party’s annual conference, the Australian prime minister flew from London to the Scottish Highlands to meet the monarch. Continue reading...",
-    "url": "https://www.theguardian.com/australia-news/2025/sep/27/anthony-albanese-meets-king-charles-balmoral",
-    "published": "2025-09-27T13:46:14Z",
-    "image_url": "https://i.guim.co.uk/img/media/fa9092aa92852f74137696e7445572a8c488c01a/376_51_3220_2575/master/3220.jpg?width=140&quality=85&auto=format&fit=max&s=8c6a38157a53f44184c8b19f7724ebe2",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-965f9093be",
     "source": "Politico — UK",
     "title": "More drones spotted near Danish military bases",
@@ -432,18 +480,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-0fd12f393b",
-    "source": "BBC — Top Stories",
-    "title": "How much trouble is Labour in - and is the PM the right man for the job?",
-    "summary": "Ahead of Labour's annual conference, Laura Kuenssberg talks to ministers, MPs and advisers about Starmer's position.",
-    "url": "https://www.bbc.com/news/articles/c1kwlzv9zl1o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T12:20:39Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2f2/live/a3f72f60-9ab1-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-abe5e4a8a0",
     "source": "Politico — UK",
     "title": "Musk, Bannon and Thiel named in new Epstein estate documents",
@@ -468,18 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-73762b73b1",
-    "source": "Politico — UK",
-    "title": "Supreme Court clears way for Trump to withhold $4B in foreign aid approved by Congress",
-    "summary": "The ruling could further muddle negotiations over the impending government shutdown.",
-    "url": "https://www.politico.com/news/2025/09/26/supreme-court-foreign-aid-impoundment-ruling-00583052?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-27T11:27:01Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-c9d89a8d32",
     "source": "The Guardian — UK",
     "title": "Labour seeks ‘ambitious’ youth mobility scheme with EU",
@@ -499,30 +523,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/27/starmer-asks-conservative-peer-write-planning-bill-block-judicial-reviews",
     "published": "2025-09-27T10:00:41Z",
     "image_url": "https://i.guim.co.uk/img/media/d97fae63aa78e2ae60f09873f97066545c294223/584_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5a3242e6877052a601961bf2207ff374",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-8ffde5a3b6",
-    "source": "The Guardian — UK",
-    "title": "Keir Starmer to warn Labour that battle with Reform is ‘fight for soul of the nation’",
-    "summary": "Exclusive: PM says history will not forgive his government if it fails to confront and defeat the populist right Keir Starmer will warn the Labour party that it is in a “fight for the soul of the nation” and that history will not forgive his government if it fails to confront and defeat Reform UK and the populist right. Speaking to the Guardian ahead of a vital conference for his leadership, he said he would tell disgruntled party members that now was “not the time for introspection” and infighting. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/26/keir-starmer-warn-labour-battle-reform-fight-soul-nation",
-    "published": "2025-09-27T08:10:05Z",
-    "image_url": "https://i.guim.co.uk/img/media/fb93ca98fb51f0d5cebc6a4c1b4699f1ec3f31f4/683_0_3857_3086/master/3857.jpg?width=140&quality=85&auto=format&fit=max&s=51e37e8e552d45f0bbd23753fcbac274",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-e155a237e7",
-    "source": "The Guardian — UK",
-    "title": "Anti-migrant activists may target rental homes, charities warn",
-    "summary": "Fears raised over social media posts urging action against shared properties housing asylum seekers ‘They’ve got to go somewhere’: Bolton residents on the rise of HMOs Fears are growing that shared houses may become the focus of anti-migrant protests, with residents and charities saying tensions are building in some areas. Homes of multiple occupation (HMOs) have grown in number as renters seek affordable accommodation amid a housing crisis. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/27/anti-migrant-activists-may-target-rental-homes-charities-warn",
-    "published": "2025-09-27T08:00:37Z",
-    "image_url": "https://i.guim.co.uk/img/media/edc1a84184473e0cab5672b811938f7e27d109a5/649_0_6489_5192/master/6489.jpg?width=140&quality=85&auto=format&fit=max&s=e8f502c18a332f8117fbcc7fa65f75a4",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
