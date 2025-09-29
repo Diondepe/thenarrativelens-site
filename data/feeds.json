@@ -1,5 +1,29 @@
 [
   {
+    "id": "BBC — Top Stories-e1fdf91918",
+    "source": "BBC — Top Stories",
+    "title": "Four killed in shooting and arson attack at Mormon church in Michigan",
+    "summary": "Hundreds of people were attending a Sunday service when the attacker drove a vehicle into the church and opened fire, police say.",
+    "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T03:39:05Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8487/live/643d5b50-9ce2-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-a8c7064d88",
+    "source": "Politico — UK",
+    "title": "The future of brain health: Acting now for improved epilepsy care",
+    "summary": "It’s time to turn plans into action. Strategic investment and prioritization in epilepsy — as part of a holistic brain health agenda — can pave the way for a healthier society.",
+    "url": "https://www.politico.eu/sponsored-content/the-future-of-brain-health-acting-now-for-improved-epilepsy-care/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-29T03:05:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/Image_Politico.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-adbaac6521",
     "source": "Politico — UK",
     "title": "A patent licensing gamble that threatens Europe’s innovation future",
@@ -7,18 +31,6 @@
     "url": "https://www.politico.eu/sponsored-content/a-patent-licensing-gamble-that-threatens-europes-innovation-future/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-29T03:00:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/Source-istockphoto.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e1fdf91918",
-    "source": "BBC — Top Stories",
-    "title": "At least four dead and several injured in shooting at Mormon church in Michigan",
-    "summary": "Police say \"hundreds\" of people were attending Sunday service when the attacker drove a vehicle into the church and opened fire.",
-    "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T02:34:39Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f76b/live/b72b1700-9c95-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -355,18 +367,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/28/ed-miliband-says-it-is-possible-that-uk-government-should-leave-x",
     "published": "2025-09-28T18:20:32Z",
     "image_url": "https://i.guim.co.uk/img/media/21ebe6f5d4d5cdb0047b0cc5b07d055bec819396/386_82_3628_2902/master/3628.jpg?width=140&quality=85&auto=format&fit=max&s=cc450b440d704783ab17602def44545c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-50d829323c",
-    "source": "Politico — UK",
-    "title": "World Cup puts Trump in position to score geopolitical goals",
-    "summary": "As the host of the next World Cup, Trump sees the ball at his feet in thorny foreign policy situations involving Israel, Russia, Iran and Brazil.",
-    "url": "https://www.politico.com/news/2025/09/28/soccer-trump-geopolitical-goals-00583502?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-28T18:15:03Z",
-    "image_url": null,
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
