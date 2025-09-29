@@ -1,5 +1,53 @@
 [
   {
+    "id": "The Guardian — UK-3139f8ab8a",
+    "source": "The Guardian — UK",
+    "title": "Labour to tackle care sector crisis in England with pay increase and new negotiating body",
+    "summary": "Exclusive: Wes Streeting to put £500m behind initial rise but unions say ‘substantially more’ investment will be needed Care workers in England are to receive a substantial pay increase from 2028 after the creation of a new body of trade unions and employers designed to stem the exodus of workers from the sector by improving wages and conditions. The health secretary, Wes Streeting, will put £500m behind the initial increase and will begin this year to establish the new negotiating body, which will create a fair pay agreement. However, unions have warned that the future pay increases will need “substantially more” investment. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/sep/29/labour-to-tackle-care-sector-crisis-in-england-with-pay-increase-and-new-negotiating-body",
+    "published": "2025-09-29T20:00:37Z",
+    "image_url": "https://i.guim.co.uk/img/media/38c738a383ed67b11ae393e904b37a0364380a15/359_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e5584567c03828d2c87d2be29115f47f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-dc4639b254",
+    "source": "The Guardian — UK",
+    "title": "Shabana Mahmood calls Nigel Farage ‘worse than racist’ over ‘dog-whistle politics’",
+    "summary": "Home secretary also tells Labour conference fringe event of the abuse her family have been subjected to recently Warning: this article contains language that some may find offensive The home secretary, Shabana Mahmood, has accused Nigel Farage of being “worse than racist” for dog-whistle politics as she described how members of her family had been racially abused near their home in recent weeks. After a speech calling on Labour and the UK to “fight for our belief in a greater Britain, not a littler England”, she said the Reform leader has “blown a very very loud dog whistle to every racist in the country” with policies that would reassess the immigration status of people who have been granted a right to settle in the UK. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/29/shabana-mahmood-calls-nigel-farage-worse-than-racist-over-dog-whistle-politics",
+    "published": "2025-09-29T19:57:57Z",
+    "image_url": "https://i.guim.co.uk/img/media/882765e2212062a28aa1a6851063aad225674411/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=33eae6ce502f83a98f5a7d939dcc5a41",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-85a23dbd24",
+    "source": "Politico — UK",
+    "title": "Trump touts Israel’s approval of his Gaza peace plan. Hamas has not agreed.",
+    "summary": "The president appeared optimistic about bringing the war to an end, even as he and Prime Minister Benjamin Netanyahu threatened to “finish the job” should the deal fall apart.",
+    "url": "https://www.politico.com/news/2025/09/29/trump-touts-peace-plan-for-israel-hamas-has-not-agreed-00584857?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-29T19:42:08Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-8c76410525",
+    "source": "BBC — Top Stories",
+    "title": "Afghanistan telecom blackout as Taliban shuts off internet",
+    "summary": "Phone and internet connections are down nationwide after the Taliban cut fibre-optic connections to prevent \"immorality\".",
+    "url": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T19:20:43Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0203/live/f08a4b00-9d68-11f0-a16f-ff7724a733bf.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-1d3748f0ad",
     "source": "Politico — UK",
     "title": "UK deploys anti-drone tech to Denmark after airports hit",
@@ -27,7 +75,7 @@
     "id": "The Guardian — UK-8adf1643d2",
     "source": "The Guardian — UK",
     "title": "GPs in England threaten action over online appointment booking plan",
-    "summary": "Doctors’ union warns GPs will be diverted in ‘triage tsunami’, giving ministers 48 hours to implement safeguards GPs in England are threatening to take action over government plans to increase patients’ online access to appointments which they claim will lead to a “tsunami” of extra demand. Ministers have been given 48 hours to put in place measures to stop GPs being overwhelmed when the new system – intended to help patients beat “the 8am scramble” – starts this Wednesday. Continue reading...",
+    "summary": "Doctors’ union says GPs will be overwhelmed by ‘triage tsunami’ and gives ministers 48 hours to take measures GPs in England are threatening to take action over government plans to increase patients’ online access to appointments which they say will lead to a “tsunami” of extra demand. Ministers have been given 48 hours to put in place measures to stop GPs being overwhelmed when the new system – intended to help patients beat “the 8am scramble” – starts on Wednesday. Continue reading...",
     "url": "https://www.theguardian.com/society/2025/sep/29/gps-doctors-england-online-appointment-booking-plan-strike-action-threat",
     "published": "2025-09-29T19:00:36Z",
     "image_url": "https://i.guim.co.uk/img/media/21d529d3b3e11e22878da62069e78d8c6e7e8a55/422_0_2687_2150/master/2687.jpg?width=140&quality=85&auto=format&fit=max&s=d43e552325e1f003663c32061620900a",
@@ -252,18 +300,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-8063583766",
-    "source": "The Guardian — UK",
-    "title": "Woman charged with murder of three children in Bristol",
-    "summary": "Yasmeen Ali, 43, accused of killing seven-year-old Fares Bash, three-year-old Joury Bash and nine-month-old Mohammed Bash A woman has been charged with murder after three siblings, including a baby, were found dead at a house in Bristol. Yasmeen Ali, 43, is accused of murdering seven-year-old Fares Bash, three-year-old Joury Bash and nine-month-old Mohammed Bash. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/29/woman-charged-murder-three-children-bristol-yasmeen-ali",
-    "published": "2025-09-29T16:35:25Z",
-    "image_url": "https://i.guim.co.uk/img/media/3cf2d7d6326d9f7250aacd27433c9691639cfa6f/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=ec3206b64c6acfc62aeaa580560137ba",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-4215a9b9cd",
     "source": "BBC — Top Stories",
     "title": "One day of planning went into Covid school closures, inquiry hears",
@@ -386,11 +422,11 @@
   {
     "id": "The Guardian — UK-a8258d9126",
     "source": "The Guardian — UK",
-    "title": "Labour conference to vote on whether Israel is committing genocide in Gaza",
-    "summary": "Motion backed by unions calls for tougher action, including trade suspension, to end risk of UK complicity The Labour conference will vote on whether it believes Israel is committing a genocide in Gaza and whether the UK-Israel trade agreement should be suspended in what could become a significant conference showdown. Labour members are preparing to use the vote on Monday to highlight their unease with the government’s refusal to conclude that Israel is committing a genocide in Gaza. Continue reading...",
+    "title": "Labour conference backs motion saying Israel is committing genocide in Gaza",
+    "summary": "Motion backed by unions calls for tougher action, dealing a blow to Keir Starmer on eve of his speech The Labour conference has backed a union-led motion accepting a UN finding that Israel is committing genocide in Gaza and urging the British government to act to prevent it. The emergency motion – proposed by the UK’s biggest union, Unison, and seconded by the train drivers’ union Aslef – passed because of affiliate backing, despite organisers indicating that a show of hands in the hall suggested support for a leadership-backed alternative that referred only to a “risk” of genocide. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/29/labour-party-conference-vote-israel-genocide-gaza",
     "published": "2025-09-29T14:02:50Z",
-    "image_url": "https://i.guim.co.uk/img/media/7524af60cc0d869457b479f06bc15787002f6a83/287_0_3019_2416/master/3019.jpg?width=140&quality=85&auto=format&fit=max&s=d6e1ca10322063c24c4738a13f00de96",
+    "image_url": "https://i.guim.co.uk/img/media/f5bf5a29e14b9f0f826fcd6993988d32c52f38a6/1053_0_6018_4815/master/6018.jpg?width=140&quality=85&auto=format&fit=max&s=3d7115b4128f0e97259ecbb55c8b2a89",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -414,7 +450,7 @@
     "summary": "Conference speech sets out likely Labour economic argument at next general election and pitch to party Reeves warns Labour figures against ‘peddling idea’ of ditching fiscal rules “Never let anyone tell you that there’s no difference between a Labour government and a Conservative government.” Rachel Reeves used her speech in Liverpool to draw a sharp dividing line with her Tory predecessors – and with Nigel Farage’s Reform UK. In a restatement of Labour’s early achievements in government, received as a tonic by the party faithful in the hall, the chancellor pointed to a slew of spending promises. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/29/rachel-reeves-fiscal-rules-investment-labour-conference-speech",
     "published": "2025-09-29T13:57:10Z",
-    "image_url": "https://i.guim.co.uk/img/media/cff408d9860f6fc06248cd5ebc11caa01d3bd407/520_71_2800_2240/master/2800.jpg?width=140&quality=85&auto=format&fit=max&s=3691a77bf788d08fe62166699a3a6fbc",
+    "image_url": "https://i.guim.co.uk/img/media/6ce9666b70a33a305063ec79f16dd8255bacb609/739_0_5560_4448/master/5560.jpg?width=140&quality=85&auto=format&fit=max&s=c2a297a930d5bdfe7f5a93ad9012cc86",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,18 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-d9b6695bbc",
-    "source": "Politico — UK",
-    "title": "EU housing plan to tackle speculation, short-term rentals",
-    "summary": "Brussels wants more public cash to build homes — and insists they be genuinely affordable.",
-    "url": "https://www.politico.eu/article/eu-housing-plan-tackle-speculation-short-term-rental/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-29T11:57:32Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/29/GettyImages-1036144296-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-dfeb8bc0be",
     "source": "BBC — Top Stories",
     "title": "Delay online GP booking system or risk patient safety, doctors' union warns",
@@ -523,30 +547,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/29/rachel-reeves-confirms-she-no-longer-stands-by-pledge-not-to-raise-taxes",
     "published": "2025-09-29T09:18:35Z",
     "image_url": "https://i.guim.co.uk/img/media/32d19c9318d4f64091568882c1e6ce42a9e2d8e8/376_0_4274_3420/master/4274.jpg?width=140&quality=85&auto=format&fit=max&s=05f6efb9e673221bb0be36cb1cca8fd1",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-e658c0a324",
-    "source": "The Guardian — UK",
-    "title": "More than 1m UK workers to gain more rights under employment bill, says thinktank",
-    "summary": "Work Foundation says key elements of bill promote secure jobs amid fierce business lobbying against legislation Employers will be forced to offer more secure terms to more than a million workers if the employment bill going through parliament is implemented, according to research by a leading thinktank. The Work Foundation said analysis of 2023-24 data calculating the impact of a ban on zero-hours contracts and “day one” compensation after unfair dismissal – which are two key elements of the employment rights bill – showed 1.2 million workers would have been protected from “severe insecurity” in the workplace. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/29/more-than-1m-uk-workers-to-gain-more-rights-under-employment-bill-says-thinktank",
-    "published": "2025-09-29T05:00:33Z",
-    "image_url": "https://i.guim.co.uk/img/media/d24d85c3969b87cacef600c204999d8893a78fab/138_0_3078_2462/master/3078.jpg?width=140&quality=85&auto=format&fit=max&s=2a5cc68d2d4a58b7d5ea479e9e59ced8",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a29dc32560",
-    "source": "BBC — Top Stories",
-    "title": "'You'll never need to work again': Criminals offer reporter money to hack BBC",
-    "summary": "Reporter Joe Tidy was offered money if he would help cyber criminals access BBC systems.",
-    "url": "https://www.bbc.com/news/articles/c3w5n903447o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T05:00:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c59d/live/6c648fe0-9d11-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
