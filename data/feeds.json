@@ -1,9 +1,57 @@
 [
   {
+    "id": "Politico — UK-1d3748f0ad",
+    "source": "Politico — UK",
+    "title": "UK deploys anti-drone tech to Denmark after airports hit",
+    "summary": "Defense Secretary John Healey confirmed the move for the first time in an interview with POLITICO at Labour conference on Monday.",
+    "url": "https://www.politico.eu/article/uk-anti-drone-technology-denmark-airports-john-healey/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-29T19:11:58Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/29/GettyImages-2236432797-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f8defdefd3",
+    "source": "BBC — Top Stories",
+    "title": "Europe captain 'thinking about' third term after Ryder Cup victory",
+    "summary": "Luke Donald will \"think about\" being European Ryder Cup captain again, but says he will not \"rush into a decision\" after Sunday's victory in New York.",
+    "url": "https://www.bbc.com/sport/golf/articles/cx2x4v79yv1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T19:03:26Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82eb/live/fc84dc10-9d52-11f0-b508-4f432d3320c1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-8adf1643d2",
+    "source": "The Guardian — UK",
+    "title": "GPs in England threaten action over online appointment booking plan",
+    "summary": "Doctors’ union warns GPs will be diverted in ‘triage tsunami’, giving ministers 48 hours to implement safeguards GPs in England are threatening to take action over government plans to increase patients’ online access to appointments which they claim will lead to a “tsunami” of extra demand. Ministers have been given 48 hours to put in place measures to stop GPs being overwhelmed when the new system – intended to help patients beat “the 8am scramble” – starts this Wednesday. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/sep/29/gps-doctors-england-online-appointment-booking-plan-strike-action-threat",
+    "published": "2025-09-29T19:00:36Z",
+    "image_url": "https://i.guim.co.uk/img/media/21d529d3b3e11e22878da62069e78d8c6e7e8a55/422_0_2687_2150/master/2687.jpg?width=140&quality=85&auto=format&fit=max&s=d43e552325e1f003663c32061620900a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-b12202ed4f",
+    "source": "The Guardian — UK",
+    "title": "Andy Burnham hits back at Labour critics over challenge to Starmer",
+    "summary": "Greater Manchester mayor says he wants conference dominated by leadership speculation to be a success Andy Burnham, the Schrödinger’s cat of the Labour party conference Andy Burnham has hit back at Labour colleagues who have criticised him for challenging Keir Starmer during a Labour party conference that has been dominated by speculation over the prime minister’s leadership. The Greater Manchester mayor rejected attacks by members of his own party who have accused him of launching a pre-emptive putsch against Starmer, saying the criticism “sticks in my throat”. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/29/andy-burnham-fights-back-against-labour-critics-over-challenge-to-starmer",
+    "published": "2025-09-29T18:50:53Z",
+    "image_url": "https://i.guim.co.uk/img/media/247c11738a52e8774ae914d7de814620ac065f63/422_0_2838_2270/master/2838.jpg?width=140&quality=85&auto=format&fit=max&s=eb446dd4ea6fc65ea2bff146d55505b7",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-6c8f65ca19",
     "source": "The Guardian — UK",
     "title": "Covid school closures in UK damaged ‘very fabric of childhood’",
-    "summary": "Inquiry hears of children exposed to pornography and suffering ‘grievous’ harm without protection of schools The Covid pandemic disrupted the “very fabric of childhood”, the UK inquiry has heard, on the first day of a four-week session devoted to its impact on children and young people. Clair Dobbin KC, counsel to the inquiry, said in her opening submission on Monday that some of the evidence drawn from the 18,000 stories and 400 targeted interviews submitted to the inquiry, would be “hard to listen to”. Continue reading...",
+    "summary": "Inquiry hears of children exposed to pornography and suffering ‘grievous’ harm without protection of schools The Covid pandemic disrupted the “very fabric of childhood”, the UK inquiry has heard, on the first day of a four-week session devoted to its impact on children and young people. Clair Dobbin KC, counsel to the inquiry, said in her opening submission on Monday that some of the evidence drawn from the 18,000 stories and 400 targeted interviews would be “hard to listen to”. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/sep/29/covid-school-closures-in-uk-damaged-very-fabric-of-childhood",
     "published": "2025-09-29T18:15:37Z",
     "image_url": "https://i.guim.co.uk/img/media/75a91e7c16ec6917d709c710bfd19a383f9f01cc/337_0_3158_2526/master/3158.jpg?width=140&quality=85&auto=format&fit=max&s=698d26215c19cc452a19452c69994275",
@@ -14,8 +62,8 @@
   {
     "id": "The Guardian — UK-86733910ce",
     "source": "The Guardian — UK",
-    "title": "Scottish government says school pupils must use toilets on basis of sex",
-    "summary": "Schools must provide single-sex toilets and are encouraged to also offer access to gender-neutral or other facilities Schools must provide separate toilets and changing rooms for boys and girls to be used on the basis of a pupil’s biological sex, the Scottish government has said in updated guidance. Transgender pupils can no longer use “the facilities they feel most comfortable with”, as was previously the case, but schools were encouraged to offer gender-neutral facilities or access to disabled and staff toilets for the relatively small number of children affected. Continue reading...",
+    "title": "Scottish government says schools must have separate toilets for boys and girls",
+    "summary": "Schools encouraged to also offer gender-neutral facilities for trans pupils or access to disabled and staff toilets Schools must provide separate toilets and changing rooms for boys and girls to be used on the basis of a pupil’s biological sex, the Scottish government has said in updated guidance. Transgender pupils can no longer use “the facilities they feel most comfortable with”, as was previously the case, but schools were encouraged to offer gender-neutral facilities or access to disabled and staff toilets for the relatively small number of children affected. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/sep/29/scottish-government-rules-schools-must-provide-single-sex-toilets-for-children",
     "published": "2025-09-29T18:11:07Z",
     "image_url": "https://i.guim.co.uk/img/media/50802f0d7ea0a1662c81d3aed69209d64ddb8b0b/1009_0_5294_4235/master/5294.jpg?width=140&quality=85&auto=format&fit=max&s=a0a12240ecdd34591b1bb25214a11ce2",
@@ -27,7 +75,7 @@
     "id": "Politico — UK-7e076ea8da",
     "source": "Politico — UK",
     "title": "Under-fire Keir Starmer’s chief whip vows to bring job out of ‘18th century’",
-    "summary": "In a rare interview, Jonathan Reynolds told POLITICO he would not be employing a tarantula or a \"little black book,\" and use a gentler approach to keep restive MPs on the government's side",
+    "summary": "In a rare interview, Jonathan Reynolds told POLITICO he would not be employing a tarantula or a \"little black book,\" but would take a gentler approach to keep restive MPs on the government's side.",
     "url": "https://www.politico.eu/article/keir-starmers-chief-whip-jonathan-reynolds-vow-bring-job-18th-century/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-29T18:08:52Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/29/GettyImages-2223452182-scaled.jpg",
@@ -43,18 +91,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/29/zhimin-qian-admits-uk-bitcoin-charges-after-worlds-largest-crypto-seizure",
     "published": "2025-09-29T18:01:54Z",
     "image_url": "https://i.guim.co.uk/img/media/d3384149fa868b5fa9f76cd6068c44dbf9b2c3c8/0_438_2146_1716/master/2146.jpg?width=140&quality=85&auto=format&fit=max&s=bae5494fc87fb0bade4a5dbbbdbf830b",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f8defdefd3",
-    "source": "BBC — Top Stories",
-    "title": "Europe captain 'thinking about' third term after Ryder Cup victory",
-    "summary": "Luke Donald will \"think about\" being European Ryder Cup captain again, but says he will not \"rush into a decision\" after Sunday's victory in New York.",
-    "url": "https://www.bbc.com/sport/golf/articles/cx2x4v79yv1o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T17:55:05Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82eb/live/fc84dc10-9d52-11f0-b508-4f432d3320c1.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -99,10 +135,10 @@
     "id": "The Guardian — UK-8709a90a97",
     "source": "The Guardian — UK",
     "title": "Labour must fight rightwing billionaires undermining net zero, says Ed Miliband",
-    "summary": "Exclusive: Energy secretary will hit out at the Tory and Reform ‘culture war’ and unveil target of 400,000 new jobs in clean energy Labour is in a fight against “global network of right-wing billionaires” who want to undermine net zero for their “vested interests”, the energy secretary, Ed Miliband, has said. He said that the Tories and Reform UK were “importing a net zero culture war” and that accelerating the green transition would be key to winning the argument with the public. Continue reading...",
+    "summary": "Exclusive: Energy secretary will hit out at the Tory and Reform ‘culture war’ and unveil target of 400,000 new jobs in clean energy Labour is in a fight against “global network of rightwing billionaires” who want to undermine net zero for their “vested interests”, Ed Miliband has said. The energy secretary said that the Conservatives and Reform UK were “importing a net zero culture war” and that accelerating the green transition would be key to winning the argument with the public. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/29/labour-must-fight-right-wing-billionaires-undermining-net-zero-ed-miliband",
     "published": "2025-09-29T17:48:13Z",
-    "image_url": "https://i.guim.co.uk/img/media/4f4c4fe1d0ec75830f39ffa3cd5904977685d81a/155_0_1554_1243/master/1554.jpg?width=140&quality=85&auto=format&fit=max&s=661095d79c8263c17168a2a7a01fd708",
+    "image_url": "https://i.guim.co.uk/img/media/86e57a5dd0b51cae7e09756a6defcd49f3157130/341_0_4608_3687/master/4608.jpg?width=140&quality=85&auto=format&fit=max&s=88bccecfe5fed0d5a7449c3d877d99dc",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -300,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-9a139f5901",
-    "source": "The Guardian — UK",
-    "title": "GSK’s Emma Walmsley to step down as chief executive after eight years",
-    "summary": "Chief commercial officer Luke Miels to take over as CEO at Britain’s second-biggest drugmaker Business live – latest updates Britain’s second-biggest drugmaker GSK has announced the departure of its chief executive, Dame Emma Walmsley, after eight years in the top job. Walmsley, 56, who has run the FTSE 100 company since 2017, will step down from the board at the end of this year, and remain at GSK until her notice period ends on 30 September 2026. It is unclear what she will do then, but she said she had no intention of retiring. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/sep/29/gsk-emma-walmsley-to-be-replaced-as-ceo",
-    "published": "2025-09-29T15:26:50Z",
-    "image_url": "https://i.guim.co.uk/img/media/55d880c9619f03656f583703d862ab07ba9ca3f4/333_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=62ff299a877594b4658abde8491c6c50",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-0f7da76106",
     "source": "BBC — Top Stories",
     "title": "Trump considering supplying Ukraine with long-range missiles, Vance says",
@@ -319,18 +343,6 @@
     "url": "https://www.bbc.com/news/articles/cly6r1mg34yo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-29T15:25:30Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1108/live/f4cd3df0-9d3e-11f0-973f-51ea2fc41b54.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-f51db25a75",
-    "source": "The Guardian — UK",
-    "title": "Andrew Tate to face no criminal charges over abuse claims made in UK civil case",
-    "summary": "Four women are suing influencer at high court but CPS rules legal test for criminal prosecution not met Andrew Tate will face no criminal charges over allegations made by four women who are suing him in a civil case at the high court in London. The women accuse the self-proclaimed misogynist influencer of sexual violence, including grabbing one by the throat on several occasions in 2015, whipping her with a belt and pointing a gun at her face. Continue reading...",
-    "url": "https://www.theguardian.com/news/2025/sep/29/andrew-tate-to-face-no-criminal-charges-over-abuse-claims-made-in-uk-civil-case",
-    "published": "2025-09-29T15:19:41Z",
-    "image_url": "https://i.guim.co.uk/img/media/0f30c5a9e8d579a1980cf660abeeae72074a31f0/571_0_4958_3966/master/4958.jpg?width=140&quality=85&auto=format&fit=max&s=400277e77990d85a60e1be46e5bc26bd",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -367,6 +379,18 @@
     "url": "https://www.bbc.com/news/articles/cn4w3jzx807o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-29T14:06:34Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41bd/live/ab75e000-9d32-11f0-82af-53ec555e619b.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-a8258d9126",
+    "source": "The Guardian — UK",
+    "title": "Labour conference to vote on whether Israel is committing genocide in Gaza",
+    "summary": "Motion backed by unions calls for tougher action, including trade suspension, to end risk of UK complicity The Labour conference will vote on whether it believes Israel is committing a genocide in Gaza and whether the UK-Israel trade agreement should be suspended in what could become a significant conference showdown. Labour members are preparing to use the vote on Monday to highlight their unease with the government’s refusal to conclude that Israel is committing a genocide in Gaza. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/29/labour-party-conference-vote-israel-genocide-gaza",
+    "published": "2025-09-29T14:02:50Z",
+    "image_url": "https://i.guim.co.uk/img/media/7524af60cc0d869457b479f06bc15787002f6a83/287_0_3019_2416/master/3019.jpg?width=140&quality=85&auto=format&fit=max&s=d6e1ca10322063c24c4738a13f00de96",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,18 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-8311419f1a",
-    "source": "Politico — UK",
-    "title": "Germany’s Pistorius pours cold water on drone wall concept",
-    "summary": "Repeated Russian incursions are increasing pressure on the EU and NATO to respond.",
-    "url": "https://www.politico.eu/article/german-defense-minister-boris-pistorius-skeptical-drone-wall-russia-airspace-violation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-29T11:26:16Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/29/GettyImages-2237710260-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-164ab3f8da",
     "source": "BBC — Top Stories",
     "title": "Giorgio Armani’s final designs unveiled at star-studded fashion show - in pictures",
@@ -535,18 +547,6 @@
     "url": "https://www.bbc.com/news/articles/c3w5n903447o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-29T05:00:28Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c59d/live/6c648fe0-9d11-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-72962e6b3a",
-    "source": "The Guardian — UK",
-    "title": "Britain may already be at war with Russia, former head of MI5 says",
-    "summary": "Eliza Manningham-Buller points to extent of cyber-attacks and other hostile activity orchestrated by Moscow Britain may already be at war with Russia because of the depth and intensity of cyber-attacks, sabotage and other hostile activity orchestrated by Moscow against the UK, according to a former head of MI5. Eliza Manningham-Buller, who led the domestic spy agency two decades ago, said she agreed with comments made by the Russia expert Fiona Hill, who argued in a Guardian interview earlier this year that Moscow was at war with the west. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/29/britain-may-already-be-at-war-with-russia-former-head-of-mi5-says",
-    "published": "2025-09-29T04:30:31Z",
-    "image_url": "https://i.guim.co.uk/img/media/5ec9d6d91fc2f2dec91437b20ad3b3e7b3ba1d67/0_168_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=f640662a085337ae57802d8b5518f144",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
