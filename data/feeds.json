@@ -1,5 +1,29 @@
 [
   {
+    "id": "The Guardian — UK-dddfc3bdec",
+    "source": "The Guardian — UK",
+    "title": "Retailers say tax rises could further fuel inflation as shop prices jump",
+    "summary": "BRC says households are finding shopping increasingly expensive after annual shop price inflation rises to 1.4% Retailers have told the government that tax rises could further fuel inflation as the pace of shop price rises stepped up in September with increases on home improvement and gardening goods offsetting stabilising food prices. Annual shop price inflation rose to 1.4% in September, up from 0.9% in August, according to the latest monthly report from the British Retail Consortium (BRC) and analysts NIQ. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/sep/30/retailers-tax-rises-further-fuel-inflation-shop-prices-jump",
+    "published": "2025-09-29T23:01:41Z",
+    "image_url": "https://i.guim.co.uk/img/media/d143b87e20fad07e2944ea93de54fb4ed6acf358/362_375_3771_3017/master/3771.jpg?width=140&quality=85&auto=format&fit=max&s=1e0e5fa25ec98842de985733550e1ad5",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f5f883c26e",
+    "source": "BBC — Top Stories",
+    "title": "Blair to help oversee Gaza transition under Trump plan",
+    "summary": "The former UK prime minister became the first named member of a new \"Board of Peace\" chaired by Donald Trump.",
+    "url": "https://www.bbc.com/news/articles/cq5j989107lo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T22:21:22Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9224/live/2ad2dc60-9d72-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-75fd600387",
     "source": "The Guardian — UK",
     "title": "Keir Starmer to tell Labour conference growth is the ‘antidote to division’",
@@ -192,13 +216,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-85d6fcd552",
+    "id": "The Guardian — UK-8709a90a97",
     "source": "The Guardian — UK",
-    "title": "Andy Burnham calls for UK to rejoin EU within his lifetime and rejects claim he is fiscally irresponsible – as it happened",
-    "summary": "Mayor of Greater Manchester says he would have to be ‘wrenched’ out of city and says he wants UK to rejoin EU. This live blog is closed Andy Burnham live in conversation – podcast In her Today interview Rachel Reeves was asked about a FT report saying she will urge business leaders to highlight the risks of a Reform UK government in her speech later. The FT say Reeves will tell the Labour conference. Who is standing up for Britain’s stability. A Labour government that is resolute in cutting interest rates and borrowing or a Reform party that cheered on Liz Truss’ mini-budget? Who is standing up for Britain’s businesses? A Labour government that is forging a closer relationship with our nearest trading partners or a Reform party that talks Britain down and is hungry to cut us off from the world? Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/sep/29/rachel-reeves-labour-party-conference-youth-guarantee-unemployment-uk-politics-live-latest-news",
-    "published": "2025-09-29T17:48:27Z",
-    "image_url": "https://i.guim.co.uk/img/media/4d545c94f4024f1c5c49ee15f0b236d5448cfc1a/329_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4dfc6b5ca2defe39f3366bcf93c06e65",
+    "title": "Labour must fight rightwing billionaires undermining net zero, says Ed Miliband",
+    "summary": "Exclusive: Energy secretary will hit out at the Tory and Reform ‘culture war’ and unveil target of 400,000 new jobs in clean energy Labour is in a fight against “global network of rightwing billionaires” who want to undermine net zero for their “vested interests”, Ed Miliband has said. The energy secretary said that the Conservatives and Reform UK were “importing a net zero culture war” and that accelerating the green transition would be key to winning the argument with the public. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/29/labour-must-fight-right-wing-billionaires-undermining-net-zero-ed-miliband",
+    "published": "2025-09-29T17:48:13Z",
+    "image_url": "https://i.guim.co.uk/img/media/86e57a5dd0b51cae7e09756a6defcd49f3157130/341_0_4608_3687/master/4608.jpg?width=140&quality=85&auto=format&fit=max&s=88bccecfe5fed0d5a7449c3d877d99dc",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -259,18 +283,6 @@
     "url": "https://www.bbc.com/news/articles/cly6rgeke58o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-29T17:00:11Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b25/live/b4e96fe0-9d4f-11f0-9e5e-c7b443a2076d.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a3985d615b",
-    "source": "BBC — Top Stories",
-    "title": "Mahmood demands migrants earn right to settlement in UK",
-    "summary": "New tests will include learning English to a high standard, paying National Insurance and not claiming benefits.",
-    "url": "https://www.bbc.com/news/articles/c0m4g3zvy02o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T16:50:23Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07e/live/5ea38e80-9d5a-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -547,18 +559,6 @@
     "url": "https://www.bbc.com/news/articles/cjw78l98lg4o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-29T11:15:58Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6db/live/5cb634b0-9d1e-11f0-bc17-37f040c2fadb.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-fa1e7490f4",
-    "source": "The Guardian — UK",
-    "title": "Rachel Reeves confirms she no longer stands by pledge not to raise taxes",
-    "summary": "Chancellor says ‘world has changed’ and UK not immune to effects of wars, US tariffs and higher borrowing costs Rachel Reeves has confirmed ahead of her speech to the Labour party conference that she no longer stands by a pledge last year not to raise taxes , saying “the world has changed” due to a mixture of conflicts, US tariffs and higher borrowing costs. In a series of broadcast interviews before she addressed the gathering in Liverpool on Monday, the chancellor strongly hinted, however, that VAT was not due to rise in November’s budget. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/29/rachel-reeves-confirms-she-no-longer-stands-by-pledge-not-to-raise-taxes",
-    "published": "2025-09-29T09:18:35Z",
-    "image_url": "https://i.guim.co.uk/img/media/32d19c9318d4f64091568882c1e6ce42a9e2d8e8/376_0_4274_3420/master/4274.jpg?width=140&quality=85&auto=format&fit=max&s=05f6efb9e673221bb0be36cb1cca8fd1",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
