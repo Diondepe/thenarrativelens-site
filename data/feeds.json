@@ -1,12 +1,84 @@
 [
   {
+    "id": "BBC — Top Stories-18b71b3492",
+    "source": "BBC — Top Stories",
+    "title": "Gaming giant Electronic Arts bought in unprecedented $55bn deal",
+    "summary": "EA is known for making best-selling games such as EA FC, The Sims and Mass Effect.",
+    "url": "https://www.bbc.com/news/articles/cn4w3jzx807o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T14:06:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41bd/live/ab75e000-9d32-11f0-82af-53ec555e619b.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b08c936bd8",
+    "source": "BBC — Top Stories",
+    "title": "Terry Farrell, architect who designed MI6 building, dies",
+    "summary": "He also designed the headquarters for ITV's 80s breakfast show TV-am, with giant eggcups on the roof.",
+    "url": "https://www.bbc.com/news/articles/cxe2v471r03o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T14:05:33Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9109/live/27109750-9d3d-11f0-8d8f-3d1553d26496.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-85d6fcd552",
     "source": "The Guardian — UK",
-    "title": "Andy Burnham says Labour leadership is too ‘factional’ – UK politics live",
-    "summary": "Mayor of Greater Manchester says he cannot recall anyone having the whip withdrawn for disagreements over policy in Blair and Brown eras In her Today interview Rachel Reeves was asked about a FT report saying she will urge business leaders to highlight the risks of a Reform UK government in her speech later. The FT say Reeves will tell the Labour conference. Who is standing up for Britain’s stability. A Labour government that is resolute in cutting interest rates and borrowing or a Reform party that cheered on Liz Truss’ mini-budget? Who is standing up for Britain’s businesses? A Labour government that is forging a closer relationship with our nearest trading partners or a Reform party that talks Britain down and is hungry to cut us off from the world? Continue reading...",
+    "title": "Andy Burnham calls for UK to rejoin EU within his lifetime and rejects claim he is fiscally irresponsible – UK politics live",
+    "summary": "Mayor of Greater Manchester says he would have to be ‘wrenched’ out of city and says he wants UK to rejoin EU In her Today interview Rachel Reeves was asked about a FT report saying she will urge business leaders to highlight the risks of a Reform UK government in her speech later. The FT say Reeves will tell the Labour conference. Who is standing up for Britain’s stability. A Labour government that is resolute in cutting interest rates and borrowing or a Reform party that cheered on Liz Truss’ mini-budget? Who is standing up for Britain’s businesses? A Labour government that is forging a closer relationship with our nearest trading partners or a Reform party that talks Britain down and is hungry to cut us off from the world? Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/sep/29/rachel-reeves-labour-party-conference-youth-guarantee-unemployment-uk-politics-live-latest-news",
-    "published": "2025-09-29T13:15:38Z",
+    "published": "2025-09-29T14:05:11Z",
     "image_url": "https://i.guim.co.uk/img/media/fffb026f6bb604ce40d8b2ff99e2ad9ea0e305d7/947_0_6072_4860/master/6072.jpg?width=140&quality=85&auto=format&fit=max&s=3282380cf734a8aba342600ca09eff46",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-a8258d9126",
+    "source": "The Guardian — UK",
+    "title": "Labour conference to vote on whether Israel is committing genocide in Gaza",
+    "summary": "Motion backed by unions calls for tougher action, including trade suspension, to end risk of UK complicity UK politics live – latest updates The Labour conference will vote on whether it believes Israel is committing a genocide in Gaza and whether the UK-Israel trade agreement should be suspended in what could become a significant conference showdown. Labour members are preparing to use the vote on Monday to highlight their unease with the government’s refusal to conclude that Israel is committing a genocide in Gaza. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/29/labour-party-conference-vote-israel-genocide-gaza",
+    "published": "2025-09-29T14:02:50Z",
+    "image_url": "https://i.guim.co.uk/img/media/7524af60cc0d869457b479f06bc15787002f6a83/287_0_3019_2416/master/3019.jpg?width=140&quality=85&auto=format&fit=max&s=d6e1ca10322063c24c4738a13f00de96",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-d3a62dd4fa",
+    "source": "The Guardian — UK",
+    "title": "Rachel Reeves unapologetic on her fiscal rules while talking up investment",
+    "summary": "Conference speech sets out likely Labour economic argument at next general election and pitch to party UK politics live – latest updates Reeves warns Labour figures against ‘peddling idea’ of ditching fiscal rules “Never let anyone tell you that there’s no difference between a Labour government and a Conservative government.” Rachel Reeves used her speech in Liverpool to draw a sharp dividing line with her Tory predecessors – and with Nigel Farage’s Reform UK. In a restatement of Labour’s early achievements in government, received as a tonic by the party faithful in the hall, the chancellor pointed to a slew of spending promises. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/29/rachel-reeves-fiscal-rules-investment-labour-conference-speech",
+    "published": "2025-09-29T13:57:10Z",
+    "image_url": "https://i.guim.co.uk/img/media/17596352e002ccb7952756931fa6f0c2f4a28bd2/440_2_2837_2270/master/2837.jpg?width=140&quality=85&auto=format&fit=max&s=72e5c61a605fd46e44d7be48bff0e708",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b13a8ca77d",
+    "source": "BBC — Top Stories",
+    "title": "Ex-Hurricane Humberto forecast to bring wind and rain to the UK this weekend",
+    "summary": "Could the UK feel the effects of ex-Hurricane Humberto this weekend and could it lead to the first named storm of the season? Sarah-Keith Lucas explains...",
+    "url": "https://www.bbc.com/weather/articles/cy4j1p70xddo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T13:37:44Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e18/live/678f1100-9d27-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-054adc2289",
+    "source": "The Guardian — UK",
+    "title": "AstraZeneca to upgrade US listing in ‘knock-back for London’",
+    "summary": "UK’s biggest drugmaker to put its US shares on par with its London-based stock, but says HQ will stay in Cambridge GSK’s Emma Walmsley to be replaced as CEO Business live – latest updates The UK’s biggest drugmaker, AstraZeneca, has said it will list its shares directly on the New York Stock Exchange in a decision described as a “knock-back for London”. The FTSE 100 company said its direct listing in New York would replace trading in its American depositary receipts (ADRs) – which give US investors exposure to a non-US company – on the Nasdaq. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/sep/29/astrazeneca-plans-new-york-stock-exchange-listing-but-isnt-quitting-london",
+    "published": "2025-09-29T13:26:40Z",
+    "image_url": "https://i.guim.co.uk/img/media/7d65f6db020383477ad5c00f415db8777a305d58/0_0_4026_3220/master/4026.jpg?width=140&quality=85&auto=format&fit=max&s=445e9af1b241800a9b2837249fb73ad9",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -18,7 +90,7 @@
     "summary": "Ditch unanimity? Sure, why not, spokesperson says.",
     "url": "https://www.politico.eu/article/commission-backs-council-president-costa-plan-sidestep-hungary-veto-ukraine-eu-bid/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-29T13:11:11Z",
-    "image_url": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/29/flags-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -60,18 +132,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-a8258d9126",
-    "source": "The Guardian — UK",
-    "title": "Labour conference to vote on whether Israel is committing genocide in Gaza",
-    "summary": "Motion backed by unions calls for tougher action, including trade suspension, to end risk of UK complicity UK politics live – latest updates The Labour conference will vote on whether it believes Israel is committing a genocide in Gaza and whether the UK-Israel trade agreement should be suspended in what could become a significant conference showdown. Labour members are preparing to use the vote on Monday to highlight their unease with the government’s refusal to conclude that Israel is committing a genocide in Gaza. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/29/labour-party-conference-vote-israel-genocide-gaza",
-    "published": "2025-09-29T12:19:09Z",
-    "image_url": "https://i.guim.co.uk/img/media/7524af60cc0d869457b479f06bc15787002f6a83/287_0_3019_2416/master/3019.jpg?width=140&quality=85&auto=format&fit=max&s=d6e1ca10322063c24c4738a13f00de96",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e0b90c8846",
     "source": "The Guardian — UK",
     "title": "Labour plans to consult on use of live facial recognition before wider roll-out",
@@ -91,18 +151,6 @@
     "url": "https://www.politico.eu/article/eu-housing-plan-tackle-speculation-short-term-rental/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-29T11:57:32Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/29/GettyImages-1036144296-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-bd3d6361e6",
-    "source": "BBC — Top Stories",
-    "title": "Jaguar Land Rover to resume some production in 'coming days' after cyber-attack",
-    "summary": "It's understood that production will resume at the Wolverhampton engine facility on 6 October.",
-    "url": "https://www.bbc.com/news/articles/cwydxpdgx61o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T11:55:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e91/live/ab460620-9d21-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -134,8 +182,8 @@
   {
     "id": "The Guardian — UK-24c00cb598",
     "source": "The Guardian — UK",
-    "title": "Half of Claire’s stores in UK and Ireland to be rescued by private equity firm",
-    "summary": "Modella Capital warns of ‘inevitable’ closures and job losses at accessories chain while administrators will run remaining stores Business live – latest updates The private equity firm which owns Hobbycraft has signed a deal to rescue half of the UK and Irish stores of the accessories chain Claire’s but warned some job losses and shop closures were “inevitable”. Modella Capital said it had bought 156 Claire’s stores in the UK and Ireland from administrators, securing the immediate future of 1,000 employees, “in the hope that it will be able to rescue this well-known and highly regarded brand”. Continue reading...",
+    "title": "Half of Claire’s stores in UK and Ireland bought in rescue deal but jobs still at risk",
+    "summary": "Modella Capital warns of ‘inevitable’ closures and job losses at accessories chain while administrators run remaining stores Business live – latest updates The private equity firm which owns Hobbycraft has signed a deal to rescue half of the UK and Irish stores of the accessories chain Claire’s but warned some job losses and shop closures were “inevitable”. Modella Capital said it had bought 156 Claire’s stores in the UK and Ireland from administrators, securing the immediate future of 1,000 employees, “in the hope that it will be able to rescue this well-known and highly regarded brand”. Continue reading...",
     "url": "https://www.theguardian.com/business/2025/sep/29/claires-accessories-stores-uk-ireland-rescue-administration-closures-job-losses",
     "published": "2025-09-29T11:33:18Z",
     "image_url": "https://i.guim.co.uk/img/media/0641c46df9d20a43bf3d98ff78e993941b84514f/572_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=c47b0647abffa45bc80eb936a4be2f58",
@@ -163,18 +211,6 @@
     "url": "https://www.bbc.com/news/videos/cm2dkyze4r3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-29T11:26:12Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c26/live/a81988e0-9d22-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-0cb990c5fe",
-    "source": "BBC — Top Stories",
-    "title": "Trump to push new peace plan in talks with Netanyahu",
-    "summary": "The US president has talked up prospects of an agreement, but Netanyahu said it was not finalised - and Hamas say they haven't been sent the proposal.",
-    "url": "https://www.bbc.com/news/articles/cvgr092lnyyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T11:20:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24bb/live/c92eae90-9d11-11f0-a8fe-677b0b0b2d56.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -218,7 +254,7 @@
   {
     "id": "Politico — UK-036e2dc1bc",
     "source": "Politico — UK",
-    "title": "France and Sweden deploy anti-drone troops to Copenhagen ahead of EU summits",
+    "title": "Europe deploys anti-drone troops to Copenhagen ahead of EU summits",
     "summary": "Paris and Stockholm say they have sent soldiers, radars and a helicopter.",
     "url": "https://www.politico.eu/article/france-and-sweden-deploy-anti-drone-troops-to-copenhagen-ahead-of-eu-summits/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-29T10:40:25Z",
@@ -254,7 +290,7 @@
   {
     "id": "Politico — UK-729ca8bead",
     "source": "Politico — UK",
-    "title": "EU must unblock Moldova’s membership bid, government says after historic vote",
+    "title": "EU must unblock Moldova’s membership bid, government urges after historic vote",
     "summary": "Accession chief Cristina Gherasimov tells POLITICO that Brussels must find a solution to overcome Hungary's veto.",
     "url": "https://www.politico.eu/article/eu-must-unblock-moldova-membership-bid-government-deputy-pm-gherasimov-historic-vote/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-29T10:10:25Z",
@@ -283,18 +319,6 @@
     "url": "https://www.politico.eu/article/france-former-pm-michel-barnier-back-parliament-win-upscale-second-paris-district/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-29T09:10:43Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/29/GettyImages-2199729976-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-99b2936ddb",
-    "source": "BBC — Top Stories",
-    "title": "Woman chases record for 400-mile lap of Cornwall in honour of mother with Alzheimer's",
-    "summary": "Elsey Davis is hoping to set the fastest known time on her lap of Cornwall.",
-    "url": "https://www.bbc.com/news/articles/c8jmxd01y0po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T09:06:49Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e2d/live/87803410-9c9d-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -343,18 +367,6 @@
     "url": "https://www.bbc.com/news/articles/cr701vn0rjmo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-29T08:06:22Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42a2/live/42a6d600-9d06-11f0-a8fe-677b0b0b2d56.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-054adc2289",
-    "source": "The Guardian — UK",
-    "title": "AstraZeneca plans direct listing on New York Stock Exchange but isn’t quitting London",
-    "summary": "UK’s biggest drugmaker confirms HQ will stay in Cambridge but with London listing now on equal footing with NYSE GSK’s Emma Walmsley to be replaced as CEO Business live – latest updates The UK’s biggest drugmaker, AstraZeneca, has said it will directly list its shares on the New York Stock Exchange, putting them on an equal footing to its London listing, but affirmed its headquarters will stay in the UK. The FTSE 100 company said its direct listing in New York will replace trading in its “American depositary receipts” (ADRs) – which give US investors exposure to a non-US company – on the Nasdaq. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/sep/29/astrazeneca-plans-new-york-stock-exchange-listing-but-isnt-quitting-london",
-    "published": "2025-09-29T07:40:54Z",
-    "image_url": "https://i.guim.co.uk/img/media/7d65f6db020383477ad5c00f415db8777a305d58/0_0_4026_3220/master/4026.jpg?width=140&quality=85&auto=format&fit=max&s=445e9af1b241800a9b2837249fb73ad9",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -516,18 +528,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-90875dd345",
-    "source": "The Guardian — UK",
-    "title": "High standard of English to be required for leave to remain, Mahmood to pledge",
-    "summary": "Home secretary to set out proposed tougher conditions including not taking benefits and ‘spotless’ criminal record Criminals and people who cannot speak English to “a high standard” will be denied permission to settle in the UK, Shabana Mahmood will announce on Monday, in proposals intended to contain the growing electoral threat from Reform UK. In a speech framing herself as a “tough home secretary”, Mahmood will say people seeking indefinite leave to remain (ILR) will have to demonstrate they have integrated and “contributed” to society through national insurance payments and voluntary work, and not relied on benefits. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/28/english-indefinite-leave-to-remain-shabana-mahmood-labour-conference",
-    "published": "2025-09-28T21:30:22Z",
-    "image_url": "https://i.guim.co.uk/img/media/bebbc89e19f784d4393ef1c77a427c485ad42098/95_38_2131_1705/master/2131.jpg?width=140&quality=85&auto=format&fit=max&s=fe5a8bfeb6395002ec9c76497825bb91",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e207a2baae",
     "source": "The Guardian — UK",
     "title": "Rachel Reeves pledges a library in every primary school in England",
@@ -535,6 +535,18 @@
     "url": "https://www.theguardian.com/politics/2025/sep/28/rachel-reeves-pledges-a-library-in-every-primary-school-in-england",
     "published": "2025-09-28T21:30:22Z",
     "image_url": "https://i.guim.co.uk/img/media/d550efb6b2a99af4db9431a592c2eaa1d3f274da/968_0_4843_3874/master/4843.jpg?width=140&quality=85&auto=format&fit=max&s=11466ad81b839aa6f1e7d1f3773f7488",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-90875dd345",
+    "source": "The Guardian — UK",
+    "title": "High standard of English to be required for leave to remain, Mahmood to pledge",
+    "summary": "Home secretary to set out proposed tougher conditions including not taking benefits and ‘spotless’ criminal record Criminals and people who cannot speak English to “a high standard” will be denied permission to settle in the UK, Shabana Mahmood will announce on Monday, in proposals intended to contain the growing electoral threat from Reform UK. In a speech framing herself as a “tough home secretary”, Mahmood will say people seeking indefinite leave to remain (ILR) will have to demonstrate they have integrated and “contributed” to society through national insurance payments and voluntary work, and not relied on benefits. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/28/english-indefinite-leave-to-remain-shabana-mahmood-labour-conference",
+    "published": "2025-09-28T21:30:22Z",
+    "image_url": "https://i.guim.co.uk/img/media/bebbc89e19f784d4393ef1c77a427c485ad42098/95_38_2131_1705/master/2131.jpg?width=140&quality=85&auto=format&fit=max&s=fe5a8bfeb6395002ec9c76497825bb91",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -571,18 +583,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/26/why-does-the-uk-need-digital-ids-and-what-data-will-they-include",
     "published": "2025-09-26T17:47:26Z",
     "image_url": "https://i.guim.co.uk/img/media/7afa98180f840e21e4e5df6469db8a64e582a600/1397_0_5215_4172/master/5215.jpg?width=140&quality=85&auto=format&fit=max&s=6058669ecf55f6e6158ab2571e7789b5",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-2836e58dd4",
-    "source": "The Guardian — UK",
-    "title": "Starmer’s ID plan has caused upset, but in the EU the debate has long been settled",
-    "summary": "ID cards have become an essential part of life for many across the bloc, with digital versions already launched in many member states On the continent, the debate raging in the UK over national ID cards has long been settled. Across Europe, physical identity cards have existed for decades, and digital versions have either already been successfully launched or are being trialled. In all bar two of the EU’s 27 member states, physical ID cards , in a standard, machine-readable EU format introduced in 2021, are used both as identity documents in citizens’ home countries, and for travel within the passport-free Schengen zone. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/sep/26/starmer-id-card-plan-has-caused-upset-but-in-the-eu-the-debate-has-long-been-settled",
-    "published": "2025-09-26T15:45:41Z",
-    "image_url": "https://i.guim.co.uk/img/media/c8c7b49487f89c837e780a3d2f6e35c3f4b36636/239_0_4750_3800/master/4750.jpg?width=140&quality=85&auto=format&fit=max&s=9d15ca1a77c412ede6b44dda21a6b4c9",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
