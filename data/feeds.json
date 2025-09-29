@@ -1,12 +1,36 @@
 [
   {
+    "id": "BBC — Top Stories-5b9687173d",
+    "source": "BBC — Top Stories",
+    "title": "Can Labour reverse 'desperate loss of faith' from business?",
+    "summary": "The government wants to keep the backing it won before the election, our business editor Simon Jack writes.",
+    "url": "https://www.bbc.com/news/articles/cn0xyxnyz48o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T06:29:26Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aa5/live/803f8e10-9af1-11f0-89b4-1b2d09c610c7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-b4c0e0f803",
     "source": "BBC — Top Stories",
     "title": "Pro-EU party in Moldova set to win vote mired in claims of Russian interference",
-    "summary": "The vote was seen as critical for Moldova's EU path, and President Maia Sandu warned the country's future was in danger.",
+    "summary": "The election was seen as critical for Moldova's EU path, and President Maia Sandu warned the country's future was in danger.",
     "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T05:13:16Z",
+    "published": "2025-09-29T05:40:31Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc3/live/79042050-9c47-11f0-82b3-31d97f4e1ffa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-6d391f61ef",
+    "source": "Politico — UK",
+    "title": "Costa seeks to bypass Orbán’s veto on Ukraine’s EU membership bid",
+    "summary": "Brussels' rules requiring all 27 member countries to agree on new entrants will face scrutiny at a summit this week in Copenhagen.",
+    "url": "https://www.politico.eu/article/antonio-costa-seeks-bypass-viktor-orban-veto-ukraine-eu-membership-bid-copenhagen-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-29T05:32:05Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/29/13346684-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -72,13 +96,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-0d17d0b83e",
-    "source": "The Guardian — UK",
-    "title": "Stop blaming migrants and tackle UK’s real problems, 100 charities tell home secretary",
-    "summary": "A letter warns Shabana Mahmood that ‘targeting refugees will do nothing to tackle’ problems with housing and the NHS More than 100 charities have sent a letter to the home secretary, Shabana Mahmood, calling for an end to the “scapegoating of migrants”. The letter, sent before her speech at the Labour party conference in Liverpool on Monday afternoon, was coordinated by Refugee Action and signed by 105 organisations from a wide range of sectors – including Save the Children, Mind, Oxfam, Shelter, Greenpeace and Friends of the Earth, as well as dozens of migrant and anti-racism charities. It has also been signed by the PCS union, which represents Border Force workers. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/29/stop-blaming-migrants-and-tackle-uks-real-problems-100-charities-tell-home-secretary",
-    "published": "2025-09-29T04:00:30Z",
-    "image_url": "https://i.guim.co.uk/img/media/51d27f1c92f81baa0b52782ee2cf2e7e0c6501b5/877_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=4ece216042657d357750eac5b5471633",
+    "id": "BBC — Top Stories-66fffe636d",
+    "source": "BBC — Top Stories",
+    "title": "Denmark bans all civilian drone flights ahead of European summit",
+    "summary": "Denmark is one of several European countries that have reported \"drone incidents\" in recent weeks.",
+    "url": "https://www.bbc.com/news/articles/c708dzqvz1vo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T04:28:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/22faa510-9ce9-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -91,6 +115,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/sep/29/elsey-davis-gp-cornwall-perimeter-run-fastest-known-time",
     "published": "2025-09-29T04:00:30Z",
     "image_url": "https://i.guim.co.uk/img/media/c7a5a51c149e839e946d870c52f0b1242460244d/375_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=a8c695aeb1a0cd245062b1847c090515",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-0d17d0b83e",
+    "source": "The Guardian — UK",
+    "title": "Stop blaming migrants and tackle UK’s real problems, 100 charities tell home secretary",
+    "summary": "A letter warns Shabana Mahmood that ‘targeting refugees will do nothing to tackle’ problems with housing and the NHS More than 100 charities have sent a letter to the home secretary, Shabana Mahmood, calling for an end to the “scapegoating of migrants”. The letter, sent before her speech at the Labour party conference in Liverpool on Monday afternoon, was coordinated by Refugee Action and signed by 105 organisations from a wide range of sectors – including Save the Children, Mind, Oxfam, Shelter, Greenpeace and Friends of the Earth, as well as dozens of migrant and anti-racism charities. It has also been signed by the PCS union, which represents Border Force workers. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/29/stop-blaming-migrants-and-tackle-uks-real-problems-100-charities-tell-home-secretary",
+    "published": "2025-09-29T04:00:30Z",
+    "image_url": "https://i.guim.co.uk/img/media/51d27f1c92f81baa0b52782ee2cf2e7e0c6501b5/877_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=4ece216042657d357750eac5b5471633",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -228,18 +264,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-17fa14522c",
-    "source": "Politico — UK",
-    "title": "Let Trump be Trump to save jailed Belarusians, opposition leader says",
-    "summary": "Sviatlana Tsikhanouskaya wants Europe to step up pressure on Minsk ruler Alexander Lukashenko.",
-    "url": "https://www.politico.eu/article/donald-trump-belarus-sviatlana-tsikhanouskaya-alexander-lukashenko/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-29T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-2228523185-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-a0d2475426",
     "source": "BBC — Top Stories",
     "title": "Is your friend draining your energy? Three ways to handle social vampires",
@@ -283,18 +307,6 @@
     "url": "https://www.bbc.com/news/articles/cq5jqxjqj0eo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T23:48:03Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ee7/live/0dbcda00-9a10-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-5b9687173d",
-    "source": "BBC — Top Stories",
-    "title": "Can Labour reverse 'desperate loss of faith' from business?",
-    "summary": "The government wants to keep the backing it won before the election, our business editor Simon Jack writes.",
-    "url": "https://www.bbc.com/news/articles/cn0xyxnyz48o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T23:46:58Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aa5/live/803f8e10-9af1-11f0-89b4-1b2d09c610c7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -348,25 +360,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-61a556a435",
-    "source": "BBC — Top Stories",
-    "title": "Reeves to guarantee paid work for young people unemployed for 18 months",
-    "summary": "The chancellor will commit to \"the abolition of long-term youth unemployment\" in her speech at Labour conference.",
-    "url": "https://www.bbc.com/news/articles/c80gj2knrx4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T22:13:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0104/live/6e3af170-9cac-11f0-8e15-edf4f5ab4f3b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-a3985d615b",
     "source": "BBC — Top Stories",
     "title": "Migrants to face tougher conditions for settled status, home secretary to announce",
     "summary": "New tests will include learning English to a high standard, paying National Insurance and not claiming benefits.",
     "url": "https://www.bbc.com/news/articles/c0m4g3zvy02o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T21:32:01Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e9a/live/e7ff7d70-9c9b-11f0-be60-77dafac10a24.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8a/live/1cd152d0-9cfb-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -528,6 +528,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-f34e368aca",
+    "source": "BBC — Top Stories",
+    "title": "Lola Young 'doing OK' after collapsing on stage during gig",
+    "summary": "Lola Young was performing at a festival when she appeared to drop her microphone and fall backwards.",
+    "url": "https://www.bbc.com/news/articles/cr7031gv2m8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T14:03:32Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/152d/live/a091b3f0-9c77-11f0-8277-67a32d4ec754.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-de433e54a4",
     "source": "The Guardian — UK",
     "title": "Keir Starmer’s donkey field: what are the allegations and how has he responded?",
@@ -547,18 +559,6 @@
     "url": "https://www.bbc.com/news/articles/cly622k0jm4o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T12:39:55Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26dc/live/81249f20-9c6b-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-282537ba7d",
-    "source": "BBC — Top Stories",
-    "title": "From drug theft to Dubai arrests: The Scottish gangland feud that went global",
-    "summary": "The deadly dispute between the Daniel and Lyons crime families has been raging for 25 years.",
-    "url": "https://www.bbc.com/news/articles/c8xr1n4pp49o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T07:54:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c71/live/6072fbb0-9896-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
