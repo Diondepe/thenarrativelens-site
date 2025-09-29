@@ -1,12 +1,36 @@
 [
   {
-    "id": "Politico — UK-f33b2a7342",
+    "id": "BBC — Top Stories-bd3d6361e6",
+    "source": "BBC — Top Stories",
+    "title": "Jaguar Land Rover to resume some production in 'coming days' after cyber-attack",
+    "summary": "Work at the carmaker's three UK facilities had been halted on 1 September following a cyber-attack.",
+    "url": "https://www.bbc.com/news/articles/cwydxpdgx61o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T10:11:56Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f7/live/c8646aa0-9d1a-11f0-aa0c-6923d2781ecc.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-e0d401c663",
     "source": "Politico — UK",
-    "title": "Former French PM Barnier returns to parliament after win in upscale Paris district",
-    "summary": "The EU's former Brexit negotiator holds the record for the shortest tenure as prime minister.",
-    "url": "https://www.politico.eu/article/france-former-pm-michel-barnier-back-parliament-win-upscale-second-paris-district/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-29T09:10:43Z",
-    "image_url": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+    "title": "EU grins, Russia grouses after pro-Europe forces win Moldovan election",
+    "summary": "\"Moldova, you’ve done it again. No attempt to sow fear or division could break your resolve,\" says European Commission President Ursula von der Leyen.",
+    "url": "https://www.politico.eu/article/eu-grins-russia-grouses-after-pro-europe-forces-pas-win-moldova-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-29T10:11:21Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/29/Moldova-election-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-729ca8bead",
+    "source": "Politico — UK",
+    "title": "EU must unblock Moldova’s membership bid, government says after historic vote",
+    "summary": "Accession chief Cristina Gherasimov tells POLITICO that Brussels must find a solution to overcome Hungary's veto.",
+    "url": "https://www.politico.eu/article/eu-must-unblock-moldova-membership-bid-government-deputy-pm-gherasimov-historic-vote/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-29T10:10:25Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/29/GettyImages-2237706555-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -17,8 +41,32 @@
     "title": "Supporting Reform’s ‘racist policy’ does not make voters racist, says Rachel Reeves – UK politics live",
     "summary": "Chancellor backs Keir Starmer’s statement that policy to end indefinite leave to remain is racist, but says many Reform supporters would be ‘horrified’ by it In her Today interview Rachel Reeves was asked about a FT report saying she will urge business leaders to highlight the risks of a Reform UK government in her speech later. The FT say Reeves will tell the Labour conference. Who is standing up for Britain’s stability. A Labour government that is resolute in cutting interest rates and borrowing or a Reform party that cheered on Liz Truss’ mini-budget? Who is standing up for Britain’s businesses? A Labour government that is forging a closer relationship with our nearest trading partners or a Reform party that talks Britain down and is hungry to cut us off from the world? Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/sep/29/rachel-reeves-labour-party-conference-youth-guarantee-unemployment-uk-politics-live-latest-news",
-    "published": "2025-09-29T09:02:47Z",
+    "published": "2025-09-29T10:09:55Z",
     "image_url": "https://i.guim.co.uk/img/media/5a59b30e3b68e5aec9de018f01b3c08b8c6f5bad/505_0_4910_3930/master/4910.jpg?width=140&quality=85&auto=format&fit=max&s=e4011791ae4cb5e57f4331e70c22c3c1",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-fa1e7490f4",
+    "source": "The Guardian — UK",
+    "title": "Rachel Reeves confirms she no longer stands by pledge not to raise taxes",
+    "summary": "Chancellor says ‘world has changed’ and UK not immune to effects of wars, US tariffs and higher borrowing costs UK politics live – latest updates Rachel Reeves has confirmed ahead of her speech to the Labour party conference that she no longer stands by a pledge last year not to raise taxes , saying “the world has changed” due to a mixture of conflicts, US tariffs and higher borrowing costs. In a series of broadcast interviews before she addressed the gathering in Liverpool on Monday, the chancellor strongly hinted, however, that VAT was not due to rise in November’s budget. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/29/rachel-reeves-confirms-she-no-longer-stands-by-pledge-not-to-raise-taxes",
+    "published": "2025-09-29T09:18:35Z",
+    "image_url": "https://i.guim.co.uk/img/media/32d19c9318d4f64091568882c1e6ce42a9e2d8e8/376_0_4274_3420/master/4274.jpg?width=140&quality=85&auto=format&fit=max&s=05f6efb9e673221bb0be36cb1cca8fd1",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-f33b2a7342",
+    "source": "Politico — UK",
+    "title": "Former French PM Barnier returns to parliament after win in upscale Paris district",
+    "summary": "The EU's former Brexit negotiator holds the record for the shortest tenure as prime minister.",
+    "url": "https://www.politico.eu/article/france-former-pm-michel-barnier-back-parliament-win-upscale-second-paris-district/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-29T09:10:43Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/29/GettyImages-2199729976-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -110,8 +158,8 @@
   {
     "id": "The Guardian — UK-054adc2289",
     "source": "The Guardian — UK",
-    "title": "AstraZeneca plans New York Stock Exchange listing but isn’t quitting London",
-    "summary": "FTSE 100’s second-biggest firm will also retain HQ in Cambridge and maintain its London listing Business live – latest updates The UK’s biggest drugmaker AstraZeneca said it will directly list its shares on the New York Stock Exchange, putting them on an equal footing to its London listing, to attract more investors, but affirmed its headquarters will stay in the UK. The FTSE 100 company said its direct listing in New York will replace trading in its “American depositary receipts” (ADRs) – which give US investors exposure to a non-US company – on the Nasdaq. Continue reading...",
+    "title": "AstraZeneca plans direct listing on New York Stock Exchange but isn’t quitting London",
+    "summary": "UK’s biggest drugmaker confirms HQ will stay in Cambridge but with London listing now on equal footing with NYSE GSK’s Emma Walmsley to be replaced as CEO Business live – latest updates The UK’s biggest drugmaker, AstraZeneca, has said it will directly list its shares on the New York Stock Exchange, putting them on an equal footing to its London listing, but affirmed its headquarters will stay in the UK. The FTSE 100 company said its direct listing in New York will replace trading in its “American depositary receipts” (ADRs) – which give US investors exposure to a non-US company – on the Nasdaq. Continue reading...",
     "url": "https://www.theguardian.com/business/2025/sep/29/astrazeneca-plans-new-york-stock-exchange-listing-but-isnt-quitting-london",
     "published": "2025-09-29T07:40:54Z",
     "image_url": "https://i.guim.co.uk/img/media/7d65f6db020383477ad5c00f415db8777a305d58/0_0_4026_3220/master/4026.jpg?width=140&quality=85&auto=format&fit=max&s=445e9af1b241800a9b2837249fb73ad9",
@@ -182,7 +230,7 @@
   {
     "id": "BBC — Top Stories-4729508daf",
     "source": "BBC — Top Stories",
-    "title": "The castle transformed for new Netflix show House of Guinness",
+    "title": "Inside the historic castle transformed for Netflix's House of Guinness",
     "summary": "New Netflix drama captures the Guinness legacy within the walls of Penrhyn Castle in north Wales.",
     "url": "https://www.bbc.com/news/articles/cvgn8gnk0p8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-29T05:21:20Z",
@@ -204,21 +252,9 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-168fd6e7eb",
-    "source": "BBC — Top Stories",
-    "title": "Play now",
-    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
-    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T05:12:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-2ef6191316",
     "source": "BBC — Top Stories",
-    "title": "New call to stop rare sheep breed 'starving to death' on remote Scottish island",
+    "title": "New call to stop rare sheep 'starving to death' on Scottish island abandoned 95 years ago",
     "summary": "Two vets say numbers of Soay sheep need to be reduced to prevent animals from starving in winter.",
     "url": "https://www.bbc.com/news/articles/cjr5jwn71y5o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-29T05:08:21Z",
@@ -264,6 +300,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-87398c01fc",
+    "source": "BBC — Top Stories",
+    "title": "Met officers could have to reveal Freemason ties",
+    "summary": "The move comes after the force's handling of the 1987 murder of private detective Daniel Morgan.",
+    "url": "https://www.bbc.com/news/articles/cqxzdppdd48o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T05:00:27Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3539/live/77ded200-9c7a-11f0-8277-67a32d4ec754.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-72962e6b3a",
     "source": "The Guardian — UK",
     "title": "Britain may already be at war with Russia, former head of MI5 says",
@@ -271,30 +319,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/29/britain-may-already-be-at-war-with-russia-former-head-of-mi5-says",
     "published": "2025-09-29T04:30:31Z",
     "image_url": "https://i.guim.co.uk/img/media/5ec9d6d91fc2f2dec91437b20ad3b3e7b3ba1d67/0_168_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=f640662a085337ae57802d8b5518f144",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-66fffe636d",
-    "source": "BBC — Top Stories",
-    "title": "Denmark bans all civilian drone flights ahead of European summit",
-    "summary": "Denmark is one of several European countries that have reported \"drone incidents\" in recent weeks.",
-    "url": "https://www.bbc.com/news/articles/c708dzqvz1vo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T04:28:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/22faa510-9ce9-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-2738b4a777",
-    "source": "The Guardian — UK",
-    "title": "One lap, 400 miles, seven days: GP aims to set record on Cornwall perimeter run",
-    "summary": "Elsey Davis will tackle 18,000 metres of elevation on run to raise awareness of young-onset Alzheimer’s for her mum Most runners are content with a lap of their local park. But for one Cornish woman that is not nearly enough: she is aiming to race around the perimeter of her home county and set the fastest known time for the route. Elsey Davis, 36, a professional trail runner and GP, calculates she will run about 400 miles and tackle more than 18,000 metres of elevation – the equivalent of two Mount Everests. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/29/elsey-davis-gp-cornwall-perimeter-run-fastest-known-time",
-    "published": "2025-09-29T04:00:30Z",
-    "image_url": "https://i.guim.co.uk/img/media/c7a5a51c149e839e946d870c52f0b1242460244d/375_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=a8c695aeb1a0cd245062b1847c090515",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -372,30 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-491b7f45a1",
-    "source": "Politico — UK",
-    "title": "France can’t stop talking about Gabriel Zucman — and his wealth tax",
-    "summary": "The 38-year-old economist has a recipe to save the EU's second-biggest economy from a debt crisis — but will the government dare take it?",
-    "url": "https://www.politico.eu/article/gabriel-zucman-economist-france-wealth-tax/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-29T02:23:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/GettyImages-1184517216-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-506a507421",
-    "source": "Politico — UK",
-    "title": "How to survive a party conference",
-    "summary": "With Labour conference getting underway, POLITICO offers a few tips for making the most of the action.",
-    "url": "https://www.politico.eu/article/how-to-survive-a-uk-party-conference/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-29T02:02:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/28/13382106-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-0c957da459",
     "source": "The Guardian — UK",
     "title": "How to defeat Britain’s far right – podcast",
@@ -458,7 +458,7 @@
   {
     "id": "BBC — Top Stories-d30ea1def1",
     "source": "BBC — Top Stories",
-    "title": "The picturesque Dutch village set to charge tourists an entry fee",
+    "title": "Why this picturesque Dutch village is set to charge tourists an entry fee",
     "summary": "Zaanse Schans, popular for its windmills, has a population of just 100 people - but more than two million tourists will have visited this year.",
     "url": "https://www.bbc.com/news/articles/cn4ly3mr443o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T23:09:59Z",
@@ -510,7 +510,7 @@
     "summary": "The mayor of Greater Manchester said those calling for loyalty were \"underestimating the peril the party is in\".",
     "url": "https://www.bbc.com/news/articles/cn0xzpngj5xo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T20:33:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fed/live/2cbc28f0-9c79-11f0-8277-67a32d4ec754.png",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab55/live/db95ad30-9d1c-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
