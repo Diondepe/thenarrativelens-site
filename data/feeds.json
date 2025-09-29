@@ -1,12 +1,96 @@
 [
   {
+    "id": "BBC — Top Stories-b4c0e0f803",
+    "source": "BBC — Top Stories",
+    "title": "Moldova's pro-EU party wins vote mired in claims of Russian interference",
+    "summary": "The election was seen as critical for Moldova's EU path, and President Maia Sandu warned the country's future was in danger.",
+    "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T11:14:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc3/live/79042050-9c47-11f0-82b3-31d97f4e1ffa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-01eb142bbd",
+    "source": "The Guardian — UK",
+    "title": "Police arrest 66 people at Palestine Action rally near Labour conference",
+    "summary": "83-year-old among those taken into custody on suspicion of supporting a proscribed terror group at Liverpool protest Police have arrested 66 people, including an 83-year-old, on suspicion of supporting Palestine Action at a rally outside the Labour party conference in Liverpool. Dozens of protesters gathered outside the venue on Sunday, many holding signs that read: “I oppose genocide. I support Palestine Action”. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/29/police-arrest-people-palestine-action-rally-labour-conference",
+    "published": "2025-09-29T11:09:49Z",
+    "image_url": "https://i.guim.co.uk/img/media/657aa1a667bbe37fcd36bbb016d8d9b95d1e549e/453_0_4818_3854/master/4818.jpg?width=140&quality=85&auto=format&fit=max&s=8c7862c7342493f9e4a60c34c1e3f659",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-85d6fcd552",
+    "source": "The Guardian — UK",
+    "title": "Supporting Reform’s ‘racist policy’ does not make voters racist, says Rachel Reeves – UK politics live",
+    "summary": "Chancellor backs Keir Starmer’s statement that policy to end indefinite leave to remain is racist, but says many Reform supporters would be ‘horrified’ by it In her Today interview Rachel Reeves was asked about a FT report saying she will urge business leaders to highlight the risks of a Reform UK government in her speech later. The FT say Reeves will tell the Labour conference. Who is standing up for Britain’s stability. A Labour government that is resolute in cutting interest rates and borrowing or a Reform party that cheered on Liz Truss’ mini-budget? Who is standing up for Britain’s businesses? A Labour government that is forging a closer relationship with our nearest trading partners or a Reform party that talks Britain down and is hungry to cut us off from the world? Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/29/rachel-reeves-labour-party-conference-youth-guarantee-unemployment-uk-politics-live-latest-news",
+    "published": "2025-09-29T11:08:34Z",
+    "image_url": "https://i.guim.co.uk/img/media/06fd0956fa69df1f42c50f74d8cc278e11837471/368_0_3683_2946/master/3683.jpg?width=140&quality=85&auto=format&fit=max&s=fc5ea18fceed7859097c707b23882b95",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-bd3d6361e6",
     "source": "BBC — Top Stories",
     "title": "Jaguar Land Rover to resume some production in 'coming days' after cyber-attack",
-    "summary": "Work at the carmaker's three UK facilities had been halted on 1 September following a cyber-attack.",
+    "summary": "It's understood that production will resume at the Wolverhampton engine facility on 6 October.",
     "url": "https://www.bbc.com/news/articles/cwydxpdgx61o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T10:11:56Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f7/live/c8646aa0-9d1a-11f0-aa0c-6923d2781ecc.jpg",
+    "published": "2025-09-29T11:03:14Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e91/live/ab460620-9d21-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a3985d615b",
+    "source": "BBC — Top Stories",
+    "title": "Migrants to face tougher conditions for settled status, home secretary to announce",
+    "summary": "New tests will include learning English to a high standard, paying National Insurance and not claiming benefits.",
+    "url": "https://www.bbc.com/news/articles/c0m4g3zvy02o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T11:00:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bdc/live/3b830e40-9d04-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ab787d921b",
+    "source": "BBC — Top Stories",
+    "title": "Rescue deal saves 156 Claire's stores and 1,000 jobs",
+    "summary": "Modella Capital has agreed to purchase \"substantially most\" of Claire's UK.",
+    "url": "https://www.bbc.com/news/articles/cder59gzx5xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T10:43:05Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c17b/live/c926bb20-9d18-11f0-97db-8f63aaa245d0.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-036e2dc1bc",
+    "source": "Politico — UK",
+    "title": "France and Sweden deploy anti-drone troops to Copenhagen ahead of EU summits",
+    "summary": "Paris and Stockholm say they have sent soldiers, radars and a helicopter.",
+    "url": "https://www.politico.eu/article/france-and-sweden-deploy-anti-drone-troops-to-copenhagen-ahead-of-eu-summits/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-29T10:40:25Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/29/ulf-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-179636701d",
+    "source": "Politico — UK",
+    "title": "Scottish Labour leader rules out deal with Farage, brands him a ‘charlatan’",
+    "summary": "Anas Sarwar insists Reform UK leader would be \"found out\" by voters next May and at the general election.",
+    "url": "https://www.politico.eu/article/scottish-labour-leader-anas-sarwar-rules-out-deal-nigel-farage-brands-him-charlatan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-29T10:37:47Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/29/GettyImages-2237878953-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -36,18 +120,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-85d6fcd552",
-    "source": "The Guardian — UK",
-    "title": "Supporting Reform’s ‘racist policy’ does not make voters racist, says Rachel Reeves – UK politics live",
-    "summary": "Chancellor backs Keir Starmer’s statement that policy to end indefinite leave to remain is racist, but says many Reform supporters would be ‘horrified’ by it In her Today interview Rachel Reeves was asked about a FT report saying she will urge business leaders to highlight the risks of a Reform UK government in her speech later. The FT say Reeves will tell the Labour conference. Who is standing up for Britain’s stability. A Labour government that is resolute in cutting interest rates and borrowing or a Reform party that cheered on Liz Truss’ mini-budget? Who is standing up for Britain’s businesses? A Labour government that is forging a closer relationship with our nearest trading partners or a Reform party that talks Britain down and is hungry to cut us off from the world? Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/sep/29/rachel-reeves-labour-party-conference-youth-guarantee-unemployment-uk-politics-live-latest-news",
-    "published": "2025-09-29T10:09:55Z",
-    "image_url": "https://i.guim.co.uk/img/media/5a59b30e3b68e5aec9de018f01b3c08b8c6f5bad/505_0_4910_3930/master/4910.jpg?width=140&quality=85&auto=format&fit=max&s=e4011791ae4cb5e57f4331e70c22c3c1",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-fa1e7490f4",
     "source": "The Guardian — UK",
     "title": "Rachel Reeves confirms she no longer stands by pledge not to raise taxes",
@@ -72,13 +144,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-b4c0e0f803",
+    "id": "BBC — Top Stories-99b2936ddb",
     "source": "BBC — Top Stories",
-    "title": "Moldova's pro-EU party wins vote mired in claims of Russian interference",
-    "summary": "The election was seen as critical for Moldova's EU path, and President Maia Sandu warned the country's future was in danger.",
-    "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T08:54:55Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc3/live/79042050-9c47-11f0-82b3-31d97f4e1ffa.jpg",
+    "title": "Woman chases record for 400-mile lap of Cornwall in honour of mother with Alzheimer's",
+    "summary": "Elsey Davis is hoping to set the fastest known time on her lap of Cornwall.",
+    "url": "https://www.bbc.com/news/articles/c8jmxd01y0po?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T09:06:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e2d/live/87803410-9c9d-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -144,18 +216,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-f1f9e80e45",
-    "source": "BBC — Top Stories",
-    "title": "Dolly Parton postpones shows over 'health challenges'",
-    "summary": "The star delays her Las Vegas residency by almost a year, saying she needs \"multiple procedures\".",
-    "url": "https://www.bbc.com/news/articles/cq5j9leynwlo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T07:43:19Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52a6/live/5cf4bbc0-9d07-11f0-a8fe-677b0b0b2d56.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-054adc2289",
     "source": "The Guardian — UK",
     "title": "AstraZeneca plans direct listing on New York Stock Exchange but isn’t quitting London",
@@ -199,18 +259,6 @@
     "url": "https://www.bbc.com/news/articles/cre5xp83394o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-29T07:02:26Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c8e/live/6181cad0-991e-11f0-af62-91486a511a31.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a3985d615b",
-    "source": "BBC — Top Stories",
-    "title": "Migrants to face tougher conditions for settled status, home secretary to announce",
-    "summary": "New tests will include learning English to a high standard, paying National Insurance and not claiming benefits.",
-    "url": "https://www.bbc.com/news/articles/c0m4g3zvy02o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T06:49:30Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bdc/live/3b830e40-9d04-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -300,18 +348,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-87398c01fc",
-    "source": "BBC — Top Stories",
-    "title": "Met officers could have to reveal Freemason ties",
-    "summary": "The move comes after the force's handling of the 1987 murder of private detective Daniel Morgan.",
-    "url": "https://www.bbc.com/news/articles/cqxzdppdd48o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T05:00:27Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3539/live/77ded200-9c7a-11f0-8277-67a32d4ec754.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-72962e6b3a",
     "source": "The Guardian — UK",
     "title": "Britain may already be at war with Russia, former head of MI5 says",
@@ -319,18 +355,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/29/britain-may-already-be-at-war-with-russia-former-head-of-mi5-says",
     "published": "2025-09-29T04:30:31Z",
     "image_url": "https://i.guim.co.uk/img/media/5ec9d6d91fc2f2dec91437b20ad3b3e7b3ba1d67/0_168_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=f640662a085337ae57802d8b5518f144",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-0d17d0b83e",
-    "source": "The Guardian — UK",
-    "title": "Stop blaming migrants and tackle UK’s real problems, 100 charities tell home secretary",
-    "summary": "A letter warns Shabana Mahmood that ‘targeting refugees will do nothing to tackle’ problems with housing and the NHS More than 100 charities have sent a letter to the home secretary, Shabana Mahmood, calling for an end to the “scapegoating of migrants”. The letter, sent before her speech at the Labour party conference in Liverpool on Monday afternoon, was coordinated by Refugee Action and signed by 105 organisations from a wide range of sectors – including Save the Children, Mind, Oxfam, Shelter, Greenpeace and Friends of the Earth, as well as dozens of migrant and anti-racism charities. It has also been signed by the PCS union, which represents Border Force workers. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/29/stop-blaming-migrants-and-tackle-uks-real-problems-100-charities-tell-home-secretary",
-    "published": "2025-09-29T04:00:30Z",
-    "image_url": "https://i.guim.co.uk/img/media/51d27f1c92f81baa0b52782ee2cf2e7e0c6501b5/877_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=4ece216042657d357750eac5b5471633",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -367,30 +391,6 @@
     "url": "https://www.politico.eu/sponsored-content/the-future-of-brain-health-acting-now-for-improved-epilepsy-care/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-29T03:05:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/Image_Politico.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-adbaac6521",
-    "source": "Politico — UK",
-    "title": "A patent licensing gamble that threatens Europe’s innovation future",
-    "summary": "A European Commission decision allowing rival car companies to form entities to negotiate patent licenses unravels decades of policy, destabilizing a delicate market balance that enables Europe’s technology ecosystem to thrive.",
-    "url": "https://www.politico.eu/sponsored-content/a-patent-licensing-gamble-that-threatens-europes-innovation-future/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-29T03:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/Source-istockphoto.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-d384a3058f",
-    "source": "Politico — UK",
-    "title": "Booze-soaked Poland pushes for nighttime sales ban",
-    "summary": "The country ranks second in the EU for alcohol-attributable deaths.",
-    "url": "https://www.politico.eu/article/poland-alcohol-night-sales-ban-health/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-29T02:25:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-2190192484-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
