@@ -1,5 +1,41 @@
 [
   {
+    "id": "The Guardian — UK-0d17d0b83e",
+    "source": "The Guardian — UK",
+    "title": "Stop blaming migrants and tackle UK’s real problems, 100 charities tell home secretary",
+    "summary": "A letter warns Shabana Mahmood that ‘targeting refugees will do nothing to tackle’ problems with housing and the NHS More than 100 charities have sent a letter to the home secretary, Shabana Mahmood, calling for an end to the “scapegoating of migrants”. The letter, sent before her speech at the Labour party conference in Liverpool on Monday afternoon, was coordinated by Refugee Action and signed by 105 organisations from a wide range of sectors – including Save the Children, Mind, Oxfam, Shelter, Greenpeace and Friends of the Earth, as well as dozens of migrant and anti-racism charities. It has also been signed by the PCS union, which represents Border Force workers. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/29/stop-blaming-migrants-and-tackle-uks-real-problems-100-charities-tell-home-secretary",
+    "published": "2025-09-29T04:00:30Z",
+    "image_url": "https://i.guim.co.uk/img/media/51d27f1c92f81baa0b52782ee2cf2e7e0c6501b5/877_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=4ece216042657d357750eac5b5471633",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-2738b4a777",
+    "source": "The Guardian — UK",
+    "title": "One lap, 400 miles, seven days: GP aims to set record on Cornwall perimeter run",
+    "summary": "Elsey Davis will tackle 18,000 metres of elevation on run to raise awareness of young-onset Alzheimer’s for her mum Most runners are content with a lap of their local park. But for one Cornish woman that is not nearly enough: she is aiming to race around the perimeter of her home county and set the fastest known time for the route. Elsey Davis, 36, a professional trail runner and GP, calculates she will run about 400 miles and tackle more than 18,000 metres of elevation – the equivalent of two Mount Everests. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/29/elsey-davis-gp-cornwall-perimeter-run-fastest-known-time",
+    "published": "2025-09-29T04:00:30Z",
+    "image_url": "https://i.guim.co.uk/img/media/c7a5a51c149e839e946d870c52f0b1242460244d/375_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=a8c695aeb1a0cd245062b1847c090515",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-515607aa48",
+    "source": "Politico — UK",
+    "title": "Wie Merz der EU den Kampf ansagt",
+    "summary": "Der Kanzler im Angriffsmodus: Friedrich Merz will der Gesetzgebungsmaschine der EU das Stöckchen in die Räder halten und legt sich damit offen mit Ursula von der Leyen an. Auf dem EU-Gipfel diese Woche in Kopenhagen geht es für ihn um weniger Bürokratie, mehr Wettbewerbsfähigkeit und auch die Rücknahme des Verbrenner-Verbots. Den Newsletter ‘Brussels Decoded’ findet […]",
+    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/wie-merz-der-eu-den-kampf-ansagt/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-29T03:41:09Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/23/Berlin-Playbook-Website-Card57.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-e1fdf91918",
     "source": "BBC — Top Stories",
     "title": "Four killed in shooting and arson attack at Mormon church in Michigan",
@@ -192,6 +228,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-5b9687173d",
+    "source": "BBC — Top Stories",
+    "title": "Can Labour reverse 'desperate loss of faith' from business?",
+    "summary": "The government wants to keep the backing it won before the election, our business editor Simon Jack writes.",
+    "url": "https://www.bbc.com/news/articles/cn0xyxnyz48o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T23:46:58Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aa5/live/803f8e10-9af1-11f0-89b4-1b2d09c610c7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-d0b5153eed",
     "source": "BBC — Top Stories",
     "title": "Europe survive US comeback charge to win sensational Ryder Cup",
@@ -348,18 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-43cbe40ddf",
-    "source": "Politico — UK",
-    "title": "Dockworkers in Italy threaten total block on Israel trade",
-    "summary": "The dockers have designated the Global Sumud Flotilla carrying aid to Gaza as a kind of tripwire for threats of further action.",
-    "url": "https://www.politico.eu/article/docworkers-italy-israel-trade-flotilla-gaza-aid-europe-arms-shipment/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-28T18:25:16Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/28/GettyImages-2236759001-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-bf4668c177",
     "source": "The Guardian — UK",
     "title": "Ed Miliband says it is ‘possible’ that UK government should leave X",
@@ -367,18 +403,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/28/ed-miliband-says-it-is-possible-that-uk-government-should-leave-x",
     "published": "2025-09-28T18:20:32Z",
     "image_url": "https://i.guim.co.uk/img/media/21ebe6f5d4d5cdb0047b0cc5b07d055bec819396/386_82_3628_2902/master/3628.jpg?width=140&quality=85&auto=format&fit=max&s=cc450b440d704783ab17602def44545c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-46f39492ff",
-    "source": "The Guardian — UK",
-    "title": "Labour conference: Starmer calls Reform’s policy on immigration ‘racist’ and says Farage’s party would ‘tear country apart’ – as it happened",
-    "summary": "PM calls Reform’s policy immoral but says people who want to vote for them are not racist but frustrated Kuenssberg ended her interview by asking about Andy Burnham, and the leadership. Starmer said Burnham was doing a very good job as mayor of Greater Manchester. Comments about leaders and leadership are part and parcel of being in politics. It is the bread and butter of politics, every leader get its, it always comes up, particularly at conference. It’s in the job description. People are entitled to their views and I’m not sticking my fingers in my ear in the slightest. What I am saying is that it is important to keep focusing on what it is that we are delivering, and saying, absolutely in clear terms, the difference it makes to people’s lives. One, have we improved living standards? Do people genuinly feel better off? Two, have we improved public services? Is the NHS in a better place, and people can feel it. And, three, do people feel safe and secure in their home, in their neighbourhood, and that their country is secure. It’s a five-year mandate, and I will be judged at the end of that five years, and quite right too. I just need the space and get on and do what we need to do, and do those three things above all else. I am saying we have got the fight of our lives ahead of us because we’ve got to take on Reform and we’ve got to beat them. So now is not the time for introspection or navel-gazing. There is a fight that we are all in together, and every single member of our party and our movement – actually, everyone who cares about what this country is, whether they vote Labour or otherwise - it’s the fight of our lives for who we are as a country. We need to be in that fight, united not navel-gazing. I’m absolutely clear in my mind about that, and that’s what I will be talking about at conference. Sir Keir Starmer gave land to his parents via a trust that meant their estates would never pay inheritance tax on the asset whatever its eventual value, according to legal experts. The prime minister’s decision to place a seven-acre field within the structure meant its value was excluded from his parents’ estate, of which he was a beneficiary, when they died. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/sep/28/labour-conference-keir-starmer-latest-uk-politics-news-live-updates",
-    "published": "2025-09-28T17:28:43Z",
-    "image_url": "https://i.guim.co.uk/img/media/af66d101b7b2b5d643627a0d8fbf2cb719a9eca9/434_0_4341_3473/master/4341.jpg?width=140&quality=85&auto=format&fit=max&s=9b94d79f9c2e996b970f177ddf9bbb2b",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -415,18 +439,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/28/starmer-calling-reform-immigration-policy-racist-is-the-start-of-a-risky-wider-argument",
     "published": "2025-09-28T16:44:19Z",
     "image_url": "https://i.guim.co.uk/img/media/753c51ae44313a86cd3a3bc73970faaf204305de/522_93_3032_2426/master/3032.jpg?width=140&quality=85&auto=format&fit=max&s=19aaec750cf80e04278fb604dd5f9754",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b372ac9780",
-    "source": "BBC — Top Stories",
-    "title": "Swiss voters narrowly approve plan for electronic ID cards",
-    "summary": "The proposal was backed by 50.4% of voters, in the second Swiss ballot on the issue in four years.",
-    "url": "https://www.bbc.com/news/articles/cdr624j16jpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T15:55:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bad5/live/82dc66a0-9c7e-11f0-95c6-7592d7636e22.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,18 +547,6 @@
     "url": "https://www.bbc.com/news/articles/c8xr1n4pp49o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T07:54:42Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c71/live/6072fbb0-9896-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-106ca138ee",
-    "source": "The Guardian — UK",
-    "title": "‘A serious disappointment’: Labour has to regain business sector’s confidence at conference",
-    "summary": "After being promised last year they could ‘partner’ with party on policy, many executives are asking what happened Last year Keir Starmer had an invitation for bosses at Labour’s first party conference in power in 15 years: “You can have your finger prints on our policy … you can shape it.” Fresh from love-bombing corporate Britain before his election landslide, the prime minister told a sold-out “ business day ” audience at its Liverpool get-together that he wanted his new government to “partner” with industry. “You have the right to badger us … Our decisions will be better if we are talking to you and taking into account what you say,” Starmer said. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/28/a-serious-disappointment-labour-has-to-regain-business-sectors-confidence-at-conference",
-    "published": "2025-09-28T07:01:04Z",
-    "image_url": "https://i.guim.co.uk/img/media/af65d13239fdb916093a8e7372b4408679d543b6/1182_3335_2073_1658/master/2073.jpg?width=140&quality=85&auto=format&fit=max&s=f2030fc55e1921408f46f833388c2049",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
