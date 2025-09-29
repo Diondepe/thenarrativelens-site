@@ -1,5 +1,53 @@
 [
   {
+    "id": "The Guardian — UK-85d6fcd552",
+    "source": "The Guardian — UK",
+    "title": "Rachel Reeves says Labour’s Youth Guarantee will ‘abolish long-term youth unemployment’ – UK politics live",
+    "summary": "Chancellor will make pledge at Labour party conference in echo of Gordon Brown’s flagship scheme Ferrari says the UK has lower growth forecasts than other G7 countries. Reeves says the OECD is saying the UK will have the second fastest growing economy in the G7 this year and next. We are continuing with standing by, whatever words you want to use, those commitments. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/29/rachel-reeves-labour-party-conference-youth-guarantee-unemployment-uk-politics-live-latest-news",
+    "published": "2025-09-29T07:03:51Z",
+    "image_url": "https://i.guim.co.uk/img/media/5a59b30e3b68e5aec9de018f01b3c08b8c6f5bad/505_0_4910_3930/master/4910.jpg?width=140&quality=85&auto=format&fit=max&s=e4011791ae4cb5e57f4331e70c22c3c1",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c88d01a9d1",
+    "source": "BBC — Top Stories",
+    "title": "How weight-loss injections are turning obesity into a wealth issue",
+    "summary": "With claims of a 'two-tier system', could it be that these drugs are exacerbating health inequalities?",
+    "url": "https://www.bbc.com/news/articles/cre5xp83394o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T07:02:26Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c8e/live/6181cad0-991e-11f0-af62-91486a511a31.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a3985d615b",
+    "source": "BBC — Top Stories",
+    "title": "Migrants to face tougher conditions for settled status, home secretary to announce",
+    "summary": "New tests will include learning English to a high standard, paying National Insurance and not claiming benefits.",
+    "url": "https://www.bbc.com/news/articles/c0m4g3zvy02o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T06:49:30Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bdc/live/3b830e40-9d04-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-9a139f5901",
+    "source": "The Guardian — UK",
+    "title": "GSK’s Emma Walmsley to be replaced as chief executive",
+    "summary": "Chief commercial officer Luke Miels to take over as CEO at UK-based pharmaceutical company in surprise move The pharmaceutical group GSK has announced the surprise departure of its chief executive, Emma Walmsley, after eight years in the top job. Walmsley, who has run the FTSE 100 company since 2017, will step down from the board at the end of this year, and remain at the business until her notice period ends on 30 September 2026. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/sep/29/gsk-emma-walmsley-to-be-replaced-as-ceo",
+    "published": "2025-09-29T06:38:29Z",
+    "image_url": "https://i.guim.co.uk/img/media/55d880c9619f03656f583703d862ab07ba9ca3f4/333_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=62ff299a877594b4658abde8491c6c50",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-5b9687173d",
     "source": "BBC — Top Stories",
     "title": "Can Labour reverse 'desperate loss of faith' from business?",
@@ -84,6 +132,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-87398c01fc",
+    "source": "BBC — Top Stories",
+    "title": "Met officers could have to reveal Freemason ties",
+    "summary": "The move comes after the force's handling of the 1987 murder of private detective Daniel Morgan.",
+    "url": "https://www.bbc.com/news/articles/cqxzdppdd48o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T05:00:27Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3539/live/77ded200-9c7a-11f0-8277-67a32d4ec754.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-72962e6b3a",
     "source": "The Guardian — UK",
     "title": "Britain may already be at war with Russia, former head of MI5 says",
@@ -146,11 +206,11 @@
   {
     "id": "BBC — Top Stories-e1fdf91918",
     "source": "BBC — Top Stories",
-    "title": "Four killed in shooting and arson attack at Mormon church in Michigan",
+    "title": "Death toll rises to four after Michigan church shooting and arson attack",
     "summary": "Hundreds of people were attending a Sunday service when the attacker drove a vehicle into the church and opened fire, police say.",
     "url": "https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-29T03:39:05Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8487/live/643d5b50-9ce2-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa0/live/e5d04d80-9d00-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -276,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-b30b32ed9a",
-    "source": "BBC — Top Stories",
-    "title": "Staff photographed sleeping at 'unsafe' eating disorder unit",
-    "summary": "Patients at Schoen Clinic York say they witnessed staff sleeping on a number of occasions.",
-    "url": "https://www.bbc.com/news/articles/c4g25me9mzlo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T00:29:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1485/live/7fc01190-9ab4-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-1a5d08b4f6",
     "source": "BBC — Top Stories",
     "title": "PM says Reform plan 'racist' and Labour eyes 'good citizen test'",
@@ -336,18 +384,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-c88d01a9d1",
-    "source": "BBC — Top Stories",
-    "title": "How weight-loss injections are turning obesity into a wealth issue",
-    "summary": "With claims of a 'two-tier system', could it be that these drugs are exacerbating health inequalities?",
-    "url": "https://www.bbc.com/news/articles/cre5xp83394o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T23:02:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c8e/live/6181cad0-991e-11f0-af62-91486a511a31.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-3d01622910",
     "source": "The Guardian — UK",
     "title": "UK graduates and healthcare workers worst hit as jobs market ‘cools’",
@@ -360,18 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a3985d615b",
-    "source": "BBC — Top Stories",
-    "title": "Migrants to face tougher conditions for settled status, home secretary to announce",
-    "summary": "New tests will include learning English to a high standard, paying National Insurance and not claiming benefits.",
-    "url": "https://www.bbc.com/news/articles/c0m4g3zvy02o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T21:32:01Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8a/live/1cd152d0-9cfb-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-90875dd345",
     "source": "The Guardian — UK",
     "title": "High standard of English to be required for leave to remain, Mahmood to pledge",
@@ -379,18 +403,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/28/english-indefinite-leave-to-remain-shabana-mahmood-labour-conference",
     "published": "2025-09-28T21:30:22Z",
     "image_url": "https://i.guim.co.uk/img/media/bebbc89e19f784d4393ef1c77a427c485ad42098/95_38_2131_1705/master/2131.jpg?width=140&quality=85&auto=format&fit=max&s=fe5a8bfeb6395002ec9c76497825bb91",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-e207a2baae",
-    "source": "The Guardian — UK",
-    "title": "Rachel Reeves pledges a library in every primary school in England",
-    "summary": "Exclusive: Chancellor also set to unveil plans to get young people back into work in party conference speech Rachel Reeves will deliver a library in every primary school in England as part of Labour’s plans to give all children the best start in life regardless of their background. The scheme, which will create libraries in the 1,700 primaries currently without them, will be funded from £132.5m of dormant assets that will be unlocked to give young people access to cultural opportunities. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/28/rachel-reeves-pledges-a-library-in-every-primary-school-in-england",
-    "published": "2025-09-28T21:30:22Z",
-    "image_url": "https://i.guim.co.uk/img/media/d550efb6b2a99af4db9431a592c2eaa1d3f274da/968_0_4843_3874/master/4843.jpg?width=140&quality=85&auto=format&fit=max&s=11466ad81b839aa6f1e7d1f3773f7488",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -511,18 +523,6 @@
     "url": "https://www.bbc.com/sport/rugby-union/articles/cd9ygg1l48zo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T15:15:12Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ac6/live/98efbeb0-9c79-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-538df0bdf3",
-    "source": "The Guardian — UK",
-    "title": "Populist threat to rule of law a danger to UK working class, says attorney general",
-    "summary": "Richard Hermer aims criticism at Nigel Farage and Robert Jenrick at Labour conference event Rightwing populists threaten working-class people’s protections under the rule of law, the attorney general has said in his most political intervention yet. In a criticism directed squarely at Nigel Farage and Robert Jenrick, Richard Hermer said populist politicians posed a threat to the everyday protectionsafforded to people who used the legal system and the courts to right significant wrongs. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/28/labour-richard-hermer-attorney-general-populist-danger-rule-of-law-uk-working-class",
-    "published": "2025-09-28T14:45:20Z",
-    "image_url": "https://i.guim.co.uk/img/media/5b7c206020ffb7f17b01ea48a0faa1176019eb4e/616_88_3603_2883/master/3603.jpg?width=140&quality=85&auto=format&fit=max&s=6379491fa4bb79d3f7504cc556e26620",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
