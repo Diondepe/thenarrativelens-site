@@ -1,5 +1,77 @@
 [
   {
+    "id": "BBC — Top Stories-b4c0e0f803",
+    "source": "BBC — Top Stories",
+    "title": "Pro-EU party in Moldova set to win vote mired in claims of Russian interference",
+    "summary": "The vote was seen as critical for Moldova's EU path, and President Maia Sandu warned the country's future was in danger.",
+    "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T05:13:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc3/live/79042050-9c47-11f0-82b3-31d97f4e1ffa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-168fd6e7eb",
+    "source": "BBC — Top Stories",
+    "title": "Play now",
+    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
+    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T05:12:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e658c0a324",
+    "source": "The Guardian — UK",
+    "title": "More than 1m UK workers to gain more rights under employment bill, says thinktank",
+    "summary": "Work Foundation says key elements of bill promote secure jobs amid fierce business lobbying against legislation Employers will be forced to offer more secure terms to more than a million workers if the employment bill going through parliament is implemented, according to research by a leading thinktank. The Work Foundation said analysis of 2023-24 data calculating the impact of a ban on zero-hours contracts and “day one” compensation after unfair dismissal – which are two key elements of the employment rights bill – showed 1.2 million workers would have been protected from “severe insecurity” in the workplace. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/29/more-than-1m-uk-workers-to-gain-more-rights-under-employment-bill-says-thinktank",
+    "published": "2025-09-29T05:00:33Z",
+    "image_url": "https://i.guim.co.uk/img/media/d24d85c3969b87cacef600c204999d8893a78fab/138_0_3078_2462/master/3078.jpg?width=140&quality=85&auto=format&fit=max&s=2a5cc68d2d4a58b7d5ea479e9e59ced8",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-071c40550e",
+    "source": "The Guardian — UK",
+    "title": "Met considers making officers declare whether they are Freemasons",
+    "summary": "Consultation comes after concerns raised about impact of membership on ‘investigations, promotions and misconduct’ The Metropolitan police are considering measures that could require officers to inform superiors if they are a member of the Freemasons after concerns were raised about the impact that being part of the group could have. The force, which is the largest in the country, has started a consultation on adding the group to its declarable associations policy. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/29/met-considers-making-officers-declare-whether-they-are-freemasons",
+    "published": "2025-09-29T05:00:32Z",
+    "image_url": "https://i.guim.co.uk/img/media/76fe49b0a55c0e2595ae5525a4312e05030a6731/273_0_2955_2364/master/2955.jpg?width=140&quality=85&auto=format&fit=max&s=3c01717c7de5f0894c7fb718813d3057",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a29dc32560",
+    "source": "BBC — Top Stories",
+    "title": "'You'll never need to work again': Criminals offer reporter money to hack BBC",
+    "summary": "Reporter Joe Tidy was offered money if he would help cyber criminals access BBC systems.",
+    "url": "https://www.bbc.com/news/articles/c3w5n903447o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T05:00:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab6b/live/41344ff0-9784-11f0-a4bc-e5c9e246a537.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-72962e6b3a",
+    "source": "The Guardian — UK",
+    "title": "Britain may already be at war with Russia, former head of MI5 says",
+    "summary": "Eliza Manningham-Buller points to extent of cyber-attacks and other hostile activity orchestrated by Moscow Britain may already be at war with Russia because of the depth and intensity of cyber-attacks, sabotage and other hostile activity orchestrated by Moscow against the UK, according to a former head of MI5. Eliza Manningham-Buller, who led the domestic spy agency two decades ago, said she agreed with comments made by the Russia expert Fiona Hill, who argued in a Guardian interview earlier this year that Moscow was at war with the west. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/29/britain-may-already-be-at-war-with-russia-former-head-of-mi5-says",
+    "published": "2025-09-29T04:30:31Z",
+    "image_url": "https://i.guim.co.uk/img/media/5ec9d6d91fc2f2dec91437b20ad3b3e7b3ba1d67/0_168_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=f640662a085337ae57802d8b5518f144",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-0d17d0b83e",
     "source": "The Guardian — UK",
     "title": "Stop blaming migrants and tackle UK’s real problems, 100 charities tell home secretary",
@@ -204,18 +276,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-b4c0e0f803",
-    "source": "BBC — Top Stories",
-    "title": "Pro-EU party in Moldova wins election mired in claims of Russian interference",
-    "summary": "The vote was seen as critical for Moldova's EU path, and President Maia Sandu warned the country's future was in danger.",
-    "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T00:11:53Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc3/live/79042050-9c47-11f0-82b3-31d97f4e1ffa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-ee10ff0965",
     "source": "BBC — Top Stories",
     "title": "Disabled Post Office Horizon victim offered 15% of claim",
@@ -372,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-18cf51a8a0",
-    "source": "The Guardian — UK",
-    "title": "‘Dozens’ arrested at Palestine Action protest outside Labour party conference",
-    "summary": "Defend Our Juries says about 100 people had gathered holding signs outside conference venue in Liverpool Police have arrested protesters on suspicion of supporting the banned group Palestine Action outside the Labour party conference in Liverpool. About 100 people gathered silently on Sunday to hold signs reading “I oppose genocide, I support Palestine Action”, according to protest organisation Defend Our Juries, who said there were dozens of arrests. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/28/arrests-palestine-action-protest-labour-party-conference",
-    "published": "2025-09-28T19:51:36Z",
-    "image_url": "https://i.guim.co.uk/img/media/78ce1f02a1ce8a2f25deecbb6012e6127bb9b590/2_0_2957_2367/master/2957.jpg?width=140&quality=85&auto=format&fit=max&s=63b560556c0714a387ce44b0264c6dad",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-8550ac1e62",
     "source": "The Guardian — UK",
     "title": "Andy Burnham says ‘climate of fear’ in Labour is shutting down debate",
@@ -403,6 +451,18 @@
     "url": "https://www.theguardian.com/politics/2025/sep/28/ed-miliband-says-it-is-possible-that-uk-government-should-leave-x",
     "published": "2025-09-28T18:20:32Z",
     "image_url": "https://i.guim.co.uk/img/media/21ebe6f5d4d5cdb0047b0cc5b07d055bec819396/386_82_3628_2902/master/3628.jpg?width=140&quality=85&auto=format&fit=max&s=cc450b440d704783ab17602def44545c",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-46f39492ff",
+    "source": "The Guardian — UK",
+    "title": "Labour conference: Starmer calls Reform’s policy on immigration ‘racist’ and says Farage’s party would ‘tear country apart’ – as it happened",
+    "summary": "PM calls Reform’s policy immoral but says people who want to vote for them are not racist but frustrated Kuenssberg ended her interview by asking about Andy Burnham, and the leadership. Starmer said Burnham was doing a very good job as mayor of Greater Manchester. Comments about leaders and leadership are part and parcel of being in politics. It is the bread and butter of politics, every leader get its, it always comes up, particularly at conference. It’s in the job description. People are entitled to their views and I’m not sticking my fingers in my ear in the slightest. What I am saying is that it is important to keep focusing on what it is that we are delivering, and saying, absolutely in clear terms, the difference it makes to people’s lives. One, have we improved living standards? Do people genuinly feel better off? Two, have we improved public services? Is the NHS in a better place, and people can feel it. And, three, do people feel safe and secure in their home, in their neighbourhood, and that their country is secure. It’s a five-year mandate, and I will be judged at the end of that five years, and quite right too. I just need the space and get on and do what we need to do, and do those three things above all else. I am saying we have got the fight of our lives ahead of us because we’ve got to take on Reform and we’ve got to beat them. So now is not the time for introspection or navel-gazing. There is a fight that we are all in together, and every single member of our party and our movement – actually, everyone who cares about what this country is, whether they vote Labour or otherwise - it’s the fight of our lives for who we are as a country. We need to be in that fight, united not navel-gazing. I’m absolutely clear in my mind about that, and that’s what I will be talking about at conference. Sir Keir Starmer gave land to his parents via a trust that meant their estates would never pay inheritance tax on the asset whatever its eventual value, according to legal experts. The prime minister’s decision to place a seven-acre field within the structure meant its value was excluded from his parents’ estate, of which he was a beneficiary, when they died. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/28/labour-conference-keir-starmer-latest-uk-politics-news-live-updates",
+    "published": "2025-09-28T17:28:43Z",
+    "image_url": "https://i.guim.co.uk/img/media/af66d101b7b2b5d643627a0d8fbf2cb719a9eca9/434_0_4341_3473/master/4341.jpg?width=140&quality=85&auto=format&fit=max&s=9b94d79f9c2e996b970f177ddf9bbb2b",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -468,30 +528,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-f34e368aca",
-    "source": "BBC — Top Stories",
-    "title": "Lola Young 'doing OK' after collapsing on stage during gig",
-    "summary": "Lola Young was performing at a festival when she appeared to drop her microphone and fall backwards.",
-    "url": "https://www.bbc.com/news/articles/cr7031gv2m8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T14:03:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/152d/live/a091b3f0-9c77-11f0-8277-67a32d4ec754.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-f270fb0200",
-    "source": "The Guardian — UK",
-    "title": "Watching Caerphilly: Welsh byelection may be bellwether for political transformation in UK",
-    "summary": "Plaid Cymru and Reform are polling above Welsh Labour in race for Senedd seat experts say may be ‘canary in the coalmine’ Usually, a Welsh parliament byelection in Caerphilly would probably not attract huge attention away from its rolling green hills and post-industrial townscapes. But these are not normal times and the result of next month’s ballot in this corner of south Wales may have ramifications across the UK. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/28/watching-caerphilly-welsh-byelection-may-be-bellwether-for-political-transformation-in-uk",
-    "published": "2025-09-28T13:23:07Z",
-    "image_url": "https://i.guim.co.uk/img/media/ac5abdcbf5b8b04d1d8e311fdbbc41fb733e823b/0_0_4749_3801/master/4749.jpg?width=140&quality=85&auto=format&fit=max&s=92ca86dbd30040149f2f3df0690a47af",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-de433e54a4",
     "source": "The Guardian — UK",
     "title": "Keir Starmer’s donkey field: what are the allegations and how has he responded?",
@@ -516,30 +552,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-ffecf60d71",
-    "source": "The Guardian — UK",
-    "title": "UK government urged to restore Electoral Commission’s independence to protect democracy",
-    "summary": "Oversight of watchdog could be abused by a future authoritarian government, report warns The independence of the Electoral Commission must be fully restored to protect the UK’s electoral integrity from a future authoritarian government, a new report warns. The Democracy in Danger report by the campaign group Spotlight on Corruption found the UK government was in breach of eight different international standards on ensuring the independence of electoral bodies by maintaining the government’s oversight of the watchdog. The UK government is in breach of eight different international standards on ensuring the independence of electoral bodies by maintaining the new power in place. All the constitutional oversight bodies that reviewed the ministerial power opposed its introduction – including two parliamentary committees, the UK’s top ethics body, the Committee on Standards in Public Life, and the Electoral Commission’s oversight body, the Speaker’s Committee. The UK has plummeted down international rankings for electoral body autonomy since the power was introduced and now ranks 44th, among countries such as Ghana, Nepal and Croatia. It has fallen out of line with comparable countries such as Canada, Australia, Ireland and New Zealand. The power, which was described by the former MI5 director general and former chair of the committee on standards in public life, Jonathan Evans, as “giving a toddler a gun”, could be used by a future government with autocratic tendencies to distort electoral rules in its favour to maintain power. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/28/uk-government-urged-to-restore-electoral-commissions-independence-to-protect-democracy",
-    "published": "2025-09-28T11:00:18Z",
-    "image_url": "https://i.guim.co.uk/img/media/433e8aa862270192f9815bfeaf9f806556e00c97/86_0_2796_2239/master/2796.jpg?width=140&quality=85&auto=format&fit=max&s=194126c637362ecf154b9bf7c241018a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-5a1c50c5ad",
-    "source": "The Guardian — UK",
-    "title": "Keir Starmer attacks ‘racist’ Farage plan to deport people settled in the UK",
-    "summary": "Prime minister says Reform proposal to abolish indefinite leave to remain could ‘tear this country apart’ Keir Starmer has attacked Reform UK’s plan to deport thousands of people already legally living in the UK as “racist” and “immoral”, as he said that Labour had a generational struggle ahead with the populist right. The prime minister, in Liverpool for his party conference, said he did not think that Nigel Farage’s party was trying to appeal to racists, and that he understood people tempted to vote for Reform were frustrated and wanted change. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/28/keir-starmer-says-farage-plan-racist-deport-people-settled-in-the-uk",
-    "published": "2025-09-28T10:31:53Z",
-    "image_url": "https://i.guim.co.uk/img/media/b7763638a2ab36efa96e358b310121d73572b66f/521_138_4080_3266/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=e31f0e2acaf9b1ada24e67197aa01084",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-282537ba7d",
     "source": "BBC — Top Stories",
     "title": "From drug theft to Dubai arrests: The Scottish gangland feud that went global",
@@ -547,18 +559,6 @@
     "url": "https://www.bbc.com/news/articles/c8xr1n4pp49o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T07:54:42Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c71/live/6072fbb0-9896-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-168fd6e7eb",
-    "source": "BBC — Top Stories",
-    "title": "Play now",
-    "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
-    "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T04:43:27Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
