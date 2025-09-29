@@ -1,12 +1,84 @@
 [
   {
+    "id": "BBC — Top Stories-a0d2475426",
+    "source": "BBC — Top Stories",
+    "title": "Is your friend draining your energy? Three ways to handle social vampires",
+    "summary": "Three ways to handle friends who leave you feeling worse, not better after you've met up.",
+    "url": "https://www.bbc.com/news/articles/ceq20p1nr88o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T00:36:55Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0754/live/2b200980-9a26-11f0-928c-71dbb8619e94.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b30b32ed9a",
+    "source": "BBC — Top Stories",
+    "title": "Staff photographed sleeping at 'unsafe' eating disorder unit",
+    "summary": "Patients at Schoen Clinic York say they witnessed staff sleeping on a number of occasions.",
+    "url": "https://www.bbc.com/news/articles/c4g25me9mzlo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T00:29:20Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1485/live/7fc01190-9ab4-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1a5d08b4f6",
+    "source": "BBC — Top Stories",
+    "title": "PM says Reform plan 'racist' and Labour eyes 'good citizen test'",
+    "summary": "Sir Keir Starmer's criticism of Reform and policy announcements ahead of Labour conference dominate the papers.",
+    "url": "https://www.bbc.com/news/articles/ckg62jrke7lo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T00:20:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd21/live/9394ac90-9cc5-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-b4c0e0f803",
     "source": "BBC — Top Stories",
-    "title": "Pro-EU party in Moldova set to win election mired in claims of interference",
+    "title": "Pro-EU party in Moldova wins election mired in claims of Russian interference",
     "summary": "The vote was seen as critical for Moldova's EU path, and President Maia Sandu warned the country's future was in danger.",
     "url": "https://www.bbc.com/news/articles/cx2rdlj8ejgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T23:15:11Z",
+    "published": "2025-09-29T00:11:53Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc3/live/79042050-9c47-11f0-82b3-31d97f4e1ffa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ee10ff0965",
+    "source": "BBC — Top Stories",
+    "title": "Disabled Post Office Horizon victim offered 15% of claim",
+    "summary": "Janet Skinner had a neurological collapse and was temporarily paralysed after her final court hearing.",
+    "url": "https://www.bbc.com/news/articles/cq5jqxjqj0eo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T23:48:03Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ee7/live/0dbcda00-9a10-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d0b5153eed",
+    "source": "BBC — Top Stories",
+    "title": "Europe survive US comeback charge to win sensational Ryder Cup",
+    "summary": "Captain Luke Donald cements his status as a bona fide Ryder Cup legend as Europe hold of a spirited US fightback to win in New York.",
+    "url": "https://www.bbc.com/sport/golf/articles/c0m4g7k4l0yo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T23:34:55Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c7a/live/86c17e80-9cca-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d30ea1def1",
+    "source": "BBC — Top Stories",
+    "title": "The picturesque Dutch village set to charge tourists an entry fee",
+    "summary": "Zaanse Schans, popular for its windmills, has a population of just 100 people - but more than two million tourists will have visited this year.",
+    "url": "https://www.bbc.com/news/articles/cn4ly3mr443o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-28T23:09:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8247/live/0317e6f0-8feb-11f0-a795-b308c7069dd1.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -60,18 +132,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-e207a2baae",
-    "source": "The Guardian — UK",
-    "title": "Rachel Reeves pledges a library in every primary school in England",
-    "summary": "Exclusive: Chancellor also set to unveil plans to get young people back into work in party conference speech Rachel Reeves will deliver a library in every primary school in England as part of Labour’s plans to give all children the best start in life regardless of their background. The scheme, which will create libraries in the 1,700 primaries currently without them, will be funded from £132.5m of dormant assets that will be unlocked to give young people access to cultural opportunities. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/28/rachel-reeves-pledges-a-library-in-every-primary-school-in-england",
-    "published": "2025-09-28T21:30:22Z",
-    "image_url": "https://i.guim.co.uk/img/media/d550efb6b2a99af4db9431a592c2eaa1d3f274da/968_0_4843_3874/master/4843.jpg?width=140&quality=85&auto=format&fit=max&s=11466ad81b839aa6f1e7d1f3773f7488",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-90875dd345",
     "source": "The Guardian — UK",
     "title": "High standard of English to be required for leave to remain, Mahmood to pledge",
@@ -79,6 +139,18 @@
     "url": "https://www.theguardian.com/politics/2025/sep/28/english-indefinite-leave-to-remain-shabana-mahmood-labour-conference",
     "published": "2025-09-28T21:30:22Z",
     "image_url": "https://i.guim.co.uk/img/media/bebbc89e19f784d4393ef1c77a427c485ad42098/95_38_2131_1705/master/2131.jpg?width=140&quality=85&auto=format&fit=max&s=fe5a8bfeb6395002ec9c76497825bb91",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e207a2baae",
+    "source": "The Guardian — UK",
+    "title": "Rachel Reeves pledges a library in every primary school in England",
+    "summary": "Exclusive: Chancellor also set to unveil plans to get young people back into work in party conference speech Rachel Reeves will deliver a library in every primary school in England as part of Labour’s plans to give all children the best start in life regardless of their background. The scheme, which will create libraries in the 1,700 primaries currently without them, will be funded from £132.5m of dormant assets that will be unlocked to give young people access to cultural opportunities. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/sep/28/rachel-reeves-pledges-a-library-in-every-primary-school-in-england",
+    "published": "2025-09-28T21:30:22Z",
+    "image_url": "https://i.guim.co.uk/img/media/d550efb6b2a99af4db9431a592c2eaa1d3f274da/968_0_4843_3874/master/4843.jpg?width=140&quality=85&auto=format&fit=max&s=11466ad81b839aa6f1e7d1f3773f7488",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -264,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-d04edd448a",
-    "source": "BBC — Top Stories",
-    "title": "Arrests at protest supporting Palestine Action near Labour conference",
-    "summary": "Merseyside Police says arrests were made on suspicion of supporting the proscribed group.",
-    "url": "https://www.bbc.com/news/articles/cx20l1257l4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T17:05:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ff/live/3bfe3980-9c87-11f0-95c6-7592d7636e22.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-6c0708daf3",
     "source": "The Guardian — UK",
     "title": "Starmer calling Reform ‘racist’ risks backlash while staking Labour’s moral claim",
@@ -307,18 +367,6 @@
     "url": "https://www.bbc.com/news/articles/cdr624j16jpo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T15:55:38Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bad5/live/82dc66a0-9c7e-11f0-95c6-7592d7636e22.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3928253b58",
-    "source": "BBC — Top Stories",
-    "title": "Jaguar Land Rover may need more than £1.5bn government loan guarantee, MP says",
-    "summary": "Liam Byrne spoke after the government announced it was backing a £1.5bn loan to the company, and warned cyber-attacks could become more common.",
-    "url": "https://www.bbc.com/news/articles/c62zggj69e0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T15:38:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d262/live/65281cd0-9c5b-11f0-b66e-67a4632b8ff2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -444,18 +492,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a20dc75955",
-    "source": "BBC — Top Stories",
-    "title": "Zelensky condemns 'vile' Russian strikes lasting 12 hours",
-    "summary": "More than 600 drones and missiles, predominantly aimed at Kyiv, hit factories and the Institute of Cardiology.",
-    "url": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T11:46:41Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e0c/live/0796d830-9c48-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-ffecf60d71",
     "source": "The Guardian — UK",
     "title": "UK government urged to restore Electoral Commission’s independence to protect democracy",
@@ -511,42 +547,6 @@
     "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-28T04:43:27Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-eb201fd198",
-    "source": "BBC — Top Stories",
-    "title": "Move over, Murdochs - a new family dynasty is shaking up US media",
-    "summary": "Larry Ellison's relationship with Donald Trump has drawn scrutiny as the tech billionaire and his son strive to become major media moguls.",
-    "url": "https://www.bbc.com/news/articles/cr4qwwk0g0yo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-28T00:30:14Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f10/live/68429800-9b02-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-55737857fc",
-    "source": "BBC — Top Stories",
-    "title": "The US navy killed 17 in deadly strikes. Now Venezuela is giving civilians guns",
-    "summary": "Tensions between the two countries have increased after the US Navy targeted boats off the coast of Venezuela.",
-    "url": "https://www.bbc.com/news/articles/c5y5q173053o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T23:30:46Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be2f/live/a41a1560-9a1c-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-46c07e790f",
-    "source": "BBC — Top Stories",
-    "title": "Collagen: Do you drink it? Inject it? Rub it on your skin? And does it work?",
-    "summary": "Pills, powders and creams promise to top up natural supplies which decrease as we get older.",
-    "url": "https://www.bbc.com/news/articles/cjr5zj12ye1o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-27T22:37:43Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0049/live/861c7ea0-9c4b-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
