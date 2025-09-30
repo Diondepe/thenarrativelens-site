@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-8c76410525",
+    "source": "BBC — Top Stories",
+    "title": "Afghanistan telecom blackout as Taliban shuts off internet",
+    "summary": "Phone and internet connections are down nationwide after the Taliban cut fibre-optic connections to prevent \"immorality\".",
+    "url": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T00:59:57Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0203/live/f08a4b00-9d68-11f0-a16f-ff7724a733bf.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7608650a5d",
+    "source": "BBC — Top Stories",
+    "title": "Secret filming exposes dangerous trade in illegal Botox",
+    "summary": "An undercover BBC team catch a fake doctor, a pharmacist and a nurse supplying Botox illegally without checks.",
+    "url": "https://www.bbc.com/news/articles/cn82z3grpd3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T00:45:02Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e7/live/f54fed00-959f-11f0-90f2-5f87cb020b24.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9bd2c2902f",
+    "source": "BBC — Top Stories",
+    "title": "Nicole Kidman and Keith Urban separate after almost 20 years",
+    "summary": "The A-List couple share two children and have been married since 2006.",
+    "url": "https://www.bbc.com/news/articles/cdjz7r8jk3ko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T00:38:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e35d/live/18a45a70-9d89-11f0-b732-8db235f47798.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7f38f1b643",
+    "source": "BBC — Top Stories",
+    "title": "Trump and Netanyahu agree new Gaza peace plan",
+    "summary": "The US and Israeli leaders said they have agreed a peace plan for Gaza and warned Hamas to accept it.",
+    "url": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T00:15:32Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24db/live/d493b3f0-9d8b-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ef53e57a17",
+    "source": "BBC — Top Stories",
+    "title": "Missing Cheryl Grimmer: Family's anger over police decision not to contact witnesses",
+    "summary": "Three came forward after the BBC's Fairy Meadow podcast but police didn't interview them.",
+    "url": "https://www.bbc.com/news/articles/c1ed4g1q52no?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-29T23:29:14Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9212/live/fc3e91f0-9939-11f0-869a-3fa4ad43e8ee.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-dddfc3bdec",
     "source": "The Guardian — UK",
     "title": "Retailers say tax rises could further fuel inflation as shop prices jump",
@@ -14,8 +74,8 @@
   {
     "id": "BBC — Top Stories-f5f883c26e",
     "source": "BBC — Top Stories",
-    "title": "Blair to help oversee Gaza transition under Trump plan",
-    "summary": "The former UK prime minister became the first named member of a new \"Board of Peace\" chaired by Donald Trump.",
+    "title": "Blair would help oversee Gaza transition under Trump plan",
+    "summary": "The former UK prime minister is the first named member of a new \"Board of Peace\" chaired by Donald Trump.",
     "url": "https://www.bbc.com/news/articles/cq5j989107lo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-29T22:21:22Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9224/live/2ad2dc60-9d72-11f0-928c-71dbb8619e94.jpg",
@@ -79,18 +139,6 @@
     "url": "https://www.politico.com/news/2025/09/29/trump-touts-peace-plan-for-israel-hamas-has-not-agreed-00584857?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-29T19:42:08Z",
     "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-8c76410525",
-    "source": "BBC — Top Stories",
-    "title": "Afghanistan telecom blackout as Taliban shuts off internet",
-    "summary": "Phone and internet connections are down nationwide after the Taliban cut fibre-optic connections to prevent \"immorality\".",
-    "url": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T19:20:43Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0203/live/f08a4b00-9d68-11f0-a16f-ff7724a733bf.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -324,30 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-4215a9b9cd",
-    "source": "BBC — Top Stories",
-    "title": "One day of planning went into Covid school closures, inquiry hears",
-    "summary": "This part of the inquiry is looking at the impact the pandemic had on children and young people.",
-    "url": "https://www.bbc.com/news/articles/c9dx6ey37y3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T16:31:19Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e99/live/c82e6b20-97b7-11f0-a1d2-01653bf009aa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a80001a2b7",
-    "source": "BBC — Top Stories",
-    "title": "Japanese brewing giant Asahi hit by cyber-attack",
-    "summary": "The brewer says the attack hit shipping and customer service operations, but its European business is not affected.",
-    "url": "https://www.bbc.com/news/articles/cdjz7l1pxwgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T15:59:18Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a42/live/445def80-9d40-11f0-973f-51ea2fc41b54.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-2d12954411",
     "source": "BBC — Top Stories",
     "title": "Maintenance grants to return for some students",
@@ -427,18 +451,6 @@
     "url": "https://www.theguardian.com/business/2025/sep/29/jaguar-land-rover-cyber-attack-whats-the-latest-news",
     "published": "2025-09-29T14:24:34Z",
     "image_url": "https://i.guim.co.uk/img/media/cb4884e8ca77d34cf19c4699572778fecea92679/288_0_3275_2620/master/3275.jpg?width=140&quality=85&auto=format&fit=max&s=a523d6d089661ec32456599eca762a02",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-18b71b3492",
-    "source": "BBC — Top Stories",
-    "title": "Gaming giant Electronic Arts bought in unprecedented $55bn deal",
-    "summary": "EA is known for making best-selling games such as EA FC, The Sims and Mass Effect.",
-    "url": "https://www.bbc.com/news/articles/cn4w3jzx807o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T14:06:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41bd/live/ab75e000-9d32-11f0-82af-53ec555e619b.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,18 +547,6 @@
     "url": "https://www.theguardian.com/technology/2025/sep/29/labour-plans-consult-live-facial-recognition-roll-out",
     "published": "2025-09-29T12:11:07Z",
     "image_url": "https://i.guim.co.uk/img/media/a61c434a821a04d812db5b9bdbc562327a2a6e0b/322_0_2884_2307/master/2884.jpg?width=140&quality=85&auto=format&fit=max&s=34ce1d1cc39471e410103fd14b44207d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-dfeb8bc0be",
-    "source": "BBC — Top Stories",
-    "title": "Delay online GP booking system or risk patient safety, doctors' union warns",
-    "summary": "GPs are concerned they will be at the end of an \"online triage tsunami\" when the new system launches.",
-    "url": "https://www.bbc.com/news/articles/cqje8dljz7eo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T11:35:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff07/live/5a5e1710-9d22-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
