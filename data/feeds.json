@@ -2,11 +2,23 @@
   {
     "id": "BBC — Top Stories-7f38f1b643",
     "source": "BBC — Top Stories",
-    "title": "Trump and Netanyahu agree new Gaza peace plan",
-    "summary": "The US and Israeli leaders said they have agreed a peace plan for Gaza and warned Hamas to accept it.",
+    "title": "Leaders in Middle East and Europe welcome Trump's Gaza peace plan",
+    "summary": "Donald Trump says if Hamas rejects the plan, Israel will have US backing to \"finish the job of destroying the threat\" from the armed group.",
     "url": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T03:04:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24db/live/d493b3f0-9d8b-11f0-b741-177e3e2c2fc7.jpg",
+    "published": "2025-09-30T04:13:17Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bf8/live/0b64c870-9dae-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-ae3ec2c4d5",
+    "source": "Politico — UK",
+    "title": "Kabinettsklausur: Sinnsuche ohne Grill und Schlafplatz",
+    "summary": "Bei der Kabinettsklausur in der Villa Borsig geht es um Bürokratieabbau, Wettbewerbsfähigkeit und Investitionen. Mit dabei Professor, der in Princeton lehrt. Rasmus Buchsteiner erklärt, was bei dieser Klausur anders läuft als auf den vorherigen und wieso es diesmal nicht bis spät in den Abend gehen wird. Im 200-Sekunden-Interview spricht Ex-Kanzleramtschef Wolfgang Schmidt über die Feinmechanik […]",
+    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/kabinettsklausur-sinnsuche-ohne-grill-und-schlafplatz/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-30T03:36:16Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/23/Berlin-Playbook-Website-Card57.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -182,8 +194,8 @@
   {
     "id": "BBC — Top Stories-8c76410525",
     "source": "BBC — Top Stories",
-    "title": "Afghanistan telecom blackout as Taliban shut off internet",
-    "summary": "Phone and internet connections are down nationwide after the Taliban cut fibre-optic connections to prevent \"immorality\".",
+    "title": "Afghanistan sees telecom shutdown as Taliban cut off internet",
+    "summary": "Phone and internet connections are down nationwide after the Taliban sever fibre-optic connections.",
     "url": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-30T00:59:57Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0203/live/f08a4b00-9d68-11f0-a16f-ff7724a733bf.jpg",
@@ -439,18 +451,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/29/labour-must-fight-right-wing-billionaires-undermining-net-zero-ed-miliband",
     "published": "2025-09-29T17:48:13Z",
     "image_url": "https://i.guim.co.uk/img/media/86e57a5dd0b51cae7e09756a6defcd49f3157130/341_0_4608_3687/master/4608.jpg?width=140&quality=85&auto=format&fit=max&s=88bccecfe5fed0d5a7449c3d877d99dc",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-7566490301",
-    "source": "Politico — UK",
-    "title": "Serbia arrests 11 for stoking tensions in Berlin and Paris attacks with paint and pigs’ heads",
-    "summary": "The interior ministry in Belgrade said the main organizer of the attacks was working on the \"instructions of a foreign intelligence service.\"",
-    "url": "https://www.politico.eu/article/serbia-arrest-11-tension-berlin-paris-paint-pig-head/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-29T17:45:39Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/29/GettyImages-2219339337-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
