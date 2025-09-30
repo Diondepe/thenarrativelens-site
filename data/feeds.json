@@ -1,5 +1,53 @@
 [
   {
+    "id": "BBC — Top Stories-61a5fec78a",
+    "source": "BBC — Top Stories",
+    "title": "'I can kill and not be convicted': The Ukrainian convicts swapping jail for the battlefield",
+    "summary": "Some 10,000 Ukrainian inmates have signed up to escape jail, but not all will live to see freedom.",
+    "url": "https://www.bbc.com/news/articles/cvgjk8z47gko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T05:03:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/256a/live/090d4650-9d1e-11f0-bc17-37f040c2fadb.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f2493ac62b",
+    "source": "BBC — Top Stories",
+    "title": "New online NHS hospital service by 2027, PM to promise",
+    "summary": "Patients will get the option of digital support when GPs refer them but only for certain conditions.",
+    "url": "https://www.bbc.com/news/articles/c9317k58xkjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T05:01:07Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6455/live/28e64820-5825-11f0-988d-abc8933015ea.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-d581158070",
+    "source": "The Guardian — UK",
+    "title": "Biomethane not viable for widespread use in UK home heating, report finds",
+    "summary": "Gas derived from farm waste can meet only 18% of current gas demand by 2050, despite claims of fossil fuel lobbyists, study finds Gas derived from farm waste will never be an alternative to the widespread adoption of heat pumps, research shows, despite the claims of fossil fuel lobbyists. Biomethane, which comes mainly from “digesting” manure, sewage and other organic waste, has been touted as a low-carbon substitute for fossil fuel gas, for use in home heating. Proponents say it would be less disruptive than ripping out the UK’s current gas infrastructure and installing heat pumps. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/sep/30/biomethane-not-viable-for-widespread-use-in-uk-home-heating-report-finds",
+    "published": "2025-09-30T05:00:48Z",
+    "image_url": "https://i.guim.co.uk/img/media/cbe0fe27ea4cab75e5827c3f4280e7ac4973d945/681_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=91b556c8de30f0883e7616c7ea564e10",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-64b6f17e96",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: Labour 'opens door' to tax rise and Trump's Gaza peace plan",
+    "summary": "Labour's tax positions over the forthcoming Budget and a 20-point Gaza peace plan lead the papers.",
+    "url": "https://www.bbc.com/news/articles/c62lklve06ko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T04:22:57Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d92f/live/a0cd5550-9d93-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-7f38f1b643",
     "source": "BBC — Top Stories",
     "title": "Leaders in Middle East and Europe welcome Trump's Gaza peace plan",
@@ -38,7 +86,7 @@
   {
     "id": "BBC — Top Stories-a26995288d",
     "source": "BBC — Top Stories",
-    "title": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
+    "title": "Chinese woman convicted in London after 'world's biggest' bitcoin seizure",
     "summary": "UK police seized cryptocurrency worth more than £5bn after a seven-year probe into a global money laundering web.",
     "url": "https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-30T02:55:36Z",
@@ -62,11 +110,11 @@
   {
     "id": "BBC — Top Stories-3dde40d358",
     "source": "BBC — Top Stories",
-    "title": "Starmer to say Britain 'at a fork in the road'",
+    "title": "Starmer to say Britain 'at a fork in the road' in speech to Labour conference",
     "summary": "British people have a choice between renewal and decline, the PM is to tell the Labour Party conference.",
     "url": "https://www.bbc.com/news/articles/cn4w37x524wo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-30T02:21:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56d8/live/a87f62e0-9d5f-11f0-928c-71dbb8619e94.png",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c802/live/fd333420-9db8-11f0-9637-9931bd7a3435.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -156,18 +204,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a0912f09a2",
-    "source": "BBC — Top Stories",
-    "title": "Ecuador president's aid convoy attacked, officials say",
-    "summary": "UN and EU diplomats were travelling with Daniel Noboa, as tensions with Indigenous groups escalate over fuel subsidy cuts.",
-    "url": "https://www.bbc.com/news/articles/cq8ewdedp1yo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T01:44:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/073f/live/3e3e3100-9d90-11f0-a3db-a5189e449e83.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-0bb12b35a7",
     "source": "BBC — Top Stories",
     "title": "US shutdown looms after Trump and Democrats end meeting without a deal",
@@ -175,30 +211,6 @@
     "url": "https://www.bbc.com/news/articles/c2kn3n315lko?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-30T01:28:36Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4382/live/47d00c30-9d8a-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-64b6f17e96",
-    "source": "BBC — Top Stories",
-    "title": "The Papers: Labour 'opens door' to tax rise and Trump's Gaza peace plan",
-    "summary": "Labour's tax positions over the forthcoming Budget and a 20-point Gaza peace plan lead the papers.",
-    "url": "https://www.bbc.com/news/articles/c62lklve06ko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T01:17:17Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d92f/live/a0cd5550-9d93-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-8c76410525",
-    "source": "BBC — Top Stories",
-    "title": "Afghanistan sees telecom shutdown as Taliban cut off internet",
-    "summary": "Phone and internet connections are down nationwide after the Taliban sever fibre-optic connections.",
-    "url": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T00:59:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0203/live/f08a4b00-9d68-11f0-a16f-ff7724a733bf.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -420,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-86cf97955d",
-    "source": "The Guardian — UK",
-    "title": "Woman admits UK bitcoin fraud charges after ‘world’s largest’ crypto seizure",
-    "summary": "Zhimin Qian pleads guilty after wallets with 61,000 bitcoins, currently worth over £5bn, seized from north London home A woman has been convicted for her role in a multibillion-pound bitcoin fraud after what is thought to have been the world’s largest cryptocurrency seizure. Zhimin Qian, also known as Yadi Zhang, 45, orchestrated a fraud in China between 2014 and 2017 that left 128,000 people out of pocket. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/29/zhimin-qian-admits-uk-bitcoin-charges-after-worlds-largest-crypto-seizure",
-    "published": "2025-09-29T18:01:54Z",
-    "image_url": "https://i.guim.co.uk/img/media/d3384149fa868b5fa9f76cd6068c44dbf9b2c3c8/0_438_2146_1716/master/2146.jpg?width=140&quality=85&auto=format&fit=max&s=bae5494fc87fb0bade4a5dbbbdbf830b",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-203c6d2ddf",
     "source": "The Guardian — UK",
     "title": "Andy Burnham live in conversation – podcast",
@@ -439,6 +439,18 @@
     "url": "https://www.theguardian.com/politics/audio/2025/sep/29/andy-burnham-live-in-conversation-podcast",
     "published": "2025-09-29T17:50:24Z",
     "image_url": "https://i.guim.co.uk/img/media/d030aff14e126f8a7507a064ee2b09ebf9fac2fc/559_398_2003_1602/master/2003.jpg?width=140&quality=85&auto=format&fit=max&s=f05f2140b63b9f2d73cdf056d04cb664",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-85d6fcd552",
+    "source": "The Guardian — UK",
+    "title": "Andy Burnham calls for UK to rejoin EU within his lifetime and rejects claim he is fiscally irresponsible – as it happened",
+    "summary": "Mayor of Greater Manchester says he would have to be ‘wrenched’ out of city and says he wants UK to rejoin EU. This live blog is closed Andy Burnham live in conversation – podcast In her Today interview Rachel Reeves was asked about a FT report saying she will urge business leaders to highlight the risks of a Reform UK government in her speech later. The FT say Reeves will tell the Labour conference. Who is standing up for Britain’s stability. A Labour government that is resolute in cutting interest rates and borrowing or a Reform party that cheered on Liz Truss’ mini-budget? Who is standing up for Britain’s businesses? A Labour government that is forging a closer relationship with our nearest trading partners or a Reform party that talks Britain down and is hungry to cut us off from the world? Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/sep/29/rachel-reeves-labour-party-conference-youth-guarantee-unemployment-uk-politics-live-latest-news",
+    "published": "2025-09-29T17:48:27Z",
+    "image_url": "https://i.guim.co.uk/img/media/4d545c94f4024f1c5c49ee15f0b236d5448cfc1a/329_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4dfc6b5ca2defe39f3366bcf93c06e65",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -547,18 +559,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/29/rachel-reeves-warns-labour-figures-against-ditching-idea-relaxing-fiscal-rules",
     "published": "2025-09-29T13:10:51Z",
     "image_url": "https://i.guim.co.uk/img/media/66079cff449ad7a163b6eba651bbc04ba4c67a28/335_0_3330_2665/master/3330.jpg?width=140&quality=85&auto=format&fit=max&s=c1131bb396a186ef653d0d710c63a7ce",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-e0b90c8846",
-    "source": "The Guardian — UK",
-    "title": "Labour plans to consult on use of live facial recognition before wider roll-out",
-    "summary": "Policing minister says government will ‘put some parameters’ around its deployment in England Labour plans to consult on the use of live facial recognition (LFR) technology before expanding it across England, the new policing minister has told the party’s annual conference. Sarah Jones, a Home Office minister, said the government would “put some parameters” over when and where it could be used in future. Continue reading...",
-    "url": "https://www.theguardian.com/technology/2025/sep/29/labour-plans-consult-live-facial-recognition-roll-out",
-    "published": "2025-09-29T12:11:07Z",
-    "image_url": "https://i.guim.co.uk/img/media/a61c434a821a04d812db5b9bdbc562327a2a6e0b/322_0_2884_2307/master/2884.jpg?width=140&quality=85&auto=format&fit=max&s=34ce1d1cc39471e410103fd14b44207d",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
