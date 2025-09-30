@@ -1,5 +1,29 @@
 [
   {
+    "id": "BBC — Top Stories-7f38f1b643",
+    "source": "BBC — Top Stories",
+    "title": "Trump and Netanyahu agree new Gaza peace plan",
+    "summary": "The US and Israeli leaders said they have agreed a peace plan for Gaza and warned Hamas to accept it.",
+    "url": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T03:04:08Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24db/live/d493b3f0-9d8b-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7a449c93ad",
+    "source": "BBC — Top Stories",
+    "title": "British veterans with hearing loss start legal battle over 'faulty' earplugs",
+    "summary": "Lawyers say the earplugs were used in operations, including in Afghanistan, from 2003 onwards.",
+    "url": "https://www.bbc.com/news/articles/ce84e4egp38o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T03:00:46Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acb6/live/1d5c3410-9d03-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-a26995288d",
     "source": "BBC — Top Stories",
     "title": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
@@ -120,6 +144,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-a0912f09a2",
+    "source": "BBC — Top Stories",
+    "title": "Ecuador president's aid convoy attacked, officials say",
+    "summary": "UN and EU diplomats were travelling with Daniel Noboa, as tensions with Indigenous groups escalate over fuel subsidy cuts.",
+    "url": "https://www.bbc.com/news/articles/cq8ewdedp1yo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T01:44:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/073f/live/3e3e3100-9d90-11f0-a3db-a5189e449e83.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-0bb12b35a7",
     "source": "BBC — Top Stories",
     "title": "US shutdown looms after Trump and Democrats end meeting without a deal",
@@ -146,7 +182,7 @@
   {
     "id": "BBC — Top Stories-8c76410525",
     "source": "BBC — Top Stories",
-    "title": "Afghanistan telecom blackout as Taliban shuts off internet",
+    "title": "Afghanistan telecom blackout as Taliban shut off internet",
     "summary": "Phone and internet connections are down nationwide after the Taliban cut fibre-optic connections to prevent \"immorality\".",
     "url": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-30T00:59:57Z",
@@ -199,18 +235,6 @@
     "url": "https://www.bbc.com/news/articles/cx2npdwl0exo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-30T00:23:13Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9aa/live/ede14d10-9d52-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7f38f1b643",
-    "source": "BBC — Top Stories",
-    "title": "Trump and Netanyahu agree new Gaza peace plan",
-    "summary": "The US and Israeli leaders said they have agreed a peace plan for Gaza and warned Hamas to accept it.",
-    "url": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T00:15:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24db/live/d493b3f0-9d8b-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,18 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-0f7da76106",
-    "source": "BBC — Top Stories",
-    "title": "Trump considering supplying Ukraine with long-range missiles, Vance says",
-    "summary": "Vance's comments come as Ukraine's deputy defence minister tells the BBC Western weapons could force Moscow to start peace talks.",
-    "url": "https://www.bbc.com/news/articles/cly6r1mg34yo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T15:25:30Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1108/live/f4cd3df0-9d3e-11f0-973f-51ea2fc41b54.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-3cb3e520f4",
     "source": "The Guardian — UK",
     "title": "Jaguar Land Rover cyber-attack: what’s the latest news?",
@@ -535,18 +547,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/29/rachel-reeves-warns-labour-figures-against-ditching-idea-relaxing-fiscal-rules",
     "published": "2025-09-29T13:10:51Z",
     "image_url": "https://i.guim.co.uk/img/media/66079cff449ad7a163b6eba651bbc04ba4c67a28/335_0_3330_2665/master/3330.jpg?width=140&quality=85&auto=format&fit=max&s=c1131bb396a186ef653d0d710c63a7ce",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-91cdd4ee5f",
-    "source": "BBC — Top Stories",
-    "title": "JK Rowling dismisses Emma Watson as 'ignorant' over trans rights row",
-    "summary": "\"Emma has so little experience of real life she's ignorant of how ignorant she is,\" Rowling writes.",
-    "url": "https://www.bbc.com/news/articles/cr7012ryvyyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T12:59:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7df4/live/b5654280-9d42-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
