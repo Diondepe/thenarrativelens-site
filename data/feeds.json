@@ -1,12 +1,36 @@
 [
   {
-    "id": "BBC — Top Stories-61a5fec78a",
+    "id": "BBC — Top Stories-8c76410525",
     "source": "BBC — Top Stories",
-    "title": "'I can kill and not be convicted': The Ukrainian convicts swapping jail for the battlefield",
-    "summary": "Some 10,000 Ukrainian inmates have signed up to escape jail, but not all will live to see freedom.",
-    "url": "https://www.bbc.com/news/articles/cvgjk8z47gko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T05:03:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/256a/live/090d4650-9d1e-11f0-bc17-37f040c2fadb.jpg",
+    "title": "Afghanistan sees telecom shutdown as Taliban cut off internet",
+    "summary": "Phone and internet links are down nationwide after the Taliban sever fibre-optic connections.",
+    "url": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T06:58:36Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0203/live/f08a4b00-9d68-11f0-a16f-ff7724a733bf.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6832876a40",
+    "source": "BBC — Top Stories",
+    "title": "Racial tensions fuelled by housing shortage, says minister",
+    "summary": "Gordon Lyons says he can \"fully appreciate and understand\" why some people are concerned.",
+    "url": "https://www.bbc.com/news/articles/c62zl8g9d6wo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T06:51:05Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bfe/live/d6632580-9dc7-11f0-b020-e10d9ef1fa4b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7f38f1b643",
+    "source": "BBC — Top Stories",
+    "title": "Leaders in Middle East and Europe welcome Trump's Gaza peace plan",
+    "summary": "Donald Trump says if Hamas rejects the plan, Israel will have US backing to \"finish the job of destroying the threat\" from the armed group.",
+    "url": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T06:42:55Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bf8/live/0b64c870-9dae-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -17,8 +41,20 @@
     "title": "New online NHS hospital service in England by 2027, PM to promise",
     "summary": "Patients will get the option of digital support when GPs refer them but only for certain conditions.",
     "url": "https://www.bbc.com/news/articles/c9317k58xkjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T05:01:07Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c3/live/e83192d0-9dc0-11f0-997d-ad00b4a7a51e.jpg",
+    "published": "2025-09-30T06:36:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92e1/live/dc7ba250-9dca-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-61a5fec78a",
+    "source": "BBC — Top Stories",
+    "title": "'I can kill and not be convicted': The Ukrainian convicts swapping jail for the battlefield",
+    "summary": "Some 10,000 Ukrainian inmates have signed up to escape jail, but not all will live to see freedom.",
+    "url": "https://www.bbc.com/news/articles/cvgjk8z47gko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T05:03:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/256a/live/090d4650-9d1e-11f0-bc17-37f040c2fadb.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -43,18 +79,6 @@
     "url": "https://www.bbc.com/news/articles/c62lklve06ko?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-30T04:22:57Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d92f/live/a0cd5550-9d93-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7f38f1b643",
-    "source": "BBC — Top Stories",
-    "title": "Leaders in Middle East and Europe welcome Trump's Gaza peace plan",
-    "summary": "Donald Trump says if Hamas rejects the plan, Israel will have US backing to \"finish the job of destroying the threat\" from the armed group.",
-    "url": "https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T04:13:17Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bf8/live/0b64c870-9dae-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -312,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-36f5439945",
-    "source": "BBC — Top Stories",
-    "title": "What we know about Michigan church shooting and arson attack",
-    "summary": "Officials have not yet named a motive for the shooter or the names of the four people killed.",
-    "url": "https://www.bbc.com/news/articles/c62n45v0rz2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T20:43:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f87/live/812e8620-9d5b-11f0-a2ff-8952843450ad.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-3139f8ab8a",
     "source": "The Guardian — UK",
     "title": "Labour to tackle care sector crisis in England with pay increase and new negotiating body",
@@ -487,18 +499,6 @@
     "url": "https://www.bbc.com/news/articles/cjr5zzg1n29o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-29T16:43:39Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e38/live/1447fb70-9d58-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-07e2226d6e",
-    "source": "BBC — Top Stories",
-    "title": "Faisal Islam: Reeves pre-emptively justifies tax rises",
-    "summary": "The chancellor linked tough decisions \"in coming months\" to global headwinds and OBR productivity reassessment.",
-    "url": "https://www.bbc.com/news/articles/cj6x07j9e43o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-29T16:36:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/934d/live/cc4166d0-9d53-11f0-95c2-53ceeaf2aec3.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
