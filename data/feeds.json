@@ -1,5 +1,17 @@
 [
   {
+    "id": "Politico — UK-d70c234fba",
+    "source": "Politico — UK",
+    "title": "Bridget Phillipson calls out ‘insulting’ campaign of deputy leadership rival",
+    "summary": "Bridget Phillipson, the Education Secretary, has hit back at her Labour deputy leadership rival, Lucy Powell, by suggesting she is “insulting” Angela Rayner and John Prescott in her campaign.",
+    "url": "https://www.politico.eu/article/bridget-phillipson-leadership-rival-education-secretary-uk-politics-labour/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-09-30T20:20:24Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/30/GettyImages-2237852810-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-5c3ea40c5b",
     "source": "Politico — UK",
     "title": "Britain’s Labour Party decides to let Keir be Keir — whoever that may be",
@@ -15,7 +27,7 @@
     "id": "The Guardian — UK-e99e5d3c32",
     "source": "The Guardian — UK",
     "title": "Starmer brings the steel – and draws up battle lines with Reform UK",
-    "summary": "Prime minister and party leader answers his critics in conference speech but the real challenges still lie ahead When Keir Starmer sat in the chair for his broadcast interview at the start of the Labour conference on Sunday, he already had a clear idea of what he wanted to pull off during the four-day political gathering in Liverpool. With the historic Liver Building behind him, he told the BBC’s Laura Kuenssberg: “At the end of it people can agree or disagree, but they can’t say they don’t know what we stand for, what this government is trying to achieve.” Continue reading...",
+    "summary": "Prime minister answers his critics in conference speech but the real challenges still lie ahead When Keir Starmer sat in the chair for his broadcast interview at the start of the Labour conference on Sunday, he already had a clear idea of what he wanted to pull off during the four-day political gathering in Liverpool. With the historic Liver Building behind him, he told the BBC’s Laura Kuenssberg: “At the end of it people can agree or disagree, but they can’t say they don’t know what we stand for, what this government is trying to achieve.” Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/sep/30/starmer-brings-the-steel-and-draws-up-battle-lines-with-reform-uk",
     "published": "2025-09-30T19:46:26Z",
     "image_url": "https://i.guim.co.uk/img/media/a30d7840857631559e32c25c4ade0329842b28f1/396_0_6990_5592/master/6990.jpg?width=140&quality=85&auto=format&fit=max&s=207ae580bbbb3f3184b076013ed4e545",
@@ -110,7 +122,7 @@
   {
     "id": "Politico — UK-61afd940f3",
     "source": "Politico — UK",
-    "title": "Trump will wield his ‘stick’ to punish Putin, says Finland’s President",
+    "title": "Trump will wield his ‘stick’ to punish Putin, says Finland’s president",
     "summary": "Alexander Stubb, Trump’s European golf buddy, says America is hardening its support for Ukraine.",
     "url": "https://www.politico.eu/article/donald-trump-russia-vladimir-putin-finland-alexander-stubb-war-in-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-09-30T18:33:33Z",
@@ -312,18 +324,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-1aacea3b3c",
-    "source": "Politico — UK",
-    "title": "UK trade secretary takes dig at pharma sector amid crunch price talks",
-    "summary": "The U.K. government is locked in talks with companies over NHS drug pricing.",
-    "url": "https://www.politico.eu/article/uk-trade-secretary-peter-kyle-takes-dig-at-pharma-sector-amid-crunch-price-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-09-30T16:36:27Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/30/13384469-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-2bc476ee69",
     "source": "The Guardian — UK",
     "title": "Glasgow University accused of failing student who killed himself on graduation day",
@@ -494,7 +494,7 @@
   {
     "id": "BBC — Top Stories-447f327b38",
     "source": "BBC — Top Stories",
-    "title": "Afghan women lose their 'last hope' as Taliban shuts down internet",
+    "title": "Afghan women lose their 'last hope' as Taliban shut down internet",
     "summary": "For many women, the internet was their last resource. An internet shutdown threatens to end this.",
     "url": "https://www.bbc.com/news/articles/c98dmq03n92o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-30T08:24:05Z",
