@@ -1,9 +1,45 @@
 [
   {
+    "id": "Politico — UK-2b928bb9bc",
+    "source": "Politico — UK",
+    "title": "Von der Leyen and Costa psychodrama sees them struggle in Copenhagen",
+    "summary": "With the EU working out how to confront the threat from Russia, Brussels' most senior officials had a couple of ideas. Neither of them found approval at Wednesday's summit.",
+    "url": "https://www.politico.eu/article/eu-ursula-von-der-leyen-antonio-costa-psychodrama-struggle-copenhagen-commission-leaders/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-01T21:54:59Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2238160980.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-1234698f85",
+    "source": "The Guardian — UK",
+    "title": "Starmer to end asylum ‘golden ticket’ of resettlement and family reunion rights",
+    "summary": "People granted asylum will have to earn right to invite family in plan charities call ‘straight from populist playbook’ People granted asylum will no longer be given “the golden ticket” of resettlement and family reunion rights, Keir Starmer said, amid deepening concerns from charities that his words are demonising refugees. As the prime minister prepared to discuss illegal migration with European leaders, No 10 outlined plans to strip successful claimants of the right to automatically invite spouses and children to join them. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/01/starmer-to-end-asylum-golden-ticket-of-resettlement-and-family-reunion-rights",
+    "published": "2025-10-01T21:30:30Z",
+    "image_url": "https://i.guim.co.uk/img/media/2281326e807368ec8d05bc6d552794debcf9232b/86_0_3226_2581/master/3226.jpg?width=140&quality=85&auto=format&fit=max&s=e4d5344049dfb279eda33a611ca924a4",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f77fbe132e",
+    "source": "BBC — Top Stories",
+    "title": "Refugees to face longer route to UK settlement rights",
+    "summary": "Details of the new conditions refugees will have to meet are to be set out later in the autumn.",
+    "url": "https://www.bbc.com/news/articles/cddmpr21yr2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T21:30:05Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c75/live/79b93320-9ef2-11f0-966a-39edada3cd47.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-88fdee0b30",
     "source": "BBC — Top Stories",
     "title": "Israeli naval ships intercept Gaza-bound flotilla",
-    "summary": "Climate activist Greta Thunberg is among activists on the Global Sumud Flotilla being taken to a nearby port.",
+    "summary": "Climate activist Greta Thunberg is among activists on the Global Sumud Flotilla being taken to an Israeli port.",
     "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-01T21:11:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d68/live/e0a5e430-9f00-11f0-bf4d-3be239c29483.jpg",
@@ -360,30 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-bef00e9692",
-    "source": "The Guardian — UK",
-    "title": "Arbitrary detention victims urge Starmer to press Modi on jailed British Sikh",
-    "summary": "Activist Jagtar Singh Johal has been held in Indian prison for nearly eight years without full trial The sisters of the British-Egyptian human rights campaigner Alaa Abd el-Fattah have intervened for the first time since his release from prison in Egypt to call on Keir Starmer to push Narendra Modi to free a British Sikh activist when he meets the Indian prime minister next week. Jagtar Singh Johal, from Dumbarton, has been held in an Indian jail for nearly eight years without facing full trial in what his supporters say is an arbitrary and egregious denial of justice by a British ally. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/01/keir-starmer-narendra-modi-india-jagtar-singh-johal-release",
-    "published": "2025-10-01T15:47:31Z",
-    "image_url": "https://i.guim.co.uk/img/media/7cbb550305c6d90f879b31bd2a4ec6c5f04efc26/0_196_945_756/master/945.jpg?width=140&quality=85&auto=format&fit=max&s=c5f034dbe9f3eef5fca0aa5932139299",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-8372b940d5",
-    "source": "Politico — UK",
-    "title": "Le Pen’s party lands top jobs in French parliament with assist from Macron’s allies",
-    "summary": "The National Rally had previously been locked out of leadership roles in the National Assembly.",
-    "url": "https://www.politico.eu/article/national-rally-france-parliament-marine-le-pen-sebastien-chenu-helene-laporte/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-01T15:26:11Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2215909370.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-9c309979d0",
     "source": "The Guardian — UK",
     "title": "Labour considering charging workers for employment tribunal claims, sources say",
@@ -415,18 +427,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/01/uk-labour-party-members-lucy-powell-deputy-leadership-hustings",
     "published": "2025-10-01T14:30:07Z",
     "image_url": "https://i.guim.co.uk/img/media/3048f8b315239bb72f561c253447a032fbea0f9d/552_580_2821_2258/master/2821.jpg?width=140&quality=85&auto=format&fit=max&s=7783f64fc96b85ac94ba5ab4ec0e75b0",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-2d7572e7c8",
-    "source": "BBC — Top Stories",
-    "title": "Government issues new data demand for UK Apple users",
-    "summary": "It is the latest development in a privacy row which has pitted the UK against the tech giant and the Trump administration.",
-    "url": "https://www.bbc.com/news/articles/c740r0m4mzjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T14:26:29Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c43/live/45f4f830-9eca-11f0-8281-d137a399b095.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
