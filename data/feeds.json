@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-88fdee0b30",
+    "source": "BBC — Top Stories",
+    "title": "Israeli navy tells Gaza flotilla to change course as activists say boats intercepted",
+    "summary": "The Global Sumud Flotilla says military personnel had boarded some vessels.",
+    "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T19:50:39Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d68/live/e0a5e430-9f00-11f0-bf4d-3be239c29483.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-a9b1d505aa",
+    "source": "The Guardian — UK",
+    "title": "Met plunged into crisis amid fresh claims of misogyny and racism",
+    "summary": "Commissioner Mark Rowley says prejudice has ‘put down deep roots’ within force after BBC Panorama investigation ​Metropolitan police officers have been recorded calling for immigrants to be shot, bragging about excessive force, being dismissive about a rape complaint and making anti-Muslim and anti-women comments. The BBC Panorama programme followed seven months of undercover filming at Charing Cross police station. Panorama: Undercover in the Police is on BBC One at 9pm on Wednesday and is available on iPlayer Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/01/met-plunged-into-crisis-amid-fresh-claims-of-bigotry-and-excessive-force",
+    "published": "2025-10-01T19:46:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/34083fff3d2abc7fef0a4416c580b72bc5a343e6/405_0_2330_1864/master/2330.jpg?width=140&quality=85&auto=format&fit=max&s=e3265fabc0812fb4e0fbc9abe42e9cd1",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c5eefba452",
+    "source": "BBC — Top Stories",
+    "title": "Met chief apologises for 'reprehensible' behaviour of police officers",
+    "summary": "Sir Mark Rowley 's comments follow a BBC Panorama undercover report about Charing Cross police station.",
+    "url": "https://www.bbc.com/news/articles/c1mx28gyl29o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T19:44:03Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd69/live/0f3201f0-9eff-11f0-bf4d-3be239c29483.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-aee5c9553d",
+    "source": "Politico — UK",
+    "title": "Trump delaying triple-digit pharma tariffs to negotiate drug price deals",
+    "summary": "Trump threatened 100 percent tariffs on certain brand-name drugs last week. The administration is using the threat to secure drug pricing deals with major pharma companies.",
+    "url": "https://www.politico.com/news/2025/10/01/trump-delays-triple-digit-pharma-tariffs-to-negotiate-drug-price-deals-00590051?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-01T19:30:56Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-b4afba5903",
+    "source": "Politico — UK",
+    "title": "Israel intercepts Gaza-bound aid flotilla carrying Greta Thunberg and MEPs",
+    "summary": "The flotilla set sail in August and has pro-Palestine activists from around the world on board.",
+    "url": "https://www.politico.eu/article/israel-global-sumud-flotilla-gaza-aid-greta-thunberg-rima-hassan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-01T19:16:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2237565637-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-ac004bcc38",
     "source": "Politico — UK",
     "title": "German police arrest 3 accused of plotting attacks for Hamas",
@@ -7,18 +67,6 @@
     "url": "https://www.politico.eu/article/hamas-arrests-germany-firearms-terrorism/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-01T18:59:10Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2237923438-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-fde770fb82",
-    "source": "BBC — Top Stories",
-    "title": "Germany arrests suspected Hamas members over alleged attack plot",
-    "summary": "The three men are accused of planning attacks on Jewish and Israeli institutions in Germany, federal prosecutors says.",
-    "url": "https://www.bbc.com/news/articles/cgknpzrkyvno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T18:37:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6756/live/6498a8e0-9ede-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -204,18 +252,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-a9b1d505aa",
-    "source": "The Guardian — UK",
-    "title": "Met plunged into crisis amid fresh claims of bigotry and excessive force",
-    "summary": "Commissioner Mark Rowley says prejudice has ‘put down deep roots’ within force after BBC Panorama investigation ​The head of the Metropolitan police, Sir Mark Rowley, has described the force as having a “toxic legacy” of prejudice that has “put down deep roots”, as allegations of bigotry and excessive force were due to be aired on national television. The BBC Panorama programme, which airs at 9pm on Wednesday, follows undercover filming capturing allegations including misogyny, anti-Muslim comments and other alleged wrongdoing at Charing Cross police station. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/01/met-plunged-into-crisis-amid-fresh-claims-of-bigotry-and-excessive-force",
-    "published": "2025-10-01T17:00:25Z",
-    "image_url": "https://i.guim.co.uk/img/media/34083fff3d2abc7fef0a4416c580b72bc5a343e6/405_0_2330_1864/master/2330.jpg?width=140&quality=85&auto=format&fit=max&s=e3265fabc0812fb4e0fbc9abe42e9cd1",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-3232c70a1c",
     "source": "BBC — Top Stories",
     "title": "Pope Leo condemns climate change critics",
@@ -246,7 +282,7 @@
     "summary": "The defence minister warns Palestinians to leave, saying those remaining will be considered \"terrorists and supporters of terror\".",
     "url": "https://www.bbc.com/news/articles/cvgnznkjrx6o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-01T16:38:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c87/live/b350dd20-9ed1-11f0-b741-177e3e2c2fc7.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd67/live/8c368e00-9eff-11f0-bf4d-3be239c29483.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -348,18 +384,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-0d992c0871",
-    "source": "Politico — UK",
-    "title": "Trump vows to defend Qatar with Article 5-style guarantee",
-    "summary": "The U.S. is providing a security guarantee akin to NATO’s Article V.",
-    "url": "https://www.politico.com/news/2025/10/01/trump-promises-to-defend-qatar-in-wake-of-israeli-missile-strikes-00589638?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-01T14:43:54Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-58e194288b",
     "source": "BBC — Top Stories",
     "title": "Baroness Mone-linked company ordered to pay £122m over PPE contract",
@@ -415,18 +439,6 @@
     "url": "https://www.theguardian.com/environment/2025/oct/01/labour-fracking-ban-end-practice-in-uk-for-good",
     "published": "2025-10-01T14:07:59Z",
     "image_url": "https://i.guim.co.uk/img/media/b6edc40706af602ce2e233958acd8e4d79e20766/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e013a22d24d085654f810f411c90bab3",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-bfe0c730a2",
-    "source": "Politico — UK",
-    "title": "Macron doesn’t love the EU’s drone wall idea",
-    "summary": "The debate highlights a divide between frontline EU countries and those further from the Russian and Ukrainian borders.",
-    "url": "https://www.politico.eu/article/france-emmanuel-macron-eu-drone-wall/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-01T13:21:27Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2238060362-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -499,18 +511,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/01/nigel-farage-what-are-schoolboy-racism-claims-why-have-they-resurfaced",
     "published": "2025-10-01T10:53:31Z",
     "image_url": "https://i.guim.co.uk/img/media/ecc34d0a5745e03483a8fd2a5d30bd8a91a13a16/909_0_4531_3624/master/4531.jpg?width=140&quality=85&auto=format&fit=max&s=d4399bc140685267b14ed3d246e01a63",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-994bd51ef9",
-    "source": "BBC — Top Stories",
-    "title": "PM tells BBC he wants to change how international law used in asylum cases",
-    "summary": "The UK needs to \"look again\" at how to tackle mass migration, but those genuinely fleeing persecution should still be given asylum, the PM says.",
-    "url": "https://www.bbc.com/news/articles/cd72p30v574o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T10:05:47Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b941/live/be603cf0-9e91-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
