@@ -1,12 +1,12 @@
 [
   {
-    "id": "Politico — UK-1f3d57fcb6",
+    "id": "Politico — UK-ac004bcc38",
     "source": "Politico — UK",
-    "title": "Das Update zu den Drohnen-Vorfällen über Deutschland",
-    "summary": "Drohnen über dem Nord-Ostsee-Kanal, über Kiel und auch über Mecklenburg-Vorpommern: Ausgespäht wurden mutmaßlich eine Marinewerft, ein Kraftwerk, Gebäude der Landesregierung von Schleswig-Holstein und weitere kritische Infrastruktur. Land und Bund haben den Vorgang tagelang unter der Decke gehalten. Matthias Gebauer vom SPIEGEL erklärt im Gespräch mit Rixa Fürsen, was genau vorgefallen ist – und warum Land […]",
-    "url": "https://www.politico.eu/podcast/eu-confidential/das-update-zu-den-drohnen-vorfallen-uber-deutschland/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-01T18:03:59Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/19/Berlin-Playbook-Website-card-1-1.png",
+    "title": "German police arrest 3 accused of plotting attacks for Hamas",
+    "summary": "The suspects face charges including membership in a foreign terrorist organization and were allegedly planning assassinations.",
+    "url": "https://www.politico.eu/article/hamas-arrests-germany-firearms-terrorism/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-01T18:59:10Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2237923438-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -17,8 +17,80 @@
     "title": "Germany arrests suspected Hamas members over alleged attack plot",
     "summary": "The three men are accused of planning attacks on Jewish and Israeli institutions in Germany, federal prosecutors says.",
     "url": "https://www.bbc.com/news/articles/cgknpzrkyvno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T17:49:46Z",
+    "published": "2025-10-01T18:37:32Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6756/live/6498a8e0-9ede-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-359878b4c8",
+    "source": "Politico — UK",
+    "title": "I’m ‘turning around a distressed asset’, says Kemi Badenoch",
+    "summary": "Conservative leader insists her party should ‘hold its nerve’ amid plunging poll ratings and defections.",
+    "url": "https://www.politico.eu/article/kemi-badenoch-uk-conservative-party/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-01T18:34:32Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2234467798-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-801926f5b4",
+    "source": "BBC — Top Stories",
+    "title": "William may have been target of Mail publisher blagging, Harry's lawyer says",
+    "summary": "The Duke of Sussex is one of seven high-profile people bringing legal action against Daily Mail publisher.",
+    "url": "https://www.bbc.com/news/articles/c07v2dmzv1jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T18:30:40Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d927/live/2db64bf0-9ee0-11f0-98b1-59d49dad95e6.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-bbcf2ece78",
+    "source": "The Guardian — UK",
+    "title": "Jaguar Land Rover parts makers asked by banks to put up homes as loan security after hack",
+    "summary": "Lobby group says urgent government intervention required as small suppliers on brink of collapse during shutdown Small companies who supply parts used in Jaguar Land Rover cars have been asked by banks to put up their family homes as personal guarantees in order to access emergency loans, with no direct UK government support on offer for parts makers a month after the carmaker was hit by a crippling cyber-attack. JLR, Britain’s biggest automotive employer, is considering making advance payments to top-tier suppliers as it tries to restart production after the hack , but smaller parts makers warn they are on the brink of collapse without urgent cash injections. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/01/jaguar-land-rover-suppliers-asked-to-put-up-homes-as-loan-security-after-hack",
+    "published": "2025-10-01T18:27:03Z",
+    "image_url": "https://i.guim.co.uk/img/media/3a5b0333e3cdae13d1c7b449e722660775a06eea/460_0_4818_3856/master/4818.jpg?width=140&quality=85&auto=format&fit=max&s=377ed6fe4a8eef4fb78f63d1830bb081",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-f05e3dc26a",
+    "source": "The Guardian — UK",
+    "title": "Jane Goodall, world-renowned primatologist, dies aged 91",
+    "summary": "Jane Goodall Institute says ‘tireless advocate’ for natural world died in California during US speaking tour The world-renowned primatologist Jane Goodall has died at the age of 91, her institute has said. The Jane Goodall Institute announced that she had passed away of natural causes while in California as part of a US speaking tour. Continue reading...",
+    "url": "https://www.theguardian.com/science/2025/oct/01/jane-goodall-world-renowned-primatologist-dies",
+    "published": "2025-10-01T18:26:56Z",
+    "image_url": "https://i.guim.co.uk/img/media/030515ede18a24fd1d75379583517ef5c79e5b45/691_0_4020_3216/master/4020.jpg?width=140&quality=85&auto=format&fit=max&s=7e2ae5aa9c9d8c8c19d3f83645af559d",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7d5ab0e1ae",
+    "source": "BBC — Top Stories",
+    "title": "Four ways US government shutdown could end",
+    "summary": "At some point, public pressure and political pain will see one side yield to bring this latest US government shutdown to an end.",
+    "url": "https://www.bbc.com/news/articles/cdr6pnky7vyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T18:25:22Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/843d/live/f62328b0-9ef9-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-1f3d57fcb6",
+    "source": "Politico — UK",
+    "title": "Das Update zu den Drohnen-Vorfällen über Deutschland",
+    "summary": "Drohnen über dem Nord-Ostsee-Kanal, über Kiel und auch über Mecklenburg-Vorpommern: Ausgespäht wurden mutmaßlich eine Marinewerft, ein Kraftwerk, Gebäude der Landesregierung von Schleswig-Holstein und weitere kritische Infrastruktur. Land und Bund haben den Vorgang tagelang unter der Decke gehalten. Matthias Gebauer vom SPIEGEL erklärt im Gespräch mit Rixa Fürsen, was genau vorgefallen ist – und warum Land […]",
+    "url": "https://www.politico.eu/podcast/eu-confidential/das-update-zu-den-drohnen-vorfallen-uber-deutschland/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-01T18:03:59Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/06/19/Berlin-Playbook-Website-card-1-1.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -156,18 +228,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-bbcf2ece78",
-    "source": "The Guardian — UK",
-    "title": "Jaguar Land Rover suppliers asked to put up homes as loan security after hack",
-    "summary": "Lobby group says urgent government intervention required as small suppliers on brink of collapse during shutdown Small suppliers to Jaguar Land Rover have been asked to put up their family homes as personal guarantees in order to access emergency loans, with no direct UK government support on offer for parts makers a month after the carmaker was hit by a crippling cyber-attack. JLR, Britain’s biggest automotive employer, is considering making advance payments to top-tier suppliers as it tries to restart production after the hack , but smaller parts makers warn they are on the brink of collapse without urgent cash injections. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/01/jaguar-land-rover-suppliers-asked-to-put-up-homes-as-loan-security-after-hack",
-    "published": "2025-10-01T16:45:34Z",
-    "image_url": "https://i.guim.co.uk/img/media/3a5b0333e3cdae13d1c7b449e722660775a06eea/460_0_4818_3856/master/4818.jpg?width=140&quality=85&auto=format&fit=max&s=377ed6fe4a8eef4fb78f63d1830bb081",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-1c78d97b90",
     "source": "Politico — UK",
     "title": "Drones buzz over military facilities in Germany, minister confirms",
@@ -187,6 +247,18 @@
     "url": "https://www.bbc.com/news/articles/cvgnznkjrx6o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-01T16:38:26Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c87/live/b350dd20-9ed1-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-18eaf2a029",
+    "source": "BBC — Top Stories",
+    "title": "A-listers watch on as Anderson unveils Dior womenswear debut",
+    "summary": "Anderson is known for his innovative styles having previously designed outfits for Rihanna and Ariana Grande.",
+    "url": "https://www.bbc.com/news/articles/czxw2enrkrjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T16:30:38Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3922/live/11a2bd30-9ee6-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -240,30 +312,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-43971c957e",
-    "source": "BBC — Top Stories",
-    "title": "Toy maker Jellycat plans to pay owners £110m after profits double",
-    "summary": "Jellycat's viral cuddly toys are sold all over the world and made the company £139m last year.",
-    "url": "https://www.bbc.com/news/articles/c98dr6yj8dlo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T15:34:24Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58e8/live/f3c5ecb0-9ed6-11f0-9cc3-55b0375a170c.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-03d67ffb71",
-    "source": "The Guardian — UK",
-    "title": "Nature boys and girls – here’s your chance to get published in the Guardian",
-    "summary": "Our wildlife series Young Country Diary is looking for articles written by children, about their autumn encounters with nature Once again, the Young Country Diary series is open for submissions! Every three months, as the UK enters a new season, we ask you to send us an article written by a child aged 8-14. The article needs to be about a recent encounter they’ve had with nature – whether it’s a bug under some leaves, a rutting stag or a garden bird. Continue reading...",
-    "url": "https://www.theguardian.com/environment/2021/aug/27/nature-lovers-guardian-young-country-diary-writers",
-    "published": "2025-10-01T15:30:46Z",
-    "image_url": "https://i.guim.co.uk/img/media/38bef4bb918b83bd07ffa851212b0c816b49450c/0_33_480_384/master/480.jpg?width=140&quality=85&auto=format&fit=max&s=71981a549f2b37ef43e9066d971d67c9",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-8372b940d5",
     "source": "Politico — UK",
     "title": "Le Pen’s party lands top jobs in French parliament with assist from Macron’s allies",
@@ -283,6 +331,18 @@
     "url": "https://www.politico.eu/article/commission-rejects-hungarian-push-unblock-550-million-relations-turn-sour/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-01T15:06:05Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/Orban-Copenhagen-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-9c309979d0",
+    "source": "The Guardian — UK",
+    "title": "Labour considering charging workers for employment tribunal claims, sources say",
+    "summary": "Exclusive: Reintroducing tribunal fees would be ‘a gift for bad bosses’, says TUC chief Paul Nowak Workers could be charged a fee to take their bosses to court under plans being explored by Labour as it faces pressure from businesses lobbying to water down its landmark changes to employment rights. In a development described by unions as a “disaster”, sources in Westminster said ministers were looking at reviving a proposal made by the last Conservative government to impose fees on employment tribunal claims. Continue reading...",
+    "url": "https://www.theguardian.com/money/2025/oct/01/labour-considering-charging-workers-for-employment-tribunal-claims-sources-say",
+    "published": "2025-10-01T15:00:27Z",
+    "image_url": "https://i.guim.co.uk/img/media/53780ed780064419d6e17f2732be998a52c5cc12/377_198_3152_2521/master/3152.jpg?width=140&quality=85&auto=format&fit=max&s=21c8d2c779535960d47a05313a8580e1",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -360,18 +420,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-8f1184cc02",
-    "source": "BBC — Top Stories",
-    "title": "British man, 23, faces drug charges in Thailand",
-    "summary": "George Wilson from Buckinghamshire is accused of being found with a suitcase containing crystal meth.",
-    "url": "https://www.bbc.com/news/articles/czdj2vdrpv1o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T13:47:35Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fde/live/fefd54d0-9ec0-11f0-85b6-27ff7e482819.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-bfe0c730a2",
     "source": "Politico — UK",
     "title": "Macron doesn’t love the EU’s drone wall idea",
@@ -403,30 +451,6 @@
     "url": "https://www.bbc.com/news/articles/c36k2595k69o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-01T12:52:11Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2076/live/e2ba9430-9ed0-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-2ae353edab",
-    "source": "Politico — UK",
-    "title": "EU must be defense power, not just a trade bloc, Finnish PM says",
-    "summary": "\"We are worried — I am very worried — and now is the time here to take action,\" Petteri Orpo told POLITICO.",
-    "url": "https://www.politico.eu/article/eu-must-be-defense-power-not-just-trade-bloc-finnish-pm-orpo-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-01T12:08:25Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/Petteri-Orpo.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-e72cc9d0b2",
-    "source": "Politico — UK",
-    "title": "UK government minister to Musk: ‘Get the hell out of our politics’",
-    "summary": "Energy secretary Ed Miliband took direct aim at the billionaire, who's called for the Labour government to be brought down.",
-    "url": "https://www.politico.eu/article/uk-government-ed-miliband-elon-musk-get-out-of-our-country/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-01T12:04:09Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/13389909-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,25 +504,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-50fc22780f",
+    "id": "BBC — Top Stories-994bd51ef9",
     "source": "BBC — Top Stories",
-    "title": "Why the US government has shut down and what happens now",
-    "summary": "Funding has been cut off after Republicans and Democrats failed to agree a way forward on a spending bill.",
-    "url": "https://www.bbc.com/news/articles/crrj1znp0pyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T10:48:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7af/live/b2c540c0-9e96-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-c02e6b7672",
-    "source": "The Guardian — UK",
-    "title": "VIP lanes and 25m faulty gowns: what PPE Medpro trial reveals about Tory response to Covid",
-    "summary": "Case against Michelle Mone-linked company showed pressure to award contracts to those with political connections UK government wins £122m pandemic case against Michelle Mone-linked firm over faulty PPE Opening the high-stakes trial in a workaday, office-like courtroom in June, the government’s barrister Paul Stanley KC sought to manage expectations for the media crowd in the folding seats at the back. The case, he said, was not going to focus on the role of Michelle Mone, the Conservative peer who helped secure multimillion pound personal protective equipment (PPE) contracts for her husband’s company during the Covid pandemic. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/01/vip-lanes-and-25m-faulty-gowns-what-ppe-medro-trial-reveals-about-tory-response-to-covid",
-    "published": "2025-10-01T09:45:54Z",
-    "image_url": "https://i.guim.co.uk/img/media/bc96aa660f6adcf1fdcfb7b6bdaf47fcad263d88/476_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=19777af4accb310d9ac85ebc147d0630",
+    "title": "PM tells BBC he wants to change how international law used in asylum cases",
+    "summary": "The UK needs to \"look again\" at how to tackle mass migration, but those genuinely fleeing persecution should still be given asylum, the PM says.",
+    "url": "https://www.bbc.com/news/articles/cd72p30v574o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T10:05:47Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b941/live/be603cf0-9e91-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -559,18 +571,6 @@
     "url": "https://www.theguardian.com/news/audio/2025/oct/01/starmer-takes-aim-at-farage-podcast",
     "published": "2025-10-01T02:00:59Z",
     "image_url": "https://i.guim.co.uk/img/media/d1ec8f9eb166b401cf02ddd193f7e593aadf5a78/275_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=b12a2b52714c66d7a5251867323af969",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-cea4918ae1",
-    "source": "BBC — Top Stories",
-    "title": "Steve Coogan: 'I don't want to live with Alan but I do like to visit him'",
-    "summary": "Comedy character Alan Partridge returns to investigate his own mental health and that of the nation.",
-    "url": "https://www.bbc.com/news/articles/cr747l04yr8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T01:06:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/864e/live/16450000-92fc-11f0-ba89-ad7477f3387f.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
