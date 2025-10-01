@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-1b3d99df2e",
+    "source": "BBC — Top Stories",
+    "title": "Surgeon offered womb removals in 'minutes' without proper examination, women say",
+    "summary": "Only \"good fortune\" prevented ex-gynaecologist Daniel Hay from causing more harm to women, a report says.",
+    "url": "https://www.bbc.com/news/articles/ckgqr7nnzw1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T01:35:27Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58c0/live/5fbceb80-9e0f-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b7a4e0be2f",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'Starmer takes on Farage' and 'Two-child benefit cap will be lifted'",
+    "summary": "Sir Keir Starmer's conference speech and the two-child benefit cap make headlines in Wednesday's papers.",
+    "url": "https://www.bbc.com/news/articles/cm28p44z521o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T01:01:29Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a08/live/506197e0-9e54-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b8a9cec5a5",
+    "source": "BBC — Top Stories",
+    "title": "Anne visits Ukraine to support children 'traumatised' by war",
+    "summary": "She meets children displaced from their families and visited a memorial for young people killed during the war.",
+    "url": "https://www.bbc.com/news/articles/cgrqlrjgd51o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T00:17:36Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ac8/live/d2776290-9e5a-11f0-84a5-3b487a8b7460.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ca601599f1",
+    "source": "BBC — Top Stories",
+    "title": "AO boss tells BBC: We're a British success story – the UK should be turbocharging us",
+    "summary": "John Roberts, the founder of AO and so-called kitchen king, says tax rises are putting \"grit\" into businesses.",
+    "url": "https://www.bbc.com/news/articles/c8exj892085o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T23:28:26Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26c5/live/f9fe0080-9e0a-11f0-bc74-c938242ac6b1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-cf3e35faf0",
+    "source": "BBC — Top Stories",
+    "title": "European leaders meet in high-security Danish summit after drone disruption",
+    "summary": "The EU is under pressure to boost defence after Russian air space incursions and after drones targeted Danish airports.",
+    "url": "https://www.bbc.com/news/articles/cp8jdene16ro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T23:21:17Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b62/live/ba18b790-9e36-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-3f4a9fdfa7",
     "source": "The Guardian — UK",
     "title": "Buy now, pay later use exploding among older Britons, data shows",
@@ -31,6 +91,30 @@
     "url": "https://www.theguardian.com/business/2025/oct/01/uk-business-confidence-falls-record-low-employment-costs",
     "published": "2025-09-30T23:01:55Z",
     "image_url": "https://i.guim.co.uk/img/media/af0ced85a7514c25226f66d26fe5c1b55d9f90b3/379_0_2521_2017/master/2521.jpg?width=140&quality=85&auto=format&fit=max&s=151a58caaae55b946e9d16012d574a98",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ed09054f09",
+    "source": "BBC — Top Stories",
+    "title": "What could happen during the US government shutdown?",
+    "summary": "Government funding will be cut off after Republicans and Democrats failed to agree on a spending bill.",
+    "url": "https://www.bbc.com/news/videos/ce32pz0gw34o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T22:57:08Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee8d/live/32dbf5d0-9e4a-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d59bb5a5d6",
+    "source": "BBC — Top Stories",
+    "title": "I went undercover as a cleaner at a failing care home. Here's what I witnessed",
+    "summary": "Catriona MacPhee worked in a Highland care home for seven weeks as part of BBC Disclosure investigation.",
+    "url": "https://www.bbc.com/news/articles/c4g78yj2v2go?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T21:57:46Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac4b/live/45906410-9e48-11f0-88cf-e92b66f5aaae.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -432,30 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-9f65366218",
-    "source": "BBC — Top Stories",
-    "title": "Scientists make embryos from human skin DNA for first time",
-    "summary": "US scientists testing the technique say it could help people overcome infertility and potentially allow same-sex couples to have a genetically related child.",
-    "url": "https://www.bbc.com/news/articles/c4g2vyee0zlo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T15:01:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19ca/live/e7051760-9dd9-11f0-9f23-2534d63ace40.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-218e2a37b7",
-    "source": "BBC — Top Stories",
-    "title": "Migrant jailed for attacking staff at Epping asylum hotel",
-    "summary": "Mohammed Sharwarq's barrister tells a court he wishes to leave the UK and return to Syria.",
-    "url": "https://www.bbc.com/news/articles/c4gzxv7lxw8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T14:50:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f53/live/83432fe0-9e0c-11f0-bc74-c938242ac6b1.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-e9ce8e3424",
     "source": "BBC — Top Stories",
     "title": "For Netanyahu, avoiding a peace deal may now be worse than agreeing one",
@@ -480,42 +540,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-2f51edc97e",
-    "source": "BBC — Top Stories",
-    "title": "Covid cases rising with new variants Nimbus and Stratus",
-    "summary": "Unwell with a bad throat and temperature? You may have one of the new Covid strains circulating this autumn.",
-    "url": "https://www.bbc.com/news/articles/c3rv3y9jnryo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T11:58:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01e0/live/b42d7b30-9e05-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-bed42f7542",
-    "source": "BBC — Top Stories",
-    "title": "The most striking sports pictures of the week",
-    "summary": "A selection of some of the most striking sports photographs taken around the world over the past seven days.",
-    "url": "https://www.bbc.com/sport/articles/cjr59742r9eo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T09:24:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a18/live/4e2b0aa0-9e19-11f0-a5c6-afce0def12b6.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-17e7db5137",
-    "source": "BBC — Top Stories",
-    "title": "Lady Gaga serves mayhem, magic and guest stars as UK tour launches",
-    "summary": "The pop star brings her Mayhem Ball to the UK, throwing in a few unexpected surprises along the way.",
-    "url": "https://www.bbc.com/news/articles/cn829pjr2mpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T09:19:47Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19de/live/16001c30-9ddb-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-2ff1e9a410",
     "source": "The Guardian — UK",
     "title": "NHS ‘online hospital’ plan announced to help cut waiting lists in England",
@@ -535,30 +559,6 @@
     "url": "https://www.bbc.com/news/articles/c70155nked7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-30T06:12:28Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b9/live/c404dca0-9dc0-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-35065d29a0",
-    "source": "BBC — Top Stories",
-    "title": "I cried when I saw our social housing had rough floorboards - I can't afford carpets",
-    "summary": "Kassie lives in social housing, where landlords do not have to provide flooring in the bedrooms.",
-    "url": "https://www.bbc.com/news/articles/cewnj99j15no?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T05:09:45Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c1a/live/35d7be80-9a09-11f0-b0d6-53b1d4aa3a2a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-61a5fec78a",
-    "source": "BBC — Top Stories",
-    "title": "The Ukrainian convicts swapping jail for the battlefield",
-    "summary": "Some 10,000 Ukrainian inmates have signed up to escape jail, but not all will live to see freedom.",
-    "url": "https://www.bbc.com/news/articles/cvgjk8z47gko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T05:03:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/256a/live/090d4650-9d1e-11f0-bc17-37f040c2fadb.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
