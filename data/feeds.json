@@ -1,12 +1,48 @@
 [
   {
+    "id": "BBC — Top Stories-d801c62b02",
+    "source": "BBC — Top Stories",
+    "title": "'Buy one, get one free' deals for unhealthy food banned",
+    "summary": "Crisps, sweets, chocolate and fizzy drinks will be covered by restrictions starting in England.",
+    "url": "https://www.bbc.com/news/articles/c89d54gv44qo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T06:00:54Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d446/live/7365eac0-9e40-11f0-b0fc-395f3bc1ac43.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-d76a9ffbe3",
+    "source": "The Guardian — UK",
+    "title": "Revealed: Europe losing 600 football pitches of nature and crop land a day",
+    "summary": "Investigation shows extent of green land lost across UK and mainland Europe to development from 2018 to 2023 The Santa Claus effect: how expanding tourism ate into Lapland’s green space Europe is losing green space that once harboured wildlife, captured carbon and supplied food at the rate of 600 football pitches a day, an investigation by the Guardian and partners has revealed. Analysis of satellite imagery across the UK and mainland Europe over a five-year period shows the speed and scale with which green land is turning grey, consumed by tarmac for roads, bricks and mortar for luxury golf courses and housing developments. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/oct/01/revealed-europe-losing-600-football-pitches-of-nature-and-crop-land-a-day",
+    "published": "2025-10-01T06:00:05Z",
+    "image_url": "https://i.guim.co.uk/img/media/eee75a9e3e37af7691bd641a00219c0e838f46b1/1081_0_6030_4828/master/6030.jpg?width=140&quality=85&auto=format&fit=max&s=d8808459dd4712486f60c95cfa26662c",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a1b14b011b",
+    "source": "BBC — Top Stories",
+    "title": "Every GP practice now has to offer online booking",
+    "summary": "Move comes despite opposition from union, with ministers saying NHS needs to embrace digital tech.",
+    "url": "https://www.bbc.com/news/articles/cjed4qvzjeyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T05:41:46Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db7c/live/6ad86760-9e1e-11f0-b3fe-41cd43eebd60.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-d59bb5a5d6",
     "source": "BBC — Top Stories",
     "title": "I went undercover as a cleaner at a failing care home. Here's what I witnessed",
     "summary": "Catriona MacPhee worked in a Highland care home for seven weeks as part of BBC Disclosure investigation.",
     "url": "https://www.bbc.com/news/articles/c4g78yj2v2go?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-01T05:09:10Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac4b/live/45906410-9e48-11f0-88cf-e92b66f5aaae.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c7c/live/5f15f220-9e88-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -30,7 +66,7 @@
     "summary": "The PM gives the clearest sign yet the government wants to reform how human rights laws are applied in immigration cases.",
     "url": "https://www.bbc.com/news/articles/cd72p30v574o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-01T05:00:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df0c/live/f4ca7bf0-9e48-11f0-88cf-e92b66f5aaae.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9629/live/3e7051c0-9e86-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -43,6 +79,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/01/uk-montserrat-british-overseas-territory-citizens-injustice-donaldson-romeo",
     "published": "2025-10-01T05:00:03Z",
     "image_url": "https://i.guim.co.uk/img/media/cee389c804a5e4102365428805c4250b1e460c9a/335_477_934_747/master/934.jpg?width=140&quality=85&auto=format&fit=max&s=f145a5167ccc0ac530be2288eb54740e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-19802f6f12",
+    "source": "Politico — UK",
+    "title": "Danes probe cutting red tape in pharma package talks",
+    "summary": "SNEAK PEEK — The Danish Presidency of the Council of the EU is asking countries for “flexibilities” on the pharma legislation in talks with the European Parliament. — WHO members have eschewed pharma lobbyists in favor of scientists and academics to advise on the pandemic agreement. — Health experts in Gastein stress the importance […]",
+    "url": "https://www.politico.eu/article/danes-push-to-simplify-rules-in-pharma-package-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-01T05:00:00Z",
+    "image_url": "https://www.politico.eu/wp-content/uploads/2024/09/30/nl-header_pro_morning-health-care.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -216,18 +264,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-62fcaed608",
-    "source": "Politico — UK",
-    "title": "European strategic autonomy is in German hands",
-    "summary": "As Berlin inevitably becomes the EU's dominant military power, its billions could either build or blur Macron's vision of European defense.",
-    "url": "https://www.politico.eu/article/germany-europe-strategy-military-gdp-defense-france-budgets/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-01T02:01:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2236448969-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-5465d3a099",
     "source": "The Guardian — UK",
     "title": "Starmer takes aim at Farage – podcast",
@@ -246,7 +282,7 @@
     "summary": "Only \"good fortune\" prevented ex-gynaecologist Daniel Hay from causing more harm to women, a report says.",
     "url": "https://www.bbc.com/news/articles/ckgqr7nnzw1o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-01T01:35:27Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58c0/live/5fbceb80-9e0f-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/439c/live/97bff610-9e8e-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -270,7 +306,7 @@
     "summary": "She meets children displaced from their families and visited a memorial for young people killed during the war.",
     "url": "https://www.bbc.com/news/articles/cgrqlrjgd51o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-01T00:17:36Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3db4/live/f46dd0a0-9e82-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1909/live/4b4dad70-9e8b-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -324,6 +360,18 @@
     "cluster_id": null
   },
   {
+    "id": "The Guardian — UK-e37d4d6f66",
+    "source": "The Guardian — UK",
+    "title": "Common toad is becoming uncommon in UK, study shows",
+    "summary": "Species’ population has almost halved in a generation and urgent action is needed to protect it, analysis finds They are an iconic part of Britain’s natural world, inspiring myths, fairytales and at least one of its most-loved children’s book characters. But the number of toads hopping through British grasslands, forests and gardens has almost halved in a generation. “Vast numbers of toads are being lost every year,” said Silviu Petrovan, a senior researcher at the University of Cambridge, who was lead author on the study showing just how uncommon the common toad is becoming. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/oct/01/common-toad-is-becoming-uncommon-in-uk-study-shows",
+    "published": "2025-09-30T23:01:55Z",
+    "image_url": "https://i.guim.co.uk/img/media/ce8bfb8d7b491b0fff6c14f6da319117b0fb311c/435_0_4258_3407/master/4258.jpg?width=140&quality=85&auto=format&fit=max&s=7ce71e8006dc402189da85daadab4023",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-c3e5dbf01b",
     "source": "The Guardian — UK",
     "title": "UK business confidence falls to record low amid rising employment costs",
@@ -336,13 +384,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-e37d4d6f66",
-    "source": "The Guardian — UK",
-    "title": "Common toad is becoming uncommon in UK, study shows",
-    "summary": "Species’ population has almost halved in a generation and urgent action is needed to protect it, analysis finds They are an iconic part of Britain’s natural world, inspiring myths, fairytales and at least one of its most-loved children’s book characters. But the number of toads hopping through British grasslands, forests and gardens has almost halved in a generation. “Vast numbers of toads are being lost every year,” said Silviu Petrovan, a senior researcher at the University of Cambridge, who was lead author on the study showing just how uncommon the common toad is becoming. Continue reading...",
-    "url": "https://www.theguardian.com/environment/2025/oct/01/common-toad-is-becoming-uncommon-in-uk-study-shows",
-    "published": "2025-09-30T23:01:55Z",
-    "image_url": "https://i.guim.co.uk/img/media/ce8bfb8d7b491b0fff6c14f6da319117b0fb311c/435_0_4258_3407/master/4258.jpg?width=140&quality=85&auto=format&fit=max&s=7ce71e8006dc402189da85daadab4023",
+    "id": "BBC — Top Stories-ccd7f5578d",
+    "source": "BBC — Top Stories",
+    "title": "Energy price rises prompt call for more help with bills",
+    "summary": "Companies call for an \"enduring\" support scheme as energy prices rise by 2% for millions of households.",
+    "url": "https://www.bbc.com/news/articles/cm2zr4nym9zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T23:01:26Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5182/live/9df60920-9d35-11f0-82af-53ec555e619b.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -408,18 +456,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-98b953e720",
-    "source": "BBC — Top Stories",
-    "title": "Met police officer faces criminal probe after BBC investigation",
-    "summary": "Eleven people are being investigated for potential gross misconduct after an investigation at Charing Cross police station.",
-    "url": "https://www.bbc.com/news/articles/cx2j9vwvz71o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T18:47:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c34f/live/cfff5d50-9e10-11f0-9227-0916afba36bd.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e70fa0b981",
     "source": "The Guardian — UK",
     "title": "It’s entered the Labour conference lexicon – but what is a snake-oil salesman?",
@@ -444,18 +480,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-f1877346fb",
-    "source": "BBC — Top Stories",
-    "title": "Lammy backtracks on Farage Hitler Youth claim",
-    "summary": "The deputy prime minister says he is \"happy to clarify\" comments he made about the Reform UK leader.",
-    "url": "https://www.bbc.com/news/articles/cn95q9j0yyro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T18:22:55Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6334/live/c8657c60-9e28-11f0-ba41-9d184b600492.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-2912742dc1",
     "source": "The Guardian — UK",
     "title": "Covid exercise messaging left children stuck indoors, UK inquiry hears",
@@ -468,13 +492,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-ea72f247fa",
+    "id": "The Guardian — UK-7837595eca",
     "source": "The Guardian — UK",
-    "title": "Future of Ovo Energy in doubt after failing financial stress tests",
-    "summary": "Firm, founded by green energy entrepreneur Stephen Fitzpatrick, says there is “uncertainty” around plan to improve capital position Ovo Energy has cast doubt on its future as one of Great Britain’s largest domestic gas and electricity suppliers after failing to meet the regulator’s financial standards. The company, founded by the green energy entrepreneur Stephen Fitzpatrick , said in its latest financial accounts, seen by the Guardian, that there was “uncertainty” around the plan it had agreed with the regulator to improve its capital position. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/sep/30/future-of-ovo-energy-in-doubt-after-failing-financial-stress-tests",
-    "published": "2025-09-30T18:09:09Z",
-    "image_url": "https://i.guim.co.uk/img/media/8e315c6315363bfe9d80275ecb6a385b1deb239b/0_0_3352_2682/master/3352.jpg?width=140&quality=85&auto=format&fit=max&s=a42d1fe38befd535cdadd155c0a0276b",
+    "title": "Nottingham paper takes legal action over Reform council’s ban on reporters",
+    "summary": "Publisher says stopping it from talking to Nottinghamshire council’s leader is breach of the right to free expression A local paper whose journalists have been ostracised by a Reform UK council is taking legal action, arguing the move is a breach of its right to free expression. The Nottingham Post, and its online site Nottinghamshire Live, has been barred from speaking to the council’s leader and removed from media mailing lists by the Reform-led Nottinghamshire county council. Continue reading...",
+    "url": "https://www.theguardian.com/media/2025/sep/30/nottingham-paper-takes-legal-action-against-reform-council-that-banned-its-reporters",
+    "published": "2025-09-30T18:00:16Z",
+    "image_url": "https://i.guim.co.uk/img/media/609947bc629c312666691e9601a05000fb571d7c/240_22_1405_1124/master/1405.jpg?width=140&quality=85&auto=format&fit=max&s=1f242ef2eecbe2256d70ff2979ce0b23",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -482,7 +506,7 @@
   {
     "id": "BBC — Top Stories-343f170bfc",
     "source": "BBC — Top Stories",
-    "title": "Starmer had to show his critics he can take on Farage",
+    "title": "Chris Mason: Starmer had to show his critics he can take on Farage",
     "summary": "With this speech, the prime minister reminded his internal critics who won Labour's whopping majority in the election 15 months ago.",
     "url": "https://www.bbc.com/news/articles/cpw1jwdlz7lo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-30T17:52:33Z",
@@ -522,7 +546,7 @@
     "summary": "The plan is a significant moment - but it lacks the nuts and bolts that determine whether diplomatic agreements hold together, or don't.",
     "url": "https://www.bbc.com/news/articles/cn829deeje3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-30T16:15:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856b/live/1250dd50-9e7f-11f0-9e55-1fac313765d4.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fac/live/b29addc0-9e88-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -564,18 +588,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e9ce8e3424",
-    "source": "BBC — Top Stories",
-    "title": "For Netanyahu, avoiding a peace deal may now be worse than agreeing one",
-    "summary": "Trump is asking the Israeli PM to risk his government but dangling the prospect of a historic legacy, writes Lucy Williamson.",
-    "url": "https://www.bbc.com/news/articles/c0jq63edv21o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T13:36:59Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02dd/live/b01c2190-9e19-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-cecad90a09",
     "source": "The Guardian — UK",
     "title": "Nigel Farage a ‘snake oil salesman’ comparable to Andrew Tate, says No 10 chief secretary",
@@ -583,18 +595,6 @@
     "url": "https://www.theguardian.com/politics/2025/sep/30/nigel-farage-a-snake-oil-salesman-comparable-to-andrew-tate-says-no-10-chief-secretary",
     "published": "2025-09-30T12:27:51Z",
     "image_url": "https://i.guim.co.uk/img/media/76ddb3c591e6f7524278625e2b423c8300e9170c/329_0_4099_3281/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=cee46642336fa46ce41122a119e2b235",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-2ff1e9a410",
-    "source": "The Guardian — UK",
-    "title": "NHS ‘online hospital’ plan announced to help cut waiting lists in England",
-    "summary": "NHS experts welcome ambition of scheme due to launch in 2027 but some raise questions about how it will work Patients in England will be able to access care using a new “online hospital” service from 2027, Keir Starmer has announced, in Labour’s latest move to transform the NHS. The service, to be called NHS Online, is intended to cut waiting lists and allow patients who have been referred to hospital by a GP to talk to a specialist by phone or video instead of going to a face-to-face hospital appointment. It will be rolled out from 2027, the prime minister said in his speech to the Labour party conference in Liverpool. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/30/keir-starmer-to-announce-nhs-online-hospital-to-help-cut-waiting-lists",
-    "published": "2025-09-30T08:23:41Z",
-    "image_url": "https://i.guim.co.uk/img/media/80c26492e534e1828cd9424f0c3f0541e63e7301/341_0_3043_2435/master/3043.jpg?width=140&quality=85&auto=format&fit=max&s=975365ad95cd2046fe0627b351e5fb0c",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
