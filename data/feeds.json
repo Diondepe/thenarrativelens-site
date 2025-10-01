@@ -2,11 +2,71 @@
   {
     "id": "BBC — Top Stories-88fdee0b30",
     "source": "BBC — Top Stories",
-    "title": "Israeli navy tells Gaza flotilla to change course as activists say boats intercepted",
-    "summary": "The Global Sumud Flotilla says military personnel had boarded some vessels.",
+    "title": "Israeli naval ships intercept Gaza-bound flotilla",
+    "summary": "Climate activist Greta Thunberg is among activists on the Global Sumud Flotilla being taken to a nearby port.",
     "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T19:50:39Z",
+    "published": "2025-10-01T21:11:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d68/live/e0a5e430-9f00-11f0-bf4d-3be239c29483.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-85e09c819a",
+    "source": "BBC — Top Stories",
+    "title": "Dame Jane Goodall revolutionised our understanding of our closest primate cousins",
+    "summary": "Those she inspired say she not only revolutionised our understanding of chimpanzees - but challenged how we relate to the natural world.",
+    "url": "https://www.bbc.com/news/articles/cgj1pz8q63go?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T20:53:35Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f8/live/de46afc0-9f06-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-3f438fc313",
+    "source": "BBC — Top Stories",
+    "title": "French troops board oil tanker linked to Russian 'shadow fleet'",
+    "summary": "President Emmanuel Macron said the crew had committed \"serious offences\" but did not directly link the vessel to Russia.",
+    "url": "https://www.bbc.com/news/articles/cx2j1gynjddo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T20:49:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/febb/live/e4696f20-9ef0-11f0-966a-39edada3cd47.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-cfa243644b",
+    "source": "Politico — UK",
+    "title": "White House pushes back on Pope Leo’s statement that immigrants are subject to ‘inhuman treatment’ in the U.S.",
+    "summary": "It’s not the first time the bishop of Rome has criticized the Trump administration’s immigration policies.",
+    "url": "https://www.politico.com/news/2025/10/01/white-house-pushes-back-on-pope-leos-statement-that-immigrants-are-subject-to-inhuman-treatment-in-the-u-s-00590470?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-01T20:34:59Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-f05e3dc26a",
+    "source": "The Guardian — UK",
+    "title": "Jane Goodall, world-renowned primatologist, dies aged 91",
+    "summary": "Jane Goodall Institute says ‘tireless advocate’ for natural world died in California during US speaking tour The world-renowned primatologist Jane Goodall has died at the age of 91, her institute has said. The Jane Goodall Institute announced that she had died of natural causes while in California as part of a US speaking tour. Continue reading...",
+    "url": "https://www.theguardian.com/science/2025/oct/01/jane-goodall-world-renowned-primatologist-dies",
+    "published": "2025-10-01T20:34:07Z",
+    "image_url": "https://i.guim.co.uk/img/media/f6234eb099c72669845e82d47fab8e0ef5e4878f/0_651_1411_1128/master/1411.jpg?width=140&quality=85&auto=format&fit=max&s=2e64a85594e0072b0572e39bfc6bd48e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7971b62fcb",
+    "source": "BBC — Top Stories",
+    "title": "Conservationist Dame Jane Goodall dies aged 91",
+    "summary": "Dr Goodall was a world-leading expert on chimpanzees and a renowned conservationist.",
+    "url": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T20:30:56Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/f07cc970-9f08-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -86,7 +146,7 @@
   {
     "id": "BBC — Top Stories-801926f5b4",
     "source": "BBC — Top Stories",
-    "title": "William may have been target of Mail publisher blagging, Harry's lawyer says",
+    "title": "William event may have been target of Mail publisher blagging, Harry's lawyer says",
     "summary": "The Duke of Sussex is one of seven high-profile people bringing legal action against Daily Mail publisher.",
     "url": "https://www.bbc.com/news/articles/c07v2dmzv1jo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-01T18:30:40Z",
@@ -103,18 +163,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/01/jaguar-land-rover-suppliers-asked-to-put-up-homes-as-loan-security-after-hack",
     "published": "2025-10-01T18:27:03Z",
     "image_url": "https://i.guim.co.uk/img/media/3a5b0333e3cdae13d1c7b449e722660775a06eea/460_0_4818_3856/master/4818.jpg?width=140&quality=85&auto=format&fit=max&s=377ed6fe4a8eef4fb78f63d1830bb081",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-f05e3dc26a",
-    "source": "The Guardian — UK",
-    "title": "Jane Goodall, world-renowned primatologist, dies aged 91",
-    "summary": "Jane Goodall Institute says ‘tireless advocate’ for natural world died in California during US speaking tour The world-renowned primatologist Jane Goodall has died at the age of 91, her institute has said. The Jane Goodall Institute announced that she had passed away of natural causes while in California as part of a US speaking tour. Continue reading...",
-    "url": "https://www.theguardian.com/science/2025/oct/01/jane-goodall-world-renowned-primatologist-dies",
-    "published": "2025-10-01T18:26:56Z",
-    "image_url": "https://i.guim.co.uk/img/media/030515ede18a24fd1d75379583517ef5c79e5b45/691_0_4020_3216/master/4020.jpg?width=140&quality=85&auto=format&fit=max&s=7e2ae5aa9c9d8c8c19d3f83645af559d",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -151,18 +199,6 @@
     "url": "https://www.bbc.com/news/articles/c0jq2q5jnw3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-01T17:35:33Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa8a/live/3f403960-9edd-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a2cb722398",
-    "source": "BBC — Top Stories",
-    "title": "Chunk of NYC building collapses in possible explosion",
-    "summary": "No one was injured and no apartments were damaged, although some residents were evacuated.",
-    "url": "https://www.bbc.com/news/articles/cp8jp4y0jdmo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T17:33:39Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86c4/live/790497e0-9eec-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -276,18 +312,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-9547158d3d",
-    "source": "BBC — Top Stories",
-    "title": "Israel 'tightens siege' of Gaza City as Hamas reviews Trump peace plan",
-    "summary": "The defence minister warns Palestinians to leave, saying those remaining will be considered \"terrorists and supporters of terror\".",
-    "url": "https://www.bbc.com/news/articles/cvgnznkjrx6o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T16:38:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd67/live/8c368e00-9eff-11f0-bf4d-3be239c29483.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-18eaf2a029",
     "source": "BBC — Top Stories",
     "title": "A-listers watch on as Anderson unveils Dior womenswear debut",
@@ -355,18 +379,6 @@
     "url": "https://www.politico.eu/article/national-rally-france-parliament-marine-le-pen-sebastien-chenu-helene-laporte/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-01T15:26:11Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2215909370.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-0b1f02e5a8",
-    "source": "Politico — UK",
-    "title": "Commission rejects Hungarian push to unblock €550M as relations turn sour",
-    "summary": "Brussels will only release €163.5 million in advance payments as frustration grows toward PM Viktor Orbán's pro-Russia stance.",
-    "url": "https://www.politico.eu/article/commission-rejects-hungarian-push-unblock-550-million-relations-turn-sour/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-01T15:06:05Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/Orban-Copenhagen-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -571,18 +583,6 @@
     "url": "https://www.theguardian.com/news/audio/2025/oct/01/starmer-takes-aim-at-farage-podcast",
     "published": "2025-10-01T02:00:59Z",
     "image_url": "https://i.guim.co.uk/img/media/d1ec8f9eb166b401cf02ddd193f7e593aadf5a78/275_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=b12a2b52714c66d7a5251867323af969",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-ca601599f1",
-    "source": "BBC — Top Stories",
-    "title": "AO boss tells BBC: We're a British success story – the UK should be turbocharging us",
-    "summary": "John Roberts, the founder of AO and so-called kitchen king, says tax rises are putting \"grit\" into businesses.",
-    "url": "https://www.bbc.com/news/articles/c8exj892085o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T23:28:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26c5/live/f9fe0080-9e0a-11f0-bc74-c938242ac6b1.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
