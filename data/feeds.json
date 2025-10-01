@@ -1,12 +1,60 @@
 [
   {
+    "id": "The Guardian — UK-64bd2ea74e",
+    "source": "The Guardian — UK",
+    "title": "At least a third of EU citizens in UK report discrimination by public bodies",
+    "summary": "Long-term residents post Brexit also say they have faced difficulties exercising travel and equal treatment rights A significant number of EU citizens living long term in the UK post Brexit are experiencing discrimination in work and in public services, a report by the UK’s statutory Brexit watchdog has revealed. Five years after the UK quit the bloc, more than a third reported feeling discriminated against by public bodies. One in five said they had experienced difficulties accessing their rights including the right to work, the right to travel in and out of the country and their right to equal treatment in public services. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/01/at-least-a-third-of-eu-citizens-in-uk-report-discrimination-by-public-bodies",
+    "published": "2025-10-01T09:00:08Z",
+    "image_url": "https://i.guim.co.uk/img/media/4de122f86c43420a38f99511699ce02c0ee9b00b/369_0_2992_2394/master/2992.jpg?width=140&quality=85&auto=format&fit=max&s=897e24182bb3b3ff9ed604a60e2fd24e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-31050db065",
     "source": "The Guardian — UK",
-    "title": "PM brands Channel crossings ‘Farage boats’ because Brexit has hampered returns – UK politics live",
-    "summary": "PM also says he does not believe Nigel Farage or Reform voters are racist Helena Horton is a Guardian environment reporter. Ed Miliband is due to take to the stage to deliver his speech today, and he is set to announce a “total ban” on fracking. I am about to announce something you have been calling for and campaigning on, which is to ban fracking for good. You called for it, I’m going to do it, thank you for your campaigning. What an amazing result for our environment, our local communities, and the thousands of committed people and groups right across the country who’ve spent years fighting for fracking to be banned for good – including the many who signed 38 Degrees supporter Geoff’s recent petition. Not long ago, it felt like fracking might make a comeback, with Reform UK pushing to put it back on the agenda. But thousands of us stood up, demanded a permanent ban, and made our voices impossible to ignore. Continue reading...",
+    "title": "Ed Miliband to announce total ban on fracking – UK politics live",
+    "summary": "There is not currently a permanent ban in law, just a temporary moratorium Some people have argued that it is a mistake for Keir Starmer and Labour to talk about Nigel Farage and Reform UK as much as they have. There is a case for saying that this just shores up the credibility of a party with only five MPs, and it switches the news agenda towards immigration and small boats (issues where Reform UK polls well) and away from “Labour issues” like health. And art of this argument is that, by calling the Reform UK migration policy racist, Labour is also making it easier for Farage to leverage grievance (which, as Starmer himself argued in his speech yesterday, is part of what lies behind Reform UK’s electoral support. I think it’s a mistake to pretend this isn’t the fight of our times. If it is the fight of our times, we’ve got to recognise that, and we’ve got to be in it. I think simply ignoring it is a mistake, a political mistake. No, not at all. There is a political fight that has to be had, and it’s about the future of our country. This is a different fight to the traditional Labour/Conservative fight. You can see versions of this going on in many other countries across Europe. I think that if Reform were to gain power, they would tear our country apart and fundamentally change us as a country. We have seen the most extraordinary 48 hours of demonisation, and I’m going to say it again, incitement to violence against the man who is the bookmakers’ favourite to be the next prime minister. Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/oct/01/keir-starmer-labour-conference-nigel-farage-reform-uk-politics-latest-news-updates",
-    "published": "2025-10-01T08:19:32Z",
-    "image_url": "https://i.guim.co.uk/img/media/ed6dc671a214b9917c96ce86fe72249364bec2dc/340_0_4472_3577/master/4472.jpg?width=140&quality=85&auto=format&fit=max&s=b508fd9430d4928bcbf0e27b8be60941",
+    "published": "2025-10-01T08:55:46Z",
+    "image_url": "https://i.guim.co.uk/img/media/00dee60d85c18aa444e44f34694c8951e64dcaef/864_397_3487_2789/master/3487.jpg?width=140&quality=85&auto=format&fit=max&s=550653e0f91a9463791610fe237546f8",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-68a31c8ad9",
+    "source": "Politico — UK",
+    "title": "EU leaders talk security and Russia as aerial incursions hang over summit — live updates",
+    "summary": "Key European Council meeting kicks off in Copenhagen.",
+    "url": "https://www.politico.eu/article/european-council-summit-copenhagen-security-russia-live-updates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-01T08:53:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/25/Council-copenhagen-liveblog.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-994bd51ef9",
+    "source": "BBC — Top Stories",
+    "title": "PM tells BBC he wants to change how international law used in asylum cases",
+    "summary": "The UK needs to \"look again\" at how to tackle mass migration, but those genuinely fleeing persecution should still be given asylum, the PM says.",
+    "url": "https://www.bbc.com/news/articles/cd72p30v574o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T08:46:00Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b941/live/be603cf0-9e91-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-8219af9446",
+    "source": "The Guardian — UK",
+    "title": "Jailed Georgian politicians allege links between ruling party and Iran in letter to UK",
+    "summary": "Exclusive: Imprisoned opposition leaders call on foreign secretary to impose sanctions over ‘unprecedented expansion’ of Iranian influence Jailed opposition leaders in Georgia have written to the British foreign secretary, Yvette Cooper, warning of what they consider to be the growing links between their country’s ruling party, Georgian Dream, and Iran. The seven politicians, writing from prisons in Rustavi, a city in south-east Georgia about 12 miles (20km) from the capital, Tbilisi, have alerted London to what they say is an “unprecedented expansion” of Iranian influence. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/oct/01/jailed-georgian-politicians-allege-links-between-ruling-party-and-iran-in-letter-to-uk",
+    "published": "2025-10-01T08:38:17Z",
+    "image_url": "https://i.guim.co.uk/img/media/ea74a2ff752901591c877de39e684ad8d887dc7b/6_0_3704_2963/master/3704.jpg?width=140&quality=85&auto=format&fit=max&s=f67c083e27aea4c07e3aef8cdbe8b253",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -19,18 +67,6 @@
     "url": "https://www.theguardian.com/society/2025/oct/01/scottish-parliament-vote-councils-cap-rent-increases",
     "published": "2025-10-01T08:09:56Z",
     "image_url": "https://i.guim.co.uk/img/media/ff5222363549af6fa584da6e17c438193d239451/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=4d852283933715f9c4e40e33cda2f9b0",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-994bd51ef9",
-    "source": "BBC — Top Stories",
-    "title": "PM tells BBC he wants to change how international law used in asylum cases",
-    "summary": "The UK needs to \"look again\" at how to tackle mass migration, but those genuinely fleeing persecution should still be given asylum, the PM says.",
-    "url": "https://www.bbc.com/news/articles/cd72p30v574o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T08:06:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b941/live/be603cf0-9e91-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -86,7 +122,7 @@
   {
     "id": "BBC — Top Stories-0345b2c194",
     "source": "BBC — Top Stories",
-    "title": "Watch: One street away from collapsed school as relatives wait for news",
+    "title": "Watch: Families in anxious wait for students trapped under collapsed school in Indonesia",
     "summary": "The BBC reports from a nearby centre as rescuers race to find 38 people believed to still be trapped.",
     "url": "https://www.bbc.com/news/videos/cx2718plv27o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-01T07:00:05Z",
@@ -180,18 +216,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-ffb82e44a8",
-    "source": "The Guardian — UK",
-    "title": "UK accused of ‘stark injustice’ as woman from Montserrat refused free NHS care",
-    "summary": "Cherry Brown, 69, a British overseas territory citizen, was left sleeping rough after being sent to England for treatment The UK has been accused of a “stark injustice” for failing to provide health services and humanitarian support to citizens of British overseas territories after a woman from the Caribbean island of Montserrat was refused free NHS care and left homeless. Council officials found Cherry Brown, 69, sleeping rough in a park in Swanley, Kent, in April. Brown had been funded by the Montserratian government – whose budget is largely subsidised by the UK – to travel to England to receive treatment from the NHS that was not available at home. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/01/uk-montserrat-british-overseas-territory-citizens-injustice-donaldson-romeo",
-    "published": "2025-10-01T05:00:03Z",
-    "image_url": "https://i.guim.co.uk/img/media/cee389c804a5e4102365428805c4250b1e460c9a/335_477_934_747/master/934.jpg?width=140&quality=85&auto=format&fit=max&s=f145a5167ccc0ac530be2288eb54740e",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-19802f6f12",
     "source": "Politico — UK",
     "title": "Danes probe cutting red tape in pharma package talks",
@@ -247,18 +271,6 @@
     "url": "https://www.theguardian.com/news/audio/2025/oct/01/from-the-archive-divine-comedy-the-standup-double-act-who-turned-to-the-priesthood-podcast",
     "published": "2025-10-01T04:00:03Z",
     "image_url": "https://i.guim.co.uk/img/media/42e122657513c3958e6aa3a2023f3aba0af42d6e/87_0_6638_5310/master/6638.jpg?width=140&quality=85&auto=format&fit=max&s=8a12b2b1f9f7412c9dc8f802dc167097",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-b15cbe27bd",
-    "source": "The Guardian — UK",
-    "title": "Britons preparing to ration energy as Ofgem price cap rises, says charity",
-    "summary": "National Energy Action says 58% of households expect to cut heating use as typical annual dual-fuel bill increases to £1,755 ‘It’s unsustainable’: homes in Great Britain brace for winter with soaring energy debts What is the energy price cap for Great Britain, and can I cut my bill? The majority of British households expect to restrict their home heating this winter to try to keep rising costs in check, according to research released as the price cap that dictates most bills rose again. The fuel poverty charity National Energy Action said 58% of households told its survey they were likely to trim their energy use, a nine-percentage-point increase from the level in January. Continue reading...",
-    "url": "https://www.theguardian.com/money/2025/oct/01/britons-preparing-to-ration-energy-as-ofgem-price-cap-rises-says-charity",
-    "published": "2025-10-01T04:00:02Z",
-    "image_url": "https://i.guim.co.uk/img/media/52a83dafb63a9eaee353d1c834dd9eb96289c3d2/718_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=368cf9b506d11626caccd7a63859cd84",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -362,23 +374,11 @@
   {
     "id": "Politico — UK-f48772b004",
     "source": "Politico — UK",
-    "title": "Israel’s plan for after the war",
-    "summary": "Bet on Trump and hope things will go back to normal.",
+    "title": "Israel bets the world will forgive and forget Gaza",
+    "summary": "When the guns fall silent, how will Israel regain the good graces of the international community?",
     "url": "https://www.politico.eu/article/israel-war-in-gaza-benjamin-netanyahu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-01T02:01:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/01/GettyImages-2237554288-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-a328b1fcde",
-    "source": "Politico — UK",
-    "title": "5 things to watch for as EU leaders meet in Copenhagen",
-    "summary": "From building a “drone wall” on the EU's eastern flank to bypassing Hungary’s stonewalling of Ukraine, these are the bloc’s most pressing priorities.",
-    "url": "https://www.politico.eu/article/euco-summit-in-copenhagen-5-things-to-watch-for/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-01T02:01:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/01/GettyImages-2237909936-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -444,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-f2dbe3cc7a",
-    "source": "BBC — Top Stories",
-    "title": "Half of UK adults now regularly use mobile payments",
-    "summary": "Regular mobile payments surged across different age groups last year, new banking data suggests.",
-    "url": "https://www.bbc.com/news/articles/c2ejvld0ypyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T23:02:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4768/live/cc21e390-9de5-11f0-a561-d7c24224dfc6.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-ccd7f5578d",
     "source": "BBC — Top Stories",
     "title": "Energy bills rise by 2% for millions with calls for more support",
@@ -463,6 +451,18 @@
     "url": "https://www.bbc.com/news/articles/cm2zr4nym9zo?at_medium=RSS&at_campaign=rss",
     "published": "2025-09-30T23:01:26Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5182/live/9df60920-9d35-11f0-82af-53ec555e619b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ed09054f09",
+    "source": "BBC — Top Stories",
+    "title": "What could happen during the US government shutdown?",
+    "summary": "Government funding has been cut off after Republicans and Democrats failed to agree on a spending bill.",
+    "url": "https://www.bbc.com/news/videos/ce32pz0gw34o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T22:57:08Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee8d/live/32dbf5d0-9e4a-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
