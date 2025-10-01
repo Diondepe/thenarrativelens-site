@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-994bd51ef9",
+    "source": "BBC — Top Stories",
+    "title": "PM wants to change how international law is used in asylum cases",
+    "summary": "The UK needs to \"look again\" at how to tackle mass migration, but those genuinely fleeing persecution should still be given asylum, the PM tells the BBC.",
+    "url": "https://www.bbc.com/news/articles/cd72p30v574o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T07:12:46Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b941/live/be603cf0-9e91-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e0ca3e54bb",
+    "source": "BBC — Top Stories",
+    "title": "Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness",
+    "summary": "The plan is a significant moment - but it lacks the nuts and bolts that determine whether diplomatic agreements hold together, or don't.",
+    "url": "https://www.bbc.com/news/articles/cn829deeje3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T07:05:33Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fac/live/b29addc0-9e88-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-f8c6f149ab",
+    "source": "The Guardian — UK",
+    "title": "Scottish parliament votes in favour of allowing councils to cap rent increases",
+    "summary": "Legislation hailed as ‘historic step for fixing rigged housing market’ but campaigners say bolder action needed The Scottish parliament has voted overwhelmingly for “historic” long-term rent controls – a first across the UK – as part of a wide-ranging housing bill that campaigners argue has been “gutted” of its most progressive measures. The provision for ministers to designate rent control zones, allowing councils to limit rent increases to one percentage point above inflation, up to a maximum rent increase of 6%, was hailed as a “historic step for fixing the rigged housing market” by the Scottish Greens. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/oct/01/scottish-parliament-vote-councils-cap-rent-increases",
+    "published": "2025-10-01T06:53:22Z",
+    "image_url": "https://i.guim.co.uk/img/media/ff5222363549af6fa584da6e17c438193d239451/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=4d852283933715f9c4e40e33cda2f9b0",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-ae0332a624",
+    "source": "The Guardian — UK",
+    "title": "UK house prices return to growth amid ‘broad stability’ in market",
+    "summary": "Nationwide says prices rose by 0.5% in September after August drop, lifting average price of property to £271,995 Business live – latest news The UK property market returned to growth in September after a summer lull, with house prices rising 0.5% compared with the previous month. The average amount paid for a home ticked up to £271,995, according to Nationwide Building Society, recovering from a 0.1% decline in August, while the annual rate of house price growth accelerated slightly from 2.1% to 2.2%. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/01/uk-house-prices-return-to-growth-amid-broad-stability-in-market",
+    "published": "2025-10-01T06:53:17Z",
+    "image_url": "https://i.guim.co.uk/img/media/b4091c9dd309d14d9c414723324aefdf8fa86216/316_147_3516_2813/master/3516.jpg?width=140&quality=85&auto=format&fit=max&s=c04e4f3aecfb4c704cfa6a62907e3213",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-cf3e35faf0",
+    "source": "BBC — Top Stories",
+    "title": "European leaders meet in high-security Danish summit after drone disruption",
+    "summary": "The EU is under pressure to boost defence after Russian air space incursions and after drones targeted Danish airports.",
+    "url": "https://www.bbc.com/news/articles/cp8jdene16ro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T06:38:41Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b62/live/ba18b790-9e36-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-d801c62b02",
     "source": "BBC — Top Stories",
     "title": "'Buy one, get one free' deals for unhealthy food banned",
@@ -55,18 +115,6 @@
     "url": "https://www.bbc.com/news/articles/c1wg4dyxjv9o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-01T05:00:51Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d60c/live/b450e4f0-9d45-11f0-a0a0-937889ad3e92.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-994bd51ef9",
-    "source": "BBC — Top Stories",
-    "title": "Starmer wants rethink on international law to tackle migration",
-    "summary": "The PM gives the clearest sign yet the government wants to reform how human rights laws are applied in immigration cases.",
-    "url": "https://www.bbc.com/news/articles/cd72p30v574o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T05:00:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9629/live/3e7051c0-9e86-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -150,7 +198,7 @@
     "summary": "National Energy Action says 58% of households expect to cut heating use as typical annual dual-fuel bill increases to £1,755 ‘It’s unsustainable’: homes in Great Britain brace for winter with soaring energy debts What is the energy price cap for Great Britain, and can I cut my bill? The majority of British households expect to restrict their home heating this winter to try to keep rising costs in check, according to research released as the price cap that dictates most bills rose again. The fuel poverty charity National Energy Action said 58% of households told its survey they were likely to trim their energy use, a nine-percentage-point increase from the level in January. Continue reading...",
     "url": "https://www.theguardian.com/money/2025/oct/01/britons-preparing-to-ration-energy-as-ofgem-price-cap-rises-says-charity",
     "published": "2025-10-01T04:00:02Z",
-    "image_url": "https://i.guim.co.uk/img/media/a427249d81162ae9bb2c58a3e4cb79749c2d4275/372_0_2702_2163/master/2702.jpg?width=140&quality=85&auto=format&fit=max&s=465d5d2b162c9154c0b246507bcefa53",
+    "image_url": "https://i.guim.co.uk/img/media/52a83dafb63a9eaee353d1c834dd9eb96289c3d2/718_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=368cf9b506d11626caccd7a63859cd84",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -324,18 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-cf3e35faf0",
-    "source": "BBC — Top Stories",
-    "title": "European leaders meet in high-security Danish summit after drone disruption",
-    "summary": "The EU is under pressure to boost defence after Russian air space incursions and after drones targeted Danish airports.",
-    "url": "https://www.bbc.com/news/articles/cp8jdene16ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T23:21:17Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b62/live/ba18b790-9e36-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-f2dbe3cc7a",
     "source": "BBC — Top Stories",
     "title": "Half of UK adults now regularly use mobile payments",
@@ -444,18 +480,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-a8f2cce148",
-    "source": "The Guardian — UK",
-    "title": "‘Decency or division’: Britain faces era-defining choice, Keir Starmer warns",
-    "summary": "Prime minister lambasts Nigel Farage and the politics of Reform in combative Labour conference speech Keir Starmer has warned that Britain faces an era-defining choice between Labour and the populist right, as he launched a scathing attack on Nigel Farage, saying the Reform leader neither “liked or believed in Britain ”. In a speech that drew the battle lines for the next general election, the prime minister said the UK stood at a fork in the road where “we can choose decency, we can choose division, renewal or decline”. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/sep/30/keir-starmer-conference-speech-sets-up-choice-between-labour-and-reform-uk",
-    "published": "2025-09-30T18:59:19Z",
-    "image_url": "https://i.guim.co.uk/img/media/12b43504f48e3aa9b14e4d2167be82bb8cf039fa/280_0_3388_2711/master/3388.jpg?width=140&quality=85&auto=format&fit=max&s=b656c854838ada7aefdbc014614fe73a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e70fa0b981",
     "source": "The Guardian — UK",
     "title": "It’s entered the Labour conference lexicon – but what is a snake-oil salesman?",
@@ -475,18 +499,6 @@
     "url": "https://www.theguardian.com/business/2025/sep/30/rachel-reeves-makes-her-pitch-to-business-chiefs-wary-of-another-tax-raid",
     "published": "2025-09-30T18:35:45Z",
     "image_url": "https://i.guim.co.uk/img/media/9eccf785a52ac10ba60b12717c85e5354267d9eb/293_0_4101_3281/master/4101.jpg?width=140&quality=85&auto=format&fit=max&s=0e445b41ac5065f83a3693180e71d71d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-2912742dc1",
-    "source": "The Guardian — UK",
-    "title": "Covid exercise messaging left children stuck indoors, UK inquiry hears",
-    "summary": "Children not allowed out partly because their exercise – playing – looked too much ‘like fun’, says campaigner Children were stopped from playing outside during Covid partly because it looked “like fun” and did not fit with the seriousness of the restrictions, the UK’s inquiry has heard. Alice Ferguson, the founding director of Playing Out, which campaigns for children’s freedom to play outside, told the inquiry that play was fundamental for children’s health and wellbeing, especially play outside with other children. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/30/children-play-covid-lockdown-exercise-rules-uk-inquiry",
-    "published": "2025-09-30T18:20:42Z",
-    "image_url": "https://i.guim.co.uk/img/media/77620d073aa908fb41a6df6be50d696766284407/259_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=c23028576504dd5666962c63993c4eae",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,18 +547,6 @@
     "url": "https://www.theguardian.com/politics/live/2025/sep/30/labour-conference-starmer-speech-streeting-nhs-reform",
     "published": "2025-09-30T17:20:21Z",
     "image_url": "https://i.guim.co.uk/img/media/a533235f15b2adce2c55c64678e3737f52da87c6/836_95_3626_2901/master/3626.jpg?width=140&quality=85&auto=format&fit=max&s=90b3761aee78c98ac3cd169a0a6c54fd",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e0ca3e54bb",
-    "source": "BBC — Top Stories",
-    "title": "Bowen: Momentum is the strength of Trump's Gaza plan, but lack of detail is its weakness",
-    "summary": "The plan is a significant moment - but it lacks the nuts and bolts that determine whether diplomatic agreements hold together, or don't.",
-    "url": "https://www.bbc.com/news/articles/cn829deeje3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-09-30T16:15:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fac/live/b29addc0-9e88-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
