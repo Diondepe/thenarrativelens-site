@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-13340d037e",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'Golden ticket asylum rights to end' and 'Pay back the money, Mr Mone'",
+    "summary": "The PPE firm ordered to pay £122m over Covid contracts and refugee rights lead Thursday's papers.",
+    "url": "https://www.bbc.com/news/articles/c0lk2j5p22ko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T01:19:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1880/live/cab34e00-9f1a-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c5eefba452",
+    "source": "BBC — Top Stories",
+    "title": "Sadiq Khan 'disgusted' by Met officers' behaviour",
+    "summary": "The mayor of London's comments follow a BBC Panorama undercover report about Charing Cross police station.",
+    "url": "https://www.bbc.com/news/articles/c1mx28gyl29o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T00:21:18Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e1/live/34536e00-9f23-11f0-b66c-6be55cdd037e.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-88fdee0b30",
+    "source": "BBC — Top Stories",
+    "title": "Israeli naval ships intercept Gaza-bound flotilla",
+    "summary": "Climate activist Greta Thunberg is among activists on the Global Sumud Flotilla being taken to an Israeli port.",
+    "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T00:13:19Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99e4/live/eceddee0-9f1f-11f0-92db-77261a15b9d2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-515ba5b6dd",
     "source": "Politico — UK",
     "title": "Not even threat of war stopped EU summit becoming a talking shop",
@@ -24,6 +60,30 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-22d32e94ca",
+    "source": "BBC — Top Stories",
+    "title": "Surge in Ukrainian attacks on oil refineries sparks Russian fuel shortages",
+    "summary": "Ukraine has attacked refineries deep inside Russia, with Zelensky vowing to continue the strikes.",
+    "url": "https://www.bbc.com/news/articles/czx020k4056o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T23:02:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fb1/live/56fc9310-9ec3-11f0-928c-71dbb8619e94.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-deb0c3893d",
+    "source": "BBC — Top Stories",
+    "title": "'I won £65,000 at an employment tribunal – but I've yet to see a penny'",
+    "summary": "A BBC investigation reveals thousands of workers are still missing out on tribunal payouts.",
+    "url": "https://www.bbc.com/news/articles/cvgjk8qnx2yo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T23:01:41Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5197/live/7bf046f0-9ebc-11f0-85b6-27ff7e482819.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-6592fbb3a7",
     "source": "BBC — Top Stories",
     "title": "Hackers delete children's pictures and data after nursery attack backlash",
@@ -36,13 +96,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-c5eefba452",
-    "source": "BBC — Top Stories",
-    "title": "Met chief apologises for 'reprehensible' behaviour of police officers",
-    "summary": "Sir Mark Rowley 's comments follow a BBC Panorama undercover report about Charing Cross police station.",
-    "url": "https://www.bbc.com/news/articles/c1mx28gyl29o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T23:01:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd69/live/0f3201f0-9eff-11f0-bf4d-3be239c29483.jpg",
+    "id": "Politico — UK-69b1c58c83",
+    "source": "Politico — UK",
+    "title": "Kemi Badenoch pledges to scrap UK climate law",
+    "summary": "Kemi Badenoch’s Conservative Party has pledged to ditch the U.K.’s flagship climate law if they get back into government, in the latest signal that the party is firmly walking back on net zero commitments.",
+    "url": "https://www.politico.eu/article/uk-kemi-badenoch-pledges-scrap-uk-climate-law-conservative-party/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-01T23:01:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2234470189-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -55,18 +115,6 @@
     "url": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-01T22:47:06Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/f07cc970-9f08-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-88fdee0b30",
-    "source": "BBC — Top Stories",
-    "title": "Israeli naval ships intercept Gaza-bound flotilla",
-    "summary": "Climate activist Greta Thunberg is among activists on the Global Sumud Flotilla being taken to an Israeli port.",
-    "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T22:39:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d68/live/e0a5e430-9f00-11f0-bf4d-3be239c29483.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -114,7 +162,7 @@
     "summary": "From proposing a \"drone wall\" to using frozen assets, the agenda was long and detailed. The results, less so.",
     "url": "https://www.politico.eu/article/eu-summit-copenhagen-denmark-drone-wall-russian-assets/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-01T22:16:54Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/02/GettyImages-2238057820.jpg",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/02/54826091703_fec22563f5_o-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -182,7 +230,7 @@
   {
     "id": "Politico — UK-cfa243644b",
     "source": "Politico — UK",
-    "title": "White House pushes back on Pope Leo’s statement that immigrants are subject to ‘inhuman treatment’ in the U.S.",
+    "title": "White House pushes back on Pope Leo’s statement that immigrants are subject to ‘inhuman treatment’ in the US",
     "summary": "It’s not the first time the bishop of Rome has criticized the Trump administration’s immigration policies.",
     "url": "https://www.politico.com/news/2025/10/01/white-house-pushes-back-on-pope-leos-statement-that-immigrants-are-subject-to-inhuman-treatment-in-the-u-s-00590470?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-01T20:34:59Z",
@@ -247,18 +295,6 @@
     "url": "https://www.politico.eu/article/hamas-arrests-germany-firearms-terrorism/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-01T18:59:10Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2237923438-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-359878b4c8",
-    "source": "Politico — UK",
-    "title": "I’m ‘turning around a distressed asset,’ says Kemi Badenoch",
-    "summary": "Conservative leader insists her party should \"hold its nerve\" amid plunging poll ratings and defections.",
-    "url": "https://www.politico.eu/article/kemi-badenoch-uk-conservative-party/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-01T18:34:32Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2234467798-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -396,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-18eaf2a029",
-    "source": "BBC — Top Stories",
-    "title": "A-listers watch on as Anderson unveils Dior womenswear debut",
-    "summary": "Anderson is known for his innovative styles having previously designed outfits for Rihanna and Ariana Grande.",
-    "url": "https://www.bbc.com/news/articles/czxw2enrkrjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T16:30:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3922/live/11a2bd30-9ee6-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-12a4ec153d",
     "source": "The Guardian — UK",
     "title": "Myleene Klass felt ‘terror’ after being sent air gun by alleged stalker, trial told",
@@ -523,30 +547,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/01/nigel-farage-what-are-schoolboy-racism-claims-why-have-they-resurfaced",
     "published": "2025-10-01T10:53:31Z",
     "image_url": "https://i.guim.co.uk/img/media/ecc34d0a5745e03483a8fd2a5d30bd8a91a13a16/909_0_4531_3624/master/4531.jpg?width=140&quality=85&auto=format&fit=max&s=d4399bc140685267b14ed3d246e01a63",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-d59bb5a5d6",
-    "source": "BBC — Top Stories",
-    "title": "I went undercover as a cleaner at a failing care home. Here's what I witnessed",
-    "summary": "Catriona MacPhee worked in a Highland care home for seven weeks as part of BBC Disclosure investigation.",
-    "url": "https://www.bbc.com/news/articles/c4g78yj2v2go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T05:09:10Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c7c/live/5f15f220-9e88-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-472e6e4e03",
-    "source": "BBC — Top Stories",
-    "title": "Gaza doctors are starving while fighting to save lives, evacuated medic tells BBC",
-    "summary": "Dr Mohammed Abu Mughaisib, who worked in hospitals in Gaza for two years, says Israeli strikes have made conditions \"indescribable\" for colleagues still there.",
-    "url": "https://www.bbc.com/news/articles/c1wg4dyxjv9o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T05:00:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d60c/live/b450e4f0-9d45-11f0-a0a0-937889ad3e92.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
