@@ -1,5 +1,89 @@
 [
   {
+    "id": "BBC — Top Stories-7971b62fcb",
+    "source": "BBC — Top Stories",
+    "title": "Conservationist Dame Jane Goodall dies aged 91",
+    "summary": "Dr Goodall was a world-leading expert on chimpanzees and a renowned conservationist.",
+    "url": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T02:45:00Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/f07cc970-9f08-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-78aab1844e",
+    "source": "Politico — UK",
+    "title": "Trump tariff threats punch holes in UK trade deal",
+    "summary": "A flurry of new tariff announcements on pharma, trucks and movies have left British officials scrambling to keep up.",
+    "url": "https://www.politico.eu/article/us-donald-trump-tariff-threats-punch-holes-in-uk-trade-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-02T02:21:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/30/13355446.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-836253cd5e",
+    "source": "Politico — UK",
+    "title": "Ryanair boss says drones disrupting EU airports should be shot down",
+    "summary": "The outspoken Ryanair boss has no faith in EU leaders to manage the threat, says Ursula von der Leyen should quit.",
+    "url": "https://www.politico.eu/article/ryainair-michael-oleary-drones-disrupting-eu-airports-shot-down/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-02T02:20:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2233810360-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-88fdee0b30",
+    "source": "BBC — Top Stories",
+    "title": "Israeli naval ships intercept Gaza-bound flotilla",
+    "summary": "Climate activist Greta Thunberg is among activists on the Global Sumud Flotilla being taken to an Israeli port.",
+    "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T02:19:40Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99e4/live/eceddee0-9f1f-11f0-92db-77261a15b9d2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-edc022111e",
+    "source": "Politico — UK",
+    "title": "Macron’s big European meeting is turning into a speed-dating exercise",
+    "summary": "The once-hyped European Political Community hasn't produced major deliverables, but it's still useful for dialogue and showcasing policy initiatives.",
+    "url": "https://www.politico.eu/article/macron-european-forum-turning-into-speed-dating-exercise/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-02T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/macron-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-4fa259398f",
+    "source": "Politico — UK",
+    "title": "How the Czech rust belt echoes America’s populist shift",
+    "summary": "Agriculture tycoon Andrej Babiš rides voter discontent back toward power in Prague.",
+    "url": "https://www.politico.eu/article/czechia-andrej-babis-rust-belt-echoes-america-populist-shift-election-parliament/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-02T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2237912855-1-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-545269566d",
+    "source": "BBC — Top Stories",
+    "title": "Musk becomes world's first half-trillionaire",
+    "summary": "The rise has been driven by a sharp increase in the value of his electric car company Tesla.",
+    "url": "https://www.bbc.com/news/articles/c89d3547npjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T01:45:44Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1507/live/787fe140-9f1d-11f0-9667-7bc33bda5819.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-13340d037e",
     "source": "BBC — Top Stories",
     "title": "The Papers: 'Golden ticket asylum rights to end' and 'Pay back the money, Mr Mone'",
@@ -14,23 +98,11 @@
   {
     "id": "BBC — Top Stories-c5eefba452",
     "source": "BBC — Top Stories",
-    "title": "Sadiq Khan 'disgusted' by Met officers' behaviour",
+    "title": "Khan ‘appalled’ by Met officers’ behaviour as Mahmood calls footage ‘sickening’",
     "summary": "The mayor of London's comments follow a BBC Panorama undercover report about Charing Cross police station.",
     "url": "https://www.bbc.com/news/articles/c1mx28gyl29o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T00:21:18Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e1/live/34536e00-9f23-11f0-b66c-6be55cdd037e.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-88fdee0b30",
-    "source": "BBC — Top Stories",
-    "title": "Israeli naval ships intercept Gaza-bound flotilla",
-    "summary": "Climate activist Greta Thunberg is among activists on the Global Sumud Flotilla being taken to an Israeli port.",
-    "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T00:13:19Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99e4/live/eceddee0-9f1f-11f0-92db-77261a15b9d2.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -103,18 +175,6 @@
     "url": "https://www.politico.eu/article/uk-kemi-badenoch-pledges-scrap-uk-climate-law-conservative-party/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-01T23:01:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2234470189-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7971b62fcb",
-    "source": "BBC — Top Stories",
-    "title": "Conservationist Dame Jane Goodall dies aged 91",
-    "summary": "Dr Goodall was a world-leading expert on chimpanzees and a renowned conservationist.",
-    "url": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T22:47:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/f07cc970-9f08-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -228,18 +288,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-cfa243644b",
-    "source": "Politico — UK",
-    "title": "White House pushes back on Pope Leo’s statement that immigrants are subject to ‘inhuman treatment’ in the US",
-    "summary": "It’s not the first time the bishop of Rome has criticized the Trump administration’s immigration policies.",
-    "url": "https://www.politico.com/news/2025/10/01/white-house-pushes-back-on-pope-leos-statement-that-immigrants-are-subject-to-inhuman-treatment-in-the-u-s-00590470?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-01T20:34:59Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-f05e3dc26a",
     "source": "The Guardian — UK",
     "title": "Jane Goodall, world-renowned primatologist, dies aged 91",
@@ -259,54 +307,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/01/met-plunged-into-crisis-amid-fresh-claims-of-bigotry-and-excessive-force",
     "published": "2025-10-01T19:46:18Z",
     "image_url": "https://i.guim.co.uk/img/media/e70bddb8499f88a20d304b8719375c911e8780e1/583_224_1956_1565/master/1956.jpg?width=140&quality=85&auto=format&fit=max&s=9cbf52ddf479d97bdc629537b0f1a8d6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-aee5c9553d",
-    "source": "Politico — UK",
-    "title": "Trump delaying triple-digit pharma tariffs to negotiate drug price deals",
-    "summary": "Trump threatened 100 percent tariffs on certain brand-name drugs last week. The administration is using the threat to secure drug pricing deals with major pharma companies.",
-    "url": "https://www.politico.com/news/2025/10/01/trump-delays-triple-digit-pharma-tariffs-to-negotiate-drug-price-deals-00590051?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-01T19:30:56Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-b4afba5903",
-    "source": "Politico — UK",
-    "title": "Israel intercepts Gaza-bound aid flotilla carrying Greta Thunberg and MEPs",
-    "summary": "The flotilla set sail in August and has pro-Palestine activists from around the world on board.",
-    "url": "https://www.politico.eu/article/israel-global-sumud-flotilla-gaza-aid-greta-thunberg-rima-hassan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-01T19:16:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2237565637-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-ac004bcc38",
-    "source": "Politico — UK",
-    "title": "German police arrest 3 accused of plotting attacks for Hamas",
-    "summary": "The suspects face charges including membership in a foreign terrorist organization and were allegedly planning assassinations.",
-    "url": "https://www.politico.eu/article/hamas-arrests-germany-firearms-terrorism/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-01T18:59:10Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2237923438-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-801926f5b4",
-    "source": "BBC — Top Stories",
-    "title": "William event may have been target of Mail publisher blagging, Harry's lawyer says",
-    "summary": "The Duke of Sussex is one of seven high-profile people bringing legal action against Daily Mail publisher.",
-    "url": "https://www.bbc.com/news/articles/c07v2dmzv1jo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T18:30:40Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d927/live/2db64bf0-9ee0-11f0-98b1-59d49dad95e6.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
