@@ -1,24 +1,36 @@
 [
   {
-    "id": "BBC — Top Stories-bd01f5a0bc",
+    "id": "BBC — Top Stories-235403e5dc",
     "source": "BBC — Top Stories",
-    "title": "Two-child benefit cap has been devastating - Phillipson",
-    "summary": "The education secretary says there is a \"real urgency\" about the issue, as she signals the cap could soon be lifted.",
-    "url": "https://www.bbc.com/news/articles/cx2319p3dg7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T05:13:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c8e/live/7655ee70-9ef3-11f0-928c-71dbb8619e94.jpg",
+    "title": "Thames Water lenders submit rescue plan to stave off collapse",
+    "summary": "London & Valley Water, a consortium of investors, plans to write off some of the company's huge debts.",
+    "url": "https://www.bbc.com/news/articles/cn82pm40915o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T06:26:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c6d/live/d88269a0-9f54-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-298bb0a120",
+    "id": "BBC — Top Stories-88fdee0b30",
     "source": "BBC — Top Stories",
-    "title": "Heart surgeon's failures contributed to multiple deaths",
-    "summary": "Karen Booth carried out operations she wasn’t skilled enough to perform, an investigation found.",
-    "url": "https://www.bbc.com/news/articles/ce3yz4q9p4po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T05:09:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83af/live/4975bce0-9a1c-11f0-928c-71dbb8619e94.png",
+    "title": "Israeli naval ships intercept Gaza-bound flotilla",
+    "summary": "Climate activist Greta Thunberg is among activists on the Global Sumud Flotilla being taken to an Israeli port.",
+    "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T06:13:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99e4/live/eceddee0-9f1f-11f0-92db-77261a15b9d2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f8837b9789",
+    "source": "BBC — Top Stories",
+    "title": "Tories pledge to scrap landmark climate legislation",
+    "summary": "Conservative leader Kemi Badenoch says her party would axe legally binding targets to cut emissions.",
+    "url": "https://www.bbc.com/news/articles/czrp2k3m3deo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T05:19:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/752b/live/bb9f6640-9ef4-11f0-b1c8-5d59c9f3a032.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -31,6 +43,30 @@
     "url": "https://www.bbc.com/news/articles/c8d7l2pvdrro?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T05:04:06Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1269/live/817e5090-9e1b-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-5f36906c25",
+    "source": "The Guardian — UK",
+    "title": "UK fifth-worst country in Europe for loss of green space to development",
+    "summary": "Exclusive: 1,680 football pitches of protected natural land in England, Wales and Northern Ireland lost in five years ‘Desecration of landscape’: the fight over development in areas of outstanding natural beauty Revealed: Europe losing 600 football pitches of nature and crop land a day Nature and farmland equivalent in size to that of the New Forest – 604 sq km – was lost to concrete and bricks and mortar in the UK between 2018 and 2023, according to an investigation by the Guardian and European partners. In the same period the loss of some of the most protected and special natural areas in England, Wales and Northern Ireland, known as national landscapes, reached 12 sq km; equivalent to 1,680 football pitches worth of natural land. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/oct/02/uk-fifth-worst-country-in-europe-for-loss-of-green-space-to-development",
+    "published": "2025-10-02T05:00:40Z",
+    "image_url": "https://i.guim.co.uk/img/media/5f251ac45d5fd94b7f7ea7656dde2a00c3df243d/334_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=6bcc453c8ae22c1f9c03fe449dd2055a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-23902b8630",
+    "source": "The Guardian — UK",
+    "title": "Weatherwatch: AI flood forecasting gives hope to people in vulnerable areas",
+    "summary": "Researchers say machine learning tool can help boost flood prediction accuracy as much as sixfold Just over a week ago, Super Typhoon Ragasa ripped through communities in the Philippines, Taiwan, Hong Kong and southern China. In Taiwan, a lake burst resulted in a deadly wall of water pouring down a mountain, killing at least 14 people, injuring 18 and leaving 33 people unaccounted for. Now, a new AI flood forecasting tool is giving hope that earlier warnings can be given and lives saved. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/02/weatherwatch-ai-flood-forecasting-gives-hope-to-people-in-vulnerable-areas",
+    "published": "2025-10-02T05:00:39Z",
+    "image_url": "https://i.guim.co.uk/img/media/ed3667c57bfbfaaacf8859f4073d3c356a78034a/647_0_6494_5195/master/6494.jpg?width=140&quality=85&auto=format&fit=max&s=11e83e98d529aa168852ec7be2ddebb0",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -67,18 +103,6 @@
     "url": "https://www.bbc.com/news/articles/c0lk2j5p22ko?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T04:22:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1880/live/cab34e00-9f1a-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-88fdee0b30",
-    "source": "BBC — Top Stories",
-    "title": "Israeli naval ships intercept Gaza-bound flotilla",
-    "summary": "Climate activist Greta Thunberg is among activists on the Global Sumud Flotilla being taken to an Israeli port.",
-    "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T03:54:05Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99e4/live/eceddee0-9f1f-11f0-92db-77261a15b9d2.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -168,18 +192,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-545269566d",
-    "source": "BBC — Top Stories",
-    "title": "Musk becomes world's first half-trillionaire",
-    "summary": "The rise has been driven by a sharp increase in the value of his electric car company Tesla.",
-    "url": "https://www.bbc.com/news/articles/c89d3547npjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T01:45:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1507/live/787fe140-9f1d-11f0-9667-7bc33bda5819.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-515ba5b6dd",
     "source": "Politico — UK",
     "title": "Not even threat of war stopped EU summit becoming a talking shop",
@@ -234,7 +246,7 @@
     "summary": "The hackers tell the BBC they are sorry for their actions - but experts question say it's a practical rather than moral move.",
     "url": "https://www.bbc.com/news/articles/c8rv83mrlyyo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-01T23:01:12Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0d0/live/7387ec40-9ef1-11f0-966a-39edada3cd47.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1322/live/710a8730-9f54-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -314,7 +326,7 @@
   {
     "id": "BBC — Top Stories-f77fbe132e",
     "source": "BBC — Top Stories",
-    "title": "Refugees to face longer route to UK settlement rights",
+    "title": "Refugees to face longer wait to settle permanently in UK",
     "summary": "Details of the new conditions refugees will have to meet are to be set out later in the autumn.",
     "url": "https://www.bbc.com/news/articles/cddmpr21yr2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-01T21:30:05Z",
@@ -355,6 +367,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/01/met-plunged-into-crisis-amid-fresh-claims-of-bigotry-and-excessive-force",
     "published": "2025-10-01T19:46:18Z",
     "image_url": "https://i.guim.co.uk/img/media/e70bddb8499f88a20d304b8719375c911e8780e1/583_224_1956_1565/master/1956.jpg?width=140&quality=85&auto=format&fit=max&s=9cbf52ddf479d97bdc629537b0f1a8d6",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-801926f5b4",
+    "source": "BBC — Top Stories",
+    "title": "William event may have been target of Mail publisher blagging, Harry's lawyer says",
+    "summary": "The Duke of Sussex is one of seven high-profile people bringing legal action against Daily Mail publisher.",
+    "url": "https://www.bbc.com/news/articles/c07v2dmzv1jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T18:30:40Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d927/live/2db64bf0-9ee0-11f0-98b1-59d49dad95e6.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -420,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-b6464a62b7",
-    "source": "The Guardian — UK",
-    "title": "Firms run by former diplomats and ex-Tory chief first to appear on influence register",
-    "summary": "Foreign Influence Registration Scheme designed to shine light on companies paid to represent foreign states in UK Firms run by two former British ambassadors and an ex-chief of staff to the Conservatives are the first three to appear on the government’s new register of foreign influence. The register is designed to shine a light on which companies are being paid to represent foreign states in the UK. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/01/firms-run-by-former-diplomats-and-ex-tory-chief-first-to-appear-on-influence-register",
-    "published": "2025-10-01T17:06:10Z",
-    "image_url": "https://i.guim.co.uk/img/media/a801047326dc65a702d54d3e7a9ab8e3f15944cf/373_0_4553_3644/master/4553.jpg?width=140&quality=85&auto=format&fit=max&s=52946967e17159532c5bfa5cbd4ac1af",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-685c8f2f30",
     "source": "BBC — Top Stories",
     "title": "Why BBC sent undercover reporter into a busy London police station",
@@ -456,13 +468,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-12a4ec153d",
+    "id": "The Guardian — UK-31050db065",
     "source": "The Guardian — UK",
-    "title": "Myleene Klass felt ‘terror’ after being sent air gun by alleged stalker, trial told",
-    "summary": "Handcuffs and police uniform also among items Peter Windsor is accused of sending to Classic FM studios The TV and radio presenter and former pop star Myleene Klass has told a jury of the “sheer terror” and sense of violation she felt after being sent items in the post including an air pistol, handcuffs and a police uniform by an alleged stalker. Klass was giving evidence against Peter Windsor, 61, of Stechford, Birmingham. Windsor is accused of stalking Klass and her fellow Classic FM presenter Katie Breathwick between 2020 and 2024 by sending items to the radio station’s studios in central London. He denies the charges. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/01/myleene-klass-felt-terror-after-being-sent-air-gun-by-alleged-stalker-trial-hears",
-    "published": "2025-10-01T16:14:27Z",
-    "image_url": "https://i.guim.co.uk/img/media/cf737f76a1ed288d204f1092b3cb92227088669c/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2842c6389fc5ea8d751d227b117913ee",
+    "title": "UK politics: Powell victory in Labour’s deputy leader contest would mean ‘division and disunity’, Phillipson suggests – as it happened",
+    "summary": "Lucy Powell and Bridget Phillipson put their cases to party members at Labour’s conference on Wednesday At the Labour conference Ed Miliband, the energy secretary, has just started his speech. Responding to the news that he will announce a total ban on fracking (see 9.19am ), Asad Rehman, chief executive of Friends of the Earth , said: By providing a clear vision for our energy future based on helping people, not on ignoring the science, the energy secretary has sent an important message that the government is listening to communities. Fracking is and always has been unpopular, both with people facing it off locally and the wider public. The government must now translate its plans to ban fracking permanently into policy, alongside closing a loophole in planning law that still allows it to happen by the backdoor. Andy Burnham is doing a fantastic job as the mayor of Manchester. I actually worked closely with him. We’ve reset that relationship between Westminster and our mayors, and we’re working well together. So I’ve got no personal issue with Andy in the slightest. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/01/keir-starmer-labour-conference-nigel-farage-reform-uk-politics-latest-news-updates",
+    "published": "2025-10-01T15:59:13Z",
+    "image_url": "https://i.guim.co.uk/img/media/76ab272bb5d2ecfbb71be150d5f8572aba021427/254_0_3099_2480/master/3099.jpg?width=140&quality=85&auto=format&fit=max&s=02a913f33b7da7899cb063833ebe2c3f",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -523,18 +535,6 @@
     "url": "https://www.theguardian.com/environment/2025/oct/01/labour-fracking-ban-end-practice-in-uk-for-good",
     "published": "2025-10-01T14:07:59Z",
     "image_url": "https://i.guim.co.uk/img/media/b6edc40706af602ce2e233958acd8e4d79e20766/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e013a22d24d085654f810f411c90bab3",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-dcfd2d6bc2",
-    "source": "The Guardian — UK",
-    "title": "Selfridges blames slump in tourists shopping for luxury goods as sales fall",
-    "summary": "Losses narrow to nearly £16m for 48 weeks to 4 January 2025 but group has not made pre-tax profit since 2019 Selfridges has blamed a slump in the number of international tourists shopping for luxury goods in the UK and weaker consumer confidence for a fall in annual sales, as the retailer racked up losses for a fifth year in a row. The upmarket department store chain reported a 7% decline in sales in the 48 weeks to 4 January 2025 to £775m compared with £835m recorded over the 53 weeks of its previous year. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/01/selfridges-blames-slump-in-tourists-shopping-for-luxury-goods-as-sales-fall",
-    "published": "2025-10-01T13:14:35Z",
-    "image_url": "https://i.guim.co.uk/img/media/1288609cbd1b1eb4f743047f4bbfce0065e15031/88_3_2894_2316/master/2894.jpg?width=140&quality=85&auto=format&fit=max&s=03e4bac9a316a6478a65567fa111c20a",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
