@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-235403e5dc",
+    "source": "BBC — Top Stories",
+    "title": "Thames Water lenders submit rescue plan to stave off collapse",
+    "summary": "London & Valley Water, a consortium of investors, plans to write off some of the company's huge debts.",
+    "url": "https://www.bbc.com/news/articles/cn82pm40915o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T09:02:15Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c6d/live/d88269a0-9f54-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-6df5884a79",
+    "source": "The Guardian — UK",
+    "title": "‘Utter nonsense’ to say PM tried to incite violence against Farage, minister says – UK politics live",
+    "summary": "Migration minister Mike Tapp accuses Reform UK’s head of policy Zia Yusuf of ‘snowflakery’ Dozens of US flags used for Donald Trump’s unprecedented second state visit to the UK last month had to be replaced because the stripes were the wrong shade of red, a government supplier has claimed, Matthew Weaver reports. This is what Keir Starmer told reporters as he arrived at the European Political Community summit in Copenhagen this morning. We’re certainly discussing illegal migration and looking at what further options we can take together. Obviously, I’ve always argued that working with other countries is always a stronger response. So we’re looking at a number of options there. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/02/reform-uk-zia-yusuf-keir-starmer-nigel-farage-immigration-asylum-labour-climate-change-uk-politics-live",
+    "published": "2025-10-02T08:58:17Z",
+    "image_url": "https://i.guim.co.uk/img/media/c38ea29ec527c8763088feac40975525796aaf66/473_0_4358_3487/master/4358.jpg?width=140&quality=85&auto=format&fit=max&s=4471fc9edb684e71be9513c26842f5ec",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-2fb423f4ae",
+    "source": "BBC — Top Stories",
+    "title": "In full: Met chief's letter to home secretary and mayor of London",
+    "summary": "Sir Mark Rowley wrote to Shabana Mahmood and London Mayor Sadiq Khan to address Panorama's findings.",
+    "url": "https://www.bbc.com/news/articles/cz9j283j9pko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T08:20:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/937a/live/0b684290-9f69-11f0-99d3-79886bca9dc5.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-c484a27a56",
     "source": "Politico — UK",
     "title": "Angry opposition threatens French PM over blurry budget plans as strikes loom",
@@ -7,18 +43,6 @@
     "url": "https://www.politico.eu/article/france-sebastien-lecornu-prime-minister-already-running-out-of-time/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-02T08:00:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/30/GettyImages-2234521937-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-71c86f8783",
-    "source": "BBC — Top Stories",
-    "title": "Watch: Met Police chief says Panorama's findings are 'horrific'",
-    "summary": "Met Police chief Sir Mark Rowley has spoken to BBC London after a Panorama investigation found misogyny and racism inside the force.",
-    "url": "https://www.bbc.com/news/videos/c20e238mgkeo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T07:58:21Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a525/live/c32d3070-9f64-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -50,8 +74,8 @@
   {
     "id": "The Guardian — UK-3e7aead041",
     "source": "The Guardian — UK",
-    "title": "Blackburn MP’s baby target of ‘depraved’ online abuse hours after being born",
-    "summary": "Independent Adnan Hussain says the racist and sexist posts expose ‘dark abyss of hatred and despair’ in UK being left to grow unchecked The newborn daughter of a British MP was the target of “utterly depraved” and sexist online abuse hours after her birth, her father has told the Guardian. The independent MP Adnan Hussain, who won his Blackburn seat in 2024 running on a pro-Gaza stance, said he and his newborn were subject to “vile” abuse after he posted a pixelated picture of her on X. Continue reading...",
+    "title": "Blackburn MP’s baby was target of ‘depraved’ online abuse hours after being born",
+    "summary": "Independent Adnan Hussain says racist and sexist posts expose ‘dark abyss of hatred and despair’ in UK being left to grow unchecked The newborn daughter of a British MP was the target of “utterly depraved” and sexist online abuse hours after her birth, her father has told the Guardian. The independent MP Adnan Hussain, who won his Blackburn seat in 2024 running on a pro-Gaza stance, said he and his newborn were subject to “vile” abuse after he posted a pixelated picture of her on X. Continue reading...",
     "url": "https://www.theguardian.com/society/2025/oct/02/blackburn-mp-adnan-hussain-baby-depraved-online-abuse",
     "published": "2025-10-02T07:53:18Z",
     "image_url": "https://i.guim.co.uk/img/media/40ddd20f7fc2145a9e73e3fba0aba336316a9871/0_0_3384_2708/master/3384.jpg?width=140&quality=85&auto=format&fit=max&s=b88278f29f5b6f7336fc8d55cc240530",
@@ -62,7 +86,7 @@
   {
     "id": "BBC — Top Stories-5716481d1a",
     "source": "BBC — Top Stories",
-    "title": "'African tribe' evicted from Scottish Borders camp",
+    "title": "'African tribe' who camped in Scottish woodland evicted by police",
     "summary": "Police have moved in to remove three people, who call themselves the Kingdom of Kubala, from a site in Jedburgh.",
     "url": "https://www.bbc.com/news/articles/cj3yp4rvp18o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T07:43:59Z",
@@ -144,18 +168,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-235403e5dc",
-    "source": "BBC — Top Stories",
-    "title": "Thames Water lenders submit rescue plan to stave off collapse",
-    "summary": "London & Valley Water, a consortium of investors, plans to write off some of the company's huge debts.",
-    "url": "https://www.bbc.com/news/articles/cn82pm40915o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T07:01:56Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c6d/live/d88269a0-9f54-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-920e27f2d4",
     "source": "The Guardian — UK",
     "title": "China’s fifth-ranking official was suspect in dropped Westminster spy case",
@@ -163,18 +175,6 @@
     "url": "https://www.theguardian.com/world/2025/oct/02/uk-cps-china-official-intelligence-westminster-spy-case",
     "published": "2025-10-02T07:00:43Z",
     "image_url": "https://i.guim.co.uk/img/media/e898a1bb93965d5ada2a07ded82f78d56a0b2e91/46_283_2980_2384/master/2980.jpg?width=140&quality=85&auto=format&fit=max&s=e0179ec640db1293e06dfb51dfe32d5a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f8837b9789",
-    "source": "BBC — Top Stories",
-    "title": "Tories pledge to scrap landmark climate legislation",
-    "summary": "Conservative leader Kemi Badenoch says her party would axe legally binding targets to cut emissions.",
-    "url": "https://www.bbc.com/news/articles/czrp2k3m3deo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T05:19:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/752b/live/bb9f6640-9ef4-11f0-b1c8-5d59c9f3a032.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -198,7 +198,7 @@
     "summary": "The Alhashemi family have spent the past 15 years moving around Europe in a state of legal limbo.",
     "url": "https://www.bbc.com/news/articles/c8d7l2pvdrro?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T05:04:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1269/live/817e5090-9e1b-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e5f/live/462a74f0-9f6b-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -336,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-22d32e94ca",
-    "source": "BBC — Top Stories",
-    "title": "Surge in Ukrainian attacks on oil refineries sparks Russian fuel shortages",
-    "summary": "Ukraine has attacked refineries deep inside Russia, with Zelensky vowing to continue the strikes.",
-    "url": "https://www.bbc.com/news/articles/czx020k4056o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T23:02:49Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fb1/live/56fc9310-9ec3-11f0-928c-71dbb8619e94.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-deb0c3893d",
     "source": "BBC — Top Stories",
     "title": "'I won £65,000 at an employment tribunal – but I've yet to see a penny'",
@@ -399,10 +387,10 @@
     "id": "The Guardian — UK-1234698f85",
     "source": "The Guardian — UK",
     "title": "Starmer to end asylum ‘golden ticket’ of resettlement and family reunion rights",
-    "summary": "People granted asylum will have to earn right to invite family in plan charities call ‘straight from populist playbook’ People granted asylum will no longer be given “the golden ticket” of resettlement and family reunion rights, Keir Starmer said, amid deepening concerns from charities that his words are demonising refugees. As the prime minister prepared to discuss illegal migration with European leaders, No 10 outlined plans to strip successful claimants of the right to automatically invite spouses and children to join them. Continue reading...",
+    "summary": "People granted asylum will have to earn right to invite family in plan charities say is ‘straight from populist playbook’ People granted asylum will no longer be given “the golden ticket” of resettlement and family reunion rights, Keir Starmer said, amid deepening concerns from charities that his words are demonising refugees. As the prime minister prepared to discuss illegal migration with European leaders, No 10 outlined plans to strip successful claimants of the right to automatically invite spouses and children to join them. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/01/starmer-to-end-asylum-golden-ticket-of-resettlement-and-family-reunion-rights",
     "published": "2025-10-01T21:30:30Z",
-    "image_url": "https://i.guim.co.uk/img/media/2281326e807368ec8d05bc6d552794debcf9232b/86_0_3226_2581/master/3226.jpg?width=140&quality=85&auto=format&fit=max&s=e4d5344049dfb279eda33a611ca924a4",
+    "image_url": "https://i.guim.co.uk/img/media/2281326e807368ec8d05bc6d552794debcf9232b/666_529_2565_2052/master/2565.jpg?width=140&quality=85&auto=format&fit=max&s=61fb58fc6b66be76bf7646f21a3fb7b0",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -411,7 +399,7 @@
     "id": "BBC — Top Stories-85e09c819a",
     "source": "BBC — Top Stories",
     "title": "Dame Jane Goodall revolutionised our understanding of our closest primate cousins",
-    "summary": "Those she inspired say she not only revolutionised our understanding of chimpanzees - but challenged how we relate to the natural world.",
+    "summary": "The conservationist, who died aged 91 on Wednesday, challenged how we relate to the natural world.",
     "url": "https://www.bbc.com/news/articles/cgj1pz8q63go?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-01T20:53:35Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f8/live/de46afc0-9f06-11f0-92db-77261a15b9d2.jpg",
@@ -420,13 +408,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-f05e3dc26a",
+    "id": "The Guardian — UK-a9b1d505aa",
     "source": "The Guardian — UK",
-    "title": "Jane Goodall, world-renowned primatologist, dies aged 91",
-    "summary": "Jane Goodall Institute says ‘tireless advocate’ for natural world died in California during US speaking tour The world-renowned primatologist Jane Goodall has died at the age of 91, her institute has said. The Jane Goodall Institute announced that she had died of natural causes while in California as part of a US speaking tour. Continue reading...",
-    "url": "https://www.theguardian.com/science/2025/oct/01/jane-goodall-world-renowned-primatologist-dies",
-    "published": "2025-10-01T20:34:07Z",
-    "image_url": "https://i.guim.co.uk/img/media/f6234eb099c72669845e82d47fab8e0ef5e4878f/0_651_1411_1128/master/1411.jpg?width=140&quality=85&auto=format&fit=max&s=2e64a85594e0072b0572e39bfc6bd48e",
+    "title": "Met plunged into crisis amid fresh claims of misogyny and racism",
+    "summary": "Commissioner Mark Rowley says prejudice has ‘put down deep roots’ within force after BBC Panorama investigation ​Metropolitan police officers have been recorded calling for immigrants to be shot, bragging about excessive force, being dismissive about a rape complaint and making anti-Muslim and anti-women comments. The BBC Panorama programme followed seven months of undercover filming at Charing Cross police station. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/01/met-plunged-into-crisis-amid-fresh-claims-of-bigotry-and-excessive-force",
+    "published": "2025-10-01T19:46:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/e70bddb8499f88a20d304b8719375c911e8780e1/583_224_1956_1565/master/1956.jpg?width=140&quality=85&auto=format&fit=max&s=9cbf52ddf479d97bdc629537b0f1a8d6",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -516,18 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-bef00e9692",
-    "source": "The Guardian — UK",
-    "title": "Arbitrary detention victims urge Starmer to press Modi on jailed British Sikh",
-    "summary": "Activist Jagtar Singh Johal has been held in Indian prison for nearly eight years without full trial The sisters of the British-Egyptian human rights campaigner Alaa Abd el-Fattah have intervened for the first time since his release from prison in Egypt to call on Keir Starmer to push Narendra Modi to free a British Sikh activist when he meets the Indian prime minister next week. Jagtar Singh Johal, from Dumbarton, has been held in an Indian jail for nearly eight years without facing full trial in what his supporters say is an arbitrary and egregious denial of justice by a British ally. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/01/keir-starmer-narendra-modi-india-jagtar-singh-johal-release",
-    "published": "2025-10-01T15:47:31Z",
-    "image_url": "https://i.guim.co.uk/img/media/7cbb550305c6d90f879b31bd2a4ec6c5f04efc26/0_196_945_756/master/945.jpg?width=140&quality=85&auto=format&fit=max&s=c5f034dbe9f3eef5fca0aa5932139299",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-fbd4693346",
     "source": "The Guardian — UK",
     "title": "Will Labour’s fracking ban end practice in the UK for good?",
@@ -595,6 +571,30 @@
     "url": "https://www.theguardian.com/politics/2025/sep/30/starmer-brings-the-steel-and-draws-up-battle-lines-with-reform-uk",
     "published": "2025-09-30T19:46:26Z",
     "image_url": "https://i.guim.co.uk/img/media/a30d7840857631559e32c25c4ade0329842b28f1/396_0_6990_5592/master/6990.jpg?width=140&quality=85&auto=format&fit=max&s=207ae580bbbb3f3184b076013ed4e545",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-823f09f48e",
+    "source": "BBC — Top Stories",
+    "title": "Watch on iPlayer: Who Was Charlie Kirk?",
+    "summary": "How did Charlie Kirk become one of the most important conservative activists in the US?",
+    "url": "https://www.bbc.co.uk/iplayer/episode/m002hpmg?at_medium=RSS&at_campaign=rss",
+    "published": "2025-09-30T16:00:00Z",
+    "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m3k9cm.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-53515fb374",
+    "source": "BBC — Top Stories",
+    "title": "BBC News app",
+    "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+    "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+    "published": "2025-04-30T14:04:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
