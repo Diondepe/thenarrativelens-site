@@ -1,9 +1,57 @@
 [
   {
+    "id": "BBC — Top Stories-9c976d5a6f",
+    "source": "BBC — Top Stories",
+    "title": "Does the UK go far enough to protect children from conspiracy theorist parents?",
+    "summary": "The inquest following the death of Paloma Shemirani raises the question of how to prevent young people from health misinformation",
+    "url": "https://www.bbc.com/news/articles/c749d9557j2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T23:11:02Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8d4/live/6ab642b0-9ec9-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-96d033bd1d",
+    "source": "The Guardian — UK",
+    "title": "Manchester attack: Two killed and three injured after terrorist drives into grounds of synagogue and stabs worshippers",
+    "summary": "Police say Jihad Al-Shamie, a British citizen of Syrian descent, was behind car and knife attack that left three people seriously injured Police have shot dead a terrorist who killed two people and seriously injured three others in an attack at a synagogue in Manchester on Yom Kippur, the holiest day in the Jewish calendar. Using a car to ram into the grounds of the Heaton Park Hebrew Congregation synagogue in Crumpsall, the man then stabbed worshippers in a six-minute rampage that only ended when armed officers shot at him twice, fearing he also had an explosive device tied to his chest. It was later found to be a fake. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/02/police-at-scene-of-reported-stabbing-at-synagogue-in-manchester",
+    "published": "2025-10-02T23:00:39Z",
+    "image_url": "https://i.guim.co.uk/img/media/40de6fd5fe5b752185ffd7fe1d6c669765e54205/981_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=597421731f0acd8eeaf27c1a63d708e0",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-8939361b93",
+    "source": "The Guardian — UK",
+    "title": "Call to allow ‘safe and effective’ at-home abortions up to 12 weeks in UK",
+    "summary": "Experts point to study showing procedures at home are no risker or less successful than hospital care At-home abortions should be allowed for up to 12 weeks of pregnancy across the UK, according to academics, after a study found they were just as safe and effective as hospital care. A medical abortion involves taking two medications, mifepristone and misoprostol, to end a pregnancy. In 2022, at-home medical abortions were made permanent in England and Wales, after temporary legislation allowed them to take place at home during the pandemic. In Northern Ireland, at-home abortion care is not permitted at any gestation. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/oct/02/call-allow-safe-effective-home-abortions-12-weeks-uk",
+    "published": "2025-10-02T22:30:17Z",
+    "image_url": "https://i.guim.co.uk/img/media/d7510ad3f1b4a2591b88f04e7d667a5dc34ec0ab/170_60_1306_1045/master/1306.jpg?width=140&quality=85&auto=format&fit=max&s=fe26f8287cd2c86bc3559852c5ad6004",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-57ae81213f",
+    "source": "The Guardian — UK",
+    "title": "Reform UK council in Nottinghamshire ends ban on local journalists",
+    "summary": "Shut-out of Nottingham Post and its website reversed after threat of legal action over damaging freedom of expression A Reform UK council has ended its ban on journalists from the area’s biggest local newspaper after being threatened with legal action over damaging the outlet’s freedom of expression. Nottinghamshire county council, which has been led by Reform since the local elections earlier this year, said it was “committed to the principles of openness” after lifting the sanctions it had placed on journalists from the Nottingham Post and its website, Nottinghamshire Live. Continue reading...",
+    "url": "https://www.theguardian.com/media/2025/oct/02/reform-uk-council-in-nottinghamshire-ends-ban-on-local-journalists",
+    "published": "2025-10-02T22:18:02Z",
+    "image_url": "https://i.guim.co.uk/img/media/1655c8b62571a63a45da04543fba4b94ef6c6381/628_0_6281_5025/master/6281.jpg?width=140&quality=85&auto=format&fit=max&s=1880959cd47f43b619e7d1a6345d83af",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-016c260691",
     "source": "BBC — Top Stories",
     "title": "Police name Manchester attacker who killed two at synagogue",
-    "summary": "Jihad Al-Shamie, a 35-year-old British man of Syrian decent, is named as the synagogue attacker.",
+    "summary": "Jihad Al-Shamie, a 35-year-old British man of Syrian descent, is named as the synagogue attacker.",
     "url": "https://www.bbc.com/news/articles/cpd93x0ql0do?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T21:54:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d24/live/ee9ed3b0-9fa2-11f0-92db-77261a15b9d2.jpg",
@@ -62,7 +110,7 @@
   {
     "id": "BBC — Top Stories-e52eea32e4",
     "source": "BBC — Top Stories",
-    "title": "Worshippers helped stop suspect from entering synagogue - what we know about attack",
+    "title": "What we know about the attack: Worshippers helped stop suspect entering synagogue",
     "summary": "Two Jewish people were killed in a car and stabbing attack at Heaton Park Hebrew Congregation Synagogue in Manchester on the holiest day in the Jewish religious calendar.",
     "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T20:46:16Z",
@@ -79,18 +127,6 @@
     "url": "https://www.bbc.com/news/articles/ce3yz4q9p4po?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T20:43:32Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a73/live/fed564c0-9f60-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-96d033bd1d",
-    "source": "The Guardian — UK",
-    "title": "Manchester synagogue terror attack: two killed and suspect shot dead",
-    "summary": "Police say Jihad Al-Shamie, a British citizen of Syrian descent, was behind car and knife attack that left four people seriously injured Police have shot dead a terrorist who killed two people and seriously injured four others in an attack at a synagogue in Manchester on Yom Kippur, the holiest day in the Jewish calendar. Using a car to ram into the grounds of the Heaton Park Hebrew Congregation synagogue in Crumpsall, the man then stabbed worshippers in a six-minute rampage that only ended when armed officers shot at him twice, fearing he also had an explosive device tied to his chest. It was later found to be a fake. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/02/police-at-scene-of-reported-stabbing-at-synagogue-in-manchester",
-    "published": "2025-10-02T20:34:11Z",
-    "image_url": "https://i.guim.co.uk/img/media/40de6fd5fe5b752185ffd7fe1d6c669765e54205/981_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=597421731f0acd8eeaf27c1a63d708e0",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -156,18 +192,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-57ae81213f",
-    "source": "The Guardian — UK",
-    "title": "Reform UK council in Nottinghamshire ends ban on local journalists",
-    "summary": "Ban on Nottingham Post and its website reversed after threat of legal action over damaging freedom of expression A Reform UK council has ended its ban on journalists from the area’s biggest local newspaper after being threatened with legal action over damaging the outlet’s freedom of expression. Nottinghamshire county council, which has been led by Reform since the local elections earlier this year, said it was “committed to the principles of openness” after lifting the sanctions it had placed on journalists from the Nottingham Post and its website, Nottinghamshire Live. Continue reading...",
-    "url": "https://www.theguardian.com/media/2025/oct/02/reform-uk-council-in-nottinghamshire-ends-ban-on-local-journalists",
-    "published": "2025-10-02T19:02:34Z",
-    "image_url": "https://i.guim.co.uk/img/media/1655c8b62571a63a45da04543fba4b94ef6c6381/628_0_6281_5025/master/6281.jpg?width=140&quality=85&auto=format&fit=max&s=1880959cd47f43b619e7d1a6345d83af",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e0ba3b8f2a",
     "source": "The Guardian — UK",
     "title": "Netanyahu suggests ‘weakness on terrorism’ led to UK synagogue attack",
@@ -187,18 +211,6 @@
     "url": "https://www.bbc.com/news/articles/cd9y5nkxpzlo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T18:36:40Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5c8dfd50-9fbd-11f0-b73e-e715acbd6a10.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-bfbf1af73f",
-    "source": "The Guardian — UK",
-    "title": "Police ask for protest against Palestine Action ban to be postponed after Manchester attack",
-    "summary": "Exclusive: Organisers say protest will go ahead as planned and it is up to Met whether or not it prioritises arrests Police have asked organisers of a mass protest against the ban on Palestine Action to postpone it so that resources can be used to protect Jewish and Muslim communities after the terror attack at a Manchester synagogue. Defend Our Juries, which has been organising the protests in London, said it intended to go ahead with its action on Saturday and it urged the police to focus on protecting those communities fearing reprisals or follow-up terror attacks. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/02/police-ask-for-palestine-action-protest-to-be-postponed-to-free-up-officers-in-wake-of-terror-attack",
-    "published": "2025-10-02T18:20:50Z",
-    "image_url": "https://i.guim.co.uk/img/media/a6bb4f7fcd24a906763f3a993cdc454e29193799/1670_244_6522_5220/master/6522.jpg?width=140&quality=85&auto=format&fit=max&s=c103d3b7a8f8948650b4052f983302ea",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -336,18 +348,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-9b9c7a315e",
-    "source": "BBC — Top Stories",
-    "title": "Mum's anti-chemo views influenced daughter's death, coroner says",
-    "summary": "Paloma Shemirani died after refusing chemotherapy despite a diagnosis of non-Hodgkin lymphoma.",
-    "url": "https://www.bbc.com/news/articles/c77dmp3jjepo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T14:59:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/a9de5340-9fa7-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-6498ab0f65",
     "source": "Politico — UK",
     "title": "Viktor Orbán vs. The world: Who’s winning?",
@@ -422,7 +422,7 @@
   {
     "id": "BBC — Top Stories-5c50ec0888",
     "source": "BBC — Top Stories",
-    "title": "'The man was just running out with a knife' - eyewitnesses describe how attack unfolded",
+    "title": "Eyewitness: 'The man was just running out with a knife'",
     "summary": "A delivery driver describes the moment a man is shot by firearms officers at Heaton Park synagogue.",
     "url": "https://www.bbc.com/news/articles/cn0rp05ykx7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T12:45:13Z",
