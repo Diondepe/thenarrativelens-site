@@ -1,9 +1,21 @@
 [
   {
+    "id": "BBC — Top Stories-c5eefba452",
+    "source": "BBC — Top Stories",
+    "title": "Khan ‘appalled’ by Met officers’ behaviour as Mahmood calls footage ‘sickening’",
+    "summary": "The mayor of London's comments follow a BBC Panorama undercover report about Charing Cross police station.",
+    "url": "https://www.bbc.com/news/articles/c1mx28gyl29o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T03:06:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e1/live/34536e00-9f23-11f0-b66c-6be55cdd037e.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-7971b62fcb",
     "source": "BBC — Top Stories",
-    "title": "Conservationist Dame Jane Goodall dies aged 91",
-    "summary": "Dr Goodall was a world-leading expert on chimpanzees and a renowned conservationist.",
+    "title": "Dame Jane Goodall remembered as 'true hero for the planet'",
+    "summary": "Leonardo DiCaprio and Barack Obama are among those paying tribute to the leading conservationist.",
     "url": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T02:45:00Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/f07cc970-9f08-11f0-928c-71dbb8619e94.jpg",
@@ -91,18 +103,6 @@
     "url": "https://www.bbc.com/news/articles/c0lk2j5p22ko?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T01:19:23Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1880/live/cab34e00-9f1a-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-c5eefba452",
-    "source": "BBC — Top Stories",
-    "title": "Khan ‘appalled’ by Met officers’ behaviour as Mahmood calls footage ‘sickening’",
-    "summary": "The mayor of London's comments follow a BBC Panorama undercover report about Charing Cross police station.",
-    "url": "https://www.bbc.com/news/articles/c1mx28gyl29o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T00:21:18Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e1/live/34536e00-9f23-11f0-b66c-6be55cdd037e.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
