@@ -1,5 +1,125 @@
 [
   {
+    "id": "Politico — UK-c484a27a56",
+    "source": "Politico — UK",
+    "title": "Angry opposition threatens French PM over blurry budget plans as strikes loom",
+    "summary": "Sébastien Lecornu has yet to appoint ministers or win over Socialists as a budgetary deadline approaches.",
+    "url": "https://www.politico.eu/article/france-sebastien-lecornu-prime-minister-already-running-out-of-time/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-02T08:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/30/GettyImages-2234521937-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-71c86f8783",
+    "source": "BBC — Top Stories",
+    "title": "Watch: Met Police chief says Panorama's findings are 'horrific'",
+    "summary": "Met Police chief Sir Mark Rowley has spoken to BBC London after a Panorama investigation found misogyny and racism inside the force.",
+    "url": "https://www.bbc.com/news/videos/c20e238mgkeo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T07:58:21Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a525/live/c32d3070-9f64-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f77fbe132e",
+    "source": "BBC — Top Stories",
+    "title": "Refugees to face longer wait to settle permanently in UK",
+    "summary": "Details of the new conditions refugees will have to meet are to be set out later in the autumn.",
+    "url": "https://www.bbc.com/news/articles/cddmpr21yr2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T07:56:07Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c75/live/79b93320-9ef2-11f0-966a-39edada3cd47.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-f13fbe2c78",
+    "source": "Politico — UK",
+    "title": "Is Kemi Badenoch wise to call the Tories ‘a distressed asset’?",
+    "summary": "👉Listen to Politics at Sam and Anne’s on your podcast app👈 As Conservatives prepare to travel to Manchester for conference (and their opponents are joking that they hope the party enjoys its last conference), Anne’s got an interview with Kemi Badenoch. The Tory leader tells members to “hold their nerve” with her – and comes […]",
+    "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/is-kemi-badenoch-wise-to-call-the-tories-a-distressed-asset/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-02T07:55:48Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/03/27/PASAA_PODCAST-HERO-16BY9.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-3e7aead041",
+    "source": "The Guardian — UK",
+    "title": "Blackburn MP’s baby target of ‘depraved’ online abuse hours after being born",
+    "summary": "Independent Adnan Hussain says the racist and sexist posts expose ‘dark abyss of hatred and despair’ in UK being left to grow unchecked The newborn daughter of a British MP was the target of “utterly depraved” and sexist online abuse hours after her birth, her father has told the Guardian. The independent MP Adnan Hussain, who won his Blackburn seat in 2024 running on a pro-Gaza stance, said he and his newborn were subject to “vile” abuse after he posted a pixelated picture of her on X. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/oct/02/blackburn-mp-adnan-hussain-baby-depraved-online-abuse",
+    "published": "2025-10-02T07:53:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/40ddd20f7fc2145a9e73e3fba0aba336316a9871/0_0_3384_2708/master/3384.jpg?width=140&quality=85&auto=format&fit=max&s=b88278f29f5b6f7336fc8d55cc240530",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5716481d1a",
+    "source": "BBC — Top Stories",
+    "title": "'African tribe' evicted from Scottish Borders camp",
+    "summary": "Police have moved in to remove three people, who call themselves the Kingdom of Kubala, from a site in Jedburgh.",
+    "url": "https://www.bbc.com/news/articles/cj3yp4rvp18o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T07:43:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e325/live/044bf1b0-9f63-11f0-ab23-87e36f512d0a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-8ee192c203",
+    "source": "The Guardian — UK",
+    "title": "Stars and stripes flags for Trump UK visit had to be changed for brighter red",
+    "summary": "Switch of 66 hand-sewn flags for use along Mall and at Windsor Castle cost estimated £52,800 in public funds Dozens of US flags used for Donald Trump’s unprecedented second state visit to the UK last month had to be replaced because the stripes were the wrong shade of red, a government supplier has claimed. The switch of the 66 hand-sewn flags that had been due to be used along the Mall in London and at Windsor Castle cost an estimated £52,800 in public funds. Continue reading...",
+    "url": "https://www.theguardian.com/us-news/2025/oct/02/stars-stripes-flags-trump-uk-visit-changed-brighter-red",
+    "published": "2025-10-02T07:40:08Z",
+    "image_url": "https://i.guim.co.uk/img/media/cc185906c536c8f5f6302476be5608e77a298d00/936_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=442d088ad03c2040e6933547fb6e918f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c73ea3b2dd",
+    "source": "BBC — Top Stories",
+    "title": "Watch: Campaigner Mina Smallman says report highlights problems with vetting",
+    "summary": "Mina Smallman told the BBC she was pleased that Panorama investigated the Metropolitan police.",
+    "url": "https://www.bbc.com/news/videos/c147267xlvgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T07:39:57Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8f3/live/31609530-9f62-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e5ab53feb9",
+    "source": "BBC — Top Stories",
+    "title": "Shein to open its first permanent outlets in France",
+    "summary": "The Asian fast-fashion giant will open concessions in six department stores in the country.",
+    "url": "https://www.bbc.com/news/articles/ckg2p87de58o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T07:34:21Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a7/live/34691f70-9f50-11f0-93d7-898124a81a47.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-77c68ae436",
+    "source": "The Guardian — UK",
+    "title": "Thames Water lenders submit new rescue plan to stave off collapse",
+    "summary": "Creditors in control of firm say they will write off loans, invest more and commit to paying pollution fines Business live – latest news The creditors in control of Thames Water have said they will commit to paying fines for pollution , as well as writing off more of their loans and investing more in the company, in new proposals to try to avoid the utility being forced into government administration. The controlling group of financial institutions, under the new London & Valley Water holding company, has been locked in talks for months with the regulator Ofwat since May over acceptable terms for the hugely complex restructuring of Britain’s biggest water company. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/02/thames-water-lenders-submit-new-rescue-plan-to-stave-off-collapse",
+    "published": "2025-10-02T07:22:01Z",
+    "image_url": "https://i.guim.co.uk/img/media/40c5adea32515f0a7177a8de93c9e9a6391ef904/529_130_3342_2675/master/3342.jpg?width=140&quality=85&auto=format&fit=max&s=271cc77b2c89817944441a6434373e3f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-88fdee0b30",
     "source": "BBC — Top Stories",
     "title": "Israeli naval ships intercept Gaza-bound flotilla",
@@ -7,6 +127,18 @@
     "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T07:11:37Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5c5/live/96415960-9f5f-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1a1171544e",
+    "source": "BBC — Top Stories",
+    "title": "Dozens feared dead in Indonesia school collapse, officials say",
+    "summary": "There are reportedly \"no signs of life\" under the wreckage, where 59 people are still missing.",
+    "url": "https://www.bbc.com/news/articles/c8d783yjvpyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T07:04:20Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dbf/live/d9716b40-9f59-11f0-af95-eb0d48238f5d.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -24,13 +156,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-62ca2401a4",
-    "source": "BBC — Top Stories",
-    "title": "Bollywood superstar Shah Rukh Khan enters the billionaire club",
-    "summary": "Khan has become one of the world's richest actors, with a net worth of $1.4bn , according to the Hurun India Rich list.",
-    "url": "https://www.bbc.com/news/articles/c1ed21d5ezno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T06:09:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/394f/live/9f7146d0-9f4b-11f0-bdc5-9b93eaf8a1a5.jpg",
+    "id": "The Guardian — UK-920e27f2d4",
+    "source": "The Guardian — UK",
+    "title": "China’s fifth-ranking official was suspect in dropped Westminster spy case",
+    "summary": "Person who was thought to have received intelligence is understood to be Cai Qi, de facto chief of staff to Xi Jinping British prosecutors suspected that China’s fifth most senior official was in receipt of intelligence from Westminster in a controversial and now-abandoned espionage case, the Guardian understands. The Crown Prosecution Service (CPS) said in April 2024 that a “senior member of the Chinese Communist party and a politburo member” had received “politically sensitive information” from two British researchers who were charged with spying for China . Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/oct/02/uk-cps-china-official-intelligence-westminster-spy-case",
+    "published": "2025-10-02T07:00:43Z",
+    "image_url": "https://i.guim.co.uk/img/media/e898a1bb93965d5ada2a07ded82f78d56a0b2e91/46_283_2980_2384/master/2980.jpg?width=140&quality=85&auto=format&fit=max&s=e0179ec640db1293e06dfb51dfe32d5a",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -54,7 +186,7 @@
     "summary": "Karen Booth carried out operations she wasn’t skilled enough to perform, an investigation found.",
     "url": "https://www.bbc.com/news/articles/ce3yz4q9p4po?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T05:09:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83af/live/4975bce0-9a1c-11f0-928c-71dbb8619e94.png",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a73/live/fed564c0-9f60-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -67,18 +199,6 @@
     "url": "https://www.bbc.com/news/articles/c8d7l2pvdrro?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T05:04:06Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1269/live/817e5090-9e1b-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-088b4e98ae",
-    "source": "BBC — Top Stories",
-    "title": "Bike thefts at stations 'decriminalised'",
-    "summary": "The British Transport Police will not investigate many categories of bicycle theft, the BBC learns.",
-    "url": "https://www.bbc.com/news/articles/c8jm3wxvlkjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T05:02:25Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a4b/live/5ebf9940-9d1e-11f0-bc17-37f040c2fadb.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -132,30 +252,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-13340d037e",
-    "source": "BBC — Top Stories",
-    "title": "The Papers: 'Golden ticket asylum rights to end' and 'Pay back the money, Mr Mone'",
-    "summary": "The PPE firm ordered to pay £122m over Covid contracts and refugee rights lead Thursday's papers.",
-    "url": "https://www.bbc.com/news/articles/c0lk2j5p22ko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T04:22:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1880/live/cab34e00-9f1a-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7971b62fcb",
-    "source": "BBC — Top Stories",
-    "title": "Dame Jane Goodall remembered as a 'true hero for the planet'",
-    "summary": "Leonardo DiCaprio and Barack Obama are among those paying tribute to the leading conservationist.",
-    "url": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T03:30:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/f07cc970-9f08-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-78aab1844e",
     "source": "Politico — UK",
     "title": "Trump tariff threats punch holes in UK trade deal",
@@ -180,18 +276,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a9abd970d3",
-    "source": "BBC — Top Stories",
-    "title": "Irish singer CMAT postpones UK tour due to wisdom teeth pain",
-    "summary": "CMAT has postponed her UK tour dates after waking up in \"throbbing pain\" and requiring wisdom teeth removal",
-    "url": "https://www.bbc.com/news/articles/c20v22j3ve3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T02:09:59Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf4/live/24267cb0-9f1f-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-edc022111e",
     "source": "Politico — UK",
     "title": "Macron’s big European meeting is turning into a speed-dating exercise",
@@ -204,13 +288,25 @@
     "cluster_id": null
   },
   {
+    "id": "Politico — UK-6063ae8fca",
+    "source": "Politico — UK",
+    "title": "LIVE: Can Europe regain its competitive edge?",
+    "summary": "All the latest updates and analysis from POLITICO’s big competitiveness gathering in Brussels.",
+    "url": "https://www.politico.eu/article/competitive-europe-summit-economic-security-defense-ai-live-updates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-02T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/Liveblog-competittiveness.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-4fa259398f",
     "source": "Politico — UK",
-    "title": "How the Czech rust belt echoes America’s populist shift",
+    "title": "Babiš surges in Czech election with populist pitch and Trump-style appeal",
     "summary": "Agriculture tycoon Andrej Babiš rides voter discontent back toward power in Prague.",
     "url": "https://www.politico.eu/article/czechia-andrej-babis-rust-belt-echoes-america-populist-shift-election-parliament/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-02T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2237912855-1-scaled.jpg",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/02/Babis_done_resized.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -266,23 +362,11 @@
   {
     "id": "BBC — Top Stories-6592fbb3a7",
     "source": "BBC — Top Stories",
-    "title": "Hackers delete children's pictures and data after nursery attack backlash",
+    "title": "Hackers say they have deleted children's pictures and data after nursery attack backlash",
     "summary": "The hackers tell the BBC they are sorry for their actions - but experts say it's a practical rather than moral move.",
     "url": "https://www.bbc.com/news/articles/c8rv83mrlyyo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-01T23:01:12Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c91/live/a39a27a0-9f59-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-69b1c58c83",
-    "source": "Politico — UK",
-    "title": "Kemi Badenoch pledges to scrap UK climate law",
-    "summary": "Kemi Badenoch’s Conservative Party has pledged to ditch the U.K.’s flagship climate law if they get back into government, in the latest signal that the party is firmly walking back on net zero commitments.",
-    "url": "https://www.politico.eu/article/uk-kemi-badenoch-pledges-scrap-uk-climate-law-conservative-party/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-01T23:01:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2234470189-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -312,30 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-6c72d412bb",
-    "source": "Politico — UK",
-    "title": "French military arrests 2 crew on suspected Russian shadow fleet vessel",
-    "summary": "The tanker may have taken part in the drone incursions into Danish airspace last week, according to French reports.",
-    "url": "https://www.politico.eu/article/french-military-arrests-crew-russian-shadow-fleet-vessel-boracay/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-01T22:21:49Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/02/GettyImages-2238144072-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-52ea6b3ded",
-    "source": "Politico — UK",
-    "title": "EU trio in G7 look for US, Japanese backup in using Russian assets",
-    "summary": "The European Central Bank fears putting Putin's assets to work could undermine the credibility of the euro. Tokyo and Washington would offer useful cover.",
-    "url": "https://www.politico.eu/article/european-central-bank-g7-united-states-japan-russian-assets-ukraine-euro/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-01T22:18:53Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2237704798.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-1234698f85",
     "source": "The Guardian — UK",
     "title": "Starmer to end asylum ‘golden ticket’ of resettlement and family reunion rights",
@@ -343,18 +403,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/01/starmer-to-end-asylum-golden-ticket-of-resettlement-and-family-reunion-rights",
     "published": "2025-10-01T21:30:30Z",
     "image_url": "https://i.guim.co.uk/img/media/2281326e807368ec8d05bc6d552794debcf9232b/86_0_3226_2581/master/3226.jpg?width=140&quality=85&auto=format&fit=max&s=e4d5344049dfb279eda33a611ca924a4",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f77fbe132e",
-    "source": "BBC — Top Stories",
-    "title": "Refugees to face longer wait to settle permanently in UK",
-    "summary": "Details of the new conditions refugees will have to meet are to be set out later in the autumn.",
-    "url": "https://www.bbc.com/news/articles/cddmpr21yr2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T21:30:05Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c75/live/79b93320-9ef2-11f0-966a-39edada3cd47.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -384,54 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-a9b1d505aa",
-    "source": "The Guardian — UK",
-    "title": "Met plunged into crisis amid fresh claims of misogyny and racism",
-    "summary": "Commissioner Mark Rowley says prejudice has ‘put down deep roots’ within force after BBC Panorama investigation ​Metropolitan police officers have been recorded calling for immigrants to be shot, bragging about excessive force, being dismissive about a rape complaint and making anti-Muslim and anti-women comments. The BBC Panorama programme followed seven months of undercover filming at Charing Cross police station. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/01/met-plunged-into-crisis-amid-fresh-claims-of-bigotry-and-excessive-force",
-    "published": "2025-10-01T19:46:18Z",
-    "image_url": "https://i.guim.co.uk/img/media/e70bddb8499f88a20d304b8719375c911e8780e1/583_224_1956_1565/master/1956.jpg?width=140&quality=85&auto=format&fit=max&s=9cbf52ddf479d97bdc629537b0f1a8d6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-801926f5b4",
-    "source": "BBC — Top Stories",
-    "title": "William event may have been target of Mail publisher blagging, Harry's lawyer says",
-    "summary": "The Duke of Sussex is one of seven high-profile people bringing legal action against Daily Mail publisher.",
-    "url": "https://www.bbc.com/news/articles/c07v2dmzv1jo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-01T18:30:40Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d927/live/2db64bf0-9ee0-11f0-98b1-59d49dad95e6.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-bbcf2ece78",
-    "source": "The Guardian — UK",
-    "title": "Jaguar Land Rover parts makers asked by banks to put up homes as loan security after hack",
-    "summary": "Lobby group says urgent government intervention required as small suppliers on brink of collapse during shutdown Small companies who supply parts used in Jaguar Land Rover cars have been asked by banks to put up their family homes as personal guarantees in order to access emergency loans, with no direct UK government support on offer for parts makers a month after the carmaker was hit by a crippling cyber-attack. JLR, Britain’s biggest automotive employer, is considering making advance payments to top-tier suppliers as it tries to restart production after the hack , but smaller parts makers warn they are on the brink of collapse without urgent cash injections. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/01/jaguar-land-rover-suppliers-asked-to-put-up-homes-as-loan-security-after-hack",
-    "published": "2025-10-01T18:27:03Z",
-    "image_url": "https://i.guim.co.uk/img/media/3a5b0333e3cdae13d1c7b449e722660775a06eea/460_0_4818_3856/master/4818.jpg?width=140&quality=85&auto=format&fit=max&s=377ed6fe4a8eef4fb78f63d1830bb081",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-910cf7a2b4",
-    "source": "The Guardian — UK",
-    "title": "Foreigners underrepresented among prisoners in England and Wales, report finds",
-    "summary": "Analysis finds lower proportion of foreign inmates than would be expected if they were jailed at same rate as UK citizens of same age Foreign nationals are underrepresented as a proportion of prisoners jailed in England and Wales when compared with rates of incarceration among British citizens of similar age, an analysis of government data has found. In June, 12.4% of prisoners were non-UK nationals, excluding people with no recorded nationality, according to Oxford University’s Migration Observatory . The figure roughly mirrors official statistics indicating that about 12% of the overall population in England and Wales last year were foreign nationals. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/01/foreigners-underrepresented-among-prisoners-in-england-and-wales-report",
-    "published": "2025-10-01T17:29:26Z",
-    "image_url": "https://i.guim.co.uk/img/media/b5c67bfd587303737e76ba051f630f913ca149da/476_0_4848_3878/master/4848.jpg?width=140&quality=85&auto=format&fit=max&s=f26be3be4d362ac35e49f24c2c2c6796",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-a96bcbf295",
     "source": "The Guardian — UK",
     "title": "Starmer bests his conference critics but path ahead still looks perilous",
@@ -451,6 +451,18 @@
     "url": "https://www.theguardian.com/technology/2025/oct/01/uk-government-apple-data-british-telecoms",
     "published": "2025-10-01T17:11:08Z",
     "image_url": "https://i.guim.co.uk/img/media/3219c23c66ecaf3ca617bd9b761556e6afd8103a/349_0_4418_3535/master/4418.jpg?width=140&quality=85&auto=format&fit=max&s=95da637804bdba8321a0d497be0967f0",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-b6464a62b7",
+    "source": "The Guardian — UK",
+    "title": "Firms run by former diplomats and ex-Tory chief first to appear on influence register",
+    "summary": "Foreign Influence Registration Scheme designed to shine light on companies paid to represent foreign states in UK Firms run by two former British ambassadors and an ex-chief of staff to the Conservatives are the first three to appear on the government’s new register of foreign influence. The register is designed to shine a light on which companies are being paid to represent foreign states in the UK. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/01/firms-run-by-former-diplomats-and-ex-tory-chief-first-to-appear-on-influence-register",
+    "published": "2025-10-01T17:06:10Z",
+    "image_url": "https://i.guim.co.uk/img/media/a801047326dc65a702d54d3e7a9ab8e3f15944cf/373_0_4553_3644/master/4553.jpg?width=140&quality=85&auto=format&fit=max&s=52946967e17159532c5bfa5cbd4ac1af",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,6 +492,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-22c8d8d820",
+    "source": "BBC — Top Stories",
+    "title": "Watch on iPlayer: Undercover in the Police",
+    "summary": "Secret filming reveals evidence of racism and misogyny at Charing Cross Police Station.",
+    "url": "https://www.bbc.co.uk/iplayer/episode/m002k7k6?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-01T17:00:00Z",
+    "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m63l91.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-31050db065",
     "source": "The Guardian — UK",
     "title": "UK politics: Powell victory in Labour’s deputy leader contest would mean ‘division and disunity’, Phillipson suggests – as it happened",
@@ -499,30 +523,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/01/keir-starmer-narendra-modi-india-jagtar-singh-johal-release",
     "published": "2025-10-01T15:47:31Z",
     "image_url": "https://i.guim.co.uk/img/media/7cbb550305c6d90f879b31bd2a4ec6c5f04efc26/0_196_945_756/master/945.jpg?width=140&quality=85&auto=format&fit=max&s=c5f034dbe9f3eef5fca0aa5932139299",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-9c309979d0",
-    "source": "The Guardian — UK",
-    "title": "Labour considering charging workers for employment tribunal claims, sources say",
-    "summary": "Exclusive: Reintroducing tribunal fees would be ‘a gift for bad bosses’, says TUC chief Paul Nowak Workers could be charged a fee to take their bosses to court under plans being explored by Labour as it faces pressure from businesses lobbying to water down its landmark changes to employment rights. In a development described by unions as a “disaster”, sources in Westminster said ministers were looking at reviving a proposal made by the last Conservative government to impose fees on employment tribunal claims. Continue reading...",
-    "url": "https://www.theguardian.com/money/2025/oct/01/labour-considering-charging-workers-for-employment-tribunal-claims-sources-say",
-    "published": "2025-10-01T15:00:27Z",
-    "image_url": "https://i.guim.co.uk/img/media/53780ed780064419d6e17f2732be998a52c5cc12/377_198_3152_2521/master/3152.jpg?width=140&quality=85&auto=format&fit=max&s=21c8d2c779535960d47a05313a8580e1",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-2c9fb7114c",
-    "source": "The Guardian — UK",
-    "title": "Labour members feel disconnected from government, says Lucy Powell",
-    "summary": "Deputy leadership candidate tells hustings party is not heeding feedback from doorstep, with impact on activists Labour members feel “disconnected” from the government and risk losing motivation, Lucy Powell has argued as she and her rival for the party’s deputy leadership, Bridget Phillipson, answered questions at its annual conference. Powell, who was sacked from the cabinet in a reshuffle last month , has presented herself as an independent “shop steward” for members, a balance to what she has called a sometimes isolated leadership. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/01/uk-labour-party-members-lucy-powell-deputy-leadership-hustings",
-    "published": "2025-10-01T14:30:07Z",
-    "image_url": "https://i.guim.co.uk/img/media/3048f8b315239bb72f561c253447a032fbea0f9d/552_580_2821_2258/master/2821.jpg?width=140&quality=85&auto=format&fit=max&s=7783f64fc96b85ac94ba5ab4ec0e75b0",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
