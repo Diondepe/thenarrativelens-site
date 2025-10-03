@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-e6f7cb1a3e",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'Knife and vehicle attack' and 'Face of hatred'",
+    "summary": "The deadly Manchester synagogue attack on Yom Kippur dominates Friday's papers.",
+    "url": "https://www.bbc.com/news/articles/cx2njqz8gg8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T06:00:27Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a28/live/19ad2ad0-9fed-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-2c59ac44b7",
+    "source": "The Guardian — UK",
+    "title": "As Tories vow to scrap ‘failed targets’, how do their climate claims stack up?",
+    "summary": "We fact check Kemi Badenoch and her party after she promised to repeal Climate Change Act if they win power Continue reading...",
+    "url": "https://www.theguardian.com/environment/ng-interactive/2025/oct/03/tories-vow-scrap-failed-targets-how-climate-claims-stack-up",
+    "published": "2025-10-03T06:00:27Z",
+    "image_url": "https://i.guim.co.uk/img/media/e83f6be517ca111593f9dffc20fc547ef3994f53/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=623464bfca744fa604522110b4a7b7f5",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-43d8c96108",
+    "source": "The Guardian — UK",
+    "title": "Manchester synagogue attack: police name two victims killed",
+    "summary": "Police say families of Adrian Daulby, 53, and 66-year-old Melvin Cravitz have been informed The two men killed in the attack on a synagogue in Manchester have been named as 53-year-old Adrian Daulby and 66-year-old Melvin Cravitz, police have said. Greater Manchester police said formal identification has yet to take place but their families had been informed and family liaison officers were in contact. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/03/manchester-synagogue-attack-police-name-two-victims-killed",
+    "published": "2025-10-03T05:40:38Z",
+    "image_url": "https://i.guim.co.uk/img/media/34006c96ccea76e680807161f6d78747f084a7eb/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d872f99ebda10c32ead28788c3421c13",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1a5fbd1861",
+    "source": "BBC — Top Stories",
+    "title": "Former Israeli hostage 'very worried' Trump's peace plan will not happen",
+    "summary": "Eli Sharabi tells BBC in a rare interview that Trump must \"finish the job\" by ensuring the release of the remaining 48 hostages.",
+    "url": "https://www.bbc.com/news/articles/cwyw2pgjg1no?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T05:30:17Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d7/live/500763d0-a01e-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-eee36f27d1",
+    "source": "Politico — UK",
+    "title": "What lies behind ‘unmet medical need’?",
+    "summary": "SNEAK PEEK — Defining unmet medical need is not only semantics, it will determine which companies reap Europe’s biggest rewards. — How can countries afford innovative treatments? Data may hold the key. — Where is the push for equal access from Europe’s Health Commissioner Olivér Várhelyi? Welcome to Friday’s Morning Health Care! With the geopolitical tensions rising “it […]",
+    "url": "https://www.politico.eu/article/what-lies-behind-unmet-medical-need/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-03T05:00:00Z",
+    "image_url": "https://www.politico.eu/wp-content/uploads/2024/09/30/nl-header_pro_morning-health-care.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-f591c52ae2",
     "source": "BBC — Top Stories",
     "title": "Taylor Swift: The Life of a Showgirl is a triumphant pop victory lap",
@@ -108,18 +168,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-fbcbc38605",
-    "source": "BBC — Top Stories",
-    "title": "Munich airport closes after drones spotted nearby",
-    "summary": "Dozens of flights have been cancelled or redirected at Munich International Airport after drone sightings.",
-    "url": "https://www.bbc.com/news/articles/cpw1e7j5ew9o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T02:13:56Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfe7/live/25831280-9ffb-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-682d190449",
     "source": "BBC — Top Stories",
     "title": "Top NHS boss backed surgeon whose failures contributed to deaths",
@@ -156,21 +204,9 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-92020c306e",
-    "source": "Politico — UK",
-    "title": "Who gets to defect to Reform — and who doesn’t",
-    "summary": "There's a vetting process for disaffected Tories who want to make the leap.",
-    "url": "https://www.politico.eu/article/uk-who-gets-defect-reform-who-doesnt-nigel-farage-conservative-party/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-03T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/02/GettyImages-2237905680-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-e52eea32e4",
     "source": "BBC — Top Stories",
-    "title": "What we know about the attack: Worshippers helped stop suspect entering synagogue",
+    "title": "What we know about Manchester synagogue attack",
     "summary": "Two Jewish people were killed in a car and stabbing attack at Heaton Park Hebrew Congregation Synagogue in Manchester on the holiest day in the Jewish religious calendar.",
     "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-03T01:33:57Z",
@@ -204,13 +240,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e6f7cb1a3e",
+    "id": "BBC — Top Stories-44e1677662",
     "source": "BBC — Top Stories",
-    "title": "The Papers: 'Knife and vehicle attack' and 'Face of hatred'",
-    "summary": "The deadly Manchester synagogue attack on Yom Kippur dominates Friday's papers.",
-    "url": "https://www.bbc.com/news/articles/cx2njqz8gg8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T01:09:19Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a28/live/19ad2ad0-9fed-11f0-92db-77261a15b9d2.jpg",
+    "title": "Behind the Gen Z protests that forced Madagascar's president to sack his government",
+    "summary": "President Rajoelina's move fails to quell the protest movement that is now threatening his own position.",
+    "url": "https://www.bbc.com/news/articles/cz082y8j3jzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T01:12:09Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bac/live/eb6946a0-9f5f-11f0-af95-eb0d48238f5d.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -254,7 +290,7 @@
   {
     "id": "BBC — Top Stories-cdae20b1bb",
     "source": "BBC — Top Stories",
-    "title": "Heroes stopped attacker getting inside synagogue",
+    "title": "Rabbi and security staff who blocked synagogue attacker 'true heroes', says PM",
     "summary": "Two killed and four remain in hospital after a man, shot dead by police, carried out the attack.",
     "url": "https://www.bbc.com/news/articles/ckg3499p18po?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-03T00:14:58Z",
@@ -290,7 +326,7 @@
   {
     "id": "BBC — Top Stories-9c976d5a6f",
     "source": "BBC — Top Stories",
-    "title": "Does the UK go far enough to protect children from conspiracy theorist parents?",
+    "title": "Why we struggle to protect the young from conspiracy theorist parents",
     "summary": "The inquest following the death of Paloma Shemirani raises the question of how to prevent young people from health misinformation",
     "url": "https://www.bbc.com/news/articles/c749d9557j2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T23:11:02Z",
@@ -303,7 +339,7 @@
     "id": "The Guardian — UK-96d033bd1d",
     "source": "The Guardian — UK",
     "title": "Manchester attack: two killed and three injured after terrorist drives into grounds of synagogue and stabs worshippers",
-    "summary": "Police say Jihad Al-Shamie, a British citizen of Syrian descent, was behind car and knife attack that left three people seriously injured Police have shot dead a terrorist who killed two people and seriously injured three others in an attack at a synagogue in Manchester on Yom Kippur, the holiest day in the Jewish calendar. Using a car to ram into the grounds of the Heaton Park Hebrew Congregation synagogue in Crumpsall, the man then stabbed worshippers in a six-minute rampage that only ended when armed officers shot at him twice, fearing he also had an explosive device tied to his chest. It was later found to be a fake. Continue reading...",
+    "summary": "Police say Jihad Al-Shamie, a British citizen of Syrian descent, was behind car and knife attack that left three people seriously injured Police have shot dead a terrorist who killed two people and seriously injured three others in an attack at a synagogue in Manchester on Yom Kippur, the holiest day in the Jewish calendar. Using a car to ram into the grounds of the Heaton Park Hebrew Congregation synagogue in Crumpsall, the man then stabbed worshippers in a six-minute rampage that ended only when armed officers shot at him twice, fearing he also had an explosive device tied to his chest. It was later found to be a fake. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/02/police-at-scene-of-reported-stabbing-at-synagogue-in-manchester",
     "published": "2025-10-02T23:00:38Z",
     "image_url": "https://i.guim.co.uk/img/media/40de6fd5fe5b752185ffd7fe1d6c669765e54205/981_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=597421731f0acd8eeaf27c1a63d708e0",
@@ -354,7 +390,7 @@
     "summary": "He opens up about changing the monarchy, the strain of Kate's illness - and riding an electric scooter.",
     "url": "https://www.bbc.com/news/articles/cx2r3k0d2e5o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T21:02:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcea/live/4e221bc0-9f9f-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53f/live/b24fe660-a01a-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -366,7 +402,7 @@
     "summary": "Schitt's Creek and American Pie actor Eugene Levy asks Prince William about his future role as King.",
     "url": "https://www.bbc.com/news/articles/c20vyjevxe3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T21:00:33Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58f6/live/d9b19600-9fb0-11f0-8410-854cfa733f11.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fda/live/9040e010-a01a-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -427,18 +463,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/02/mi5-and-counter-terror-police-on-heightened-alert-after-synagogue-attack",
     "published": "2025-10-02T19:16:43Z",
     "image_url": "https://i.guim.co.uk/img/media/fc2cc76738001724b6f89299821c14672dd0993f/0_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=976034b2e6d610296c3c0fe6a6e34cd8",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-042bf95cb2",
-    "source": "The Guardian — UK",
-    "title": "‘We are one community, this will not break us’: Manchester reacts to synagogue attack",
-    "summary": "Residents come together to insist their diverse neighbourhood will stick together “These people are sent to divide us, but they won’t,” said Barry Moore, as he walked his dog near the site of the terror attack on Heaton Park synagogue in Manchester. On the gently sloping street where two people were killed and four seriously wounded, neighbours from different faiths pulled together. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/02/we-are-one-community-this-will-not-break-us-manchester-reacts-to-synagogue-attack",
-    "published": "2025-10-02T19:08:01Z",
-    "image_url": "https://i.guim.co.uk/img/media/c240c402cb459f55de44f692e7ad21392003aca6/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ca55143866f6a407d73937774a7989af",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -552,18 +576,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-2fb423f4ae",
-    "source": "BBC — Top Stories",
-    "title": "In full: Met chief's letter to home secretary after BBC investigation",
-    "summary": "Sir Mark Rowley wrote to Shabana Mahmood and London Mayor Sadiq Khan to address Panorama's findings.",
-    "url": "https://www.bbc.com/news/articles/cz9j283j9pko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T08:20:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/937a/live/0b684290-9f69-11f0-99d3-79886bca9dc5.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-fbd4693346",
     "source": "The Guardian — UK",
     "title": "Will Labour’s fracking ban end practice in the UK for good?",
@@ -571,18 +583,6 @@
     "url": "https://www.theguardian.com/environment/2025/oct/01/labour-fracking-ban-end-practice-in-uk-for-good",
     "published": "2025-10-01T14:07:59Z",
     "image_url": "https://i.guim.co.uk/img/media/b6edc40706af602ce2e233958acd8e4d79e20766/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e013a22d24d085654f810f411c90bab3",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-e640b1802c",
-    "source": "The Guardian — UK",
-    "title": "Nigel Farage: what are schoolboy racism claims – and why have they resurfaced?",
-    "summary": "David Lammy has clarified remarks that the Reform leader ‘flirted with Hitler Youth’. Here is the background to the row UK politics live – latest updates The deputy prime minister, David Lammy, has found himself in hot water after claiming in an interview with the BBC that Nigel Farage “once flirted with Hitler Youth when he was younger”. Sources at Farage’s Reform UK party responded by calling the comment “disgusting and libellous”. Lammy has clarified his remarks. “He [Farage] has denied it and so I accept that he has denied it and I would like to clarify that position because in the end the prime minister is keen for us to focus on the policies not the individuals,” Lammy said. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/01/nigel-farage-what-are-schoolboy-racism-claims-why-have-they-resurfaced",
-    "published": "2025-10-01T10:53:31Z",
-    "image_url": "https://i.guim.co.uk/img/media/ecc34d0a5745e03483a8fd2a5d30bd8a91a13a16/909_0_4531_3624/master/4531.jpg?width=140&quality=85&auto=format&fit=max&s=d4399bc140685267b14ed3d246e01a63",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
