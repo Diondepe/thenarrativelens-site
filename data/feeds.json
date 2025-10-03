@@ -1,12 +1,24 @@
 [
   {
-    "id": "The Guardian — UK-c718766ae1",
+    "id": "BBC — Top Stories-e52eea32e4",
+    "source": "BBC — Top Stories",
+    "title": "What we know about the attack",
+    "summary": "Two Jewish people were killed in a car and stabbing attack at Heaton Park Hebrew Congregation Synagogue in Manchester on the holiest day in the Jewish religious calendar.",
+    "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T20:49:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d22/live/aa332190-a079-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-d630a22657",
     "source": "The Guardian — UK",
-    "title": "Three more arrests in synagogue attack investigation; Lammy heckled at vigil for Manchester synagogue attack – latest",
-    "summary": "Police arrest three more people, bringing the total to six, Justice secretary faces calls of ‘shame on you’ as crowd gathers to remember victims of terror attack What do we know about Jihad al-Shamie Manchester synagogue terrorist was on bail for alleged rape The home secretary has urged pro-Palestine protesters not to carry out demonstrations in the wake of the terror attack in Greater Manchester. Speaking on GB News, Mahmood said: As far as I am concerned, I would have wanted to see people in this country step back from protesting for at least a few days, just to give the Jewish community here a chance to process what has happened and to begin the grieving process as well. I am very disappointed that some of the organisers haven’t heeded the call to step back. In terms of the attacker, this individual was not known to the security services. He has obviously been shot dead at the scene, but the police investigations will now continue at pace. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/live/2025/oct/03/manchester-synagogue-attack-victims-adrian-daulby-melvin-cravitz-attacker-jihad-al-shamie-latest-news-updates",
-    "published": "2025-10-03T20:14:39Z",
-    "image_url": "https://i.guim.co.uk/img/media/5347b15f89fa47dd6352daad2ae5a946f25a0b07/231_0_5423_4340/master/5423.jpg?width=140&quality=85&auto=format&fit=max&s=06e2e5db965f6d24b75f3c4f00f57f33",
+    "title": "Rabbi who confronted Manchester synagogue attacker vows community will not be defeated",
+    "summary": "Daniel Walker helped worshippers hold doors shut as Jihad al-Shamie tried to force his way inside A rabbi who looked into the face of Jihad al-Shamie as he mounted a deadly attack on a Manchester synagogue has vowed not to allow the “evil” and “hatred” he saw to triumph. Rabbi Daniel Walker helped others to hold the doors of Heaton Park Hebrew Congregation synagogue shut as Shamie “body-charged” them during Thursday’s attack, throwing “heavy plant pots” and “doing everything he could to get in”. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/03/rabbi-who-confronted-manchester-synagogue-attacker-vows-community-will-not-be-defeated",
+    "published": "2025-10-03T20:41:42Z",
+    "image_url": "https://i.guim.co.uk/img/media/f85511e037c00f9d84de32363b3034b0eb57df35/3_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=1103a586a973a4bcec1bdb8f054bf95b",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -17,8 +29,44 @@
     "title": "Hamas says it agrees to release Israeli hostages but seeks changes to US Gaza peace plan",
     "summary": "The 20-point proposal seeks to end the fighting immediately in return for the release of hostages and detained Gazans.",
     "url": "https://www.bbc.com/news/articles/cdxq7zp7002o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T20:12:31Z",
+    "published": "2025-10-03T20:40:56Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a46e/live/6323eda0-a067-11f0-b2f9-dd258cdb2dcd.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-823c68ae55",
+    "source": "BBC — Top Stories",
+    "title": "Storm Amy danger warnings as 100mph gusts recorded",
+    "summary": "In Glasgow a derelict building collapsed, while 102mph gusts were recorded on the island of Tiree, off Scotland's west coast.",
+    "url": "https://www.bbc.com/news/articles/c98d2ep62z7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T20:38:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72a7/live/ab5bc110-a08f-11f0-b1b3-b903aa8071ae.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-c718766ae1",
+    "source": "The Guardian — UK",
+    "title": "Three more arrests in synagogue attack investigation; Lammy heckled at vigil for Manchester synagogue attack – latest",
+    "summary": "Police arrest three more people, bringing the total to six, Justice secretary faces calls of ‘shame on you’ as crowd gathers to remember victims of terror attack What do we know about Jihad al-Shamie Manchester synagogue terrorist was on bail for alleged rape The home secretary has urged pro-Palestine protesters not to carry out demonstrations in the wake of the terror attack in Greater Manchester. Speaking on GB News, Mahmood said: As far as I am concerned, I would have wanted to see people in this country step back from protesting for at least a few days, just to give the Jewish community here a chance to process what has happened and to begin the grieving process as well. I am very disappointed that some of the organisers haven’t heeded the call to step back. In terms of the attacker, this individual was not known to the security services. He has obviously been shot dead at the scene, but the police investigations will now continue at pace. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/live/2025/oct/03/manchester-synagogue-attack-victims-adrian-daulby-melvin-cravitz-attacker-jihad-al-shamie-latest-news-updates",
+    "published": "2025-10-03T20:31:23Z",
+    "image_url": "https://i.guim.co.uk/img/media/5347b15f89fa47dd6352daad2ae5a946f25a0b07/231_0_5423_4340/master/5423.jpg?width=140&quality=85&auto=format&fit=max&s=06e2e5db965f6d24b75f3c4f00f57f33",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a57dcdb7d4",
+    "source": "BBC — Top Stories",
+    "title": "Synagogue attacker was on bail after rape arrest",
+    "summary": "Jihad Al-Shamie was a weightlifting enthusiast who rarely spoke to his neighbours, one resident said.",
+    "url": "https://www.bbc.com/news/articles/c0q7y72kppgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T20:26:54Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48d0/live/1d2b58d0-a060-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -43,18 +91,6 @@
     "url": "https://www.bbc.com/news/articles/ckgy8kvvkp3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-03T19:50:00Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58d1/live/cad97ce0-a089-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-823c68ae55",
-    "source": "BBC — Top Stories",
-    "title": "Storm Amy danger warnings as 100mph gusts recorded",
-    "summary": "In Glasgow a derelict building collapsed, while 102mph gusts were recorded on the island of Tiree, off Scotland's west coast.",
-    "url": "https://www.bbc.com/news/articles/c98d2ep62z7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T19:42:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72a7/live/ab5bc110-a08f-11f0-b1b3-b903aa8071ae.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -87,7 +123,7 @@
     "id": "The Guardian — UK-822ad39ecc",
     "source": "The Guardian — UK",
     "title": "Manchester synagogue terrorist was on bail for alleged rape",
-    "summary": "Exclusive: Jihad al-Shamie had been under investigation over alleged sexual attack earlier this year, sources say Manchester synagogue attack – latest updates What do we know about Jihad al-Shamie The Manchester synagogue terrorist was on police bail for an alleged rape when he carried out the attack, the Guardian can reveal. Jihad al-Shamie, 35, was being investigated over an alleged sexual attack which it is understood was said to have taken place earlier this year. Greater Manchester police said it appeared that armed officers at the synagogue accidentally shot one of the two victims killed during the terrorist attack and that they probably injured another after opening fire on the attacker. Sources disclosed that counter-terrorism police were examining whether Shamie was responsible for a death threat sent to a former Conservative MP in 2012. Keir Starmer called for people to “respect the grief of British Jews” after activists planning to demonstrate against the ban on Palestine Action on Saturday said cancelling the event would “let terror win”. David Lammy, the justice secretary and deputy prime minister, was heckled and booed as he addressed a vigil close to the scene of the attack. He faced calls of “shame on you”, “go to Palestine, leave us alone” and “you have blood on your hands”. Police named the two dead men as Adrian Daulby, 53, and Melvin Cravitz, 66. Relatives of Cravitz said he was a “gentle giant” who “would never harm a fly”. A Muslim neighbour of Daulby described him as “one of the most fantastic men I ever knew in my life”. Rabbi Daniel Walker, who was leading a service at the synagogue at the time of the attack, told how the attacker shouted “I’m going to get you” as he tried to force his way in. Continue reading...",
+    "summary": "Exclusive: Jihad al-Shamie had been under investigation over alleged sexual attack earlier this year, sources say Manchester synagogue attack – latest updates What do we know about Jihad al-Shamie The Manchester synagogue terrorist was on police bail for an alleged rape when he carried out the attack, the Guardian can reveal. Jihad al-Shamie, 35, was being investigated over an alleged sexual attack, which it is understood was said to have taken place earlier this year. Greater Manchester police said it appeared that armed officers at the synagogue accidentally shot one of the two victims killed during the terrorist attack and that they probably injured another after opening fire on the attacker. Sources disclosed that counter-terrorism police were examining whether Shamie was responsible for a death threat sent to a former Conservative MP in 2012. Keir Starmer called for people to “respect the grief of British Jews” after activists planning to demonstrate against the ban on Palestine Action on Saturday said cancelling the event would “let terror win”. David Lammy, the justice secretary and deputy prime minister, was heckled and booed as he addressed a vigil close to the scene of the attack. He faced calls of “shame on you”, “go to Palestine, leave us alone” and “you have blood on your hands”. Police named the two dead men as Adrian Daulby, 53, and Melvin Cravitz, 66. Relatives of Cravitz said he was a “gentle giant” who “would never harm a fly”. A Muslim neighbour of Daulby described him as “one of the most fantastic men I ever knew in my life”. Rabbi Daniel Walker, who was leading a service at the synagogue at the time of the attack, told how the attacker shouted “I’m going to get you” as he tried to force his way in. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/03/manchester-synagogue-terrorist-was-on-bail-for-alleged",
     "published": "2025-10-03T18:31:58Z",
     "image_url": "https://i.guim.co.uk/img/media/b5de818acb6b4ee25426a288e2370aa46100f41b/736_0_4523_3617/master/4523.jpg?width=140&quality=85&auto=format&fit=max&s=94a94bc747e616866ff0caa641e6efe7",
@@ -98,23 +134,11 @@
   {
     "id": "BBC — Top Stories-833a74f23c",
     "source": "BBC — Top Stories",
-    "title": "Tributes paid after 'lovely, kind' victims named",
+    "title": "Synagogue attack victims 'died saving others', say families",
     "summary": "Tributes are being paid to Melvin Cravitz and Adrian Daulby, who were both killed in the attack.",
     "url": "https://www.bbc.com/news/articles/cly6eve5p06o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-03T18:28:44Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09df/live/b069c700-a077-11f0-bb47-b30225268691.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e52eea32e4",
-    "source": "BBC — Top Stories",
-    "title": "What we know about the attack",
-    "summary": "Two Jewish people were killed in a car and stabbing attack at Heaton Park Hebrew Congregation Synagogue in Manchester on the holiest day in the Jewish religious calendar.",
-    "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T18:19:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d22/live/aa332190-a079-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -139,18 +163,6 @@
     "url": "https://www.bbc.com/news/articles/c9312xk4l4ko?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-03T17:43:31Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fe3/live/1141a8f0-a07c-11f0-bb47-b30225268691.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a57dcdb7d4",
-    "source": "BBC — Top Stories",
-    "title": "Synagogue attacker was on bail after rape arrest",
-    "summary": "Jihad Al-Shamie was a weightlifting enthusiast who rarely spoke to his neighbours, one resident said.",
-    "url": "https://www.bbc.com/news/articles/c0q7y72kppgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T17:35:01Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48d0/live/1d2b58d0-a060-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -199,6 +211,18 @@
     "url": "https://www.theguardian.com/politics/2025/oct/03/synagogue-attack-senior-uk-jewish-politician-richard-hermer",
     "published": "2025-10-03T16:58:34Z",
     "image_url": "https://i.guim.co.uk/img/media/7dfaa79ac38aa34f1bb460aa81c21888183b9aea/1003_41_1438_1151/master/1438.jpg?width=140&quality=85&auto=format&fit=max&s=89a5ebd7dca387bed55efdac8c97d747",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b3e3870c4b",
+    "source": "BBC — Top Stories",
+    "title": "Teenage girls detained for killing man in street",
+    "summary": "Three girls are detained for the manslaughter of Fredi Rivero, who was set upon in an Islington street.",
+    "url": "https://www.bbc.com/news/articles/c3w5y5xyv53o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T16:58:32Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d666/live/1cc84990-4771-11f0-bdd6-438c9d4f20a6.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -264,18 +288,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-9711309806",
-    "source": "The Guardian — UK",
-    "title": "Tory chair accepted £2k hospitality from developer of HMOs for asylum seekers",
-    "summary": "Exclusive: Kevin Hollinrake’s conference costs paid for by firm helping landlords convert homes for lucrative market The Conservative party chair, Kevin Hollinrake, accepted thousands of pounds worth of hospitality from a company that converts family homes into houses in multiple occupation (HMOs) for asylum seekers, official records show. According to the MPs’ register of interests, Living Redefined covered £2,000 worth of flights, hotel accommodation and dinner for Hollinrake and a family member to attend a property conference in the south of France earlier this year. The entry, registered in April 2025, lists the hospitality as support for “attendance at a conference”. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/03/tory-chair-accepted-hospitality-developer-hmos-asylum-seekers",
-    "published": "2025-10-03T16:27:53Z",
-    "image_url": "https://i.guim.co.uk/img/media/7ae188d7fa709bfbe7f4fac0a9a8a6c03374f40e/1113_47_2598_2078/master/2598.jpg?width=140&quality=85&auto=format&fit=max&s=ec3c4257f1b3691f260d80f72a93ca5d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-1f883973bd",
     "source": "BBC — Top Stories",
     "title": "Manchester's Jewish community 'shocked but not surprised'",
@@ -288,13 +300,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-d3a3d3342a",
-    "source": "BBC — Top Stories",
-    "title": "Tax wealthiest to end rip-off Britain, new Green leader tells conference",
-    "summary": "Zack Polanski sets out a new direction for the Green Party in his first conference speech as leader.",
-    "url": "https://www.bbc.com/news/articles/c708y9nq174o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T15:51:35Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae45/live/a0ba2130-a061-11f0-928c-71dbb8619e94.jpg",
+    "id": "The Guardian — UK-59cb5d1122",
+    "source": "The Guardian — UK",
+    "title": "UK political class ‘poisoned by wealth’, says Zack Polanski as he sets out plan to tax assets of richest 1% – as it happened",
+    "summary": "Green party leader says a ‘tiny few have taken our wealth and power’ in address to Green party conference. This live blog is closed In his FT interview Mel Stride , the shadow chancellor, also dismissed speculation that Kemi Badenoch will be replaced as Tory leader within the next year. Many of her colleagues think she will face a successful leadership challenge, most probably after poor results in the Senedd, Scottish parliament and English local elections next May. Stride said that he thought Badenoch was similar to Margaret Thatcher, who was widely criticised when she became opposition leader in 1975 but who over time developed into an effective leader. He said: We had all this with Margaret Thatcher back in the 1970s. Her voice wasn’t right, her hair wasn’t right, her dress wasn’t right, she wasn’t very good at prime minister’s questions. It took her some time to work her way into being the finished, formidable politician she was. She is incredibly resilient, as cool as they come. She goes away, thinks about it and comes to a decision. I’m very confident Kemi will be fine. But it’s going to be bumpy — it’s going to be difficult. Labour does not have any plan for growth. They thought that as soon as they got into power, things would just work because they’re Labour and they believe in their own righteousness. That is not working - they need to get a plan to grow our economy, otherwise we will end up going to the IMF cap in hand. A lot of the indicators are pointing in that direction. Many very well respected commentators and economists are saying this. I think that’s very unlikely. That’s not to say we couldn’t be heading for some kind of bond crisis with runaway yields. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/03/greens-labour-reform-conservatives-immigration-uk-politics-live-news-updates",
+    "published": "2025-10-03T16:13:02Z",
+    "image_url": "https://i.guim.co.uk/img/media/230f3f716b1479d4b506a4187fec02c39aa795b2/648_0_4274_3419/master/4274.jpg?width=140&quality=85&auto=format&fit=max&s=0d34a76192babc062a16168d0063aab5",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -456,18 +468,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e1f11f2742",
-    "source": "BBC — Top Stories",
-    "title": "The life of TV's magnificently snobby 'Hyacinth Bucket'",
-    "summary": "A much-loved actress who became famous in the role of Hyacinth Bucket in Keeping Up Appearances.",
-    "url": "https://www.bbc.com/news/articles/c511ym2r2xpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T10:18:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4894/live/b705b4f0-80c2-11ef-ab28-17c883eb03dd.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-78032fa31a",
     "source": "Politico — UK",
     "title": "ECB’s Lagarde: Tighten regulation on non-banks before it’s too late",
@@ -504,18 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-92ac94303c",
-    "source": "The Guardian — UK",
-    "title": "Wetherspoons boss vows to keep price rises to a minimum as he criticises energy bills",
-    "summary": "Beefed-up packaging tax will triple pub chain’s costs from the levy to £2.4m a year, says Tim Martin Business live – latest updates The boss of the pub chain Wetherspoons has vowed to keep price increases to a “minimum”, after blaming a beefed-up packaging tax and rising energy bills for extra costs. Tim Martin said the recently introduced “extended producer responsibility” levy on packaging would lead to the company’s costs from the tax tripling from £800,000 to £2.4m a year. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/03/wetherspoons-price-rises-energy-bills-packaging-tax-tim-martin",
-    "published": "2025-10-03T07:50:45Z",
-    "image_url": "https://i.guim.co.uk/img/media/1e68f38639f087315d3185d18924b4c07d9f6618/0_299_4626_3701/master/4626.jpg?width=140&quality=85&auto=format&fit=max&s=f572e30243c0648766720541ddd66031",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-2c59ac44b7",
     "source": "The Guardian — UK",
     "title": "As Tories vow to scrap ‘failed targets’, how do their climate claims stack up?",
@@ -523,6 +511,18 @@
     "url": "https://www.theguardian.com/environment/ng-interactive/2025/oct/03/tories-vow-scrap-failed-targets-how-climate-claims-stack-up",
     "published": "2025-10-03T06:00:27Z",
     "image_url": "https://i.guim.co.uk/img/media/e83f6be517ca111593f9dffc20fc547ef3994f53/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=623464bfca744fa604522110b4a7b7f5",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1a5fbd1861",
+    "source": "BBC — Top Stories",
+    "title": "'It was very tough but I love life' - ex-hostage whose family were killed on 7 October",
+    "summary": "Eli Sharabi reflects on finding out, after release, his wife and children had been killed in the attacks.",
+    "url": "https://www.bbc.com/news/articles/cwyw2pgjg1no?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T05:30:17Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ef/live/db851280-a029-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
