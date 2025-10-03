@@ -1,5 +1,77 @@
 [
   {
+    "id": "BBC — Top Stories-016c260691",
+    "source": "BBC — Top Stories",
+    "title": "Police name Manchester attacker who killed two at synagogue",
+    "summary": "Jihad Al-Shamie, a 35-year-old British man of Syrian descent, is named as the synagogue attacker.",
+    "url": "https://www.bbc.com/news/articles/cpd93x0ql0do?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T00:49:03Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d24/live/ee9ed3b0-9fa2-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-de7ff10b9f",
+    "source": "BBC — Top Stories",
+    "title": "TikTok recommends porn to children, says report",
+    "summary": "Researchers find TikTok's algorithm recommends sexual content to newly-created child accounts.",
+    "url": "https://www.bbc.com/news/articles/c708v7qkeg1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T00:45:54Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a1/live/55e4db20-9ebb-11f0-85b6-27ff7e482819.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9bc8b55bea",
+    "source": "BBC — Top Stories",
+    "title": "Reform Send system now or face billions in extra costs, ministers warned",
+    "summary": "The Institute for Fiscal Studies says more than 200,000 extra children will need Send support by 2029.",
+    "url": "https://www.bbc.com/news/articles/czjv2rk9yjvo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T00:39:14Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba9d/live/3620ae20-9f8a-11f0-a934-075243299099.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e59acc9b6c",
+    "source": "BBC — Top Stories",
+    "title": "Is it a cold, flu or Covid – and how to avoid the worst",
+    "summary": "BBC Morning Live's Dr Oscar Duke shares his advice on how to identify whether you have cold, flu or Covid and how to look after yourself.",
+    "url": "https://www.bbc.com/news/articles/cly1rryv2ryo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T00:30:35Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc51/live/b099bca0-9b11-11f0-9ee9-49d871a60a24.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-0020673509",
+    "source": "The Guardian — UK",
+    "title": "Six minutes of terror: how Manchester synagogue attack unfolded",
+    "summary": "Witnesses screamed ‘he’s got a bomb’ and ‘shoot him’ before suspect was killed by armed police Worshippers had arrived early for a special morning service at Heaton Park shul in north Manchester. It was Yom Kippur, the holiest day in the Jewish calendar, and rabbi Daniel Walker was leading prayers in his long white robes. By 9.31am, they were stained with blood. As people made their way to the synagogue, they saw a small black car being driven erratically before it crashed into the gates. At first, some thought the driver had suffered a heart attack. But within seconds he had jumped out of the vehicle, dressed all in black, and had started stabbing those nearby. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/02/six-minutes-of-terror-how-manchester-synagogue-attack-unfolded",
+    "published": "2025-10-03T00:09:02Z",
+    "image_url": "https://i.guim.co.uk/img/media/6236ee5d66a34feadf1aae5359f8302080a07490/325_0_3287_2632/master/3287.jpg?width=140&quality=85&auto=format&fit=max&s=9af0e22328f14d324cdccd6dbbbedb43",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e52eea32e4",
+    "source": "BBC — Top Stories",
+    "title": "What we know about the attack: Worshippers helped stop suspect entering synagogue",
+    "summary": "Two Jewish people were killed in a car and stabbing attack at Heaton Park Hebrew Congregation Synagogue in Manchester on the holiest day in the Jewish religious calendar.",
+    "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T00:03:20Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3c3/live/f10ff160-9fbb-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-9c976d5a6f",
     "source": "BBC — Top Stories",
     "title": "Does the UK go far enough to protect children from conspiracy theorist parents?",
@@ -14,10 +86,10 @@
   {
     "id": "The Guardian — UK-96d033bd1d",
     "source": "The Guardian — UK",
-    "title": "Manchester attack: Two killed and three injured after terrorist drives into grounds of synagogue and stabs worshippers",
+    "title": "Manchester attack: two killed and three injured after terrorist drives into grounds of synagogue and stabs worshippers",
     "summary": "Police say Jihad Al-Shamie, a British citizen of Syrian descent, was behind car and knife attack that left three people seriously injured Police have shot dead a terrorist who killed two people and seriously injured three others in an attack at a synagogue in Manchester on Yom Kippur, the holiest day in the Jewish calendar. Using a car to ram into the grounds of the Heaton Park Hebrew Congregation synagogue in Crumpsall, the man then stabbed worshippers in a six-minute rampage that only ended when armed officers shot at him twice, fearing he also had an explosive device tied to his chest. It was later found to be a fake. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/02/police-at-scene-of-reported-stabbing-at-synagogue-in-manchester",
-    "published": "2025-10-02T23:00:39Z",
+    "published": "2025-10-02T23:00:38Z",
     "image_url": "https://i.guim.co.uk/img/media/40de6fd5fe5b752185ffd7fe1d6c669765e54205/981_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=597421731f0acd8eeaf27c1a63d708e0",
     "thumb_url": null,
     "category": "Politics",
@@ -43,18 +115,6 @@
     "url": "https://www.theguardian.com/media/2025/oct/02/reform-uk-council-in-nottinghamshire-ends-ban-on-local-journalists",
     "published": "2025-10-02T22:18:02Z",
     "image_url": "https://i.guim.co.uk/img/media/1655c8b62571a63a45da04543fba4b94ef6c6381/628_0_6281_5025/master/6281.jpg?width=140&quality=85&auto=format&fit=max&s=1880959cd47f43b619e7d1a6345d83af",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-016c260691",
-    "source": "BBC — Top Stories",
-    "title": "Police name Manchester attacker who killed two at synagogue",
-    "summary": "Jihad Al-Shamie, a 35-year-old British man of Syrian descent, is named as the synagogue attacker.",
-    "url": "https://www.bbc.com/news/articles/cpd93x0ql0do?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T21:54:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d24/live/ee9ed3b0-9fa2-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -103,18 +163,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/02/manchester-synanogue-heaton-park-attack-what-do-we-know-so-far",
     "published": "2025-10-02T20:53:35Z",
     "image_url": "https://i.guim.co.uk/img/media/47ac47fc771333c1d1c412d285328475b01d0fa9/0_0_6550_5240/master/6550.jpg?width=140&quality=85&auto=format&fit=max&s=4709ea6fea27cc98fd791d2b653d42a7",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e52eea32e4",
-    "source": "BBC — Top Stories",
-    "title": "What we know about the attack: Worshippers helped stop suspect entering synagogue",
-    "summary": "Two Jewish people were killed in a car and stabbing attack at Heaton Park Hebrew Congregation Synagogue in Manchester on the holiest day in the Jewish religious calendar.",
-    "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T20:46:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3c3/live/f10ff160-9fbb-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -192,18 +240,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-e0ba3b8f2a",
-    "source": "The Guardian — UK",
-    "title": "Netanyahu suggests ‘weakness on terrorism’ led to UK synagogue attack",
-    "summary": "Israeli PM calls for ‘strength and unity’ while foreign minister accuses UK of inaction against antisemitism Benjamin Netanyahu condemned the “barbaric attack” on a British synagogue on Thursday, saying that “weakness in the face of terrorism only brings more terrorism. Only strength and unity can defeat it.” The Israeli foreign minister, Gideon Sa’ar, accused the UK of failing to act against antisemitism in his response to the attack in Manchester, which killed two people . Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/02/netanyahu-suggests-weakness-on-terrorism-led-to-uk-synagogue-attack",
-    "published": "2025-10-02T18:42:30Z",
-    "image_url": "https://i.guim.co.uk/img/media/15c0d3de820071744e0f756c3b9872e36edf2d19/679_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=178a8011478f81cc224d93cc77e91492",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-e11d871d57",
     "source": "BBC — Top Stories",
     "title": "Baroness Mone accuses chancellor of 'inflammatory' language",
@@ -211,18 +247,6 @@
     "url": "https://www.bbc.com/news/articles/cd9y5nkxpzlo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-02T18:36:40Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5c8dfd50-9fbd-11f0-b73e-e715acbd6a10.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-1dee855b0a",
-    "source": "BBC — Top Stories",
-    "title": "Only Fools and Horses actor dies aged 68",
-    "summary": "Co-star Sue Holderness, who played Marlene, says Patrick Murray will be \"greatly missed\".",
-    "url": "https://www.bbc.com/news/articles/cly18vlj7gjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T18:02:23Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05f5/live/08796390-9fb7-11f0-8410-854cfa733f11.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -451,30 +475,6 @@
     "url": "https://www.politico.eu/article/la-communication-chaotique-dursula-von-der-leyen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-02T12:31:50Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/01/GettyImages-2237844808-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-c5e4f3c3e1",
-    "source": "BBC — Top Stories",
-    "title": "Watch: Inside the lab analysing the world's oldest ice",
-    "summary": "Studying samples from the ice sheet gives an environmental record of over a million years.",
-    "url": "https://www.bbc.com/news/videos/cgl1pl8699ko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T11:55:43Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f00/live/2952b790-9f8c-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7971b62fcb",
-    "source": "BBC — Top Stories",
-    "title": "Attenborough and Prince William lead tributes to Dr Jane Goodall",
-    "summary": "The leading conservationist has been remembered as \"a great champion of environmental protection\" after her death aged 91.",
-    "url": "https://www.bbc.com/news/articles/czrp24myrl7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T11:45:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb80/live/7bc69dd0-9f8b-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
