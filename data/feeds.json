@@ -1,5 +1,29 @@
 [
   {
+    "id": "BBC — Top Stories-bd1b22aaba",
+    "source": "BBC — Top Stories",
+    "title": "Hamas response to US Gaza plan is significant - but there are key omissions",
+    "summary": "There is still a huge amount of detail to be worked through that are vital to the implementation of the US ceasefire proposal.",
+    "url": "https://www.bbc.com/news/articles/cvg9myeqjl1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T22:59:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f5e/live/d64fb330-a0a9-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-51b3ca4dda",
+    "source": "The Guardian — UK",
+    "title": "Metropolitan police officer arrested after undercover BBC investigation",
+    "summary": "Sergeant arrested on suspicion of perverting course of justice after colleagues filmed making racist and sexist remarks A serving Metropolitan police officer has been arrested on suspicion of perverting the course of justice, after undercover footage showed colleagues at Charing Cross police station making racist and sexist comments. The footage, gathered for a BBC Panorama documentary, appears to show officers at a central London station calling for immigrants to be shot and boasting about using violence against suspects. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/03/metropolitan-police-officer-arrested-after-undercover-bbc-investigation",
+    "published": "2025-10-03T22:34:58Z",
+    "image_url": "https://i.guim.co.uk/img/media/46232b2f8f48f640ae5396e3789adbf3c77136ac/827_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=dd5306a19ab35d08de07a4861298f508",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-79d0f1b887",
     "source": "BBC — Top Stories",
     "title": "Synagogue attacker was on bail after rape arrest, police say",
@@ -19,18 +43,6 @@
     "url": "https://www.bbc.com/news/articles/c98d2ep62z7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-03T21:49:08Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72a7/live/ab5bc110-a08f-11f0-b1b3-b903aa8071ae.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-51b3ca4dda",
-    "source": "The Guardian — UK",
-    "title": "Metropolitan police officer arrested after undercover BBC investigation",
-    "summary": "Sergeant arrested on suspicion of perverting course of justice after colleagues filmed making racist and sexist remarks A serving Metropolitan police officer has been arrested on suspicion of perverting the course of justice, after undercover footage showed colleagues at Charing Cross police station making racist and sexist comments. The footage, gathered for a BBC Panorama documentary, appears to show officers at a central London station calling for immigrants to be shot and boasting about using violence against suspects. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/03/metropolitan-police-officer-arrested-after-undercover-bbc-investigation",
-    "published": "2025-10-03T21:43:22Z",
-    "image_url": "https://i.guim.co.uk/img/media/46232b2f8f48f640ae5396e3789adbf3c77136ac/827_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=dd5306a19ab35d08de07a4861298f508",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -439,18 +451,6 @@
     "url": "https://www.bbc.com/news/articles/c62q1q1vd9yo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-03T13:12:00Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a6/live/b13b4770-a02d-11f0-9eee-8f8d46a446f2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-5490aa34d0",
-    "source": "BBC — Top Stories",
-    "title": "'Hatred and racism cannot tear us apart,' first woman Archbishop of Canterbury says",
-    "summary": "She becomes the first female leader of the Church of England, replacing Justin Welby who resigned over his handling of a safeguarding scandal.",
-    "url": "https://www.bbc.com/news/articles/c2lxyxqzxkdo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T12:47:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d05/live/54230290-a04a-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
