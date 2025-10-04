@@ -1,24 +1,36 @@
 [
   {
-    "id": "The Guardian — UK-74b27af3e3",
+    "id": "The Guardian — UK-2951c528c3",
     "source": "The Guardian — UK",
-    "title": "BBC bosses want defence budget to help pay for the World Service",
-    "summary": "Exclusive: Executives at corporation say media monitoring and anti-disinformation are vital to national security BBC bosses are lobbying to use the UK’s defence budget to help pay for the embattled World Service, arguing that aspects of the service should qualify as vital for national security. Senior executives at the corporation are in talks with officials over whether parts of the service, such as media monitoring and anti-disinformation, should count towards Britain’s security, as they attempt to avoid cuts of tens of millions of pounds. Continue reading...",
-    "url": "https://www.theguardian.com/media/2025/oct/04/bbc-bosses-want-defence-budget-to-help-pay-for-the-world-service",
-    "published": "2025-10-04T07:00:05Z",
-    "image_url": "https://i.guim.co.uk/img/media/484ed2d166167333878df238625c35922bcb1139/0_0_5844_4676/master/5844.jpg?width=140&quality=85&auto=format&fit=max&s=931c38a37cf7e358fbcce9ad2fde3d86",
+    "title": "Storm Amy hits UK ‘much harder and more quickly than expected’ after man killed in Ireland – latest updates",
+    "summary": "Weather and flood warnings are in place across the UK and Ireland The Environment Agency has issued two flood alerts where “flooding is expected” for Keswick Campsite in the Lake District and locations near the River Ure, particularly around Boroughbridge Camping and Caravanning Site in North Yorkshire. “Avoid using low-lying footpaths and any bridges near local watercourses. Take care and avoid walking, cycling or driving through flood water,” it advises. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/live/2025/oct/04/storm-amy-live-updates-latest-news-uk-ireland-weather-warnings-met-office",
+    "published": "2025-10-04T08:14:52Z",
+    "image_url": "https://i.guim.co.uk/img/media/459720e9025c8d41ef38b56db5a71d7d2d830821/562_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a004ee88b27e8558dff1b81bf221494a",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-2951c528c3",
+    "id": "Politico — UK-0b54f451db",
+    "source": "Politico — UK",
+    "title": "Hegseth fires top US Navy official",
+    "summary": "Jon Harrison is the latest Pentagon official who Defense Secretary Pete Hegseth has removed from office.",
+    "url": "https://www.politico.com/news/2025/10/03/top-navy-official-fired-00593997?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-04T08:04:11Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-1dc938a3eb",
     "source": "The Guardian — UK",
-    "title": "Storm Amy hits UK ‘much harder and more quickly than expected’ after man killed in Ireland – latest updates",
-    "summary": "Weather and flood warnings are in place across the UK and Ireland The Met office says the storm broke a record for low pressure overnight. It posted on X: Storm Amy broke records overnight - Baltasound hit 947.9 hPa, provisionally the lowest October pressure ever recorded at a UK land station, beating Muckle Flugga’s 950.9 hPa in 1988. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/live/2025/oct/04/storm-amy-live-updates-latest-news-uk-ireland-weather-warnings-met-office",
-    "published": "2025-10-04T06:58:44Z",
-    "image_url": "https://i.guim.co.uk/img/media/459720e9025c8d41ef38b56db5a71d7d2d830821/562_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a004ee88b27e8558dff1b81bf221494a",
+    "title": "Storm Amy: man dies in Ireland as fresh weather warning issued for UK",
+    "summary": "Man dies in ‘weather-related incident’ in Co Donegal, while Met Office issues yellow wind warning for whole of UK Storm Amy – latest updates A man has died and a fresh weather warning covers the whole of the UK as Storm Amy continues to bring widespread disruption. Irish police said the man died in a “weather-related” incident in the Letterkenny area of County Donegal, Ireland, shortly after 4.15pm on Friday. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/04/storm-amy-uk-ireland-wind-weather-warning",
+    "published": "2025-10-04T08:03:24Z",
+    "image_url": "https://i.guim.co.uk/img/media/8c3baf1707fa5aed99b7f59f21c2e929a0dd4630/1449_0_4119_3295/master/4119.jpg?width=140&quality=85&auto=format&fit=max&s=d389603a6445d4d9badc3264d16188a2",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -29,8 +41,32 @@
     "title": "Wind and rain warnings as Storm Amy hits UK",
     "summary": "An amber warning is in place for parts of Scotland while a lower level yellow warning is issued for much of the rest of the UK.",
     "url": "https://www.bbc.com/news/articles/c0lky9nn948o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T06:35:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8417/live/ee9ce990-a03f-11f0-92db-77261a15b9d2.jpg",
+    "published": "2025-10-04T07:53:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8206/live/53e7b3c0-a0f9-11f0-8fc4-ed0fd69b4980.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9e2698eb30",
+    "source": "BBC — Top Stories",
+    "title": "Starmer tells protesters to 'respect grief of British Jews'",
+    "summary": "The prime minister said pro-Palestinian protests planned for the weekend would cause distress.",
+    "url": "https://www.bbc.com/news/articles/ckgy8kvvkp3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T07:50:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58d1/live/cad97ce0-a089-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-74b27af3e3",
+    "source": "The Guardian — UK",
+    "title": "BBC bosses want defence budget to help pay for the World Service",
+    "summary": "Exclusive: Executives at corporation say media monitoring and anti-disinformation are vital to national security BBC bosses are lobbying to use the UK’s defence budget to help pay for the embattled World Service, arguing that aspects of the service should qualify as vital for national security. Senior executives at the corporation are in talks with officials over whether parts of the service, such as media monitoring and anti-disinformation, should count towards Britain’s security, as they attempt to avoid cuts of tens of millions of pounds. Continue reading...",
+    "url": "https://www.theguardian.com/media/2025/oct/04/bbc-bosses-want-defence-budget-to-help-pay-for-the-world-service",
+    "published": "2025-10-04T07:00:05Z",
+    "image_url": "https://i.guim.co.uk/img/media/484ed2d166167333878df238625c35922bcb1139/0_0_5844_4676/master/5844.jpg?width=140&quality=85&auto=format&fit=max&s=931c38a37cf7e358fbcce9ad2fde3d86",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -55,6 +91,18 @@
     "url": "https://www.bbc.com/news/articles/cx2njv9nd1ko?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T05:44:42Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba52/live/502c7260-a0aa-11f0-92db-77261a15b9d2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e04df68eae",
+    "source": "BBC — Top Stories",
+    "title": "Rare October Harvest Moon to be first supermoon of 2025",
+    "summary": "It will be visible on 7 October and Sarah Keith-Lucas explains why it will be the biggest and brightest full Moon so far this year.",
+    "url": "https://www.bbc.com/weather/articles/c059dyvvjj7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T05:37:54Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b22/live/9790f1d0-9ec5-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -126,7 +174,7 @@
     "summary": "Morocco will soon have the world's largest football stadium but this has angered many young people who want better services.",
     "url": "https://www.bbc.com/news/articles/c8rv2l3me40o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T01:59:49Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f7e/live/2de59c60-a06c-11f0-8687-4726d7177866.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2967/live/87b13f50-a0f4-11f0-ba5d-d711e2bf7ac8.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -162,7 +210,7 @@
     "summary": "Competitors with tote bags full of sanitary pads and feminist literature faced off in central London.",
     "url": "https://www.bbc.com/news/articles/cp8jrzejqjro?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T01:23:45Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0187/live/9c4ca860-a076-11f0-b741-177e3e2c2fc7.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8932/live/5f157260-a0f8-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -192,13 +240,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-74164f737d",
+    "id": "BBC — Top Stories-0773bba6e9",
     "source": "BBC — Top Stories",
-    "title": "Sales of electric cars hit record high in September",
-    "summary": "Sales of fully electric or hybrid vehicles made up more than half of all new car registrations in the UK last month.",
-    "url": "https://www.bbc.com/news/articles/cwyd094168go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T00:41:12Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e058/live/ac7c44b0-a06d-11f0-8687-4726d7177866.jpg",
+    "title": "Baroness Mone-linked firm says chase our partners for the money",
+    "summary": "A spokesperson for PPE Medpro says other companies also received money for providing gowns to the government and should be pursued to get it back.",
+    "url": "https://www.bbc.com/news/articles/cy0v4plld8ro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T00:24:06Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8ed/live/2600a9b0-a079-11f0-bb47-b30225268691.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -300,18 +348,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-332eb24dae",
-    "source": "The Guardian — UK",
-    "title": "Conservatives would take UK out of ECHR, Badenoch confirms",
-    "summary": "Leader says move is is necessary ‘to protect our borders, our veterans and our citizens’ Kemi Badenoch has announced that a Conservative government under her leadership would pull the UK out of the European convention on human rights. The move marks a lurch to the right for the Tories, who are attempting to stem a loss of support to Nigel Farage’s Reform UK. Farage has long been a critic of the ECHR and has pledged to leave it if he becomes prime minister. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/03/badenoch-tories-would-take-uk-out-of-echr-european-convention-on-human-rights",
-    "published": "2025-10-03T21:00:47Z",
-    "image_url": "https://i.guim.co.uk/img/media/0363163b26062da9c5b392be6e99b3058f62cfe5/586_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=da68beb7fac8cfb71ee96368b49c9378",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-e52eea32e4",
     "source": "BBC — Top Stories",
     "title": "What we know about the attack",
@@ -336,33 +372,9 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-9e2698eb30",
-    "source": "BBC — Top Stories",
-    "title": "Starmer tells protesters to 'respect grief of British Jews'",
-    "summary": "The prime minister said pro-Palestinian protests planned for the weekend would cause distress.",
-    "url": "https://www.bbc.com/news/articles/ckgy8kvvkp3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T19:50:00Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58d1/live/cad97ce0-a089-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-0e8db79766",
-    "source": "BBC — Top Stories",
-    "title": "Bonehead out of Oasis tour after cancer diagnosis",
-    "summary": "One of the band's founding members says he will be miss some upcoming shows for treatment.",
-    "url": "https://www.bbc.com/news/articles/cpvl3p7k0m1o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T18:44:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a5/live/11566ca0-a080-11f0-bb47-b30225268691.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-833a74f23c",
     "source": "BBC — Top Stories",
-    "title": "Synagogue attack victims 'died saving others', say families",
+    "title": "Victims of Manchester attack died saving others, say families",
     "summary": "Tributes are being paid to Melvin Cravitz and Adrian Daulby, who were both killed in the attack.",
     "url": "https://www.bbc.com/news/articles/cly6eve5p06o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-03T18:28:44Z",
@@ -523,18 +535,6 @@
     "url": "https://www.politico.eu/article/ecbs-lagarde-tighten-regulation-on-non-banks-before-its-too-late/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-03T10:10:54Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/13335877-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-7b8eda1098",
-    "source": "Politico — UK",
-    "title": "Keir Starmer and Narendra Modi eye closer tech ties at Mumbai summit",
-    "summary": "The U.K. PM’s first India visit comes just months after the two nations closed their long-desired trade deal.",
-    "url": "https://www.politico.eu/article/keir-starmer-narendra-modi-closer-tech-ties-mumbai-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-03T09:31:03Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/GettyImages-2225943690-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
