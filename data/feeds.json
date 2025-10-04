@@ -2,11 +2,47 @@
   {
     "id": "BBC — Top Stories-e9178d68af",
     "source": "BBC — Top Stories",
-    "title": "Police make 355 arrests at pro-Palestinian protest in London",
+    "title": "More than 400 arrests at pro-Palestinian protests in London",
     "summary": "Demonstrations went ahead despite calls from politicians and police leaders for the protests to be postponed in wake of the Manchester synagogue attack.",
     "url": "https://www.bbc.com/news/articles/ceq2e9x19g8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T17:11:18Z",
+    "published": "2025-10-04T18:22:08Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b09/live/9d0674b0-a135-11f0-a9f1-8d9167fcc08f.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-890b865045",
+    "source": "The Guardian — UK",
+    "title": "Police make arrests at Palestine Action protest as demo goes ahead despite PM’s pleas",
+    "summary": "Officers arrest activists at silent vigil in support of banned organisation Police have made more than 350 arrests in London at what organisers hoped would be the biggest demonstration so far against a ban on the proscribed organisation Palestine Action. Officers began arresting demonstrators at the silent vigil in support of the group, which has been classed by the UK government as a terror organisation since July this year. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/oct/04/palestine-action-protest-police-arrests-london-demo",
+    "published": "2025-10-04T17:33:06Z",
+    "image_url": "https://i.guim.co.uk/img/media/51163e7da7d008c6cbcc9a4da5a69a6fa232b354/492_0_5196_4155/master/5196.jpg?width=140&quality=85&auto=format&fit=max&s=d814a7074d9145ceb6d4d1a0b6217346",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e21fc5c4b7",
+    "source": "BBC — Top Stories",
+    "title": "Georgia protesters try to storm Tbilisi presidential palace",
+    "summary": "Police used pepper spray to disperse demonstrators amid growing turmoil in the Caucasus country.",
+    "url": "https://www.bbc.com/news/articles/ce86kgnj7zro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T17:31:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5b2/live/76a96bd0-a147-11f0-9be2-514f62a90aaf.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-992467af2f",
+    "source": "BBC — Top Stories",
+    "title": "Damage and disruption as Storm Amy hits UK",
+    "summary": "An amber warning is in place for parts of Scotland while a lower level yellow warning is issued for much of the rest of the UK.",
+    "url": "https://www.bbc.com/news/articles/c0lky9nn948o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T17:28:58Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1014/live/0bae87b0-a148-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -15,10 +51,22 @@
     "id": "The Guardian — UK-0d7c09642d",
     "source": "The Guardian — UK",
     "title": "Police given permission to hold Manchester synagogue attack suspects until Wednesday",
-    "summary": "Six people have been arrested on suspicion of commission, preparation and instigation of acts of terrorism after attacked that left three dead Counter-terrorism police have been given permission to hold four suspects in custody until Wednesday after this week’s attack at a Manchester synagogue. Six people have been arrested on suspicion of the commission, preparation and instigation of acts of terrorism after Jihad al-Shamie killed a worshipper and seriously injured several others on Thursday. The attack took place on Yom Kippur, the holiest day in the Jewish calendar. Continue reading...",
+    "summary": "Six people have been arrested on suspicion of commission, preparation and instigation of acts of terrorism after attack that left three dead Counter-terrorism police have been given permission to hold four suspects in custody until Wednesday after this week’s attack at a Manchester synagogue. Six people have been arrested on suspicion of the commission, preparation and instigation of acts of terrorism after Jihad al-Shamie killed a worshipper and seriously injured several others on Thursday. The attack took place on Yom Kippur, the holiest day in the Jewish calendar. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/04/police-given-permission-to-hold-manchester-synagogue-attack-suspects-until-wednesday",
     "published": "2025-10-04T17:05:03Z",
     "image_url": "https://i.guim.co.uk/img/media/372fde5b3d1d75e1f8a22130f6c9230e824f459f/347_0_4296_3437/master/4296.jpg?width=140&quality=85&auto=format&fit=max&s=074f827306943f08cc3f4d2d6078ef82",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-86dc2bc667",
+    "source": "BBC — Top Stories",
+    "title": "Billionaire populist Andrej Babis' party wins Czech parliamentary election",
+    "summary": "However, his ANO party falls short of an overall majority in preliminary results.",
+    "url": "https://www.bbc.com/news/articles/c62qezmr92lo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T16:55:25Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/a4881e70-a138-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -43,6 +91,18 @@
     "url": "https://www.bbc.com/news/articles/c3e7yyjw77qo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T16:42:52Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f4c/live/77836b30-a112-11f0-807b-c1a7ae4b635d.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f28105b650",
+    "source": "BBC — Top Stories",
+    "title": "'We were having dinner and a tree crashed into our house'",
+    "summary": "A mum said it was \"miraculous\" that nobody was injured in the incident during an Amber weather alert in Scotland.",
+    "url": "https://www.bbc.com/news/articles/c0knm5ky70ko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T16:30:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1e7/live/aeb67f60-a140-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -84,30 +144,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-890b865045",
-    "source": "The Guardian — UK",
-    "title": "Police make arrests at Palestine Action protest as demo goes ahead despite PM’s pleas",
-    "summary": "Officers arrest activists at silent vigil in support of banned organisation Police have made more than a 350 arrests in London at what organisers hoped would be the biggest demonstration so far against a ban on the proscribed organisation Palestine Action. Officers began arresting demonstrators at the silent vigil in support of the group, which has been classed by the UK government as a terror organisation since July this year. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/04/palestine-action-protest-police-arrests-london-demo",
-    "published": "2025-10-04T15:55:40Z",
-    "image_url": "https://i.guim.co.uk/img/media/51163e7da7d008c6cbcc9a4da5a69a6fa232b354/492_0_5196_4155/master/5196.jpg?width=140&quality=85&auto=format&fit=max&s=d814a7074d9145ceb6d4d1a0b6217346",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-992467af2f",
-    "source": "BBC — Top Stories",
-    "title": "Wind and rain warnings as Storm Amy hits UK",
-    "summary": "An amber warning is in place for parts of Scotland while a lower level yellow warning is issued for much of the rest of the UK.",
-    "url": "https://www.bbc.com/news/articles/c0lky9nn948o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T15:38:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ab3/live/488be5a0-a10d-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-7e8a61b92b",
     "source": "BBC — Top Stories",
     "title": "At least 30 injured in Russian strike on railway station, Zelensky says",
@@ -120,25 +156,25 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-e1f1c2ace6",
-    "source": "Politico — UK",
-    "title": "Babiš poised to triumph in Czechia, sending ripples through the EU",
-    "summary": "Right-wing populist's ANO movement is well ahead with 35 percent of the vote in Czech election, with ballots counted in almost all electoral districts.",
-    "url": "https://www.politico.eu/article/babis-poised-to-triumph-in-czech-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-04T15:25:05Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/04/GettyImages-2238580945-scaled.jpg",
+    "id": "BBC — Top Stories-3fea16f815",
+    "source": "BBC — Top Stories",
+    "title": "Hope and fear for hostage families after Hamas response to Gaza peace plan",
+    "summary": "Families describe a \"fragile situation\", with negotiations between Israel and Hamas expected to resume.",
+    "url": "https://www.bbc.com/news/articles/cly9e6mnve9o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T15:28:06Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2dd/live/0727e8c0-a135-11f0-a9f1-8d9167fcc08f.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-95d2f0a024",
-    "source": "BBC — Top Stories",
-    "title": "Rail firm fined £1m over train passenger's death",
-    "summary": "Bethan Roper was killed in 2018 when she leaned out of a droplight window on a moving train.",
-    "url": "https://www.bbc.com/news/articles/c20ej7rkj3ko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T15:17:17Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f2a/live/7f80e460-a104-11f0-ac34-1b87a37e0e9a.jpg",
+    "id": "Politico — UK-e1f1c2ace6",
+    "source": "Politico — UK",
+    "title": "Babiš wins Czech vote, preliminary results show",
+    "summary": "The right-wing populist vows to slash support for Ukraine, challenge increased military spending and confront Brussels over the Green Deal.",
+    "url": "https://www.politico.eu/article/babis-poised-to-triumph-in-czech-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-04T15:25:05Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/04/GettyImages-2238580945-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -246,7 +282,7 @@
     "summary": "Fans are convinced the pop star's song Actually Romantic is a response to a Charli XCX track.",
     "url": "https://www.bbc.com/news/articles/ckg24xvyzxwo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T12:45:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd7e/live/3de510a0-a116-11f0-b741-177e3e2c2fc7.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c46a/live/e8205b70-a147-11f0-92db-77261a15b9d2.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -283,18 +319,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/04/rise-of-katie-lam-next-tory-leader-migration",
     "published": "2025-10-04T12:00:05Z",
     "image_url": "https://i.guim.co.uk/img/media/f2d66c203873aec2f2737a7c18b9aca5864b0e24/2386_43_913_731/master/913.jpg?width=140&quality=85&auto=format&fit=max&s=f25aa8d9424ea6cc092481c510e692da",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a25137c1e0",
-    "source": "BBC — Top Stories",
-    "title": "UK ticket-holder wins £26m Euromillions jackpot",
-    "summary": "It is the third time someone from the UK has won the prize this year, but it remains unclaimed.",
-    "url": "https://www.bbc.com/news/articles/crl573x605xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T11:43:40Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3853/live/39019490-a117-11f0-acf1-c3cdd394c60e.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -396,18 +420,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-0efce87102",
-    "source": "BBC — Top Stories",
-    "title": "Lola Young in legal dispute with Messy producer",
-    "summary": "The chart-topping singer takes legal action against one of the producers of her hit single Messy.",
-    "url": "https://www.bbc.com/news/articles/c9dx235qe04o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T07:35:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fd2/live/0daf3df0-a07d-11f0-bb47-b30225268691.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-74b27af3e3",
     "source": "The Guardian — UK",
     "title": "BBC bosses want defence budget to help pay for the World Service",
@@ -432,6 +444,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-dc430692ff",
+    "source": "BBC — Top Stories",
+    "title": "How 'First Lady' Braekhus ended Norway's boxing ban",
+    "summary": "As trailblazer Cecilia Braekhus prepares for her final bout, BBC Sport looks at how the Norwegian ended a 33-year-old boxing ban in her homeland.",
+    "url": "https://www.bbc.com/sport/boxing/articles/c1wg2rvvlveo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T05:35:07Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b92/live/2ed7ddf0-9fa3-11f0-8e4d-7723b0da5e04.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-b6f22f7a43",
     "source": "The Guardian — UK",
     "title": "Rachel Reeves urged to break manifesto pledges to avoid ‘pasty tax’ budget",
@@ -451,18 +475,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/04/conservative-conference-like-going-to-in-laws-apathy-kemi-badenoch",
     "published": "2025-10-04T05:00:06Z",
     "image_url": "https://i.guim.co.uk/img/media/5872e3a450d91e7077609315540d789c690d1a91/249_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=5cf7127757b1c4536dd010eb2260e26f",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-376d73ab60",
-    "source": "BBC — Top Stories",
-    "title": "He reads, buys flowers and plays the ukulele. A dream man or is it all a performance?",
-    "summary": "Competitors with tote bags full of sanitary pads and feminist literature faced off in central London.",
-    "url": "https://www.bbc.com/news/articles/cp8jrzejqjro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T01:23:45Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8932/live/5f157260-a0f8-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -583,18 +595,6 @@
     "url": "https://www.theguardian.com/news/audio/2025/oct/01/from-the-archive-divine-comedy-the-standup-double-act-who-turned-to-the-priesthood-podcast",
     "published": "2025-10-01T04:00:03Z",
     "image_url": "https://i.guim.co.uk/img/media/42e122657513c3958e6aa3a2023f3aba0af42d6e/87_0_6638_5310/master/6638.jpg?width=140&quality=85&auto=format&fit=max&s=8a12b2b1f9f7412c9dc8f802dc167097",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-53515fb374",
-    "source": "BBC — Top Stories",
-    "title": "BBC News app",
-    "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
-    "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
-    "published": "2025-04-30T14:04:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
