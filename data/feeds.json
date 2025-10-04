@@ -1,5 +1,89 @@
 [
   {
+    "id": "BBC — Top Stories-992467af2f",
+    "source": "BBC — Top Stories",
+    "title": "Wind and rain warnings as Storm Amy hits parts of UK",
+    "summary": "Some schools in Northern Ireland are closed, while several rail services and ferries in Scotland have been cancelled.",
+    "url": "https://www.bbc.com/news/articles/c0lky9nn948o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T01:04:30Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8417/live/ee9ce990-a03f-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-8c8fb27c2b",
+    "source": "BBC — Top Stories",
+    "title": "They're making sex jokes in Saudi: Inside the controversial comedy festival",
+    "summary": "A-listers including Dave Chappelle, Bill Burr and Jack Whitehall have faced a backlash over the event.",
+    "url": "https://www.bbc.com/news/articles/cwyn2yqpnnpo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T01:03:44Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c14/live/56c27be0-a066-11f0-b741-177e3e2c2fc7.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-74164f737d",
+    "source": "BBC — Top Stories",
+    "title": "Sales of electric cars hit record high in September",
+    "summary": "Sales of fully electric or hybrid vehicles made up more than half of all new car registrations in the UK last month.",
+    "url": "https://www.bbc.com/news/articles/cwyd094168go?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T00:41:12Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e058/live/ac7c44b0-a06d-11f0-8687-4726d7177866.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0773bba6e9",
+    "source": "BBC — Top Stories",
+    "title": "Baroness Mone-linked firm says chase our partners for the money",
+    "summary": "A spokesperson for PPE Medpro says other companies also received money for providing gowns to the government and should be pursued to get it back.",
+    "url": "https://www.bbc.com/news/articles/cy0v4plld8ro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T00:24:06Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8ed/live/2600a9b0-a079-11f0-bb47-b30225268691.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-85cc599fb2",
+    "source": "BBC — Top Stories",
+    "title": "Gisèle Pelicot returns to court after trial made her an icon - and tore her family apart",
+    "summary": "A rift has emerged between Gisèle Pelicot - the victim at the centre of the largest rape trial in French history - and her eldest children",
+    "url": "https://www.bbc.com/news/articles/cvg4l80gz7eo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T00:00:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb02/live/afd1f4d0-a06c-11f0-9640-9757c7912ee3.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-81a446e5f5",
+    "source": "BBC — Top Stories",
+    "title": "Sean 'Diddy' Combs sentenced to more than four years in prison",
+    "summary": "Combs apologised to his mother, children, and victims, specifically naming his two ex-girlfriends, Casandra Ventura and \"Jane\".",
+    "url": "https://www.bbc.com/news/articles/czx0gx227z4o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T23:23:07Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6e/live/fc8e9cd0-a083-11f0-bb47-b30225268691.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-5a593dd822",
+    "source": "The Guardian — UK",
+    "title": "One person dead and thousands of homes without power as Storm Amy arrives",
+    "summary": "Irish police say they are treating the death of a man as weather-related and, meanwhile, many homes in Ireland and Northern Ireland are without power A man has been killed and hundreds of thousands of homes on the island of Ireland are without power after Storm Amy brought widespread disruption on Friday. An amber weather warning, highlighting a danger to life, was also in place in the north of Scotland until 9pm on Saturday. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/03/storm-amy-threatens-travel-disruption-uk-weather",
+    "published": "2025-10-03T23:14:24Z",
+    "image_url": "https://i.guim.co.uk/img/media/66cfc1b35a462e7cda07b65d647b0fd9c06b9651/433_0_2864_2292/master/2864.jpg?width=140&quality=85&auto=format&fit=max&s=b307493be9218d93cbbd9303da09fe3f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-bd1b22aaba",
     "source": "BBC — Top Stories",
     "title": "Hamas response to US Gaza plan is significant - but there are key omissions",
@@ -36,18 +120,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-823c68ae55",
-    "source": "BBC — Top Stories",
-    "title": "Storm Amy danger warnings as wind gusts approaching 100mph recorded",
-    "summary": "In Glasgow a derelict building collapsed, while 96mph gusts were recorded on the island of Tiree, off Scotland's west coast.",
-    "url": "https://www.bbc.com/news/articles/c98d2ep62z7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T21:49:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72a7/live/ab5bc110-a08f-11f0-b1b3-b903aa8071ae.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-6937bf9e67",
     "source": "BBC — Top Stories",
     "title": "UK will leave ECHR if Tories win election, Badenoch says",
@@ -67,6 +139,18 @@
     "url": "https://www.theguardian.com/uk-news/live/2025/oct/03/manchester-synagogue-attack-victims-adrian-daulby-melvin-cravitz-attacker-jihad-al-shamie-latest-news-updates",
     "published": "2025-10-03T21:17:51Z",
     "image_url": "https://i.guim.co.uk/img/media/5347b15f89fa47dd6352daad2ae5a946f25a0b07/231_0_5423_4340/master/5423.jpg?width=140&quality=85&auto=format&fit=max&s=06e2e5db965f6d24b75f3c4f00f57f33",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-25dd2cff14",
+    "source": "BBC — Top Stories",
+    "title": "Fatal attack revives debate over controversial shark nets in Australia",
+    "summary": "The use of controversial shark nets was about to be scaled back in Sydney when a surfer was killed.",
+    "url": "https://www.bbc.com/news/articles/c3rv25qy78go?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T21:08:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5291/live/5bb4d9c0-a01d-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -252,25 +336,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-7bfc98d63e",
+    "id": "The Guardian — UK-83af507dec",
     "source": "The Guardian — UK",
-    "title": "We are heartbroken after synagogue attack, says senior UK Jewish politician",
-    "summary": "Attorney general Richard Hermer says more must be done to protect Jewish community and tackle antisemitism One of UK’s most senior Jewish politicians has said he and the Jewish community are “heartbroken, frightened and angry” after the terror attack on a Manchester synagogue. Richard Hermer, the attorney general and a close ally of Keir Starmer in cabinet, said tackling a rising tide of antisemitism would require police protection and political leaders calling it out wherever it was found. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/03/synagogue-attack-senior-uk-jewish-politician-richard-hermer",
-    "published": "2025-10-03T16:58:34Z",
-    "image_url": "https://i.guim.co.uk/img/media/7dfaa79ac38aa34f1bb460aa81c21888183b9aea/1003_41_1438_1151/master/1438.jpg?width=140&quality=85&auto=format&fit=max&s=89a5ebd7dca387bed55efdac8c97d747",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b3e3870c4b",
-    "source": "BBC — Top Stories",
-    "title": "Teenage girls detained for killing man in street",
-    "summary": "Three girls are detained for the manslaughter of Fredi Rivero, who was set upon in an Islington street.",
-    "url": "https://www.bbc.com/news/articles/c3w5y5xyv53o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T16:58:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d666/live/1cc84990-4771-11f0-bdd6-438c9d4f20a6.jpg",
+    "title": "More than 60,000 cancer patients in England ‘not getting necessary radiotherapy’",
+    "summary": "Exclusive: Analysis of NHS data by Radiotherapy UK also shows some patients face waits of up to six months More than 60,000 cancer patients a year in England are not getting the radiotherapy they need at all, while some face waits of up to six months to begin the treatment, research has found. The situation is so dire that nearly 100 heads of radiotherapy and oncology – three-quarters of England’s radiotherapy leaders – have warned in an open letter that the government is failing patients. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/oct/03/more-than-60000-cancer-patients-in-england-not-getting-any-radiotherapy-research-shows",
+    "published": "2025-10-03T16:54:44Z",
+    "image_url": "https://i.guim.co.uk/img/media/bb3f0c91259b7b84c127dbabbddb38b00f8b3af8/0_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=30e43a158943ecfbb783788df843d032",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -295,18 +367,6 @@
     "url": "https://www.politico.eu/article/italy-protests-strikes-unions-israel-war-on-gaza/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-03T16:48:14Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/GettyImages-2238612516-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a604802ded",
-    "source": "BBC — Top Stories",
-    "title": "'No good outcome' - voters across US share concerns about shutdown",
-    "summary": "There was anxiety and exasperation among six Americans the BBC spoke to about the ongoing government shutdown.",
-    "url": "https://www.bbc.com/news/articles/c4gjyzv6vv8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T16:34:36Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0db/live/b32dc3a0-a064-11f0-92db-77261a15b9d2.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -432,30 +492,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-8f6e5c5db1",
-    "source": "The Guardian — UK",
-    "title": "Hartlepool strips Peter Mandelson of civic honour",
-    "summary": "Councillors withdraw Freedom of Hartlepool award over former ambassador’s links to Jeffrey Epstein Peter Mandelson will be stripped of a civic honour he received from Hartlepool, the town he represented as a Labour MP, after the disclosures about his close friendship with the child sex offender Jeffrey Epstein. Councillors in Hartlepool voted unanimously on Thursday to withdraw the Freedom of Hartlepool from Lord Mandelson, who represented the area between 1992 and 2004. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/03/hartlepool-strips-peter-mandelson-civic-honour",
-    "published": "2025-10-03T13:19:47Z",
-    "image_url": "https://i.guim.co.uk/img/media/1af970754a2b271646931a2ffe51268af1c81ae9/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=190a3dc673e0f25e095f9599ec53c6f6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-0a90b662c7",
-    "source": "BBC — Top Stories",
-    "title": "Dad given life for killing baby son in hospital",
-    "summary": "Daniel Gunter denied harming his 14-day-old son inside a hospital's special care baby unit in 2024.",
-    "url": "https://www.bbc.com/news/articles/c62q1q1vd9yo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T13:12:00Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a6/live/b13b4770-a02d-11f0-9eee-8f8d46a446f2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-d52c70daa7",
     "source": "BBC — Top Stories",
     "title": "Taylor Swift feared happiness could 'dry up' her songwriting",
@@ -511,42 +547,6 @@
     "url": "https://www.theguardian.com/environment/ng-interactive/2025/oct/03/tories-vow-scrap-failed-targets-how-climate-claims-stack-up",
     "published": "2025-10-03T06:00:27Z",
     "image_url": "https://i.guim.co.uk/img/media/e83f6be517ca111593f9dffc20fc547ef3994f53/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=623464bfca744fa604522110b4a7b7f5",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-1a5fbd1861",
-    "source": "BBC — Top Stories",
-    "title": "'It was very tough but I love life' - ex-hostage whose family were killed on 7 October",
-    "summary": "Eli Sharabi reflects on finding out, after release, his wife and children had been killed in the attacks.",
-    "url": "https://www.bbc.com/news/articles/cwyw2pgjg1no?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T05:30:17Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ef/live/db851280-a029-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9c976d5a6f",
-    "source": "BBC — Top Stories",
-    "title": "Why we struggle to protect the young from conspiracy theorist parents",
-    "summary": "The inquest following the death of Paloma Shemirani raises the question of how to prevent young people from health misinformation",
-    "url": "https://www.bbc.com/news/articles/c749d9557j2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T23:11:02Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8d4/live/6ab642b0-9ec9-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6b8a40620c",
-    "source": "BBC — Top Stories",
-    "title": "William's interview with Eugene Levy is the most open we've ever seen him",
-    "summary": "He opens up about changing the monarchy, the strain of Kate's illness - and riding an electric scooter.",
-    "url": "https://www.bbc.com/news/articles/cx2r3k0d2e5o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-02T21:02:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07f9/live/740154f0-a044-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
