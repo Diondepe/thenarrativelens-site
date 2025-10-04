@@ -1,5 +1,29 @@
 [
   {
+    "id": "BBC — Top Stories-9395cb0688",
+    "source": "BBC — Top Stories",
+    "title": "Late nights and packed lectures - why freshers' flu is so hard to dodge",
+    "summary": "It's not the actual flu, and it's rarely serious, but when thousands of students arrive on campus they bring a cocktail of viruses.",
+    "url": "https://www.bbc.com/news/articles/c147218x7rgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T23:05:38Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c9b/live/2dd015c0-a0b2-11f0-ac11-a11de8fbd7b8.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-09d6c9cd27",
+    "source": "BBC — Top Stories",
+    "title": "Who is Japan's 'Iron Lady' Sanae Takaichi?",
+    "summary": "The conservative politician is set to be Japan's first female prime minister.",
+    "url": "https://www.bbc.com/news/articles/crkj5e73xkmo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T22:09:29Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5ac/live/864d4c40-a125-11f0-909f-795e864c8891.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-cb4fe8e57f",
     "source": "BBC — Top Stories",
     "title": "Ex-Pompey, Leicester and Sheff Wed owner Mandaric dies",
@@ -158,11 +182,11 @@
   {
     "id": "The Guardian — UK-1dc938a3eb",
     "source": "The Guardian — UK",
-    "title": "Storm Amy: man dies in Ireland as fresh weather warning issued for UK",
-    "summary": "Man dies in ‘weather-related incident’ in Co Donegal, while Met Office issues yellow wind warning for whole of UK A man has died and a fresh weather warning covers the whole of the UK as Storm Amy continues to bring widespread disruption. Irish police said the man died in a “weather-related” incident in the Letterkenny area of County Donegal, Ireland, shortly after 4.15pm on Friday. Continue reading...",
+    "title": "Storm Amy: man dies in Ireland as new weather warning issued for UK",
+    "summary": "Man dies in ‘weather-related incident’ in County Donegal, while Met Office issues yellow wind warning for whole of UK A man has died and a new weather warning covers the whole of the UK as Storm Amy continues to bring widespread disruption. Irish police said the man died in a “weather-related” incident in the Letterkenny area of County Donegal, Ireland, shortly after 4.15pm on Friday. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/04/storm-amy-uk-ireland-wind-weather-warning",
     "published": "2025-10-04T16:47:18Z",
-    "image_url": "https://i.guim.co.uk/img/media/8c3baf1707fa5aed99b7f59f21c2e929a0dd4630/1449_0_4119_3295/master/4119.jpg?width=140&quality=85&auto=format&fit=max&s=d389603a6445d4d9badc3264d16188a2",
+    "image_url": "https://i.guim.co.uk/img/media/c57858faffd6eb23a4c63753572831eb2675974a/334_0_3046_2438/master/3046.jpg?width=140&quality=85&auto=format&fit=max&s=8a1e4a1632fc7350afa41782bb8e9d35",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,18 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-dc430692ff",
-    "source": "BBC — Top Stories",
-    "title": "How 'First Lady' Braekhus ended Norway's boxing ban",
-    "summary": "As trailblazer Cecilia Braekhus prepares for her final bout, BBC Sport looks at how the Norwegian ended a 33-year-old boxing ban in her homeland.",
-    "url": "https://www.bbc.com/sport/boxing/articles/c1wg2rvvlveo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T05:35:07Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b92/live/2ed7ddf0-9fa3-11f0-8e4d-7723b0da5e04.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-b6f22f7a43",
     "source": "The Guardian — UK",
     "title": "Rachel Reeves urged to break manifesto pledges to avoid ‘pasty tax’ budget",
@@ -511,18 +523,6 @@
     "url": "https://www.bbc.com/news/articles/c8xrd29r5ywo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T00:41:27Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcca/live/fa42b3a0-a018-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-85cc599fb2",
-    "source": "BBC — Top Stories",
-    "title": "Gisèle Pelicot returns to court after trial made her an icon - and tore her family apart",
-    "summary": "A rift has emerged between the victim at the centre of the largest rape trial in French history and her eldest children.",
-    "url": "https://www.bbc.com/news/articles/cvg4l80gz7eo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T00:00:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b21d/live/27f66de0-a137-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
