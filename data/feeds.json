@@ -1,12 +1,12 @@
 [
   {
-    "id": "BBC — Top Stories-e9178d68af",
+    "id": "BBC — Top Stories-3bdb50ba92",
     "source": "BBC — Top Stories",
-    "title": "More than 400 arrests at pro-Palestinian protests in London",
-    "summary": "Demonstrations went ahead despite calls from politicians and police leaders for the protests to be postponed in wake of the Manchester synagogue attack.",
-    "url": "https://www.bbc.com/news/articles/ceq2e9x19g8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T18:22:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b09/live/9d0674b0-a135-11f0-a9f1-8d9167fcc08f.png",
+    "title": "Hundreds of extra police on streets after synagogue attack",
+    "summary": "Other forces are boosting Greater Manchester Police numbers following Thursday's synagogue attack.",
+    "url": "https://www.bbc.com/news/articles/crkj50gd217o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T18:43:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28fe/live/eb0719c0-a11d-11f0-909f-795e864c8891.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -14,11 +14,23 @@
   {
     "id": "The Guardian — UK-890b865045",
     "source": "The Guardian — UK",
-    "title": "Police make arrests at Palestine Action protest as demo goes ahead despite PM’s pleas",
-    "summary": "Officers arrest activists at silent vigil in support of banned organisation Police have made more than 350 arrests in London at what organisers hoped would be the biggest demonstration so far against a ban on the proscribed organisation Palestine Action. Officers began arresting demonstrators at the silent vigil in support of the group, which has been classed by the UK government as a terror organisation since July this year. Continue reading...",
+    "title": "Police make more than 440 arrests at Palestine Action protest in London",
+    "summary": "Officers arrest activists at silent vigil in support of banned organisation, as demos go ahead despite PM’s pleas Police have made more than 440 arrests in London at what organisers hoped would be the biggest demonstration so far against a ban on the proscribed organisation Palestine Action. Officers began arresting demonstrators at the silent vigil in support of the group, which has been classed by the UK government as a terror organisation since July this year. Continue reading...",
     "url": "https://www.theguardian.com/world/2025/oct/04/palestine-action-protest-police-arrests-london-demo",
-    "published": "2025-10-04T17:33:06Z",
+    "published": "2025-10-04T18:23:48Z",
     "image_url": "https://i.guim.co.uk/img/media/51163e7da7d008c6cbcc9a4da5a69a6fa232b354/492_0_5196_4155/master/5196.jpg?width=140&quality=85&auto=format&fit=max&s=d814a7074d9145ceb6d4d1a0b6217346",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e9178d68af",
+    "source": "BBC — Top Stories",
+    "title": "More than 400 arrests at Palestine Action protests in London",
+    "summary": "Demonstrations went ahead despite calls from politicians and police leaders for the protests to be postponed in wake of the Manchester synagogue attack.",
+    "url": "https://www.bbc.com/news/articles/ceq2e9x19g8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T18:22:08Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b09/live/9d0674b0-a135-11f0-a9f1-8d9167fcc08f.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -170,7 +182,7 @@
   {
     "id": "Politico — UK-e1f1c2ace6",
     "source": "Politico — UK",
-    "title": "Babiš wins Czech vote, preliminary results show",
+    "title": "Babiš triumphs in Czechia, sending ripples through the EU",
     "summary": "The right-wing populist vows to slash support for Ukraine, challenge increased military spending and confront Brussels over the Green Deal.",
     "url": "https://www.politico.eu/article/babis-poised-to-triumph-in-czech-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-04T15:25:05Z",
@@ -211,18 +223,6 @@
     "url": "https://www.politico.com/news/2025/10/03/trump-portland-funds-ice-00593492?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-04T14:18:59Z",
     "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3bdb50ba92",
-    "source": "BBC — Top Stories",
-    "title": "Hundreds of extra police on streets after synagogue attack",
-    "summary": "Other forces are boosting Greater Manchester Police numbers following Thursday's synagogue attack.",
-    "url": "https://www.bbc.com/news/articles/crkj50gd217o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T14:06:55Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28fe/live/eb0719c0-a11d-11f0-909f-795e864c8891.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -336,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-6937bf9e67",
-    "source": "BBC — Top Stories",
-    "title": "UK will leave ECHR if Tories win election, Badenoch says",
-    "summary": "The European Convention on Human Rights has become a focal point in debates around changing immigration policy.",
-    "url": "https://www.bbc.com/news/articles/c1mxy2j2elro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T11:04:17Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/299f/live/f343b7e0-a098-11f0-a918-e111dd54869c.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-c1ba852c4f",
     "source": "The Guardian — UK",
     "title": "Greens ‘on track’ to supplant Labour as favourite party in London, says Zack Polanski",
@@ -427,6 +415,18 @@
     "url": "https://www.theguardian.com/media/2025/oct/04/bbc-bosses-want-defence-budget-to-help-pay-for-the-world-service",
     "published": "2025-10-04T07:00:05Z",
     "image_url": "https://i.guim.co.uk/img/media/484ed2d166167333878df238625c35922bcb1139/0_0_5844_4676/master/5844.jpg?width=140&quality=85&auto=format&fit=max&s=931c38a37cf7e358fbcce9ad2fde3d86",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7893352aa2",
+    "source": "BBC — Top Stories",
+    "title": "Sanae Takaichi set to become Japan's first female prime minister",
+    "summary": "Takaichi is a long-time admirer of Margaret Thatcher, but many female voters do not see her as an advocate for progress.",
+    "url": "https://www.bbc.com/news/articles/cx2pmy7m72lo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T06:23:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/19a047f0-a0fd-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
