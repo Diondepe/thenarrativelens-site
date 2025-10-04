@@ -1,5 +1,17 @@
 [
   {
+    "id": "The Guardian — UK-278457306f",
+    "source": "The Guardian — UK",
+    "title": "UK electric car sales hit record high as taxpayer subsidies help attract buyers",
+    "summary": "EVs rise nearly a third in September compared with a year earlier, as plug-in hybrids jump by 56% British electric car sales hit a record high in September as new taxpayer subsidies helped to attract buyers in the most important month for the market. Battery EV sales rose by nearly a third in September compared with a year earlier, to 72,800, according to preliminary figures from the Society of Motor Manufacturers and Traders (SMMT), a lobby group. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/04/uk-electric-car-sales-record-high-taxpayer-subsidies",
+    "published": "2025-10-04T04:00:01Z",
+    "image_url": "https://i.guim.co.uk/img/media/9d981a278c6c829307467dd565d677c507d5e13b/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=073e433170f049e7cc23b5a915134526",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-3a1e8a9c60",
     "source": "Politico — UK",
     "title": "World’s cartoonists on this week’s events",
@@ -48,18 +60,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a12d391d6c",
-    "source": "BBC — Top Stories",
-    "title": "Money paid but no ship: The around-the-world cruise that is yet to set sail",
-    "summary": "The BBC has been speaking to retirees who want the firm selling the cruise to stop advertising and refund their deposits.",
-    "url": "https://www.bbc.com/news/articles/c8xrd29r5ywo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T00:41:27Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcca/live/fa42b3a0-a018-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-74164f737d",
     "source": "BBC — Top Stories",
     "title": "Sales of electric cars hit record high in September",
@@ -91,6 +91,18 @@
     "url": "https://www.bbc.com/news/articles/cvg4l80gz7eo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T00:00:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb02/live/afd1f4d0-a06c-11f0-9640-9757c7912ee3.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-95a89cf997",
+    "source": "BBC — Top Stories",
+    "title": "'Mourners vent their anger at Lammy' and 'PM's warning on protests'",
+    "summary": "The emerging details of the Manchester synagogue attack continue to dominate the papers' front pages.",
+    "url": "https://www.bbc.com/news/articles/cx2njv9nd1ko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T23:58:29Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba52/live/502c7260-a0aa-11f0-92db-77261a15b9d2.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -336,18 +348,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-fe3a493dfb",
-    "source": "The Guardian — UK",
-    "title": "Manchester synagogue attack: charity volunteer among injured",
-    "summary": "Injured man was with Community Security Trust, which protects UK’s Jewish community and combats antisemitism One of those injured in Thursday’s attack on a synagogue in Manchester was working for the Community Security Trust (CST), it has emerged, as the organisation was praised for its role in preventing an even worse atrocity. The sight of volunteers in the charity’s hi-vis bibs has become familiar to anyone frequenting Jewish places of worship, schools and other sites in recent years. However, for decades it has also informed public policy by monitoring and combating antisemitism, while also playing a role countering hatred towards other communities. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/03/manchester-synagogue-attack-cst-charity-volunteer-injured",
-    "published": "2025-10-03T17:06:25Z",
-    "image_url": "https://i.guim.co.uk/img/media/d3c1c946d37a44ea81a8e2fb99cded3be6146cbe/0_0_6890_5512/master/6890.jpg?width=140&quality=85&auto=format&fit=max&s=a92baafc73916e07160ffe8e4f8b4ac4",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e25a23c1a7",
     "source": "The Guardian — UK",
     "title": "What do we know about Jihad al-Shamie, the Manchester synagogue attacker?",
@@ -355,6 +355,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/03/what-do-we-know-about-jihad-al-shamie-the-manchester-synagogue-attacker",
     "published": "2025-10-03T16:59:18Z",
     "image_url": "https://i.guim.co.uk/img/media/fd29a6df9f42fd9b306ed7a47ba5f32f883256ce/0_124_1400_1120/master/1400.jpg?width=140&quality=85&auto=format&fit=max&s=b46f7167cbc7c15c2af3b44457836179",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-7bfc98d63e",
+    "source": "The Guardian — UK",
+    "title": "We are heartbroken after synagogue attack, says senior UK Jewish politician",
+    "summary": "Attorney general Richard Hermer says more must be done to protect Jewish community and tackle antisemitism One of UK’s most senior Jewish politicians has said he and the Jewish community are “heartbroken, frightened and angry” after the terror attack on a Manchester synagogue. Richard Hermer, the attorney general and a close ally of Keir Starmer in cabinet, said tackling a rising tide of antisemitism would require police protection and political leaders calling it out wherever it was found. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/03/synagogue-attack-senior-uk-jewish-politician-richard-hermer",
+    "published": "2025-10-03T16:58:34Z",
+    "image_url": "https://i.guim.co.uk/img/media/7dfaa79ac38aa34f1bb460aa81c21888183b9aea/1003_41_1438_1151/master/1438.jpg?width=140&quality=85&auto=format&fit=max&s=89a5ebd7dca387bed55efdac8c97d747",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -499,18 +511,6 @@
     "url": "https://www.politico.eu/article/europe-democracies-danger-warn-friedrich-merz-emmanuel-macron/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-03T14:01:17Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/GettyImages-2238574106-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-edd22c6ebf",
-    "source": "The Guardian — UK",
-    "title": "Starmer will hand Britain over to Farage, says Green party leader Zack Polanski",
-    "summary": "Leader tells party’s conference he is ready to take the fight to Labour and speak out in support of immigration UK politics live – latest updates The Greens are coming directly to challenge Labour, the party’s new leader, Zack Polanski, has told its conference, saying that as things stand, Keir Starmer would “hand this country on a plate” to Reform UK. Addressing a packed event in Bournemouth, Polanski condemned what he called Labour’s “managed decline” and the aping of Reform policies in areas such as migration. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/03/starmer-will-hand-britain-over-to-farage-says-green-party-leader-zack-polanski",
-    "published": "2025-10-03T13:33:15Z",
-    "image_url": "https://i.guim.co.uk/img/media/230f3f716b1479d4b506a4187fec02c39aa795b2/531_0_4274_3419/master/4274.jpg?width=140&quality=85&auto=format&fit=max&s=e1df8923281af1d372036e6155ab8acb",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
