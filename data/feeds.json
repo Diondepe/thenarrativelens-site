@@ -1,5 +1,77 @@
 [
   {
+    "id": "The Guardian — UK-2951c528c3",
+    "source": "The Guardian — UK",
+    "title": "London’s royal parks closed due to strong winds; Scotland hit by power cuts and travel disruption – Storm Amy as it happened",
+    "summary": "This blog has now closed, you can read more on this story here The Environment Agency has issued two flood alerts where “flooding is expected” for Keswick Campsite in the Lake District and locations near the River Ure, particularly around Boroughbridge Camping and Caravanning Site in North Yorkshire. “Avoid using low-lying footpaths and any bridges near local watercourses. Take care and avoid walking, cycling or driving through flood water,” it advises. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/live/2025/oct/04/storm-amy-live-updates-latest-news-uk-ireland-weather-warnings-met-office",
+    "published": "2025-10-04T14:51:48Z",
+    "image_url": "https://i.guim.co.uk/img/media/b6964fa416732e89ad2a82fde0903735420e05f0/516_0_2635_2108/master/2635.jpg?width=140&quality=85&auto=format&fit=max&s=7ce47d22bc306af7335f011211c46e07",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-890b865045",
+    "source": "The Guardian — UK",
+    "title": "Police make arrests at Palestine Action protest as demo goes ahead despite PM’s pleas",
+    "summary": "Officers start arresting activists at silent vigil in support of banned organisation Police have made a number of arrests in Trafalgar Square at what organisers hoped would be the biggest demonstration so far against a ban on the proscribed organisation Palestine Action. Police began arresting demonstrators at the silent vigil in support of the group, which has been classed by the UK government as a terror organisation since July this year. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/oct/04/palestine-action-protest-police-arrests-london-demo",
+    "published": "2025-10-04T14:41:53Z",
+    "image_url": "https://i.guim.co.uk/img/media/51163e7da7d008c6cbcc9a4da5a69a6fa232b354/492_0_5196_4155/master/5196.jpg?width=140&quality=85&auto=format&fit=max&s=d814a7074d9145ceb6d4d1a0b6217346",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-1dc938a3eb",
+    "source": "The Guardian — UK",
+    "title": "Storm Amy: man dies in Ireland as fresh weather warning issued for UK",
+    "summary": "Man dies in ‘weather-related incident’ in Co Donegal, while Met Office issues yellow wind warning for whole of UK Storm Amy – latest updates A man has died and a fresh weather warning covers the whole of the UK as Storm Amy continues to bring widespread disruption. Irish police said the man died in a “weather-related” incident in the Letterkenny area of County Donegal, Ireland, shortly after 4.15pm on Friday. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/04/storm-amy-uk-ireland-wind-weather-warning",
+    "published": "2025-10-04T14:39:44Z",
+    "image_url": "https://i.guim.co.uk/img/media/8c3baf1707fa5aed99b7f59f21c2e929a0dd4630/1449_0_4119_3295/master/4119.jpg?width=140&quality=85&auto=format&fit=max&s=d389603a6445d4d9badc3264d16188a2",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b8db994697",
+    "source": "BBC — Top Stories",
+    "title": "Harrods sets aside more than £60m for abuse compensation",
+    "summary": "The Met Police says 146 people have come forward to report a crime in their investigation into the decease ex-owner of the luxury department store.",
+    "url": "https://www.bbc.com/news/articles/cx20ky6n79eo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T14:31:40Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cff8/live/be03c110-a12e-11f0-a9f1-8d9167fcc08f.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7e8a61b92b",
+    "source": "BBC — Top Stories",
+    "title": "At least 30 injured in Russian strike on railway station, Zelensky says",
+    "summary": "Preliminary reports indicate that train staff and passengers were at the site of the strike, he says.",
+    "url": "https://www.bbc.com/news/articles/czewkn06y1no?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T14:28:58Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706a/live/8c0bfc30-a11b-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-2b9a4f4192",
+    "source": "Politico — UK",
+    "title": "Trump pressures Portland amid National Guard standoff",
+    "summary": "The White House said Friday it was going to try to cut funds to the city, while administration officials also said it was surging ICE, CBP personnel to Oregon.",
+    "url": "https://www.politico.com/news/2025/10/03/trump-portland-funds-ice-00593492?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-04T14:18:59Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-3bdb50ba92",
     "source": "BBC — Top Stories",
     "title": "Hundreds of extra police on streets after synagogue attack",
@@ -7,6 +79,18 @@
     "url": "https://www.bbc.com/news/articles/crkj50gd217o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T14:06:55Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28fe/live/eb0719c0-a11d-11f0-909f-795e864c8891.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b254cc4de4",
+    "source": "BBC — Top Stories",
+    "title": "Shock in Gaza as Trump appears to welcome Hamas response to US peace plan",
+    "summary": "Hamas agreed to release the hostages and to the idea of handing over governing Gaza to Palestinian technocrats, but did not give a clear response to many other elements.",
+    "url": "https://www.bbc.com/news/articles/c15k199j1x3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T13:57:38Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e94/live/7548e480-a112-11f0-807b-c1a7ae4b635d.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -24,18 +108,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-2951c528c3",
-    "source": "The Guardian — UK",
-    "title": "Storm Amy live updates: London’s royal parks closed due to strong winds; Scotland hit by power cuts and travel disruption",
-    "summary": "Weather and flood warnings are in place across the UK and Ireland, where a man has been killed The Environment Agency has issued two flood alerts where “flooding is expected” for Keswick Campsite in the Lake District and locations near the River Ure, particularly around Boroughbridge Camping and Caravanning Site in North Yorkshire. “Avoid using low-lying footpaths and any bridges near local watercourses. Take care and avoid walking, cycling or driving through flood water,” it advises. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/live/2025/oct/04/storm-amy-live-updates-latest-news-uk-ireland-weather-warnings-met-office",
-    "published": "2025-10-04T13:40:13Z",
-    "image_url": "https://i.guim.co.uk/img/media/b6964fa416732e89ad2a82fde0903735420e05f0/516_0_2635_2108/master/2635.jpg?width=140&quality=85&auto=format&fit=max&s=7ce47d22bc306af7335f011211c46e07",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-bff098c30d",
     "source": "Politico — UK",
     "title": "‘Savage’ Russian drone strike hits Ukraine passenger train",
@@ -43,18 +115,6 @@
     "url": "https://www.politico.eu/article/savage-drone-attack-ukraine-passenger-train-volodymyr-zelenskyy-russia-shostka/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-04T13:32:34Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/04/GettyImages-2238736026-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7e8a61b92b",
-    "source": "BBC — Top Stories",
-    "title": "At least 30 injured in Russian strike on railway station, Zelensky says",
-    "summary": "Preliminary reports indicate that train staff and passengers were at the site of the strike, he says.",
-    "url": "https://www.bbc.com/news/articles/czewkn06y1no?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T13:25:59Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706a/live/8c0bfc30-a11b-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -115,18 +175,6 @@
     "url": "https://www.politico.com/news/2025/10/03/shutdown-will-stretch-into-another-week-as-senate-standoff-continues-00593427?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-04T12:14:06Z",
     "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-890b865045",
-    "source": "The Guardian — UK",
-    "title": "Palestine Action protest: police begin making arrests at London demo",
-    "summary": "Officers start arresting activists at silent vigil in support of banned organisation Arrests have begun in Trafalgar Square at what may be the biggest demonstration so far against a ban on the proscribed organisation Palestine Action. Police began arresting demonstrators at the silent vigil in support of the group, which has been classed by the UK government as a terror organisation since July this year. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/04/palestine-action-protest-police-arrests-london-demo",
-    "published": "2025-10-04T12:08:17Z",
-    "image_url": "https://i.guim.co.uk/img/media/f544b064d5228cafa30e369e9073acb061c5169f/259_0_2989_2392/master/2989.jpg?width=140&quality=85&auto=format&fit=max&s=d90f950e8e45f8dd56ca9af17a56c670",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -235,18 +283,6 @@
     "url": "https://www.theguardian.com/news/2025/oct/04/antisemitism-has-been-allowed-to-grow-in-uk-says-jewish-security-group",
     "published": "2025-10-04T09:38:55Z",
     "image_url": "https://i.guim.co.uk/img/media/c398fb402cc79f1d11d22b912c5b3d95ad4293b7/1440_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=d8784fa5bf92995c0e7eaf0f5b8d5767",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-1dc938a3eb",
-    "source": "The Guardian — UK",
-    "title": "Storm Amy: man dies in Ireland as fresh weather warning issued for UK",
-    "summary": "Man dies in ‘weather-related incident’ in Co Donegal, while Met Office issues yellow wind warning for whole of UK Storm Amy – latest updates A man has died and a fresh weather warning covers the whole of the UK as Storm Amy continues to bring widespread disruption. Irish police said the man died in a “weather-related” incident in the Letterkenny area of County Donegal, Ireland, shortly after 4.15pm on Friday. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/04/storm-amy-uk-ireland-wind-weather-warning",
-    "published": "2025-10-04T09:35:44Z",
-    "image_url": "https://i.guim.co.uk/img/media/8c3baf1707fa5aed99b7f59f21c2e929a0dd4630/1449_0_4119_3295/master/4119.jpg?width=140&quality=85&auto=format&fit=max&s=d389603a6445d4d9badc3264d16188a2",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -420,18 +456,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-bd1b22aaba",
-    "source": "BBC — Top Stories",
-    "title": "Hamas response to US Gaza plan is significant - but there are key omissions",
-    "summary": "There is still a huge amount of detail to be worked through around how a ceasefire could be implemented.",
-    "url": "https://www.bbc.com/news/articles/cvg9myeqjl1o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T22:59:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc74/live/0078f920-a102-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-79d0f1b887",
     "source": "BBC — Top Stories",
     "title": "Synagogue attacker was on bail after rape arrest, police say",
@@ -439,18 +463,6 @@
     "url": "https://www.bbc.com/news/articles/cly97ervz1zo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-03T22:02:32Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7014/live/b50aaa10-a09d-11f0-85af-1377c963b9be.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-1697fe9c8f",
-    "source": "BBC — Top Stories",
-    "title": "Trump's Grim Reaper - from Project 2025 to shutdown enforcer",
-    "summary": "The Office of Management and Budget boss may not be a household name, but he's a key figure in Washington's shutdown.",
-    "url": "https://www.bbc.com/news/articles/c059ydyqe19o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T21:31:21Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/323f/live/91f80ab0-a082-11f0-bb47-b30225268691.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -495,7 +507,7 @@
     "id": "The Guardian — UK-04816518d5",
     "source": "The Guardian — UK",
     "title": "Starmer urges pro-Palestine protesters to ‘respect the grief of British Jews’",
-    "summary": "Writing before a planned protest against Palestine Action ban, PM says activists should recognise a time of mourning The prime minister has called for protesters to “respect the grief of British Jews this week” after the Manchester synagogue attack. Ahead of a planned demonstration against the ban on Palestine Action this Saturday, Keir Starmer wrote in the Jewish Chronicle that activists should recognise this is a time of mourning. Continue reading...",
+    "summary": "Writing before a planned protest against Palestine Action ban, PM says activists should recognise a time of mourning The prime minister has called for protesters to “respect the grief of British Jews this week” after the Manchester synagogue attack. Ahead of a planned demonstration against the ban on Palestine Action this Saturday, Keir Starmer wrote in Jewish News and the Jewish Chronicle that activists should recognise this is a time of mourning. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/03/cancelling-palestine-action-protest-would-let-terror-win-say-activists",
     "published": "2025-10-03T17:46:10Z",
     "image_url": "https://i.guim.co.uk/img/media/a5f057caf7dc1819cb45b7776b0eb73bf6b4488b/457_0_6217_4974/master/6217.jpg?width=140&quality=85&auto=format&fit=max&s=55654e2293224870fcec6b878b3062a8",
@@ -523,18 +535,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/03/what-do-we-know-about-jihad-al-shamie-the-manchester-synagogue-attacker",
     "published": "2025-10-03T16:59:18Z",
     "image_url": "https://i.guim.co.uk/img/media/fd29a6df9f42fd9b306ed7a47ba5f32f883256ce/0_124_1400_1120/master/1400.jpg?width=140&quality=85&auto=format&fit=max&s=b46f7167cbc7c15c2af3b44457836179",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-f1b638d2d8",
-    "source": "Politico — UK",
-    "title": "Mass protests and strikes for Gaza bring Italy to a standstill",
-    "summary": "Roads and ports were blocked and schools closed after unions called for general strike over Israel's war on Gaza.",
-    "url": "https://www.politico.eu/article/italy-protests-strikes-unions-israel-war-on-gaza/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-03T16:48:14Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/GettyImages-2238612516-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
