@@ -1,5 +1,53 @@
 [
   {
+    "id": "The Guardian — UK-420027aa29",
+    "source": "The Guardian — UK",
+    "title": "Starmer on horns of dilemma over China’s seven-year mega-embassy saga",
+    "summary": "Decision time is coming after Labour called in the planning application for the new building in east London In 2018, a prime piece of real estate near the Tower of London that was once home to a Cistercian abbey and later became the historic manufacturing site for British coins was sold to the Chinese government. The £255m deal, brokered by Eddie Lister, one of Boris Johnson’s closest aides, provided China with a site to build a new diplomatic complex stretching across 20,000 square metres. China’s then ambassador, Liu Xiaoming, expressed hopes that the deal would “write a new chapter for a China-UK golden era”. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/oct/04/china-mega-embassy-dilemma-starmer",
+    "published": "2025-10-04T06:00:06Z",
+    "image_url": "https://i.guim.co.uk/img/media/6fdfd683c55c894b8b46babc98da8e5927cee72c/351_0_5618_4494/master/5618.jpg?width=140&quality=85&auto=format&fit=max&s=e1b08a6c9f036f6e0fa918f1eb26023c",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-2951c528c3",
+    "source": "The Guardian — UK",
+    "title": "Storm Amy live updates: danger to life warning in UK and Ireland after one killed and hundreds of thousands of homes without power",
+    "summary": "Weather warnings are in place across the UK and Ireland on Saturday The north of Scotland will face a new amber warning for “damaging” winds with gusts of more than 90mph in some areas. Most of Scotland, apart from the east coast, will be covered by a yellow warning for rain while a yellow wind alert will be in place across the entire UK. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/live/2025/oct/04/storm-amy-live-updates-latest-news-uk-ireland-weather-warnings-met-office",
+    "published": "2025-10-04T05:58:41Z",
+    "image_url": "https://i.guim.co.uk/img/media/459720e9025c8d41ef38b56db5a71d7d2d830821/562_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a004ee88b27e8558dff1b81bf221494a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-95a89cf997",
+    "source": "BBC — Top Stories",
+    "title": "'Mourners vent their anger at Lammy' and 'PM's warning on protests'",
+    "summary": "The emerging details of the Manchester synagogue attack continue to dominate the papers' front pages.",
+    "url": "https://www.bbc.com/news/articles/cx2njv9nd1ko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T05:44:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba52/live/502c7260-a0aa-11f0-92db-77261a15b9d2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-b6f22f7a43",
+    "source": "The Guardian — UK",
+    "title": "Rachel Reeves urged to break manifesto pledges to avoid ‘pasty tax’ budget",
+    "summary": "Labour colleagues advise chancellor against string of small money-raising measures, as OBR presents forecast Some of Rachel Reeves’s Labour colleagues have urged her to ditch the party’s manifesto promises rather than risk a “pasty tax” budget that raises money through a string of small measures. As the independent Office for Budget Responsibility (OBR) presented its first fiscal forecast to the Treasury on Friday, several sources said there was tension within the government over the manifesto pledges. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/04/rachel-reeves-urged-to-break-manifesto-pledges-to-avoid-pasty-tax-budget",
+    "published": "2025-10-04T05:00:56Z",
+    "image_url": "https://i.guim.co.uk/img/media/5a3635033cff9e5511941074febfb07e6feeeb87/897_56_5423_4340/master/5423.jpg?width=140&quality=85&auto=format&fit=max&s=c1738feba5d3bdfb5e35cc6893617b80",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-d45cb4e710",
     "source": "The Guardian — UK",
     "title": "Warnings of imports of caged hen eggs as Ukraine and Poland become UK’s biggest suppliers",
@@ -48,6 +96,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-af24367aaa",
+    "source": "BBC — Top Stories",
+    "title": "We need hospitals more than football stadiums, say Morocco's young protesters",
+    "summary": "Morocco will soon have the world's largest football stadium but this has angered many young people who want better services.",
+    "url": "https://www.bbc.com/news/articles/c8rv2l3me40o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T01:59:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f7e/live/2de59c60-a06c-11f0-8687-4726d7177866.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-81a446e5f5",
     "source": "BBC — Top Stories",
     "title": "Sean 'Diddy' Combs sentenced to more than four years in prison",
@@ -62,8 +122,8 @@
   {
     "id": "BBC — Top Stories-992467af2f",
     "source": "BBC — Top Stories",
-    "title": "Wind and rain warnings as Storm Amy hits parts of UK",
-    "summary": "Some schools in Northern Ireland are closed, while several rail services and ferries in Scotland have been cancelled.",
+    "title": "Wind and rain warnings as Storm Amy hits UK",
+    "summary": "An amber warning is in place for parts of Scotland while a lower level yellow warning is issued for much of the rest of the UK.",
     "url": "https://www.bbc.com/news/articles/c0lky9nn948o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T01:04:30Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8417/live/ee9ce990-a03f-11f0-92db-77261a15b9d2.jpg",
@@ -79,6 +139,18 @@
     "url": "https://www.bbc.com/news/articles/cwyn2yqpnnpo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T01:03:44Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c14/live/56c27be0-a066-11f0-b741-177e3e2c2fc7.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a12d391d6c",
+    "source": "BBC — Top Stories",
+    "title": "Money paid but no ship: The around-the-world cruise that is yet to set sail",
+    "summary": "The BBC has been speaking to retirees who want the firm selling the cruise to stop advertising and refund their deposits.",
+    "url": "https://www.bbc.com/news/articles/c8xrd29r5ywo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T00:41:27Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcca/live/fa42b3a0-a018-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -120,25 +192,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-95a89cf997",
-    "source": "BBC — Top Stories",
-    "title": "'Mourners vent their anger at Lammy' and 'PM's warning on protests'",
-    "summary": "The emerging details of the Manchester synagogue attack continue to dominate the papers' front pages.",
-    "url": "https://www.bbc.com/news/articles/cx2njv9nd1ko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T23:58:29Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba52/live/502c7260-a0aa-11f0-92db-77261a15b9d2.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-5a593dd822",
     "source": "The Guardian — UK",
     "title": "One person dead and thousands of homes without power as Storm Amy arrives",
-    "summary": "Irish police say they are treating the death of a man as weather-related and, meanwhile, many homes in Ireland and Northern Ireland are without power A man has been killed and hundreds of thousands of homes on the island of Ireland are without power after Storm Amy brought widespread disruption on Friday. An amber weather warning, highlighting a danger to life, was also in place in the north of Scotland until 9pm on Saturday. Continue reading...",
+    "summary": "Irish police say they are treating the death of a man as weather-related and, meanwhile, many homes in Ireland and Northern Ireland are without power Storm Amy: latest news updates A man has been killed and hundreds of thousands of homes on the island of Ireland are without power after Storm Amy brought widespread disruption on Friday. An amber weather warning, highlighting a danger to life, was also in place in the north of Scotland until 9pm on Saturday. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/03/storm-amy-threatens-travel-disruption-uk-weather",
     "published": "2025-10-03T23:14:24Z",
-    "image_url": "https://i.guim.co.uk/img/media/66cfc1b35a462e7cda07b65d647b0fd9c06b9651/433_0_2864_2292/master/2864.jpg?width=140&quality=85&auto=format&fit=max&s=b307493be9218d93cbbd9303da09fe3f",
+    "image_url": "https://i.guim.co.uk/img/media/a9eea0f63a47f0852f2fa20c081f1305e4a32bea/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=854e2fee31400573917def90c89d1bf4",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -288,18 +348,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-43d8c96108",
-    "source": "The Guardian — UK",
-    "title": "Family pay tribute to Manchester ‘hero’ believed to have been accidentally shot by police",
-    "summary": "Adrian Daulby, 53, helped stop attacker from entering synagogue in ‘act of profound courage’ The families of the two men killed in the Manchester synagogue attack have described them as heroic people who cared about their community. The family of 53-year-old Adrian Daulby, who is believed to have been accidentally shot by police, described him as a “hero” who “tragically lost his life in the act of courage to save others”. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/03/manchester-synagogue-attack-police-name-two-victims-killed",
-    "published": "2025-10-03T19:01:38Z",
-    "image_url": "https://i.guim.co.uk/img/media/1458c7605fb37f81e6b0ab0019b5ceda9299245e/103_180_1001_801/master/1001.jpg?width=140&quality=85&auto=format&fit=max&s=adbcde5648fbf8864b902a4015e3cb23",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-0e8db79766",
     "source": "BBC — Top Stories",
     "title": "Bonehead out of Oasis tour after cancer diagnosis",
@@ -307,18 +355,6 @@
     "url": "https://www.bbc.com/news/articles/cpvl3p7k0m1o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-03T18:44:04Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a5/live/11566ca0-a080-11f0-bb47-b30225268691.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-822ad39ecc",
-    "source": "The Guardian — UK",
-    "title": "Manchester synagogue terrorist was on bail for alleged rape",
-    "summary": "Exclusive: Jihad al-Shamie had been under investigation over alleged sexual attack earlier this year, sources say The Manchester synagogue terrorist was on police bail for an alleged rape when he carried out the attack, the Guardian can reveal. Jihad al-Shamie, 35, was being investigated over an alleged sexual attack, which it is understood was said to have taken place earlier this year. Greater Manchester police said it appeared that armed officers at the synagogue accidentally shot one of the two victims killed during the terrorist attack and that they probably injured another after opening fire on the attacker. Sources disclosed that counter-terrorism police were examining whether Shamie was responsible for a death threat sent to a former Conservative MP in 2012. Keir Starmer called for people to “respect the grief of British Jews” after activists planning to demonstrate against the ban on Palestine Action on Saturday said cancelling the event would “let terror win”. David Lammy, the justice secretary and deputy prime minister, was heckled and booed as he addressed a vigil close to the scene of the attack. He faced calls of “shame on you”, “go to Palestine, leave us alone” and “you have blood on your hands”. Police named the two dead men as Adrian Daulby, 53, and Melvin Cravitz, 66. Relatives of Cravitz said he was a “gentle giant” who “would never harm a fly”. A Muslim neighbour of Daulby described him as “one of the most fantastic men I ever knew in my life”. Rabbi Daniel Walker, who was leading a service at the synagogue at the time of the attack, told how the attacker shouted “I’m going to get you” as he tried to force his way in. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/03/manchester-synagogue-terrorist-was-on-bail-for-alleged",
-    "published": "2025-10-03T18:31:58Z",
-    "image_url": "https://i.guim.co.uk/img/media/b5de818acb6b4ee25426a288e2370aa46100f41b/736_0_4523_3617/master/4523.jpg?width=140&quality=85&auto=format&fit=max&s=94a94bc747e616866ff0caa641e6efe7",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -336,13 +372,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-3f21230a33",
-    "source": "BBC — Top Stories",
-    "title": "Lammy met with shouts of 'shame on you' as he appears at vigil in Manchester",
-    "summary": "David Lammy was speaking to a vigil near to the scene of the synagogue attack in Manchester.",
-    "url": "https://www.bbc.com/news/articles/c9312xk4l4ko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T17:43:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fe3/live/1141a8f0-a07c-11f0-bb47-b30225268691.png",
+    "id": "The Guardian — UK-04816518d5",
+    "source": "The Guardian — UK",
+    "title": "Starmer urges pro-Palestine protesters to ‘respect the grief of British Jews’",
+    "summary": "Writing before a planned protest against Palestine Action ban, PM says activists should recognise a time of mourning The prime minister has called for protesters to “respect the grief of British Jews this week” after the Manchester synagogue attack. Ahead of a planned demonstration against the ban on Palestine Action this Saturday, Keir Starmer wrote in the Jewish Chronicle that activists should recognise this is a time of mourning. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/03/cancelling-palestine-action-protest-would-let-terror-win-say-activists",
+    "published": "2025-10-03T17:46:10Z",
+    "image_url": "https://i.guim.co.uk/img/media/a5f057caf7dc1819cb45b7776b0eb73bf6b4488b/457_0_6217_4974/master/6217.jpg?width=140&quality=85&auto=format&fit=max&s=55654e2293224870fcec6b878b3062a8",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -415,42 +451,6 @@
     "url": "https://www.politico.eu/article/italy-protests-strikes-unions-israel-war-on-gaza/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-03T16:48:14Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/GettyImages-2238612516-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-9711309806",
-    "source": "The Guardian — UK",
-    "title": "Tory chair accepted £2k hospitality from developer of HMOs for asylum seekers",
-    "summary": "Exclusive: Kevin Hollinrake’s conference costs paid for by firm helping landlords convert homes for lucrative market The Conservative party chair, Kevin Hollinrake, accepted thousands of pounds worth of hospitality from a company that converts family homes into houses in multiple occupation (HMOs) for asylum seekers, official records show. According to the MPs’ register of interests, Living Redefined covered £2,000 worth of flights, hotel accommodation and dinner for Hollinrake and a family member to attend a property conference in the south of France earlier this year. The entry, registered in April 2025, lists the hospitality as support for “attendance at a conference”. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/03/tory-chair-accepted-hospitality-developer-hmos-asylum-seekers",
-    "published": "2025-10-03T16:27:53Z",
-    "image_url": "https://i.guim.co.uk/img/media/7ae188d7fa709bfbe7f4fac0a9a8a6c03374f40e/1113_47_2598_2078/master/2598.jpg?width=140&quality=85&auto=format&fit=max&s=ec3c4257f1b3691f260d80f72a93ca5d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-1f883973bd",
-    "source": "BBC — Top Stories",
-    "title": "Manchester's Jewish community 'shocked but not surprised'",
-    "summary": "Jewish people in Manchester say the attack was not unexpected after a rise in antisemitism.",
-    "url": "https://www.bbc.com/news/articles/cdr64nnjlv1o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T16:27:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/666a/live/974b1e00-a06c-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-59cb5d1122",
-    "source": "The Guardian — UK",
-    "title": "UK political class ‘poisoned by wealth’, says Zack Polanski as he sets out plan to tax assets of richest 1% – as it happened",
-    "summary": "Green party leader says a ‘tiny few have taken our wealth and power’ in address to Green party conference. This live blog is closed In his FT interview Mel Stride , the shadow chancellor, also dismissed speculation that Kemi Badenoch will be replaced as Tory leader within the next year. Many of her colleagues think she will face a successful leadership challenge, most probably after poor results in the Senedd, Scottish parliament and English local elections next May. Stride said that he thought Badenoch was similar to Margaret Thatcher, who was widely criticised when she became opposition leader in 1975 but who over time developed into an effective leader. He said: We had all this with Margaret Thatcher back in the 1970s. Her voice wasn’t right, her hair wasn’t right, her dress wasn’t right, she wasn’t very good at prime minister’s questions. It took her some time to work her way into being the finished, formidable politician she was. She is incredibly resilient, as cool as they come. She goes away, thinks about it and comes to a decision. I’m very confident Kemi will be fine. But it’s going to be bumpy — it’s going to be difficult. Labour does not have any plan for growth. They thought that as soon as they got into power, things would just work because they’re Labour and they believe in their own righteousness. That is not working - they need to get a plan to grow our economy, otherwise we will end up going to the IMF cap in hand. A lot of the indicators are pointing in that direction. Many very well respected commentators and economists are saying this. I think that’s very unlikely. That’s not to say we couldn’t be heading for some kind of bond crisis with runaway yields. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/03/greens-labour-reform-conservatives-immigration-uk-politics-live-news-updates",
-    "published": "2025-10-03T16:13:02Z",
-    "image_url": "https://i.guim.co.uk/img/media/230f3f716b1479d4b506a4187fec02c39aa795b2/648_0_4274_3419/master/4274.jpg?width=140&quality=85&auto=format&fit=max&s=0d34a76192babc062a16168d0063aab5",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -531,7 +531,7 @@
     "id": "Politico — UK-7b8eda1098",
     "source": "Politico — UK",
     "title": "Keir Starmer and Narendra Modi eye closer tech ties at Mumbai summit",
-    "summary": "The U.K. PM‘s first India visit comes just months after the two nations closed their long-desired trade deal.",
+    "summary": "The U.K. PM’s first India visit comes just months after the two nations closed their long-desired trade deal.",
     "url": "https://www.politico.eu/article/keir-starmer-narendra-modi-closer-tech-ties-mumbai-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-03T09:31:03Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/GettyImages-2225943690-scaled.jpg",
