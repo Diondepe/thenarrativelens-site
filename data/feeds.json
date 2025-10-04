@@ -1,12 +1,24 @@
 [
   {
-    "id": "The Guardian — UK-2951c528c3",
+    "id": "The Guardian — UK-23cacb2f33",
     "source": "The Guardian — UK",
-    "title": "London’s royal parks closed due to strong winds; Scotland hit by power cuts and travel disruption – Storm Amy as it happened",
-    "summary": "This blog has now closed, you can read more on this story here The Environment Agency has issued two flood alerts where “flooding is expected” for Keswick Campsite in the Lake District and locations near the River Ure, particularly around Boroughbridge Camping and Caravanning Site in North Yorkshire. “Avoid using low-lying footpaths and any bridges near local watercourses. Take care and avoid walking, cycling or driving through flood water,” it advises. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/live/2025/oct/04/storm-amy-live-updates-latest-news-uk-ireland-weather-warnings-met-office",
-    "published": "2025-10-04T14:51:48Z",
-    "image_url": "https://i.guim.co.uk/img/media/b6964fa416732e89ad2a82fde0903735420e05f0/516_0_2635_2108/master/2635.jpg?width=140&quality=85&auto=format&fit=max&s=7ce47d22bc306af7335f011211c46e07",
+    "title": "Watchdog cleared ex-Tory minister to work for offshoot of firm linked to China surveillance",
+    "summary": "Acoba advised Richard Fuller he could take up post with Investcorp Securities, a subsidiary of private equity firm backing Sense Time A government watchdog advised a former minister that he could work with a subsidiary of a company linked to Chinese surveillance technology, the Guardian can reveal. Richard Fuller, who served as economic secretary to the Treasury in the governments of Boris Johnson and Liz Truss, wrote to the Advisory Committee on Business Appointments (Acoba) before joining Investcorp Securities as an advisory board member in 2023. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/04/acoba-watchdog-richard-fuller-investcorp-securities-china-surveillance",
+    "published": "2025-10-04T16:00:09Z",
+    "image_url": "https://i.guim.co.uk/img/media/a19474afce0e76f1aff6ed7132c763302400d3f3/1163_0_3174_2539/master/3174.jpg?width=140&quality=85&auto=format&fit=max&s=6031e84c86f626cbf8986ca0ad9fe3b0",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e9178d68af",
+    "source": "BBC — Top Stories",
+    "title": "Police make 175 arrests at pro-Palestinian protest in London",
+    "summary": "Demonstrations went ahead in central London despite calls from politicians and police leaders for the protests to be postponed in wake of the Manchester synagogue attack.",
+    "url": "https://www.bbc.com/news/articles/ceq2e9x19g8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T15:58:47Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b09/live/9d0674b0-a135-11f0-a9f1-8d9167fcc08f.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -15,10 +27,70 @@
     "id": "The Guardian — UK-890b865045",
     "source": "The Guardian — UK",
     "title": "Police make arrests at Palestine Action protest as demo goes ahead despite PM’s pleas",
-    "summary": "Officers start arresting activists at silent vigil in support of banned organisation Police have made a number of arrests in Trafalgar Square at what organisers hoped would be the biggest demonstration so far against a ban on the proscribed organisation Palestine Action. Police began arresting demonstrators at the silent vigil in support of the group, which has been classed by the UK government as a terror organisation since July this year. Continue reading...",
+    "summary": "Officers arrest activists at silent vigil in support of banned organisation Police have made more than a 100 arrests in Trafalgar Square at what organisers hoped would be the biggest demonstration so far against a ban on the proscribed organisation Palestine Action. Officers began arresting demonstrators at the silent vigil in support of the group, which has been classed by the UK government as a terror organisation since July this year. Continue reading...",
     "url": "https://www.theguardian.com/world/2025/oct/04/palestine-action-protest-police-arrests-london-demo",
-    "published": "2025-10-04T14:41:53Z",
+    "published": "2025-10-04T15:55:40Z",
     "image_url": "https://i.guim.co.uk/img/media/51163e7da7d008c6cbcc9a4da5a69a6fa232b354/492_0_5196_4155/master/5196.jpg?width=140&quality=85&auto=format&fit=max&s=d814a7074d9145ceb6d4d1a0b6217346",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-992467af2f",
+    "source": "BBC — Top Stories",
+    "title": "Wind and rain warnings as Storm Amy hits UK",
+    "summary": "An amber warning is in place for parts of Scotland while a lower level yellow warning is issued for much of the rest of the UK.",
+    "url": "https://www.bbc.com/news/articles/c0lky9nn948o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T15:38:54Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ab3/live/488be5a0-a10d-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7e8a61b92b",
+    "source": "BBC — Top Stories",
+    "title": "At least 30 injured in Russian strike on railway station, Zelensky says",
+    "summary": "Preliminary reports indicate that train staff and passengers were at the site of the strike, he says.",
+    "url": "https://www.bbc.com/news/articles/czewkn06y1no?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T15:34:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706a/live/8c0bfc30-a11b-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-e1f1c2ace6",
+    "source": "Politico — UK",
+    "title": "Babiš poised to triumph in Czech election",
+    "summary": "Right-wing populist's ANO movement is leading with 35 percent of the vote, with ballots counted in 90 percent of electoral districts.",
+    "url": "https://www.politico.eu/article/babis-poised-to-triumph-in-czech-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-04T15:25:05Z",
+    "image_url": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-95d2f0a024",
+    "source": "BBC — Top Stories",
+    "title": "Rail firm fined £1m over train passenger's death",
+    "summary": "Bethan Roper was killed in 2018 when she leaned out of a droplight window on a moving train.",
+    "url": "https://www.bbc.com/news/articles/c20ej7rkj3ko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T15:17:17Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f2a/live/7f80e460-a104-11f0-ac34-1b87a37e0e9a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-2951c528c3",
+    "source": "The Guardian — UK",
+    "title": "London’s royal parks closed due to strong winds; Scotland hit by power cuts and travel disruption – Storm Amy as it happened",
+    "summary": "This blog has now closed, you can read more on this story here The Environment Agency has issued two flood alerts where “flooding is expected” for Keswick Campsite in the Lake District and locations near the River Ure, particularly around Boroughbridge Camping and Caravanning Site in North Yorkshire. “Avoid using low-lying footpaths and any bridges near local watercourses. Take care and avoid walking, cycling or driving through flood water,” it advises. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/live/2025/oct/04/storm-amy-live-updates-latest-news-uk-ireland-weather-warnings-met-office",
+    "published": "2025-10-04T14:51:48Z",
+    "image_url": "https://i.guim.co.uk/img/media/b6964fa416732e89ad2a82fde0903735420e05f0/516_0_2635_2108/master/2635.jpg?width=140&quality=85&auto=format&fit=max&s=7ce47d22bc306af7335f011211c46e07",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -43,18 +115,6 @@
     "url": "https://www.bbc.com/news/articles/cx20ky6n79eo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T14:31:40Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cff8/live/be03c110-a12e-11f0-a9f1-8d9167fcc08f.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7e8a61b92b",
-    "source": "BBC — Top Stories",
-    "title": "At least 30 injured in Russian strike on railway station, Zelensky says",
-    "summary": "Preliminary reports indicate that train staff and passengers were at the site of the strike, he says.",
-    "url": "https://www.bbc.com/news/articles/czewkn06y1no?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T14:28:58Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706a/live/8c0bfc30-a11b-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -192,6 +252,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-a25137c1e0",
+    "source": "BBC — Top Stories",
+    "title": "UK ticket-holder wins £26m Euromillions jackpot",
+    "summary": "It is the third time someone from the UK has won the prize this year, but it remains unclaimed.",
+    "url": "https://www.bbc.com/news/articles/crl573x605xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T11:43:40Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3853/live/39019490-a117-11f0-acf1-c3cdd394c60e.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-9e2698eb30",
     "source": "BBC — Top Stories",
     "title": "Starmer tells protesters to 'respect grief of British Jews'",
@@ -264,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-992467af2f",
-    "source": "BBC — Top Stories",
-    "title": "Wind and rain warnings as Storm Amy hits UK",
-    "summary": "An amber warning is in place for parts of Scotland while a lower level yellow warning is issued for much of the rest of the UK.",
-    "url": "https://www.bbc.com/news/articles/c0lky9nn948o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T09:39:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ab3/live/488be5a0-a10d-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-a30f71ca94",
     "source": "The Guardian — UK",
     "title": "UK antisemitism ‘allowed to grow’ by politicians and wider society, Jewish security group says",
@@ -336,18 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-74b27af3e3",
-    "source": "The Guardian — UK",
-    "title": "BBC bosses want defence budget to help pay for the World Service",
-    "summary": "Exclusive: Executives at corporation say media monitoring and anti-disinformation are vital to national security BBC bosses are lobbying to use the UK’s defence budget to help pay for the embattled World Service, arguing that aspects of the service should qualify as vital for national security. Senior executives at the corporation are in talks with officials over whether parts of the service, such as media monitoring and anti-disinformation, should count towards Britain’s security, as they attempt to avoid cuts of tens of millions of pounds. Continue reading...",
-    "url": "https://www.theguardian.com/media/2025/oct/04/bbc-bosses-want-defence-budget-to-help-pay-for-the-world-service",
-    "published": "2025-10-04T07:00:05Z",
-    "image_url": "https://i.guim.co.uk/img/media/484ed2d166167333878df238625c35922bcb1139/0_0_5844_4676/master/5844.jpg?width=140&quality=85&auto=format&fit=max&s=931c38a37cf7e358fbcce9ad2fde3d86",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-420027aa29",
     "source": "The Guardian — UK",
     "title": "Starmer on horns of dilemma over China’s seven-year mega-embassy saga",
@@ -360,13 +408,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e04df68eae",
-    "source": "BBC — Top Stories",
-    "title": "Rare October Harvest Moon to be first supermoon of 2025",
-    "summary": "It will be visible on 7 October and Sarah Keith-Lucas explains why it will be the biggest and brightest full Moon so far this year.",
-    "url": "https://www.bbc.com/weather/articles/c059dyvvjj7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T05:37:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c92/live/51d27ca0-a12b-11f0-92db-77261a15b9d2.jpg",
+    "id": "The Guardian — UK-b6f22f7a43",
+    "source": "The Guardian — UK",
+    "title": "Rachel Reeves urged to break manifesto pledges to avoid ‘pasty tax’ budget",
+    "summary": "Labour colleagues advise chancellor against string of small money-raising measures, as OBR presents forecast Some of Rachel Reeves’s Labour colleagues have urged her to ditch the party’s manifesto promises rather than risk a “pasty tax” budget that raises money through a string of small measures. As the independent Office for Budget Responsibility (OBR) presented its first fiscal forecast to the Treasury on Friday, several sources said there was tension within the government over the manifesto pledges. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/04/rachel-reeves-urged-to-break-manifesto-pledges-to-avoid-pasty-tax-budget",
+    "published": "2025-10-04T05:00:56Z",
+    "image_url": "https://i.guim.co.uk/img/media/5a3635033cff9e5511941074febfb07e6feeeb87/897_56_5423_4340/master/5423.jpg?width=140&quality=85&auto=format&fit=max&s=c1738feba5d3bdfb5e35cc6893617b80",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -432,37 +480,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-0773bba6e9",
-    "source": "BBC — Top Stories",
-    "title": "Barrowman says chase our partners for the money",
-    "summary": "A spokesperson for Doug Barrowman says other companies also received money for providing gowns to the government and should be pursued to get it back.",
-    "url": "https://www.bbc.com/news/articles/cy0v4plld8ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T00:24:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8ed/live/2600a9b0-a079-11f0-bb47-b30225268691.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-85cc599fb2",
     "source": "BBC — Top Stories",
     "title": "Gisèle Pelicot returns to court after trial made her an icon - and tore her family apart",
     "summary": "A rift has emerged between the victim at the centre of the largest rape trial in French history and her eldest children.",
     "url": "https://www.bbc.com/news/articles/cvg4l80gz7eo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T00:00:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb02/live/afd1f4d0-a06c-11f0-9640-9757c7912ee3.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-79d0f1b887",
-    "source": "BBC — Top Stories",
-    "title": "Synagogue attacker was on bail after rape arrest, police say",
-    "summary": "Counter terror police also say Al-Shamie may have been influenced by \"extreme Islamist ideology\".",
-    "url": "https://www.bbc.com/news/articles/cly97ervz1zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T22:02:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7014/live/b50aaa10-a09d-11f0-85af-1377c963b9be.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b21d/live/27f66de0-a137-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -499,30 +523,6 @@
     "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-03T20:49:28Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e75f/live/9e76f8a0-a109-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-04816518d5",
-    "source": "The Guardian — UK",
-    "title": "Starmer urges pro-Palestine protesters to ‘respect the grief of British Jews’",
-    "summary": "Writing before a planned protest against Palestine Action ban, PM says activists should recognise a time of mourning The prime minister has called for protesters to “respect the grief of British Jews this week” after the Manchester synagogue attack. Ahead of a planned demonstration against the ban on Palestine Action this Saturday, Keir Starmer wrote in Jewish News and the Jewish Chronicle that activists should recognise this is a time of mourning. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/03/cancelling-palestine-action-protest-would-let-terror-win-say-activists",
-    "published": "2025-10-03T17:46:10Z",
-    "image_url": "https://i.guim.co.uk/img/media/a5f057caf7dc1819cb45b7776b0eb73bf6b4488b/457_0_6217_4974/master/6217.jpg?width=140&quality=85&auto=format&fit=max&s=55654e2293224870fcec6b878b3062a8",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-96363b2d80",
-    "source": "Politico — UK",
-    "title": "Belgian security service officer indicted for spying",
-    "summary": "Indictment comes amid mounting pressure on Belgium's security agencies.",
-    "url": "https://www.politico.eu/article/belgium-security-service-officer-indicted-spying/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-03T17:29:34Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/GettyImages-2219205868.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
