@@ -1,5 +1,89 @@
 [
   {
+    "id": "BBC — Top Stories-cb4fe8e57f",
+    "source": "BBC — Top Stories",
+    "title": "Ex-Pompey, Leicester and Sheff Wed owner Mandaric dies",
+    "summary": "Former Portsmouth, Leicester City and Sheffield Wednesday owner Milan Mandaric dies at the age of 87.",
+    "url": "https://www.bbc.com/sport/football/articles/c708gx8v52lo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T22:06:46Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f2/live/72b719a0-a160-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-21213364eb",
+    "source": "BBC — Top Stories",
+    "title": "FBI agent suspended over refusal to 'perp walk' former director",
+    "summary": "FBI leadership is reportedly in discussions to stage a showy arrest of the bureau's former director next week.",
+    "url": "https://www.bbc.com/news/articles/ce8052nz9m7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T21:41:19Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e48/live/fdf57990-a164-11f0-9e4f-7326464dc86f.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-bac4088188",
+    "source": "BBC — Top Stories",
+    "title": "Netanyahu says he hopes to announce hostage release in the 'coming days'",
+    "summary": "Hamas will disarm \"the easy way or the hard way\", Israel's PM says after the group gave its response to a peace plan.",
+    "url": "https://www.bbc.com/news/articles/c5yqv4lz0geo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T21:38:01Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ec7/live/17f63870-a160-11f0-8480-e139cd7c3f3c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-86dc2bc667",
+    "source": "BBC — Top Stories",
+    "title": "Billionaire populist Andrej Babis' party wins Czech parliamentary election",
+    "summary": "However, his ANO party falls short of an overall majority in preliminary results.",
+    "url": "https://www.bbc.com/news/articles/c62qezmr92lo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T21:36:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/a4881e70-a138-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-890b865045",
+    "source": "The Guardian — UK",
+    "title": "Police make almost 500 arrests at Palestine Action protest in London",
+    "summary": "Officers arrest activists at silent vigil in support of banned organisation, as demos go ahead despite PM’s pleas Police have arrested almost 500 people in London at what organisers hoped would be the biggest demonstration so far against a ban on the proscribed organisation Palestine Action. Officers began arresting demonstrators at the silent vigil in support of the group, which has been classed by the UK government as a terror organisation since July this year. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/oct/04/palestine-action-protest-police-arrests-london-demo",
+    "published": "2025-10-04T21:27:28Z",
+    "image_url": "https://i.guim.co.uk/img/media/51163e7da7d008c6cbcc9a4da5a69a6fa232b354/492_0_5196_4155/master/5196.jpg?width=140&quality=85&auto=format&fit=max&s=d814a7074d9145ceb6d4d1a0b6217346",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-3bdb50ba92",
+    "source": "BBC — Top Stories",
+    "title": "Hundreds of extra police on streets after synagogue attack",
+    "summary": "Other forces are boosting Greater Manchester Police numbers following Thursday's synagogue attack.",
+    "url": "https://www.bbc.com/news/articles/crkj50gd217o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T21:23:14Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28fe/live/eb0719c0-a11d-11f0-909f-795e864c8891.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e52eea32e4",
+    "source": "BBC — Top Stories",
+    "title": "What we know about the attack",
+    "summary": "Two Jewish people were killed in a car and stabbing attack at Heaton Park Hebrew Congregation Synagogue in Manchester on the holiest day in the Jewish religious calendar.",
+    "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T21:21:06Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e75f/live/9e76f8a0-a109-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-992467af2f",
     "source": "BBC — Top Stories",
     "title": "Damage and disruption as Storm Amy hits UK",
@@ -14,11 +98,11 @@
   {
     "id": "BBC — Top Stories-7e920bbd48",
     "source": "BBC — Top Stories",
-    "title": "William will travel to Brazil for Earthshot awards ceremony",
+    "title": "Environment prize nominees 'heroes of our time', says William",
     "summary": "Fifteen projects are shortlisted for a chance of winning the top £1m prizes at next month's environmental awards ceremony in Rio de Janeiro.",
     "url": "https://www.bbc.com/news/articles/cz08591znr8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T21:04:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e06/live/12d4e580-a160-11f0-8480-e139cd7c3f3c.png",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86a5/live/4f93edc0-a16c-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -26,35 +110,11 @@
   {
     "id": "BBC — Top Stories-e9178d68af",
     "source": "BBC — Top Stories",
-    "title": "Hundreds arrested at Palestine Action protest in London",
+    "title": "Nearly 500 arrested at Palestine Action protest in London",
     "summary": "Demonstrations went ahead despite calls from politicians and police leaders for the protests to be postponed in wake of the Manchester synagogue attack.",
     "url": "https://www.bbc.com/news/articles/ceq2e9x19g8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T21:03:08Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b09/live/9d0674b0-a135-11f0-a9f1-8d9167fcc08f.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-890b865045",
-    "source": "The Guardian — UK",
-    "title": "Police make almost 500 arrests at Palestine Action protest in London",
-    "summary": "Officers arrest activists at silent vigil in support of banned organisation, as demos go ahead despite PM’s pleas Police have arrested almost 500 people in London at what organisers hoped would be the biggest demonstration so far against a ban on the proscribed organisation Palestine Action. Officers began arresting demonstrators at the silent vigil in support of the group, which has been classed by the UK government as a terror organisation since July this year. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/04/palestine-action-protest-police-arrests-london-demo",
-    "published": "2025-10-04T20:31:03Z",
-    "image_url": "https://i.guim.co.uk/img/media/51163e7da7d008c6cbcc9a4da5a69a6fa232b354/492_0_5196_4155/master/5196.jpg?width=140&quality=85&auto=format&fit=max&s=d814a7074d9145ceb6d4d1a0b6217346",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-cb4fe8e57f",
-    "source": "BBC — Top Stories",
-    "title": "Ex-Pompey, Leicester and Sheff Wed owner Mandaric dies",
-    "summary": "Former Portsmouth, Leicester City and Sheffield Wednesday owner Milan Mandaric dies at the age of 87.",
-    "url": "https://www.bbc.com/sport/football/articles/c708gx8v52lo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T20:29:19Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f2/live/72b719a0-a160-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -84,30 +144,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-3bdb50ba92",
-    "source": "BBC — Top Stories",
-    "title": "Hundreds of extra police on streets after synagogue attack",
-    "summary": "Other forces are boosting Greater Manchester Police numbers following Thursday's synagogue attack.",
-    "url": "https://www.bbc.com/news/articles/crkj50gd217o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T18:43:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28fe/live/eb0719c0-a11d-11f0-909f-795e864c8891.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e21fc5c4b7",
-    "source": "BBC — Top Stories",
-    "title": "Georgia protesters try to storm Tbilisi presidential palace",
-    "summary": "Police used pepper spray to disperse demonstrators amid growing turmoil in the Caucasus country.",
-    "url": "https://www.bbc.com/news/articles/ce86kgnj7zro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T17:31:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5b2/live/76a96bd0-a147-11f0-9be2-514f62a90aaf.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-0d7c09642d",
     "source": "The Guardian — UK",
     "title": "Police given permission to hold Manchester synagogue attack suspects until Wednesday",
@@ -115,18 +151,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/04/police-given-permission-to-hold-manchester-synagogue-attack-suspects-until-wednesday",
     "published": "2025-10-04T17:05:03Z",
     "image_url": "https://i.guim.co.uk/img/media/372fde5b3d1d75e1f8a22130f6c9230e824f459f/347_0_4296_3437/master/4296.jpg?width=140&quality=85&auto=format&fit=max&s=074f827306943f08cc3f4d2d6078ef82",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-86dc2bc667",
-    "source": "BBC — Top Stories",
-    "title": "Billionaire populist Andrej Babis' party wins Czech parliamentary election",
-    "summary": "However, his ANO party falls short of an overall majority in preliminary results.",
-    "url": "https://www.bbc.com/news/articles/c62qezmr92lo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T16:55:25Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/a4881e70-a138-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -199,18 +223,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/04/acoba-watchdog-richard-fuller-investcorp-securities-china-surveillance",
     "published": "2025-10-04T16:00:09Z",
     "image_url": "https://i.guim.co.uk/img/media/a19474afce0e76f1aff6ed7132c763302400d3f3/1163_0_3174_2539/master/3174.jpg?width=140&quality=85&auto=format&fit=max&s=6031e84c86f626cbf8986ca0ad9fe3b0",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7e8a61b92b",
-    "source": "BBC — Top Stories",
-    "title": "At least 30 injured in Russian strike on railway station, Zelensky says",
-    "summary": "Preliminary reports indicate that train staff and passengers were at the site of the strike, he says.",
-    "url": "https://www.bbc.com/news/articles/czewkn06y1no?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T15:34:49Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706a/live/8c0bfc30-a11b-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -511,18 +523,6 @@
     "url": "https://www.bbc.com/news/articles/cvg4l80gz7eo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T00:00:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b21d/live/27f66de0-a137-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e52eea32e4",
-    "source": "BBC — Top Stories",
-    "title": "What we know about the attack",
-    "summary": "Two Jewish people were killed in a car and stabbing attack at Heaton Park Hebrew Congregation Synagogue in Manchester on the holiest day in the Jewish religious calendar.",
-    "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T20:49:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e75f/live/9e76f8a0-a109-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
