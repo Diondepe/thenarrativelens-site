@@ -1,24 +1,36 @@
 [
   {
-    "id": "BBC — Top Stories-3bdb50ba92",
-    "source": "BBC — Top Stories",
-    "title": "Hundreds of extra police on streets after synagogue attack",
-    "summary": "Other forces are boosting Greater Manchester Police numbers following Thursday's synagogue attack.",
-    "url": "https://www.bbc.com/news/articles/crkj50gd217o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T18:43:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28fe/live/eb0719c0-a11d-11f0-909f-795e864c8891.jpg",
+    "id": "The Guardian — UK-890b865045",
+    "source": "The Guardian — UK",
+    "title": "Police make almost 500 arrests at Palestine Action protest in London",
+    "summary": "Officers arrest activists at silent vigil in support of banned organisation, as demos go ahead despite PM’s pleas Police have arrested almost 500 people in London at what organisers hoped would be the biggest demonstration so far against a ban on the proscribed organisation Palestine Action. Officers began arresting demonstrators at the silent vigil in support of the group, which has been classed by the UK government as a terror organisation since July this year. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/oct/04/palestine-action-protest-police-arrests-london-demo",
+    "published": "2025-10-04T20:02:43Z",
+    "image_url": "https://i.guim.co.uk/img/media/51163e7da7d008c6cbcc9a4da5a69a6fa232b354/492_0_5196_4155/master/5196.jpg?width=140&quality=85&auto=format&fit=max&s=d814a7074d9145ceb6d4d1a0b6217346",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-890b865045",
+    "id": "BBC — Top Stories-43461b4af5",
+    "source": "BBC — Top Stories",
+    "title": "Tories pledge to remove 750,000 migrants under borders plan",
+    "summary": "The party unveils new policies on illegal migration as its annual conference begins in Manchester.",
+    "url": "https://www.bbc.com/news/articles/c708g5x2yqzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T20:01:24Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8569/live/c19342e0-a14e-11f0-8a00-7f108f799fea.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-d09e4e19c8",
     "source": "The Guardian — UK",
-    "title": "Police make more than 440 arrests at Palestine Action protest in London",
-    "summary": "Officers arrest activists at silent vigil in support of banned organisation, as demos go ahead despite PM’s pleas Police have made more than 440 arrests in London at what organisers hoped would be the biggest demonstration so far against a ban on the proscribed organisation Palestine Action. Officers began arresting demonstrators at the silent vigil in support of the group, which has been classed by the UK government as a terror organisation since July this year. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/04/palestine-action-protest-police-arrests-london-demo",
-    "published": "2025-10-04T18:23:48Z",
-    "image_url": "https://i.guim.co.uk/img/media/51163e7da7d008c6cbcc9a4da5a69a6fa232b354/492_0_5196_4155/master/5196.jpg?width=140&quality=85&auto=format&fit=max&s=d814a7074d9145ceb6d4d1a0b6217346",
+    "title": "Tories to pledge to create immigration taskforce modelled on Trump’s Ice",
+    "summary": "Proposed ‘removals force’ will be tasked with deporting 150,000 people a year in bid to tackle illegal immigration The Conservatives will pledge to create a new immigration taskforce modelled on Donald Trump’s controversial Immigration and Customs Enforcement (Ice) agency, the Guardian understands. The party’s leader, Kemi Badenoch, is expected to announce the policy on Sunday as it heads into its annual conference following a year of historic low poll ratings . The proposed “removals force” will be tasked with deporting 150,000 people a year in a bid to tackle illegal immigration. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/04/tories-to-pledge-to-create-immigration-taskforce-modelled-on-trumps-ice",
+    "published": "2025-10-04T20:00:14Z",
+    "image_url": "https://i.guim.co.uk/img/media/48490adb6e90d8394c7ead4fef115165ebab3ce5/740_269_4664_3731/master/4664.jpg?width=140&quality=85&auto=format&fit=max&s=d97495036810dd0c9f9a32ef61ef79cd",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -26,11 +38,23 @@
   {
     "id": "BBC — Top Stories-e9178d68af",
     "source": "BBC — Top Stories",
-    "title": "More than 400 arrests at Palestine Action protests in London",
+    "title": "Hundreds arrested at Palestine Action protest in London",
     "summary": "Demonstrations went ahead despite calls from politicians and police leaders for the protests to be postponed in wake of the Manchester synagogue attack.",
     "url": "https://www.bbc.com/news/articles/ceq2e9x19g8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T18:22:08Z",
+    "published": "2025-10-04T19:54:23Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b09/live/9d0674b0-a135-11f0-a9f1-8d9167fcc08f.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-3bdb50ba92",
+    "source": "BBC — Top Stories",
+    "title": "Hundreds of extra police on streets after synagogue attack",
+    "summary": "Other forces are boosting Greater Manchester Police numbers following Thursday's synagogue attack.",
+    "url": "https://www.bbc.com/news/articles/crkj50gd217o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T18:43:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28fe/live/eb0719c0-a11d-11f0-909f-795e864c8891.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -372,13 +396,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-a30f71ca94",
+    "id": "The Guardian — UK-411c653dab",
     "source": "The Guardian — UK",
-    "title": "UK antisemitism ‘allowed to grow’ by politicians and wider society, Jewish security group says",
-    "summary": "Head of policy at Community Security Trust calls Saturday’s planned protest against ban on Palestine Action ‘self absorbed and insensitive’ Antisemitism has been “allowed to grow” by politicians and across wider society, the main Jewish security group has said in the aftermath of the attack on a Manchester synagogue, which left three people dead. Speaking before planned pro-Palestine marches on Saturday, Dave Rich, head of policy at the Community Security Trust, said it was “remarkably self absorbed and insensitive” for people to attend a silent vigil for Gaza after Thursday’s attack. Continue reading...",
-    "url": "https://www.theguardian.com/news/2025/oct/04/antisemitism-has-been-allowed-to-grow-in-uk-says-jewish-security-group",
-    "published": "2025-10-04T09:38:55Z",
-    "image_url": "https://i.guim.co.uk/img/media/c398fb402cc79f1d11d22b912c5b3d95ad4293b7/1440_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=d8784fa5bf92995c0e7eaf0f5b8d5767",
+    "title": "Family firm of Reform UK council leader threatened with compulsory strike off",
+    "summary": "Mansfield Carpets (Contracts) Limited faced Companies House action over four consecutive years of delayed filings The carpet fitting business belonging to the family of Mick Barton – the Reform UK leader of Nottinghamshire county council who barred the main local paper – has been threatened with a compulsory strike off from Companies House for four consecutive years. Mansfield Carpets (Contracts) Limited, which is owned by Barton’s wife Gail, is two months late filing its 2024 accounts. For the previous three years the business also appears to have been late publishing its confirmation statement, which provides details of a company’s shareholders. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/04/family-firm-of-reform-uk-council-leader-threatened-with-compulsory-strike-off",
+    "published": "2025-10-04T09:00:01Z",
+    "image_url": "https://i.guim.co.uk/img/media/609947bc629c312666691e9601a05000fb571d7c/138_23_1562_1250/master/1562.jpg?width=140&quality=85&auto=format&fit=max&s=8fdb7c2d1fb5ba54e2cd7afd640e96ce",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -468,18 +492,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-46dfcd343e",
-    "source": "The Guardian — UK",
-    "title": "‘Like going to the in-laws’: Conservative conference to be steeped in apathy",
-    "summary": "As Kemi Badenoch faces a make-or-break gathering her biggest challenge will be to make herself appear relevant Few people doubt that Kemi Badenoch faces what could be a make-or-break Conservative party conference this weekend. However, some members are not so worried about regicide so much as a more prosaic threat: sheer apathy. “For every conference, as long as I can remember, I’ve gone for three or four days. This time it’s a day trip,” one senior party activist said. “Quite frankly, I’m thinking: ‘What’s the point in going for any longer?’ I know of lots of other people doing the same thing.” Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/04/conservative-conference-like-going-to-in-laws-apathy-kemi-badenoch",
-    "published": "2025-10-04T05:00:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/5872e3a450d91e7077609315540d789c690d1a91/249_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=5cf7127757b1c4536dd010eb2260e26f",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-a12d391d6c",
     "source": "BBC — Top Stories",
     "title": "They paid thousands for a cruise that hasn't sailed. Now they can't get their money back",
@@ -499,18 +511,6 @@
     "url": "https://www.bbc.com/news/articles/cvg4l80gz7eo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T00:00:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b21d/live/27f66de0-a137-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-25dd2cff14",
-    "source": "BBC — Top Stories",
-    "title": "Fatal attack revives debate over controversial shark nets in Australia",
-    "summary": "The use of controversial shark nets was about to be scaled back in Sydney when a surfer was killed.",
-    "url": "https://www.bbc.com/news/articles/c3rv25qy78go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T21:08:59Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5291/live/5bb4d9c0-a01d-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
