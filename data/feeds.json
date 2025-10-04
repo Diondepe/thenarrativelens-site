@@ -1,5 +1,29 @@
 [
   {
+    "id": "Politico — UK-3a1e8a9c60",
+    "source": "Politico — UK",
+    "title": "World’s cartoonists on this week’s events",
+    "summary": "Drawing the top stories around the globe.",
+    "url": "https://www.politico.eu/article/worlds-cartoonists-on-this-weeks-events-172/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-04T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/300544_1536_rgb.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-81a446e5f5",
+    "source": "BBC — Top Stories",
+    "title": "Sean 'Diddy' Combs sentenced to more than four years in prison",
+    "summary": "Combs apologised to his mother, children, and victims, specifically naming his two ex-girlfriends, Casandra Ventura and \"Jane\".",
+    "url": "https://www.bbc.com/news/articles/czx0gx227z4o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T01:54:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6e/live/fc8e9cd0-a083-11f0-bb47-b30225268691.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-992467af2f",
     "source": "BBC — Top Stories",
     "title": "Wind and rain warnings as Storm Amy hits parts of UK",
@@ -19,6 +43,18 @@
     "url": "https://www.bbc.com/news/articles/cwyn2yqpnnpo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T01:03:44Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c14/live/56c27be0-a066-11f0-b741-177e3e2c2fc7.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a12d391d6c",
+    "source": "BBC — Top Stories",
+    "title": "Money paid but no ship: The around-the-world cruise that is yet to set sail",
+    "summary": "The BBC has been speaking to retirees who want the firm selling the cruise to stop advertising and refund their deposits.",
+    "url": "https://www.bbc.com/news/articles/c8xrd29r5ywo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T00:41:27Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcca/live/fa42b3a0-a018-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -55,18 +91,6 @@
     "url": "https://www.bbc.com/news/articles/cvg4l80gz7eo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T00:00:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb02/live/afd1f4d0-a06c-11f0-9640-9757c7912ee3.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-81a446e5f5",
-    "source": "BBC — Top Stories",
-    "title": "Sean 'Diddy' Combs sentenced to more than four years in prison",
-    "summary": "Combs apologised to his mother, children, and victims, specifically naming his two ex-girlfriends, Casandra Ventura and \"Jane\".",
-    "url": "https://www.bbc.com/news/articles/czx0gx227z4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T23:23:07Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6e/live/fc8e9cd0-a083-11f0-bb47-b30225268691.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -492,18 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-d52c70daa7",
-    "source": "BBC — Top Stories",
-    "title": "Taylor Swift feared happiness could 'dry up' her songwriting",
-    "summary": "Taylor Swift took part in a string of UK interviews to coincide with her latest album's release on Friday.",
-    "url": "https://www.bbc.com/news/articles/c9312173ydko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-03T12:13:24Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04db/live/c598aaf0-a050-11f0-b687-23a5afa8b42e.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-78032fa31a",
     "source": "Politico — UK",
     "title": "ECB’s Lagarde: Tighten regulation on non-banks before it’s too late",
@@ -523,18 +535,6 @@
     "url": "https://www.politico.eu/article/keir-starmer-narendra-modi-closer-tech-ties-mumbai-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-03T09:31:03Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/GettyImages-2225943690-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-e9e6806b30",
-    "source": "Politico — UK",
-    "title": "Belgium launches probe after reports that 15 drones buzzed military base",
-    "summary": "Persistent disruptions plague European airspace.",
-    "url": "https://www.politico.eu/article/15-suspicious-drones-spotted-above-belgium-military-base/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-03T09:29:34Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/GettyImages-2160533170-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
