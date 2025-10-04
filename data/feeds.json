@@ -1,12 +1,60 @@
 [
   {
+    "id": "BBC — Top Stories-992467af2f",
+    "source": "BBC — Top Stories",
+    "title": "Wind and rain warnings as Storm Amy hits UK",
+    "summary": "An amber warning is in place for parts of Scotland while a lower level yellow warning is issued for much of the rest of the UK.",
+    "url": "https://www.bbc.com/news/articles/c0lky9nn948o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T09:11:57Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8206/live/53e7b3c0-a0f9-11f0-8fc4-ed0fd69b4980.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9e2698eb30",
+    "source": "BBC — Top Stories",
+    "title": "Starmer tells protesters to 'respect grief of British Jews'",
+    "summary": "The prime minister said pro-Palestinian protests planned for the weekend would cause distress.",
+    "url": "https://www.bbc.com/news/articles/ckgy8kvvkp3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T09:04:30Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58d1/live/cad97ce0-a089-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-2951c528c3",
     "source": "The Guardian — UK",
-    "title": "Storm Amy hits UK ‘much harder and more quickly than expected’ after man killed in Ireland – latest updates",
-    "summary": "Weather and flood warnings are in place across the UK and Ireland The Environment Agency has issued two flood alerts where “flooding is expected” for Keswick Campsite in the Lake District and locations near the River Ure, particularly around Boroughbridge Camping and Caravanning Site in North Yorkshire. “Avoid using low-lying footpaths and any bridges near local watercourses. Take care and avoid walking, cycling or driving through flood water,” it advises. Continue reading...",
+    "title": "Storm Amy live updates: London’s royal parks closed due to strong winds; Scotland hit by power cuts and travel disruption",
+    "summary": "Weather and flood warnings are in place across the UK and Ireland, where a man has been killed The Environment Agency has issued two flood alerts where “flooding is expected” for Keswick Campsite in the Lake District and locations near the River Ure, particularly around Boroughbridge Camping and Caravanning Site in North Yorkshire. “Avoid using low-lying footpaths and any bridges near local watercourses. Take care and avoid walking, cycling or driving through flood water,” it advises. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/live/2025/oct/04/storm-amy-live-updates-latest-news-uk-ireland-weather-warnings-met-office",
-    "published": "2025-10-04T08:14:52Z",
-    "image_url": "https://i.guim.co.uk/img/media/459720e9025c8d41ef38b56db5a71d7d2d830821/562_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a004ee88b27e8558dff1b81bf221494a",
+    "published": "2025-10-04T09:00:34Z",
+    "image_url": "https://i.guim.co.uk/img/media/3e53c017cc7c448ce3208b88c70f0abb74a0c07e/1098_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=aaf81aaa806f5380855c6dee668d239a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-411c653dab",
+    "source": "The Guardian — UK",
+    "title": "Family firm of Reform UK council leader threatened with compulsory strike off",
+    "summary": "Mansfield Carpets (Contracts) Limited faced Companies House action over four consecutive years of delayed filings The carpet fitting business belonging to the family of Mick Barton – the Reform UK leader of Nottinghamshire county council who barred the main local paper – has been threatened with a compulsory strike off from Companies House for four consecutive years. Mansfield Carpets (Contracts) Limited, which is owned by Barton’s wife Gail, is two months late filing its 2024 accounts. For the previous three years the business also appears to have been late publishing its confirmation statement, which provides details of a company’s shareholders. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/04/family-firm-of-reform-uk-council-leader-threatened-with-compulsory-strike-off",
+    "published": "2025-10-04T09:00:01Z",
+    "image_url": "https://i.guim.co.uk/img/media/609947bc629c312666691e9601a05000fb571d7c/138_23_1562_1250/master/1562.jpg?width=140&quality=85&auto=format&fit=max&s=8fdb7c2d1fb5ba54e2cd7afd640e96ce",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-9a6844952a",
+    "source": "Politico — UK",
+    "title": "Trump says Hamas ready for ‘PEACE,’ calls on Israel to stop bombing",
+    "summary": "Should Israel agree to the ceasefire and Hamas release the hostages, the peace deal stands to be the most significant achievement of Trump’s second term.",
+    "url": "https://www.politico.com/news/2025/10/03/trump-hamas-peace-israel-00593989?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-04T08:29:02Z",
+    "image_url": null,
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -36,25 +84,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-992467af2f",
+    "id": "BBC — Top Stories-0efce87102",
     "source": "BBC — Top Stories",
-    "title": "Wind and rain warnings as Storm Amy hits UK",
-    "summary": "An amber warning is in place for parts of Scotland while a lower level yellow warning is issued for much of the rest of the UK.",
-    "url": "https://www.bbc.com/news/articles/c0lky9nn948o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T07:53:59Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8206/live/53e7b3c0-a0f9-11f0-8fc4-ed0fd69b4980.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9e2698eb30",
-    "source": "BBC — Top Stories",
-    "title": "Starmer tells protesters to 'respect grief of British Jews'",
-    "summary": "The prime minister said pro-Palestinian protests planned for the weekend would cause distress.",
-    "url": "https://www.bbc.com/news/articles/ckgy8kvvkp3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T07:50:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58d1/live/cad97ce0-a089-11f0-92db-77261a15b9d2.jpg",
+    "title": "Lola Young in legal dispute on songwriting credit for her number 1 single Messy",
+    "summary": "The chart-topping singer takes legal action against one of the producers of her hit single Messy.",
+    "url": "https://www.bbc.com/news/articles/c9dx235qe04o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T07:35:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fd2/live/0daf3df0-a07d-11f0-bb47-b30225268691.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -91,18 +127,6 @@
     "url": "https://www.bbc.com/news/articles/cx2njv9nd1ko?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T05:44:42Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba52/live/502c7260-a0aa-11f0-92db-77261a15b9d2.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e04df68eae",
-    "source": "BBC — Top Stories",
-    "title": "Rare October Harvest Moon to be first supermoon of 2025",
-    "summary": "It will be visible on 7 October and Sarah Keith-Lucas explains why it will be the biggest and brightest full Moon so far this year.",
-    "url": "https://www.bbc.com/weather/articles/c059dyvvjj7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T05:37:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b22/live/9790f1d0-9ec5-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -168,18 +192,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-af24367aaa",
-    "source": "BBC — Top Stories",
-    "title": "We need hospitals more than football stadiums, say Morocco's young protesters",
-    "summary": "Morocco will soon have the world's largest football stadium but this has angered many young people who want better services.",
-    "url": "https://www.bbc.com/news/articles/c8rv2l3me40o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T01:59:49Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2967/live/87b13f50-a0f4-11f0-ba5d-d711e2bf7ac8.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-81a446e5f5",
     "source": "BBC — Top Stories",
     "title": "Sean 'Diddy' Combs sentenced to more than four years in prison",
@@ -230,7 +242,7 @@
   {
     "id": "BBC — Top Stories-a12d391d6c",
     "source": "BBC — Top Stories",
-    "title": "Money paid but no ship: The around-the-world cruise that is yet to set sail",
+    "title": "They paid thousands for a cruise that hasn't sailed. Now they can't get their money back",
     "summary": "The BBC has been speaking to retirees who want the firm selling the cruise to stop advertising and refund their deposits.",
     "url": "https://www.bbc.com/news/articles/c8xrd29r5ywo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T00:41:27Z",
@@ -279,10 +291,10 @@
     "id": "BBC — Top Stories-bd1b22aaba",
     "source": "BBC — Top Stories",
     "title": "Hamas response to US Gaza plan is significant - but there are key omissions",
-    "summary": "There is still a huge amount of detail to be worked through that are vital to the implementation of the US ceasefire proposal.",
+    "summary": "There is still a huge amount of detail to be worked through around how a ceasefire could be implemented.",
     "url": "https://www.bbc.com/news/articles/cvg9myeqjl1o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-03T22:59:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f5e/live/d64fb330-a0a9-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc74/live/0078f920-a102-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -312,6 +324,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-1697fe9c8f",
+    "source": "BBC — Top Stories",
+    "title": "Trump's Grim Reaper - from Project 2025 to shutdown enforcer",
+    "summary": "The Office of Management and Budget boss may not be a household name, but he's a key figure in Washington's shutdown.",
+    "url": "https://www.bbc.com/news/articles/c059ydyqe19o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-03T21:31:21Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/323f/live/91f80ab0-a082-11f0-bb47-b30225268691.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-6937bf9e67",
     "source": "BBC — Top Stories",
     "title": "UK will leave ECHR if Tories win election, Badenoch says",
@@ -324,18 +348,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-c718766ae1",
-    "source": "The Guardian — UK",
-    "title": "Three more arrests in synagogue attack investigation; Lammy heckled at vigil for Manchester synagogue attack – as it happened",
-    "summary": "Police arrest three more people, bringing the total to six, Justice secretary faces calls of ‘shame on you’ as crowd gathers to remember victims of terror attack What do we know about Jihad al-Shamie Manchester synagogue terrorist was on bail for alleged rape The home secretary has urged pro-Palestine protesters not to carry out demonstrations in the wake of the terror attack in Greater Manchester. Speaking on GB News, Mahmood said: As far as I am concerned, I would have wanted to see people in this country step back from protesting for at least a few days, just to give the Jewish community here a chance to process what has happened and to begin the grieving process as well. I am very disappointed that some of the organisers haven’t heeded the call to step back. In terms of the attacker, this individual was not known to the security services. He has obviously been shot dead at the scene, but the police investigations will now continue at pace. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/live/2025/oct/03/manchester-synagogue-attack-victims-adrian-daulby-melvin-cravitz-attacker-jihad-al-shamie-latest-news-updates",
-    "published": "2025-10-03T21:17:51Z",
-    "image_url": "https://i.guim.co.uk/img/media/5347b15f89fa47dd6352daad2ae5a946f25a0b07/231_0_5423_4340/master/5423.jpg?width=140&quality=85&auto=format&fit=max&s=06e2e5db965f6d24b75f3c4f00f57f33",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-25dd2cff14",
     "source": "BBC — Top Stories",
     "title": "Fatal attack revives debate over controversial shark nets in Australia",
@@ -343,6 +355,18 @@
     "url": "https://www.bbc.com/news/articles/c3rv25qy78go?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-03T21:08:59Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5291/live/5bb4d9c0-a01d-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-332eb24dae",
+    "source": "The Guardian — UK",
+    "title": "Conservatives would take UK out of ECHR, Badenoch confirms",
+    "summary": "Leader says move is is necessary ‘to protect our borders, our veterans and our citizens’ Kemi Badenoch has announced that a Conservative government under her leadership would pull the UK out of the European convention on human rights. The move marks a lurch to the right for the Tories, who are attempting to stem a loss of support to Nigel Farage’s Reform UK. Farage has long been a critic of the ECHR and has pledged to leave it if he becomes prime minister. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/03/badenoch-tories-would-take-uk-out-of-echr-european-convention-on-human-rights",
+    "published": "2025-10-03T21:00:47Z",
+    "image_url": "https://i.guim.co.uk/img/media/0363163b26062da9c5b392be6e99b3058f62cfe5/586_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=da68beb7fac8cfb71ee96368b49c9378",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -432,18 +456,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-83af507dec",
-    "source": "The Guardian — UK",
-    "title": "More than 60,000 cancer patients in England ‘not getting necessary radiotherapy’",
-    "summary": "Exclusive: Analysis of NHS data by Radiotherapy UK also shows some patients face waits of up to six months More than 60,000 cancer patients a year in England are not getting the radiotherapy they need at all, while some face waits of up to six months to begin the treatment, research has found. The situation is so dire that nearly 100 heads of radiotherapy and oncology – three-quarters of England’s radiotherapy leaders – have warned in an open letter that the government is failing patients. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/oct/03/more-than-60000-cancer-patients-in-england-not-getting-any-radiotherapy-research-shows",
-    "published": "2025-10-03T16:54:44Z",
-    "image_url": "https://i.guim.co.uk/img/media/bb3f0c91259b7b84c127dbabbddb38b00f8b3af8/0_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=30e43a158943ecfbb783788df843d032",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-6001ff089c",
     "source": "BBC — Top Stories",
     "title": "I saw evil as attacker tried to barge into synagogue, rabbi tells BBC",
@@ -494,7 +506,7 @@
   {
     "id": "Politico — UK-18409ffdfd",
     "source": "Politico — UK",
-    "title": "Spain moves to enshrine right to abortion in its Constitution",
+    "title": "Spain moves to enshrine right to abortion in its constitution",
     "summary": "The premier also wants to amend abortion laws to prevent spread of \"misleading\" or \"inaccurate\" information about abortion.",
     "url": "https://www.politico.eu/article/spain-moves-to-enshrine-right-to-abortion-in-its-constitution/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-03T14:30:32Z",
@@ -523,18 +535,6 @@
     "url": "https://www.politico.eu/article/europe-democracies-danger-warn-friedrich-merz-emmanuel-macron/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-03T14:01:17Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/GettyImages-2238574106-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-78032fa31a",
-    "source": "Politico — UK",
-    "title": "ECB’s Lagarde: Tighten regulation on non-banks before it’s too late",
-    "summary": "The passage of time since the last great financial crisis has dulled the alertness of policymakers to risks building up in the system, Lagarde said.",
-    "url": "https://www.politico.eu/article/ecbs-lagarde-tighten-regulation-on-non-banks-before-its-too-late/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-03T10:10:54Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/13335877-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
