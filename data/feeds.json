@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-6d7021b8d5",
+    "source": "BBC — Top Stories",
+    "title": "Police to get broader powers to restrict repeated protests",
+    "summary": "Officers will be able to tell organisers to move demonstrations if protests have caused \"repeated disorder\".",
+    "url": "https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T07:00:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b0e/live/83592530-a1b7-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-9f4d08f838",
+    "source": "The Guardian — UK",
+    "title": "Tory conference to open as Badenoch claims voters will back plan for Trump-style deportation force – UK politics live",
+    "summary": "Delegates gather in Manchester as Tory leader unveils scheme to deport 150,000 people a year from the UK Tories pledge to create immigration taskforce modelled on Trump’s Ice Good morning. The Conservative party conference is starting in Manchester today – although you could be forgiven for thinking it’s another Reform UK conference, because Kemi Badenoch has already made two huge policy commitments that are straight out of the Nigel Farage manual. First, on Friday night, she announced that the Tories would withdraw from the European convention on human rights. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/05/conservative-tory-conference-kemi-badenoch-echr-immigration-uk-politics-live-news-updates",
+    "published": "2025-10-05T06:56:20Z",
+    "image_url": "https://i.guim.co.uk/img/media/92748ab5262f441f00d73b14d5911e7efa298836/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7c1757bbc7729f758e9f716158fcb4b7",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a61bf6de31",
+    "source": "BBC — Top Stories",
+    "title": "Meghan makes surprise appearance at Paris Fashion Week",
+    "summary": "The Duchess of Sussex visits the fashion spectacle for the first time in more than a decade.",
+    "url": "https://www.bbc.com/news/articles/c1471r6e27jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T06:25:58Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/9fb487d0-a1b0-11f0-9fd2-579c9a6035d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-4c031d37e2",
     "source": "Politico — UK",
     "title": "5 key takeaways from the Czech election",
@@ -48,13 +84,25 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-5a4d3e8372",
+    "id": "BBC — Top Stories-9a5634154a",
     "source": "BBC — Top Stories",
-    "title": "Fire at East Sussex mosque probed as 'hate crime'",
-    "summary": "Video appears to show two people in balaclavas at the mosque before a large blaze spreads.",
-    "url": "https://www.bbc.com/news/articles/cm2dglp43xmo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T04:06:25Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b74a/live/8af16a60-a19d-11f0-bc08-4961626437d4.jpg",
+    "title": "The Papers: 'Tory 'ICE' force would deport 150,000 a year' and 'Tony of Arabia'",
+    "summary": "The Tory party's immigration plans and former PM Tony Blair's possible role in Gaza make Sunday's papers.",
+    "url": "https://www.bbc.com/news/articles/c9wd0101j0go?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T04:17:15Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3755/live/acebd710-a178-11f0-92db-77261a15b9d2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-68f7b6e8c9",
+    "source": "BBC — Top Stories",
+    "title": "How the US got left behind in the global electric car race",
+    "summary": "Despite a recent surge in demand, the US is a laggard in EV sales compared to much of the rest of the world.",
+    "url": "https://www.bbc.com/news/articles/c8ex2l58en4o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T02:43:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1211/live/e939d750-9fbe-11f0-b73e-e715acbd6a10.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -86,7 +134,7 @@
   {
     "id": "BBC — Top Stories-e5826d8182",
     "source": "BBC — Top Stories",
-    "title": "The before and after images showing glaciers vanishing before our eyes",
+    "title": "Before and after images show glaciers vanishing before our eyes",
     "summary": "They are melting like never seen before, changing landscapes around the world beyond recognition.",
     "url": "https://www.bbc.com/news/articles/ce32ezzq6zlo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T00:28:17Z",
@@ -204,18 +252,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e9178d68af",
-    "source": "BBC — Top Stories",
-    "title": "Nearly 500 arrested at Palestine Action protest in London",
-    "summary": "Demonstrations went ahead despite calls from politicians and police leaders for the protests to be postponed in wake of the Manchester synagogue attack.",
-    "url": "https://www.bbc.com/news/articles/ceq2e9x19g8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T21:03:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b09/live/9d0674b0-a135-11f0-a9f1-8d9167fcc08f.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-43461b4af5",
     "source": "BBC — Top Stories",
     "title": "Tories pledge to remove 750,000 migrants under borders plan",
@@ -259,18 +295,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/04/storm-amy-uk-ireland-wind-weather-warning",
     "published": "2025-10-04T16:47:18Z",
     "image_url": "https://i.guim.co.uk/img/media/c57858faffd6eb23a4c63753572831eb2675974a/334_0_3046_2438/master/3046.jpg?width=140&quality=85&auto=format&fit=max&s=8a1e4a1632fc7350afa41782bb8e9d35",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f28105b650",
-    "source": "BBC — Top Stories",
-    "title": "'We were having dinner and a tree crashed into our house'",
-    "summary": "A mum said it was \"miraculous\" that nobody was injured in the incident during an Amber weather alert in Scotland.",
-    "url": "https://www.bbc.com/news/articles/c0knm5ky70ko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T16:30:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1e7/live/aeb67f60-a140-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -336,18 +360,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-b8db994697",
-    "source": "BBC — Top Stories",
-    "title": "Harrods sets aside more than £60m for abuse compensation",
-    "summary": "The Met Police says 146 people have come forward to report a crime in their investigation into the decease ex-owner of the luxury department store.",
-    "url": "https://www.bbc.com/news/articles/cx20ky6n79eo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T14:31:40Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cff8/live/be03c110-a12e-11f0-a9f1-8d9167fcc08f.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-2b9a4f4192",
     "source": "Politico — UK",
     "title": "Trump pressures Portland amid National Guard standoff",
@@ -396,18 +408,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-3a609bcb31",
-    "source": "The Guardian — UK",
-    "title": "Father of Manchester synagogue attacker condemns ‘heinous act’",
-    "summary": "Faraj al-Shamie expresses ‘deep shock and sorrow’ at actions of son but in 2023 Facebook post he praised Hamas’s 7 October attacks on Israel The father of Jihad al-Shamie, the man shot dead by police as he attacked a Manchester synagogue, has condemned his son’s “heinous act”. Faraj al-Shamie, in a statement said to have been made on behalf of the wider family, said they wished to distance themselves from Thursday’s attack, during which two people were killed and three seriously injured. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/03/father-of-manchester-synagogue-attacker-condemns-heinous-act",
-    "published": "2025-10-04T13:10:25Z",
-    "image_url": "https://i.guim.co.uk/img/media/458ca5ac77cf98e68b2b1f13e6bd47f46cf17637/253_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=3b67064bb7f1caf652b465600cbfbe5e",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-82d047deb9",
     "source": "BBC — Top Stories",
     "title": "The battle is on for the Conservatives to show they matter",
@@ -451,6 +451,18 @@
     "url": "https://www.politico.com/news/2025/10/03/hegseth-rules-inspector-generals-00593901?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-04T11:36:41Z",
     "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-c1ba852c4f",
+    "source": "The Guardian — UK",
+    "title": "Greens ‘on track’ to supplant Labour as favourite party in London, says Zack Polanski",
+    "summary": "Exclusive: poll asked voters to rank parties on how favourably they felt about them, with strong support in capital and among younger voters The Greens are viewed more favourably than any other party in London and among younger voters, polling produced for the party has shown, with its leader, Zack Polanski, saying this showed they were “on track” to supplant Labour. The YouGov poll, carried out to coincide with the Greens’ ongoing annual conference in Bournemouth, asked voters in England to rank the five main parties in order of how favourably they felt about them, rather than the usual metric of which they planned to vote for. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/04/greens-on-track-to-supplant-labour-as-favourite-party-in-london-says-zack-polanski",
+    "published": "2025-10-04T11:00:03Z",
+    "image_url": "https://i.guim.co.uk/img/media/9c219e7f7d2401713bf08979d3739f04b30a8549/0_100_2456_1964/master/2456.jpg?width=140&quality=85&auto=format&fit=max&s=676cf32f77db8cd66074accc04676410",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -511,18 +523,6 @@
     "url": "https://www.theguardian.com/media/2025/oct/04/bbc-bosses-want-defence-budget-to-help-pay-for-the-world-service",
     "published": "2025-10-04T07:00:05Z",
     "image_url": "https://i.guim.co.uk/img/media/484ed2d166167333878df238625c35922bcb1139/0_0_5844_4676/master/5844.jpg?width=140&quality=85&auto=format&fit=max&s=931c38a37cf7e358fbcce9ad2fde3d86",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-420027aa29",
-    "source": "The Guardian — UK",
-    "title": "Starmer on horns of dilemma over China’s seven-year mega-embassy saga",
-    "summary": "Decision time is coming after Labour called in the planning application for the new building in east London In 2018, a prime piece of real estate near the Tower of London that was once home to a Cistercian abbey and later became the historic manufacturing site for British coins was sold to the Chinese government. The £255m deal, brokered by Eddie Lister, one of Boris Johnson’s closest aides, provided China with a site to build a new diplomatic complex stretching across 20,000 square metres. China’s then ambassador, Liu Xiaoming, expressed hopes that the deal would “write a new chapter for a China-UK golden era”. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/04/china-mega-embassy-dilemma-starmer",
-    "published": "2025-10-04T06:00:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/6fdfd683c55c894b8b46babc98da8e5927cee72c/351_0_5618_4494/master/5618.jpg?width=140&quality=85&auto=format&fit=max&s=e1b08a6c9f036f6e0fa918f1eb26023c",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
