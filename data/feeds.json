@@ -1,12 +1,36 @@
 [
   {
-    "id": "Politico — UK-b0d3472413",
-    "source": "Politico — UK",
-    "title": "Georgia’s PM imposes major crackdown on dissent, accuses EU of meddling",
-    "summary": "Irakli Kobakhidze accused the EU envoy to Georgia of interfering in national politics and supporting an \"attempt to overthrow constitutional order.\"",
-    "url": "https://www.politico.eu/article/georgia-pm-irakli-kobakhidze-imposes-major-crackdown-dissent-eu-meddling-demonstration-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-05T15:15:08Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2238355956-scaled.jpg",
+    "id": "The Guardian — UK-c091e29ed4",
+    "source": "The Guardian — UK",
+    "title": "Badenoch says Tories could quit more treaties to increase deportations",
+    "summary": "Party leader outlines proposal for UK to quit ECHR as part of wider bonfire of protections at conference A future Conservative government would be open to dismantling more treaties as a means to deport people from the UK, Kemi Badenoch has said at the start of a Tory conference focused almost exclusively on immigration policy. Making the first of two addresses to the gathering in Manchester, the Tory leader formally set out her proposal for the UK to quit the European convention on human rights (ECHR) as part of a wider bonfire of protections including an end to legal aid for migrants and the right to take migration decisions to tribunals or judicial review. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/05/badenoch-says-tories-could-quit-more-treaties-to-increase-deportations",
+    "published": "2025-10-05T16:08:29Z",
+    "image_url": "https://i.guim.co.uk/img/media/82f2d65ab7cac70b499a2cae09abaaaf564fc2dd/3168_1621_5175_4139/master/5175.jpg?width=140&quality=85&auto=format&fit=max&s=bb3696184d276edcd1778a25aaf7cf12",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-43461b4af5",
+    "source": "BBC — Top Stories",
+    "title": "Tories pledge to remove 750,000 migrants under borders plan",
+    "summary": "The party unveils new policies on illegal migration as its annual conference begins in Manchester.",
+    "url": "https://www.bbc.com/news/articles/c708g5x2yqzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T16:07:15Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51dc/live/637c5ed0-a1d0-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-4bab661ab8",
+    "source": "BBC — Top Stories",
+    "title": "First funeral held for synagogue attack victim",
+    "summary": "Hundreds attend the funeral of Melvin Cravitz, 66, who died in Thursday's synagogue attack.",
+    "url": "https://www.bbc.com/news/articles/cx2r51x17jpo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T16:06:02Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3894/live/c355f5b0-a1f7-11f0-92db-77261a15b9d2.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -17,8 +41,44 @@
     "title": "Pro-Palestine marches have become ‘carnivals of hatred’, Badenoch tells Tory conference – UK politics live",
     "summary": "Party leader says Britain has allowed extremism to go unchecked The polling firm Opinium has released some research this morning suggesting that some Conservative party policies are popular with voters – but that, if people are explicitly told that they are Kemi Badenoch policies, their popularity goes down. There is some evidence that Keir Starmer’s unpopularity has the same effect – and that, once a policy is associated with him, voters are less inclined to back it . Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/oct/05/conservative-tory-conference-kemi-badenoch-echr-immigration-uk-politics-live-news-updates",
-    "published": "2025-10-05T15:06:39Z",
+    "published": "2025-10-05T16:05:48Z",
     "image_url": "https://i.guim.co.uk/img/media/e3cd560e9fc1b080fc7b5ccf1008ca80a3d75b49/549_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2bd27b1ea6ff97ab7dcc17b25991cf28",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-7fc98cb9eb",
+    "source": "The Guardian — UK",
+    "title": "UK Jewish groups condemn Israeli minister’s invite to Tommy Robinson",
+    "summary": "Far-right activist described as ‘thug who represents worst of Britain’ after invitation to Israel sparks outrage Plans by an Israeli minister to host the British far-right activist Tommy Robinson have been condemned by Jewish bodies in the UK and others. The Board of Deputies of British Jews and the Jewish Leadership Council described Robinson, whose real name is Stephen Yaxley-Lennon, as “a thug” who represented the “very worst of Britain”. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/05/uk-jewish-groups-condemn-israeli-minister-invite-tommy-robinson-israel",
+    "published": "2025-10-05T15:41:57Z",
+    "image_url": "https://i.guim.co.uk/img/media/eac9306bd0b85a9487189836a9fb6ca6d8beab4f/501_0_4710_3768/master/4710.jpg?width=140&quality=85&auto=format&fit=max&s=3dc4e2dca4253f4d546ad131cc3d9b10",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5a4d3e8372",
+    "source": "BBC — Top Stories",
+    "title": "Police release photos of mosque arson suspects",
+    "summary": "The images are of two people in balaclavas seen outside the mosque before the large blaze spread.",
+    "url": "https://www.bbc.com/news/articles/cm2dglp43xmo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T15:38:25Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab75/live/689ba000-a1fe-11f0-947b-6b8b23372a50.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c73650b3fc",
+    "source": "BBC — Top Stories",
+    "title": "My approach will pay off eventually, says Tory leader Kemi Badenoch",
+    "summary": "The Conservative leader defends her leadership as the party's conference begins in Manchester",
+    "url": "https://www.bbc.com/news/articles/c1l81766g2qo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T15:34:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2510/live/e99ea350-a1d1-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -29,8 +89,44 @@
     "title": "Home secretary wants police to get more powers to restrict repeated protests",
     "summary": "The move is not a ban on protests but \"about restrictions and conditions\", Shabana Mahmood tells the BBC.",
     "url": "https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T14:50:02Z",
+    "published": "2025-10-05T15:34:10Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c914/live/2fffa270-a1cf-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f352af9c21",
+    "source": "BBC — Top Stories",
+    "title": "Overnight strikes hit Gaza ahead of crucial peace talks",
+    "summary": "Strikes have continued in Gaza as mediators prepare to head to Egypt for talks starting on Monday.",
+    "url": "https://www.bbc.com/news/articles/cj3y6g43248o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T15:28:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b341/live/ee4c5e00-a1ff-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-3c171bee75",
+    "source": "BBC — Top Stories",
+    "title": "Piastri says Norris move 'not fair' as Russell wins",
+    "summary": "Tensions between title rivals Lando Norris and Oscar Piastri reach a new high as George Russell wins the Singapore Grand Prix.",
+    "url": "https://www.bbc.com/sport/formula1/articles/clyl8pd84r1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T15:19:08Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c8d/live/66948430-a1e4-11f0-ab23-d127b1d8dfad.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-b0d3472413",
+    "source": "Politico — UK",
+    "title": "Georgia’s PM imposes major crackdown on dissent, accuses EU of meddling",
+    "summary": "Irakli Kobakhidze accused the EU envoy to Georgia of interfering in national politics and supporting an \"attempt to overthrow constitutional order.\"",
+    "url": "https://www.politico.eu/article/georgia-pm-irakli-kobakhidze-imposes-major-crackdown-dissent-eu-meddling-demonstration-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-05T15:15:08Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2238355956-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -48,30 +144,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-4bab661ab8",
-    "source": "BBC — Top Stories",
-    "title": "First funeral held for synagogue attack victim",
-    "summary": "About 300 people attend the funeral of Melvin Cravitz, 66, who died in Thursday's synagogue attack.",
-    "url": "https://www.bbc.com/news/articles/cx2r51x17jpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T14:13:58Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3894/live/c355f5b0-a1f7-11f0-92db-77261a15b9d2.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-7fc98cb9eb",
-    "source": "The Guardian — UK",
-    "title": "UK Jewish groups condemn Israeli minister’s invite to Tommy Robinson",
-    "summary": "Far-right activist described as ‘thug who represents worst of Britain’ after invitation to Israel sparks outrage Plans by an Israeli minister to host the British far-right activist Tommy Robinson have been condemned by Jewish bodies in the UK and others. The Board of Deputies of British Jews and the Jewish Leadership Council described Robinson, whose real name is Stephen Yaxley-Lennon, as “a thug” who represented the “very worst of Britain”. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/05/uk-jewish-groups-condemn-israeli-minister-invite-tommy-robinson-israel",
-    "published": "2025-10-05T14:00:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/eac9306bd0b85a9487189836a9fb6ca6d8beab4f/501_0_4710_3768/master/4710.jpg?width=140&quality=85&auto=format&fit=max&s=3dc4e2dca4253f4d546ad131cc3d9b10",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e997bd50a6",
     "source": "The Guardian — UK",
     "title": "Police to get more anti-protest powers as Palestine Action ban opponents vow ‘escalation’",
@@ -79,18 +151,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/05/police-to-get-new-powers-to-crack-down-on-repeated-protests-says-home-office",
     "published": "2025-10-05T13:59:45Z",
     "image_url": "https://i.guim.co.uk/img/media/3c8dec7e8b1e2b12aa93520900de6772e9edd72c/497_0_2503_2003/master/2503.jpg?width=140&quality=85&auto=format&fit=max&s=d162c591d96a0531171e5c64f5efa191",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-203c713c54",
-    "source": "BBC — Top Stories",
-    "title": "Anisimova beats Noskova to win China Open",
-    "summary": "Amanda Anisimova continues her breakout year with victory over Linda Noskova to win the China Open and claim her second WTA 1,000 title.",
-    "url": "https://www.bbc.com/sport/tennis/articles/czdjm237p1no?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T13:44:01Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96db/live/690e9d30-a1ea-11f0-ab23-d127b1d8dfad.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -108,18 +168,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-c73650b3fc",
-    "source": "BBC — Top Stories",
-    "title": "My approach will pay off eventually, says Tory leader Kemi Badenoch",
-    "summary": "The Conservative leader defends her leadership as the party's conference begins in Manchester",
-    "url": "https://www.bbc.com/news/articles/c1l81766g2qo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T13:25:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2510/live/e99ea350-a1d1-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-680a12ba62",
     "source": "BBC — Top Stories",
     "title": "EuroMillions £26m win claimed by UK ticket-holder",
@@ -127,30 +175,6 @@
     "url": "https://www.bbc.com/news/articles/cx2xdk15xk0o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T13:21:23Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185e/live/b8c203e0-a1e9-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-93f961c59c",
-    "source": "BBC — Top Stories",
-    "title": "Can Polanski's Greens turn momentum into power?",
-    "summary": "Under their new leader, the Green Party has hit levels of membership - but can his approach win over voters?",
-    "url": "https://www.bbc.com/news/articles/c9dx85q4dyzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T13:15:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/193b/live/d6d4a950-a167-11f0-8b70-39bf68f49b3e.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-5a4d3e8372",
-    "source": "BBC — Top Stories",
-    "title": "Mosque fire being treated as arson and hate crime",
-    "summary": "Video appears to show two people in balaclavas at the mosque before a large blaze spreads.",
-    "url": "https://www.bbc.com/news/articles/cm2dglp43xmo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T13:10:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c39/live/eb4a9b10-a1d0-11f0-9dc7-95987a999c5f.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -168,6 +192,30 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-3efdf27a74",
+    "source": "BBC — Top Stories",
+    "title": "Al-Shabab militants dress as soldiers to storm Somali jail",
+    "summary": "An explosion and gunfire were heard coming from the jail, located near the presidential palace in Mogadishu.",
+    "url": "https://www.bbc.com/news/articles/cp3v0px28j8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T12:56:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d961/live/6c7ee190-a1e6-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-754db57344",
+    "source": "BBC — Top Stories",
+    "title": "Former Newcastle manager and goalkeeper Willie McFaul dies",
+    "summary": "Former Newcastle United and Northern Ireland goalkeeper Willie McFaul passes away aged 82.",
+    "url": "https://www.bbc.com/sport/football/articles/c740gyz2gkxo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T12:36:30Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5de8/live/02106650-a1e4-11f0-ab23-d127b1d8dfad.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-58320d7bd9",
     "source": "BBC — Top Stories",
     "title": "Five killed in large Russian missile and drone attack, Zelensky says",
@@ -175,18 +223,6 @@
     "url": "https://www.bbc.com/news/articles/czjvlgzmp4wo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T12:22:35Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2564/live/d28d5180-a1fd-11f0-b741-177e3e2c2fc7.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-43461b4af5",
-    "source": "BBC — Top Stories",
-    "title": "Tories pledge to remove 750,000 migrants under borders plan",
-    "summary": "The party unveils new policies on illegal migration as its annual conference begins in Manchester.",
-    "url": "https://www.bbc.com/news/articles/c708g5x2yqzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T11:58:17Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51dc/live/637c5ed0-a1d0-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -348,18 +384,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-0362c35024",
-    "source": "BBC — Top Stories",
-    "title": "Mum died from early dementia - I had to find out if I will too",
-    "summary": "Liv Heeney discovered she had inherited a faulty gene after losing her mother to the rare disease.",
-    "url": "https://www.bbc.com/news/articles/ce32kx79e7eo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T01:29:52Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c738/live/c7e72570-a069-11f0-9640-9757c7912ee3.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-1ec30e7a16",
     "source": "BBC — Top Stories",
     "title": "Why HIV cases soared by more than 1,000% in this tiny Pacific country",
@@ -398,23 +422,11 @@
   {
     "id": "BBC — Top Stories-9395cb0688",
     "source": "BBC — Top Stories",
-    "title": "Late nights and packed lectures - why freshers' flu is so hard to dodge",
+    "title": "What exactly is freshers' flu - and why do so many get it?",
     "summary": "It's not the actual flu, and it's rarely serious, but when thousands of students arrive on campus they bring a cocktail of viruses.",
     "url": "https://www.bbc.com/news/articles/c147218x7rgo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T23:05:38Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c9b/live/2dd015c0-a0b2-11f0-ac11-a11de8fbd7b8.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-bac4088188",
-    "source": "BBC — Top Stories",
-    "title": "Netanyahu says he hopes to announce hostage release in the 'coming days'",
-    "summary": "Hamas will disarm \"the easy way or the hard way\", Israel's PM says after the group gave its response to a peace plan.",
-    "url": "https://www.bbc.com/news/articles/c5yqv4lz0geo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T21:38:01Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afbe/live/68c47e60-a1f6-11f0-b741-177e3e2c2fc7.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -439,18 +451,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/04/tories-to-pledge-to-create-immigration-taskforce-modelled-on-trumps-ice",
     "published": "2025-10-04T20:00:14Z",
     "image_url": "https://i.guim.co.uk/img/media/48490adb6e90d8394c7ead4fef115165ebab3ce5/740_269_4664_3731/master/4664.jpg?width=140&quality=85&auto=format&fit=max&s=d97495036810dd0c9f9a32ef61ef79cd",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-0d7c09642d",
-    "source": "The Guardian — UK",
-    "title": "Police given permission to hold Manchester synagogue attack suspects until Wednesday",
-    "summary": "Six people have been arrested on suspicion of commission, preparation and instigation of acts of terrorism after attack that left three dead Counter-terrorism police have been given permission to hold four suspects in custody until Wednesday after this week’s attack at a Manchester synagogue. Six people have been arrested on suspicion of the commission, preparation and instigation of acts of terrorism after Jihad al-Shamie killed a worshipper and seriously injured several others on Thursday. The attack took place on Yom Kippur, the holiest day in the Jewish calendar. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/04/police-given-permission-to-hold-manchester-synagogue-attack-suspects-until-wednesday",
-    "published": "2025-10-04T17:05:03Z",
-    "image_url": "https://i.guim.co.uk/img/media/372fde5b3d1d75e1f8a22130f6c9230e824f459f/347_0_4296_3437/master/4296.jpg?width=140&quality=85&auto=format&fit=max&s=074f827306943f08cc3f4d2d6078ef82",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
