@@ -1,24 +1,12 @@
 [
   {
-    "id": "BBC — Top Stories-6d7021b8d5",
-    "source": "BBC — Top Stories",
-    "title": "Police to get broader powers to restrict repeated protests",
-    "summary": "Officers will be able to tell organisers to move demonstrations if protests have caused \"repeated disorder\".",
-    "url": "https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T07:00:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b0e/live/83592530-a1b7-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-9f4d08f838",
     "source": "The Guardian — UK",
-    "title": "Tory conference to open as Badenoch claims voters will back plan for Trump-style deportation force – UK politics live",
-    "summary": "Delegates gather in Manchester as Tory leader unveils scheme to deport 150,000 people a year from the UK Tories pledge to create immigration taskforce modelled on Trump’s Ice Good morning. The Conservative party conference is starting in Manchester today – although you could be forgiven for thinking it’s another Reform UK conference, because Kemi Badenoch has already made two huge policy commitments that are straight out of the Nigel Farage manual. First, on Friday night, she announced that the Tories would withdraw from the European convention on human rights. Continue reading...",
+    "title": "Tory conference to open as Home Office announces plan to strengthen anti-protest laws – UK politics live",
+    "summary": "New measures will make it easier for police to stop protests by considering ‘cumulative’ effect of demonstrations The polling firm Opinium has released some research this morning suggesting that some Conservative party policies are popular with voters – but that, if people are explicitly told that they are Kemi Badenoch policies, their popularity goes down. There is some evidence that Keir Starmer’s unpopularity has the same effect – and that, once a policy is associated with him, voters are less inclined to back it . Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/oct/05/conservative-tory-conference-kemi-badenoch-echr-immigration-uk-politics-live-news-updates",
-    "published": "2025-10-05T06:56:20Z",
-    "image_url": "https://i.guim.co.uk/img/media/92748ab5262f441f00d73b14d5911e7efa298836/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7c1757bbc7729f758e9f716158fcb4b7",
+    "published": "2025-10-05T08:02:51Z",
+    "image_url": "https://i.guim.co.uk/img/media/070a48f58b985f23c9b5d38719ae508c04ede0e2/253_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=01c481aa94fa934228177409def82d80",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -29,8 +17,56 @@
     "title": "Meghan makes surprise appearance at Paris Fashion Week",
     "summary": "The Duchess of Sussex visits the fashion spectacle for the first time in more than a decade.",
     "url": "https://www.bbc.com/news/articles/c1471r6e27jo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T06:25:58Z",
+    "published": "2025-10-05T07:53:32Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/9fb487d0-a1b0-11f0-9fd2-579c9a6035d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-68f7b6e8c9",
+    "source": "BBC — Top Stories",
+    "title": "How the US got left behind in the global electric car race",
+    "summary": "Despite a recent surge in demand, the US is a laggard in EV sales compared to much of the rest of the world.",
+    "url": "https://www.bbc.com/news/articles/c8ex2l58en4o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T07:45:21Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1211/live/e939d750-9fbe-11f0-b73e-e715acbd6a10.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6d7021b8d5",
+    "source": "BBC — Top Stories",
+    "title": "Police to get broader powers to restrict repeated protests",
+    "summary": "Officers will be able to tell organisers to move demonstrations if protests have caused \"repeated disorder\".",
+    "url": "https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T07:43:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b0e/live/83592530-a1b7-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-58320d7bd9",
+    "source": "BBC — Top Stories",
+    "title": "Poland scrambles jets as Russia strikes western Ukraine",
+    "summary": "Ukraine's neighbour Poland and Nato scrambled fighter jets to ensure the safety of Polish airspace.",
+    "url": "https://www.bbc.com/news/articles/czjvlgzmp4wo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T07:23:18Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b08a/live/8e6ec6f0-a1c1-11f0-8717-15b6df652bfb.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e997bd50a6",
+    "source": "The Guardian — UK",
+    "title": "Police to get new powers to crack down on repeated protests, says Home Office",
+    "summary": "Move follows arrest of almost 500 people at latest pro-Palestinian demonstration in London on Saturday Ministers are to give police new powers to target repeated protests, aimed particularly at cracking down on demonstrations connected to Gaza, the Home Office has said. The announcement, made the morning after almost 500 people were arrested in London for expressing support for Palestine Action, a proscribed organisation, could allow police to order regular protests to take place at a different site. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/05/police-to-get-new-powers-to-crack-down-on-repeated-protests-says-home-office",
+    "published": "2025-10-05T07:19:08Z",
+    "image_url": "https://i.guim.co.uk/img/media/3c8dec7e8b1e2b12aa93520900de6772e9edd72c/497_0_2503_2003/master/2503.jpg?width=140&quality=85&auto=format&fit=max&s=d162c591d96a0531171e5c64f5efa191",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -96,18 +132,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-68f7b6e8c9",
-    "source": "BBC — Top Stories",
-    "title": "How the US got left behind in the global electric car race",
-    "summary": "Despite a recent surge in demand, the US is a laggard in EV sales compared to much of the rest of the world.",
-    "url": "https://www.bbc.com/news/articles/c8ex2l58en4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T02:43:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1211/live/e939d750-9fbe-11f0-b73e-e715acbd6a10.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-6ada891d8e",
     "source": "BBC — Top Stories",
     "title": "Trump authorises deployment of 300 National Guard troops to Chicago",
@@ -115,6 +139,18 @@
     "url": "https://www.bbc.com/news/articles/c2dnk0ee6pyo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T02:14:30Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0dd/live/4ac49720-a187-11f0-b1c5-b56e9bf8a857.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0362c35024",
+    "source": "BBC — Top Stories",
+    "title": "Mum died from early dementia - I had to find out if I will too",
+    "summary": "Liv Heeney discovered she had inherited a faulty gene after losing her mother to the rare disease.",
+    "url": "https://www.bbc.com/news/articles/ce32kx79e7eo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T01:29:52Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c738/live/c7e72570-a069-11f0-9640-9757c7912ee3.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -180,18 +216,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-09d6c9cd27",
-    "source": "BBC — Top Stories",
-    "title": "Who is Japan's 'Iron Lady' Sanae Takaichi?",
-    "summary": "The conservative politician, who sees Margaret Thatcher as an inspiration, is set to be Japan's first female prime minister.",
-    "url": "https://www.bbc.com/news/articles/crkj5e73xkmo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T22:09:29Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ee2/live/3948ea70-a19e-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-bac4088188",
     "source": "BBC — Top Stories",
     "title": "Netanyahu says he hopes to announce hostage release in the 'coming days'",
@@ -216,18 +240,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-3bdb50ba92",
-    "source": "BBC — Top Stories",
-    "title": "Hundreds of extra police on streets after synagogue attack",
-    "summary": "Other forces are boosting Greater Manchester Police numbers following Thursday's synagogue attack.",
-    "url": "https://www.bbc.com/news/articles/crkj50gd217o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T21:23:14Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28fe/live/eb0719c0-a11d-11f0-909f-795e864c8891.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-e52eea32e4",
     "source": "BBC — Top Stories",
     "title": "What we know about the attack",
@@ -235,6 +247,18 @@
     "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T21:21:06Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e75f/live/9e76f8a0-a109-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-3fea16f815",
+    "source": "BBC — Top Stories",
+    "title": "Hope and fear for hostage families after Hamas response to Gaza peace plan",
+    "summary": "Families describe a \"fragile situation\", with negotiations between Israel and Hamas expected to resume.",
+    "url": "https://www.bbc.com/news/articles/cly9e6mnve9o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T21:11:07Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2dd/live/0727e8c0-a135-11f0-a9f1-8d9167fcc08f.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -372,30 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-b254cc4de4",
-    "source": "BBC — Top Stories",
-    "title": "Shock in Gaza as Trump appears to welcome Hamas response to US peace plan",
-    "summary": "Hamas agreed to release the hostages and to the idea of handing over governing Gaza to Palestinian technocrats, but did not give a clear response to many other elements.",
-    "url": "https://www.bbc.com/news/articles/c15k199j1x3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T13:57:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e94/live/7548e480-a112-11f0-807b-c1a7ae4b635d.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-f053cd3d2f",
-    "source": "The Guardian — UK",
-    "title": "British teenager dies in car crash months after being freed from Dubai jail for sex with girl, 17",
-    "summary": "Marcus Fakana, 19, died in hospital after police pursued a vehicle in Tottenham, London, which was then involved in a collision A British teenager who was jailed in Dubai for having a sexual relationship with a 17-year-old girl while they were on holiday has died in a car crash three months after he was released, a campaign group has said. Marcus Fakana, 19, died in hospital in the early hours of Friday after police pursued a vehicle in Tottenham, north London. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/04/british-teenager-marcus-fakana-dies-in-car-collision-months-after-being-freed-from-dubai-jail-for-sex-with-girl",
-    "published": "2025-10-04T13:55:02Z",
-    "image_url": "https://i.guim.co.uk/img/media/d3859c9c684888dc0bfd294f1043ea1c6c321b88/197_114_438_350/master/438.jpg?width=140&quality=85&auto=format&fit=max&s=136ce1feff3c5535a0d96530cd45cc1a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-bff098c30d",
     "source": "Politico — UK",
     "title": "‘Savage’ Russian drone strike hits Ukraine passenger train",
@@ -403,18 +403,6 @@
     "url": "https://www.politico.eu/article/savage-drone-attack-ukraine-passenger-train-volodymyr-zelenskyy-russia-shostka/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-04T13:32:34Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/04/GettyImages-2238736026-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-82d047deb9",
-    "source": "BBC — Top Stories",
-    "title": "The battle is on for the Conservatives to show they matter",
-    "summary": "As the party's annual conference begins, there are reasons for the current leadership to be gloomy, writes Laura Kuenssberg.",
-    "url": "https://www.bbc.com/news/articles/c864dzn827xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T12:23:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3fb/live/caa9fb50-a02f-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -451,6 +439,18 @@
     "url": "https://www.politico.com/news/2025/10/03/hegseth-rules-inspector-generals-00593901?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-04T11:36:41Z",
     "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-3fbc9c90e2",
+    "source": "BBC — Top Stories",
+    "title": "'Fate stopped my son-in-law attending synagogue'",
+    "summary": "Mark Goldstone says his son-in-law's near miss on Thursday \"really brought it home\" to him.",
+    "url": "https://www.bbc.com/news/articles/c93057xzq95o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T11:13:57Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1902/live/706cbfa0-a10c-11f0-807b-c1a7ae4b635d.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
