@@ -1,5 +1,17 @@
 [
   {
+    "id": "BBC — Top Stories-5a4d3e8372",
+    "source": "BBC — Top Stories",
+    "title": "Fire at East Sussex mosque probed as 'hate crime'",
+    "summary": "While no one was injured in the incident, the entrance of the building and a vehicle parked outside were damaged, police say.",
+    "url": "https://www.bbc.com/news/articles/cm2dglp43xmo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T04:06:25Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b74a/live/8af16a60-a19d-11f0-bc08-4961626437d4.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-6ada891d8e",
     "source": "BBC — Top Stories",
     "title": "Trump authorises deployment of 300 National Guard troops to Chicago",
@@ -19,18 +31,6 @@
     "url": "https://www.bbc.com/news/articles/c0m42dwvlk8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T00:58:12Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11fb/live/1d4988b0-9f6f-11f0-99d3-79886bca9dc5.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9a5634154a",
-    "source": "BBC — Top Stories",
-    "title": "The Papers: 'Tory 'ICE' force would deport 150,000 a year' and 'Tony of Arabia'",
-    "summary": "The Tory party's immigration plans and former PM Tony Blair's possible role in Gaza make Sunday's papers.",
-    "url": "https://www.bbc.com/news/articles/c9wd0101j0go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T00:43:27Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3755/live/acebd710-a178-11f0-92db-77261a15b9d2.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -87,10 +87,10 @@
     "id": "BBC — Top Stories-09d6c9cd27",
     "source": "BBC — Top Stories",
     "title": "Who is Japan's 'Iron Lady' Sanae Takaichi?",
-    "summary": "The conservative politician is set to be Japan's first female prime minister.",
+    "summary": "The conservative politician, who sees Margaret Thatcher as an inspiration, is set to be Japan's first female prime minister.",
     "url": "https://www.bbc.com/news/articles/crkj5e73xkmo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-04T22:09:29Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5ac/live/864d4c40-a125-11f0-909f-795e864c8891.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ee2/live/3948ea70-a19e-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
