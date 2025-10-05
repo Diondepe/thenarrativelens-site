@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-422462a316",
+    "source": "BBC — Top Stories",
+    "title": "First celebrity leaves Strictly after dance-off",
+    "summary": "Two couples squared off against each other on Sunday night, leading to one pair departing the show.",
+    "url": "https://www.bbc.com/news/articles/c20zeyynnrgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T19:08:00Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7b2/live/59b049e0-a20f-11f0-8493-b191e68f6c5a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d67fc063ff",
+    "source": "BBC — Top Stories",
+    "title": "Tories invoke Thatcher legacy in search of a comeback",
+    "summary": "The former PM has featured even more than usual at the party's conference, as activists mark her 100th birthday.",
+    "url": "https://www.bbc.com/news/articles/c23755eg09zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T18:40:03Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2a6/live/b61c2550-a1f6-11f0-947b-6b8b23372a50.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e997bd50a6",
+    "source": "The Guardian — UK",
+    "title": "Civil liberty groups express concern over plan for more anti-protest powers",
+    "summary": "Home secretary says police can consider ‘cumulative impact’ of demonstrations as Palestine Action ban opponents vow ‘escalation’ Civil liberty groups have expressed concern over government plans to hand police greater powers to restrict protests as organisers of mass demonstrations against the banning of Palestine Action pledged a “major escalation” of their campaign. Shabana Mahmood said on Sunday that repeated large-scale demonstrations over Gaza had caused “considerable fear” for the Jewish community in the wake of a fatal terror attack on a synagogue last week. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/05/police-to-get-new-powers-to-crack-down-on-repeated-protests-says-home-office",
+    "published": "2025-10-05T18:27:16Z",
+    "image_url": "https://i.guim.co.uk/img/media/3c8dec7e8b1e2b12aa93520900de6772e9edd72c/497_0_2503_2003/master/2503.jpg?width=140&quality=85&auto=format&fit=max&s=d162c591d96a0531171e5c64f5efa191",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-4bab661ab8",
+    "source": "BBC — Top Stories",
+    "title": "First funeral held for synagogue attack victim",
+    "summary": "Hundreds attend the funeral of Melvin Cravitz, 66, who died in Thursday's synagogue attack.",
+    "url": "https://www.bbc.com/news/articles/cx2r51x17jpo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T18:25:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3894/live/c355f5b0-a1f7-11f0-92db-77261a15b9d2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-9decfce4a4",
+    "source": "The Guardian — UK",
+    "title": "China threatened to retaliate against UK over foreign influence rules",
+    "summary": "Exclusive: Chinese officials warned that targeting its security apparatus would negatively affect relations China threatened to retaliate against the UK government if ministers targeted parts of its security apparatus under foreign influence rules, the Guardian can disclose. Chinese officials warned the Foreign Office that the move would have negative consequences for relations soon after the Guardian reported it was under consideration , according to two government sources with knowledge of the discussions. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/05/china-threatened-to-retaliate-against-uk-over-foreign-influence-rules",
+    "published": "2025-10-05T18:23:51Z",
+    "image_url": "https://i.guim.co.uk/img/media/1db51637127a779756cd2f5bdca052ba1d11b970/248_0_3004_2403/master/3004.jpg?width=140&quality=85&auto=format&fit=max&s=7a0b60e1875c8dcab9718f28e14ff3d6",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-69ef650553",
     "source": "Politico — UK",
     "title": "New French PM Lecornu unveils government",
@@ -36,18 +96,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-9decfce4a4",
-    "source": "The Guardian — UK",
-    "title": "China threatened to retaliate against UK over foreign influence rules",
-    "summary": "Exclusive: Chinese officials warned that targeting its security apparatus would have negative consequences for relations China threatened to retaliate against the UK government if ministers targeted parts of its security apparatus under foreign influence rules, the Guardian can disclose. Chinese officials warned the Foreign Office that the move would have negative consequences for relations soon after the Guardian reported it was under consideration , according to two government sources with knowledge of the discussions. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/05/china-threatened-to-retaliate-against-uk-over-foreign-influence-rules",
-    "published": "2025-10-05T17:42:25Z",
-    "image_url": "https://i.guim.co.uk/img/media/1db51637127a779756cd2f5bdca052ba1d11b970/248_0_3004_2403/master/3004.jpg?width=140&quality=85&auto=format&fit=max&s=7a0b60e1875c8dcab9718f28e14ff3d6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-c091e29ed4",
     "source": "The Guardian — UK",
     "title": "Badenoch says Tories open to quitting more treaties to increase deportations",
@@ -62,7 +110,7 @@
   {
     "id": "The Guardian — UK-9f4d08f838",
     "source": "The Guardian — UK",
-    "title": "Pro-Palestine marches have become ‘carnivals of hatred’, Badenoch tells Tory conference – UK politics live",
+    "title": "Pro-Palestine marches have become ‘carnivals of hatred’, Badenoch tells Tory conference – as it happened",
     "summary": "Party leader says Britain has allowed extremism to go unchecked The polling firm Opinium has released some research this morning suggesting that some Conservative party policies are popular with voters – but that, if people are explicitly told that they are Kemi Badenoch policies, their popularity goes down. There is some evidence that Keir Starmer’s unpopularity has the same effect – and that, once a policy is associated with him, voters are less inclined to back it . Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/oct/05/conservative-tory-conference-kemi-badenoch-echr-immigration-uk-politics-live-news-updates",
     "published": "2025-10-05T17:34:39Z",
@@ -98,8 +146,8 @@
   {
     "id": "BBC — Top Stories-6252a9e34e",
     "source": "BBC — Top Stories",
-    "title": "Nearly 1,000 people trapped on Mount Everest slopes",
-    "summary": "Rescue teams have been deployed to clear the snow on the world's tallest mountain, Chinese state media reports.",
+    "title": "Rescue efforts underway after 1,000 people trapped on Mount Everest slopes",
+    "summary": "Rescue teams have been deployed to clear the snow on the world's highest mountain, Chinese state media reports.",
     "url": "https://www.bbc.com/news/articles/cj4ykkgxqwko?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T16:25:37Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e0d/live/5174d190-a202-11f0-8dc2-df6a75d34b1c.jpg",
@@ -111,7 +159,7 @@
     "id": "Politico — UK-d9594a8750",
     "source": "Politico — UK",
     "title": "Czech president puts NATO, EU at core of Cabinet talks after elections",
-    "summary": "Petr Pavel says \"premature\" to speak of names for prime minister, after right-wing populist Andrej Babiš and his ANO movement gained a decisive victory in Czech parliamentary vote.",
+    "summary": "Petr Pavel says it is \"premature\" to speak of names for prime minister, after right-wing populist Andrej Babiš and his ANO movement gained a decisive victory in the Czech parliamentary vote.",
     "url": "https://www.politico.eu/article/czech-elections-president-petr-pavel-nato-eu-cabinet-talks-andrej-babis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-05T16:24:24Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2238576366-scaled.jpg",
@@ -135,34 +183,10 @@
     "id": "The Guardian — UK-54761b6b64",
     "source": "The Guardian — UK",
     "title": "Two hours of exercise a week reduces joint pain and visits to GP",
-    "summary": "Study looks at how workouts can help those with hip, knee and back pain – and benefit UK economy to tune of £34bn People with sore joints who exercise for two hours a week have less pain, visit their GP less and take less sick leave, a study has found. The findings are from an analysis of how 40,000 people in Greater Manchester with hip, back or knee pain fared when they did two one-hour exercise classes for 12 weeks. Had on average 35% less pain. Went to see their GP 29% less often. Took almost half as many sick days from work. Needed their family to look after them 21% less. Continue reading...",
+    "summary": "Study looks at how workouts can help those with hip, knee and back pain – and benefit UK economy to tune of £34bn People with sore joints who exercise for two hours a week have less pain, visit their GP less and take less sick leave, a study has found. The findings are from an analysis of how 40,000 people across the UK with hip, back or knee pain fared when they did two one-hour exercise classes for 12 weeks. Had on average 35% less pain. Went to see their GP 29% less often. Took almost half as many sick days from work. Needed their family to look after them 21% less. Continue reading...",
     "url": "https://www.theguardian.com/society/2025/oct/05/two-hours-exercise-week-reduces-joint-pain-gp-nhs",
     "published": "2025-10-05T16:16:56Z",
     "image_url": "https://i.guim.co.uk/img/media/a4362eeace5e2b5b9626affa528ce71558c629ae/0_1714_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=e73510e5d97a4b8be6ec1cef48226723",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-43461b4af5",
-    "source": "BBC — Top Stories",
-    "title": "Tories pledge to remove 750,000 migrants under borders plan",
-    "summary": "The party unveils new policies on illegal migration as its annual conference begins in Manchester.",
-    "url": "https://www.bbc.com/news/articles/c708g5x2yqzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T16:07:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51dc/live/637c5ed0-a1d0-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4bab661ab8",
-    "source": "BBC — Top Stories",
-    "title": "First funeral held for synagogue attack victim",
-    "summary": "Hundreds attend the funeral of Melvin Cravitz, 66, who died in Thursday's synagogue attack.",
-    "url": "https://www.bbc.com/news/articles/cx2r51x17jpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T16:06:02Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3894/live/c355f5b0-a1f7-11f0-92db-77261a15b9d2.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -240,18 +264,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-e997bd50a6",
-    "source": "The Guardian — UK",
-    "title": "Police to get more anti-protest powers as Palestine Action ban opponents vow ‘escalation’",
-    "summary": "Home secretary says police can consider ‘cumulative impact’ of repeated demonstrations to restrict protests Ministers are to give police greater powers to restrict protests by allowing them to consider the “cumulative impact” of demonstrations, as organisers of mass protests against the banning of Palestine Action pledged a “major escalation” of their campaign. Shabana Mahmood said on Sunday that repeated large-scale demonstrations over Gaza had caused “considerable fear” for the Jewish community. The home secretary promised to amend the Public Order Act 1986 to explicitly allow the police to take account of frequent protests on local areas in order to impose conditions on public processions and assemblies. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/05/police-to-get-new-powers-to-crack-down-on-repeated-protests-says-home-office",
-    "published": "2025-10-05T13:59:45Z",
-    "image_url": "https://i.guim.co.uk/img/media/3c8dec7e8b1e2b12aa93520900de6772e9edd72c/497_0_2503_2003/master/2503.jpg?width=140&quality=85&auto=format&fit=max&s=d162c591d96a0531171e5c64f5efa191",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-d372804adb",
     "source": "The Guardian — UK",
     "title": "Ministers to announce significant changes to UK’s planning system",
@@ -283,18 +295,6 @@
     "url": "https://www.politico.eu/article/patriots-for-europe-rejoice-czech-election-andrej-babis-victory/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-05T13:05:59Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2198362268-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3efdf27a74",
-    "source": "BBC — Top Stories",
-    "title": "Al-Shabab militants dress as soldiers to storm Somali jail",
-    "summary": "An explosion and gunfire were heard coming from the jail, located near the presidential palace in Mogadishu.",
-    "url": "https://www.bbc.com/news/articles/cp3v0px28j8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T12:56:53Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d961/live/6c7ee190-a1e6-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
