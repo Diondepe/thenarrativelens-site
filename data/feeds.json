@@ -1,5 +1,29 @@
 [
   {
+    "id": "The Guardian — UK-5cb3332298",
+    "source": "The Guardian — UK",
+    "title": "How Reform ‘misinformation’ campaign sank town’s refugee sanctuary plan",
+    "summary": "Party accused of stoking divisions in Weston-super-Mare over scheme to improve support for asylum seekers With its donkey rides, historical grand pier and long sandy beach, Weston-super-Mare is a quintessential Victorian seaside resort; busy with ice-cream toting crowds in the summer but imbued with the laidback charm of a town that moves at a slower pace. But in the last few months, the town has become deeply divided over a proposal to become a council of sanctuary, a project designed to improve efficiencies in the provision of support for refugees and asylum seekers. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/05/how-reform-uk-campaign-sank-weston-super-mare-refugee-council-of-sanctuary-plan",
+    "published": "2025-10-05T05:00:26Z",
+    "image_url": "https://i.guim.co.uk/img/media/0de6b904b472dafca55a51f458621d50680eb1eb/0_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=0d5d8ab4c636c1b33d2a1e9044af1a10",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-573361d6cc",
+    "source": "BBC — Top Stories",
+    "title": "'I have your nudes and everything to ruin your life': The cyber-scammers targeting teenagers",
+    "summary": "The BBC challenges the scammers targeting teenagers like Evan Boettler, who took his own life just 90 minutes after being contacted.",
+    "url": "https://www.bbc.com/news/articles/czrpedexleno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T05:00:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d75/live/8dbea6a0-9f99-11f0-8e4d-7723b0da5e04.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-5a4d3e8372",
     "source": "BBC — Top Stories",
     "title": "Fire at East Sussex mosque probed as 'hate crime'",
@@ -360,18 +384,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-70ab59af0f",
-    "source": "BBC — Top Stories",
-    "title": "Is Taylor Swift's new song Actually Romantic a Charli XCX diss track?",
-    "summary": "Fans are convinced the pop star's song Actually Romantic is a response to a Charli XCX track.",
-    "url": "https://www.bbc.com/news/articles/ckg24xvyzxwo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T12:45:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c46a/live/e8205b70-a147-11f0-92db-77261a15b9d2.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-82d047deb9",
     "source": "BBC — Top Stories",
     "title": "The battle is on for the Conservatives to show they matter",
@@ -511,18 +523,6 @@
     "url": "https://www.theguardian.com/world/2025/oct/04/china-mega-embassy-dilemma-starmer",
     "published": "2025-10-04T06:00:06Z",
     "image_url": "https://i.guim.co.uk/img/media/6fdfd683c55c894b8b46babc98da8e5927cee72c/351_0_5618_4494/master/5618.jpg?width=140&quality=85&auto=format&fit=max&s=e1b08a6c9f036f6e0fa918f1eb26023c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-b6f22f7a43",
-    "source": "The Guardian — UK",
-    "title": "Rachel Reeves urged to break manifesto pledges to avoid ‘pasty tax’ budget",
-    "summary": "Labour colleagues advise chancellor against string of small money-raising measures, as OBR presents forecast Some of Rachel Reeves’s Labour colleagues have urged her to ditch the party’s manifesto promises rather than risk a “pasty tax” budget that raises money through a string of small measures. As the independent Office for Budget Responsibility (OBR) presented its first fiscal forecast to the Treasury on Friday, several sources said there was tension within the government over the manifesto pledges. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/04/rachel-reeves-urged-to-break-manifesto-pledges-to-avoid-pasty-tax-budget",
-    "published": "2025-10-04T05:00:56Z",
-    "image_url": "https://i.guim.co.uk/img/media/5a3635033cff9e5511941074febfb07e6feeeb87/897_56_5423_4340/master/5423.jpg?width=140&quality=85&auto=format&fit=max&s=c1738feba5d3bdfb5e35cc6893617b80",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
