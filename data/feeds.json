@@ -1,5 +1,53 @@
 [
   {
+    "id": "Politico — UK-eee6ce710e",
+    "source": "Politico — UK",
+    "title": "Fearing Farage, Britain’s Conservatives go full Trump",
+    "summary": "Under-pressure leader Kemi Badenoch wants a migrant removal force inspired by ICE — but that kind of branding is a political risk given the British largely dislike Donald Trump and his approach.",
+    "url": "https://www.politico.eu/article/nigel-farage-reform-uk-britain-conservative-party-kemi-badenoch/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-05T21:36:55Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2239374220.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-396f3c6e52",
+    "source": "BBC — Top Stories",
+    "title": "Conservatives to set out plan for £47bn of cuts to public spending",
+    "summary": "Speaking at the party's conference, Shadow chancellor Mel Stride will say the Conservatives are the only ones that \"gets it\" on the economy.",
+    "url": "https://www.bbc.com/news/articles/c4gzv9j78dyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T21:33:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20e0/live/817a56d0-a22a-11f0-9a8d-55d7ff06f061.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-18d862acb2",
+    "source": "The Guardian — UK",
+    "title": "UK ministers aim to speed up homebuying by four weeks",
+    "summary": "Proposed government overhaul of house purchase process looks at shifting some costs from buyers to sellers Ministers are attempting to cut the time it takes to buy a home by four weeks under new proposals aimed at overhauling the housebuying process. The UK government will also consult on plans to shift costs from buyers to sellers, including compelling sellers and estate agents to provide buyers with vital information – such as the condition of the home and the scale of any leasehold costs – upfront. Continue reading...",
+    "url": "https://www.theguardian.com/money/2025/oct/05/uk-ministers-aim-to-speed-up-homebuying-by-four-weeks",
+    "published": "2025-10-05T21:30:45Z",
+    "image_url": "https://i.guim.co.uk/img/media/542ee80a049baf1424259d0c08af86de325601b2/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=0ae617baf9a0206accfa046a3e741d96",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1e08fcba5d",
+    "source": "BBC — Top Stories",
+    "title": "Buyers could save hundreds in new house buying shakeup",
+    "summary": "Housing Secretary Steve Reed claims the changes would \"fix the broken system\" and put more money \"back into working people's pockets\".",
+    "url": "https://www.bbc.com/news/articles/cy0v7zwp0dlo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T21:30:27Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0623/live/488de0c0-a226-11f0-a2b9-abdd67c14f44.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-d2bc6ba0b2",
     "source": "The Guardian — UK",
     "title": "Suspected arson attack at East Sussex mosque investigated as hate crime",
@@ -18,7 +66,7 @@
     "summary": "Russell Martin is sacked as Rangers head coach after 17 games in charge in the wake of Sunday's 1-1 draw with Falkirk.",
     "url": "https://www.bbc.com/sport/football/articles/c4gwrplwyz8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T20:45:18Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb8/live/2e98bdd0-a22f-11f0-bad1-135fa7f86807.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4060/live/241bbf50-a235-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -67,6 +115,18 @@
     "url": "https://www.bbc.com/news/articles/c20zeyynnrgo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T19:08:00Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7b2/live/59b049e0-a20f-11f0-8493-b191e68f6c5a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-082c689a75",
+    "source": "BBC — Top Stories",
+    "title": "Six arrests in murder probe after body found",
+    "summary": "The victim, in his 30s, was declared dead at the scene in a house in a city street, police say.",
+    "url": "https://www.bbc.com/news/articles/cvgjw9w339go?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T18:53:36Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6547/live/7c43cc00-a21b-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -216,18 +276,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-c73650b3fc",
-    "source": "BBC — Top Stories",
-    "title": "My approach will pay off eventually, says Tory leader Kemi Badenoch",
-    "summary": "The Conservative leader defends her leadership as the party's conference begins in Manchester",
-    "url": "https://www.bbc.com/news/articles/c1l81766g2qo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T16:20:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2510/live/e99ea350-a1d1-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-54761b6b64",
     "source": "The Guardian — UK",
     "title": "Two hours of exercise a week reduces joint pain and visits to GP",
@@ -283,18 +331,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/05/ministers-significant-changes-uk-planning-system",
     "published": "2025-10-05T13:30:44Z",
     "image_url": "https://i.guim.co.uk/img/media/510ae088d2e0d583efe31a7f3fd71cebd9cd8798/272_0_4128_3304/master/4128.jpg?width=140&quality=85&auto=format&fit=max&s=c75de0b1a8a68cf64ab9e11925b384f5",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-680a12ba62",
-    "source": "BBC — Top Stories",
-    "title": "EuroMillions £26m win claimed by UK ticket-holder",
-    "summary": "However, the winner of Saturday's £10.6m Lotto jackpot has yet to come forward.",
-    "url": "https://www.bbc.com/news/articles/cx2xdk15xk0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T13:21:23Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185e/live/b8c203e0-a1e9-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -367,42 +403,6 @@
     "url": "https://www.politico.com/news/magazine/2025/10/04/trump-hamas-gaza-israel-00594076?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-05T10:02:26Z",
     "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-dc7185bff1",
-    "source": "Politico — UK",
-    "title": "Crowds clash with police during Gaza solidarity protests in Rome",
-    "summary": "The unrest started as Israel intercepted the pro-Palestinian Global Sumud Flotilla attempting to carry humanitarian aid to the Gaza Strip.",
-    "url": "https://www.politico.eu/article/gaza-solidarity-protest-rome-italy-clash-police/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-05T09:13:06Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2238891043-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a61bf6de31",
-    "source": "BBC — Top Stories",
-    "title": "Meghan makes surprise appearance at Paris Fashion Week",
-    "summary": "The Duchess of Sussex visits the fashion spectacle for the first time in more than a decade.",
-    "url": "https://www.bbc.com/news/articles/c1471r6e27jo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T07:53:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/9fb487d0-a1b0-11f0-9fd2-579c9a6035d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-632ad70fee",
-    "source": "The Guardian — UK",
-    "title": "Richard Desmond legal action over National Lottery award to begin at high court",
-    "summary": "Billionaire suing Gambling Commission for up to £1.3bn over licence award, with payout potentially funded by the taxpayer The media billionaire Richard Desmond will begin a bitter courtroom battle with the Gambling Commission this week that could cost taxpayers hundreds of millions of pounds in a row over the licence to run the National Lottery. Northern & Shell and The New Lottery Company (TNLC), owned by Desmond, are suing the gambling regulator for up to £1.3bn, alleging “manifest errors” in the labyrinthine competition process for Britain’s largest public sector contract, the lottery licence. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/05/richard-desmond-legal-action-over-national-lottery-award-to-begin-at-high-court",
-    "published": "2025-10-05T06:00:28Z",
-    "image_url": "https://i.guim.co.uk/img/media/7f5503043c6fb78baeebad4240083d48b235fbee/289_0_2422_1939/master/2422.jpg?width=140&quality=85&auto=format&fit=max&s=f03d5cfe387735b9b2bce197365aadd0",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
