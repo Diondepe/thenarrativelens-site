@@ -1,5 +1,29 @@
 [
   {
+    "id": "BBC — Top Stories-790cddcaf6",
+    "source": "BBC — Top Stories",
+    "title": "Thousands gather in London to mark two years since 7 October attacks",
+    "summary": "Candles were also lit for those affected by a deadly attack outside a Manchester synagogue on Thursday.",
+    "url": "https://www.bbc.com/news/articles/cp98e30d8g4o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T19:50:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22f/live/65e7d860-a203-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6252a9e34e",
+    "source": "BBC — Top Stories",
+    "title": "Rescue efforts under way after 1,000 people trapped on Mount Everest slopes",
+    "summary": "Rescue teams have been deployed to clear the snow on the world's highest mountain, Chinese state media reports.",
+    "url": "https://www.bbc.com/news/articles/cj4ykkgxqwko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T19:28:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a26/live/bb0f5800-a225-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-422462a316",
     "source": "BBC — Top Stories",
     "title": "First celebrity leaves Strictly after dance-off",
@@ -144,18 +168,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-6252a9e34e",
-    "source": "BBC — Top Stories",
-    "title": "Rescue efforts underway after 1,000 people trapped on Mount Everest slopes",
-    "summary": "Rescue teams have been deployed to clear the snow on the world's highest mountain, Chinese state media reports.",
-    "url": "https://www.bbc.com/news/articles/cj4ykkgxqwko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T16:25:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e0d/live/5174d190-a202-11f0-8dc2-df6a75d34b1c.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-d9594a8750",
     "source": "Politico — UK",
     "title": "Czech president puts NATO, EU at core of Cabinet talks after elections",
@@ -209,7 +221,7 @@
     "title": "UK Jewish groups condemn Israeli minister’s invite to Tommy Robinson",
     "summary": "Far-right activist described as ‘thug who represents worst of Britain’ after invitation to Israel sparks outrage Plans by an Israeli minister to host the British far-right activist Tommy Robinson have been condemned by Jewish bodies in the UK and others. The Board of Deputies of British Jews and the Jewish Leadership Council described Robinson, whose real name is Stephen Yaxley-Lennon, as “a thug” who represented the “very worst of Britain”. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/05/uk-jewish-groups-condemn-israeli-minister-invite-tommy-robinson-israel",
-    "published": "2025-10-05T15:41:57Z",
+    "published": "2025-10-05T15:41:56Z",
     "image_url": "https://i.guim.co.uk/img/media/eac9306bd0b85a9487189836a9fb6ca6d8beab4f/501_0_4710_3768/master/4710.jpg?width=140&quality=85&auto=format&fit=max&s=3dc4e2dca4253f4d546ad131cc3d9b10",
     "thumb_url": null,
     "category": "Politics",
@@ -223,18 +235,6 @@
     "url": "https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T15:34:10Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c914/live/2fffa270-a1cf-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3c171bee75",
-    "source": "BBC — Top Stories",
-    "title": "Piastri says Norris move 'not fair' as Russell wins",
-    "summary": "Tensions between title rivals Lando Norris and Oscar Piastri reach a new high as George Russell wins the Singapore Grand Prix.",
-    "url": "https://www.bbc.com/sport/formula1/articles/clyl8pd84r1o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T15:19:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c8d/live/66948430-a1e4-11f0-ab23-d127b1d8dfad.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
