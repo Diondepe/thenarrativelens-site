@@ -1,12 +1,108 @@
 [
   {
+    "id": "BBC — Top Stories-c73650b3fc",
+    "source": "BBC — Top Stories",
+    "title": "My approach will pay off eventually, says Tory leader Kemi Badenoch",
+    "summary": "The Conservative leader defends her leadership as the party's conference begins in Manchester",
+    "url": "https://www.bbc.com/news/articles/c1l81766g2qo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T12:25:51Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2510/live/e99ea350-a1d1-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-58320d7bd9",
+    "source": "BBC — Top Stories",
+    "title": "Five killed in large Russian missile and drone attack, Zelensky says",
+    "summary": "Russia says it carried out an overnight strike on Ukrainian military and infrastructure targets.",
+    "url": "https://www.bbc.com/news/articles/czjvlgzmp4wo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T12:22:35Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2274/live/5959c310-a1db-11f0-88d2-67f0fdc7ff28.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5a4d3e8372",
+    "source": "BBC — Top Stories",
+    "title": "Mosque fire being treated as arson and hate crime",
+    "summary": "Video appears to show two people in balaclavas at the mosque before a large blaze spreads.",
+    "url": "https://www.bbc.com/news/articles/cm2dglp43xmo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T12:18:24Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c39/live/eb4a9b10-a1d0-11f0-9dc7-95987a999c5f.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6d7021b8d5",
+    "source": "BBC — Top Stories",
+    "title": "Home secretary wants police to get more powers to restrict repeated protests",
+    "summary": "The move is not a ban on protests but \"about restrictions and conditions\", Shabana Mahmood tells the BBC.",
+    "url": "https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T12:15:12Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c914/live/2fffa270-a1cf-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-9f4d08f838",
     "source": "The Guardian — UK",
     "title": "Badenoch says her migration plan ‘credible’, but won’t say where 150,000 people a year being removed will go – UK politics live",
     "summary": "Conservative leader grilled over her removals proposal ahead of party conference opening later today The polling firm Opinium has released some research this morning suggesting that some Conservative party policies are popular with voters – but that, if people are explicitly told that they are Kemi Badenoch policies, their popularity goes down. There is some evidence that Keir Starmer’s unpopularity has the same effect – and that, once a policy is associated with him, voters are less inclined to back it . Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/oct/05/conservative-tory-conference-kemi-badenoch-echr-immigration-uk-politics-live-news-updates",
-    "published": "2025-10-05T11:06:03Z",
+    "published": "2025-10-05T12:00:57Z",
     "image_url": "https://i.guim.co.uk/img/media/00662208f0f1523415b8edeb215074d7ea6440c0/431_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f9a2470b384420af38d44e101181e0d4",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-43461b4af5",
+    "source": "BBC — Top Stories",
+    "title": "Tories pledge to remove 750,000 migrants under borders plan",
+    "summary": "The party unveils new policies on illegal migration as its annual conference begins in Manchester.",
+    "url": "https://www.bbc.com/news/articles/c708g5x2yqzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T11:58:17Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51dc/live/637c5ed0-a1d0-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e997bd50a6",
+    "source": "The Guardian — UK",
+    "title": "Police to get new powers to crack down on repeated protests, says Home Office",
+    "summary": "Move follows arrest of almost 500 people at latest pro-Palestinian demonstration in London on Saturday Ministers are to give police new powers to target repeated protests, aimed particularly at cracking down on demonstrations connected to Gaza, the Home Office has said. The announcement, made the morning after almost 500 people were arrested in London for expressing support for Palestine Action, a proscribed organisation, could allow police to order regular protests to take place at a different site. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/05/police-to-get-new-powers-to-crack-down-on-repeated-protests-says-home-office",
+    "published": "2025-10-05T11:36:05Z",
+    "image_url": "https://i.guim.co.uk/img/media/3c8dec7e8b1e2b12aa93520900de6772e9edd72c/497_0_2503_2003/master/2503.jpg?width=140&quality=85&auto=format&fit=max&s=d162c591d96a0531171e5c64f5efa191",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6ada891d8e",
+    "source": "BBC — Top Stories",
+    "title": "Trump authorises deployment of 300 National Guard troops to Chicago",
+    "summary": "The controversial move follows protests over ramped-up immigration enforcement and the shooting of a woman during unrest on Saturday.",
+    "url": "https://www.bbc.com/news/articles/c2dnk0ee6pyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T11:32:25Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0dd/live/4ac49720-a187-11f0-b1c5-b56e9bf8a857.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e52eea32e4",
+    "source": "BBC — Top Stories",
+    "title": "What we know about Manchester synagogue attack",
+    "summary": "Two Jewish people were killed in a car and stabbing attack at Heaton Park Hebrew Congregation Synagogue in Manchester on the holiest day in the Jewish religious calendar.",
+    "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T11:14:27Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e75f/live/9e76f8a0-a109-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -48,42 +144,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-58320d7bd9",
-    "source": "BBC — Top Stories",
-    "title": "Poland scrambles jets as Ukraine says five killed in Russian strikes",
-    "summary": "Ukraine's neighbour Poland and Nato scrambled fighter jets to ensure the safety of Polish airspace.",
-    "url": "https://www.bbc.com/news/articles/czjvlgzmp4wo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T10:25:43Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b08a/live/8e6ec6f0-a1c1-11f0-8717-15b6df652bfb.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-5a4d3e8372",
-    "source": "BBC — Top Stories",
-    "title": "Mosque fire being treated as arson and hate crime",
-    "summary": "Video appears to show two people in balaclavas at the mosque before a large blaze spreads.",
-    "url": "https://www.bbc.com/news/articles/cm2dglp43xmo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T10:21:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c39/live/eb4a9b10-a1d0-11f0-9dc7-95987a999c5f.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6d7021b8d5",
-    "source": "BBC — Top Stories",
-    "title": "Home secretary wants police to get more powers to restrict repeated protests",
-    "summary": "The move is not a ban on protests but \"about restrictions and conditions\", Shabana Mahmood tells the BBC.",
-    "url": "https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T10:11:29Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c914/live/2fffa270-a1cf-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-0db093dc55",
     "source": "Politico — UK",
     "title": "Israel, Hamas to discuss Trump peace plan Monday",
@@ -96,18 +156,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-c73650b3fc",
-    "source": "BBC — Top Stories",
-    "title": "My approach will pay off eventually, says Tory leader Kemi Badenoch",
-    "summary": "The Conservative leader defends her leadership as the party's conference begins in Manchester",
-    "url": "https://www.bbc.com/news/articles/c1l81766g2qo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T10:07:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2510/live/e99ea350-a1d1-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-b5785eb760",
     "source": "Politico — UK",
     "title": "Trump’s Gaza plan could work, with or without Hamas",
@@ -115,18 +163,6 @@
     "url": "https://www.politico.com/news/magazine/2025/10/04/trump-hamas-gaza-israel-00594076?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-05T10:02:26Z",
     "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-43461b4af5",
-    "source": "BBC — Top Stories",
-    "title": "Tories pledge to remove 750,000 migrants under borders plan",
-    "summary": "The party unveils new policies on illegal migration as its annual conference begins in Manchester.",
-    "url": "https://www.bbc.com/news/articles/c708g5x2yqzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T09:50:00Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51dc/live/637c5ed0-a1d0-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -163,18 +199,6 @@
     "url": "https://www.politico.eu/article/uk-conservatives-plan-trump-style-immigrant-deportation-force-ice-kemi-badenoch/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-05T08:41:49Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2239151339-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-e997bd50a6",
-    "source": "The Guardian — UK",
-    "title": "Police to get new powers to crack down on repeated protests, says Home Office",
-    "summary": "Move follows arrest of almost 500 people at latest pro-Palestinian demonstration in London on Saturday Ministers are to give police new powers to target repeated protests, aimed particularly at cracking down on demonstrations connected to Gaza, the Home Office has said. The announcement, made the morning after almost 500 people were arrested in London for expressing support for Palestine Action, a proscribed organisation, could allow police to order regular protests to take place at a different site. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/05/police-to-get-new-powers-to-crack-down-on-repeated-protests-says-home-office",
-    "published": "2025-10-05T08:22:58Z",
-    "image_url": "https://i.guim.co.uk/img/media/3c8dec7e8b1e2b12aa93520900de6772e9edd72c/497_0_2503_2003/master/2503.jpg?width=140&quality=85&auto=format&fit=max&s=d162c591d96a0531171e5c64f5efa191",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -240,6 +264,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-2cf17a760d",
+    "source": "BBC — Top Stories",
+    "title": "South Africa juggernaut rolls on - what we learned from Rugby Championship",
+    "summary": "South Africa beat Argentina to retain the Rugby Championship, but what did we learn about all four sides before they head to the northern hemisphere?",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/c2375g123zgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T05:15:06Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5695/live/481e3670-a15f-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-5cb3332298",
     "source": "The Guardian — UK",
     "title": "How Reform ‘misinformation’ campaign sank town’s refugee sanctuary plan",
@@ -278,7 +314,7 @@
   {
     "id": "BBC — Top Stories-1ec30e7a16",
     "source": "BBC — Top Stories",
-    "title": "'They're not just sharing needles, they're sharing blood': How HIV cases soared in Fiji",
+    "title": "Why HIV cases soared by more than 1,000% in this tiny Pacific country",
     "summary": "The small South Pacific nation is facing one of the world's fastest growing HIV epidemics.",
     "url": "https://www.bbc.com/news/articles/c0m42dwvlk8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T00:58:12Z",
@@ -307,18 +343,6 @@
     "url": "https://www.bbc.com/news/articles/cgq4e4vgz73o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T00:26:02Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ce0/live/2421cdb0-a1d0-11f0-92db-77261a15b9d2.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7ba0474ad2",
-    "source": "BBC — Top Stories",
-    "title": "Syria holds first elections since Assad, but not in all provinces",
-    "summary": "Three provinces will not be included \"for security reasons\", amid concerns over how representative the polls will be.",
-    "url": "https://www.bbc.com/news/articles/czrpx1vvr45o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T00:04:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba5/live/7fd003f0-a042-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -355,18 +379,6 @@
     "url": "https://www.theguardian.com/world/2025/oct/04/palestine-action-protest-police-arrests-london-demo",
     "published": "2025-10-04T21:27:28Z",
     "image_url": "https://i.guim.co.uk/img/media/51163e7da7d008c6cbcc9a4da5a69a6fa232b354/492_0_5196_4155/master/5196.jpg?width=140&quality=85&auto=format&fit=max&s=d814a7074d9145ceb6d4d1a0b6217346",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e52eea32e4",
-    "source": "BBC — Top Stories",
-    "title": "What we know about the attack",
-    "summary": "Two Jewish people were killed in a car and stabbing attack at Heaton Park Hebrew Congregation Synagogue in Manchester on the holiest day in the Jewish religious calendar.",
-    "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T21:21:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e75f/live/9e76f8a0-a109-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -420,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-7b15812ce4",
-    "source": "BBC — Top Stories",
-    "title": "Watch: Old Trafford's minute's silence for victims",
-    "summary": "Two people died and three people were injured in the attack at a synagogue on Thursday.",
-    "url": "https://www.bbc.com/news/videos/c89dnyz95k0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T16:15:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44fb/live/bb28d350-a13c-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-23cacb2f33",
     "source": "The Guardian — UK",
     "title": "Watchdog cleared ex-Tory minister to work for offshoot of firm linked to China surveillance",
@@ -475,18 +475,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/04/rise-of-katie-lam-next-tory-leader-migration",
     "published": "2025-10-04T12:00:05Z",
     "image_url": "https://i.guim.co.uk/img/media/f2d66c203873aec2f2737a7c18b9aca5864b0e24/2386_43_913_731/master/913.jpg?width=140&quality=85&auto=format&fit=max&s=f25aa8d9424ea6cc092481c510e692da",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3fbc9c90e2",
-    "source": "BBC — Top Stories",
-    "title": "'Fate stopped my son-in-law attending synagogue'",
-    "summary": "Mark Goldstone says his son-in-law's near miss on Thursday \"really brought it home\" to him.",
-    "url": "https://www.bbc.com/news/articles/c93057xzq95o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T11:13:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1902/live/706cbfa0-a10c-11f0-807b-c1a7ae4b635d.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -595,6 +583,18 @@
     "url": "https://www.theguardian.com/news/audio/2025/oct/01/from-the-archive-divine-comedy-the-standup-double-act-who-turned-to-the-priesthood-podcast",
     "published": "2025-10-01T04:00:03Z",
     "image_url": "https://i.guim.co.uk/img/media/42e122657513c3958e6aa3a2023f3aba0af42d6e/87_0_6638_5310/master/6638.jpg?width=140&quality=85&auto=format&fit=max&s=8a12b2b1f9f7412c9dc8f802dc167097",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-53515fb374",
+    "source": "BBC — Top Stories",
+    "title": "BBC News app",
+    "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+    "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+    "published": "2025-04-30T14:04:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
