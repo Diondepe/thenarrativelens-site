@@ -1,5 +1,53 @@
 [
   {
+    "id": "BBC — Top Stories-93f961c59c",
+    "source": "BBC — Top Stories",
+    "title": "Can Polanski's Greens turn momentum into power?",
+    "summary": "Under their new leader, the Green Party has hit levels of membership - but can his approach win over voters?",
+    "url": "https://www.bbc.com/news/articles/c9dx85q4dyzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T13:15:26Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/193b/live/d6d4a950-a167-11f0-8b70-39bf68f49b3e.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5a4d3e8372",
+    "source": "BBC — Top Stories",
+    "title": "Mosque fire being treated as arson and hate crime",
+    "summary": "Video appears to show two people in balaclavas at the mosque before a large blaze spreads.",
+    "url": "https://www.bbc.com/news/articles/cm2dglp43xmo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T13:10:06Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c39/live/eb4a9b10-a1d0-11f0-9dc7-95987a999c5f.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-145b07b028",
+    "source": "Politico — UK",
+    "title": "Patriots for Europe group rejoices over Babiš victory",
+    "summary": "Members of the far-right European Parliament group are ecstatic over the big win by the populist tycoon in Czech elections.",
+    "url": "https://www.politico.eu/article/patriots-for-europe-rejoice-czech-election-andrej-babis-victory/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-05T13:05:59Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2198362268-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-9f4d08f838",
+    "source": "The Guardian — UK",
+    "title": "Organisers of pro-Palestine Action protests threaten ‘major escalation’ over crackdown on marches – UK politics live",
+    "summary": "Defend Our Juries says there will be civil disobedience in ‘key towns and cities’ and calls proposed new powers for police ‘an affront to democracy’ The polling firm Opinium has released some research this morning suggesting that some Conservative party policies are popular with voters – but that, if people are explicitly told that they are Kemi Badenoch policies, their popularity goes down. There is some evidence that Keir Starmer’s unpopularity has the same effect – and that, once a policy is associated with him, voters are less inclined to back it . Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/05/conservative-tory-conference-kemi-badenoch-echr-immigration-uk-politics-live-news-updates",
+    "published": "2025-10-05T13:05:44Z",
+    "image_url": "https://i.guim.co.uk/img/media/11360267bd4ac15a95366b3a1b61019d5d79f6dd/326_0_3886_3109/master/3886.jpg?width=140&quality=85&auto=format&fit=max&s=5ddc805ec4315c2bcd3161438e799396",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-c73650b3fc",
     "source": "BBC — Top Stories",
     "title": "My approach will pay off eventually, says Tory leader Kemi Badenoch",
@@ -24,18 +72,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-5a4d3e8372",
-    "source": "BBC — Top Stories",
-    "title": "Mosque fire being treated as arson and hate crime",
-    "summary": "Video appears to show two people in balaclavas at the mosque before a large blaze spreads.",
-    "url": "https://www.bbc.com/news/articles/cm2dglp43xmo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T12:18:24Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c39/live/eb4a9b10-a1d0-11f0-9dc7-95987a999c5f.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-6d7021b8d5",
     "source": "BBC — Top Stories",
     "title": "Home secretary wants police to get more powers to restrict repeated protests",
@@ -43,18 +79,6 @@
     "url": "https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T12:15:12Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c914/live/2fffa270-a1cf-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-9f4d08f838",
-    "source": "The Guardian — UK",
-    "title": "Badenoch says her migration plan ‘credible’, but won’t say where 150,000 people a year being removed will go – UK politics live",
-    "summary": "Conservative leader grilled over her removals proposal ahead of party conference opening later today The polling firm Opinium has released some research this morning suggesting that some Conservative party policies are popular with voters – but that, if people are explicitly told that they are Kemi Badenoch policies, their popularity goes down. There is some evidence that Keir Starmer’s unpopularity has the same effect – and that, once a policy is associated with him, voters are less inclined to back it . Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/05/conservative-tory-conference-kemi-badenoch-echr-immigration-uk-politics-live-news-updates",
-    "published": "2025-10-05T12:00:57Z",
-    "image_url": "https://i.guim.co.uk/img/media/00662208f0f1523415b8edeb215074d7ea6440c0/431_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f9a2470b384420af38d44e101181e0d4",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -115,18 +139,6 @@
     "url": "https://www.politico.eu/article/poland-scrambles-jets-again-russia-strike-ukraine-lviv-border/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-05T10:46:03Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2238896668-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-93f961c59c",
-    "source": "BBC — Top Stories",
-    "title": "Can Polanski's Greens turn momentum into power?",
-    "summary": "Under their new leader, the Green Party has hit levels of membership - but can his approach win over voters?",
-    "url": "https://www.bbc.com/news/articles/c9dx85q4dyzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T10:43:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/193b/live/d6d4a950-a167-11f0-8b70-39bf68f49b3e.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -228,18 +240,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-550037c0a8",
-    "source": "BBC — Top Stories",
-    "title": "The younger Mbappe emerging from his brother's shadow",
-    "summary": "Being the brother of a football superstar is not easy. But Ethan Mbappe is aiming to emerge from the shadows and make a name for himself.",
-    "url": "https://www.bbc.com/sport/football/articles/c5ykwnj5weyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T06:27:17Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb8d/live/5deda580-9eda-11f0-9cc3-55b0375a170c.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-4c031d37e2",
     "source": "Politico — UK",
     "title": "5 key takeaways from the Czech election",
@@ -259,18 +259,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/05/richard-desmond-legal-action-over-national-lottery-award-to-begin-at-high-court",
     "published": "2025-10-05T06:00:28Z",
     "image_url": "https://i.guim.co.uk/img/media/7f5503043c6fb78baeebad4240083d48b235fbee/289_0_2422_1939/master/2422.jpg?width=140&quality=85&auto=format&fit=max&s=f03d5cfe387735b9b2bce197365aadd0",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-2cf17a760d",
-    "source": "BBC — Top Stories",
-    "title": "South Africa juggernaut rolls on - what we learned from Rugby Championship",
-    "summary": "South Africa beat Argentina to retain the Rugby Championship, but what did we learn about all four sides before they head to the northern hemisphere?",
-    "url": "https://www.bbc.com/sport/rugby-union/articles/c2375g123zgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T05:15:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5695/live/481e3670-a15f-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -396,6 +384,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-1dcdc1aafb",
+    "source": "BBC — Top Stories",
+    "title": "Manchester Synagogue Attack: PM Tells Protesters To ‘Respect Grief Of British Jews’",
+    "summary": "And Kemi Badenoch arrives in Manchester for Conservative conference.",
+    "url": "https://www.bbc.co.uk/sounds/play/p0m6sthm?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-04T18:20:00Z",
+    "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-0d7c09642d",
     "source": "The Guardian — UK",
     "title": "Police given permission to hold Manchester synagogue attack suspects until Wednesday",
@@ -439,18 +439,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/04/acoba-watchdog-richard-fuller-investcorp-securities-china-surveillance",
     "published": "2025-10-04T16:00:09Z",
     "image_url": "https://i.guim.co.uk/img/media/a19474afce0e76f1aff6ed7132c763302400d3f3/1163_0_3174_2539/master/3174.jpg?width=140&quality=85&auto=format&fit=max&s=6031e84c86f626cbf8986ca0ad9fe3b0",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-e1f1c2ace6",
-    "source": "Politico — UK",
-    "title": "Babiš triumphs in Czechia, sending ripples through the EU",
-    "summary": "The right-wing populist vows to slash support for Ukraine, challenge increased military spending and confront Brussels over the Green Deal.",
-    "url": "https://www.politico.eu/article/babis-poised-to-triumph-in-czech-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-04T15:25:05Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2238805359-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -559,6 +547,18 @@
     "url": "https://www.theguardian.com/news/audio/2025/oct/02/the-manchester-synagogue-terror-attack-today-in-focus-extra",
     "published": "2025-10-02T15:42:19Z",
     "image_url": "https://i.guim.co.uk/img/media/15c0d3de820071744e0f756c3b9872e36edf2d19/679_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=178a8011478f81cc224d93cc77e91492",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e8a474ece0",
+    "source": "BBC — Top Stories",
+    "title": "Watch on iPlayer: Access All Areas - When Country Comes to Town",
+    "summary": "Go behind the scenes as country music takes over the Royal Albert Hall.",
+    "url": "https://www.bbc.co.uk/iplayer/episode/m002k6z4?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-02T13:00:00Z",
+    "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m5wjh6.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
