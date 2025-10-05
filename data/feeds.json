@@ -1,5 +1,77 @@
 [
   {
+    "id": "BBC — Top Stories-e6a12c9306",
+    "source": "BBC — Top Stories",
+    "title": "As Gisèle Pelicot faces one of her rapists in court, what has changed in France?",
+    "summary": "Gisèle Pelicot's dominant stance was seen as a moment in France's MeToo movement but the enthusiasm appears to be wilting.",
+    "url": "https://www.bbc.com/news/articles/cdx2d9lynk1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T23:07:07Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4476/live/3e104390-a04b-11f0-b687-23a5afa8b42e.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5a201f7018",
+    "source": "BBC — Top Stories",
+    "title": "How China is challenging Nvidia's AI chip dominance",
+    "summary": "Beijing has urged local firms to use homemade chips. But is China ready to turn away from Nvidia?",
+    "url": "https://www.bbc.com/news/articles/cgmz2vm3yv8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T23:00:21Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9949/live/85746ea0-9cd6-11f0-8245-f3f629744491.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-9b144456f7",
+    "source": "The Guardian — UK",
+    "title": "One in four UK people fear a loved one drinks too much, survey finds",
+    "summary": "Poll of 2,000 people appears to underline experts’ concerns of growing ‘epidemic’ of addiction to alcohol or drugs One in four people in the UK fear that a partner, relative or friend drinks too much, while one in six worry that a loved one is taking too many drugs. The findings, from a representative survey of 2,000 adults, appear to underline what some experts say is a growing “epidemic” of addiction to alcohol or drugs such as cocaine and cannabis. 10% worry that they drink too much and 5% that they use drugs too often. 26% worry that a partner, family member or friend drinks too much. 16% are concerned about a loved one’s use of illegal drugs. Families that earn more than £50,000 a year are three times more likely to contain someone with an addiction problem. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/oct/06/one-in-four-uk-people-fear-a-loved-one-drinks-too-much-survey-finds",
+    "published": "2025-10-05T23:00:03Z",
+    "image_url": "https://i.guim.co.uk/img/media/a859b633790bc8805cfd1c9fa2c9cf44ebdacb20/0_0_4074_3261/master/4074.jpg?width=140&quality=85&auto=format&fit=max&s=2c522e5b49b7d1521b10efd17043ee42",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9cb2f6b37a",
+    "source": "BBC — Top Stories",
+    "title": "India wants to lure its best minds back from the US - but it won't be easy",
+    "summary": "Driving reverse migration from the US at scale will require a concerted effort that's currently missing, experts say.",
+    "url": "https://www.bbc.com/news/articles/c1792qwg85qo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T22:52:47Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71b9/live/6baa6cd0-9f70-11f0-a17e-772daa465cb5.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1e08fcba5d",
+    "source": "BBC — Top Stories",
+    "title": "Buyers could save hundreds in new house buying shakeup",
+    "summary": "Housing Secretary Steve Reed claims the changes would \"fix the broken system\" and put more money \"back into working people's pockets\".",
+    "url": "https://www.bbc.com/news/articles/cy0v7zwp0dlo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T22:31:27Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0623/live/488de0c0-a226-11f0-a2b9-abdd67c14f44.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-92462a1a91",
+    "source": "The Guardian — UK",
+    "title": "Gary Neville says he took down union flag being ‘used in a negative fashion’",
+    "summary": "Footballer turned developer questions spate of flag raisings and says ‘we’re all being turned on each other’ Gary Neville has revealed he removed a union flag from one of his Manchester development sites because it was being “used in a negative fashion”, as he urged his followers to question what it means to be patriotic. In a video posted on Friday, the day after a deadly attack at a Manchester synagogue, the former footballer turned property developer said he believed that “we’re all being turned on each other”, attributing much of the blame for the divide to “angry, middle-aged white men … who know exactly what they’re doing”. Continue reading...",
+    "url": "https://www.theguardian.com/football/2025/oct/05/gary-neville-says-he-took-down-a-union-flag-being-used-in-a-negative-fashion",
+    "published": "2025-10-05T22:27:59Z",
+    "image_url": "https://i.guim.co.uk/img/media/11e893cd5b523008164c1bd6daa3cca1277d2e03/1952_0_4761_3809/master/4761.jpg?width=140&quality=85&auto=format&fit=max&s=798db9dcaad097942643a37f43b41c27",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-eee6ce710e",
     "source": "Politico — UK",
     "title": "Fearing Farage, Britain’s Conservatives go full Trump",
@@ -31,18 +103,6 @@
     "url": "https://www.theguardian.com/money/2025/oct/05/uk-ministers-aim-to-speed-up-homebuying-by-four-weeks",
     "published": "2025-10-05T21:30:45Z",
     "image_url": "https://i.guim.co.uk/img/media/542ee80a049baf1424259d0c08af86de325601b2/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=0ae617baf9a0206accfa046a3e741d96",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-1e08fcba5d",
-    "source": "BBC — Top Stories",
-    "title": "Buyers could save hundreds in new house buying shakeup",
-    "summary": "Housing Secretary Steve Reed claims the changes would \"fix the broken system\" and put more money \"back into working people's pockets\".",
-    "url": "https://www.bbc.com/news/articles/cy0v7zwp0dlo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T21:30:27Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0623/live/488de0c0-a226-11f0-a2b9-abdd67c14f44.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -127,18 +187,6 @@
     "url": "https://www.bbc.com/news/articles/cvgjw9w339go?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T18:53:36Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6547/live/7c43cc00-a21b-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-d67fc063ff",
-    "source": "BBC — Top Stories",
-    "title": "Tories invoke Thatcher legacy in search of a comeback",
-    "summary": "The former PM has featured even more than usual at the party's conference, as activists mark her 100th birthday.",
-    "url": "https://www.bbc.com/news/articles/c23755eg09zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T18:40:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2a6/live/b61c2550-a1f6-11f0-947b-6b8b23372a50.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -288,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-7fc98cb9eb",
-    "source": "The Guardian — UK",
-    "title": "UK Jewish groups condemn Israeli minister’s invite to Tommy Robinson",
-    "summary": "Far-right activist described as ‘thug who represents worst of Britain’ after invitation to Israel sparks outrage Plans by an Israeli minister to host the British far-right activist Tommy Robinson have been condemned by Jewish bodies in the UK and others. The Board of Deputies of British Jews and the Jewish Leadership Council described Robinson, whose real name is Stephen Yaxley-Lennon, as “a thug” who represented the “very worst of Britain”. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/05/uk-jewish-groups-condemn-israeli-minister-invite-tommy-robinson-israel",
-    "published": "2025-10-05T15:41:56Z",
-    "image_url": "https://i.guim.co.uk/img/media/eac9306bd0b85a9487189836a9fb6ca6d8beab4f/501_0_4710_3768/master/4710.jpg?width=140&quality=85&auto=format&fit=max&s=3dc4e2dca4253f4d546ad131cc3d9b10",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-6d7021b8d5",
     "source": "BBC — Top Stories",
     "title": "Home secretary wants police to get more powers to restrict repeated protests",
@@ -444,30 +480,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e5826d8182",
-    "source": "BBC — Top Stories",
-    "title": "Before and after images show glaciers vanishing before our eyes",
-    "summary": "They are melting like never seen before, changing landscapes around the world beyond recognition.",
-    "url": "https://www.bbc.com/news/articles/ce32ezzq6zlo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T00:28:17Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20d7/live/a19d9d30-a07e-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-51dc169e51",
-    "source": "BBC — Top Stories",
-    "title": "Is waiting in a 12-hour queue the new cool thing to do? These people think so",
-    "summary": "Whether it's waiting in line to try a new bakery, or to grab a bargain at a sample sale, queuing is becoming an activity in itself.",
-    "url": "https://www.bbc.com/news/articles/cgq4e4vgz73o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T00:26:02Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ce0/live/2421cdb0-a1d0-11f0-92db-77261a15b9d2.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-9395cb0688",
     "source": "BBC — Top Stories",
     "title": "What exactly is freshers' flu - and why do so many get it?",
@@ -511,18 +523,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/04/rise-of-katie-lam-next-tory-leader-migration",
     "published": "2025-10-04T12:00:05Z",
     "image_url": "https://i.guim.co.uk/img/media/f2d66c203873aec2f2737a7c18b9aca5864b0e24/2386_43_913_731/master/913.jpg?width=140&quality=85&auto=format&fit=max&s=f25aa8d9424ea6cc092481c510e692da",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-c1ba852c4f",
-    "source": "The Guardian — UK",
-    "title": "Greens ‘on track’ to supplant Labour as favourite party in London, says Zack Polanski",
-    "summary": "Exclusive: poll asked voters to rank parties on how favourably they felt about them, with strong support in capital and among younger voters The Greens are viewed more favourably than any other party in London and among younger voters, polling produced for the party has shown, with its leader, Zack Polanski, saying this showed they were “on track” to supplant Labour. The YouGov poll, carried out to coincide with the Greens’ ongoing annual conference in Bournemouth, asked voters in England to rank the five main parties in order of how favourably they felt about them, rather than the usual metric of which they planned to vote for. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/04/greens-on-track-to-supplant-labour-as-favourite-party-in-london-says-zack-polanski",
-    "published": "2025-10-04T11:00:03Z",
-    "image_url": "https://i.guim.co.uk/img/media/9c219e7f7d2401713bf08979d3739f04b30a8549/0_100_2456_1964/master/2456.jpg?width=140&quality=85&auto=format&fit=max&s=676cf32f77db8cd66074accc04676410",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
