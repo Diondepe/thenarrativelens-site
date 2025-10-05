@@ -1,5 +1,89 @@
 [
   {
+    "id": "The Guardian — UK-9f4d08f838",
+    "source": "The Guardian — UK",
+    "title": "Badenoch addresses Tory conference after pledge to deport 150,000 a year – UK politics live",
+    "summary": "Party leader failed to address where people would be sent The polling firm Opinium has released some research this morning suggesting that some Conservative party policies are popular with voters – but that, if people are explicitly told that they are Kemi Badenoch policies, their popularity goes down. There is some evidence that Keir Starmer’s unpopularity has the same effect – and that, once a policy is associated with him, voters are less inclined to back it . Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/05/conservative-tory-conference-kemi-badenoch-echr-immigration-uk-politics-live-news-updates",
+    "published": "2025-10-05T14:08:39Z",
+    "image_url": "https://i.guim.co.uk/img/media/e3cd560e9fc1b080fc7b5ccf1008ca80a3d75b49/549_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2bd27b1ea6ff97ab7dcc17b25991cf28",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-7fc98cb9eb",
+    "source": "The Guardian — UK",
+    "title": "UK Jewish groups condemn Israeli minister’s invite to Tommy Robinson",
+    "summary": "Far-right activist described as ‘thug who represents worst of Britain’ after invitation to Israel sparks outrage Plans by an Israeli minister to host the British far-right activist Tommy Robinson have been condemned by Jewish bodies in the UK and others. The Board of Deputies of British Jews and the Jewish Leadership Council described Robinson, whose real name is Stephen Yaxley-Lennon, as “a thug” who represented the “very worst of Britain”. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/05/uk-jewish-groups-condemn-israeli-minister-invite-tommy-robinson-israel",
+    "published": "2025-10-05T14:00:06Z",
+    "image_url": "https://i.guim.co.uk/img/media/eac9306bd0b85a9487189836a9fb6ca6d8beab4f/501_0_4710_3768/master/4710.jpg?width=140&quality=85&auto=format&fit=max&s=3dc4e2dca4253f4d546ad131cc3d9b10",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e997bd50a6",
+    "source": "The Guardian — UK",
+    "title": "Police to get more anti-protest powers as supporters of Palestine Action vow ‘escalation’",
+    "summary": "Home secretary says police can consider ‘cumulative impact’ of repeated demonstrations to restrict protests Ministers are to give police greater powers to restrict protests by allowing them to consider the “cumulative impact” of demonstrations, as organisers of mass protests for the banned group Palestine Action pledged a “major escalation” of their campaign. Shabana Mahmood said on Sunday that repeated large-scale demonstrations over Gaza had caused “considerable fear” for the Jewish community. The home secretary promised to amend the Public Order Act 1986 to explicitly allow the police to take account of frequent protests on local areas in order to impose conditions on public processions and assemblies. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/05/police-to-get-new-powers-to-crack-down-on-repeated-protests-says-home-office",
+    "published": "2025-10-05T13:59:45Z",
+    "image_url": "https://i.guim.co.uk/img/media/3c8dec7e8b1e2b12aa93520900de6772e9edd72c/497_0_2503_2003/master/2503.jpg?width=140&quality=85&auto=format&fit=max&s=d162c591d96a0531171e5c64f5efa191",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-203c713c54",
+    "source": "BBC — Top Stories",
+    "title": "Anisimova beats Noskova to win China Open",
+    "summary": "Amanda Anisimova continues her breakout year with victory over Linda Noskova to win the China Open and claim her second WTA 1,000 title.",
+    "url": "https://www.bbc.com/sport/tennis/articles/czdjm237p1no?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T13:44:01Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96db/live/690e9d30-a1ea-11f0-ab23-d127b1d8dfad.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-d372804adb",
+    "source": "The Guardian — UK",
+    "title": "Ministers to announce significant changes to UK’s planning system",
+    "summary": "Exclusive: Differences over changes to environmental and legal provisions to prompt economic growth hint at chaos at heart of government Rachel Reeves is set to announce a round of planning changes before the budget as a way to kickstart Britain’s sluggish economic growth, but ministers are at odds over how radical to be. The chancellor will announce a number of moves designed to make it easier for developers to build houses and infrastructure projects, in the hope that they will fill about £3bn of her estimated £30bn black hole. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/05/ministers-significant-changes-uk-planning-system",
+    "published": "2025-10-05T13:30:44Z",
+    "image_url": "https://i.guim.co.uk/img/media/510ae088d2e0d583efe31a7f3fd71cebd9cd8798/272_0_4128_3304/master/4128.jpg?width=140&quality=85&auto=format&fit=max&s=c75de0b1a8a68cf64ab9e11925b384f5",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c73650b3fc",
+    "source": "BBC — Top Stories",
+    "title": "My approach will pay off eventually, says Tory leader Kemi Badenoch",
+    "summary": "The Conservative leader defends her leadership as the party's conference begins in Manchester",
+    "url": "https://www.bbc.com/news/articles/c1l81766g2qo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T13:25:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2510/live/e99ea350-a1d1-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-680a12ba62",
+    "source": "BBC — Top Stories",
+    "title": "EuroMillions £26m win claimed by UK ticket-holder",
+    "summary": "However, the winner of Saturday's £10.6m Lotto jackpot has yet to come forward.",
+    "url": "https://www.bbc.com/news/articles/cx2xdk15xk0o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T13:21:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185e/live/b8c203e0-a1e9-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-93f961c59c",
     "source": "BBC — Top Stories",
     "title": "Can Polanski's Greens turn momentum into power?",
@@ -36,30 +120,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-9f4d08f838",
-    "source": "The Guardian — UK",
-    "title": "Organisers of pro-Palestine Action protests threaten ‘major escalation’ over crackdown on marches – UK politics live",
-    "summary": "Defend Our Juries says there will be civil disobedience in ‘key towns and cities’ and calls proposed new powers for police ‘an affront to democracy’ The polling firm Opinium has released some research this morning suggesting that some Conservative party policies are popular with voters – but that, if people are explicitly told that they are Kemi Badenoch policies, their popularity goes down. There is some evidence that Keir Starmer’s unpopularity has the same effect – and that, once a policy is associated with him, voters are less inclined to back it . Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/05/conservative-tory-conference-kemi-badenoch-echr-immigration-uk-politics-live-news-updates",
-    "published": "2025-10-05T13:05:44Z",
-    "image_url": "https://i.guim.co.uk/img/media/11360267bd4ac15a95366b3a1b61019d5d79f6dd/326_0_3886_3109/master/3886.jpg?width=140&quality=85&auto=format&fit=max&s=5ddc805ec4315c2bcd3161438e799396",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-c73650b3fc",
-    "source": "BBC — Top Stories",
-    "title": "My approach will pay off eventually, says Tory leader Kemi Badenoch",
-    "summary": "The Conservative leader defends her leadership as the party's conference begins in Manchester",
-    "url": "https://www.bbc.com/news/articles/c1l81766g2qo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T12:25:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2510/live/e99ea350-a1d1-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-58320d7bd9",
     "source": "BBC — Top Stories",
     "title": "Five killed in large Russian missile and drone attack, Zelensky says",
@@ -84,6 +144,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-be040ad373",
+    "source": "BBC — Top Stories",
+    "title": "Watch: Moment Cricket World Cup match is stopped after insect infestation",
+    "summary": "Watch the moment play is interrupted following a large swarm of files distracting the players in the ICC Women's Cricket World Cup match between India and Pakistan in Columbo.",
+    "url": "https://www.bbc.com/sport/cricket/videos/c3rv0yp85v1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T12:13:09Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/759c/live/65e194a0-a1f4-11f0-92db-77261a15b9d2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-43461b4af5",
     "source": "BBC — Top Stories",
     "title": "Tories pledge to remove 750,000 migrants under borders plan",
@@ -91,42 +163,6 @@
     "url": "https://www.bbc.com/news/articles/c708g5x2yqzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T11:58:17Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51dc/live/637c5ed0-a1d0-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-e997bd50a6",
-    "source": "The Guardian — UK",
-    "title": "Police to get new powers to crack down on repeated protests, says Home Office",
-    "summary": "Move follows arrest of almost 500 people at latest pro-Palestinian demonstration in London on Saturday Ministers are to give police new powers to target repeated protests, aimed particularly at cracking down on demonstrations connected to Gaza, the Home Office has said. The announcement, made the morning after almost 500 people were arrested in London for expressing support for Palestine Action, a proscribed organisation, could allow police to order regular protests to take place at a different site. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/05/police-to-get-new-powers-to-crack-down-on-repeated-protests-says-home-office",
-    "published": "2025-10-05T11:36:05Z",
-    "image_url": "https://i.guim.co.uk/img/media/3c8dec7e8b1e2b12aa93520900de6772e9edd72c/497_0_2503_2003/master/2503.jpg?width=140&quality=85&auto=format&fit=max&s=d162c591d96a0531171e5c64f5efa191",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6ada891d8e",
-    "source": "BBC — Top Stories",
-    "title": "Trump authorises deployment of 300 National Guard troops to Chicago",
-    "summary": "The controversial move follows protests over ramped-up immigration enforcement and the shooting of a woman during unrest on Saturday.",
-    "url": "https://www.bbc.com/news/articles/c2dnk0ee6pyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T11:32:25Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0dd/live/4ac49720-a187-11f0-b1c5-b56e9bf8a857.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e52eea32e4",
-    "source": "BBC — Top Stories",
-    "title": "What we know about Manchester synagogue attack",
-    "summary": "Two Jewish people were killed in a car and stabbing attack at Heaton Park Hebrew Congregation Synagogue in Manchester on the holiest day in the Jewish religious calendar.",
-    "url": "https://www.bbc.com/news/articles/cd63p1djgd7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T11:14:27Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e75f/live/9e76f8a0-a109-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -384,18 +420,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-1dcdc1aafb",
-    "source": "BBC — Top Stories",
-    "title": "Manchester Synagogue Attack: PM Tells Protesters To ‘Respect Grief Of British Jews’",
-    "summary": "And Kemi Badenoch arrives in Manchester for Conservative conference.",
-    "url": "https://www.bbc.co.uk/sounds/play/p0m6sthm?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T18:20:00Z",
-    "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-0d7c09642d",
     "source": "The Guardian — UK",
     "title": "Police given permission to hold Manchester synagogue attack suspects until Wednesday",
@@ -427,30 +451,6 @@
     "url": "https://www.politico.com/news/2025/10/04/washingtons-push-to-break-up-big-tech-hits-a-shutdown-00593635?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-04T16:20:34Z",
     "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-23cacb2f33",
-    "source": "The Guardian — UK",
-    "title": "Watchdog cleared ex-Tory minister to work for offshoot of firm linked to China surveillance",
-    "summary": "Acoba advised Richard Fuller he could take up post with Investcorp Securities, a subsidiary of private equity firm backing Sense Time A government watchdog advised a former minister that he could work with a subsidiary of a company linked to Chinese surveillance technology, the Guardian can reveal. Richard Fuller, who served as economic secretary to the Treasury in the governments of Boris Johnson and Liz Truss, wrote to the Advisory Committee on Business Appointments (Acoba) before joining Investcorp Securities as an advisory board member in 2023. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/04/acoba-watchdog-richard-fuller-investcorp-securities-china-surveillance",
-    "published": "2025-10-04T16:00:09Z",
-    "image_url": "https://i.guim.co.uk/img/media/a19474afce0e76f1aff6ed7132c763302400d3f3/1163_0_3174_2539/master/3174.jpg?width=140&quality=85&auto=format&fit=max&s=6031e84c86f626cbf8986ca0ad9fe3b0",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-2951c528c3",
-    "source": "The Guardian — UK",
-    "title": "London’s royal parks closed due to strong winds; Scotland hit by power cuts and travel disruption – Storm Amy as it happened",
-    "summary": "This blog has now closed, you can read more on this story here The Environment Agency has issued two flood alerts where “flooding is expected” for Keswick Campsite in the Lake District and locations near the River Ure, particularly around Boroughbridge Camping and Caravanning Site in North Yorkshire. “Avoid using low-lying footpaths and any bridges near local watercourses. Take care and avoid walking, cycling or driving through flood water,” it advises. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/live/2025/oct/04/storm-amy-live-updates-latest-news-uk-ireland-weather-warnings-met-office",
-    "published": "2025-10-04T14:51:48Z",
-    "image_url": "https://i.guim.co.uk/img/media/b6964fa416732e89ad2a82fde0903735420e05f0/516_0_2635_2108/master/2635.jpg?width=140&quality=85&auto=format&fit=max&s=7ce47d22bc306af7335f011211c46e07",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
