@@ -1,12 +1,84 @@
 [
   {
+    "id": "Politico — UK-dc7185bff1",
+    "source": "Politico — UK",
+    "title": "Crowds clash with police during Gaza solidarity protests in Rome",
+    "summary": "The unrest started as Israel intercepted the pro-Palestinian Global Sumud Flotilla attempting to carry humanitarian aid to the Gaza Strip.",
+    "url": "https://www.politico.eu/article/gaza-solidarity-protest-rome-italy-clash-police/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-05T09:13:06Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2238891043-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6d7021b8d5",
+    "source": "BBC — Top Stories",
+    "title": "Home secretary wants police to get more powers to restrict repeated protests",
+    "summary": "The move is not a ban on protests but \"about restrictions and conditions\", Shabana Mahmood tells the BBC.",
+    "url": "https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T09:11:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8765/live/aa222bf0-a1c9-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-9f4d08f838",
     "source": "The Guardian — UK",
-    "title": "Tory conference to open as Home Office announces plan to strengthen anti-protest laws – UK politics live",
-    "summary": "New measures will make it easier for police to stop protests by considering ‘cumulative’ effect of demonstrations The polling firm Opinium has released some research this morning suggesting that some Conservative party policies are popular with voters – but that, if people are explicitly told that they are Kemi Badenoch policies, their popularity goes down. There is some evidence that Keir Starmer’s unpopularity has the same effect – and that, once a policy is associated with him, voters are less inclined to back it . Continue reading...",
+    "title": "Badenoch says her migration plan ‘credible’, but won’t say where 150,000 people a year being removed will go – UK politics live",
+    "summary": "Conservative leader grilled over her removals proposal ahead of party conference opening later today The polling firm Opinium has released some research this morning suggesting that some Conservative party policies are popular with voters – but that, if people are explicitly told that they are Kemi Badenoch policies, their popularity goes down. There is some evidence that Keir Starmer’s unpopularity has the same effect – and that, once a policy is associated with him, voters are less inclined to back it . Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/oct/05/conservative-tory-conference-kemi-badenoch-echr-immigration-uk-politics-live-news-updates",
-    "published": "2025-10-05T08:02:51Z",
-    "image_url": "https://i.guim.co.uk/img/media/070a48f58b985f23c9b5d38719ae508c04ede0e2/253_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=01c481aa94fa934228177409def82d80",
+    "published": "2025-10-05T09:09:32Z",
+    "image_url": "https://i.guim.co.uk/img/media/00662208f0f1523415b8edeb215074d7ea6440c0/431_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f9a2470b384420af38d44e101181e0d4",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-40685b445b",
+    "source": "Politico — UK",
+    "title": "US states try getting tough on political violence after Charlie Kirk killing",
+    "summary": "Lawmakers have been grappling with violence legislation after a year of targeted attacks.",
+    "url": "https://www.politico.com/news/2025/10/04/states-try-getting-tough-on-political-violence-after-charlie-kirk-killing-00593925?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-05T08:58:08Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-58320d7bd9",
+    "source": "BBC — Top Stories",
+    "title": "Poland scrambles jets as Ukraine says 5 killed in Russian strikes",
+    "summary": "Ukraine's neighbour Poland and Nato scrambled fighter jets to ensure the safety of Polish airspace.",
+    "url": "https://www.bbc.com/news/articles/czjvlgzmp4wo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T08:41:58Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b08a/live/8e6ec6f0-a1c1-11f0-8717-15b6df652bfb.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-5c9e19a4be",
+    "source": "Politico — UK",
+    "title": "UK Conservatives plan US-style deportation force",
+    "summary": "The \"Removals Force\" would work closely with British police to conduct regular immigration checks.",
+    "url": "https://www.politico.eu/article/uk-conservatives-plan-trump-style-immigrant-deportation-force-ice-kemi-badenoch/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-05T08:41:49Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2234918767-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e997bd50a6",
+    "source": "The Guardian — UK",
+    "title": "Police to get new powers to crack down on repeated protests, says Home Office",
+    "summary": "Move follows arrest of almost 500 people at latest pro-Palestinian demonstration in London on Saturday Ministers are to give police new powers to target repeated protests, aimed particularly at cracking down on demonstrations connected to Gaza, the Home Office has said. The announcement, made the morning after almost 500 people were arrested in London for expressing support for Palestine Action, a proscribed organisation, could allow police to order regular protests to take place at a different site. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/05/police-to-get-new-powers-to-crack-down-on-repeated-protests-says-home-office",
+    "published": "2025-10-05T08:22:58Z",
+    "image_url": "https://i.guim.co.uk/img/media/3c8dec7e8b1e2b12aa93520900de6772e9edd72c/497_0_2503_2003/master/2503.jpg?width=140&quality=85&auto=format&fit=max&s=d162c591d96a0531171e5c64f5efa191",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -24,6 +96,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-5a4d3e8372",
+    "source": "BBC — Top Stories",
+    "title": "Mosque fire being treated as arson and hate crime",
+    "summary": "Video appears to show two people in balaclavas at the mosque before a large blaze spreads.",
+    "url": "https://www.bbc.com/news/articles/cm2dglp43xmo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T07:50:15Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1c5/live/cdd0fa30-a1b6-11f0-bd9d-890904e0d38e.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-68f7b6e8c9",
     "source": "BBC — Top Stories",
     "title": "How the US got left behind in the global electric car race",
@@ -31,42 +115,6 @@
     "url": "https://www.bbc.com/news/articles/c8ex2l58en4o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T07:45:21Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1211/live/e939d750-9fbe-11f0-b73e-e715acbd6a10.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6d7021b8d5",
-    "source": "BBC — Top Stories",
-    "title": "Police to get broader powers to restrict repeated protests",
-    "summary": "Officers will be able to tell organisers to move demonstrations if protests have caused \"repeated disorder\".",
-    "url": "https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T07:43:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b0e/live/83592530-a1b7-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-58320d7bd9",
-    "source": "BBC — Top Stories",
-    "title": "Poland scrambles jets as Russia strikes western Ukraine",
-    "summary": "Ukraine's neighbour Poland and Nato scrambled fighter jets to ensure the safety of Polish airspace.",
-    "url": "https://www.bbc.com/news/articles/czjvlgzmp4wo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T07:23:18Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b08a/live/8e6ec6f0-a1c1-11f0-8717-15b6df652bfb.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-e997bd50a6",
-    "source": "The Guardian — UK",
-    "title": "Police to get new powers to crack down on repeated protests, says Home Office",
-    "summary": "Move follows arrest of almost 500 people at latest pro-Palestinian demonstration in London on Saturday Ministers are to give police new powers to target repeated protests, aimed particularly at cracking down on demonstrations connected to Gaza, the Home Office has said. The announcement, made the morning after almost 500 people were arrested in London for expressing support for Palestine Action, a proscribed organisation, could allow police to order regular protests to take place at a different site. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/05/police-to-get-new-powers-to-crack-down-on-repeated-protests-says-home-office",
-    "published": "2025-10-05T07:19:08Z",
-    "image_url": "https://i.guim.co.uk/img/media/3c8dec7e8b1e2b12aa93520900de6772e9edd72c/497_0_2503_2003/master/2503.jpg?width=140&quality=85&auto=format&fit=max&s=d162c591d96a0531171e5c64f5efa191",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -264,18 +312,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-7e920bbd48",
-    "source": "BBC — Top Stories",
-    "title": "Environment prize nominees 'heroes of our time', says William",
-    "summary": "Fifteen projects are shortlisted for a chance of winning the top £1m prizes at next month's environmental awards ceremony in Rio de Janeiro.",
-    "url": "https://www.bbc.com/news/articles/cz08591znr8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T21:04:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86a5/live/4f93edc0-a16c-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-43461b4af5",
     "source": "BBC — Top Stories",
     "title": "Tories pledge to remove 750,000 migrants under borders plan",
@@ -366,7 +402,7 @@
     "summary": "The right-wing populist vows to slash support for Ukraine, challenge increased military spending and confront Brussels over the Green Deal.",
     "url": "https://www.politico.eu/article/babis-poised-to-triumph-in-czech-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-04T15:25:05Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/04/GettyImages-2238580945-scaled.jpg",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2238805359-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -468,30 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-f228071f60",
-    "source": "Politico — UK",
-    "title": "What it means to raise a Jewish child in Britain",
-    "summary": "The boundaries of public behavior we allow need to be redrawn and that means recognizing “free” speech and assembly can corrode the sense of safety that communities should be able to enjoy.",
-    "url": "https://www.politico.eu/article/what-it-means-raising-jewish-child-britain-synagogue-attack-manchester/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-04T10:02:02Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/04/GettyImages-2238582227-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-976567df4f",
-    "source": "Politico — UK",
-    "title": "Cautious optimism in Europe over Gaza peace plan",
-    "summary": "Hamas' response to Trump's 20-point proposal offers a glimmer of hope after months of fighting in the Gaza Strip.",
-    "url": "https://www.politico.eu/article/cautious-optimism-europe-over-gaza-peace-plan-hamas-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-04T09:56:09Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/04/GettyImages-2238709199-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-411c653dab",
     "source": "The Guardian — UK",
     "title": "Family firm of Reform UK council leader threatened with compulsory strike off",
@@ -499,18 +511,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/04/family-firm-of-reform-uk-council-leader-threatened-with-compulsory-strike-off",
     "published": "2025-10-04T09:00:01Z",
     "image_url": "https://i.guim.co.uk/img/media/609947bc629c312666691e9601a05000fb571d7c/138_23_1562_1250/master/1562.jpg?width=140&quality=85&auto=format&fit=max&s=8fdb7c2d1fb5ba54e2cd7afd640e96ce",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-9a6844952a",
-    "source": "Politico — UK",
-    "title": "Trump says Hamas ready for ‘PEACE,’ calls on Israel to stop bombing",
-    "summary": "Should Israel agree to the ceasefire and Hamas release the hostages, the peace deal stands to be the most significant achievement of Trump’s second term.",
-    "url": "https://www.politico.com/news/2025/10/03/trump-hamas-peace-israel-00593989?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-04T08:29:02Z",
-    "image_url": null,
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
