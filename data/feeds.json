@@ -1,5 +1,29 @@
 [
   {
+    "id": "Politico — UK-4c031d37e2",
+    "source": "Politico — UK",
+    "title": "5 key takeaways from the Czech election",
+    "summary": "The path to the premiership is anything but straightforward for right-wing populist Andrej Babiš, whose ANO movement won big in the parliamentary vote.",
+    "url": "https://www.politico.eu/article/five-key-takeaways-from-the-czech-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-05T06:09:31Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/10/31/andrej-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-632ad70fee",
+    "source": "The Guardian — UK",
+    "title": "Richard Desmond legal action over National Lottery award to begin at high court",
+    "summary": "Billionaire suing Gambling Commission for up to £1.3bn over licence award, with payout potentially funded by the taxpayer The media billionaire Richard Desmond will begin a bitter courtroom battle with the Gambling Commission this week that could cost taxpayers hundreds of millions of pounds in a row over the licence to run the National Lottery. Northern & Shell and The New Lottery Company (TNLC), owned by Desmond, are suing the gambling regulator for up to £1.3bn, alleging “manifest errors” in the labyrinthine competition process for Britain’s largest public sector contract, the lottery licence. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/05/richard-desmond-legal-action-over-national-lottery-award-to-begin-at-high-court",
+    "published": "2025-10-05T06:00:28Z",
+    "image_url": "https://i.guim.co.uk/img/media/7f5503043c6fb78baeebad4240083d48b235fbee/289_0_2422_1939/master/2422.jpg?width=140&quality=85&auto=format&fit=max&s=f03d5cfe387735b9b2bce197365aadd0",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-5cb3332298",
     "source": "The Guardian — UK",
     "title": "How Reform ‘misinformation’ campaign sank town’s refugee sanctuary plan",
@@ -27,7 +51,7 @@
     "id": "BBC — Top Stories-5a4d3e8372",
     "source": "BBC — Top Stories",
     "title": "Fire at East Sussex mosque probed as 'hate crime'",
-    "summary": "While no one was injured in the incident, the entrance of the building and a vehicle parked outside were damaged, police say.",
+    "summary": "Video appears to show two people in balaclavas at the mosque before a large blaze spreads.",
     "url": "https://www.bbc.com/news/articles/cm2dglp43xmo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T04:06:25Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b74a/live/8af16a60-a19d-11f0-bc08-4961626437d4.jpg",
@@ -432,18 +456,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-c1ba852c4f",
-    "source": "The Guardian — UK",
-    "title": "Greens ‘on track’ to supplant Labour as favourite party in London, says Zack Polanski",
-    "summary": "Exclusive: poll asked voters to rank parties on how favourably they felt about them, with strong support in capital and among younger voters The Greens are viewed more favourably than any other party in London and among younger voters, polling produced for the party has shown, with its leader, Zack Polanski, saying this showed they were “on track” to supplant Labour. The YouGov poll, carried out to coincide with the Greens’ ongoing annual conference in Bournemouth, asked voters in England to rank the five main parties in order of how favourably they felt about them, rather than the usual metric of which they planned to vote for. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/04/greens-on-track-to-supplant-labour-as-favourite-party-in-london-says-zack-polanski",
-    "published": "2025-10-04T11:00:03Z",
-    "image_url": "https://i.guim.co.uk/img/media/9c219e7f7d2401713bf08979d3739f04b30a8549/0_100_2456_1964/master/2456.jpg?width=140&quality=85&auto=format&fit=max&s=676cf32f77db8cd66074accc04676410",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-f228071f60",
     "source": "Politico — UK",
     "title": "What it means to raise a Jewish child in Britain",
@@ -486,18 +498,6 @@
     "summary": "Should Israel agree to the ceasefire and Hamas release the hostages, the peace deal stands to be the most significant achievement of Trump’s second term.",
     "url": "https://www.politico.com/news/2025/10/03/trump-hamas-peace-israel-00593989?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-04T08:29:02Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-0b54f451db",
-    "source": "Politico — UK",
-    "title": "Hegseth fires top US Navy official",
-    "summary": "Jon Harrison is the latest Pentagon official who Defense Secretary Pete Hegseth has removed from office.",
-    "url": "https://www.politico.com/news/2025/10/03/top-navy-official-fired-00593997?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-04T08:04:11Z",
     "image_url": null,
     "thumb_url": null,
     "category": "Politics",
