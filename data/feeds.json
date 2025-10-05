@@ -1,5 +1,41 @@
 [
   {
+    "id": "The Guardian — UK-d2bc6ba0b2",
+    "source": "The Guardian — UK",
+    "title": "Suspected arson attack at East Sussex mosque investigated as hate crime",
+    "summary": "Fire at mosque in Peacehaven on Saturday night left front entrance damaged and a car burnt out A suspected arson attack on a mosque in an English seaside town is being investigated by police as a hate crime. The front entrance to the mosque in Peacehaven, East Sussex, was damaged and a car parked outside was entirely burnt out after the incident on Saturday night, which has been condemned by political figures and faith groups. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/05/suspected-arson-attack-mosque-investigated-hate-east-sussex",
+    "published": "2025-10-05T21:07:01Z",
+    "image_url": "https://i.guim.co.uk/img/media/15b0d498d21db22eeb791d20d0c2db5b17985612/476_0_4760_3808/master/4760.jpg?width=140&quality=85&auto=format&fit=max&s=37f69ab2578afadcf20c161f20a388a7",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-31b9de597a",
+    "source": "BBC — Top Stories",
+    "title": "Rangers sack head coach Russell Martin after 17 games",
+    "summary": "Russell Martin is sacked as Rangers head coach after 17 games in charge in the wake of Sunday's 1-1 draw with Falkirk.",
+    "url": "https://www.bbc.com/sport/football/articles/c4gwrplwyz8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T20:45:18Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb8/live/2e98bdd0-a22f-11f0-bad1-135fa7f86807.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-971395782e",
+    "source": "BBC — Top Stories",
+    "title": "Cavers safe after 30-hour rescue during Storm Amy",
+    "summary": "Rescue teams battled severe weather and flooding at Dowber Gill Passage in the Yorkshire Dales.",
+    "url": "https://www.bbc.com/news/articles/cly6x3xvyy0o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T20:09:45Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc60/live/2fa8c7e0-a227-11f0-9a8d-55d7ff06f061.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-790cddcaf6",
     "source": "BBC — Top Stories",
     "title": "Thousands gather in London to mark two years since 7 October attacks",
@@ -204,18 +240,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e21fc5c4b7",
-    "source": "BBC — Top Stories",
-    "title": "Georgia protesters try to storm Tbilisi presidential palace",
-    "summary": "Police used pepper spray to disperse demonstrators amid growing turmoil in the Caucasus country.",
-    "url": "https://www.bbc.com/news/articles/ce86kgnj7zro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T16:05:36Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5b2/live/76a96bd0-a147-11f0-9be2-514f62a90aaf.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-7fc98cb9eb",
     "source": "The Guardian — UK",
     "title": "UK Jewish groups condemn Israeli minister’s invite to Tommy Robinson",
@@ -247,18 +271,6 @@
     "url": "https://www.politico.eu/article/georgia-pm-irakli-kobakhidze-imposes-major-crackdown-dissent-eu-meddling-demonstration-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-05T15:15:08Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2238355956-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-d2bc6ba0b2",
-    "source": "The Guardian — UK",
-    "title": "Suspected arson attack at East Sussex mosque investigated as hate crime",
-    "summary": "Fire at mosque in Peacehaven on Saturday night left front entrance damaged and a car burnt out A suspected arson attack on a mosque in an English seaside town is being investigated by police as a hate crime. The front entrance to the mosque in Peacehaven, East Sussex, was damaged and a car parked outside was entirely burnt out after the incident on Saturday night, which has been condemned by political figures and faith groups. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/05/suspected-arson-attack-mosque-investigated-hate-east-sussex",
-    "published": "2025-10-05T14:29:45Z",
-    "image_url": "https://i.guim.co.uk/img/media/15b0d498d21db22eeb791d20d0c2db5b17985612/476_0_4760_3808/master/4760.jpg?width=140&quality=85&auto=format&fit=max&s=37f69ab2578afadcf20c161f20a388a7",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -379,18 +391,6 @@
     "url": "https://www.bbc.com/news/articles/c1471r6e27jo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T07:53:32Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/9fb487d0-a1b0-11f0-9fd2-579c9a6035d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-68f7b6e8c9",
-    "source": "BBC — Top Stories",
-    "title": "How the US got left behind in the global electric car race",
-    "summary": "Despite a recent surge in demand, the US is a laggard in EV sales compared to much of the rest of the world.",
-    "url": "https://www.bbc.com/news/articles/c8ex2l58en4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T07:45:21Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1211/live/e939d750-9fbe-11f0-b73e-e715acbd6a10.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
