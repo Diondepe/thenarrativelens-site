@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-1e08fcba5d",
+    "source": "BBC — Top Stories",
+    "title": "Buyers could save hundreds in new house buying shakeup",
+    "summary": "Under new proposals, sellers and estate agents will have to provide key information about a property up front.",
+    "url": "https://www.bbc.com/news/articles/cy0v7zwp0dlo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T06:08:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0623/live/488de0c0-a226-11f0-a2b9-abdd67c14f44.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-77fcfe52bd",
+    "source": "BBC — Top Stories",
+    "title": "Chris Mason: Why protests have started a debate over 'Britishness'",
+    "summary": "Against the backdrop of grief after the Manchester attack, there is debate about which tenets should be fundamental in our society, writes Chris Mason.",
+    "url": "https://www.bbc.com/news/articles/c7840dv7n4po?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T06:01:51Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afef/live/acb32710-a279-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-bcb7e8da59",
+    "source": "BBC — Top Stories",
+    "title": "Former England rugby captain Lewis Moody reveals MND diagnosis",
+    "summary": "Former England captain Lewis Moody reveals he has been diagnosed with motor neurone disease in an exclusive BBC interview.",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/cz7rddrrlqno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T06:00:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d040/live/48ea27d0-a1f5-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-f9eabe6489",
+    "source": "The Guardian — UK",
+    "title": "Home Office grants extra visas for UCL international students told to defer",
+    "summary": "Hundreds of students with promised places had been left in limbo after university exceeded its visa allocations Hundreds of international students will be able to take up their promised places after negotiations between the Home Office and University College London ended with the government granting extra visas. Hundreds of students, many from China, had been left in limbo after UCL underestimated the demand for places this year and exceeded its allocation of confirmation of acceptance for studies (CAS) electronic documents allowed by the Home Office. Continue reading...",
+    "url": "https://www.theguardian.com/education/2025/oct/06/home-office-grants-extra-visas-for-ucl-international-students-told-to-defer",
+    "published": "2025-10-06T06:00:02Z",
+    "image_url": "https://i.guim.co.uk/img/media/ebda5975620ed48db4f9d7a1687b5ce11b81c4a7/665_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bf3a214e3b6f2d0f2877e1437f7329c1",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-59ae96546c",
+    "source": "BBC — Top Stories",
+    "title": "'It's difficult to receive' - Moody on MND diagnosis",
+    "summary": "Speaking to BBC Breakfast's Sally Nugent, 2003 Rugby World Cup winner and former England captain Lewis Moody reveals that he has been diagnosed with motor neurone disease (MND).",
+    "url": "https://www.bbc.com/sport/rugby-union/videos/c3w50126393o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T05:59:51Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e75d/live/4fb16bb0-a27b-11f0-92db-77261a15b9d2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-e3cd5c5ce1",
     "source": "Politico — UK",
     "title": "Friedensplan Nahost: Spielt Deutschland eine Rolle?",
@@ -38,7 +98,7 @@
   {
     "id": "BBC — Top Stories-e4a7af9d7f",
     "source": "BBC — Top Stories",
-    "title": "'Police could get power to ban protests' and 'PM must come clean over China'",
+    "title": "The Papers: 'Police could get power to ban protests' and 'PM must come clean over China'",
     "summary": "Home Secretary Shabana Mahmood has said police could be allowed to ban protests outright, the Times reports.",
     "url": "https://www.bbc.com/news/articles/cj6x36p7001o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T03:51:50Z",
@@ -98,7 +158,7 @@
   {
     "id": "Politico — UK-3b9ff5abed",
     "source": "Politico — UK",
-    "title": "Home alone: Sardinian villages hunt for new residents",
+    "title": "Sardinia’s demographic winter: Cash, €1 houses and a fight against extinction",
     "summary": "The smallest communities offer houses for peanuts and cash to those who want to relocate, start businesses and have kids.",
     "url": "https://www.politico.eu/article/home-alone-sardinian-villages-hunt-for-new-residents/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-06T02:01:00Z",
@@ -216,18 +276,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-f352af9c21",
-    "source": "BBC — Top Stories",
-    "title": "Trump urges mediators to 'move fast' as key Gaza peace talks set to begin",
-    "summary": "Strikes have continued in Gaza as negotiators prepare to head to Egypt for talks starting on Monday.",
-    "url": "https://www.bbc.com/news/articles/cj3y6g43248o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T23:53:33Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf8/live/ebb15440-a261-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-0fc89ac88f",
     "source": "BBC — Top Stories",
     "title": "BBC finds Russian guards, Iranian trucks and rusting railway on Trump's Caucasus peace route",
@@ -235,30 +283,6 @@
     "url": "https://www.bbc.com/news/articles/c78nr234v5mo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T23:43:19Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf6a/live/1991bf20-9b01-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3b3fb7b5e5",
-    "source": "BBC — Top Stories",
-    "title": "The indigenous weavers who aim for empowerment over exploitation",
-    "summary": "The makers of Colombia's popular mochila bags can earn good money, but are at risk of being underpaid.",
-    "url": "https://www.bbc.com/news/articles/c62lnkvmn12o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T23:19:10Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/900a/live/f9622fd0-9300-11f0-a647-dff301f4a439.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4ab8b2dd51",
-    "source": "BBC — Top Stories",
-    "title": "Jim Gavin exits Irish presidential race 'with immediate effect'",
-    "summary": "He said in a statement he had \"made a mistake that was not in keeping with my character and the standards I set myself\".",
-    "url": "https://www.bbc.com/news/articles/cz6946ez6dqo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T23:14:58Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a9b/live/b2bfcf90-9861-11f0-b567-dbb771c68d85.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -282,7 +306,7 @@
     "summary": "Gisèle Pelicot's dominant stance was seen as a moment in France's MeToo movement but the enthusiasm appears to be wilting.",
     "url": "https://www.bbc.com/news/articles/cdx2d9lynk1o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T23:07:07Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d52/live/a0ad6580-a25a-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea4a/live/a58cb880-a27d-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -314,7 +338,7 @@
   {
     "id": "BBC — Top Stories-9cb2f6b37a",
     "source": "BBC — Top Stories",
-    "title": "India wants to lure its best minds back from the US - but it won't be easy",
+    "title": "India wants to lure back its best minds after H-1B visa chaos - but it won't be easy",
     "summary": "Driving reverse migration from the US at scale will require a concerted effort that's currently missing, experts say.",
     "url": "https://www.bbc.com/news/articles/c1792qwg85qo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T22:52:47Z",
@@ -372,18 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-31b9de597a",
-    "source": "BBC — Top Stories",
-    "title": "Rangers sack head coach Russell Martin after 17 games",
-    "summary": "Russell Martin is sacked as Rangers head coach after 17 games in charge in the wake of Sunday's 1-1 draw with Falkirk.",
-    "url": "https://www.bbc.com/sport/football/articles/c4gwrplwyz8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T20:45:18Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4060/live/241bbf50-a235-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-971395782e",
     "source": "BBC — Top Stories",
     "title": "Cavers safe after 30-hour rescue during Storm Amy",
@@ -391,6 +403,18 @@
     "url": "https://www.bbc.com/news/articles/cly6x3xvyy0o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T20:09:45Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc60/live/2fa8c7e0-a227-11f0-9a8d-55d7ff06f061.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-422462a316",
+    "source": "BBC — Top Stories",
+    "title": "First celebrity leaves Strictly after dance-off",
+    "summary": "Two couples squared off against each other on Sunday night, leading to one pair departing the show.",
+    "url": "https://www.bbc.com/news/articles/c20zeyynnrgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T19:08:00Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7b2/live/59b049e0-a20f-11f0-8493-b191e68f6c5a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -444,25 +468,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-c091e29ed4",
+    "id": "The Guardian — UK-9f4d08f838",
     "source": "The Guardian — UK",
-    "title": "Badenoch says Tories open to quitting more treaties to increase deportations",
-    "summary": "Party leader uses conference speech to outline proposal for UK to exit ECHR as part of wider bonfire of protections A future Tory government would be open to dismantling more treaties as a means to deport people from the UK, Kemi Badenoch has said at the start of a Conservative party conference focused almost exclusively on immigration policy. Making the first of two addresses to the gathering in Manchester, the Tory leader formally set out her proposal for the UK to quit the European convention on human rights (ECHR) as part of a wider bonfire of protections including an end to legal aid in immigration and asylum cases and the right to take migration decisions to tribunals or judicial review. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/05/badenoch-says-tories-could-quit-more-treaties-to-increase-deportations",
-    "published": "2025-10-05T17:36:31Z",
-    "image_url": "https://i.guim.co.uk/img/media/82f2d65ab7cac70b499a2cae09abaaaf564fc2dd/3168_1621_5175_4139/master/5175.jpg?width=140&quality=85&auto=format&fit=max&s=bb3696184d276edcd1778a25aaf7cf12",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6d7021b8d5",
-    "source": "BBC — Top Stories",
-    "title": "Home secretary wants police to get more powers to restrict repeated protests",
-    "summary": "The move is not a ban on protests but \"about restrictions and conditions\", Shabana Mahmood tells the BBC.",
-    "url": "https://www.bbc.com/news/articles/c24rmdngrrjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T15:34:10Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c914/live/2fffa270-a1cf-11f0-928c-71dbb8619e94.jpg",
+    "title": "Pro-Palestine marches have become ‘carnivals of hatred’, Badenoch tells Tory conference – as it happened",
+    "summary": "Party leader says Britain has allowed extremism to go unchecked The polling firm Opinium has released some research this morning suggesting that some Conservative party policies are popular with voters – but that, if people are explicitly told that they are Kemi Badenoch policies, their popularity goes down. There is some evidence that Keir Starmer’s unpopularity has the same effect – and that, once a policy is associated with him, voters are less inclined to back it . Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/05/conservative-tory-conference-kemi-badenoch-echr-immigration-uk-politics-live-news-updates",
+    "published": "2025-10-05T17:34:39Z",
+    "image_url": "https://i.guim.co.uk/img/media/e3cd560e9fc1b080fc7b5ccf1008ca80a3d75b49/549_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2bd27b1ea6ff97ab7dcc17b25991cf28",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -511,18 +523,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/04/acoba-watchdog-richard-fuller-investcorp-securities-china-surveillance",
     "published": "2025-10-04T16:00:09Z",
     "image_url": "https://i.guim.co.uk/img/media/a19474afce0e76f1aff6ed7132c763302400d3f3/1163_0_3174_2539/master/3174.jpg?width=140&quality=85&auto=format&fit=max&s=6031e84c86f626cbf8986ca0ad9fe3b0",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-645fb71338",
-    "source": "The Guardian — UK",
-    "title": "Next Tory leader? Rise of Katie Lam reflects rightward shift on migration",
-    "summary": "Shadow Home Office minister who tweets in language of hard-right populism is talked of as future of conservatism Pictured on her official website smiling on a country walk with her golden retriever, Katie Lam looks every inch the traditional Conservative MP. But make no mistake: this is a very modern breed of Tory, and one whose rise gives a clue to the current direction of UK politics. Still only 34 and in parliament for little over a year, Lam is named almost ubiquitously by fellow Conservatives as a likely future leader – even, some venture, a direct replacement for Kemi Badenoch. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/04/rise-of-katie-lam-next-tory-leader-migration",
-    "published": "2025-10-04T12:00:05Z",
-    "image_url": "https://i.guim.co.uk/img/media/f2d66c203873aec2f2737a7c18b9aca5864b0e24/2386_43_913_731/master/913.jpg?width=140&quality=85&auto=format&fit=max&s=f25aa8d9424ea6cc092481c510e692da",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
