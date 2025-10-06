@@ -1,5 +1,53 @@
 [
   {
+    "id": "BBC — Top Stories-d873fdff71",
+    "source": "BBC — Top Stories",
+    "title": "One iPhone led police to gang suspected of sending up to 40,000 stolen UK phones to China",
+    "summary": "BBC News is given access to what the Met Police says is the UK's largest operation against mobile phone thefts.",
+    "url": "https://www.bbc.com/news/articles/c20vlpwrzwdo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T21:00:30Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9e5/live/fbcd2ac0-a2b6-11f0-b741-177e3e2c2fc7.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-8d733ff78e",
+    "source": "The Guardian — UK",
+    "title": "People claim London crime is rising because it suits them, Met commander says",
+    "summary": "Nigel Farage and right-wing commentators seek to portray capital as ‘lawless’ despite evidence to the contrary Claims that London is becoming more dangerous despite the crime figures indicating otherwise are being made because it suits some people, a senior police commander has said. The Reform UK leader, Nigel Farage, and right-wing commentators have increasingly sought to portray the capital as a “lawless” city from which high net-worth individuals are fleeing. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/06/people-claim-london-crime-is-rising-because-it-suits-them-met-commander-says",
+    "published": "2025-10-06T21:00:23Z",
+    "image_url": "https://i.guim.co.uk/img/media/8f80d36a0dd27f7bcd67e5264571ea1ba1b6c9a0/432_0_3391_2712/master/3391.jpg?width=140&quality=85&auto=format&fit=max&s=f98f64f397f55b6bfe364aa2f88a2569",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-68d8e92699",
+    "source": "Politico — UK",
+    "title": "Israel-Hamas ceasefire could happen next week, German minister says",
+    "summary": "Speaking two years after the Oct. 7 attacks, Foreign Minister Johann Wadephul says waning Western support for Israeli action in Gaza was predictable.",
+    "url": "https://www.politico.eu/article/israel-hamas-ceasefire-germany-foreign-minister-johann-wadephul-war-in-gaza/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-06T20:57:21Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-2237706153-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-9fe4490070",
+    "source": "Politico — UK",
+    "title": "French farce: Macron accepts PM’s resignation, then tasks him with emergency talks",
+    "summary": "Macron has no good cards left and appears to be playing for time as France's political and economic crisis escalates.",
+    "url": "https://www.politico.eu/article/french-farce-emmanuel-macron-accept-sebastien-lecornu-resignation-tasks-emergency-talk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-06T20:34:17Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-2224455586-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-67296ef62f",
     "source": "BBC — Top Stories",
     "title": "Footage shows synagogue attacker minutes before killing",
@@ -15,7 +63,7 @@
     "id": "BBC — Top Stories-9a4ffc6731",
     "source": "BBC — Top Stories",
     "title": "New Supreme Court term will reshape Trump's powers",
-    "summary": "Legal challenges have been the main means of slowing Trump's unilateral power grab attempts. That's about to change",
+    "summary": "Legal challenges have slowed Trump's attempts to expand presidential power. Now the highest US court is going to weigh in.",
     "url": "https://www.bbc.com/news/articles/cly959ppezeo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T20:08:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c9a/live/721ac360-a2f1-11f0-b741-177e3e2c2fc7.jpg",
@@ -228,18 +276,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-485894f11f",
-    "source": "The Guardian — UK",
-    "title": "Jonathan Powell to face MPs over role in collapse of espionage trial",
-    "summary": "National security adviser to answer questions over abandonment of a major Chinese spying case against two Britons Jonathan Powell will appear before parliament for the first time amid questions about his role in the collapse of a trial of two Britons accused of spying for China. Keir Starmer’s national security adviser is due to be quizzed by senior parliamentarians at a private hearing of the joint committee on the national security strategy in the coming weeks. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/06/jonathan-powell-to-face-mps-over-role-in-collapse-of-espionage-trial",
-    "published": "2025-10-06T17:05:16Z",
-    "image_url": "https://i.guim.co.uk/img/media/2ca33512587eec1990dc98edf85af1742c25aca4/0_9_1096_876/master/1096.jpg?width=140&quality=85&auto=format&fit=max&s=d9effa9de514985318a9f0a0d943a0db",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-7d009b7a8b",
     "source": "BBC — Top Stories",
     "title": "Woman stalked Madeleine McCann's family, jury told",
@@ -384,30 +420,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-433430c253",
-    "source": "Politico — UK",
-    "title": "The fall of France’s 14-hour government",
-    "summary": "What on earth just happened in France? We can help.",
-    "url": "https://www.politico.eu/article/french-government-fall-emmanuel-macron-sebastien-lecornu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-06T15:05:38Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/13406137-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-3382ad7bc9",
-    "source": "Politico — UK",
-    "title": "Senior Tory wants US-style political appointees to push through deportations",
-    "summary": "Shadow Home Secretary Chris Philp laments lack of political clout at top of UK's immigration department.",
-    "url": "https://www.politico.eu/article/senior-tory-wants-us-style-political-appointees-home-office-push-through-deportations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-06T15:02:07Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-2239382185-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-123d41c97a",
     "source": "The Guardian — UK",
     "title": "Tories say people denied benefits in UK can return to home countries",
@@ -487,18 +499,6 @@
     "url": "https://www.bbc.com/sport/rugby-union/articles/cz7rddrrlqno?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T06:00:04Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d040/live/48ea27d0-a1f5-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-fcd71d8310",
-    "source": "BBC — Top Stories",
-    "title": "Masterpiece murals by Hogarth open to public after £9.5m hospital restoration",
-    "summary": "The restoration of the north wing has \"recaptured its beauty and dignity\", the project teams says.",
-    "url": "https://www.bbc.com/news/articles/c701y97xj70o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T05:01:49Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6be6/live/9ea73e30-a04a-11f0-9251-31c97a45eb73.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
