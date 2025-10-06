@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-67296ef62f",
+    "source": "BBC — Top Stories",
+    "title": "Footage shows synagogue attacker minutes before killing",
+    "summary": "Footage given to the BBC shows a man matching the description of the attacker given by witnesses.",
+    "url": "https://www.bbc.com/news/articles/c62ne93n090o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T20:15:47Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e0d/live/45112cf0-a2b1-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9a4ffc6731",
+    "source": "BBC — Top Stories",
+    "title": "New Supreme Court term will reshape Trump's powers",
+    "summary": "Legal challenges have been the main means of slowing Trump's unilateral power grab attempts. That's about to change",
+    "url": "https://www.bbc.com/news/articles/cly959ppezeo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T20:08:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c9a/live/721ac360-a2f1-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-0abfb97f5b",
+    "source": "The Guardian — UK",
+    "title": "Tories set a low bar after misspelling Britain on conference chocolate",
+    "summary": "Misprinted wrappers pulled from Manchester goodie bags after derision on social media A chocolate bar given out by the Conservatives at their annual party conference misspelled the name of the country they are hoping to govern. The confectionery, in a blue wrapper, featured a slogan from the Tory party leader with an incorrect spelling of Britain. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/06/conservative-party-misspell-britain-conference-chocolate-bar",
+    "published": "2025-10-06T19:55:47Z",
+    "image_url": "https://i.guim.co.uk/img/media/71dfa8bc883799e06e289da0a5bccdecf4622e03/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fca13f251fb9a5bad81c02b7f2b75da3",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-c24edca7e0",
     "source": "BBC — Top Stories",
     "title": "US Supreme Court rejects Ghislaine Maxwell appeal in Epstein case",
@@ -168,18 +204,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-67296ef62f",
-    "source": "BBC — Top Stories",
-    "title": "Footage shows synagogue attacker minutes before killing",
-    "summary": "Footage given to the BBC shows a man matching the description of the attacker given by witnesses.",
-    "url": "https://www.bbc.com/news/articles/c62ne93n090o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T17:16:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e0d/live/45112cf0-a2b1-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-91bad1e105",
     "source": "The Guardian — UK",
     "title": "Nearly two thirds of Tory members want pact with Reform, poll suggests, with close to half supporting full merger – as it happened",
@@ -211,18 +235,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/06/jonathan-powell-to-face-mps-over-role-in-collapse-of-espionage-trial",
     "published": "2025-10-06T17:05:16Z",
     "image_url": "https://i.guim.co.uk/img/media/2ca33512587eec1990dc98edf85af1742c25aca4/0_9_1096_876/master/1096.jpg?width=140&quality=85&auto=format&fit=max&s=d9effa9de514985318a9f0a0d943a0db",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-d6ed653dcc",
-    "source": "The Guardian — UK",
-    "title": "Thames Water removes 100-tonne fatberg from west London sewer",
-    "summary": "Toxic mass chiselled out of Feltham pipes amid campaign to stop people tipping harmful substances down drains A team of water engineers have spent a month blasting and chiselling a 100-tonne fatberg loose from under the streets of west London. The blockage consisting mainly of wet wipes glued together by congealed fat, oil and grease, was the equivalent in mass of eight doubledecker buses, stuck 10 metres below street level. Continue reading...",
-    "url": "https://www.theguardian.com/environment/2025/oct/06/thames-water-removes-100-tonne-fatberg-from-feltham-sewer-west-london",
-    "published": "2025-10-06T17:02:18Z",
-    "image_url": "https://i.guim.co.uk/img/media/ac403bf8a1d17c95b474b3c51fd5021c9e4704f5/0_262_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=de8f4b030ba3b522e46e798fca30aa1d",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -499,18 +511,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/06/mps-pay-watchdog-ipsa-public-say-politicians-funded",
     "published": "2025-10-06T04:00:08Z",
     "image_url": "https://i.guim.co.uk/img/media/4cf861fa34b646f822c91aa0770211bfeb463efe/107_0_4534_3628/master/4534.jpg?width=140&quality=85&auto=format&fit=max&s=edaf2b280091f53988dd8ef2cb972860",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f20f1fcac0",
-    "source": "BBC — Top Stories",
-    "title": "Does your relationship have a swag gap, and is that always a bad thing?",
-    "summary": "People on TikTok are lamenting past relationships they've described as having swag gaps - an obvious style difference.",
-    "url": "https://www.bbc.com/news/articles/cr4qp4nlppko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T01:27:59Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3f7/live/fc3d1220-a28b-11f0-928c-71dbb8619e94.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
