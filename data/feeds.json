@@ -1,9 +1,45 @@
 [
   {
+    "id": "BBC — Top Stories-c24edca7e0",
+    "source": "BBC — Top Stories",
+    "title": "US Supreme Court rejects Ghislaine Maxwell appeal in Epstein case",
+    "summary": "The British socialite is serving a 20-year prison sentence on sex-trafficking charges related to former boyfriend Jeffrey Epstein.",
+    "url": "https://www.bbc.com/news/articles/cn83e6q7lq4o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T19:11:11Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd26/live/1f0875e0-a2d4-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5f00542f1c",
+    "source": "BBC — Top Stories",
+    "title": "First-year resident doctors back strike action over jobs shortage",
+    "summary": "British Medical Association say 30,000 medics were chasing 10,000 jobs this year.",
+    "url": "https://www.bbc.com/news/articles/cly147075p2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T18:51:14Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b567/live/b3b82fb0-a2dd-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-267fadb052",
+    "source": "The Guardian — UK",
+    "title": "Jaguar Land Rover aims to restart limited production after cyber-attack",
+    "summary": "Wolverhampton expected to be first plant to resume output, with some workers understood to have returned Some factory workers at Jaguar Land Rover (JLR) returned to work on Monday, with the British manufacturer hoping to start making a limited number of cars as soon as this week after a crippling cyber-attack. The first factory expected to restart production is at Wolverhampton in the West Midlands , where JLR makes engines. Some workers are understood to have returned to the site on Monday. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/06/jaguar-land-rover-restart-production-cyberattack",
+    "published": "2025-10-06T18:26:58Z",
+    "image_url": "https://i.guim.co.uk/img/media/3a5b0333e3cdae13d1c7b449e722660775a06eea/39_0_4818_3856/master/4818.jpg?width=140&quality=85&auto=format&fit=max&s=0a0c325be7a551e020732d18d901e07c",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-960ba00ba9",
     "source": "The Guardian — UK",
-    "title": "DfE failure to plan for Covid school closures was ‘extraordinary dereliction of duty’, academy head tells inquiry",
-    "summary": "Jon Coles tells of shock at lack of planning by government and says it was ‘perfectly clear’ schools would likely close The leader of one of the largest academy trusts in England has described the Department for Education’s failure to do any planning for school closures before lockdown in March 2020 as “an extraordinary dereliction of duty”. Jon Coles, the chief executive of the United Learning Trust, told the UK Covid-19 inquiry he nearly fell off his chair when he read a statement from the former education secretary Gavin Williamson, in which he said there was zero planning for closures because the priority was keeping schools open. Continue reading...",
+    "title": "Lack of school closure plan ‘an extraordinary dereliction of duty’, Covid inquiry told",
+    "summary": "Academy trust head Jon Coles says he nearly fell off his chair when Gavin Williamson said no plan was in place The leader of one of the largest academy trusts in England has described the Department for Education’s failure to do any planning for school closures before lockdown in March 2020 as “an extraordinary dereliction of duty”. Jon Coles, the chief executive of United Learning, told the UK Covid-19 inquiry he nearly fell off his chair when he read a statement from Gavin Williamson, the education secretary at the time, in which he said there was zero planning for closures because the priority was keeping schools open. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/06/dfe-failure-to-plan-for-covid-school-closures-was-extraordinary-dereliction-of-duty-academy-head-tells-inquiry",
     "published": "2025-10-06T18:13:39Z",
     "image_url": "https://i.guim.co.uk/img/media/75b4ebf8e722e98085138efd7f1101a6a5f41fda/288_0_1331_1065/master/1331.jpg?width=140&quality=85&auto=format&fit=max&s=dc68e2868fe476f1c7fa3476f8f2651f",
@@ -15,7 +51,7 @@
     "id": "Politico — UK-7732ad7f09",
     "source": "Politico — UK",
     "title": "13 things we learned from von der Leyen’s no-confidence debate",
-    "summary": "“The world is in the most precarious and perilous state it has been for decades,\" European Commission president tells lawmakers as she urges them to keep her in post.",
+    "summary": "“The world is in the most precarious and perilous state it has been for decades,\" the European Commission president tells lawmakers as she urges them to keep her in post.",
     "url": "https://www.politico.eu/article/13-things-learned-ursula-von-der-leyens-no-confidence-debate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-06T18:11:41Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/13406986-scaled.jpg",
@@ -62,7 +98,7 @@
   {
     "id": "The Guardian — UK-b53aa1f4a1",
     "source": "The Guardian — UK",
-    "title": "Robert Jenrick complained of ‘not seeing another white face’ in part of Birmingham",
+    "title": "Robert Jenrick complained of ‘not seeing another white face’ in Birmingham neighbourhood",
     "summary": "Shadow justice secretary criticised for suggesting he could tell how integrated Handsworth was based on short visit Robert Jenrick complained about visiting an area of Birmingham where he “didn’t see another white face” and said it was not the kind of country he wanted to live in. After highlighting the lack of white people, the shadow justice secretary said it was not about “the colour of your skin or your faith” and he wanted people to live alongside each other. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/oct/06/robert-jenrick-complained-of-not-seeing-another-white-face-in-handsworth-birmingham",
     "published": "2025-10-06T18:00:19Z",
@@ -78,7 +114,7 @@
     "summary": "\"I am astonished that after everything that has happened in Ukraine, she still thinks this way,\" a former leader says of ex-German Chancellor Angela Merkel.",
     "url": "https://www.politico.eu/article/angela-merkel-blast-poland-baltics-share-blame-russia-invasion-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-06T17:50:53Z",
-    "image_url": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-2237711689.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -192,18 +228,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-df09515fc7",
-    "source": "The Guardian — UK",
-    "title": "Woman who claimed to be Madeleine McCann stalked missing girl’s parents, court told",
-    "summary": "Julia Wandelt described as a conspiracy theorist who had previously pretended to be two other missing children A woman claiming to be Madeleine McCann broke down in the dock as a Leicester jury was told she was a conspiracy theorist who could not be the missing child. Julia Wandelt, 24, is accused of stalking Kate and Gerry McCann, the parents of Madeleine who was three when she disappeared on holiday in the Portuguese resort of Praia da Luz in 2007. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/06/woman-who-claimed-to-be-madeleine-mccann-stalked-missing-girls-parents-court-told",
-    "published": "2025-10-06T17:02:17Z",
-    "image_url": "https://i.guim.co.uk/img/media/8dbd3f3706f1af8947530563a7825710b9044e0c/322_0_1440_1152/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=ff1eb0c1c7b366e314e5044a0ae3bf7e",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-7d009b7a8b",
     "source": "BBC — Top Stories",
     "title": "Woman stalked Madeleine McCann's family, jury told",
@@ -240,18 +264,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-5f00542f1c",
-    "source": "BBC — Top Stories",
-    "title": "First-year resident doctors back strike action over jobs shortage",
-    "summary": "British Medical Association say 30,000 medics were chasing 10,000 jobs this year.",
-    "url": "https://www.bbc.com/news/articles/cly147075p2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T16:28:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b567/live/b3b82fb0-a2dd-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-616aedab9c",
     "source": "BBC — Top Stories",
     "title": "Chris Mason: Bleak reality of opposition sets in for Conservatives",
@@ -271,6 +283,18 @@
     "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/update-regierungsvakuum-in-frankreich-zwischen-hass-und-frieden-im-nahen-osten/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-06T16:09:31Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/Berlin-Playbook-Website-card-1-1-1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-923e4a46ee",
+    "source": "The Guardian — UK",
+    "title": "Reform UK likely to raise council tax in Kent despite promise to cut costs",
+    "summary": "Kent becomes latest local authority controlled by Nigel Farage’s party to signal intention to raise council tax A Reform UK-run council where the party sought to pilot drastic cost-cutting plans is going to have to raise council tax, a cabinet member has admitted. Services at Kent county council were already “down to the bare bones”, said Reform’s cabinet member for adult social care, Diane Morton. It makes Kent the latest local authority controlled by Nigel Farage’s party to signal its intention to raise council tax. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/06/reform-uk-likely-to-raise-council-tax-in-kent-despite-promises-of-cost-cutting-drive",
+    "published": "2025-10-06T16:05:14Z",
+    "image_url": "https://i.guim.co.uk/img/media/5fdae1145a6b9fb8c188e82a5b7b7e3d3e80ef87/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ee913bbdfdf850fd390b680472f2ff4f",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -319,18 +343,6 @@
     "url": "https://www.bbc.com/news/articles/cwydzenj6epo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T15:37:26Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a7/live/7746ac00-a2a1-11f0-94eb-2d0a64a6f1c0.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-c24edca7e0",
-    "source": "BBC — Top Stories",
-    "title": "US Supreme Court rejects Ghislaine Maxwell appeal in Epstein case",
-    "summary": "The British socialite is serving a 20-year prison sentence on sex-trafficking charges related to former boyfriend Jeffrey Epstein.",
-    "url": "https://www.bbc.com/news/articles/cn83e6q7lq4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T15:34:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd26/live/1f0875e0-a2d4-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,18 +547,6 @@
     "url": "https://www.theguardian.com/football/2025/oct/05/gary-neville-says-he-took-down-a-union-flag-being-used-in-a-negative-fashion",
     "published": "2025-10-05T22:27:59Z",
     "image_url": "https://i.guim.co.uk/img/media/11e893cd5b523008164c1bd6daa3cca1277d2e03/1952_0_4761_3809/master/4761.jpg?width=140&quality=85&auto=format&fit=max&s=798db9dcaad097942643a37f43b41c27",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-e997bd50a6",
-    "source": "The Guardian — UK",
-    "title": "Civil liberty groups express concern over plan for more anti-protest powers",
-    "summary": "Home secretary says police can consider ‘cumulative impact’ of rallies as Palestine Action ban opponents vow ‘escalation’ Civil liberty groups have expressed concern over government plans to hand police in England and Wales greater powers to restrict protests as organisers of mass demonstrations against the banning of Palestine Action pledged a “major escalation” of their campaign. Shabana Mahmood said on Sunday that repeated large-scale demonstrations over Gaza had caused “considerable fear” for the Jewish community in the wake of a fatal terror attack on a synagogue last week. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/05/police-to-get-new-powers-to-crack-down-on-repeated-protests-says-home-office",
-    "published": "2025-10-05T18:27:16Z",
-    "image_url": "https://i.guim.co.uk/img/media/3c8dec7e8b1e2b12aa93520900de6772e9edd72c/497_0_2503_2003/master/2503.jpg?width=140&quality=85&auto=format&fit=max&s=d162c591d96a0531171e5c64f5efa191",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
