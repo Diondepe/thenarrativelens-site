@@ -1,5 +1,113 @@
 [
   {
+    "id": "Politico — UK-0ff7b42897",
+    "source": "Politico — UK",
+    "title": "Multimilliarden AWS Cloud-Projekt in Brandenburg erhält eigenständige Governance",
+    "summary": "AWS startet die European Sovereign Cloud in Brandenburg: vollständig in der EU betrieben, mit eigener Governance und klaren Sicherheitsstandards für digitale Souveränität.",
+    "url": "https://www.politico.eu/sponsored-content/multimilliarden-aws-cloud-projekt-in-brandenburg-erhalt-eigenstandige-governance/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-06T03:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/30/Ad1-1-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-117f7d436a",
+    "source": "Politico — UK",
+    "title": "AWS plant bis 2026 8,8 Milliarden Euro in Deutschland zu investieren",
+    "summary": "AWS investiert 8,8 Mrd. € in Deutschland und schafft tausende Jobs. Zusätzlich fließen 7,8 Mrd. € in die neue European Sovereign Cloud in Brandenburg.",
+    "url": "https://www.politico.eu/sponsored-content/aws-plant-bis-2026-88-milliarden-euro-in-deutschland-zu-investieren/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-06T03:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/30/Ad2-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-1d5687d858",
+    "source": "Politico — UK",
+    "title": "‘Worse than Trump’s tariffs’: EU steel protections are poised to pummel British industry",
+    "summary": "The EU is preparing to reduce foreign steel quotas by almost half as part of new measures set to be proposed next week.",
+    "url": "https://www.politico.eu/article/donald-trump-steel-tariffs-eu-british-industry-metal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-06T02:17:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/GettyImages-2224425783-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-5af5164fe8",
+    "source": "Politico — UK",
+    "title": "Russia’s blacklisted tankers keep dumping oil in Europe’s seas",
+    "summary": "Shadow fleet vessels sailed unimpeded in EU waters after leaving slicks near the continent.",
+    "url": "https://www.politico.eu/article/russia-blacklisted-tankers-vessels-keep-dumping-oil-europe-sea-despite-sanction/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-06T02:14:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/02/GettyImages-2231437712-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-3b9ff5abed",
+    "source": "Politico — UK",
+    "title": "Home alone: Sardinian villages hunt for new residents",
+    "summary": "The smallest communities offer houses for peanuts and cash to those who want to relocate, start businesses and have kids.",
+    "url": "https://www.politico.eu/article/home-alone-sardinian-villages-hunt-for-new-residents/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-06T02:01:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/08/22/Empty-benches-in-Baradili-photo-by-Tommaso-Lecca-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-3654af61a0",
+    "source": "Politico — UK",
+    "title": "Politics in wartime — Ukraine-style",
+    "summary": "Election jockeying is well underway in Kyiv, even with the timing unknown as Russian bombs fall.",
+    "url": "https://www.politico.eu/article/volodymyr-zelenskyy-ukrainian-politics-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-06T02:01:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/GettyImages-2238334992-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-9d733422da",
+    "source": "Politico — UK",
+    "title": "Why von der Leyen will face repeated challenges to her position",
+    "summary": "As the European Commission president braces for another no-confidence vote debate on Monday, she knows the tests will keep coming.",
+    "url": "https://www.politico.eu/article/eu-ursula-von-der-leyen-confidence-vote-repeat-challenge-position-parliament/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-06T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/13399030-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6361d3b86a",
+    "source": "BBC — Top Stories",
+    "title": "Apple and Samsung users could be due share of £480m payout",
+    "summary": "Consumer group Which? is taking tech giant Qualcomm to the Competition Appeal Tribunal in London on Monday.",
+    "url": "https://www.bbc.com/news/articles/cn0rn7rwk24o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T01:33:58Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bbe/live/c4446f00-a1e4-11f0-ab23-d127b1d8dfad.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f20f1fcac0",
+    "source": "BBC — Top Stories",
+    "title": "Does your relationship have a swag gap, and is that always a bad thing?",
+    "summary": "People on TikTok are lamenting past relationships they've described as having swag gaps - an obvious style difference.",
+    "url": "https://www.bbc.com/news/articles/cr4qp4nlppko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T01:27:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c164/live/755a26f0-a130-11f0-b741-177e3e2c2fc7.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-3061d8ab15",
     "source": "BBC — Top Stories",
     "title": "Why time matters for Tory MPs deciding Kemi Badenoch's future",
@@ -14,7 +122,7 @@
   {
     "id": "BBC — Top Stories-396f3c6e52",
     "source": "BBC — Top Stories",
-    "title": "Conservatives to announce £5,000 tax rebate for young homebuyers",
+    "title": "Conservatives to pledge £5,000 tax rebate for young homebuyers",
     "summary": "Speaking at the party's conference, Shadow chancellor Mel Stride will say the proposal will be funded by cuts to public spending worth £47bn.",
     "url": "https://www.bbc.com/news/articles/c4gzv9j78dyo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T01:11:05Z",
@@ -48,18 +156,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-eccb710685",
-    "source": "BBC — Top Stories",
-    "title": "Trump sends troops from California to Portland after court denies deployment",
-    "summary": "The move appears aimed at circumventing a court order that barred deploying troops in Portland.",
-    "url": "https://www.bbc.com/news/articles/c740elm70z7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T00:24:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4846/live/fcbf6450-a245-11f0-98b7-cdc4bf2f32f3.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-4b318bc10e",
     "source": "BBC — Top Stories",
     "title": "Watch: Will President Trump get a Nobel Peace Prize?",
@@ -72,6 +168,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-e4a7af9d7f",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'Police could get power to ban protests' and 'PM must come clean over China'",
+    "summary": "Home Secretary Shabana Mahmood has said police could be allowed to ban protests outright, the Times reports.",
+    "url": "https://www.bbc.com/news/articles/cj6x36p7001o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T00:14:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0775/live/d35a6d40-a244-11f0-92db-77261a15b9d2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-f352af9c21",
     "source": "BBC — Top Stories",
     "title": "Trump urges mediators to 'move fast' as key Gaza peace talks set to begin",
@@ -79,6 +187,18 @@
     "url": "https://www.bbc.com/news/articles/cj3y6g43248o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T23:53:33Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd6/live/d4e37ab0-a1f6-11f0-947b-6b8b23372a50.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0fc89ac88f",
+    "source": "BBC — Top Stories",
+    "title": "BBC finds Russian guards, Iranian trucks and rusting railway on Trump's Caucasus peace route",
+    "summary": "The planned Trump Route in the South Caucasus could reshape the geopolitics of a region that borders Russia and Iran.",
+    "url": "https://www.bbc.com/news/articles/c78nr234v5mo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T23:43:19Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf6a/live/1991bf20-9b01-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -98,7 +218,7 @@
   {
     "id": "BBC — Top Stories-6fc0dc9321",
     "source": "BBC — Top Stories",
-    "title": "JLR to restart some production after cyber-attack",
+    "title": "Jaguar Land Rover to restart some production after cyber-attack",
     "summary": "Work is to resume first at the carmaker's engine factory in Wolverhampton on Monday.",
     "url": "https://www.bbc.com/news/articles/ckge0ex5g27o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T23:14:18Z",
@@ -114,7 +234,7 @@
     "summary": "Gisèle Pelicot's dominant stance was seen as a moment in France's MeToo movement but the enthusiasm appears to be wilting.",
     "url": "https://www.bbc.com/news/articles/cdx2d9lynk1o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T23:07:07Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4476/live/3e104390-a04b-11f0-b687-23a5afa8b42e.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d52/live/a0ad6580-a25a-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -240,18 +360,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-422462a316",
-    "source": "BBC — Top Stories",
-    "title": "First celebrity leaves Strictly after dance-off",
-    "summary": "Two couples squared off against each other on Sunday night, leading to one pair departing the show.",
-    "url": "https://www.bbc.com/news/articles/c20zeyynnrgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T19:08:00Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7b2/live/59b049e0-a20f-11f0-8493-b191e68f6c5a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e997bd50a6",
     "source": "The Guardian — UK",
     "title": "Civil liberty groups express concern over plan for more anti-protest powers",
@@ -324,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-5a4d3e8372",
-    "source": "BBC — Top Stories",
-    "title": "Police release photos of mosque arson suspects",
-    "summary": "The images are of two people in balaclavas seen outside the mosque before the large blaze spread.",
-    "url": "https://www.bbc.com/news/articles/cm2dglp43xmo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T16:56:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab75/live/689ba000-a1fe-11f0-947b-6b8b23372a50.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-376f9b4912",
     "source": "Politico — UK",
     "title": "Priti Patel: We must act on ‘Boriswave’ attack",
@@ -343,18 +439,6 @@
     "url": "https://www.politico.eu/article/priti-patel-boris-johnson-conservative-party-conference-migration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-05T16:36:19Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2215389044-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-d9594a8750",
-    "source": "Politico — UK",
-    "title": "Czech president puts NATO, EU at core of Cabinet talks after elections",
-    "summary": "Petr Pavel says it is \"premature\" to speak of names for prime minister, after right-wing populist Andrej Babiš and his ANO movement gained a decisive victory in the Czech parliamentary vote.",
-    "url": "https://www.politico.eu/article/czech-elections-president-petr-pavel-nato-eu-cabinet-talks-andrej-babis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-05T16:24:24Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2238576366-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -384,18 +468,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-b0d3472413",
-    "source": "Politico — UK",
-    "title": "Georgia’s PM imposes major crackdown on dissent, accuses EU of meddling",
-    "summary": "Irakli Kobakhidze accused the EU envoy to Georgia of interfering in national politics and supporting an \"attempt to overthrow constitutional order.\"",
-    "url": "https://www.politico.eu/article/georgia-pm-irakli-kobakhidze-imposes-major-crackdown-dissent-eu-meddling-demonstration-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-05T15:15:08Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2238355956-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-d372804adb",
     "source": "The Guardian — UK",
     "title": "Ministers to announce significant changes to UK’s planning system",
@@ -408,66 +480,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-145b07b028",
-    "source": "Politico — UK",
-    "title": "Patriots for Europe group rejoices over Babiš victory",
-    "summary": "Members of the far-right European Parliament group are ecstatic over the big win by the populist tycoon in Czech elections.",
-    "url": "https://www.politico.eu/article/patriots-for-europe-rejoice-czech-election-andrej-babis-victory/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-05T13:05:59Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2198362268-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-042932d15b",
-    "source": "Politico — UK",
-    "title": "Poland scrambles jets again as Russian airstrikes kill 5 in Ukraine",
-    "summary": "The Russian attack early Sunday killed at least four people in the Lyiv region near the Polish border, Ukrainian officials said.",
-    "url": "https://www.politico.eu/article/poland-scrambles-jets-again-russia-strike-ukraine-lviv-border/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-05T10:46:03Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2238896668-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-265347e451",
-    "source": "Politico — UK",
-    "title": "Federal judge halts Trump administration’s call-up of National Guard in Portland",
-    "summary": "“This is a nation of Constitutional law, not martial law,” wrote U.S. District Judge Karin Immergut, a Trump appointee.",
-    "url": "https://www.politico.com/news/2025/10/04/federal-judge-halts-trump-administrations-call-up-of-national-guard-in-portland-00594308?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-05T10:43:05Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-0db093dc55",
-    "source": "Politico — UK",
-    "title": "Israel, Hamas to discuss Trump peace plan Monday",
-    "summary": "The talks in Egypt are expected to include a possible exchange of Israeli hostages held in Gaza by Hamas.",
-    "url": "https://www.politico.eu/article/israel-hamas-discuss-us-donald-trump-peace-plan-gaza-strip-netanyahu-egypt-palestine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-05T10:09:04Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/05/GettyImages-2238899224-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-b5785eb760",
-    "source": "Politico — UK",
-    "title": "Trump’s Gaza plan could work, with or without Hamas",
-    "summary": "An expanded role for the international community means more countries have \"skin in the game,\" one Arab diplomat said.",
-    "url": "https://www.politico.com/news/magazine/2025/10/04/trump-hamas-gaza-israel-00594076?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-05T10:02:26Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-5cb3332298",
     "source": "The Guardian — UK",
     "title": "How Reform ‘misinformation’ campaign sank town’s refugee sanctuary plan",
@@ -475,18 +487,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/05/how-reform-uk-campaign-sank-weston-super-mare-refugee-council-of-sanctuary-plan",
     "published": "2025-10-05T05:00:26Z",
     "image_url": "https://i.guim.co.uk/img/media/0de6b904b472dafca55a51f458621d50680eb1eb/0_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=0d5d8ab4c636c1b33d2a1e9044af1a10",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-573361d6cc",
-    "source": "BBC — Top Stories",
-    "title": "BBC tracks down sextortion scammer targeting teenage boys",
-    "summary": "The BBC challenges the scammers targeting teenagers like Evan Boettler, who took his own life just 90 minutes after being contacted.",
-    "url": "https://www.bbc.com/news/articles/czrpedexleno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T05:00:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d75/live/8dbea6a0-9f99-11f0-8e4d-7723b0da5e04.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
