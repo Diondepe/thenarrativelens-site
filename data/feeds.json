@@ -1,5 +1,113 @@
 [
   {
+    "id": "BBC — Top Stories-3061d8ab15",
+    "source": "BBC — Top Stories",
+    "title": "Why time matters for Tory MPs deciding Kemi Badenoch's future",
+    "summary": "For many Tory MPs looking at Kemi Badenoch's leadership, they are already wondering how much more time she needs to turn around the party's fortunes.",
+    "url": "https://www.bbc.com/news/articles/cn0rnj6504yo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T01:21:44Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d89/live/b3666ea0-a20b-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-396f3c6e52",
+    "source": "BBC — Top Stories",
+    "title": "Conservatives to announce £5,000 tax rebate for young homebuyers",
+    "summary": "Speaking at the party's conference, Shadow chancellor Mel Stride will say the proposal will be funded by cuts to public spending worth £47bn.",
+    "url": "https://www.bbc.com/news/articles/c4gzv9j78dyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T01:11:05Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20e0/live/817a56d0-a22a-11f0-9a8d-55d7ff06f061.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-95f6eb6b50",
+    "source": "BBC — Top Stories",
+    "title": "The true extent of cyber attacks on UK business - and the weak spots that allow them to happen",
+    "summary": "Are this year's major attacks the \"cumulative effect of a kind of inaction on cyber security\" from the government and big business?",
+    "url": "https://www.bbc.com/news/articles/c5ye8zj5l4jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T00:52:33Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd0d/live/eacf7ae0-a110-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-85148a019e",
+    "source": "BBC — Top Stories",
+    "title": "Eastenders' Kellie Bright on the challenges of being a Send parent",
+    "summary": "The soap actor meets families fighting for their children’s education for BBC Panorama.",
+    "url": "https://www.bbc.com/news/articles/c0jqy8pn275o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T00:35:51Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f006/live/37372320-a07a-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-eccb710685",
+    "source": "BBC — Top Stories",
+    "title": "Trump sends troops from California to Portland after court denies deployment",
+    "summary": "The move appears aimed at circumventing a court order that barred deploying troops in Portland.",
+    "url": "https://www.bbc.com/news/articles/c740elm70z7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T00:24:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4846/live/fcbf6450-a245-11f0-98b7-cdc4bf2f32f3.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-4b318bc10e",
+    "source": "BBC — Top Stories",
+    "title": "Watch: Will President Trump get a Nobel Peace Prize?",
+    "summary": "The BBC asked Americans in Washington what they think the US president needs to do to earn the prestigious award.",
+    "url": "https://www.bbc.com/news/videos/cj6xwz5x8exo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T00:17:03Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3e/live/b2f44e50-9f0a-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f352af9c21",
+    "source": "BBC — Top Stories",
+    "title": "Trump urges mediators to 'move fast' as key Gaza peace talks set to begin",
+    "summary": "Strikes have continued in Gaza as negotiators prepare to head to Egypt for talks starting on Monday.",
+    "url": "https://www.bbc.com/news/articles/cj3y6g43248o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T23:53:33Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd6/live/d4e37ab0-a1f6-11f0-947b-6b8b23372a50.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-4ab8b2dd51",
+    "source": "BBC — Top Stories",
+    "title": "Jim Gavin exits Irish presidential race 'with immediate effect'",
+    "summary": "He said in a statement he had \"made a mistake that was not in keeping with my character and the standards I set myself\".",
+    "url": "https://www.bbc.com/news/articles/cz6946ez6dqo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T23:14:58Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a9b/live/b2bfcf90-9861-11f0-b567-dbb771c68d85.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6fc0dc9321",
+    "source": "BBC — Top Stories",
+    "title": "JLR to restart some production after cyber-attack",
+    "summary": "Work is to resume first at the carmaker's engine factory in Wolverhampton on Monday.",
+    "url": "https://www.bbc.com/news/articles/ckge0ex5g27o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-05T23:14:18Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25d6/live/bf9c9b50-a043-11f0-9251-31c97a45eb73.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-e6a12c9306",
     "source": "BBC — Top Stories",
     "title": "As Gisèle Pelicot faces one of her rapists in court, what has changed in France?",
@@ -84,18 +192,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-396f3c6e52",
-    "source": "BBC — Top Stories",
-    "title": "Conservatives to set out plan for £47bn of cuts to public spending",
-    "summary": "Speaking at the party's conference, Shadow chancellor Mel Stride will say the Conservatives are the only ones that \"gets it\" on the economy.",
-    "url": "https://www.bbc.com/news/articles/c4gzv9j78dyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T21:33:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20e0/live/817a56d0-a22a-11f0-9a8d-55d7ff06f061.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-18d862acb2",
     "source": "The Guardian — UK",
     "title": "UK ministers aim to speed up homebuying by four weeks",
@@ -144,30 +240,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-790cddcaf6",
-    "source": "BBC — Top Stories",
-    "title": "Thousands gather in London to mark two years since 7 October attacks",
-    "summary": "Candles were also lit for those affected by a deadly attack outside a Manchester synagogue on Thursday.",
-    "url": "https://www.bbc.com/news/articles/cp98e30d8g4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T19:50:23Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22f/live/65e7d860-a203-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6252a9e34e",
-    "source": "BBC — Top Stories",
-    "title": "Rescue efforts under way after 1,000 people trapped on Mount Everest slopes",
-    "summary": "Rescue teams have been deployed to clear the snow on the world's highest mountain, Chinese state media reports.",
-    "url": "https://www.bbc.com/news/articles/cj4ykkgxqwko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T19:28:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a26/live/bb0f5800-a225-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-422462a316",
     "source": "BBC — Top Stories",
     "title": "First celebrity leaves Strictly after dance-off",
@@ -180,18 +252,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-082c689a75",
-    "source": "BBC — Top Stories",
-    "title": "Six arrests in murder probe after body found",
-    "summary": "The victim, in his 30s, was declared dead at the scene in a house in a city street, police say.",
-    "url": "https://www.bbc.com/news/articles/cvgjw9w339go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T18:53:36Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6547/live/7c43cc00-a21b-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e997bd50a6",
     "source": "The Guardian — UK",
     "title": "Civil liberty groups express concern over plan for more anti-protest powers",
@@ -199,18 +259,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/05/police-to-get-new-powers-to-crack-down-on-repeated-protests-says-home-office",
     "published": "2025-10-05T18:27:16Z",
     "image_url": "https://i.guim.co.uk/img/media/3c8dec7e8b1e2b12aa93520900de6772e9edd72c/497_0_2503_2003/master/2503.jpg?width=140&quality=85&auto=format&fit=max&s=d162c591d96a0531171e5c64f5efa191",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4bab661ab8",
-    "source": "BBC — Top Stories",
-    "title": "First funeral held for synagogue attack victim",
-    "summary": "Hundreds attend the funeral of Melvin Cravitz, 66, who died in Thursday's synagogue attack.",
-    "url": "https://www.bbc.com/news/articles/cx2r51x17jpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T18:25:53Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3894/live/c355f5b0-a1f7-11f0-92db-77261a15b9d2.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -247,18 +295,6 @@
     "url": "https://www.bbc.com/news/articles/cly05lekyrvo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T17:55:41Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d595/live/93033f60-a212-11f0-928c-71dbb8619e94.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f352af9c21",
-    "source": "BBC — Top Stories",
-    "title": "Trump says he thinks Gaza hostages will be freed 'very soon'",
-    "summary": "Strikes have continued in Gaza as mediators prepare to head to Egypt for talks starting on Monday.",
-    "url": "https://www.bbc.com/news/articles/cj3y6g43248o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T17:52:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fbf/live/3ca902c0-a209-11f0-88a9-adaa114cb856.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -384,18 +420,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-58320d7bd9",
-    "source": "BBC — Top Stories",
-    "title": "Five killed in large Russian missile and drone attack, Zelensky says",
-    "summary": "Russia says it carried out an overnight strike on Ukrainian military and infrastructure targets.",
-    "url": "https://www.bbc.com/news/articles/czjvlgzmp4wo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T12:22:35Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2564/live/d28d5180-a1fd-11f0-b741-177e3e2c2fc7.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-042932d15b",
     "source": "Politico — UK",
     "title": "Poland scrambles jets again as Russian airstrikes kill 5 in Ukraine",
@@ -463,30 +487,6 @@
     "url": "https://www.bbc.com/news/articles/czrpedexleno?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-05T05:00:04Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d75/live/8dbea6a0-9f99-11f0-8e4d-7723b0da5e04.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-1ec30e7a16",
-    "source": "BBC — Top Stories",
-    "title": "Why HIV cases soared by more than 1,000% in this tiny Pacific country",
-    "summary": "The small South Pacific nation is facing one of the world's fastest growing HIV epidemics.",
-    "url": "https://www.bbc.com/news/articles/c0m42dwvlk8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-05T00:58:12Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d00b/live/ae0af9b0-a1db-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9395cb0688",
-    "source": "BBC — Top Stories",
-    "title": "What exactly is freshers' flu - and why do so many get it?",
-    "summary": "It's not the actual flu, and it's rarely serious, but when thousands of students arrive on campus they bring a cocktail of viruses.",
-    "url": "https://www.bbc.com/news/articles/c147218x7rgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-04T23:05:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c9b/live/2dd015c0-a0b2-11f0-ac11-a11de8fbd7b8.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
