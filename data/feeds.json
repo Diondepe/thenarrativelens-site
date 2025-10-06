@@ -1,12 +1,60 @@
 [
   {
+    "id": "BBC — Top Stories-b31c0b16d6",
+    "source": "BBC — Top Stories",
+    "title": "Nottingham attacks victim awarded George Medal for protecting friend from killer",
+    "summary": "The medical student \"made the ultimate sacrifice\" as she tried to defend her friend Barnaby Webber.",
+    "url": "https://www.bbc.com/news/articles/cjr5xyn421yo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T14:17:27Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2004/live/310028d0-a29b-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5e83136c72",
+    "source": "BBC — Top Stories",
+    "title": "French Prime Minister Sébastien Lecornu resigns after less than a month",
+    "summary": "He criticised the \"partisan appetites\" of political factions, who he said had refused to compromise.",
+    "url": "https://www.bbc.com/news/articles/cewn9k0w9rxo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T14:11:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c947/live/a708dbf0-a2a3-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c24edca7e0",
+    "source": "BBC — Top Stories",
+    "title": "US Supreme Court rejects Ghislaine Maxwell appeal in Epstein case",
+    "summary": "The British socialite is serving a 20-year prison sentence on sex -trafficking charges related to former boyfriend Jeffrey Epstein.",
+    "url": "https://www.bbc.com/news/articles/cn83e6q7lq4o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T14:07:26Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feab/live/69b58320-a2bc-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-91bad1e105",
     "source": "The Guardian — UK",
     "title": "Tory plan to scrap green energy measures called ‘contradictory nonsense’ by environment groups – UK politics live",
     "summary": "Shadow energy secretary’s plans dismissed as ‘dead wrong’ by environment groups Mel Stride , the shadow chancellor, was doing an interview round for the Conservatives this morning, and Miatta Fahnbulleh , the faith and communities minister, was on the air on behalf of the government. They were both asked about the latest development in the flag phenomenon – the former footballer turned property developer Gary Neville saying that he took down a union flag flying at one of his building sites because he felt it was being used in a “negative fashion”. Asked if Neville (a Labour supporter) had a point, Fahnbulleh told ITV’s Good Morning Britain: I think he’s really right, that there are people who are trying to divide us at the moment … I spent a lot of time going around our communities, talking to people. People are ground down. We’ve had a decade-and-a-half in which living standards haven’t budged and people have seen their communities held down. And you will get people trying to stoke division, trying to blame others, trying to stoke tension. I think people that put up flags, the vast majority of people that do, do so for perfectly reasonable patriotic reasons. And I think reclaiming our flag as a flag of unity and decency and tolerance, which is the way most people see our flag, is a very positive thing. So I’m afraid I really cannot agree with the comments that he’s made. Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/oct/06/conservative-tory-party-conference-spending-welfare-immigration-labour-starmer-reform-uk-politics-live-news-updates",
-    "published": "2025-10-06T13:03:03Z",
+    "published": "2025-10-06T14:05:35Z",
     "image_url": "https://i.guim.co.uk/img/media/4f5940c689bb3410e38d346c06667ed9988d8ece/575_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=3386c3c43f3d505204c5b4638ea45ba3",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-62f6fe9860",
+    "source": "The Guardian — UK",
+    "title": "Australian triumphs at world porridge championship with rum invention: an oaty jaffle",
+    "summary": "Melbourne food stylist Caroline Velik wins speciality dish category and places second in Golden Spurtle food fight behind Norwegian first-timer Only an Australian would bring a toastie to a porridge fight – and walk away with a trophy. As other competitors stirred oats and debated salt ratios, the Melbourne food stylist Caroline Velik took out one of the top awards at this year’s World Porridge Making Championships in Carrbridge, Scotland. Continue reading...",
+    "url": "https://www.theguardian.com/food/2025/oct/06/australian-triumphs-world-porridge-championship-with-oaty-jaffle",
+    "published": "2025-10-06T14:00:15Z",
+    "image_url": "https://i.guim.co.uk/img/media/243cbf78acb922e989c570a641f176902e1bfae4/1131_506_6916_5533/master/6916.jpg?width=140&quality=85&auto=format&fit=max&s=2f12b9149139f26560e6534fd8eb2f6d",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -27,7 +75,7 @@
     "id": "Politico — UK-1ad293edd0",
     "source": "Politico — UK",
     "title": "Europe now world leader for smoking rates",
-    "summary": "The WHO region has overtaken Southeast Asia where smoking rates have plummeted.",
+    "summary": "The WHO says the region has overtaken Southeast Asia, where smoking rates have plummeted.",
     "url": "https://www.politico.eu/article/europe-world-leader-smoking-rates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-06T12:55:24Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-2216698311-scaled.jpg",
@@ -90,7 +138,7 @@
     "summary": "More than 100 million people, including at least 15 million children, use e-cigarettes, fuelling a new wave of nicotine addiction, say experts.",
     "url": "https://www.bbc.com/news/articles/c1kwxjzeez3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T12:34:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a14a/live/c4332850-a291-11f0-b5fb-09dc1426da0e.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0150/live/57488580-a2bb-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -146,11 +194,11 @@
   {
     "id": "BBC — Top Stories-9494216f72",
     "source": "BBC — Top Stories",
-    "title": "Gaza peace talks: The key sticking points",
+    "title": "What are the key sticking points in Trump's Gaza peace plan?",
     "summary": "Negotiators from Israel and Hamas are heading to Sharm El-Sheikh, Egypt, to start indirect talks about ending the Israel-Gaza war.",
     "url": "https://www.bbc.com/news/articles/c930v44dg2ro?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T11:48:47Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae64/live/ed260a60-a297-11f0-b5fb-09dc1426da0e.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a650/live/54b668f0-a2bb-11f0-b2c5-019105d9c0cd.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -195,7 +243,7 @@
     "id": "Politico — UK-9e40ca1cce",
     "source": "Politico — UK",
     "title": "French borrowing costs top Italy’s as Lecornu’s resignation forces risk rethink",
-    "summary": "Paris's benchmark 10-year borrowing costs have risen above Rome's, due to concerns about its ability to put public finances back on a solid footing.",
+    "summary": "Paris' benchmark 10-year borrowing costs have risen above Rome's due to concerns about its ability to put public finances back on a solid footing.",
     "url": "https://www.politico.eu/article/french-borrowing-costs-top-italy-lecornu-resignation-forces-risk-rethink/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-06T11:10:17Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/lecornu-scaled.jpg",
@@ -288,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-5e83136c72",
-    "source": "BBC — Top Stories",
-    "title": "French Prime Minister Sébastien Lecornu resigns after less than a month",
-    "summary": "He criticised the \"partisan appetites\" of political factions, who he said had refused to compromise.",
-    "url": "https://www.bbc.com/news/articles/cewn9k0w9rxo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T09:56:41Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c947/live/a708dbf0-a2a3-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-d0a1f79208",
     "source": "The Guardian — UK",
     "title": "He-Man poised to be next retro name to join UK toy ‘newstalgia’ trend",
@@ -319,30 +355,6 @@
     "url": "https://www.bbc.com/news/articles/cn0rn7rwk24o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T09:04:05Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bbe/live/c4446f00-a1e4-11f0-ab23-d127b1d8dfad.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a79a8c72ab",
-    "source": "BBC — Top Stories",
-    "title": "Australian prosecutors appeal mushroom murderer's 'inadequate' sentence",
-    "summary": "Erin Patterson was jailed for a minimum of 33 years for murdering three people with a toxic mushroom meal.",
-    "url": "https://www.bbc.com/news/articles/c07vlzn587lo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T09:00:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/901c/live/43a740b0-a285-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b31c0b16d6",
-    "source": "BBC — Top Stories",
-    "title": "Nottingham attacks victim awarded George Medal for protecting friend from killer",
-    "summary": "The medical student \"made the ultimate sacrifice\" as she tried to defend her friend Barnaby Webber.",
-    "url": "https://www.bbc.com/news/articles/cjr5xyn421yo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T09:00:33Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2004/live/310028d0-a29b-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -403,18 +415,6 @@
     "url": "https://www.bbc.com/sport/rugby-union/articles/cz7rddrrlqno?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T06:00:04Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d040/live/48ea27d0-a1f5-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-f9eabe6489",
-    "source": "The Guardian — UK",
-    "title": "Home Office grants extra visas for UCL international students told to defer",
-    "summary": "Hundreds of students with promised places had been left in limbo after university exceeded its visa allocations Hundreds of international students will be able to take up their promised places after negotiations between the Home Office and University College London ended with the government granting extra visas. Hundreds of students, many from China, had been left in limbo after UCL underestimated the demand for places this year and exceeded its allocation of confirmation of acceptance for studies (CAS) electronic documents allowed by the Home Office. Continue reading...",
-    "url": "https://www.theguardian.com/education/2025/oct/06/home-office-grants-extra-visas-for-ucl-international-students-told-to-defer",
-    "published": "2025-10-06T06:00:02Z",
-    "image_url": "https://i.guim.co.uk/img/media/ebda5975620ed48db4f9d7a1687b5ce11b81c4a7/665_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bf3a214e3b6f2d0f2877e1437f7329c1",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
