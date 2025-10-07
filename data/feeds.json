@@ -1,5 +1,101 @@
 [
   {
+    "id": "Politico — UK-9b849845eb",
+    "source": "Politico — UK",
+    "title": "European Parliament shields left-wing lawmaker from prosecution in Orbán’s Hungary",
+    "summary": "Ilaria Salis is saved from legal action in Budapest after conservatives split in secret ballot.",
+    "url": "https://www.politico.eu/article/eu-parliament-left-wing-mep-ilaria-salis-viktor-orban-hungary/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-07T11:14:27Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/GettyImages-2236637997-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-62845dc836",
+    "source": "The Guardian — UK",
+    "title": "GB News’s US expansion feared to be new way for Trumpian views to reach UK audience",
+    "summary": "White House backing was on full display as GB News launched The Late Show Live Not long ago, it would have been hard to believe a group of executives from a relatively small overseas broadcaster would be granted a meeting at the White House, let alone an audience with the president of the United States. Yet when a delegation from GB News – led by Nigel Farage – headed to Washington DC earlier last month to meet Donald Trump’s team, it only confirmed that the Reform UK leader’s Maga connections provided the channel with significant access. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/07/gb-news-us-expansion-trumpian-views-uk-audience",
+    "published": "2025-10-07T11:00:03Z",
+    "image_url": "https://i.guim.co.uk/img/media/7e837f828cd9d310ce42248e664bed68f4accbda/1130_450_2093_1675/master/2093.jpg?width=140&quality=85&auto=format&fit=max&s=f86f19e58e2c82e761e046d88a9e79fa",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-431d84558d",
+    "source": "The Guardian — UK",
+    "title": "Jenrick addresses Tory conference after being accused of racism over ‘no white faces’ comments about Birmingham – UK politics live",
+    "summary": "Labour mayor of the West Midlands says Robert Jernrick’s comments were racist because he focused on colour to make negative point about Handsworth Asked about the Jenrick story, Badenoch again suggests Guardian reporting is reliable. Q: Jenrick was making a distinction between white faces and brown faces. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/07/conservative-tory-conference-kemi-badenoch-jenrick-starmer-labour-protests-reform-uk-politics-live-news-updates",
+    "published": "2025-10-07T10:59:53Z",
+    "image_url": "https://i.guim.co.uk/img/media/b7af819c1b9d1b3223a579b1512b4d004defaeb2/1099_0_4973_3978/master/4973.jpg?width=140&quality=85&auto=format&fit=max&s=589bcff6e2ccd496289ad80f0b6295d4",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-de9809bddc",
+    "source": "BBC — Top Stories",
+    "title": "Starmer urges students not to join pro-Palestinian protests on anniversary",
+    "summary": "The prime minister says it is \"un-British\" to hold pro-Palestinian protests on the second anniversary of Hamas's attacks on Israel.",
+    "url": "https://www.bbc.com/news/articles/c1wgx5v90vyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T10:53:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d63/live/3a892d20-a313-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-012d3abf2c",
+    "source": "Politico — UK",
+    "title": "Comedian who satirizes Albanian PM Edi Rama on TV runs for Tirana mayor",
+    "summary": "Comic gets high-level backing to take on the ruling Socialists.",
+    "url": "https://www.politico.eu/article/albania-version-zelenskyy-to-run-mayor-tirana-elections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-07T10:39:10Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/tirana-protest-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9d9631464c",
+    "source": "BBC — Top Stories",
+    "title": "Stephen Lawrence murderer must name other killers, father says",
+    "summary": "David Norris, one of only two men to be convicted over the 1993 murder, is bidding to be released from prison.",
+    "url": "https://www.bbc.com/news/articles/c89djd0yn1wo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T10:35:19Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3b0/live/640a6920-a2f0-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-adf9a43e56",
+    "source": "BBC — Top Stories",
+    "title": "Renewables overtake coal as world's biggest source of electricity",
+    "summary": "Developing countries lead the historic clean energy charge but the US and EU rely more on fossil fuels than before, a think tank study shows.",
+    "url": "https://www.bbc.com/news/articles/cx2rz08en2po?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T10:20:03Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3c7/live/0d2925f0-a35a-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-87d37a0a8a",
+    "source": "BBC — Top Stories",
+    "title": "Physics Nobel Prize awarded to three scientists for work on quantum computing",
+    "summary": "The announcement was made by the Royal Swedish Academy of Sciences in Stockholm.",
+    "url": "https://www.bbc.com/news/articles/c98d00nq47jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T10:18:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96df/live/bb86a300-a366-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-7274b1a1cf",
     "source": "BBC — Top Stories",
     "title": "'Positive sign' as pine martens released on Exmoor",
@@ -24,18 +120,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-431d84558d",
-    "source": "The Guardian — UK",
-    "title": "Badenoch defends Jenrick over comments that he ‘did not see another white face’ in Birmingham – UK politics live",
-    "summary": "Conservative leader suggests remarks in Guardian report could have been taken out of context and he was ‘making an observation’ Asked about the Jenrick story, Badenoch again suggests Guardian reporting is reliable. Q: Jenrick was making a distinction between white faces and brown faces. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/07/conservative-tory-conference-kemi-badenoch-jenrick-starmer-labour-protests-reform-uk-politics-live-news-updates",
-    "published": "2025-10-07T10:11:32Z",
-    "image_url": "https://i.guim.co.uk/img/media/963962bdc3a47355da4ce01a4c60b10e0d5213e9/17_0_3327_2661/master/3327.jpg?width=140&quality=85&auto=format&fit=max&s=4fc2753d196158e5b11127b6ae78cc7c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-ffdae89f2a",
     "source": "Politico — UK",
     "title": "Greta Thunberg bites back at Donald Trump’s ‘see a doctor’ remark",
@@ -51,7 +135,7 @@
     "id": "BBC — Top Stories-1e2529a618",
     "source": "BBC — Top Stories",
     "title": "Thieves snatch Bronze Age gold in four-minute museum heist",
-    "summary": "Two thieves stole 'irreplaceable' gold artefacts in a targeted attack on St Fagans Museum in Cardiff.",
+    "summary": "Two thieves stole 'irreplaceable' gold artefacts in a targeted attack on St Fagans museum in Cardiff.",
     "url": "https://www.bbc.com/news/articles/cj9zxdpwn73o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T09:35:39Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30e7/live/06608ca0-a34f-11f0-b741-177e3e2c2fc7.jpg",
@@ -60,13 +144,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a4a509cade",
+    "id": "BBC — Top Stories-267b62a0a5",
     "source": "BBC — Top Stories",
-    "title": "Macron should call early presidential vote, his first PM says",
-    "summary": "Édouard Philippe's intervention comes a day after the French president's latest PM resigned just days into the role.",
-    "url": "https://www.bbc.com/news/articles/cn0rjn3l8w2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T09:27:35Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84fa/live/866e7c90-a359-11f0-92db-77261a15b9d2.jpg",
+    "title": "Raducanu retires ill in Wuhan Open first round",
+    "summary": "British number one Emma Raducanu looks devoid of energy and appears to struggle with the hot and humid conditions before retiring in China.",
+    "url": "https://www.bbc.com/sport/tennis/articles/cn82mk4m39po?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T09:30:35Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185e/live/8240b260-a34e-11f0-9a02-114bd53bb5d7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -204,18 +288,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-de9809bddc",
-    "source": "BBC — Top Stories",
-    "title": "Starmer urges students not to join pro-Palestinian protests on anniversary",
-    "summary": "The prime minister says it is \"un-British\" to hold pro-Palestinian protests on the second anniversary of Hamas's attacks on Israel.",
-    "url": "https://www.bbc.com/news/articles/c1wgx5v90vyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T07:06:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d63/live/3a892d20-a313-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-f896aabfb8",
     "source": "The Guardian — UK",
     "title": "Keir Starmer calls student protests on 7 October anniversary ‘un-British’",
@@ -312,13 +384,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-9d9631464c",
-    "source": "BBC — Top Stories",
-    "title": "Stephen Lawrence murderer must name other killers, father says",
-    "summary": "David Norris, one of only two men to be convicted over the 1993 murder, is bidding to be released from prison.",
-    "url": "https://www.bbc.com/news/articles/c89djd0yn1wo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T05:00:05Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3b0/live/640a6920-a2f0-11f0-928c-71dbb8619e94.jpg",
+    "id": "Politico — UK-71f8bb22cc",
+    "source": "Politico — UK",
+    "title": "More than 20 EU politicians test positive for forever chemicals in their blood",
+    "summary": "The results highlight the wide reach of a group of chemicals linked to cancer, liver damage and fertility problems.",
+    "url": "https://www.politico.eu/article/pfas-chemicals-20-eu-politicians-test-positive-forever-chemicals-blood/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-07T04:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-2226267829-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -360,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-0e813088db",
-    "source": "Politico — UK",
-    "title": "A new era for merger control",
-    "summary": "EU and UK merger control is evolving into a strategic policy tool, creating challenges and opportunities for business leaders and their advisors to demonstrate innovation, resilience and growth.",
-    "url": "https://www.politico.eu/sponsored-content/a-new-era-for-merger-control/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-07T03:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/02/BRG-Politico-1600.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-e7c82554ca",
     "source": "BBC — Top Stories",
     "title": "Mother of Israeli hostage says she still doesn't know if he's alive or dead",
@@ -379,54 +439,6 @@
     "url": "https://www.bbc.com/news/articles/c7840n4nwx8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T02:32:36Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2645/live/617f2700-a2c7-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-44b3d080cc",
-    "source": "Politico — UK",
-    "title": "German Cabinet splits over EU combustion engine ban letter",
-    "summary": "A letter signed by Germany's economy minister has the center-left SPD up in arms.",
-    "url": "https://www.politico.eu/article/germany-cabinet-eu-combustion-engine-ban-letter-spd-emissions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-07T02:22:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-2237741720.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-0e77d16978",
-    "source": "Politico — UK",
-    "title": "Zucman: French government should’ve listened to me on wealth tax",
-    "summary": "The popular economist says France's 3 previous prime ministers ignored his proposal.",
-    "url": "https://www.politico.eu/article/gabriel-zucman-france-government-should-listen-wealth-tax/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-07T02:13:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-2041299210-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-dbd777265d",
-    "source": "BBC — Top Stories",
-    "title": "Trump says chance of Gaza peace deal 'really good' as talks to continue in Egypt",
-    "summary": "The talks in Egypt are expected to be among the most consequential since the start of the war two years ago.",
-    "url": "https://www.bbc.com/news/articles/c708l7vgwywo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T02:07:21Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee52/live/bf2bf000-a334-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-adf9a43e56",
-    "source": "BBC — Top Stories",
-    "title": "Renewables overtake coal as world's biggest source of electricity",
-    "summary": "Developing countries lead the historic clean energy charge but the US and EU rely more on fossil fuels than before, a think tank study shows.",
-    "url": "https://www.bbc.com/news/articles/cx2rz08en2po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T00:02:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3c7/live/0d2925f0-a35a-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -510,7 +522,7 @@
     "summary": "The president's unpopularity means those who associate themselves with him risk a beating at France's 2027 election, writes the BBC's Hugh Schofield.",
     "url": "https://www.bbc.com/news/articles/c749k11vnzgo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T18:05:00Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c1c/live/a857e460-a357-11f0-b741-177e3e2c2fc7.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/189a/live/41c65ad0-a2c9-11f0-b951-27b26e912455.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -523,18 +535,6 @@
     "url": "https://www.theguardian.com/politics/live/2025/oct/06/conservative-tory-party-conference-spending-welfare-immigration-labour-starmer-reform-uk-politics-live-news-updates",
     "published": "2025-10-06T17:16:01Z",
     "image_url": "https://i.guim.co.uk/img/media/edbf96cec3742402b1c5184714e942355b463db5/2688_1327_3404_2723/master/3404.jpg?width=140&quality=85&auto=format&fit=max&s=94c8d838be94575d49c739f0944569e3",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-485894f11f",
-    "source": "The Guardian — UK",
-    "title": "Jonathan Powell to face MPs over role in collapse of espionage trial",
-    "summary": "National security adviser to answer questions over abandonment of a major Chinese spying case against two Britons Jonathan Powell will appear before parliament for the first time amid questions about his role in the collapse of a trial of two Britons accused of spying for China. Keir Starmer’s national security adviser is due to be quizzed by senior parliamentarians at a private hearing of the joint committee on the national security strategy in the coming weeks. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/06/jonathan-powell-to-face-mps-over-role-in-collapse-of-espionage-trial",
-    "published": "2025-10-06T17:05:16Z",
-    "image_url": "https://i.guim.co.uk/img/media/2ca33512587eec1990dc98edf85af1742c25aca4/0_9_1096_876/master/1096.jpg?width=140&quality=85&auto=format&fit=max&s=d9effa9de514985318a9f0a0d943a0db",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
