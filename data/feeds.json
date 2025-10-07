@@ -1,12 +1,84 @@
 [
   {
+    "id": "BBC — Top Stories-a8e2ba637f",
+    "source": "BBC — Top Stories",
+    "title": "Jenrick defends comments on not seeing 'another white face' in area of Birmingham",
+    "summary": "The shadow justice secretary is accused of racism after saying the Handsworth area was one of the \"worst-integrated\".",
+    "url": "https://www.bbc.com/news/articles/cy85zlpwne6o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T13:26:02Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae6/live/a75376e0-a30e-11f0-8d57-2757fb03f316.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-96ad71434c",
+    "source": "Politico — UK",
+    "title": "Denmark aims to ban social media for children under 15, PM says",
+    "summary": "“We have unleashed a monster,” Mette Frederiksen tells Danish lawmakers.",
+    "url": "https://www.politico.eu/article/denmark-mette-frederiksen-partially-ban-social-media-children-under-15/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-07T13:25:23Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/GettyImages-2238736105-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1e2529a618",
+    "source": "BBC — Top Stories",
+    "title": "Thieves snatch Bronze Age gold in four-minute museum heist",
+    "summary": "Two thieves stole 'irreplaceable' gold artefacts in a targeted attack on St Fagans museum in Cardiff.",
+    "url": "https://www.bbc.com/news/articles/cj9zxdpwn73o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T13:07:33Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30e7/live/06608ca0-a34f-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-fac726766d",
+    "source": "BBC — Top Stories",
+    "title": "Taylor Swift denies turning down Super Bowl half-time show",
+    "summary": "The star tells talk show host Jimmy Fallon she could not perform while her fiancé Travis Kelce was playing.",
+    "url": "https://www.bbc.com/news/articles/cly140x3dlgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T13:05:55Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a49/live/79f74c00-a370-11f0-b6c8-ab6f97553cbf.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-de9809bddc",
+    "source": "BBC — Top Stories",
+    "title": "Starmer urges students not to join pro-Palestinian protests on anniversary",
+    "summary": "The prime minister says it is \"un-British\" to hold pro-Palestinian protests on the second anniversary of Hamas's attacks on Israel.",
+    "url": "https://www.bbc.com/news/articles/c1wgx5v90vyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T13:05:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09cd/live/b97ada30-a376-11f0-a2a8-4ff859a7e9e7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-fd7f16decb",
     "source": "BBC — Top Stories",
     "title": "Man guilty of stalking TV presenter Myleene Klass",
-    "summary": "Peter Windsor has been convicted of sending items including a gun and handcuffs to the presenter.",
+    "summary": "Peter Windsor sent items including a gun and a will-writing kit to Ms Klass and another presenter.",
     "url": "https://www.bbc.com/news/articles/cj0766g9edyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T12:34:24Z",
+    "published": "2025-10-07T13:04:30Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f04/live/11188690-a370-11f0-b6c8-ab6f97553cbf.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-87d37a0a8a",
+    "source": "BBC — Top Stories",
+    "title": "Physics Nobel awarded to three scientists for work on quantum computing",
+    "summary": "The announcement was made by the Royal Swedish Academy of Sciences in Stockholm.",
+    "url": "https://www.bbc.com/news/articles/c98d00nq47jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T12:59:52Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ca0/live/4a42a610-a36d-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -17,20 +89,20 @@
     "title": "Jenrick accused of racism over ‘no white faces’ comments as he also claims ‘collapse of old order is in sight’ – UK politics live",
     "summary": "Labour mayor of the West Midlands says Jenrick’s comments about Handsworth were racist Asked about the Jenrick story, Badenoch again suggests Guardian reporting is reliable. Q: Jenrick was making a distinction between white faces and brown faces. Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/oct/07/conservative-tory-conference-kemi-badenoch-jenrick-starmer-labour-protests-reform-uk-politics-live-news-updates",
-    "published": "2025-10-07T12:23:00Z",
+    "published": "2025-10-07T12:59:44Z",
     "image_url": "https://i.guim.co.uk/img/media/7cb13779263875c4abc672bedd3dc03dec5b2a61/587_0_4820_3856/master/4820.jpg?width=140&quality=85&auto=format&fit=max&s=1a28d1954bbe3e14a0841ed6a3db4a4c",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a8e2ba637f",
-    "source": "BBC — Top Stories",
-    "title": "Jenrick defends comments on not seeing 'another white face' in area of Birmingham",
-    "summary": "The shadow justice secretary is accused of racism after saying the Handsworth area was one of the \"worst-integrated\".",
-    "url": "https://www.bbc.com/news/articles/cy85zlpwne6o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T12:22:47Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae6/live/a75376e0-a30e-11f0-8d57-2757fb03f316.jpg",
+    "id": "The Guardian — UK-87e8a74bc9",
+    "source": "The Guardian — UK",
+    "title": "Almost a fifth of young UK adults use AI to design holiday, study finds",
+    "summary": "Traditional package holiday is still the most common eventual purchase, travel industry body Abta reports Business live – latest updates Almost one in five young adults are turning to artificial intelligence to design their holiday, according to the UK travel industry body Abta. While the traditional package holiday still remains the most common eventual purchase, Abta found that 18% of 25- to 34-year-olds were using AI tools such as ChatGPT to inspire their trips abroad. Continue reading...",
+    "url": "https://www.theguardian.com/travel/2025/oct/07/uk-adults-ai-design-holiday-package-holiday-travel-abta",
+    "published": "2025-10-07T12:38:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/7cee4fa29cde8845da41833f47d92bf17bfbb631/127_0_4411_3531/master/4411.jpg?width=140&quality=85&auto=format&fit=max&s=9dc3a80f51f7c9db69620a8b0ab57b14",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -60,6 +132,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-f62d8226e0",
+    "source": "BBC — Top Stories",
+    "title": "North Korean hackers stealing record sums, researchers say",
+    "summary": "Analysts estimate cyber-criminals linked to Pyongyang have taken more than $2bn so far in 2025.",
+    "url": "https://www.bbc.com/news/articles/cwy8z7wxe03o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T12:07:08Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e82/live/6ccdd9e0-a370-11f0-928c-71dbb8619e94.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-22b50c3204",
     "source": "Politico — UK",
     "title": "Trump hasn’t moved on from wanting Greenland forever, Danish PM warns",
@@ -84,6 +168,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-d4a0834d5c",
+    "source": "BBC — Top Stories",
+    "title": "Stephen Lawrence's mother urges parole board not to release son's killer",
+    "summary": "Baroness Lawrence says David Norris remains a danger to the public.",
+    "url": "https://www.bbc.com/news/articles/cewn99k9l7zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T12:02:46Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/416a/live/d653f0f0-a372-11f0-b741-177e3e2c2fc7.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-a9c530d8e2",
     "source": "The Guardian — UK",
     "title": "How would tougher powers for police affect protests in England and Wales?",
@@ -91,18 +187,6 @@
     "url": "https://www.theguardian.com/world/2025/oct/07/how-tougher-powers-police-affect-protests-england-wales",
     "published": "2025-10-07T11:58:58Z",
     "image_url": "https://i.guim.co.uk/img/media/d1308bc8f3610d31712edf8eb66439d13fb9e20f/708_60_3563_2850/master/3563.jpg?width=140&quality=85&auto=format&fit=max&s=f0043b7f5e71cf66c6a3f40d8b923823",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-de9809bddc",
-    "source": "BBC — Top Stories",
-    "title": "Starmer urges students not to join pro-Palestinian protests on anniversary",
-    "summary": "The prime minister says it is \"un-British\" to hold pro-Palestinian protests on the second anniversary of Hamas's attacks on Israel.",
-    "url": "https://www.bbc.com/news/articles/c1wgx5v90vyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T11:54:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d63/live/3a892d20-a313-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -127,30 +211,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/07/jaguar-land-rover-restart-production-suppliers-cyber-attack",
     "published": "2025-10-07T11:28:45Z",
     "image_url": "https://i.guim.co.uk/img/media/750face4a6fc697c9bc1399e40dc9576bf717601/392_0_3923_3138/master/3923.jpg?width=140&quality=85&auto=format&fit=max&s=86fed4d09a979c54b69a647c96aa1433",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-87d37a0a8a",
-    "source": "BBC — Top Stories",
-    "title": "Physics Nobel awarded to three scientists for work on quantum computing",
-    "summary": "The announcement was made by the Royal Swedish Academy of Sciences in Stockholm.",
-    "url": "https://www.bbc.com/news/articles/c98d00nq47jo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T11:22:46Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ca0/live/4a42a610-a36d-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-2b13c058e4",
-    "source": "BBC — Top Stories",
-    "title": "MrBeast says AI advance is scary for YouTube creators",
-    "summary": "He says he's worried about what will happen to millions of creators when AI videos are as good as normal ones.",
-    "url": "https://www.bbc.com/news/articles/cm2zmm0ry67o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T11:15:05Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d2e/live/52bcf7c0-a35c-11f0-9ba1-d9aaa400322a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -192,18 +252,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-9d9631464c",
-    "source": "BBC — Top Stories",
-    "title": "Stephen Lawrence murderer must name other killers, father says",
-    "summary": "David Norris, one of only two men to be convicted over the 1993 murder, is bidding to be released from prison.",
-    "url": "https://www.bbc.com/news/articles/c89djd0yn1wo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T10:35:19Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3b0/live/640a6920-a2f0-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-822f5c01e6",
     "source": "Politico — UK",
     "title": "Trump blasts ‘crazy’ NFL over Bad Bunny Super Bowl halftime show",
@@ -223,30 +271,6 @@
     "url": "https://www.politico.eu/article/greta-thunberg-us-donald-trump-doctors-comments-gaza-flotilla/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-07T10:06:47Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/GettyImages-2239221274-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-1e2529a618",
-    "source": "BBC — Top Stories",
-    "title": "Thieves snatch Bronze Age gold in four-minute museum heist",
-    "summary": "Two thieves stole 'irreplaceable' gold artefacts in a targeted attack on St Fagans museum in Cardiff.",
-    "url": "https://www.bbc.com/news/articles/cj9zxdpwn73o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T09:35:39Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30e7/live/06608ca0-a34f-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-267b62a0a5",
-    "source": "BBC — Top Stories",
-    "title": "Raducanu retires ill in Wuhan Open first round",
-    "summary": "British number one Emma Raducanu looks devoid of energy and appears to struggle with the hot and humid conditions before retiring in China.",
-    "url": "https://www.bbc.com/sport/tennis/articles/cn82mk4m39po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T09:30:35Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185e/live/8240b260-a34e-11f0-9a02-114bd53bb5d7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -384,13 +408,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-d04d8bf888",
+    "id": "The Guardian — UK-b53aa1f4a1",
     "source": "The Guardian — UK",
-    "title": "Stephen Lawrence’s father says killer should name others before parole considered",
-    "summary": "Neville Lawrence, 83, is preparing for David Norris, now 49, to appear for first time to plead for his freedom The family of murdered teenager Stephen Lawrence have urged parole staff not to release one of his killers. A gang chased, surrounded and stabbed Stephen, who was 18, near a south-east London bus stop in April 1993 and two men – David Norris and Gary Dobson – were convicted of his murder in 2012, but at least three members of the gang remain free. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/07/stephen-lawrence-father-says-killer-should-name-others-before-parole-considered",
-    "published": "2025-10-07T06:36:44Z",
-    "image_url": "https://i.guim.co.uk/img/media/765ea2d81cd81f5d2f8e908b647bb3e01ef27fb7/0_755_2896_2315/master/2896.jpg?width=140&quality=85&auto=format&fit=max&s=f5d1a37eb2fa5d65c02b5bea00bb9973",
+    "title": "Robert Jenrick complained of ‘not seeing another white face’ in Birmingham neighbourhood",
+    "summary": "Shadow justice secretary criticised for suggesting he could tell how integrated Handsworth was based on short visit Robert Jenrick complained about visiting an area of Birmingham where he “didn’t see another white face” and said it was not the kind of country he wanted to live in. After highlighting the lack of white people, the shadow justice secretary said it was not about “the colour of your skin or your faith” and he wanted people to live alongside each other. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/06/robert-jenrick-complained-of-not-seeing-another-white-face-in-handsworth-birmingham",
+    "published": "2025-10-07T05:57:01Z",
+    "image_url": "https://i.guim.co.uk/img/media/45ed0d365876939d53a881bcd85c9c1a4f6636fd/883_828_6165_4932/master/6165.jpg?width=140&quality=85&auto=format&fit=max&s=56d4a1fb06168f81eb0952c38b6d1d51",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -451,18 +475,6 @@
     "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/frankreich-vorm-politischen-kollaps/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-07T03:45:35Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/Berlin-Playbook-Website-card-1-1.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-a85c86ab52",
-    "source": "Politico — UK",
-    "title": "Judges appointed by Trump keep ruling against him. He’s not happy about it.",
-    "summary": "From the National Guard to deportations, Trump has suffered numerous legal setbacks from people he put on the bench.",
-    "url": "https://www.politico.com/news/2025/10/06/trump-judges-ruling-against-him-00595511?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-07T03:38:09Z",
-    "image_url": null,
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,18 +547,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/06/dfe-failure-to-plan-for-covid-school-closures-was-extraordinary-dereliction-of-duty-academy-head-tells-inquiry",
     "published": "2025-10-06T18:13:39Z",
     "image_url": "https://i.guim.co.uk/img/media/75b4ebf8e722e98085138efd7f1101a6a5f41fda/288_0_1331_1065/master/1331.jpg?width=140&quality=85&auto=format&fit=max&s=dc68e2868fe476f1c7fa3476f8f2651f",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-91bad1e105",
-    "source": "The Guardian — UK",
-    "title": "Nearly two thirds of Tory members want pact with Reform, poll suggests, with close to half supporting full merger – as it happened",
-    "summary": "Half of Tory members also want Kemi Badenoch to be replaced as Conservative leader. This live blog is closed Mel Stride , the shadow chancellor, was doing an interview round for the Conservatives this morning, and Miatta Fahnbulleh , the faith and communities minister, was on the air on behalf of the government. They were both asked about the latest development in the flag phenomenon – the former footballer turned property developer Gary Neville saying that he took down a union flag flying at one of his building sites because he felt it was being used in a “negative fashion”. Asked if Neville (a Labour supporter) had a point, Fahnbulleh told ITV’s Good Morning Britain: I think he’s really right, that there are people who are trying to divide us at the moment … I spent a lot of time going around our communities, talking to people. People are ground down. We’ve had a decade-and-a-half in which living standards haven’t budged and people have seen their communities held down. And you will get people trying to stoke division, trying to blame others, trying to stoke tension. I think people that put up flags, the vast majority of people that do, do so for perfectly reasonable patriotic reasons. And I think reclaiming our flag as a flag of unity and decency and tolerance, which is the way most people see our flag, is a very positive thing. So I’m afraid I really cannot agree with the comments that he’s made. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/06/conservative-tory-party-conference-spending-welfare-immigration-labour-starmer-reform-uk-politics-live-news-updates",
-    "published": "2025-10-06T17:16:01Z",
-    "image_url": "https://i.guim.co.uk/img/media/edbf96cec3742402b1c5184714e942355b463db5/2688_1327_3404_2723/master/3404.jpg?width=140&quality=85&auto=format&fit=max&s=94c8d838be94575d49c739f0944569e3",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
