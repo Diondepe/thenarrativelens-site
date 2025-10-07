@@ -1,5 +1,53 @@
 [
   {
+    "id": "The Guardian — UK-431d84558d",
+    "source": "The Guardian — UK",
+    "title": "Badenoch faces grilling over lack of support from Tory members as conference continues – UK politics live",
+    "summary": "Conservative leader facing broadcast interviews this morning as a poll suggests half of members do not think she will lead party into the next election Good morning. Kemi Badenoch is doing a round of interviews this morning at the Conservative conference in Manchester, and she is likely to be asked about polling out yesterday suggesting half of party members do not think she will lead the party into the next election. Robert Jenrick, the shadow justice secretary, came top when YouGov asked members who they would vote for if there is another contest, but not overwhelmingly. Jenrick, who gives his speech in the conference hall today, was on 37%, and YouGov only asked about three other alternatives (Boris Johnson, James Cleverly and Priti Patel). Here is the agenda for the day. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/07/conservative-tory-conference-kemi-badenoch-jenrick-starmer-labour-protests-reform-uk-politics-live-news-updates",
+    "published": "2025-10-07T06:21:06Z",
+    "image_url": "https://i.guim.co.uk/img/media/059ac2d52d266ae907bbfd7f2ac5f7e24d7739ee/599_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4a7f838279033ab3f1beac619026093e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-b53aa1f4a1",
+    "source": "The Guardian — UK",
+    "title": "Robert Jenrick complained of ‘not seeing another white face’ in Birmingham neighbourhood",
+    "summary": "Shadow justice secretary criticised for suggesting he could tell how integrated Handsworth was based on short visit Robert Jenrick complained about visiting an area of Birmingham where he “didn’t see another white face” and said it was not the kind of country he wanted to live in. After highlighting the lack of white people, the shadow justice secretary said it was not about “the colour of your skin or your faith” and he wanted people to live alongside each other. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/06/robert-jenrick-complained-of-not-seeing-another-white-face-in-handsworth-birmingham",
+    "published": "2025-10-07T05:57:01Z",
+    "image_url": "https://i.guim.co.uk/img/media/45ed0d365876939d53a881bcd85c9c1a4f6636fd/883_828_6165_4932/master/6165.jpg?width=140&quality=85&auto=format&fit=max&s=56d4a1fb06168f81eb0952c38b6d1d51",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-8e2fb0a911",
+    "source": "BBC — Top Stories",
+    "title": "Cardiff uni defends Kazakhstan campus amid concerns",
+    "summary": "Hundreds of students have started lectures at the new campus, which is 3,712 miles from Cardiff.",
+    "url": "https://www.bbc.com/news/articles/cj07p0yn7g7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T05:25:50Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85af/live/0186f250-a2a5-11f0-a1eb-917cc1fe9fe4.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7274b1a1cf",
+    "source": "BBC — Top Stories",
+    "title": "'Positive sign' as pine martens released on Exmoor",
+    "summary": "They are \"back where they belong\" after being relocated from Scotland, conservationists say.",
+    "url": "https://www.bbc.com/news/articles/cdjz4yk3nrko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T05:17:55Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d54/live/7fbd5a90-a298-11f0-b5fb-09dc1426da0e.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-e5b05ac887",
     "source": "The Guardian — UK",
     "title": "Has Kemi Badenoch sounded the death knell for one nation Conservatism?",
@@ -79,18 +127,6 @@
     "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/frankreich-vorm-politischen-kollaps/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-07T03:45:35Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/Berlin-Playbook-Website-card-1-1.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-de9809bddc",
-    "source": "BBC — Top Stories",
-    "title": "Starmer urges students not to protest on Hamas attack anniversary",
-    "summary": "The prime minister says it is \"un-British\" to hold pro-Palestinian protests on the second anniversary of Hamas's attacks on Israel.",
-    "url": "https://www.bbc.com/news/articles/c1wgx5v90vyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T03:41:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d63/live/3a892d20-a313-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -252,6 +288,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-7dee2cb39a",
+    "source": "BBC — Top Stories",
+    "title": "Stretched job centre staff struggling to get disabled people into work",
+    "summary": "The government wants work coaches to provide personalised support, but some have caseloads of up to 200 people.",
+    "url": "https://www.bbc.com/news/articles/c4gz9njvj43o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T23:44:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/472b/live/28d7a800-a2a9-11f0-b41e-0d1eddfd7cf3.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-4abaaa2dca",
     "source": "BBC — Top Stories",
     "title": "Snapchat users share fury at upcoming fees for storing old photos and videos",
@@ -302,7 +350,7 @@
   {
     "id": "BBC — Top Stories-ad4adc5bba",
     "source": "BBC — Top Stories",
-    "title": "Conservatives promise to scrap Sentencing Council",
+    "title": "Tories pledge to scrap Sentencing Council and let ministers issue court guidelines",
     "summary": "Shadow justice secretary Robert Jenrick will set out plans they say would put ministers in charge of sentencing policy.",
     "url": "https://www.bbc.com/news/articles/cn95w5jqyz0o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T21:43:39Z",
@@ -330,7 +378,7 @@
     "summary": "BBC News is given access to what the Met Police says is the UK's largest operation against mobile phone thefts.",
     "url": "https://www.bbc.com/news/articles/c20vlpwrzwdo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T21:00:30Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9e5/live/fbcd2ac0-a2b6-11f0-b741-177e3e2c2fc7.png",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed69/live/658700f0-a346-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -384,30 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-c24edca7e0",
-    "source": "BBC — Top Stories",
-    "title": "US Supreme Court rejects Ghislaine Maxwell appeal in Epstein case",
-    "summary": "The British socialite is serving a 20-year prison sentence on sex-trafficking charges related to former boyfriend Jeffrey Epstein.",
-    "url": "https://www.bbc.com/news/articles/cn83e6q7lq4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T19:11:11Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd26/live/1f0875e0-a2d4-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-5f00542f1c",
-    "source": "BBC — Top Stories",
-    "title": "First-year resident doctors back strike action over jobs shortage",
-    "summary": "British Medical Association say 30,000 medics were chasing 10,000 jobs this year.",
-    "url": "https://www.bbc.com/news/articles/cly147075p2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T18:51:14Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b567/live/b3b82fb0-a2dd-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-267fadb052",
     "source": "The Guardian — UK",
     "title": "Jaguar Land Rover aims to restart limited production after cyber-attack",
@@ -415,30 +439,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/06/jaguar-land-rover-restart-production-cyberattack",
     "published": "2025-10-06T18:26:58Z",
     "image_url": "https://i.guim.co.uk/img/media/3a5b0333e3cdae13d1c7b449e722660775a06eea/39_0_4818_3856/master/4818.jpg?width=140&quality=85&auto=format&fit=max&s=0a0c325be7a551e020732d18d901e07c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-960ba00ba9",
-    "source": "The Guardian — UK",
-    "title": "Lack of school closure plan ‘an extraordinary dereliction of duty’, Covid inquiry told",
-    "summary": "Academy trust head Jon Coles says he nearly fell off his chair when Gavin Williamson said no plan was in place The leader of one of the largest academy trusts in England has described the Department for Education’s failure to do any planning for school closures before lockdown in March 2020 as “an extraordinary dereliction of duty”. Jon Coles, the chief executive of United Learning, told the UK Covid-19 inquiry he nearly fell off his chair when he read a statement from Gavin Williamson, the education secretary at the time, in which he said there was zero planning for closures because the priority was keeping schools open. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/06/dfe-failure-to-plan-for-covid-school-closures-was-extraordinary-dereliction-of-duty-academy-head-tells-inquiry",
-    "published": "2025-10-06T18:13:39Z",
-    "image_url": "https://i.guim.co.uk/img/media/75b4ebf8e722e98085138efd7f1101a6a5f41fda/288_0_1331_1065/master/1331.jpg?width=140&quality=85&auto=format&fit=max&s=dc68e2868fe476f1c7fa3476f8f2651f",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-4e6605020e",
-    "source": "The Guardian — UK",
-    "title": "Man arrested on suspicion of arson after fire at mosque in East Sussex",
-    "summary": "Police investigating blaze in Peacehaven say 46-year-old is suspected of arson with intent to endanger life A man has been arrested on suspicion of arson with intent to endanger life after a fire at a mosque in East Sussex. A 46-year-old was in custody after an arrest was made on Monday afternoon, police said. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/06/man-arrested-suspicion-arson-fire-mosque-east-sussex",
-    "published": "2025-10-06T18:10:52Z",
-    "image_url": "https://i.guim.co.uk/img/media/1bcbf8c9d40cd3e66451571983fa16d8994c70fd/437_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=50928aaf508d0394744b1b7760325d0a",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
