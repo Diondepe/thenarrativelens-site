@@ -1,5 +1,29 @@
 [
   {
+    "id": "BBC — Top Stories-ff17ead336",
+    "source": "BBC — Top Stories",
+    "title": "Dog attacks are still rising - even after the XL bully ban",
+    "summary": "With close to 32,000 dog attacks recorded in England and Wales last year, is there a better solution?",
+    "url": "https://www.bbc.com/news/articles/cvgvy2yyv8mo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T23:09:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f42/live/7b0a3510-a390-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6b4d091288",
+    "source": "BBC — Top Stories",
+    "title": "High security a fact of life for UK Jewish community living in fear of attack",
+    "summary": "Leaders in the UK's tight-knit Jewish population are asking what more can be done to keep their institutions safe.",
+    "url": "https://www.bbc.com/news/articles/cly09x107e8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T23:04:54Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2bd/live/dbaefb80-a093-11f0-b1b3-b903aa8071ae.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-0657720a93",
     "source": "The Guardian — UK",
     "title": "A British Ice and more stop and search: Badenoch’s Tories set out new policies",
@@ -127,18 +151,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/07/alleged-stalker-of-parents-of-madeleine-mccann-sent-letter-signed-madeleine-x",
     "published": "2025-10-07T18:41:38Z",
     "image_url": "https://i.guim.co.uk/img/media/8dbd3f3706f1af8947530563a7825710b9044e0c/412_0_1439_1152/master/1439.jpg?width=140&quality=85&auto=format&fit=max&s=160a7057e5a8f72a8fac4b3fa4a8feaf",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-18e72f8397",
-    "source": "BBC — Top Stories",
-    "title": "Everest hikers guided to safety after being stranded by blizzard",
-    "summary": "Hundreds of hikers have been guided to safety in Tibet after becoming trapped over the weekend by heavy snowfall.",
-    "url": "https://www.bbc.com/news/articles/cd079zn2m5vo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T18:28:24Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6460/live/088f0f50-a3a5-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -451,18 +463,6 @@
     "url": "https://www.bbc.com/news/articles/c8jmddp1v49o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T12:58:18Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28aa/live/bb474f10-a371-11f0-b6c8-ab6f97553cbf.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-1dc8b26458",
-    "source": "BBC — Top Stories",
-    "title": "Farage 'genuinely worried' by death threat, court hears",
-    "summary": "Southwark Crown Court hears how Fayaz Khan posted a video in which he makes a gun gesture with his hand before saying \"pop, pop, pop\".",
-    "url": "https://www.bbc.com/news/articles/cyv6zd73jmzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T12:57:18Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aa6/live/2a6ddeb0-a375-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
