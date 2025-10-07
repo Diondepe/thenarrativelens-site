@@ -1,5 +1,113 @@
 [
   {
+    "id": "BBC — Top Stories-e7c82554ca",
+    "source": "BBC — Top Stories",
+    "title": "Mother of Israeli hostage says she still doesn't know if he's alive or dead",
+    "summary": "Two years on from Hamas' attack on 7 October, Herut Nimrodi says she is clinging to hope that her son Tamir is \"still hanging on\".",
+    "url": "https://www.bbc.com/news/articles/c7840n4nwx8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T02:32:36Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2645/live/617f2700-a2c7-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-44b3d080cc",
+    "source": "Politico — UK",
+    "title": "German Cabinet splits over EU combustion engine ban letter",
+    "summary": "A letter signed by Germany's economy minister has the center-left SPD up in arms.",
+    "url": "https://www.politico.eu/article/germany-cabinet-eu-combustion-engine-ban-letter-spd-emissions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-07T02:22:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-2237741720.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-0e77d16978",
+    "source": "Politico — UK",
+    "title": "Zucman: French government should’ve listened to me on wealth tax",
+    "summary": "The popular economist says France's 3 previous prime ministers ignored his proposal.",
+    "url": "https://www.politico.eu/article/gabriel-zucman-france-government-should-listen-wealth-tax/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-07T02:13:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-2041299210-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-dbd777265d",
+    "source": "BBC — Top Stories",
+    "title": "Gaza peace plan talks to continue as Trump says chance of a deal is 'really good'",
+    "summary": "The talks in Egypt are expected to be among the most consequential since the start of the war two years ago.",
+    "url": "https://www.bbc.com/news/articles/c708l7vgwywo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T02:07:21Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e99/live/02c2b3f0-a324-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-6661f2c220",
+    "source": "Politico — UK",
+    "title": "If ever there were a moment to defend the ICC, this is it",
+    "summary": "Without more robust assistance from its allies, financial and political pressure from the U.S. will make the court a weaker institution — if it survives at all.",
+    "url": "https://www.politico.eu/article/if-ever-there-were-a-moment-to-defend-the-icc-this-is-it/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-07T02:02:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-2225752194-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-67a9f75f85",
+    "source": "Politico — UK",
+    "title": "Panicked Tories scramble to bury Boris Johnson’s legacy",
+    "summary": "Britain’s Conservatives are still tidying up after their former leader — while privately mourning the loss of his chaotic charisma's poll-boosting magic.",
+    "url": "https://www.politico.eu/article/boris-johnson-uk-conservative-party-nigel-farage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-07T02:01:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/GettyImages-2214678754-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-5f8c3d7095",
+    "source": "Politico — UK",
+    "title": "Von der Leyen hopes her caring, sharing side will win round critics",
+    "summary": "The European Commission president faces another set of no-confidence votes on Thursday. She hopes that by listening more, she'll bolster her support.",
+    "url": "https://www.politico.eu/article/ursula-von-der-leyen-no-confidence-vote-politics/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-07T02:01:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/GettyImages-2238715874-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-67d58377f3",
+    "source": "Politico — UK",
+    "title": "Why Macron’s meltdown weakens Europe",
+    "summary": "Investors and governments have no idea what President Emmanuel Macron will do to tackle France’s budget deficit and political crisis. That uncertainty is freaking them out.",
+    "url": "https://www.politico.eu/article/france-political-crisis-emmanuel-macron-sebastien-lecornu-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-07T02:01:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/GettyImages-2238361271.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a8e2ba637f",
+    "source": "BBC — Top Stories",
+    "title": "Jenrick defends calling Birmingham area one of 'worst-integrated places'",
+    "summary": "The shadow justice secretary stands by his comments about the Birmingham area amid sharp criticism.",
+    "url": "https://www.bbc.com/news/articles/cy85zlpwne6o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T01:21:33Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae6/live/a75376e0-a30e-11f0-8d57-2757fb03f316.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-24f7137281",
     "source": "BBC — Top Stories",
     "title": "'UK Gaza protests going ahead' and 'Romp in Peace, Jilly'",
@@ -31,18 +139,6 @@
     "url": "https://www.bbc.com/news/articles/c4g5ypl6nkzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T23:40:34Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d504/live/11b47050-a06e-11f0-8687-4726d7177866.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e7c82554ca",
-    "source": "BBC — Top Stories",
-    "title": "Mother of Israeli hostage says she still doesn't know if he's alive or dead",
-    "summary": "Two years on from Hamas' attack on 7 October, Herut Nimrodi says she is clinging to hope that her son Tamir is \"still hanging on\".",
-    "url": "https://www.bbc.com/news/articles/c7840n4nwx8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T23:12:10Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2645/live/617f2700-a2c7-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -324,42 +420,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-dbd777265d",
-    "source": "BBC — Top Stories",
-    "title": "Israel and Hamas begin indirect talks in Egypt on Trump's Gaza peace plan",
-    "summary": "The talks are expected to be among the most consequential since the start of the war two years ago.",
-    "url": "https://www.bbc.com/news/articles/c708l7vgwywo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T17:27:02Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3501/live/d3778430-a2de-11f0-a01f-432b14e9b57f.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-845309da65",
-    "source": "Politico — UK",
-    "title": "Macron asks PM to find way out of crisis one more time after shock resignation",
-    "summary": "The French president gave Lecornu 48 hours to find a path forward despite having accepted his resignation Monday morning.",
-    "url": "https://www.politico.eu/article/emmanuel-macron-asks-sebastien-lecornu-stay-board-for-now/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-06T17:21:08Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-2238357119.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-ea78e788e6",
-    "source": "Politico — UK",
-    "title": "Flotte fantôme russe : des navires continuent de déverser du pétrole dans les eaux européennes, malgré les sanctions",
-    "summary": "Des pétroliers vétustes ont navigué sans entrave dans les eaux européennes après avoir laissé derrière eux des nappes d’or noir près du continent.",
-    "url": "https://www.politico.eu/article/flotte-fantome-russe-des-navires-continuent-de-deverser-du-petrole-dans-les-eaux-europeennes-malgre-les-sanctions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-06T17:07:18Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/02/GettyImages-2231437712-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-485894f11f",
     "source": "The Guardian — UK",
     "title": "Jonathan Powell to face MPs over role in collapse of espionage trial",
@@ -384,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-d630eef6cc",
-    "source": "Politico — UK",
-    "title": "Update: Regierungsvakuum in Frankreich – zwischen Hass und Frieden im Nahen Osten",
-    "summary": "Frankreichs Premier Sébastien Lecornu tritt nur kurz nach seinem Amtsantritt zurück. Im Gespräch mit Rixa Fürsen analysiert Hans von der Burchard die Krise, den Machtverlust des Präsidenten und die gefährliche Blockade im französischen Parlament. Für Macron wird die Suche nach Stabilität endgültig zur Machtfrage. Parallel richtet sich der Blick nach Ägypten, wo die Friedensgespräche zwischen […]",
-    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/update-regierungsvakuum-in-frankreich-zwischen-hass-und-frieden-im-nahen-osten/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-06T16:09:31Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/Berlin-Playbook-Website-card-1-1-1.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-923e4a46ee",
     "source": "The Guardian — UK",
     "title": "Reform UK likely to raise council tax in Kent despite promise to cut costs",
@@ -403,42 +451,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/06/reform-uk-likely-to-raise-council-tax-in-kent-despite-promises-of-cost-cutting-drive",
     "published": "2025-10-06T16:05:14Z",
     "image_url": "https://i.guim.co.uk/img/media/5fdae1145a6b9fb8c188e82a5b7b7e3d3e80ef87/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ee913bbdfdf850fd390b680472f2ff4f",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-afa62d590e",
-    "source": "Politico — UK",
-    "title": "Former Australian PM offers Britain a lesson on immigration policy",
-    "summary": "Migrants crossing on small boats should be forced to return to France, said Tony Abbott.",
-    "url": "https://www.politico.eu/article/former-australian-pm-tony-abbott-offers-britain-lesson-immigration-policy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-06T16:03:25Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/DAY-2_16-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-f1aeefe3ee",
-    "source": "Politico — UK",
-    "title": "Czech president hints right-wing populist Babiš will become PM",
-    "summary": "Far-right Freedom and Direct Democracy (SPD) and right-wing Motorists for Themselves look to join a coalition government.",
-    "url": "https://www.politico.eu/article/czech-president-petr-pavel-hints-tapping-andrej-babis-pm-urges-keep-ammunition-aid/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-06T15:43:12Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-2238966116-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-c07dbdee68",
-    "source": "Politico — UK",
-    "title": "Marine Le Pen smells blood as Macron runs out of options",
-    "summary": "The far-right National Rally is pushing for new elections.",
-    "url": "https://www.politico.eu/article/marine-le-pen-smells-blood-emmanuel-macron-runs-out-of-options/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-06T15:37:34Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-2239148841-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -499,18 +511,6 @@
     "url": "https://www.bbc.com/news/videos/cvg0yp5v88po?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T14:34:38Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/899b/live/8312f3c0-a2d0-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-de9d8936b4",
-    "source": "BBC — Top Stories",
-    "title": "Queen leads tributes to 'wonderfully witty friend' Dame Jilly Cooper",
-    "summary": "Rivals author died aged 88 after a fall, with Queen wishing her a \"hereafter filled with impossibly handsome men and devoted dogs\".",
-    "url": "https://www.bbc.com/news/articles/cr5q0dr47mlo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T12:57:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31cd/live/c0c54c90-a2a3-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
