@@ -1,12 +1,60 @@
 [
   {
+    "id": "BBC — Top Stories-a8e2ba637f",
+    "source": "BBC — Top Stories",
+    "title": "Jenrick defends calling Birmingham area one of 'worst-integrated places'",
+    "summary": "The shadow justice secretary stands by his comments about the Birmingham area amid sharp criticism.",
+    "url": "https://www.bbc.com/news/articles/cy85zlpwne6o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T07:15:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae6/live/a75376e0-a30e-11f0-8d57-2757fb03f316.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-431d84558d",
     "source": "The Guardian — UK",
-    "title": "Badenoch faces grilling over lack of support from Tory members as conference continues – UK politics live",
-    "summary": "Conservative leader facing broadcast interviews this morning as a poll suggests half of members do not think she will lead party into the next election Good morning. Kemi Badenoch is doing a round of interviews this morning at the Conservative conference in Manchester, and she is likely to be asked about polling out yesterday suggesting half of party members do not think she will lead the party into the next election. Robert Jenrick, the shadow justice secretary, came top when YouGov asked members who they would vote for if there is another contest, but not overwhelmingly. Jenrick, who gives his speech in the conference hall today, was on 37%, and YouGov only asked about three other alternatives (Boris Johnson, James Cleverly and Priti Patel). Here is the agenda for the day. Continue reading...",
+    "title": "Badenoch defends Jenrick over comments that he ‘did not see another white face’ in Birmingham – UK politics live",
+    "summary": "Conservative leader suggests remarks in Guardian report could have been taken out of context and he was ‘making an observation’ Asked about the Jenrick story, Badenoch again suggests Guardian reporting is reliable. Q: Jenrick was making a distinction between white faces and brown faces. Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/oct/07/conservative-tory-conference-kemi-badenoch-jenrick-starmer-labour-protests-reform-uk-politics-live-news-updates",
-    "published": "2025-10-07T06:21:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/059ac2d52d266ae907bbfd7f2ac5f7e24d7739ee/599_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4a7f838279033ab3f1beac619026093e",
+    "published": "2025-10-07T07:13:01Z",
+    "image_url": "https://i.guim.co.uk/img/media/83bf1f0275cdc0064ae2ef16f7befb863ae1aed3/467_0_6319_5056/master/6319.jpg?width=140&quality=85&auto=format&fit=max&s=6563c0b454449df8c065d2da7d5be52c",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-f896aabfb8",
+    "source": "The Guardian — UK",
+    "title": "Keir Starmer calls student protests on 7 October anniversary ‘un-British’",
+    "summary": "Prime minister urges students not to protest on the second anniversary of Hamas’s 7 October attacks on Israel Keir Starmer has urged students not to protest on the second anniversary of the Hamas-led 7 October attacks on Israel, describing plans for demonstrations as “un-British”. Every child of Israel should be able to live alongside their Palestinian neighbours in “safety and security”, the prime minister said as he marked the anniversary. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/07/keir-starmer-calls-student-protests-on-7-october-anniversary-un-british",
+    "published": "2025-10-07T06:52:53Z",
+    "image_url": "https://i.guim.co.uk/img/media/03ca9913f5f18254e6cf22855672cc350f6912e7/1595_83_2177_1741/master/2177.jpg?width=140&quality=85&auto=format&fit=max&s=02f37bd5ae46daea85ac4eee720660db",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-d04d8bf888",
+    "source": "The Guardian — UK",
+    "title": "Stephen Lawrence’s father says killer should name others before parole considered",
+    "summary": "Neville Lawrence, 83, is preparing for David Norris, now 49, to appear for first time to plead for his freedom Stephen Lawrence’s father says one of his son’s killers should name the other members of the gang who murdered him before being considered for parole. Neville Lawrence, 83, is preparing for David Norris to appear before a Parole Board for the first time to plead for his freedom. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/07/stephen-lawrence-father-says-killer-should-name-others-before-parole-considered",
+    "published": "2025-10-07T06:36:44Z",
+    "image_url": "https://i.guim.co.uk/img/media/765ea2d81cd81f5d2f8e908b647bb3e01ef27fb7/0_755_2896_2315/master/2896.jpg?width=140&quality=85&auto=format&fit=max&s=f5d1a37eb2fa5d65c02b5bea00bb9973",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9494216f72",
+    "source": "BBC — Top Stories",
+    "title": "What are the key sticking points in Trump's Gaza peace plan?",
+    "summary": "Negotiators from Israel and Hamas are heading to Sharm El-Sheikh, Egypt, to start indirect talks about ending the Israel-Gaza war.",
+    "url": "https://www.bbc.com/news/articles/c930v44dg2ro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T06:31:54Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a650/live/54b668f0-a2bb-11f0-b2c5-019105d9c0cd.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -26,11 +74,11 @@
   {
     "id": "BBC — Top Stories-8e2fb0a911",
     "source": "BBC — Top Stories",
-    "title": "Cardiff uni defends Kazakhstan campus amid concerns",
+    "title": "Uni defends new Kazakhstan campus amid human rights concerns",
     "summary": "Hundreds of students have started lectures at the new campus, which is 3,712 miles from Cardiff.",
     "url": "https://www.bbc.com/news/articles/cj07p0yn7g7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T05:25:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85af/live/0186f250-a2a5-11f0-a1eb-917cc1fe9fe4.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c560/live/6d8ba840-a347-11f0-b6e6-7b8c87923e4f.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -255,22 +303,10 @@
     "id": "Politico — UK-67d58377f3",
     "source": "Politico — UK",
     "title": "Why Macron’s meltdown weakens Europe",
-    "summary": "Investors and governments have no idea what President Emmanuel Macron will do to tackle France’s budget deficit and political crisis. That uncertainty is freaking them out.",
+    "summary": "Investors and governments have no idea what the French president will do to tackle a budget deficit and political crisis. That uncertainty is freaking them out.",
     "url": "https://www.politico.eu/article/france-political-crisis-emmanuel-macron-sebastien-lecornu-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-07T02:01:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/GettyImages-2238361271.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a8e2ba637f",
-    "source": "BBC — Top Stories",
-    "title": "Jenrick defends calling Birmingham area one of 'worst-integrated places'",
-    "summary": "The shadow justice secretary stands by his comments about the Birmingham area amid sharp criticism.",
-    "url": "https://www.bbc.com/news/articles/cy85zlpwne6o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T01:21:33Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae6/live/a75376e0-a30e-11f0-8d57-2757fb03f316.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -408,21 +444,9 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-0abfb97f5b",
-    "source": "The Guardian — UK",
-    "title": "Tories set a low bar after misspelling Britain on conference chocolate",
-    "summary": "Misprinted wrappers pulled from Manchester goodie bags after derision on social media A chocolate bar given out by the Conservatives at their annual party conference misspelled the name of the country they are hoping to govern. The confectionery, in a blue wrapper, featured a slogan from the Tory party leader with an incorrect spelling of Britain. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/06/conservative-party-misspell-britain-conference-chocolate-bar",
-    "published": "2025-10-06T19:55:47Z",
-    "image_url": "https://i.guim.co.uk/img/media/71dfa8bc883799e06e289da0a5bccdecf4622e03/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fca13f251fb9a5bad81c02b7f2b75da3",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-8cf8307e19",
     "source": "BBC — Top Stories",
-    "title": "'With power comes responsibility' - the footballer who cycles to work",
+    "title": "The footballer who cycles to work after being inspired by Wenger",
     "summary": "Former Arsenal defender Hector Bellerin talks about his attempts to live a more sustainable life as he wins the BBC Green Sports Award.",
     "url": "https://www.bbc.com/sport/football/articles/cly17g1yp09o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T19:30:39Z",
@@ -432,13 +456,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-267fadb052",
+    "id": "The Guardian — UK-960ba00ba9",
     "source": "The Guardian — UK",
-    "title": "Jaguar Land Rover aims to restart limited production after cyber-attack",
-    "summary": "Wolverhampton expected to be first plant to resume output, with some workers understood to have returned Some factory workers at Jaguar Land Rover (JLR) returned to work on Monday, with the British manufacturer hoping to start making a limited number of cars as soon as this week after a crippling cyber-attack. The first factory expected to restart production is at Wolverhampton in the West Midlands , where JLR makes engines. Some workers are understood to have returned to the site on Monday. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/06/jaguar-land-rover-restart-production-cyberattack",
-    "published": "2025-10-06T18:26:58Z",
-    "image_url": "https://i.guim.co.uk/img/media/3a5b0333e3cdae13d1c7b449e722660775a06eea/39_0_4818_3856/master/4818.jpg?width=140&quality=85&auto=format&fit=max&s=0a0c325be7a551e020732d18d901e07c",
+    "title": "Lack of school closure plan ‘an extraordinary dereliction of duty’, Covid inquiry told",
+    "summary": "Academy trust head Jon Coles says he nearly fell off his chair when Gavin Williamson said no plan was in place The leader of one of the largest academy trusts in England has described the Department for Education’s failure to do any planning for school closures before lockdown in March 2020 as “an extraordinary dereliction of duty”. Jon Coles, the chief executive of United Learning, told the UK Covid-19 inquiry he nearly fell off his chair when he read a statement from Gavin Williamson, the education secretary at the time, in which he said there was zero planning for closures because the priority was keeping schools open. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/06/dfe-failure-to-plan-for-covid-school-closures-was-extraordinary-dereliction-of-duty-academy-head-tells-inquiry",
+    "published": "2025-10-06T18:13:39Z",
+    "image_url": "https://i.guim.co.uk/img/media/75b4ebf8e722e98085138efd7f1101a6a5f41fda/288_0_1331_1065/master/1331.jpg?width=140&quality=85&auto=format&fit=max&s=dc68e2868fe476f1c7fa3476f8f2651f",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -528,18 +552,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-e5b709763e",
-    "source": "The Guardian — UK",
-    "title": "Tax authorities examine finances of key Nigel Farage ally",
-    "summary": "Exclusive: HMRC conducts scoping exercise into Reform UK backer ‘Posh George’ Cottrell’s income from business and wealth The finances of one of Nigel Farage’s key confidants are being examined by the UK’s tax and revenue authorities amid questions over his income from wealth and business activities, the Guardian understands. The scoping exercise by HMRC is said to be focused on tax residency and the business affairs of George Cottrell, whom Reform UK’s leader Farage has described as “like a son to me”. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/06/tax-authorities-nigel-farage-hmrc-reform-uk-george-cottrell",
-    "published": "2025-10-06T14:50:42Z",
-    "image_url": "https://i.guim.co.uk/img/media/75e9da0438b03a21e949eceaff5def7705f1a433/453_99_2747_2197/master/2747.jpg?width=140&quality=85&auto=format&fit=max&s=0509ac9688aea0d3546c13c32a2c1740",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-d2371ba8d0",
     "source": "BBC — Top Stories",
     "title": "Watch: Jilly Cooper's surprise cameo in hit TV series Rivals",
@@ -547,18 +559,6 @@
     "url": "https://www.bbc.com/news/videos/cvg0yp5v88po?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T14:34:38Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/899b/live/8312f3c0-a2d0-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9494216f72",
-    "source": "BBC — Top Stories",
-    "title": "What are the key sticking points in Trump's Gaza peace plan?",
-    "summary": "Negotiators from Israel and Hamas are heading to Sharm El-Sheikh, Egypt, to start indirect talks about ending the Israel-Gaza war.",
-    "url": "https://www.bbc.com/news/articles/c930v44dg2ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T11:48:47Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a650/live/54b668f0-a2bb-11f0-b2c5-019105d9c0cd.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
