@@ -1,12 +1,84 @@
 [
   {
+    "id": "BBC — Top Stories-7274b1a1cf",
+    "source": "BBC — Top Stories",
+    "title": "'Positive sign' as pine martens released on Exmoor",
+    "summary": "They are \"back where they belong\" after being relocated from Scotland, conservationists say.",
+    "url": "https://www.bbc.com/news/articles/cdjz4yk3nrko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T10:18:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d54/live/7fbd5a90-a298-11f0-b5fb-09dc1426da0e.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-822f5c01e6",
+    "source": "Politico — UK",
+    "title": "Trump blasts ‘crazy’ NFL over Bad Bunny Super Bowl halftime show",
+    "summary": "\"Never heard of him,\" the president said of the Puerto Rican rapper and singer who has criticized his immigration policies.",
+    "url": "https://www.politico.com/news/2025/10/07/donald-trump-bad-bunny-super-bowl-halftime-show-crazy-00595886?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-07T10:16:11Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-431d84558d",
     "source": "The Guardian — UK",
     "title": "Badenoch defends Jenrick over comments that he ‘did not see another white face’ in Birmingham – UK politics live",
     "summary": "Conservative leader suggests remarks in Guardian report could have been taken out of context and he was ‘making an observation’ Asked about the Jenrick story, Badenoch again suggests Guardian reporting is reliable. Q: Jenrick was making a distinction between white faces and brown faces. Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/oct/07/conservative-tory-conference-kemi-badenoch-jenrick-starmer-labour-protests-reform-uk-politics-live-news-updates",
-    "published": "2025-10-07T09:11:43Z",
-    "image_url": "https://i.guim.co.uk/img/media/83bf1f0275cdc0064ae2ef16f7befb863ae1aed3/467_0_6319_5056/master/6319.jpg?width=140&quality=85&auto=format&fit=max&s=6563c0b454449df8c065d2da7d5be52c",
+    "published": "2025-10-07T10:11:32Z",
+    "image_url": "https://i.guim.co.uk/img/media/963962bdc3a47355da4ce01a4c60b10e0d5213e9/17_0_3327_2661/master/3327.jpg?width=140&quality=85&auto=format&fit=max&s=4fc2753d196158e5b11127b6ae78cc7c",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-ffdae89f2a",
+    "source": "Politico — UK",
+    "title": "Greta Thunberg bites back at Donald Trump’s ‘see a doctor’ remark",
+    "summary": "You need a therapist. No, you need a therapist.",
+    "url": "https://www.politico.eu/article/greta-thunberg-us-donald-trump-doctors-comments-gaza-flotilla/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-07T10:06:47Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/GettyImages-2239221274-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1e2529a618",
+    "source": "BBC — Top Stories",
+    "title": "Thieves snatch Bronze Age gold in four-minute museum heist",
+    "summary": "Two thieves stole 'irreplaceable' gold artefacts in a targeted attack on St Fagans Museum in Cardiff.",
+    "url": "https://www.bbc.com/news/articles/cj9zxdpwn73o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T09:35:39Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30e7/live/06608ca0-a34f-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a4a509cade",
+    "source": "BBC — Top Stories",
+    "title": "Macron should call early presidential vote, his first PM says",
+    "summary": "Édouard Philippe's intervention comes a day after the French president's latest PM resigned just days into the role.",
+    "url": "https://www.bbc.com/news/articles/cn0rjn3l8w2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T09:27:35Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84fa/live/866e7c90-a359-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-17de90a30c",
+    "source": "The Guardian — UK",
+    "title": "Jaguar Land Rover launches phased restart at factories after cyber-attack",
+    "summary": "Carmaker also announces new financing scheme to give suppliers cash upfront during restart phase Business live – latest updates Jaguar Land Rover has said it will begin the phased restart of its manufacturing operations on Wednesday, more than a month after the British carmaker’s factories were hit by a cyber-attack. The maker of Jaguar and Land Rover cars has been scrambling to get its systems up and running again after the hack on the last day of August forced it to shut down factories and retail operations around the world. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/07/jaguar-land-rover-restart-production-suppliers-cyber-attack",
+    "published": "2025-10-07T09:23:25Z",
+    "image_url": "https://i.guim.co.uk/img/media/750face4a6fc697c9bc1399e40dc9576bf717601/392_0_3923_3138/master/3923.jpg?width=140&quality=85&auto=format&fit=max&s=86fed4d09a979c54b69a647c96aa1433",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -31,18 +103,6 @@
     "url": "https://www.bbc.com/news/articles/cy85zlpwne6o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T08:55:49Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae6/live/a75376e0-a30e-11f0-8d57-2757fb03f316.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-ad4adc5bba",
-    "source": "BBC — Top Stories",
-    "title": "Tories pledge to scrap Sentencing Council and let ministers issue court guidelines",
-    "summary": "Shadow justice secretary Robert Jenrick will set out plans they say would put ministers in charge of sentencing policy.",
-    "url": "https://www.bbc.com/news/articles/cn95w5jqyz0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T08:52:40Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d49/live/adfee810-a315-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -75,7 +135,7 @@
     "id": "The Guardian — UK-8d7a2893a0",
     "source": "The Guardian — UK",
     "title": "Badenoch defends Jenrick’s ‘no white faces’ comments about Birmingham",
-    "summary": "Tory leader says ‘nothing wrong with making observations’ after Jenrick said Handsworth was ‘as close as I’ve come to a slum in this country’ UK politics live – latest updates Kemi Badenoch has defended her colleague Robert Jenrick over his complaint about not seeing “another white face” in a part of Birmingham but said the debate should not be about what people look like in the streets. The Conservative leader said the shadow justice secretary had made a “factual statement” and there was “nothing wrong with making observations”. But she also told BBC Breakfast: “I don’t think this is where the debate should be, about how many faces people see on the street and what they look like.” Continue reading...",
+    "summary": "Tory leader says ‘nothing wrong with making observations’, after Jenrick said Handsworth was ‘as close as I’ve come to a slum in this country’ UK politics live – latest updates Kemi Badenoch has defended her colleague Robert Jenrick over his complaint about not seeing “another white face” in a part of Birmingham but said the debate should not be about what people look like in the streets. The Conservative leader said the shadow justice secretary had made a “factual statement” and there was “nothing wrong with making observations”. But she also told BBC Breakfast: “I don’t think this is where the debate should be, about how many faces people see on the street and what they look like.” Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/oct/07/badenoch-defends-jenrick-no-white-faces-in-birmingham-comments",
     "published": "2025-10-07T08:32:17Z",
     "image_url": "https://i.guim.co.uk/img/media/bd3e165bd91118d4baa572165653f74aeb9e02d1/43_0_5108_4087/master/5108.jpg?width=140&quality=85&auto=format&fit=max&s=c92c7ce028b888af3dadbc2442628615",
@@ -91,18 +151,6 @@
     "url": "https://www.bbc.com/news/articles/c20vlpwrzwdo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T08:26:08Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed69/live/658700f0-a346-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-17de90a30c",
-    "source": "The Guardian — UK",
-    "title": "Jaguar Land Rover to begin phased restart of production on Wednesday",
-    "summary": "Carmaker also announces new financing scheme to give suppliers cash upfront during restart phase Business live – latest updates Jaguar Land Rover has said it will begin the phased restart of its manufacturing operations on Wednesday, more than a month after the British carmaker’s factories were hit by a cyber-attack. The maker of Jaguar and Land Rover cars has been scrambling to get its systems up and running again after the hack on the last day of August forced it to shut down factories and retail operations around the world. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/07/jaguar-land-rover-restart-production-suppliers-cyber-attack",
-    "published": "2025-10-07T08:18:55Z",
-    "image_url": "https://i.guim.co.uk/img/media/70f2225ddc3b7d7998373177fd2e4d83b970b486/174_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=943ec0892bceffde92011eb77a0df8f7",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -228,18 +276,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-7274b1a1cf",
-    "source": "BBC — Top Stories",
-    "title": "'Positive sign' as pine martens released on Exmoor",
-    "summary": "They are \"back where they belong\" after being relocated from Scotland, conservationists say.",
-    "url": "https://www.bbc.com/news/articles/cdjz4yk3nrko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T05:17:55Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d54/live/7fbd5a90-a298-11f0-b5fb-09dc1426da0e.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-5a6779abc4",
     "source": "BBC — Top Stories",
     "title": "Watch: BBC correspondents share their memories of 7 October",
@@ -283,18 +319,6 @@
     "url": "https://www.bbc.com/news/articles/c89djd0yn1wo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T05:00:05Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3b0/live/640a6920-a2f0-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-24f7137281",
-    "source": "BBC — Top Stories",
-    "title": "The Papers: 'UK Gaza protests going ahead' and 'Romp in Peace, Jilly'",
-    "summary": "Protests on the two year anniversary of the Israel-Gaza war and Jilly Cooper's death make the papers.",
-    "url": "https://www.bbc.com/news/articles/c89dj8kvk7do?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T04:41:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7cf/live/d0c3af00-a303-11f0-928c-71dbb8619e94.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -391,30 +415,6 @@
     "url": "https://www.bbc.com/news/articles/c708l7vgwywo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T02:07:21Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee52/live/bf2bf000-a334-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-6661f2c220",
-    "source": "Politico — UK",
-    "title": "If ever there were a moment to defend the ICC, this is it",
-    "summary": "Without more robust assistance from its allies, financial and political pressure from the U.S. will make the court a weaker institution — if it survives at all.",
-    "url": "https://www.politico.eu/article/if-ever-there-were-a-moment-to-defend-the-icc-this-is-it/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-07T02:02:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-2225752194-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-67a9f75f85",
-    "source": "Politico — UK",
-    "title": "Panicked Tories scramble to bury Boris Johnson’s legacy",
-    "summary": "Britain’s Conservatives are still tidying up after their former leader — while privately mourning the loss of his chaotic charisma's poll-boosting magic.",
-    "url": "https://www.politico.eu/article/boris-johnson-uk-conservative-party-nigel-farage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-07T02:01:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/GettyImages-2214678754-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
