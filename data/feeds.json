@@ -1,5 +1,53 @@
 [
   {
+    "id": "The Guardian — UK-e5b05ac887",
+    "source": "The Guardian — UK",
+    "title": "Has Kemi Badenoch sounded the death knell for one nation Conservatism?",
+    "summary": "The Tory leader’s shift to the right has left its centrist wing wondering if its tradition still has a future In one popular reading of the history of Tory successes, the party’s last three election-winning prime ministers – John Major, David Cameron and Boris Johnson – all swept into Downing Street on unifying one-nation platforms. But for many people this year’s Tory conference, marked by its hardening rhetoric on asylum seekers and growing overtures to Nigel Farage’s brand of politics, feels a far cry from those broad principles. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/07/has-kemi-badenoch-sounded-the-death-knell-for-one-nation-conservatism",
+    "published": "2025-10-07T05:00:33Z",
+    "image_url": "https://i.guim.co.uk/img/media/2ec8aaa888c6521b7c2b82c54ed57a80a987706a/1327_0_6990_5592/master/6990.jpg?width=140&quality=85&auto=format&fit=max&s=f98c4cba58a2bc7bea7cb99bf9b31180",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-07a77dae94",
+    "source": "BBC — Top Stories",
+    "title": "Asylum hotel provider makes £180m profit despite claims of inedible food and rationed loo paper",
+    "summary": "Asylum seekers and charities tell BBC of \"terrible\" conditions as accommodation provider makes millions.",
+    "url": "https://www.bbc.com/news/articles/ce9r5m74de8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T05:00:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f73d/live/dc69c500-a2cd-11f0-b741-177e3e2c2fc7.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9d9631464c",
+    "source": "BBC — Top Stories",
+    "title": "Stephen Lawrence murderer must name other killers, father says",
+    "summary": "David Norris, one of only two men to be convicted over the 1993 murder, is bidding to be released from prison.",
+    "url": "https://www.bbc.com/news/articles/c89djd0yn1wo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T05:00:05Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3b0/live/640a6920-a2f0-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-24f7137281",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'UK Gaza protests going ahead' and 'Romp in Peace, Jilly'",
+    "summary": "Protests on the two year anniversary of the Israel-Gaza war and Jilly Cooper's death make the papers.",
+    "url": "https://www.bbc.com/news/articles/c89dj8kvk7do?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T04:41:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7cf/live/d0c3af00-a303-11f0-928c-71dbb8619e94.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-b735218d05",
     "source": "The Guardian — UK",
     "title": "‘Fiery and spectacular’ rainbow of autumn colour set to bloom across UK",
@@ -192,18 +240,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-24f7137281",
-    "source": "BBC — Top Stories",
-    "title": "The Papers: 'UK Gaza protests going ahead' and 'Romp in Peace, Jilly'",
-    "summary": "Protests on the two year anniversary of the Israel-Gaza war and Jilly Cooper's death make the papers.",
-    "url": "https://www.bbc.com/news/articles/c89dj8kvk7do?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T00:42:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7cf/live/d0c3af00-a303-11f0-928c-71dbb8619e94.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-adf9a43e56",
     "source": "BBC — Top Stories",
     "title": "Renewables overtake coal as world's biggest source of electricity",
@@ -211,18 +247,6 @@
     "url": "https://www.bbc.com/news/articles/cx2rz08en2po?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T00:02:03Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43c1/live/9d78fac0-a2e4-11f0-ba2e-7d74c4f6f1cb.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7dee2cb39a",
-    "source": "BBC — Top Stories",
-    "title": "Stretched job centre staff struggling to get disabled people into work",
-    "summary": "The government wants work coaches to provide personalised support, but some have caseloads of up to 200 people.",
-    "url": "https://www.bbc.com/news/articles/c4gz9njvj43o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T23:44:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/472b/live/28d7a800-a2a9-11f0-b41e-0d1eddfd7cf3.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -528,18 +552,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-de9d8936b4",
-    "source": "BBC — Top Stories",
-    "title": "Queen leads tributes to 'wonderfully witty friend' Dame Jilly Cooper",
-    "summary": "Rivals author died aged 88 after a fall, with Queen wishing her a \"hereafter filled with impossibly handsome men and devoted dogs\".",
-    "url": "https://www.bbc.com/news/articles/cr5q0dr47mlo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T12:57:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31cd/live/c0c54c90-a2a3-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-9494216f72",
     "source": "BBC — Top Stories",
     "title": "What are the key sticking points in Trump's Gaza peace plan?",
@@ -571,18 +583,6 @@
     "url": "https://www.theguardian.com/environment/ng-interactive/2025/oct/03/tories-vow-scrap-failed-targets-how-climate-claims-stack-up",
     "published": "2025-10-03T06:00:27Z",
     "image_url": "https://i.guim.co.uk/img/media/e83f6be517ca111593f9dffc20fc547ef3994f53/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=623464bfca744fa604522110b4a7b7f5",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-b13f2a0382",
-    "source": "The Guardian — UK",
-    "title": "MI5 and counter-terror police on heightened alert after synagogue attack",
-    "summary": "Policing at Jewish places of worship to increase as officials investigate killer’s motivations and ties to others Manchester synagogue attack: latest updates MI5 and counter-terrorism police will operate at a heightened state of alert in the coming weeks, reflecting concern that the Manchester synagogue attack may be followed by others during the period around the second anniversary of the 7 October attack by Hamas on Israel. Policing at synagogues across the country is to be increased. The London mayor, Sadiq Khan, promised “high visibility” patrols in and outside Jewish places of worship to reassure communities and to deter any further threats, while police forces elsewhere in the UK made similar commitments. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/02/mi5-and-counter-terror-police-on-heightened-alert-after-synagogue-attack",
-    "published": "2025-10-02T19:16:43Z",
-    "image_url": "https://i.guim.co.uk/img/media/fc2cc76738001724b6f89299821c14672dd0993f/0_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=976034b2e6d610296c3c0fe6a6e34cd8",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
