@@ -1,12 +1,48 @@
 [
   {
+    "id": "The Guardian — UK-0657720a93",
+    "source": "The Guardian — UK",
+    "title": "A British Ice and more stop and search: Badenoch’s Tories set out new policies",
+    "summary": "Shadow ministers have announced far-reaching and often radical proposals – here is a roundup of some of them Kemi Badenoch warned her shadow cabinet in January not to expect any detailed policies until 2027. “We’re not creating policies for 2028 in 2025,” a Tory spokesperson said at the time. This week that changed. At the Conservative party’s annual conference in Manchester, shadow ministers have lined up to announce detailed, far-reaching and often radical new policies. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/07/badenoch-tories-new-policies-british-ice-stop-and-search",
+    "published": "2025-10-07T21:46:21Z",
+    "image_url": "https://i.guim.co.uk/img/media/eabccc6d8bfaf92445c1efcc3229f0411ed62cbd/0_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=773b67fece5cb1bc2d4b501f1568a4bb",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a8e2ba637f",
+    "source": "BBC — Top Stories",
+    "title": "Lack of integration leads to dark place, Jenrick says after row over comments",
+    "summary": "The shadow justice secretary is accused of racism after saying the Handsworth area was one of the \"worst-integrated\".",
+    "url": "https://www.bbc.com/news/articles/cy85zlpwne6o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T21:27:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae6/live/a75376e0-a30e-11f0-8d57-2757fb03f316.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-40544833bf",
     "source": "BBC — Top Stories",
-    "title": "Two arrested over nursery cyber-attack",
-    "summary": "Pair held by police investigating a hack on a chain of London-based nurseries.",
+    "title": "Two arrested over cyber-attack on nursery chain",
+    "summary": "Hackers were said to have stolen the photographs, names and addresses of about 8,000 children.",
     "url": "https://www.bbc.com/news/articles/cpvlgzk0xvpo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T21:11:42Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f3f/live/028105e0-a3ba-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-462ddb5808",
+    "source": "BBC — Top Stories",
+    "title": "Threat assessment of China led to spy case collapse, says CPS",
+    "summary": "The dropping of charges against two men last month prompted criticism from some ministers and MPs.",
+    "url": "https://www.bbc.com/news/articles/cy8rl7e7xp3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T21:04:33Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -27,7 +63,7 @@
     "id": "The Guardian — UK-5855a73eee",
     "source": "The Guardian — UK",
     "title": "Man and teenage boy arrested over cyber-attack on London nurseries",
-    "summary": "Hackers stole data of 8,000 children from Kido nursery chain and posted 10 profiles with threat to publish more A man and a boy have been arrested in connection with an alleged cyber-attack on a set of nurseries in Greater London. The man, 22, and boy, 17, were arrested on suspicion of computer misuse and blackmail at residential properties in Bishop’s Stortford, Hertfordshire on Tuesday and remain in custody for questioning. Continue reading...",
+    "summary": "Hackers stole names and photos of 8,000 children from Kido nursery chain and posted 10 profiles with threat to publish more A man and a boy have been arrested in connection with an alleged cyber-attack on a set of nurseries in Greater London. The man, 22, and boy, 17, were arrested on suspicion of computer misuse and blackmail at residential properties in Bishop’s Stortford, Hertfordshire on Tuesday and remain in custody for questioning. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/07/man-teenage-boy-arrested-kido-nurseries-cyber-attack-london",
     "published": "2025-10-07T20:48:39Z",
     "image_url": "https://i.guim.co.uk/img/media/cec28c9a5c4af4b268d52602d9f5c4ad3be74584/74_0_4473_3577/master/4473.jpg?width=140&quality=85&auto=format&fit=max&s=6ac5f1f45b03cc9bf0ee2feb010fb3de",
@@ -48,22 +84,10 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-c145b7f44a",
-    "source": "BBC — Top Stories",
-    "title": "Five takeaways from US Attorney General Pam Bondi's tense, partisan Senate hearing",
-    "summary": "Nerves were raw in a hearing that covered much ground, and saw Trump's attorney general go on the attack.",
-    "url": "https://www.bbc.com/news/articles/c75qpl70xvzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T20:01:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fe1/live/f2a8f5e0-a3b6-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-fd56048a8b",
     "source": "Politico — UK",
     "title": "Macron keeps everyone guessing as key allies swing against him",
-    "summary": "The French president is increasingly isolated, with three of his former centrist prime ministers now publicly piling pressure upon him.",
+    "summary": "The French president is increasingly isolated, with three of his former centrist prime ministers now publicly piling pressure on him.",
     "url": "https://www.politico.eu/article/france-political-center-implodes-emmanuel-macron-allies-jump-ship/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-07T19:45:44Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/13390871.jpg",
@@ -139,18 +163,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/07/uk-car-loan-scandal-victims-in-line-for-payout-fca",
     "published": "2025-10-07T18:08:33Z",
     "image_url": "https://i.guim.co.uk/img/media/5771d31988821aa876fea697284fc323ec82892a/804_40_2736_2190/master/2736.jpg?width=140&quality=85&auto=format&fit=max&s=bf9d003a85777d57b81bc3d6352390c3",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-0657720a93",
-    "source": "The Guardian — UK",
-    "title": "A British Ice and more stop and search: Badenoch’s Tories set out new policies",
-    "summary": "Shadow ministers have announced far-reaching and often radical proposals – here is a roundup of some of them Kemi Badenoch warned her shadow cabinet in January not to expect any detailed policies until 2027. “We’re not creating policies for 2028 in 2025,” a Tory spokesperson said at the time. This week that changed. At the Conservative party’s annual conference in Manchester, shadow ministers have lined up to announce detailed, far-reaching and often radical new policies. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/07/badenoch-tories-new-policies-british-ice-stop-and-search",
-    "published": "2025-10-07T17:45:37Z",
-    "image_url": "https://i.guim.co.uk/img/media/eabccc6d8bfaf92445c1efcc3229f0411ed62cbd/0_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=773b67fece5cb1bc2d4b501f1568a4bb",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -264,18 +276,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-dcf1e0f8bf",
-    "source": "BBC — Top Stories",
-    "title": "Two Austrian women switched at birth meet 35 years later",
-    "summary": "Doris Grünwald and Jessica Baumgartner, born in Graz in 1990, were accidentally given to the parents of the other family.",
-    "url": "https://www.bbc.com/news/articles/c5yjeyljw0vo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T16:19:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db72/live/c14bbac0-a38c-11f0-96cf-a52f331e209a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-90a710dfea",
     "source": "The Guardian — UK",
     "title": "Rachel Reeves clears planning blockage amid ‘good relationship’ with developer",
@@ -375,7 +375,7 @@
     "id": "Politico — UK-a18b95cf8c",
     "source": "Politico — UK",
     "title": "EU to set 50 percent steel tariff as opening bid to Trump",
-    "summary": "The proposal is meant as a “stepping stone” for a better deal with the United States, which also charges 50 percent on all steel.",
+    "summary": "The proposal is meant to be a “stepping stone” toward a better deal with the United States, which also charges 50 percent on all steel.",
     "url": "https://www.politico.eu/article/eu-set-50-percent-steel-tariff-opening-bid-donald-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-07T15:27:08Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/GettyImages-2214572523-scaled.jpg",
