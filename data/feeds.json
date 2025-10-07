@@ -1,5 +1,77 @@
 [
   {
+    "id": "The Guardian — UK-b735218d05",
+    "source": "The Guardian — UK",
+    "title": "‘Fiery and spectacular’ rainbow of autumn colour set to bloom across UK",
+    "summary": "National Trust gardeners expect vivid hues and bountiful fungi, nuts and berries thanks to recent weather conditions The season of mists and mellow fruitfulness is likely to be particularly vivid this year, with the combination of a sun-drenched summer and rainy September causing excellent conditions for autumn colour in many of the UK’s loveliest gardens. Experts at the National Trust are predicting a long, gradual wave of reds and yellows, the warm conditions meaning annuals and herbaceous perennials are having a second flush, adding to the bright palette. Continue reading...",
+    "url": "https://www.theguardian.com/lifeandstyle/2025/oct/07/fiery-spectacular-rainbow-autumn-colour-bloom-gardens-uk",
+    "published": "2025-10-07T04:00:34Z",
+    "image_url": "https://i.guim.co.uk/img/media/d255191a93ecf9fa5ca47f6997fe48f9df33cd51/0_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=b936b92a82507f5c4b0edac396cbac5f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-753bd33f94",
+    "source": "The Guardian — UK",
+    "title": "Enjoying international cuisines makes people more tolerant, UK study finds",
+    "summary": "Frequent and varied eating found to reduce likelihood of perceiving immigrants as ‘cultural or economic threats’ Whether it is the kedgeree of the British Raj, the Victorian “penny lick” ice-creams of Manchester’s Little Italy , or the battered fish brought to the UK by Sephardic Jews , international influences on the country’s food are longstanding, diverse and many. Now, research has revealed that eating international food does not merely spice up the diet – but makes people more tolerant. Continue reading...",
+    "url": "https://www.theguardian.com/food/2025/oct/07/enjoying-international-cuisines-makes-people-more-tolerant-uk-study-finds",
+    "published": "2025-10-07T04:00:33Z",
+    "image_url": "https://i.guim.co.uk/img/media/4313383d49fcbe989d641c498e792be8d56b7429/305_0_4549_3640/master/4549.jpg?width=140&quality=85&auto=format&fit=max&s=c0abf10cc87f199db56ae8460eb25a82",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-98f56567b9",
+    "source": "Politico — UK",
+    "title": "Frankreich vorm politischen Kollaps",
+    "summary": "Der fünfte Premierminister binnen drei Jahren – und ein Präsident, der am Scheideweg steht: Emmanuel Macron kämpft in Paris um seine politische Zukunft. In Berlin wächst die Sorge, was der französische Regierungschaos für Europa bedeutet. Hans von der Burchard analysiert, wie sich die Krise in Frankreich auf Brüssel, die Märkte und das deutsch-französische Verhältnis auswirkt. […]",
+    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/frankreich-vorm-politischen-kollaps/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-07T03:45:35Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/Berlin-Playbook-Website-card-1-1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-de9809bddc",
+    "source": "BBC — Top Stories",
+    "title": "Starmer urges students not to protest on Hamas attack anniversary",
+    "summary": "The prime minister says it is \"un-British\" to hold pro-Palestinian protests on the second anniversary of Hamas's attacks on Israel.",
+    "url": "https://www.bbc.com/news/articles/c1wgx5v90vyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T03:41:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d63/live/3a892d20-a313-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-a85c86ab52",
+    "source": "Politico — UK",
+    "title": "Judges appointed by Trump keep ruling against him. He’s not happy about it.",
+    "summary": "From the National Guard to deportations, Trump has suffered numerous legal setbacks from people he put on the bench.",
+    "url": "https://www.politico.com/news/2025/10/06/trump-judges-ruling-against-him-00595511?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-07T03:38:09Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-bf9730c2db",
+    "source": "Politico — UK",
+    "title": "Trump seeks peace ceremony spotlight at ASEAN summit",
+    "summary": "Trump wants to preside over a Thailand-Cambodia peace deal ceremony — and Chinese officials aren’t welcome.",
+    "url": "https://www.politico.com/news/2025/10/06/trump-seeks-peace-ceremony-spotlight-at-asean-summit-00595237?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-07T03:37:23Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-0e813088db",
     "source": "Politico — UK",
     "title": "A new era for merger control",
@@ -50,11 +122,11 @@
   {
     "id": "BBC — Top Stories-dbd777265d",
     "source": "BBC — Top Stories",
-    "title": "Gaza peace plan talks to continue as Trump says chance of a deal is 'really good'",
+    "title": "Trump says chance of Gaza peace deal 'really good' as talks to continue in Egypt",
     "summary": "The talks in Egypt are expected to be among the most consequential since the start of the war two years ago.",
     "url": "https://www.bbc.com/news/articles/c708l7vgwywo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T02:07:21Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e99/live/02c2b3f0-a324-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee52/live/bf2bf000-a334-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -122,7 +194,7 @@
   {
     "id": "BBC — Top Stories-24f7137281",
     "source": "BBC — Top Stories",
-    "title": "'UK Gaza protests going ahead' and 'Romp in Peace, Jilly'",
+    "title": "The Papers: 'UK Gaza protests going ahead' and 'Romp in Peace, Jilly'",
     "summary": "Protests on the two year anniversary of the Israel-Gaza war and Jilly Cooper's death make the papers.",
     "url": "https://www.bbc.com/news/articles/c89dj8kvk7do?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T00:42:48Z",
@@ -135,10 +207,22 @@
     "id": "BBC — Top Stories-adf9a43e56",
     "source": "BBC — Top Stories",
     "title": "Renewables overtake coal as world's biggest source of electricity",
-    "summary": "Renewables overtook coal as the world's leading source of electricity this year, a think tank analysis shows.",
+    "summary": "Developing countries lead the historic clean energy charge but the US and EU rely more on fossil fuels than before, a think tank study shows.",
     "url": "https://www.bbc.com/news/articles/cx2rz08en2po?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T00:02:03Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43c1/live/9d78fac0-a2e4-11f0-ba2e-7d74c4f6f1cb.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7dee2cb39a",
+    "source": "BBC — Top Stories",
+    "title": "Stretched job centre staff struggling to get disabled people into work",
+    "summary": "The government wants work coaches to provide personalised support, but some have caseloads of up to 200 people.",
+    "url": "https://www.bbc.com/news/articles/c4gz9njvj43o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T23:44:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/472b/live/28d7a800-a2a9-11f0-b41e-0d1eddfd7cf3.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -240,30 +324,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-68d8e92699",
-    "source": "Politico — UK",
-    "title": "Israel-Hamas ceasefire could happen next week, German minister says",
-    "summary": "Speaking two years after the Oct. 7 attacks, Foreign Minister Johann Wadephul says waning Western support for Israeli action in Gaza was predictable.",
-    "url": "https://www.politico.eu/article/israel-hamas-ceasefire-germany-foreign-minister-johann-wadephul-war-in-gaza/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-06T20:57:21Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-2237706153-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-9fe4490070",
-    "source": "Politico — UK",
-    "title": "French farce: Macron accepts PM’s resignation, then tasks him with emergency talks",
-    "summary": "Macron has no good cards left and appears to be playing for time as France's political and economic crisis escalates.",
-    "url": "https://www.politico.eu/article/french-farce-emmanuel-macron-accept-sebastien-lecornu-resignation-tasks-emergency-talk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-06T20:34:17Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-2224455586-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-67296ef62f",
     "source": "BBC — Top Stories",
     "title": "Footage shows synagogue attacker minutes before killing",
@@ -271,18 +331,6 @@
     "url": "https://www.bbc.com/news/articles/c62ne93n090o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T20:15:47Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e0d/live/45112cf0-a2b1-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9a4ffc6731",
-    "source": "BBC — Top Stories",
-    "title": "New Supreme Court term will reshape Trump's powers",
-    "summary": "Legal challenges have slowed Trump's attempts to expand presidential power. Now the highest US court is going to weigh in.",
-    "url": "https://www.bbc.com/news/articles/cly959ppezeo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T20:08:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c9a/live/721ac360-a2f1-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -360,18 +408,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-7732ad7f09",
-    "source": "Politico — UK",
-    "title": "13 things we learned from von der Leyen’s no-confidence debate",
-    "summary": "“The world is in the most precarious and perilous state it has been for decades,\" the European Commission president tells lawmakers as she urges them to keep her in post.",
-    "url": "https://www.politico.eu/article/13-things-learned-ursula-von-der-leyens-no-confidence-debate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-06T18:11:41Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/13406986-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-4e6605020e",
     "source": "The Guardian — UK",
     "title": "Man arrested on suspicion of arson after fire at mosque in East Sussex",
@@ -396,37 +432,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-8ba7e1c169",
-    "source": "BBC — Top Stories",
-    "title": "British parts found in Russian drones, Zelensky says",
-    "summary": "The Ukrainian leader says British-made microcomputers were used in weapons launched at Ukraine this weekend.",
-    "url": "https://www.bbc.com/news/articles/cg5e9zlpz6eo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T18:03:55Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e2/live/70b38bb0-a2c4-11f0-8b38-691926760cd4.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-b53aa1f4a1",
+    "id": "The Guardian — UK-91bad1e105",
     "source": "The Guardian — UK",
-    "title": "Robert Jenrick complained of ‘not seeing another white face’ in Birmingham neighbourhood",
-    "summary": "Shadow justice secretary criticised for suggesting he could tell how integrated Handsworth was based on short visit Robert Jenrick complained about visiting an area of Birmingham where he “didn’t see another white face” and said it was not the kind of country he wanted to live in. After highlighting the lack of white people, the shadow justice secretary said it was not about “the colour of your skin or your faith” and he wanted people to live alongside each other. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/06/robert-jenrick-complained-of-not-seeing-another-white-face-in-handsworth-birmingham",
-    "published": "2025-10-06T18:00:19Z",
-    "image_url": "https://i.guim.co.uk/img/media/45ed0d365876939d53a881bcd85c9c1a4f6636fd/883_828_6165_4932/master/6165.jpg?width=140&quality=85&auto=format&fit=max&s=56d4a1fb06168f81eb0952c38b6d1d51",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-b11781015f",
-    "source": "The Guardian — UK",
-    "title": "Man killed during Manchester synagogue attack hailed as hero at funeral",
-    "summary": "Adrian Daulby, who was accidentally shot by police as he stopped attacker entering synagogue, is buried in Salford A man who was killed while stopping a knife-wielding attacker from entering a Manchester synagogue last week was described as a “tremendously strong hero” at his funeral. Adrian Daulby, 53, was buried at a religious ceremony at Agecroft Jewish cemetery in Salford on Monday. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/06/adrian-daulby-manchester-synagogue-attack-funeral",
-    "published": "2025-10-06T17:48:12Z",
-    "image_url": "https://i.guim.co.uk/img/media/e7f79e50f2fa815f2c8a28cb7c6757f9cf406e24/637_60_2885_2308/master/2885.jpg?width=140&quality=85&auto=format&fit=max&s=04d605d6385d35050719e7bf683f48b4",
+    "title": "Nearly two thirds of Tory members want pact with Reform, poll suggests, with close to half supporting full merger – as it happened",
+    "summary": "Half of Tory members also want Kemi Badenoch to be replaced as Conservative leader. This live blog is closed Mel Stride , the shadow chancellor, was doing an interview round for the Conservatives this morning, and Miatta Fahnbulleh , the faith and communities minister, was on the air on behalf of the government. They were both asked about the latest development in the flag phenomenon – the former footballer turned property developer Gary Neville saying that he took down a union flag flying at one of his building sites because he felt it was being used in a “negative fashion”. Asked if Neville (a Labour supporter) had a point, Fahnbulleh told ITV’s Good Morning Britain: I think he’s really right, that there are people who are trying to divide us at the moment … I spent a lot of time going around our communities, talking to people. People are ground down. We’ve had a decade-and-a-half in which living standards haven’t budged and people have seen their communities held down. And you will get people trying to stoke division, trying to blame others, trying to stoke tension. I think people that put up flags, the vast majority of people that do, do so for perfectly reasonable patriotic reasons. And I think reclaiming our flag as a flag of unity and decency and tolerance, which is the way most people see our flag, is a very positive thing. So I’m afraid I really cannot agree with the comments that he’s made. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/06/conservative-tory-party-conference-spending-welfare-immigration-labour-starmer-reform-uk-politics-live-news-updates",
+    "published": "2025-10-06T17:16:01Z",
+    "image_url": "https://i.guim.co.uk/img/media/edbf96cec3742402b1c5184714e942355b463db5/2688_1327_3404_2723/master/3404.jpg?width=140&quality=85&auto=format&fit=max&s=94c8d838be94575d49c739f0944569e3",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -463,18 +475,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/06/reform-uk-likely-to-raise-council-tax-in-kent-despite-promises-of-cost-cutting-drive",
     "published": "2025-10-06T16:05:14Z",
     "image_url": "https://i.guim.co.uk/img/media/5fdae1145a6b9fb8c188e82a5b7b7e3d3e80ef87/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ee913bbdfdf850fd390b680472f2ff4f",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-50665381ef",
-    "source": "BBC — Top Stories",
-    "title": "What makes this US shutdown different (and more difficult)",
-    "summary": "Shutdowns fights have become increasingly common but in a polarised Washington, both sides see merit in digging in.",
-    "url": "https://www.bbc.com/news/articles/cwydzenj6epo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-06T15:37:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a7/live/7746ac00-a2a1-11f0-94eb-2d0a64a6f1c0.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -528,6 +528,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-de9d8936b4",
+    "source": "BBC — Top Stories",
+    "title": "Queen leads tributes to 'wonderfully witty friend' Dame Jilly Cooper",
+    "summary": "Rivals author died aged 88 after a fall, with Queen wishing her a \"hereafter filled with impossibly handsome men and devoted dogs\".",
+    "url": "https://www.bbc.com/news/articles/cr5q0dr47mlo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-06T12:57:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31cd/live/c0c54c90-a2a3-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-9494216f72",
     "source": "BBC — Top Stories",
     "title": "What are the key sticking points in Trump's Gaza peace plan?",
@@ -535,18 +547,6 @@
     "url": "https://www.bbc.com/news/articles/c930v44dg2ro?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-06T11:48:47Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a650/live/54b668f0-a2bb-11f0-b2c5-019105d9c0cd.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-2927bfa2f7",
-    "source": "The Guardian — UK",
-    "title": "MPs’ pay watchdog to give public more of a say on how politicians are funded",
-    "summary": "Ipsa’s Karen Walker says that even after recent ‘big change’ to system there is still room for potential improvement The MPs’ pay watchdog is planning to give the public more input into how politicians are funded as it considers changes to the system, its new chief executive has said. Karen Walker, who took over as head of the Independent Parliamentary Standards Authority last month, said Ipsa had recently brought in a “big change” in the way politicians were allowed to claim funding for running their offices, employing staff, living accommodation, travel and other costs. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/06/mps-pay-watchdog-ipsa-public-say-politicians-funded",
-    "published": "2025-10-06T04:00:08Z",
-    "image_url": "https://i.guim.co.uk/img/media/4cf861fa34b646f822c91aa0770211bfeb463efe/107_0_4534_3628/master/4534.jpg?width=140&quality=85&auto=format&fit=max&s=edaf2b280091f53988dd8ef2cb972860",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
