@@ -1,11 +1,47 @@
 [
   {
+    "id": "BBC — Top Stories-40544833bf",
+    "source": "BBC — Top Stories",
+    "title": "Two arrested over nursery cyber-attack",
+    "summary": "Pair held by police investigating reports of attack on a chain of London-based nurseries.",
+    "url": "https://www.bbc.com/news/articles/cpvlgzk0xvpo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T20:17:50Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f3f/live/028105e0-a3ba-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-ff522020e4",
+    "source": "The Guardian — UK",
+    "title": "‘Kardashian of Cheshire’ paedophile jailed for luxury handbag fraud",
+    "summary": "Jack Watkin flaunted ‘millionaire’ lifestyle after defrauding victims including his father and friends of nearly £200,000 A convicted paedophile who described himself as the “Kardashian of Cheshire” has been jailed for fraud after he used an elaborate luxury handbag scam to steal nearly £200,000. Jack Watkin, 26, of Alderley Edge, portrayed himself as a millionaire with a “glamorous lifestyle” on social media and duped six victims, including his own father and friends, into believing he was a “wealthy” and “well-connected” reseller of Hermès handbags. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/07/kardashian-of-cheshire-paedophile-jailed-for-luxury-handbag",
+    "published": "2025-10-07T20:10:23Z",
+    "image_url": "https://i.guim.co.uk/img/media/e530412020204c2b91eae56558580feda62b51a4/22_183_1098_878/master/1098.jpg?width=140&quality=85&auto=format&fit=max&s=88b0ec309da21277279ea7ee2814c733",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-fd56048a8b",
+    "source": "Politico — UK",
+    "title": "Macron keeps everyone guessing as key allies swing against him",
+    "summary": "The French president is increasingly isolated, with three of his former centrist prime ministers now publicly piling pressure upon him.",
+    "url": "https://www.politico.eu/article/france-political-center-implodes-emmanuel-macron-allies-jump-ship/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-07T19:45:44Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/13390871.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-277ea566bb",
     "source": "The Guardian — UK",
     "title": "Lucy Powell tells Labour it can’t sugarcoat how badly things are going",
-    "summary": "Frontrunner for deputy leadership addresses rally day before voting opens in contest with Bridget Phillipson The Labour deputy leadership contender Lucy Powell has told party members that she will not “sugarcoat” how badly the party is doing, promising to challenge Downing Street’s “groupthink” as voting begins. Ballots open on Wednesday for members and affiliates in the race between Powell and the education secretary, Bridget Phillipson, with polls for LabourList suggesting Powell is the clear frontrunner. Continue reading...",
+    "summary": "Frontrunner for deputy leadership addresses rally as opponent Bridget Phillipson pledges ‘second Labour term our children deserve’ The Labour deputy leadership contender Lucy Powell has told party members that she will not “sugarcoat” how badly the party is doing, promising to challenge Downing Street’s “groupthink” as voting begins. Ballots open on Wednesday for members and affiliates in the race between Powell and the education secretary, Bridget Phillipson, with polls for LabourList suggesting Powell is the clear frontrunner. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/oct/07/lucy-powell-tells-labour-it-cant-sugarcoat-how-badly-things-are-going",
-    "published": "2025-10-07T19:00:04Z",
+    "published": "2025-10-07T19:20:09Z",
     "image_url": "https://i.guim.co.uk/img/media/4151d9bdb872e45688e64c3be0002d51946b6fe9/0_91_3326_2660/master/3326.jpg?width=140&quality=85&auto=format&fit=max&s=c90696380d90eb6a57e36651a8578b80",
     "thumb_url": null,
     "category": "Politics",
@@ -54,7 +90,7 @@
     "summary": "March through London and gatherings in Glasgow and Edinburgh proceed despite prime minister’s pleas Pro-Palestine protesters in the UK have held demonstrations on the second anniversary of the 7 October attacks in Israel, despite pleas by Keir Starmer to cancel the “un-British” rallies . The prime minister said the events showed “little respect for others” while Bridget Phillipson, the education secretary; Kemi Badenoch and Robert Jenrick also spoke out on the issue. Continue reading...",
     "url": "https://www.theguardian.com/world/2025/oct/07/palestine-protests-go-ahead-across-uk-on-second-anniversary-of-7-october",
     "published": "2025-10-07T18:13:35Z",
-    "image_url": "https://i.guim.co.uk/img/media/34659356f0cf1d67ef09ab51ec7df7f95ba70d2b/293_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=f37fb3118f9dff9aaad953b42551aa54",
+    "image_url": "https://i.guim.co.uk/img/media/1fb2b2f70d13275a4ff3d0c39d1d3d3699d0e565/630_0_5402_4321/master/5402.jpg?width=140&quality=85&auto=format&fit=max&s=8d82714c4076e83e420755e271f74b47",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -216,13 +252,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-08784851fa",
+    "id": "The Guardian — UK-90a710dfea",
     "source": "The Guardian — UK",
-    "title": "EU plan to match Trump steel tariffs spurs ‘existential threat’ to UK steel industry",
-    "summary": "Starmer says UK in discussions with EU over Brussels plan to double import tariff to 50%, which unions warn could kill UK steel industry The EU has announced it will match Donald Trump’s steel tariffs, doubling levies on imports to 50% in a decision condemned as “an existential threat” to the industry in the UK. With 80% of British exports going to the EU, the change poses the UK steel industry’s biggest ever crisis, according to the lobby group representing the sector, while unions said they could kill off the industry. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/07/eu-plan-to-match-trump-steel-tariffs-spurs-existential-threat-to-uk-steel-industry",
-    "published": "2025-10-07T16:16:48Z",
-    "image_url": "https://i.guim.co.uk/img/media/aca9a2f118695ee4e3286d169dcd10c24decd62e/375_0_3249_2599/master/3249.jpg?width=140&quality=85&auto=format&fit=max&s=f9e42b909145a9c3a79a51fece04a4f3",
+    "title": "Rachel Reeves clears planning blockage amid ‘good relationship’ with developer",
+    "summary": "Exclusive: Chancellor says 20,000 homes were being held up due to ‘some snails that are a protected species or something’ Rachel Reeves unblocked a development of 20,000 homes that were being held up by a rare snail, after being approached by a developer with whom she said, “we have a good relationship”. The government has been working on planning reforms that nature experts say put wildlife at risk. The reforms could include discarding the EU-derived habitats regulations that protect rare animals, and adding more pro-building amendments to the planning and infrastructure bill, which is going through parliament. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/oct/07/rachel-reeves-clears-planning-blockage-amid-good-relationship-with-developer",
+    "published": "2025-10-07T16:15:15Z",
+    "image_url": "https://i.guim.co.uk/img/media/1cfa20ef8ac0fe2e229ef8763b898d7c4e7d7fa0/0_209_4526_3621/master/4526.jpg?width=140&quality=85&auto=format&fit=max&s=2b64ed7a0de4a486a54b5cb807f6ac10",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -408,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-275767ed7e",
-    "source": "BBC — Top Stories",
-    "title": "Friend or foe? Tories grapple with rise of Reform",
-    "summary": "Tories fear they face an existential threat from Reform UK but opinion is divided on how to fight back.",
-    "url": "https://www.bbc.com/news/articles/cly7l65xy23o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T12:21:01Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a45/live/778270e0-a36f-11f0-b6c8-ab6f97553cbf.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-e00eae6382",
     "source": "BBC — Top Stories",
     "title": "Emma Watson, Nicole Kidman and Margot Robbie in the spotlight at Paris Fashion Week",
@@ -451,18 +475,6 @@
     "url": "https://www.theguardian.com/world/2025/oct/07/how-tougher-powers-police-affect-protests-england-wales",
     "published": "2025-10-07T11:58:58Z",
     "image_url": "https://i.guim.co.uk/img/media/d1308bc8f3610d31712edf8eb66439d13fb9e20f/708_60_3563_2850/master/3563.jpg?width=140&quality=85&auto=format&fit=max&s=f0043b7f5e71cf66c6a3f40d8b923823",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-9b849845eb",
-    "source": "Politico — UK",
-    "title": "European Parliament shields left-wing lawmaker from prosecution in Orbán’s Hungary",
-    "summary": "Ilaria Salis is saved from legal action in Budapest after conservatives split in secret ballot.",
-    "url": "https://www.politico.eu/article/eu-parliament-left-wing-mep-ilaria-salis-viktor-orban-hungary/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-07T11:14:27Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/GettyImages-2236637997-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -511,18 +523,6 @@
     "url": "https://www.bbc.com/weather/articles/c059dyvvjj7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T07:55:18Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8220/live/23146b50-a34f-11f0-9a02-114bd53bb5d7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-f896aabfb8",
-    "source": "The Guardian — UK",
-    "title": "Keir Starmer calls student protests on 7 October anniversary ‘un-British’",
-    "summary": "Prime minister urges students not to protest on the second anniversary of Hamas’s 7 October attacks on Israel Keir Starmer has urged students not to protest on the second anniversary of the Hamas-led 7 October attacks on Israel, describing plans for demonstrations as “un-British”. Every child of Israel should be able to live alongside their Palestinian neighbours in “safety and security”, the prime minister said as he marked the anniversary. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/07/keir-starmer-calls-student-protests-on-7-october-anniversary-un-british",
-    "published": "2025-10-07T06:52:53Z",
-    "image_url": "https://i.guim.co.uk/img/media/03ca9913f5f18254e6cf22855672cc350f6912e7/1595_83_2177_1741/master/2177.jpg?width=140&quality=85&auto=format&fit=max&s=02f37bd5ae46daea85ac4eee720660db",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
