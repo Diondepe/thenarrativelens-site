@@ -1,5 +1,77 @@
 [
   {
+    "id": "BBC — Top Stories-b3b6fe6de9",
+    "source": "BBC — Top Stories",
+    "title": "Man arrested on suspicion of starting Pacific Palisades fire",
+    "summary": "Investigators say evidence collected from the 29-year-old's digital devices showed a ChatGPT image depicting a burning city.",
+    "url": "https://www.bbc.com/news/articles/c8exz5yg14ko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T16:20:30Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b38f/live/15741f00-a461-11f0-a0b2-d3fd51c86492.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c06ac308cc",
+    "source": "BBC — Top Stories",
+    "title": "Lenny Henry calls for reparations for black British people",
+    "summary": "The comedian's new book supports the case for the UK to give £18 trillion in compensatory payments.",
+    "url": "https://www.bbc.com/news/articles/c5yqn2x490zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T16:10:56Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70f4/live/4a71ec30-a459-11f0-9060-338e82e0aff9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-50739fca00",
+    "source": "The Guardian — UK",
+    "title": "NHS doctor who posted about 7 October Hamas attacks referred to tribunal for second time",
+    "summary": "Interim hearing had found Dr Rahmeh Aladwan, who has said Israel was ‘humiliated’ by attacks, did not pose risk to patients A Palestinian doctor who said the 7 October Hamas attacks represented the day Israel was “humiliated” has been re-referred to a medical tribunal. Dr Rahmeh Aladwan, a trainee trauma and orthopaedic surgeon, was investigated by an interim orders tribunal in September over her social media posts. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/08/nhs-doctor-who-posted-about-7-october-hamas-attacks-referred-to-tribunal-for-second-time",
+    "published": "2025-10-08T15:53:28Z",
+    "image_url": "https://i.guim.co.uk/img/media/405758f949d6f378bd368bf2c8c992964874225d/752_0_4870_3895/master/4870.jpg?width=140&quality=85&auto=format&fit=max&s=16f26a1a478be16df4c1be14a8757aa8",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-88729b500c",
+    "source": "The Guardian — UK",
+    "title": "National security threatened by climate crisis, UK defence chiefs due to warn",
+    "summary": "Report by joint intelligence committee delayed, with concerns expressed that it may not be published The UK’s national security is under severe threat from the climate crisis and the looming collapse of vital natural ecosystems, with food shortages and economic disaster potentially just years away, a powerful report by the UK’s defence chiefs is due to warn. However, the report, which was supposed to launch on Thursday at a landmark event in London, has been delayed, and concerns have been expressed to the Guardian that it may not now be published. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/oct/08/national-security-threatened-climate-crisis-uk-defence-chiefs-warn",
+    "published": "2025-10-08T15:52:02Z",
+    "image_url": "https://i.guim.co.uk/img/media/24034cb8f4a11b3659780e02b81f93c2f21376d7/180_0_1620_1296/master/1620.jpg?width=140&quality=85&auto=format&fit=max&s=c487430417397828b6a7d3fbbb488d8a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c9d97675c8",
+    "source": "BBC — Top Stories",
+    "title": "Stephen Lawrence killer not safe to be released from prison, court hears",
+    "summary": "A prison psychologist tells David Norris's parole hearing he should be moved to a lower security, closed prison.",
+    "url": "https://www.bbc.com/news/articles/c4gj17q2jqgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T15:30:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b92/live/c437a2f0-a443-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-0a196cc2c1",
+    "source": "Politico — UK",
+    "title": "Britain’s leaders got their megaphones out. No one is listening.",
+    "summary": "Like PM Keir Starmer, Conservative leader Kemi Badenoch pulled through her party conference with an announcement that pleased the faithful. But will the public notice — and will it save her from an internal challenge?",
+    "url": "https://www.politico.eu/article/britain-leaders-got-their-megaphones-out-no-one-is-listening-keir-starmer-kemi-badenoch/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-08T15:24:56Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2239409474-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-276c8c13dc",
     "source": "BBC — Top Stories",
     "title": "Conservatives would scrap stamp duty on main homes, Badenoch says",
@@ -24,10 +96,22 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-5d129e7651",
+    "source": "BBC — Top Stories",
+    "title": "Einstein's violin sells for £860k at auction",
+    "summary": "Auctioneers think it might be the highest price ever paid for a violin not previously owned by a concert violinist.",
+    "url": "https://www.bbc.com/news/articles/cewneje2l2xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T15:16:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13f4/live/38bc5f10-a455-11f0-a7a1-91a5f35eec8a.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-7cf59cb375",
     "source": "The Guardian — UK",
-    "title": "Tory plan to abolish stamp duty ‘will benefit London and the wealthiest the most’ – UK politics live",
-    "summary": "The Social Market Foundation thinktank says council tax reform and a property-based tax would be more sustainable and fairer Voting in the Labour deputy leadership election opens today. Lucy Powell , the former Commons leader, is seen as the favourite and, as Jessica Elgot reports, Powell told supporters yesterday that, if she is elected, she will use the post to argue for changes in the way the government is operating. “We can’t sugarcoat the fact that things aren’t going well,” she said. Powell is no longer a government minister and, if she is elected deputy leader, she will do the job from the backbenches. In an interview on Newsnight last night, Bridget Phillipson , the education secretary standing against Powell, said a Powell victory would be “destabilising” for the party. She said: [Electing Powell] risks destabilising the party … we best achieve what we need to do together when we have those fierce conversations, including disagreements, behind closed doors. Members need to understand that there’s a potential challenge around all of that – that if you’re not inside when the big decisions are being made, you’re not at that table, you’re not in those conversations. Continue reading...",
+    "title": "Tory plan to abolish stamp duty ‘will benefit London and the wealthiest the most’ – as it happened",
+    "summary": "This blog is now closed, you can read more on this story here Voting in the Labour deputy leadership election opens today. Lucy Powell , the former Commons leader, is seen as the favourite and, as Jessica Elgot reports, Powell told supporters yesterday that, if she is elected, she will use the post to argue for changes in the way the government is operating. “We can’t sugarcoat the fact that things aren’t going well,” she said. Powell is no longer a government minister and, if she is elected deputy leader, she will do the job from the backbenches. In an interview on Newsnight last night, Bridget Phillipson , the education secretary standing against Powell, said a Powell victory would be “destabilising” for the party. She said: [Electing Powell] risks destabilising the party … we best achieve what we need to do together when we have those fierce conversations, including disagreements, behind closed doors. Members need to understand that there’s a potential challenge around all of that – that if you’re not inside when the big decisions are being made, you’re not at that table, you’re not in those conversations. Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/oct/08/conservative-tory-conference-kemi-badenoch-labour-keir-starmer-india-uk-politics-live-news-updates",
     "published": "2025-10-08T15:13:31Z",
     "image_url": "https://i.guim.co.uk/img/media/0307c38293edfb7caa70253a42b37082a9e76b9a/225_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=8dfed18c6efbe08ce8221925a014dbdf",
@@ -60,6 +144,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-8733a1d267",
+    "source": "BBC — Top Stories",
+    "title": "Chris Mason: Badenoch hopes to grab attention with policy blitz",
+    "summary": "The Tory leader's conference speech included a new pledge to scrap stamp duty on the purchase of main homes.",
+    "url": "https://www.bbc.com/news/articles/cwywrpelp7jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T15:00:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cacf/live/cbd4f390-a45d-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-e6559bd28c",
     "source": "Politico — UK",
     "title": "Le Pen says she’ll try to bring down any future PM until Macron calls new election",
@@ -78,7 +174,7 @@
     "summary": "UK ministers preparing to raise payments to end standoff with pharma industry, cited as reason for firms axing British investments Ministers are preparing to raise the amount the NHS pays pharmaceutical firms for medicines by up to 25% after weeks of intensive talks with the Donald Trump administration and drugmakers. The government has drawn up fresh proposals to end a standoff with the industry over drug pricing , including changing the cost-effectiveness thresholds under which new medications are assessed for use on the NHS, according to industry sources. Continue reading...",
     "url": "https://www.theguardian.com/business/2025/oct/08/nhs-could-pay-25-more-for-medicines-under-plan-to-end-row-with-drugmakers-and-trump",
     "published": "2025-10-08T14:45:33Z",
-    "image_url": "https://i.guim.co.uk/img/media/264483ef172cbd65fe5dea8e05bacafb87246fe6/239_0_3788_3032/master/3788.jpg?width=140&quality=85&auto=format&fit=max&s=c480cbf58b510b68fe849d39ef85555d",
+    "image_url": "https://i.guim.co.uk/img/media/64ca2cfe8e8478e32e535160655e4d47ad4b9900/1584_619_3278_2622/master/3278.jpg?width=140&quality=85&auto=format&fit=max&s=cbd3148ace8b8c892182ac4afb8c036e",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -115,18 +211,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/08/the-car-finance-scandal-payouts-what-does-ruling-mean-and-how-much-compensation-could-you-get",
     "published": "2025-10-08T14:09:11Z",
     "image_url": "https://i.guim.co.uk/img/media/e013ddbaa7224984912b4276dfdbb3512c478d6d/331_0_3337_2669/master/3337.jpg?width=140&quality=85&auto=format&fit=max&s=060ef00339b97ff06a25768d65d68087",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-fe6574781b",
-    "source": "BBC — Top Stories",
-    "title": "Key US and regional mediators join talks in push to end Gaza war",
-    "summary": "Steve Witkoff and Jared Kushner's arrival in Egypt comes after Hamas submitted a list of Palestinian prisoners it wants Israel to release in exchange for hostages.",
-    "url": "https://www.bbc.com/news/articles/cdjzvlxp8mjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T14:07:43Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0a4/live/5d0e8c80-a432-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -300,37 +384,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-7693ed382e",
-    "source": "The Guardian — UK",
-    "title": "Tories will scrap stamp duty on primary residences, Kemi Badenoch tells conference",
-    "summary": "Leader announces tax cut plan for England and Northern Ireland in speech aimed at boosting fiscal credibility The Conservatives will scrap stamp duty on sales of primary residences if they win the next election, Kemi Badenoch has said, in a policy-heavy speech designed to improve her standing as Tory leader and her party’s economic credibility with voters. Badenoch told her party’s conference she would abolish the tax that new buyers in England and Northern Ireland have to pay on house purchases over £125,000, at an estimated cost of £9bn a year. Stamp duty would still apply to additional properties bought by companies, and for purchases by non-UK residents. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/08/tories-scrap-stamp-duty-kemi-badenoch-conservative-conference-speech",
-    "published": "2025-10-08T11:29:38Z",
-    "image_url": "https://i.guim.co.uk/img/media/141ef4330bb228cb6f9736ab1bbd70645ed3acc6/438_303_2068_1654/master/2068.jpg?width=140&quality=85&auto=format&fit=max&s=69f74ed2eafb947a0bfe69177c828332",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-140323b602",
-    "source": "The Guardian — UK",
-    "title": "Bank of England warns of growing risk that AI bubble could burst",
-    "summary": "Possibility of ‘sharp market correction has increased’, says Bank’s financial policy committee Business live – latest updates The Bank of England has warned there is a growing risk of a “sudden correction” in global markets as it raised concerns about soaring valuations of leading AI tech companies. Policymakers said there were also threats of a “sharp repricing of US dollar assets” if the Federal Reserve lost credibility in the eyes of global investors. It comes as Donald Trump’s continues to attack the US central bank and threaten its independence. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/08/bank-of-england-warns-of-growing-risk-that-ai-bubble-could-burst",
-    "published": "2025-10-08T11:14:08Z",
-    "image_url": "https://i.guim.co.uk/img/media/cd719845044bae6c1a958fed49575dc3b269cbdb/98_0_2669_2136/master/2669.jpg?width=140&quality=85&auto=format&fit=max&s=0da9d9561aec1b0d233e3f3d90950dae",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-462ddb5808",
+    "id": "BBC — Top Stories-ec84aef66f",
     "source": "BBC — Top Stories",
-    "title": "Spy case collapse blamed on UK government failure to label China a threat",
-    "summary": "Prosecutors say they were unable to obtain evidence from the government to meet the threshold for prosecution.",
-    "url": "https://www.bbc.com/news/articles/cy8rl7e7xp3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T11:02:10Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg",
+    "title": "Ronaldo is Bloomberg's first billionaire footballer",
+    "summary": "Portugal striker Cristiano Ronaldo is worth $1.4bn (£1.04bn), according to financial information and media firm Bloomberg.",
+    "url": "https://www.bbc.com/sport/football/articles/c1edxd020dwo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T10:42:19Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d5/live/3b1694d0-a42b-11f0-ba96-81d873a15aec.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -343,18 +403,6 @@
     "url": "https://www.bbc.com/news/articles/cjw7554z85eo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T10:41:25Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/028d/live/f603a970-a441-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-bc53ff2a00",
-    "source": "Politico — UK",
-    "title": "EU tech chief urges ‘stay calm’ in face of US pressure on digital rules",
-    "summary": "Henna Virkkunen cites \"different personal styles\" amid criticism of her leadership on digital rulebook.",
-    "url": "https://www.politico.eu/article/eu-tech-chief-henna-virkkunen-urges-to-stay-calm-us-pressure-digital-rules/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T10:37:04Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/13411441-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -384,6 +432,18 @@
     "cluster_id": null
   },
   {
+    "id": "The Guardian — UK-66eb8cbe92",
+    "source": "The Guardian — UK",
+    "title": "Rachel Reeves given extra £3bn for budget after VAT error fixed",
+    "summary": "ONS says public borrowing estimates have been out by £200m-£500m a month since January Business live – latest updates Mistakes in recent public finances data mean government borrowing has been overstated by a cumulative £3bn, the Office for National Statistics has said. In a fillip that gives Rachel Reeves a little bit more wriggle room in her November budget, the ONS said its estimates of public borrowing had been out by £200m-£500m a month since January. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/08/rachel-reeves-given-extra-3bn-for-budget-after-vat-error-fixed",
+    "published": "2025-10-08T08:20:14Z",
+    "image_url": "https://i.guim.co.uk/img/media/60c58ff0e5d1aa268dc3bfc08e2356807aa5aae0/873_0_4499_3602/master/4499.jpg?width=140&quality=85&auto=format&fit=max&s=dbfcf6a4ca6ea40974fb320ace12c418",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-2dc0c06776",
     "source": "BBC — Top Stories",
     "title": "'Being gay in men's football is a very toxic place'",
@@ -408,30 +468,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-d10a2e0813",
-    "source": "BBC — Top Stories",
-    "title": "Thousands join biggest-ever UK environmental lawsuit over river pollution",
-    "summary": "Livestock and water companies are accused of “extensive” pollution in the Wye, Lugg and Usk rivers.",
-    "url": "https://www.bbc.com/news/articles/crrj4qqqy7po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T05:11:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c49/live/fd57d970-a366-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b1f888de6f",
-    "source": "BBC — Top Stories",
-    "title": "New 'jewel-like' skyscraper approved for City of London",
-    "summary": "The new development at 130 Fenchurch Street is due to be completed in 2030.",
-    "url": "https://www.bbc.com/news/articles/cre5pgjj09qo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T05:10:49Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/802d/live/6a8c9000-9f8c-11f0-928c-71dbb8619e94.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-bd457e1d8b",
     "source": "The Guardian — UK",
     "title": "Starmer says Jenrick is ‘hard to take seriously’ after Birmingham comments",
@@ -439,30 +475,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/08/starmer-says-jenrick-is-hard-to-take-seriously-after-birmingham-comments",
     "published": "2025-10-08T05:00:17Z",
     "image_url": "https://i.guim.co.uk/img/media/e04b5bc029ab1e6f1c58031b6f79f1db0e5332e8/1825_708_6158_4926/master/6158.jpg?width=140&quality=85&auto=format&fit=max&s=fa81df12a3ec604f054022eb4fb6260e",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-993fff652b",
-    "source": "BBC — Top Stories",
-    "title": "Scammers using AI to lure shoppers to fake businesses",
-    "summary": "Foreign firms use AI-generated images and false back stories to pose as family-run UK businesses.",
-    "url": "https://www.bbc.com/news/articles/ced5wvn48q5o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T04:53:14Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df53/live/ea8c5ae0-9acf-11f0-a76e-93cad8547592.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-8bb8ab0b7b",
-    "source": "BBC — Top Stories",
-    "title": "Chad cuts ties with wildlife charity linked to Prince Harry",
-    "summary": "The government says the charity African Parks displayed an arrogant and disrespectful attitude.",
-    "url": "https://www.bbc.com/news/articles/c07v3kgy2lko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T04:04:45Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b016/live/ddfa2db0-a3f9-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -540,18 +552,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-f1fe3d60c2",
-    "source": "The Guardian — UK",
-    "title": "Lifetime of earnings not enough for UK workers to join wealthiest 10%, report says",
-    "summary": "Research finds it would take average worker saving all their earnings for 52 years to match wealth of richest 10th of society It would take the average earner in the UK 52 years’ worth of earnings to become as wealthy as the richest 10%, according to new research by the Resolution Foundation. In a new report, the influential thinktank analyses the Office for National Statistics’ latest wealth and assets survey, which covers the Covid pandemic period of 2020-22. Continue reading...",
-    "url": "https://www.theguardian.com/inequality/2025/oct/08/lifetime-of-earnings-not-enough-for-uk-workers-to-join-wealthiest-10-report-says",
-    "published": "2025-10-07T23:01:09Z",
-    "image_url": "https://i.guim.co.uk/img/media/471e8abedf044f0708f0262ff32fb6427f2cb252/22_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=b8aac7000c4557f392e3a55eb93ec419",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-a49cb1a9bb",
     "source": "The Guardian — UK",
     "title": "Plans to weaken protections for national parks will have ‘disastrous consequences’ say green groups",
@@ -591,7 +591,7 @@
     "id": "The Guardian — UK-3b59510a5b",
     "source": "The Guardian — UK",
     "title": "Make-or-break week for Badenoch – podcast",
-    "summary": "Pippa Crerar and Kiran Stacey are at the Conservative party conference in Manchester, where Kemi Badenoch is trying to convince disgruntled Tory MPs to hold their nerve. But how much longer will the party give her to turn things around? Plus, they discuss the government’s plans to give police more powers to stop protests --- Send your thoughts and questions to politicsweeklyuk@theguardian.com Continue reading...",
+    "summary": "Pippa Crerar and Kiran Stacey are at the Conservative party conference in Manchester, where Kemi Badenoch is trying to convince disgruntled Tory MPs to hold their nerve. But how much longer will the party give her to turn things around? Plus, they discuss the government’s plans to give police more powers to stop protests Send your thoughts and questions to politicsweeklyuk@theguardian.com Continue reading...",
     "url": "https://www.theguardian.com/politics/audio/2025/oct/06/make-or-break-week-for-badenoch-podcast",
     "published": "2025-10-06T15:10:01Z",
     "image_url": "https://i.guim.co.uk/img/media/a78a9513ac0187bb25673a3cb9677408457b05c1/347_113_3308_2647/master/3308.jpg?width=140&quality=85&auto=format&fit=max&s=c3a9f176751dfd395a936d1ba083263c",
