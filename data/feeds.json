@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-fa67123a16",
+    "source": "BBC — Top Stories",
+    "title": "King Charles hopes nature film will 'inspire' viewers",
+    "summary": "The King to appear in Amazon documentary encouraging people to work with rather than against nature.",
+    "url": "https://www.bbc.com/news/articles/cd63dxxv9jpo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T21:02:22Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f200/live/8e426b80-a44d-11f0-8a21-ff96e44d1cc2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-85fc1de188",
+    "source": "The Guardian — UK",
+    "title": "Keir Starmer to look at India’s digital ID system during visit to Mumbai",
+    "summary": "Prime minister hopes to learn from success of scheme rolled out to most of country’s 1.4bn citizens Keir Starmer is to examine India’s digital ID system on his visit to Mumbai as a potential model for the UK, praising the system as a “massive success”. Speaking on his two-day trip to Mumbai, where he met an expert on India’s digital ID system, Starmer defended the introduction of a similar measure in the UK, saying he believed the rollout of a voluntary system could be expanded to school applications, mortgages and driving licences. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/08/keir-starmer-india-digital-id-visit-mumbai",
+    "published": "2025-10-08T21:00:05Z",
+    "image_url": "https://i.guim.co.uk/img/media/116950a317872360e58643c4079af16071a2c7d7/926_522_3453_2763/master/3453.jpg?width=140&quality=85&auto=format&fit=max&s=fa3b9589f1836d68daac0cb260a15a2a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b3b6fe6de9",
+    "source": "BBC — Top Stories",
+    "title": "ChatGPT image snares suspect in deadly Los Angeles fire",
+    "summary": "Investigators say evidence collected from the 29-year-old's devices showed an AI image of a burning city.",
+    "url": "https://www.bbc.com/news/articles/c8exz5yg14ko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T20:55:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d6e/live/0e430540-a469-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-bb45393af9",
+    "source": "BBC — Top Stories",
+    "title": "Carney and Trump discussed Keystone XL pipeline revival, source says",
+    "summary": "The project was abandoned by the Biden and Obama administrations, though Trump has said he would weigh reviving it.",
+    "url": "https://www.bbc.com/news/articles/c0lkde341x1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T20:52:35Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13d1/live/b29939f0-a484-11f0-892d-8503a9b17f9b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e4c34b0aab",
+    "source": "BBC — Top Stories",
+    "title": "Macron will nominate new French prime minister in 48 hours",
+    "summary": "Sébastien Lecornu, the outgoing prime minister, said MPs recognise the pressing need to pass a budget by the end of the year.",
+    "url": "https://www.bbc.com/news/articles/cj6xjpee1xjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T20:50:17Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c717/live/89beaff0-a480-11f0-892d-8503a9b17f9b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-943520d38a",
     "source": "Politico — UK",
     "title": "Trump says Israel-Hamas deal to end war is ‘very close’",
@@ -7,6 +67,18 @@
     "url": "https://www.politico.com/news/2025/10/08/trump-says-israel-hamas-deal-to-end-war-is-very-close-00598352?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-08T20:11:45Z",
     "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-c779d90325",
+    "source": "The Guardian — UK",
+    "title": "NHS could pay 25% more for medicines under plan to end row with drugmakers and Trump",
+    "summary": "UK ministers preparing to raise payments to end standoff with pharma industry, cited as reason for firms axing British investments Ministers are preparing to raise the amount the NHS pays pharmaceutical firms for medicines by up to 25% after weeks of intensive talks with the Donald Trump administration and drugmakers. Labour has drawn up fresh proposals to end a standoff with the industry over drug pricing , including changing the cost-effectiveness thresholds under which new medications are assessed for use on the NHS, according to industry sources. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/08/nhs-could-pay-25-more-for-medicines-under-plan-to-end-row-with-drugmakers-and-trump",
+    "published": "2025-10-08T20:10:11Z",
+    "image_url": "https://i.guim.co.uk/img/media/64ca2cfe8e8478e32e535160655e4d47ad4b9900/1584_619_3278_2622/master/3278.jpg?width=140&quality=85&auto=format&fit=max&s=cbd3148ace8b8c892182ac4afb8c036e",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -63,7 +135,7 @@
     "id": "The Guardian — UK-12e7ec67b6",
     "source": "The Guardian — UK",
     "title": "Pubs to stay open until early hours in push for UK growth",
-    "summary": "Exclusive: Plans for England and Wales would help ailing hospitality sector but health experts criticise plans Pubs, clubs and restaurants will be able to open into the early hours as part of Labour’s drive for economic growth, a move which critics say will lead to more drunken disorder. Ministers are pushing ahead with plans to allow premises that sell alcohol to extend their opening hours in order to boost “the British night out” and help the hospitality sector. Continue reading...",
+    "summary": "Exclusive: Plans for England and Wales would help the ailing hospitality sector but have attracted criticism from health experts Pubs, clubs and restaurants will be able to open into the early hours as part of Labour’s drive for economic growth, a move which critics say will lead to more drunken disorder. Ministers are pushing ahead with plans to allow premises that sell alcohol to extend their opening hours in order to boost “the British night out” and help the hospitality sector. Continue reading...",
     "url": "https://www.theguardian.com/business/2025/oct/08/pub-opening-hours-in-england-and-wales-could-be-extended",
     "published": "2025-10-08T19:27:33Z",
     "image_url": "https://i.guim.co.uk/img/media/0222f7f9a8c92247908d7899e22d653bb3bde4fc/314_0_4095_3275/master/4095.jpg?width=140&quality=85&auto=format&fit=max&s=5de44a9e59104da2b52d00186efd257b",
@@ -123,7 +195,7 @@
     "id": "Politico — UK-afea4979e3",
     "source": "Politico — UK",
     "title": "Macron to name new PM in next 48 hours",
-    "summary": "The Elysée's statement comes after consultations with the current prime minister on the crisis that's engulfed France.",
+    "summary": "The Elysée's statement comes after consultations with the current prime minister on the crisis that has engulfed France.",
     "url": "https://www.politico.eu/article/sebastien-lecornu-france-prime-minister-french-political-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-08T18:55:48Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2239146930-scaled.jpg",
@@ -199,18 +271,6 @@
     "url": "https://www.bbc.com/news/articles/cjd1m3y00dxo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T18:12:37Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810e/live/e81213b0-a3f1-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b3b6fe6de9",
-    "source": "BBC — Top Stories",
-    "title": "ChatGPT image snares suspect in deadly Los Angeles fire",
-    "summary": "Investigators say evidence collected from the 29-year-old's devices showed an AI image of a burning city.",
-    "url": "https://www.bbc.com/news/articles/c8exz5yg14ko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T18:11:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d6e/live/0e430540-a469-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -300,18 +360,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-a52f68e3ef",
-    "source": "The Guardian — UK",
-    "title": "Manchester synagogue terrorist pledged allegiance to Islamic State in 999 call",
-    "summary": "Police say Jihad al-Shamie made call to emergency services during attack that resulted in the deaths of two worshippers The Manchester synagogue terrorist rang 999 during his deadly attack pledging allegiance to the terror group Islamic State, police have said. Jihad al-Shamie, 35, made the call claiming responsibility for the attack after driving his car at worshippers outside Heaton Park synagogue in north Manchester on the Jewish holy day of Yom Kippur last week. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/08/manchester-synagogue-terrorist-attack-islamic-state-999",
-    "published": "2025-10-08T17:00:00Z",
-    "image_url": "https://i.guim.co.uk/img/media/8854a59775b0fe060b0c8f343c17018e5e92dc35/81_80_1685_1348/master/1685.jpg?width=140&quality=85&auto=format&fit=max&s=9a53f48316a972a276f2d7732883df1e",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-a9d2903225",
     "source": "BBC — Top Stories",
     "title": "No more veggie burgers? EU parliament votes to ban meat names for plant-based foods",
@@ -336,25 +384,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-c06ac308cc",
-    "source": "BBC — Top Stories",
-    "title": "Lenny Henry calls for reparations for black British people",
-    "summary": "The comedian's new book supports the case for the UK to give £18 trillion in compensatory payments.",
-    "url": "https://www.bbc.com/news/articles/c5yqn2x490zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T16:10:56Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70f4/live/4a71ec30-a459-11f0-9060-338e82e0aff9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-50739fca00",
+    "id": "The Guardian — UK-88729b500c",
     "source": "The Guardian — UK",
-    "title": "NHS doctor who posted about 7 October Hamas attacks referred to tribunal for second time",
-    "summary": "Interim hearing had found Dr Rahmeh Aladwan, who has said Israel was ‘humiliated’ by attacks, did not pose risk to patients A Palestinian doctor who said the 7 October Hamas attacks represented the day Israel was “humiliated” has been re-referred to a medical tribunal. Dr Rahmeh Aladwan, a trainee trauma and orthopaedic surgeon, was investigated by an interim orders tribunal in September over her social media posts. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/08/nhs-doctor-who-posted-about-7-october-hamas-attacks-referred-to-tribunal-for-second-time",
-    "published": "2025-10-08T15:53:28Z",
-    "image_url": "https://i.guim.co.uk/img/media/405758f949d6f378bd368bf2c8c992964874225d/752_0_4870_3895/master/4870.jpg?width=140&quality=85&auto=format&fit=max&s=16f26a1a478be16df4c1be14a8757aa8",
+    "title": "National security threatened by climate crisis, UK intelligence chiefs due to warn",
+    "summary": "Report by joint intelligence committee delayed, with concerns expressed that it may not be published The UK’s national security is under severe threat from the climate crisis and the looming collapse of vital natural ecosystems, with food shortages and economic disaster potentially just years away, a powerful report by the UK’s intelligence chiefs is due to warn. However, the report, which was supposed to launch on Thursday at a landmark event in London, has been delayed, and concerns have been expressed to the Guardian that it may have been blocked by number 10. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/oct/08/national-security-threatened-climate-crisis-uk-defence-chiefs-warn",
+    "published": "2025-10-08T15:52:02Z",
+    "image_url": "https://i.guim.co.uk/img/media/24034cb8f4a11b3659780e02b81f93c2f21376d7/180_0_1620_1296/master/1620.jpg?width=140&quality=85&auto=format&fit=max&s=c487430417397828b6a7d3fbbb488d8a",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -396,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-5d129e7651",
-    "source": "BBC — Top Stories",
-    "title": "Einstein's violin sells for £860k at auction",
-    "summary": "Auctioneers think it might be the highest price ever paid for a violin not previously owned by a concert violinist.",
-    "url": "https://www.bbc.com/news/articles/cewneje2l2xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T15:16:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13f4/live/38bc5f10-a455-11f0-a7a1-91a5f35eec8a.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-7cf59cb375",
     "source": "The Guardian — UK",
     "title": "Tory plan to abolish stamp duty ‘will benefit London and the wealthiest the most’ – as it happened",
@@ -439,18 +463,6 @@
     "url": "https://www.politico.eu/article/marine-le-pen-says-she-will-try-bring-down-any-future-pm-until-emmanuel-macron-calls-new-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-08T14:54:56Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2239401692-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-c779d90325",
-    "source": "The Guardian — UK",
-    "title": "NHS could pay 25% more for medicines under plan to end row with drugmakers and Trump",
-    "summary": "UK ministers preparing to raise payments to end standoff with pharma industry, cited as reason for firms axing British investments Ministers are preparing to raise the amount the NHS pays pharmaceutical firms for medicines by up to 25% after weeks of intensive talks with the Donald Trump administration and drugmakers. The government has drawn up fresh proposals to end a standoff with the industry over drug pricing , including changing the cost-effectiveness thresholds under which new medications are assessed for use on the NHS, according to industry sources. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/08/nhs-could-pay-25-more-for-medicines-under-plan-to-end-row-with-drugmakers-and-trump",
-    "published": "2025-10-08T14:45:33Z",
-    "image_url": "https://i.guim.co.uk/img/media/64ca2cfe8e8478e32e535160655e4d47ad4b9900/1584_619_3278_2622/master/3278.jpg?width=140&quality=85&auto=format&fit=max&s=cbd3148ace8b8c892182ac4afb8c036e",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -559,18 +571,6 @@
     "url": "https://www.theguardian.com/news/audio/2025/oct/08/this-is-what-weve-been-afraid-of-british-jews-after-the-manchester-attack-podcast",
     "published": "2025-10-08T02:00:11Z",
     "image_url": "https://i.guim.co.uk/img/media/43306077ae795f883443dba69bbe7e8965a8e324/603_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9879c84829766d72cccbafa0de07b52b",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-c337935165",
-    "source": "BBC — Top Stories",
-    "title": "Romesh Ranganathan on overexposure and acting with Sheridan Smith",
-    "summary": "The comic says he understands why people feel they see a lot of him, but jokes: \"I do say no to stuff.\"",
-    "url": "https://www.bbc.com/news/articles/c39r3ylnjpzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T01:47:52Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0d7/live/db218b70-a46b-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
