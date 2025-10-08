@@ -1,5 +1,53 @@
 [
   {
+    "id": "BBC — Top Stories-4eb7fe169d",
+    "source": "BBC — Top Stories",
+    "title": "Dolly Parton's sister asks fans to pray for country singer",
+    "summary": "The message comes a week after the 79-year-old musician postponed gigs due to health issues.",
+    "url": "https://www.bbc.com/news/articles/cjd1m3y00dxo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T03:07:22Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810e/live/e81213b0-a3f1-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ecc98cfd6f",
+    "source": "BBC — Top Stories",
+    "title": "Charlie Mackesy reveals much of his new book was lost when iPad was stolen",
+    "summary": "The writer of The Boy, The Mole, The Fox and the Horse says his iPad full of ideas was taken from his car.",
+    "url": "https://www.bbc.com/news/articles/c62l4pxlq69o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T03:00:15Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1f5/live/3127d960-a37d-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-82079c8ef6",
+    "source": "Politico — UK",
+    "title": "Reclaiming Europe’s leadership in connectivity and digital innovation",
+    "summary": null,
+    "url": "https://www.politico.eu/sponsored-content/reclaiming-europes-leadership-in-connectivity-and-digital-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-08T03:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/GSMA-feature-image.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-0a6fcacf93",
+    "source": "Politico — UK",
+    "title": "Ocean in crisis",
+    "summary": "How ocean change harms marine ecosystems, society and the economy.",
+    "url": "https://www.politico.eu/sponsored-content/ocean-in-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-08T03:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/Mercator_FeatureImage.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-fb337c8d25",
     "source": "BBC — Top Stories",
     "title": "'I sleep with a gas mask on' - Life next to Portland protest angering Trump",
@@ -7,6 +55,18 @@
     "url": "https://www.bbc.com/news/articles/c5yenwklgdyo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T02:51:05Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4c5/live/be4ff5a0-a339-11f0-b6c2-f7fb7a735ab5.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-f3692f8b03",
+    "source": "Politico — UK",
+    "title": "The most important person in Britain you’ve never heard of",
+    "summary": "Only the king has more power than this gas executive in a Russian emergency.",
+    "url": "https://www.politico.eu/article/most-important-unknown-person-britain-national-gas-protect-russia-putin-attack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-08T02:32:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/isle-of-grain-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -108,42 +168,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-74d8ebcc07",
-    "source": "Politico — UK",
-    "title": "7 policies Britain’s Tories nabbed from Donald Trump",
-    "summary": "Beleaguered Conservatives are scrambling for policies to counter Nigel Farage’s popularity. They’ve looked across the pond for inspiration.",
-    "url": "https://www.politico.eu/article/policy-britain-tories-conservative-donald-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/GettyImages-2239376288-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-464f1328c3",
-    "source": "Politico — UK",
-    "title": "The great centrist crack-up",
-    "summary": "Europe's populists celebrate yet another bruising week for their centrist rivals.",
-    "url": "https://www.politico.eu/article/great-centrist-crack-up/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/GettyImages-1686597488-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4548e9b97e",
-    "source": "BBC — Top Stories",
-    "title": "Scientist's off-grid hike interrupted by news of Nobel Prize win",
-    "summary": "Dr Fred Ramsdell was \"living his best life\" offline when the Nobel committee tried to contact him.",
-    "url": "https://www.bbc.com/news/articles/ceq23jx03n7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T01:56:17Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e5e/live/c85c0570-a3d9-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-c337935165",
     "source": "BBC — Top Stories",
     "title": "Romesh Ranganathan on overexposure and feeling 'intimidated' by Sheridan Smith",
@@ -192,18 +216,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-b9ca0fe54c",
-    "source": "Politico — UK",
-    "title": "US flight delays spread amid controller staffing issues as shutdown drags on",
-    "summary": "Staffing-related delays were starting to show up at airports in Nashville and Chicago on Tuesday evening, with more expected.",
-    "url": "https://www.politico.com/news/2025/10/07/flight-delays-controller-staffing-shutdown-00596825?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T01:20:56Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-d5630ae688",
     "source": "BBC — Top Stories",
     "title": "Badenoch to set out new rule to cut borrowing and taxes",
@@ -222,7 +234,7 @@
     "summary": "The PM says there are no plans to open up more visa routes ahead of a visit to India to tout a trade deal.",
     "url": "https://www.bbc.com/news/articles/c9wdzryk477o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T00:50:58Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e168/live/3fc3d760-a3b6-11f0-907b-11551cdd871c.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b7/live/0ec8efd0-a3f5-11f0-9bab-79e2422b068c.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -511,18 +523,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/07/robert-jenrick-accused-of-fuelling-toxic-nationalism-with-birmingham-claims",
     "published": "2025-10-07T15:51:45Z",
     "image_url": "https://i.guim.co.uk/img/media/0217e246edc1e8adca44443356a3f9c60da1ac4c/425_479_5631_4505/master/5631.jpg?width=140&quality=85&auto=format&fit=max&s=a32f7371d3edd7ff6a15d52c5fe363f0",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-55e73f733b",
-    "source": "BBC — Top Stories",
-    "title": "Why so many ladybirds are swarming UK houses",
-    "summary": "With social media reports of harlequin ladybirds invading UK homes this week, Elizabeth Rizzini explains why the weather means some ladybirds are on the move.",
-    "url": "https://www.bbc.com/weather/articles/c87yv9197jro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T14:12:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb78/live/62aa8100-a35e-11f0-a4d2-29dc308b56bc.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
