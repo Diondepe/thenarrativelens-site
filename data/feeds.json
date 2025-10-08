@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-648756deb4",
+    "source": "BBC — Top Stories",
+    "title": "Stars, secrets and slip-ups: Celebrity Traitors is off to a cracking start",
+    "summary": "Stephen Fry, Celia Imrie and Alan Carr are among the stars sitting at the round table in the new series.",
+    "url": "https://www.bbc.com/news/articles/c2038w7lgx1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T21:46:15Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0e3/live/6f4a1fa0-a490-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-fe6574781b",
+    "source": "BBC — Top Stories",
+    "title": "Progress in Gaza peace talks as Trump says 'very close to deal'",
+    "summary": "Officials reported progress after a third day of indirect talks between Israel and Hamas in Egypt.",
+    "url": "https://www.bbc.com/news/articles/cdjzvlxp8mjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T21:44:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/735b/live/78205e50-a40e-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-77f2696e16",
+    "source": "The Guardian — UK",
+    "title": "UK Treasury tells ministers not to expect bailouts from its reserve fund",
+    "summary": "Departments told to manage their own cost pressures as finance ministry seeks to curb overuse of contingency fund Cabinet ministers have been told they will not be able to use the Treasury reserve to fund public sector pay rises and cannot access it unless there are exceptional circumstances. In the run-up to the budget, James Murray, the chief secretary to the Treasury, has written to ministers setting out a decision to clamp down on departments’ access to the reserve. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/08/uk-treasury-tells-ministers-not-to-expect-bailouts-from-its-reserve-fund",
+    "published": "2025-10-08T21:30:06Z",
+    "image_url": "https://i.guim.co.uk/img/media/a9247e3ef6666679c906e7794a398560a1253c98/869_180_4106_3284/master/4106.jpg?width=140&quality=85&auto=format&fit=max&s=b95b6206c385241467d4212fe4d9c925",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-fa67123a16",
     "source": "BBC — Top Stories",
     "title": "King Charles hopes nature film will 'inspire' viewers",
@@ -147,7 +183,7 @@
     "id": "The Guardian — UK-f95bb455e3",
     "source": "The Guardian — UK",
     "title": "Badenoch sets out her vision to redefine Tory party – but few are listening",
-    "summary": "Rivals lurk in the aisles at sparsely attended conference at which the party leader ignores the threat from Reform When Kemi Badenoch was knocking on doors in her Essex constituency in the run up to the last election, she was confronted by a former Tory voter who told her: “I don’t know what the blue rosette you’re wearing means any more.” While she went on to retain her seat, Badenoch’s majority was slashed by almost 25,000 and the Conservative party as a whole suffered its worst defeat in parliamentary history. Continue reading...",
+    "summary": "Rivals lurk in the aisles at sparsely attended conference at which the party leader ignores the threat from Reform When Kemi Badenoch was knocking on doors in her Essex constituency in the run-up to the last election, she was confronted by a former Tory voter who told her: “I don’t know what the blue rosette you’re wearing means any more.” While she went on to retain her seat, Badenoch’s majority was slashed by almost 25,000 and the Conservative party as a whole suffered its worst defeat in parliamentary history. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/oct/08/badenoch-sets-out-her-vision-to-redefine-tory-party-but-few-are-listening",
     "published": "2025-10-08T19:25:11Z",
     "image_url": "https://i.guim.co.uk/img/media/90d199814b610a90770241207ee00b3d0b2f58bb/59_532_5616_4491/master/5616.jpg?width=140&quality=85&auto=format&fit=max&s=05a1d0a962be4c24e27021e2fede5939",
@@ -348,18 +384,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-5c38fcf61c",
-    "source": "The Guardian — UK",
-    "title": "Manchester’s day of darkness: inside the 10 October Guardian Weekly",
-    "summary": "A community reeling from terror attack. Plus: Trump’s chilling message to liberal donors • Get the Guardian Weekly delivered to your home address Last week was Yom Kippur, the holiest day in the Jewish calendar. A day of prayer and staying away from news. As people made their way to Heaton Park synagogue in north Manchester, they saw a small car being driven erratically before it crashed into the gates. In seconds, Jihad al-Shamie had jumped from the vehicle and started stabbing those nearby. Within six minutes three people had been killed, including the attacker, who was shot by armed police. For our cover story, Chris Osuh and Geneva Abdul speak to members of the Jewish community about how they feared such an assault was likely, as well as their hopes for unity in the face of hatred. Our reporting team pieces together what is known about Shamie, and Jonathan Freedland says the terror attack was no surprise amid rising antisemitism, but must be a turning point. Continue reading...",
-    "url": "https://www.theguardian.com/news/2025/oct/08/manchesters-day-of-darkness-inside-the-10-october-guardian-weekly",
-    "published": "2025-10-08T17:00:01Z",
-    "image_url": "https://i.guim.co.uk/img/media/7703ef7752e01d4ce41cf2227cbb955251de1a78/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ba1090f3ddcfe384b1f7138eede8ed45",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-a9d2903225",
     "source": "BBC — Top Stories",
     "title": "No more veggie burgers? EU parliament votes to ban meat names for plant-based foods",
@@ -391,18 +415,6 @@
     "url": "https://www.theguardian.com/environment/2025/oct/08/national-security-threatened-climate-crisis-uk-defence-chiefs-warn",
     "published": "2025-10-08T15:52:02Z",
     "image_url": "https://i.guim.co.uk/img/media/24034cb8f4a11b3659780e02b81f93c2f21376d7/180_0_1620_1296/master/1620.jpg?width=140&quality=85&auto=format&fit=max&s=c487430417397828b6a7d3fbbb488d8a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a114d39a26",
-    "source": "BBC — Top Stories",
-    "title": "Social media content restricted in Afghanistan, Taliban sources confirm",
-    "summary": "It comes just over a week after a two-day total internet shutdown across the country ended.",
-    "url": "https://www.bbc.com/news/articles/cgrq8d0jpdwo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T15:48:17Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1dd/live/80215950-a455-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -499,18 +511,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/08/uk-opens-up-driving-test-slots-help-reduce-backlog",
     "published": "2025-10-08T14:04:10Z",
     "image_url": "https://i.guim.co.uk/img/media/9e26d3bc2e088b1814bdfe5e7ee13de98f355166/276_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=a7616aebd04dbeff2856b7b3a1735b5c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-eda689f329",
-    "source": "BBC — Top Stories",
-    "title": "TikTok or bust? Tories try to work out how to win younger voters",
-    "summary": "MPs and activists recognise the party faces a crisis unless it can win the support of younger people.",
-    "url": "https://www.bbc.com/news/articles/c3e7lj177jyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T12:35:35Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b678/live/b8fc6080-a428-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
