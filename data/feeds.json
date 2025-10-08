@@ -1,5 +1,53 @@
 [
   {
+    "id": "BBC — Top Stories-d5630ae688",
+    "source": "BBC — Top Stories",
+    "title": "Badenoch to set out new rule to cut borrowing and taxes",
+    "summary": "In a conference speech, the Tory leader will say the Conservatives are the only party \"with a plan to get our economy back on track\".",
+    "url": "https://www.bbc.com/news/articles/c39r8k27rm9o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T00:55:18Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7cf/live/be924cd0-a39c-11f0-95e7-93813d968835.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-af2f12931c",
+    "source": "BBC — Top Stories",
+    "title": "UK won't relax visa rules for India, Starmer says",
+    "summary": "The PM says there are no plans to open up more visa routes ahead of a visit to India to tout a trade deal.",
+    "url": "https://www.bbc.com/news/articles/c9wdzryk477o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T00:50:58Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e168/live/3fc3d760-a3b6-11f0-907b-11551cdd871c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-3f0561de98",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'China given a free pass' and 'Kemi: trust me'",
+    "summary": "Accusations that a China spying case collapsed because the government refused to declare Beijing a \"threat\" lead Wednesday papers.",
+    "url": "https://www.bbc.com/news/articles/cy8rlyxkv71o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T00:29:50Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c1/live/ea02b890-a3cf-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-00dab7f0db",
+    "source": "BBC — Top Stories",
+    "title": "EU steel tariff hike threatens 'biggest ever crisis' for UK industry",
+    "summary": "The EU is the destination for 78% of steel products made in the UK for overseas markets.",
+    "url": "https://www.bbc.com/news/articles/cwy875px79po?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T23:30:18Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6663/live/eca51250-a38e-11f0-96cf-a52f331e209a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-ff17ead336",
     "source": "BBC — Top Stories",
     "title": "Dog attacks are still rising - even after the XL bully ban",
@@ -19,6 +67,66 @@
     "url": "https://www.bbc.com/news/articles/cly09x107e8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T23:04:54Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2bd/live/dbaefb80-a093-11f0-b1b3-b903aa8071ae.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-a49cb1a9bb",
+    "source": "The Guardian — UK",
+    "title": "Green groups criticise plans to weaken protections for English national parks",
+    "summary": "Exclusive: Letter from 170-plus organisations calls on government to drop proposed changes to planning law Plans to water down protections for national parks such as Dartmoor and the Lake District in a “kneejerk bid for growth” will be devastating for nature, more than 170 organisations have told the prime minister. The Treasury is understood to be pushing for a weakening of protections for England’s national parks and national landscapes in changes to planning law to make it easier for developers to build houses and infrastructure projects. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/oct/08/green-groups-criticise-plans-weaken-protections-english-national-parks",
+    "published": "2025-10-07T23:01:09Z",
+    "image_url": "https://i.guim.co.uk/img/media/e7ef4d1e99c49de97968e42e7f3affaf18d01cc0/251_0_3003_2403/master/3003.jpg?width=140&quality=85&auto=format&fit=max&s=9491bf88f38f25cf191dd99bc659e96a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-f1fe3d60c2",
+    "source": "The Guardian — UK",
+    "title": "Lifetime of earnings not enough for UK workers to join wealthiest 10%, report says",
+    "summary": "Research finds it would take average worker saving all their earnings for 52 years to match wealth of richest 10th of society It would take the average earner in the UK 52 years’ worth of earnings to become as wealthy as the richest 10%, according to new research by the Resolution Foundation. In a new report, the influential thinktank analyses the Office for National Statistics’ latest wealth and assets survey, which covers the Covid pandemic period of 2020-22. Continue reading...",
+    "url": "https://www.theguardian.com/inequality/2025/oct/08/lifetime-of-earnings-not-enough-for-uk-workers-to-join-wealthiest-10-report-says",
+    "published": "2025-10-07T23:01:09Z",
+    "image_url": "https://i.guim.co.uk/img/media/471e8abedf044f0708f0262ff32fb6427f2cb252/22_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=b8aac7000c4557f392e3a55eb93ec419",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-22f38243de",
+    "source": "The Guardian — UK",
+    "title": "One in three UK workers have called in sick after work drinks, survey finds",
+    "summary": "IPPR report warns of ‘productivity crisis’ and says many firms out of step with gen Z shift away from alcohol One in three UK workers have called in sick after drinking at a work event or after hours with colleagues, research has found. Many staff feel under pressure to drink in work-related settings against their wishes, despite a big shift among younger adults away from consuming as much alcohol as their predecessors. 32% of workers had called in sick the next day after drinking at a work event or with workmates in the last year. 41% of 18- to 24-year-olds had been too hungover to work, and 47% of 25- to 34-year-olds. 22% of staff in education and 24% in health and social care had cried off work the next day after drinking at or after work in the past six months, and a fifth in both sectors had turned up late the next day. 28% think drinking at work events excludes non-drinkers or creates cliques. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/oct/08/one-in-three-uk-workers-have-called-in-sick-after-work-drinks-survey-finds",
+    "published": "2025-10-07T23:01:09Z",
+    "image_url": "https://i.guim.co.uk/img/media/4af3968da7c0ba9e56208625f7fa0b8e19360312/212_0_6139_4912/master/6139.jpg?width=140&quality=85&auto=format&fit=max&s=580efc2809d392fff49e26c052c37ecf",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-c29fbdc8e7",
+    "source": "The Guardian — UK",
+    "title": "Brexit has done nothing to stem sharp decline of UK fish populations, shows study",
+    "summary": "Experts call for urgent strategy to end overfishing as report shows just 41% of stocks of species such as cod and mackerel considered healthy The UK’s populations of fish such as cod , herring and mackerel are still being “grossly mismanaged” by politicians and overfished, despite hitting unhealthy levels, a study has found. British fish stocks have been under growing pressure for decades, but during the Brexit campaign some politicians promised that leaving the EU would allow the UK to take control. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/oct/08/brexit-nothing-stem-decline-uk-fish-populations-study",
+    "published": "2025-10-07T23:01:08Z",
+    "image_url": "https://i.guim.co.uk/img/media/806c84d117a83ea3121ddd48a3a362a06e6a6587/36_0_1440_1152/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=c3e7e1077db23420a7c6bc2a6913e84d",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-8d2968570b",
+    "source": "The Guardian — UK",
+    "title": "One year’s worth of bread lost in UK to wrecked harvests since 2020, report finds",
+    "summary": "Worsening droughts and floods have destroyed wheat for 4bn loaves of bread and forced record levels of imports One year’s worth of bread has been lost in the UK since 2020 due to extreme weather destroying harvests, a report has found. Droughts and floods, which have been exacerbated by climate breakdown, have created a deficit in wheat production of over 7m tonnes. Experts at the Energy and Climate Intelligence Unit (ECIU) calculated this is enough wheat to bake more than 4bn loaves of bread – a year’s supply. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/oct/08/one-years-worth-of-bread-lost-in-uk-to-wrecked-harvests-since-2020-report-finds",
+    "published": "2025-10-07T23:01:08Z",
+    "image_url": "https://i.guim.co.uk/img/media/d909f27e7ed9cf806af9099af9db172bd149cd69/7_0_2692_2154/master/2692.jpg?width=140&quality=85&auto=format&fit=max&s=d8f0d449bb61c77a7b6e57c46c644708",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -108,6 +216,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-c145b7f44a",
+    "source": "BBC — Top Stories",
+    "title": "Five takeaways from US Attorney General Pam Bondi's tense, partisan Senate hearing",
+    "summary": "Nerves were raw in a hearing that covered much ground, and saw Trump's attorney general go on the attack.",
+    "url": "https://www.bbc.com/news/articles/c75qpl70xvzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T20:01:22Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fe1/live/f2a8f5e0-a3b6-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-fd56048a8b",
     "source": "Politico — UK",
     "title": "Macron keeps everyone guessing as key allies swing against him",
@@ -144,42 +264,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-0a926e8600",
-    "source": "The Guardian — UK",
-    "title": "Alleged stalker of parents of Madeleine McCann sent letter signed ‘Madeleine x’",
-    "summary": "Prosecutor tells jury that Julia Wandelt claimed to remember being abducted from Praia da Luz apartment in 2007 A woman on trial for allegedly stalking the parents of Madeleine McCann claiming to be their missing daughter sent them a letter signed “Madeleine x” and said she remembered being abducted from their holiday apartment in Portugal. Julia Wandelt, from Poland, is accused of stalking Kate and Gerry McCann over a period of two and a half years by contacting them hundreds of times and accosting them at their home, leaving them upset and worried about their safety. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/07/alleged-stalker-of-parents-of-madeleine-mccann-sent-letter-signed-madeleine-x",
-    "published": "2025-10-07T18:41:38Z",
-    "image_url": "https://i.guim.co.uk/img/media/8dbd3f3706f1af8947530563a7825710b9044e0c/412_0_1439_1152/master/1439.jpg?width=140&quality=85&auto=format&fit=max&s=160a7057e5a8f72a8fac4b3fa4a8feaf",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-2ca20d0b45",
-    "source": "The Guardian — UK",
-    "title": "Palestine protests go ahead across UK on second anniversary of 7 October",
-    "summary": "March through London and gatherings in Glasgow and Edinburgh proceed despite prime minister’s pleas Pro-Palestine protesters in the UK have held demonstrations on the second anniversary of the 7 October attacks in Israel, despite pleas by Keir Starmer to cancel the “un-British” rallies . The prime minister said the events showed “little respect for others” while Bridget Phillipson, the education secretary; Kemi Badenoch and Robert Jenrick also spoke out on the issue. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/07/palestine-protests-go-ahead-across-uk-on-second-anniversary-of-7-october",
-    "published": "2025-10-07T18:13:35Z",
-    "image_url": "https://i.guim.co.uk/img/media/1fb2b2f70d13275a4ff3d0c39d1d3d3699d0e565/630_0_5402_4321/master/5402.jpg?width=140&quality=85&auto=format&fit=max&s=8d82714c4076e83e420755e271f74b47",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-0540619d61",
-    "source": "The Guardian — UK",
-    "title": "Up to 14m car loan scandal victims in line for average £700 payout, City regulator announces",
-    "summary": "City regulator unveils compensation scheme for motorists who bought cars via discretionary commission deals from 2007 to 2024 Victims of the UK’s car finance scandal are likely to receive compensation payouts averaging £700 resulting from 14m unfair loans, the City regulator said on Tuesday. The payouts would be less than previously expected, but the Financial Conduct Authority (FCA) said lenders could be landed with an £8.2bn compensation bill, which could go as high as £9.7bn. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/07/uk-car-loan-scandal-victims-in-line-for-payout-fca",
-    "published": "2025-10-07T18:08:33Z",
-    "image_url": "https://i.guim.co.uk/img/media/5771d31988821aa876fea697284fc323ec82892a/804_40_2736_2190/master/2736.jpg?width=140&quality=85&auto=format&fit=max&s=bf9d003a85777d57b81bc3d6352390c3",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-ccb688cd2f",
     "source": "Politico — UK",
     "title": "Carney wins praise from Trump, but no trade deal — yet",
@@ -204,18 +288,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-fe6e1a57c6",
-    "source": "The Guardian — UK",
-    "title": "Nigel Farage felt ‘genuinely worried’ by alleged TikTok death threat, court hears",
-    "summary": "Fayaz Khan, 26, is on trial at Southwark crown court accused of threatening to shoot Reform UK leader Nigel Farage felt “genuinely worried” after a man allegedly posted a TikTok video threatening to come to Britain and shoot him, a court has heard. The Reform UK leader was giving evidence at the trial of Fayaz Khan, 26, who has been charged with threatening to kill the Reform UK leader last year in a post Farage described as “pretty chilling”. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/07/nigel-farage-felt-genuinely-worried-by-alleged-tiktok-death-threat-court-hears",
-    "published": "2025-10-07T17:23:50Z",
-    "image_url": "https://i.guim.co.uk/img/media/5da9e6daeecd108a635d483e3f6792035401dc5f/0_404_1307_1045/master/1307.jpg?width=140&quality=85&auto=format&fit=max&s=c4391b359015faf58ba8a5687685967c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-431d84558d",
     "source": "The Guardian — UK",
     "title": "‘Not words that I would have used’: Stride distances himself from Jenrick’s ‘no white faces’ comments – as it happened",
@@ -223,18 +295,6 @@
     "url": "https://www.theguardian.com/politics/live/2025/oct/07/conservative-tory-conference-kemi-badenoch-jenrick-starmer-labour-protests-reform-uk-politics-live-news-updates",
     "published": "2025-10-07T17:20:42Z",
     "image_url": "https://i.guim.co.uk/img/media/c8d959c76bf4e9a2d4507dee9b403b87fe8744a3/82_0_4484_3587/master/4484.jpg?width=140&quality=85&auto=format&fit=max&s=3cacd258fbed2d4195310d757c7cb6f7",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-00dab7f0db",
-    "source": "BBC — Top Stories",
-    "title": "EU steel tariff hike threatens 'biggest ever crisis' for UK industry",
-    "summary": "The EU is the destination for 78% of steel products made in the UK for overseas markets.",
-    "url": "https://www.bbc.com/news/articles/cwy875px79po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T17:09:40Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6663/live/eca51250-a38e-11f0-96cf-a52f331e209a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -312,18 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-43cac62473",
-    "source": "BBC — Top Stories",
-    "title": "High immigration levels damage communities, Badenoch warns",
-    "summary": "The Conservative leader says society is in danger of fragmenting unless concerns are acted on.",
-    "url": "https://www.bbc.com/news/articles/c5ye7njqp2eo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T16:00:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63bf/live/145d0260-a3a0-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-69400fe941",
     "source": "BBC — Top Stories",
     "title": "Time may be running out for Master of clocks Macron. What next for France?",
@@ -360,18 +408,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-af8876005c",
-    "source": "BBC — Top Stories",
-    "title": "Watch: 'I can never be complete again', says mother of Nova festival victim",
-    "summary": "Families and survivors of the Hamas attack on the Nova music festival gather at the site to pay tribute.",
-    "url": "https://www.bbc.com/news/videos/c1dqldyqx54o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T15:46:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/773a/live/35e52aa0-a38e-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-fc33ea81e1",
     "source": "Politico — UK",
     "title": "Dutch chips star exec slams EU for overregulating AI",
@@ -403,18 +439,6 @@
     "url": "https://www.politico.eu/article/mel-stride-slap-down-robert-jenrick-no-white-faces-remark/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-07T14:54:32Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/GettyImages-2239538130.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-96f579763d",
-    "source": "BBC — Top Stories",
-    "title": "'I lost so much' - Palestinians reflect on the toll of two years of war in Gaza",
-    "summary": "Palestinians have been reflecting on the toll on their lives since Hamas's attack on Israel on 7 October 2023, which triggered the war.",
-    "url": "https://www.bbc.com/news/articles/czjvzxn0ekko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T14:27:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e5a/live/4823bcb0-a378-11f0-9261-e164f2f40295.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -511,30 +535,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/07/gb-news-us-expansion-trumpian-views-uk-audience",
     "published": "2025-10-07T11:00:03Z",
     "image_url": "https://i.guim.co.uk/img/media/7e837f828cd9d310ce42248e664bed68f4accbda/1130_450_2093_1675/master/2093.jpg?width=140&quality=85&auto=format&fit=max&s=f86f19e58e2c82e761e046d88a9e79fa",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-1ef0b66796",
-    "source": "BBC — Top Stories",
-    "title": "Jeremy Bowen: Two years on, will Israel and Hamas seize the chance to end the war?",
-    "summary": "There is a chance of a deal that will end the killing and destruction in Gaza and return the Israeli hostages, living and dead, to their families.",
-    "url": "https://www.bbc.com/news/articles/cvgqyj268ljo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T08:32:25Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/104c/live/e06166c0-a356-11f0-b851-f9c6d6c288f7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-8d7a2893a0",
-    "source": "The Guardian — UK",
-    "title": "Badenoch defends Jenrick’s ‘no white faces’ comments about Birmingham",
-    "summary": "Tory leader says ‘nothing wrong with making observations’, after Jenrick said Handsworth was ‘as close as I’ve come to a slum in this country’ Kemi Badenoch has defended her colleague Robert Jenrick over his complaint about not seeing “another white face” in a part of Birmingham but said the debate should not be about what people look like in the streets. The Conservative leader said the shadow justice secretary had made a “factual statement” and there was “nothing wrong with making observations”. But she also told BBC Breakfast: “I don’t think this is where the debate should be, about how many faces people see on the street and what they look like.” Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/07/badenoch-defends-jenrick-no-white-faces-in-birmingham-comments",
-    "published": "2025-10-07T08:32:17Z",
-    "image_url": "https://i.guim.co.uk/img/media/bd3e165bd91118d4baa572165653f74aeb9e02d1/43_0_5108_4087/master/5108.jpg?width=140&quality=85&auto=format&fit=max&s=c92c7ce028b888af3dadbc2442628615",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
