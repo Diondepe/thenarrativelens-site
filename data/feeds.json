@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-462ddb5808",
+    "source": "BBC — Top Stories",
+    "title": "Spy case collapse blamed on failure to label China a security threat",
+    "summary": "Prosecutors say they were unable to obtain evidence from the government to meet the threshold for prosecution.",
+    "url": "https://www.bbc.com/news/articles/cy8rl7e7xp3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T06:28:09Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-7b30c07f6e",
+    "source": "The Guardian — UK",
+    "title": "Badenoch unveils ‘golden rule’ to use half of spending cuts to reduce deficit",
+    "summary": "Conservative leader aims to rebuild party’s economic credibility after it was torched by her predecessors A British Ice and more stop and search: Badenoch’s Tories set out new policies Kemi Badenoch will unveil a “golden rule” to reduce government borrowing through spending cuts as she seeks to rebuild the Conservatives’ reputation for economic credibility. In a speech at the Tory party conference on Wednesday, she will promise that at least half of all the money saved through spending cuts would be used to bring down the country’s deficit, with the remainder used for tax cuts and other measures aimed at economic growth. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/08/badenoch-unveils-golden-rule-to-use-half-of-spending-cuts-to-reduce-deficit",
+    "published": "2025-10-08T06:00:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/2ec8aaa888c6521b7c2b82c54ed57a80a987706a/1297_0_6990_5592/master/6990.jpg?width=140&quality=85&auto=format&fit=max&s=1c1873d9fd51263ab1dafe229d176647",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-fe6574781b",
+    "source": "BBC — Top Stories",
+    "title": "US special envoy and Trump's son-in-law to join Gaza peace talks in Egypt",
+    "summary": "The arrival of Steve Witkoff and Jared Kushner comes as a second day of talks ended without tangible results, a Palestinian official tells the BBC.",
+    "url": "https://www.bbc.com/news/articles/cdjzvlxp8mjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T05:40:02Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/735b/live/78205e50-a40e-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-27fa4d713d",
+    "source": "BBC — Top Stories",
+    "title": "Gold surges past $4,000 an ounce as uncertainty fuels rally",
+    "summary": "Analysts point to delays in the reporting of economic data due to the US government shutdown as one reason for the rise.",
+    "url": "https://www.bbc.com/news/articles/c8ex3wgjlexo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T05:37:12Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf57/live/95f02230-a3eb-11f0-90de-cfdf69951f7c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-3f0561de98",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'China given a free pass' and 'Kemi: trust me'",
+    "summary": "Accusations that a China spying case collapsed because the government refused to declare Beijing a \"threat\" lead Wednesday papers.",
+    "url": "https://www.bbc.com/news/articles/cy8rlyxkv71o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T05:33:03Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c1/live/ea02b890-a3cf-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-d10a2e0813",
     "source": "BBC — Top Stories",
     "title": "Thousands join biggest-ever UK environmental lawsuit over river pollution",
@@ -36,18 +96,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-fe6574781b",
-    "source": "BBC — Top Stories",
-    "title": "US special envoy and Trump's son-in-law to join Gaza peace talks in Egypt",
-    "summary": "The arrival of Steve Witkoff and Jared Kushner comes as a second day of talks ended without tangible results, a Palestinian official tells the BBC.",
-    "url": "https://www.bbc.com/news/articles/cdjzvlxp8mjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T04:38:52Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b140/live/923c8e10-a401-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-8092ec2640",
     "source": "The Guardian — UK",
     "title": "Scientists develop first ‘accurate blood test’ to detect chronic fatigue syndrome",
@@ -72,13 +120,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-ecc98cfd6f",
+    "id": "BBC — Top Stories-4eb7fe169d",
     "source": "BBC — Top Stories",
-    "title": "Charlie Mackesy reveals much of his new book was lost when iPad was stolen",
-    "summary": "The writer of The Boy, The Mole, The Fox and the Horse says his iPad full of ideas was taken from his car.",
-    "url": "https://www.bbc.com/news/articles/c62l4pxlq69o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T03:00:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1f5/live/3127d960-a37d-11f0-92db-77261a15b9d2.jpg",
+    "title": "Dolly Parton's sister asks fans to pray for country singer after 'health challenges'",
+    "summary": "The message comes a week after the 79-year-old musician postponed gigs due to health issues.",
+    "url": "https://www.bbc.com/news/articles/cjd1m3y00dxo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T03:07:22Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810e/live/e81213b0-a3f1-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -234,7 +282,7 @@
     "summary": "The comic says he understands why people feel they see a lot of him, but jokes: \"I do say no to stuff.\"",
     "url": "https://www.bbc.com/news/articles/c39r3ylnjpzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T01:47:52Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f305/live/966799a0-9dec-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5ae/live/5dc4ab00-a40f-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -294,19 +342,7 @@
     "summary": "The PM says there are no plans to open up more visa routes ahead of a visit to India to tout a trade deal.",
     "url": "https://www.bbc.com/news/articles/c9wdzryk477o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T00:50:58Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b7/live/0ec8efd0-a3f5-11f0-9bab-79e2422b068c.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3f0561de98",
-    "source": "BBC — Top Stories",
-    "title": "The Papers: 'China given a free pass' and 'Kemi: trust me'",
-    "summary": "Accusations that a China spying case collapsed because the government refused to declare Beijing a \"threat\" lead Wednesday papers.",
-    "url": "https://www.bbc.com/news/articles/cy8rlyxkv71o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T00:29:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c1/live/ea02b890-a3cf-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0753/live/1a26cae0-a40f-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -330,7 +366,7 @@
     "summary": "Leaders in the UK's tight-knit Jewish population are asking what more can be done to keep their institutions safe.",
     "url": "https://www.bbc.com/news/articles/cly09x107e8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T23:04:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2bd/live/dbaefb80-a093-11f0-b1b3-b903aa8071ae.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb47/live/94603af0-a40d-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -420,37 +456,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-462ddb5808",
-    "source": "BBC — Top Stories",
-    "title": "Threat assessment of China led to spy case collapse, says CPS",
-    "summary": "The dropping of charges against two men last month prompted criticism from some ministers and MPs.",
-    "url": "https://www.bbc.com/news/articles/cy8rl7e7xp3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T21:04:33Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-5855a73eee",
-    "source": "The Guardian — UK",
-    "title": "Man and teenage boy arrested over cyber-attack on London nurseries",
-    "summary": "Hackers stole names and photos of 8,000 children from Kido nursery chain and posted 10 profiles with threat to publish more A man and a boy have been arrested in connection with an alleged cyber-attack on a set of nurseries in Greater London. The man, 22, and boy, 17, were arrested on suspicion of computer misuse and blackmail at residential properties in Bishop’s Stortford, Hertfordshire on Tuesday and remain in custody for questioning. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/07/man-teenage-boy-arrested-kido-nurseries-cyber-attack-london",
-    "published": "2025-10-07T20:48:39Z",
-    "image_url": "https://i.guim.co.uk/img/media/cec28c9a5c4af4b268d52602d9f5c4ad3be74584/74_0_4473_3577/master/4473.jpg?width=140&quality=85&auto=format&fit=max&s=6ac5f1f45b03cc9bf0ee2feb010fb3de",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-c145b7f44a",
     "source": "BBC — Top Stories",
     "title": "Five takeaways from US Attorney General Pam Bondi's tense, partisan Senate hearing",
     "summary": "Nerves were raw in a hearing that covered much ground, and saw Trump's attorney general go on the attack.",
     "url": "https://www.bbc.com/news/articles/c75qpl70xvzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T20:01:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fe1/live/f2a8f5e0-a3b6-11f0-b741-177e3e2c2fc7.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aed/live/166fb650-a40f-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -487,18 +499,6 @@
     "url": "https://www.bbc.com/news/videos/ckg2qw59l07o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T16:52:27Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8db9/live/9185b940-a395-11f0-92db-77261a15b9d2.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b484f14958",
-    "source": "BBC — Top Stories",
-    "title": "Millions of drivers could receive £700 payout over car finance mis-selling scandal",
-    "summary": "Lenders could pay out £8.2bn in compensation, which is less than the FCA had previously estimated.",
-    "url": "https://www.bbc.com/news/articles/cqlzwqv7xz1o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T16:46:25Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2e9/live/20610b80-a399-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
