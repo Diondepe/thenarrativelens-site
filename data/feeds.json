@@ -1,12 +1,96 @@
 [
   {
+    "id": "BBC — Top Stories-4eb7fe169d",
+    "source": "BBC — Top Stories",
+    "title": "Dolly Parton posts 'I ain't dead yet' after sister sparks health concerns",
+    "summary": "The singer's sister had asked fans to pray for her after the star postponed gigs due to health issues.",
+    "url": "https://www.bbc.com/news/articles/cjd1m3y00dxo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T18:12:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810e/live/e81213b0-a3f1-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b3b6fe6de9",
+    "source": "BBC — Top Stories",
+    "title": "ChatGPT image snares suspect in deadly Los Angeles fire",
+    "summary": "Investigators say evidence collected from the 29-year-old's devices showed an AI image of a burning city.",
+    "url": "https://www.bbc.com/news/articles/c8exz5yg14ko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T18:11:03Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d6e/live/0e430540-a469-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c9d97675c8",
+    "source": "BBC — Top Stories",
+    "title": "Baroness Lawrence calls for new investigation after killer admits attack",
+    "summary": "She said it was 'shocking' that police had known about David Norris's admission that he took part in the racist attack.",
+    "url": "https://www.bbc.com/news/articles/c4gj17q2jqgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T18:01:50Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45db/live/ba506380-a443-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-45217e9f27",
+    "source": "The Guardian — UK",
+    "title": "Kate McCann tells court of stress caused by alleged stalker calling her ‘Mum’",
+    "summary": "Julia Wandelt is on trial accused of targeting the McCann family with a two-and-a-half-year harassment campaign Kate McCann has said it was hard to hear an alleged stalker refer to her as “Mum”, as she gave evidence in the trial of a woman who claimed to be her missing daughter. Speaking from behind a screen, McCann told Leicester crown court she was left frightened and distressed by the actions of Julia Wandelt, 24, who is accused of a two-and-a-half-year harassment campaign. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/08/kate-mccann-tell-court-of-stress-caused-by-alleged-stalker-julia-wandelt-calling-her-mum",
+    "published": "2025-10-08T17:51:32Z",
+    "image_url": "https://i.guim.co.uk/img/media/8dbd3f3706f1af8947530563a7825710b9044e0c/399_0_1440_1152/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=4987cda536a9d7cea8bfea4fe25456e8",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-5ed293152b",
+    "source": "Politico — UK",
+    "title": "Von der Leyen espère amadouer ses détracteurs en se montrant plus avenante",
+    "summary": "La présidente de la Commission européenne doit faire face à une nouvelle série de votes de défiance ce jeudi. Elle espère qu’en se montrant plus à l’écoute, elle ralliera davantage de soutiens.",
+    "url": "https://www.politico.eu/article/von-der-leyen-espere-amadouer-ses-detracteurs-en-se-montrant-plus-avenante/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-08T17:41:20Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/GettyImages-2238715874-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-489ef504b9",
+    "source": "The Guardian — UK",
+    "title": "Men hatched terror plot to ‘kill as many Jewish people as they could’, jury hears",
+    "summary": "Walid Saadaoui and Amar Hussein secured guns and hundreds of ammunition rounds, Preston crown court told Two men accused of plotting a terrorist attack in Greater Manchester secured guns and hundreds of rounds of ammunition in a plan to “kill as many Jewish people as they could”, jurors have been told. Walid Saadaoui, 38, and Amar Hussein, 52, have gone on trial charged with preparing acts of terrorism between 13 December 2023 and 9 May 2024. The prosecution in the case at Preston crown court alleges that they are Islamic extremists with a “visceral dislike” of Jewish people. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/08/antisemitic-terror-plot-trial-greater-manchester",
+    "published": "2025-10-08T17:35:51Z",
+    "image_url": "https://i.guim.co.uk/img/media/95b81449047193c9b11ecadcca62b6c295c81523/438_0_3499_2799/master/3499.jpg?width=140&quality=85&auto=format&fit=max&s=a3a9e818e6d1896c71208d0faf5198ef",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-dc6ee3035b",
     "source": "BBC — Top Stories",
-    "title": "McCann stalker contacted Maddie's sister, court told",
-    "summary": "Kate and Gerry McCann give evidence at Leicester Crown Court from behind a privacy screen.",
+    "title": "Kate McCann tells court alleged stalker's contact with Maddie's sister was 'final straw'",
+    "summary": "Mrs McCann says she also received a letter signed off with her missing daughter's name and a kiss.",
     "url": "https://www.bbc.com/news/articles/cnvr0723np8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T17:13:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65f8/live/be1661d0-a467-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-92da37633d",
+    "source": "The Guardian — UK",
+    "title": "David Lammy rules out charging workers for employment tribunal claims",
+    "summary": "Justice secretary says right to challenge unfair work behaviour is core to Labour work plan after union backlash The justice secretary, David Lammy, has ruled out reintroducing charges for employment tribunals after a backlash from unions over the proposals. The Guardian revealed last week that ministers were considering a plan to charge workers a fee to take their bosses to court as part of negotiations in this year’s spending review. Trade unions responded with fury, labelling the idea a “disaster”. Continue reading...",
+    "url": "https://www.theguardian.com/money/2025/oct/08/david-lammy-rules-out-charging-workers-for-employment-tribunal-claims",
+    "published": "2025-10-08T17:05:45Z",
+    "image_url": "https://i.guim.co.uk/img/media/837b2a1e272c7c0727a57adbdb7c7cf47d1df865/386_0_4207_3367/master/4207.jpg?width=140&quality=85&auto=format&fit=max&s=1f1d7d93f4f15761e4ca13ffc4fc24da",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -48,13 +132,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-b3b6fe6de9",
+    "id": "BBC — Top Stories-a9d2903225",
     "source": "BBC — Top Stories",
-    "title": "ChatGPT image snares suspect in deadly Los Angeles fire",
-    "summary": "Investigators say evidence collected from the 29-year-old's devices showed an AI image of a burning city.",
-    "url": "https://www.bbc.com/news/articles/c8exz5yg14ko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T16:39:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7957/live/91e53d50-a464-11f0-928c-71dbb8619e94.jpg",
+    "title": "No more veggie burgers? EU parliament votes to ban meat names for plant-based foods",
+    "summary": "Pressure to ban meat labels for plant-based products comes from Europe's livestock farmers.",
+    "url": "https://www.bbc.com/news/articles/c3w5v75deewo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T16:55:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62fd/live/09d090f0-a45e-11f0-a789-358ea6d9d143.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -120,18 +204,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-c9d97675c8",
-    "source": "BBC — Top Stories",
-    "title": "Stephen Lawrence killer not safe to be released from prison, court hears",
-    "summary": "A prison psychologist tells David Norris's parole hearing he should be moved to a lower security, closed prison.",
-    "url": "https://www.bbc.com/news/articles/c4gj17q2jqgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T15:30:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2600/live/29b850d0-a466-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-0a196cc2c1",
     "source": "Politico — UK",
     "title": "Britain’s leaders got their megaphones out. No one is listening.",
@@ -163,6 +235,18 @@
     "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/das-update-zur-chat-kontrolle-und-reiches-herbstprognose/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-08T15:16:54Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/Berlin-Playbook-Website-card-1-1-1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5d129e7651",
+    "source": "BBC — Top Stories",
+    "title": "Einstein's violin sells for £860k at auction",
+    "summary": "Auctioneers think it might be the highest price ever paid for a violin not previously owned by a concert violinist.",
+    "url": "https://www.bbc.com/news/articles/cewneje2l2xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T15:16:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13f4/live/38bc5f10-a455-11f0-a7a1-91a5f35eec8a.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -228,18 +312,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-5afdada616",
-    "source": "The Guardian — UK",
-    "title": "Legal experts question reasoning behind CPS dropping China ‘spies’ case",
-    "summary": "Ex-DPP Ken Macdonald says prosecutors may have been ‘over-fussy’ in seeking further assurances from government Legal experts have questioned the explanation given by the Crown Prosecution Service for its sudden decision to drop charges against two Britons accused of spying for China amid a political row over who was responsible. The expert lawyers expressed surprise that the CPS thought it needed further assurance from the government that China was an enemy insofar as it posed “a current threat to national security” before the trial of Christopher Cash and Christopher Berry could go ahead. Continue reading...",
-    "url": "https://www.theguardian.com/law/2025/oct/08/uk-legal-experts-question-cps-drop-china-spies-case",
-    "published": "2025-10-08T14:43:52Z",
-    "image_url": "https://i.guim.co.uk/img/media/2fbaf52e943e93790082d46570d5ec0cba39fc84/0_0_11687_9350/master/11687.jpg?width=140&quality=85&auto=format&fit=max&s=9139777eccf1fd7de4a1d2abc2c5e9d6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-6af39a9492",
     "source": "Politico — UK",
     "title": "Von der Leyen’s party revolts over her plans for budget and emissions",
@@ -283,18 +355,6 @@
     "url": "https://www.bbc.com/news/articles/c4gv1z2dr0go?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T13:28:54Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e6/live/4727aff0-a469-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-74a22c0d3f",
-    "source": "The Guardian — UK",
-    "title": "Guardian prison columnist Erwin James drowned in Devon marina, inquest finds",
-    "summary": "Journalist who wrote column A Life Inside while jailed for murder fell into the sea in January 2024 A journalist and author who wrote much-admired columns from prison drowned in a Devon marina after spending an evening in a harbourside pub, an inquest has concluded. Erwin James Monahan, who used the pen name Erwin James and wrote a regular column for the Guardian – the first of its kind in British journalism – fell into the sea at Brixham in Devon, close to where the boat he was staying in was moored, the inquest in Exeter heard. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/08/prison-columnist-erwin-james-drowned-devon-marina-inquest-finds",
-    "published": "2025-10-08T13:25:48Z",
-    "image_url": "https://i.guim.co.uk/img/media/9c701bb3772f6f6c1ab69a463be9608bc7e1ec81/0_0_3744_2995/master/3744.jpg?width=140&quality=85&auto=format&fit=max&s=cc202a8357010c76b78082877496aef2",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -384,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-abb503f7de",
-    "source": "Politico — UK",
-    "title": "UK could retaliate against EU steel tariffs, says top official",
-    "summary": "The proposals risk dealing a devastating blow to Britain's embattled steelmakers.",
-    "url": "https://www.politico.eu/article/uk-could-retaliate-against-eu-steel-tariffs-says-top-official/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T11:54:51Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/12969594-1-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-7693ed382e",
     "source": "The Guardian — UK",
     "title": "Tories will scrap stamp duty on primary residences, Kemi Badenoch tells conference",
@@ -403,18 +451,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/08/tories-scrap-stamp-duty-kemi-badenoch-conservative-conference-speech",
     "published": "2025-10-08T11:29:38Z",
     "image_url": "https://i.guim.co.uk/img/media/141ef4330bb228cb6f9736ab1bbd70645ed3acc6/438_303_2068_1654/master/2068.jpg?width=140&quality=85&auto=format&fit=max&s=69f74ed2eafb947a0bfe69177c828332",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-ec84aef66f",
-    "source": "BBC — Top Stories",
-    "title": "Ronaldo is Bloomberg's first billionaire footballer",
-    "summary": "Portugal striker Cristiano Ronaldo is worth $1.4bn (£1.04bn), according to financial information and media firm Bloomberg.",
-    "url": "https://www.bbc.com/sport/football/articles/c1edxd020dwo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T10:42:19Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d5/live/3b1694d0-a42b-11f0-ba96-81d873a15aec.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -492,25 +528,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-bd457e1d8b",
-    "source": "The Guardian — UK",
-    "title": "Starmer says Jenrick is ‘hard to take seriously’ after Birmingham comments",
-    "summary": "PM says Jenrick is ‘still running his leadership campaign’ after he complained about ‘not seeing another white face’ Keir Starmer has criticised Robert Jenrick’s comments complaining about “not seeing another white face” in parts of Birmingham, saying the shadow justice secretary was “hard to take seriously”. The prime minister suggested Jenrick’s comments were part of a stealth Conservative leadership campaign and said he did not believe he painted a true picture of the area of Handsworth, which Jenrick had described as “as close as I’ve come to a slum in this country”. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/08/starmer-says-jenrick-is-hard-to-take-seriously-after-birmingham-comments",
-    "published": "2025-10-08T05:00:17Z",
-    "image_url": "https://i.guim.co.uk/img/media/e04b5bc029ab1e6f1c58031b6f79f1db0e5332e8/1825_708_6158_4926/master/6158.jpg?width=140&quality=85&auto=format&fit=max&s=fa81df12a3ec604f054022eb4fb6260e",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-fb337c8d25",
+    "id": "BBC — Top Stories-878b9f51c1",
     "source": "BBC — Top Stories",
-    "title": "'I sleep with a gas mask on': Life next to Portland protest angering Trump",
-    "summary": "As Trump threatens military action, residents in Portland tell the BBC about life amid the protests.",
-    "url": "https://www.bbc.com/news/articles/c5yenwklgdyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T02:51:05Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4c5/live/be4ff5a0-a339-11f0-b6c2-f7fb7a735ab5.jpg",
+    "title": "Draconid meteor shower to peak tonight - here's how to watch it",
+    "summary": "The Draconid meteor shower is visible this year until 10 October in the northern hemisphere. Elizabeth Rizzini explains how to watch it.",
+    "url": "https://www.bbc.com/weather/articles/cly7llk7xnpo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T04:38:11Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67ed/live/ec248de0-a421-11f0-ba96-81d873a15aec.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -534,19 +558,7 @@
     "summary": "The comic says he understands why people feel they see a lot of him, but jokes: \"I do say no to stuff.\"",
     "url": "https://www.bbc.com/news/articles/c39r3ylnjpzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T01:47:52Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5ae/live/5dc4ab00-a40f-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-281999a8f6",
-    "source": "BBC — Top Stories",
-    "title": "How Stacey Solomon decluttered our homes back from the brink",
-    "summary": "Three families share the realisations that enabled them to declutter and transform their homes and lives.",
-    "url": "https://www.bbc.com/news/articles/cp8jzdzmqgro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T01:31:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7276/live/e40e1620-a2c9-11f0-9ae4-2361d42405e2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0d7/live/db218b70-a46b-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -559,18 +571,6 @@
     "url": "https://www.bbc.com/news/articles/cvgvy2yyv8mo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T23:09:37Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f42/live/7b0a3510-a390-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6b4d091288",
-    "source": "BBC — Top Stories",
-    "title": "High security a fact of life for UK Jewish community living in fear of attack",
-    "summary": "Leaders in the UK's tight-knit Jewish population are asking what more can be done to keep their institutions safe.",
-    "url": "https://www.bbc.com/news/articles/cly09x107e8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T23:04:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb47/live/94603af0-a40d-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
