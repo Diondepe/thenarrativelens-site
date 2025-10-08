@@ -1,5 +1,89 @@
 [
   {
+    "id": "BBC — Top Stories-8011cc3706",
+    "source": "BBC — Top Stories",
+    "title": "Synagogue attacker pledged allegiance to 'Islamic State' in 999 call",
+    "summary": "Police confirm the attacker made the call after he crashed his car into a brick wall.",
+    "url": "https://www.bbc.com/news/articles/c3drj0dxmr9o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T19:06:32Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5fb/live/0efb21c0-a455-11f0-8a21-ff96e44d1cc2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-877585d6ec",
+    "source": "The Guardian — UK",
+    "title": "Police officer who put girl in headlock found guilty of assault",
+    "summary": "Adrian Young, of British Transport Police, restrained 15-year-old at a train station in Camden, north London A British Transport Police officer who put a 15-year-old girl in a headlock during an arrest has been found guilty of assault. PC Adrian Young, 48, used unlawful force in September last year at Camden Road railway station in north London, and was convicted after a trial at Westminster magistrates court. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/08/police-officer-girl-headlock-guilty-assault",
+    "published": "2025-10-08T18:58:09Z",
+    "image_url": "https://i.guim.co.uk/img/media/d6867c168b1786238d3249de844b83c88b0393ac/0_0_3097_2478/master/3097.jpg?width=140&quality=85&auto=format&fit=max&s=067c426c289cc9135306531b11154b41",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-afea4979e3",
+    "source": "Politico — UK",
+    "title": "France could get next PM within 48 hours, outgoing prime minister says",
+    "summary": "\"A path forward is still possible,” Lecornu said.",
+    "url": "https://www.politico.eu/article/sebastien-lecornu-france-prime-minister-french-political-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-08T18:55:48Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2239146930-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-a5a48b192e",
+    "source": "Politico — UK",
+    "title": "Italy wants to ban Islamic face coverings, mosque funding",
+    "summary": "Those who violate the burqa ban could face a fine of up to €3,000.",
+    "url": "https://www.politico.eu/article/italy-religion-hijab-mosque-muslims-islam-ban-politics-bill/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-08T18:52:51Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/10728960-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-276c8c13dc",
+    "source": "BBC — Top Stories",
+    "title": "Conservatives would scrap stamp duty on main homes, Badenoch says",
+    "summary": "The Tory leader says the move would help millions buy a home, in her annual conference speech.",
+    "url": "https://www.bbc.com/news/articles/c20zv94ldpko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T18:50:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3560/live/3eedd230-a444-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-ec64882749",
+    "source": "The Guardian — UK",
+    "title": "Stephen Lawrence’s mother calls son’s killer a coward at parole hearing",
+    "summary": "David Norris, one of several people involved in the 1993 murder, refused to reveal his face or name his accomplices The mother of Stephen Lawrence has called one of her son’s killers a coward after he refused to show his face at a parole hearing or name his accomplices to the murder. David Norris, 49, who was convicted in 2011, was speaking publicly for the first time at the hearing. He said he was deeply sorry for the attack in which he punched Lawrence on the back of his head while he was crouched on the ground. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/08/stephen-lawrence-mother-doreen-calls-sons-killer-a-coward-at-parole-hearing",
+    "published": "2025-10-08T18:47:32Z",
+    "image_url": "https://i.guim.co.uk/img/media/ea317302d7cd2947fcbdc21144ccddb56867581d/140_77_1244_994/master/1244.jpg?width=140&quality=85&auto=format&fit=max&s=484263d9a747427a1d4b5e0ca3b2f5fc",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-16117a261f",
+    "source": "The Guardian — UK",
+    "title": "Why has the UK dropped its trial of two alleged China spies?",
+    "summary": "Prosecutor hinted at lack of backing from Downing Street but legal experts argue prosecution was still possible An extraordinary disclosure by Stephen Parkinson, the director of public prosecutions, on Tuesday evening has triggered a political row over who was behind the sudden abandonment of a high-profile espionage case. Two Britons had been accused of acting as spies for China. One of them, Christopher Cash, was a parliamentary researcher for the Conservative backbencher Alicia Kearns, specialising in China issues. A trial had been due to start in October, but three weeks ago the Crown Prosecution Service dropped proceedings with little explanation until Tuesday. Continue reading...",
+    "url": "https://www.theguardian.com/law/2025/oct/08/why-has-the-uk-dropped-its-trial-of-two-alleged-china-spies",
+    "published": "2025-10-08T18:38:06Z",
+    "image_url": "https://i.guim.co.uk/img/media/2fbaf52e943e93790082d46570d5ec0cba39fc84/0_0_11687_9350/master/11687.jpg?width=140&quality=85&auto=format&fit=max&s=9139777eccf1fd7de4a1d2abc2c5e9d6",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-4eb7fe169d",
     "source": "BBC — Top Stories",
     "title": "Dolly Parton posts 'I ain't dead yet' after sister sparks health concerns",
@@ -96,18 +180,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-8011cc3706",
-    "source": "BBC — Top Stories",
-    "title": "Synagogue attacker pledged allegiance to 'Islamic State' in 999 call",
-    "summary": "Police confirm the attacker made the call after he crashed his car into a brick wall.",
-    "url": "https://www.bbc.com/news/articles/c3drj0dxmr9o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T17:00:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5fb/live/0efb21c0-a455-11f0-8a21-ff96e44d1cc2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-5c38fcf61c",
     "source": "The Guardian — UK",
     "title": "Manchester’s day of darkness: inside the 10 October Guardian Weekly",
@@ -126,7 +198,7 @@
     "summary": "Police say Jihad al-Shamie made call to emergency services during attack that resulted in the deaths of two worshippers The Manchester synagogue terrorist rang 999 during his deadly attack pledging allegiance to the terror group Islamic State, police have said. Jihad al-Shamie, 35, made the call claiming responsibility for the attack after driving his car at worshippers outside Heaton Park synagogue in north Manchester on the Jewish holy day of Yom Kippur last week. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/08/manchester-synagogue-terrorist-attack-islamic-state-999",
     "published": "2025-10-08T17:00:00Z",
-    "image_url": "https://i.guim.co.uk/img/media/b5de818acb6b4ee25426a288e2370aa46100f41b/1007_221_4026_3220/master/4026.jpg?width=140&quality=85&auto=format&fit=max&s=89a01bd0dd2de0a4142a04f359538067",
+    "image_url": "https://i.guim.co.uk/img/media/8854a59775b0fe060b0c8f343c17018e5e92dc35/81_80_1685_1348/master/1685.jpg?width=140&quality=85&auto=format&fit=max&s=9a53f48316a972a276f2d7732883df1e",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -163,6 +235,18 @@
     "url": "https://www.bbc.com/news/articles/c5yqn2x490zo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T16:10:56Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70f4/live/4a71ec30-a459-11f0-9060-338e82e0aff9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-08080c3f05",
+    "source": "BBC — Top Stories",
+    "title": "Remote Welsh island with population of three people searching for new tenant family",
+    "summary": "Island trust seeks adventurous family or couple to join three other permanent residents on Ynys Enlli.",
+    "url": "https://www.bbc.com/news/articles/cnvr076y68lo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T16:07:14Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df15/live/5e61e480-a453-11f0-8a21-ff96e44d1cc2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -216,18 +300,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-276c8c13dc",
-    "source": "BBC — Top Stories",
-    "title": "Conservatives would scrap stamp duty on main homes, Badenoch says",
-    "summary": "The Tory leader says the move would help millions buy a home, in her annual conference speech.",
-    "url": "https://www.bbc.com/news/articles/c20zv94ldpko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T15:17:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3560/live/3eedd230-a444-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-3334194b03",
     "source": "Politico — UK",
     "title": "Das Update zur Chat-Kontrolle und Reiches Herbstprognose",
@@ -247,18 +319,6 @@
     "url": "https://www.bbc.com/news/articles/cewneje2l2xo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T15:16:31Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13f4/live/38bc5f10-a455-11f0-a7a1-91a5f35eec8a.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-7cf59cb375",
-    "source": "The Guardian — UK",
-    "title": "Tory plan to abolish stamp duty ‘will benefit London and the wealthiest the most’ – as it happened",
-    "summary": "This blog is now closed, you can read more on this story here Voting in the Labour deputy leadership election opens today. Lucy Powell , the former Commons leader, is seen as the favourite and, as Jessica Elgot reports, Powell told supporters yesterday that, if she is elected, she will use the post to argue for changes in the way the government is operating. “We can’t sugarcoat the fact that things aren’t going well,” she said. Powell is no longer a government minister and, if she is elected deputy leader, she will do the job from the backbenches. In an interview on Newsnight last night, Bridget Phillipson , the education secretary standing against Powell, said a Powell victory would be “destabilising” for the party. She said: [Electing Powell] risks destabilising the party … we best achieve what we need to do together when we have those fierce conversations, including disagreements, behind closed doors. Members need to understand that there’s a potential challenge around all of that – that if you’re not inside when the big decisions are being made, you’re not at that table, you’re not in those conversations. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/08/conservative-tory-conference-kemi-badenoch-labour-keir-starmer-india-uk-politics-live-news-updates",
-    "published": "2025-10-08T15:13:31Z",
-    "image_url": "https://i.guim.co.uk/img/media/0307c38293edfb7caa70253a42b37082a9e76b9a/225_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=8dfed18c6efbe08ce8221925a014dbdf",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -312,6 +372,18 @@
     "cluster_id": null
   },
   {
+    "id": "The Guardian — UK-5afdada616",
+    "source": "The Guardian — UK",
+    "title": "Legal experts question reasoning behind CPS dropping China ‘spies’ case",
+    "summary": "Ex-DPP Ken Macdonald says prosecutors may have been ‘over-fussy’ in seeking further assurances from government Legal experts have questioned the explanation given by the Crown Prosecution Service for its sudden decision to drop charges against two Britons accused of spying for China amid a political row over who was responsible. The expert lawyers expressed surprise that the CPS thought it needed further assurance from the government that China was an enemy insofar as it posed “a current threat to national security” before the trial of Christopher Cash and Christopher Berry could go ahead. Continue reading...",
+    "url": "https://www.theguardian.com/law/2025/oct/08/uk-legal-experts-question-cps-drop-china-spies-case",
+    "published": "2025-10-08T14:43:52Z",
+    "image_url": "https://i.guim.co.uk/img/media/2fbaf52e943e93790082d46570d5ec0cba39fc84/0_0_11687_9350/master/11687.jpg?width=140&quality=85&auto=format&fit=max&s=9139777eccf1fd7de4a1d2abc2c5e9d6",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-6af39a9492",
     "source": "Politico — UK",
     "title": "Von der Leyen’s party revolts over her plans for budget and emissions",
@@ -343,18 +415,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/08/uk-opens-up-driving-test-slots-help-reduce-backlog",
     "published": "2025-10-08T14:04:10Z",
     "image_url": "https://i.guim.co.uk/img/media/9e26d3bc2e088b1814bdfe5e7ee13de98f355166/276_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=a7616aebd04dbeff2856b7b3a1735b5c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9fccfc903b",
-    "source": "BBC — Top Stories",
-    "title": "What you need to know ahead of Celebrity Traitors",
-    "summary": "Alan Carr, Charlotte Church and Niko Omilanaare among the stars who will be sitting at the round table.",
-    "url": "https://www.bbc.com/news/articles/c4gv1z2dr0go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T13:28:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e6/live/4727aff0-a469-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -403,30 +463,6 @@
     "url": "https://www.politico.eu/article/hooray-brollywood-uk-looks-india-donald-trump-threatens-movie-tariffs-keir-starmer-yash-raj-film/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-08T12:29:01Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2239386409-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-37367972c3",
-    "source": "Politico — UK",
-    "title": "French Socialists still waiting for concessions from Macron after talks on next PM",
-    "summary": "France's outgoing prime minister has until Wednesday evening to find a way out of the political crisis with opposition parties.",
-    "url": "https://www.politico.eu/article/france-socialists-waiting-concessions-emmanuel-macron-after-talks-next-pm-lecornu-olivier-faure/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T12:18:04Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2238335120-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-67fc0a62dc",
-    "source": "Politico — UK",
-    "title": "Choco diplomacy: Green lawmaker gives von der Leyen sweet birthday gift",
-    "summary": "MEP Terry Reintke gives her chocolate in \"the hope is that the serotonins and dopamines will translate into good Green legislation in return.\"",
-    "url": "https://www.politico.eu/article/choco-diplomacy-green-lawmaker-terry-reintke-gives-ursula-von-der-leyen-sweet-birthday-gift/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T12:17:47Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/13411326-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -492,18 +528,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-66eb8cbe92",
-    "source": "The Guardian — UK",
-    "title": "Rachel Reeves given extra £3bn for budget after VAT error fixed",
-    "summary": "ONS says public borrowing estimates have been out by £200m-£500m a month since January Business live – latest updates Mistakes in recent public finances data mean government borrowing has been overstated by a cumulative £3bn, the Office for National Statistics has said. In a fillip that gives Rachel Reeves a little bit more wriggle room in her November budget, the ONS said its estimates of public borrowing had been out by £200m-£500m a month since January. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/08/rachel-reeves-given-extra-3bn-for-budget-after-vat-error-fixed",
-    "published": "2025-10-08T08:20:14Z",
-    "image_url": "https://i.guim.co.uk/img/media/60c58ff0e5d1aa268dc3bfc08e2356807aa5aae0/873_0_4499_3602/master/4499.jpg?width=140&quality=85&auto=format&fit=max&s=dbfcf6a4ca6ea40974fb320ace12c418",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-2dc0c06776",
     "source": "BBC — Top Stories",
     "title": "'Being gay in men's football is a very toxic place'",
@@ -511,18 +535,6 @@
     "url": "https://www.bbc.com/sport/football/articles/cvgn0411vlvo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T08:00:17Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/282c/live/0d0af1e0-9cff-11f0-9297-a5fd92668561.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-7b30c07f6e",
-    "source": "The Guardian — UK",
-    "title": "Badenoch unveils ‘golden rule’ to use half of spending cuts to reduce deficit",
-    "summary": "Conservative leader aims to rebuild party’s economic credibility after it was torched by her predecessors A British Ice and more stop and search: Badenoch’s Tories set out new policies Kemi Badenoch will unveil a “golden rule” to reduce government borrowing through spending cuts as she seeks to rebuild the Conservatives’ reputation for economic credibility. In a speech at the Tory party conference on Wednesday, she will promise that at least half of all the money saved through spending cuts would be used to bring down the country’s deficit, with the remainder used for tax cuts and other measures aimed at economic growth. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/08/badenoch-unveils-golden-rule-to-use-half-of-spending-cuts-to-reduce-deficit",
-    "published": "2025-10-08T06:00:18Z",
-    "image_url": "https://i.guim.co.uk/img/media/2ec8aaa888c6521b7c2b82c54ed57a80a987706a/1297_0_6990_5592/master/6990.jpg?width=140&quality=85&auto=format&fit=max&s=1c1873d9fd51263ab1dafe229d176647",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -583,18 +595,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/07/badenoch-tories-new-policies-british-ice-stop-and-search",
     "published": "2025-10-07T21:46:21Z",
     "image_url": "https://i.guim.co.uk/img/media/eabccc6d8bfaf92445c1efcc3229f0411ed62cbd/0_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=773b67fece5cb1bc2d4b501f1568a4bb",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-a9c530d8e2",
-    "source": "The Guardian — UK",
-    "title": "How would tougher powers for police affect protests in England and Wales?",
-    "summary": "The home secretary has announced plans to allow officers to consider the impact of repeated demonstrations The home secretary, Shabana Mahmood, has announced plans to hand police the powers to impose tougher conditions on protests by taking account of the “cumulative impact” of previous similar demonstrations, prompting an outcry from civil liberty groups . How does the right to protest currently work in England and Wales and what could the proposed changes mean? Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/07/how-tougher-powers-police-affect-protests-england-wales",
-    "published": "2025-10-07T11:58:58Z",
-    "image_url": "https://i.guim.co.uk/img/media/d1308bc8f3610d31712edf8eb66439d13fb9e20f/708_60_3563_2850/master/3563.jpg?width=140&quality=85&auto=format&fit=max&s=f0043b7f5e71cf66c6a3f40d8b923823",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
