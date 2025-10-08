@@ -1,12 +1,48 @@
 [
   {
-    "id": "BBC — Top Stories-8bb8ab0b7b",
+    "id": "BBC — Top Stories-d10a2e0813",
     "source": "BBC — Top Stories",
-    "title": "Chad cuts ties with wildlife charity linked to Prince Harry",
-    "summary": "The government says the charity African Parks displayed an arrogant and disrespectful attitude.",
-    "url": "https://www.bbc.com/news/articles/c07v3kgy2lko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T04:04:45Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b016/live/ddfa2db0-a3f9-11f0-b741-177e3e2c2fc7.jpg",
+    "title": "Thousands join biggest-ever UK environmental lawsuit over river pollution",
+    "summary": "Livestock and water companies are accused of “extensive” pollution in the Wye, Lugg and Usk rivers.",
+    "url": "https://www.bbc.com/news/articles/crrj4qqqy7po?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T05:11:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c49/live/fd57d970-a366-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-bd457e1d8b",
+    "source": "The Guardian — UK",
+    "title": "Starmer says Jenrick is ‘hard to take seriously’ after Birmingham comments",
+    "summary": "PM says Jenrick is ‘still running his leadership campaign’ after he complained about ‘not seeing another white face’ Keir Starmer has criticised Robert Jenrick’s comments complaining about “not seeing another white face” in parts of Birmingham, saying the shadow justice secretary was “hard to take seriously”. The prime minister suggested Jenrick’s comments were part of a stealth Conservative leadership campaign and said he did not believe he painted a true picture of the area of Handsworth, which Jenrick had described as “as close as I’ve come to a slum in this country”. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/08/starmer-says-jenrick-is-hard-to-take-seriously-after-birmingham-comments",
+    "published": "2025-10-08T05:00:17Z",
+    "image_url": "https://i.guim.co.uk/img/media/e854b3990d5d40f01495862eaca1d00075b7e809/559_0_5585_4468/master/5585.jpg?width=140&quality=85&auto=format&fit=max&s=ff4c4abb7e82724c902aac001ca49665",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-d5cb488a0a",
+    "source": "The Guardian — UK",
+    "title": "Millions in UK at risk of cyber-attacks as Windows 10 ends updates, Which? finds",
+    "summary": "Survey shows one in four users intend to keep using system as it is phased out, despite increased virus and malware risk About 5 million British computer users risk becoming vulnerable to cyber-attacks and scams after Microsoft next week stops updating its decade-old Windows 10 system, consumer campaigners have warned. One in four of an estimated 21 million UK people using a device that runs the Windows 10 software intend to continue using it after updates cease and so will be at risk of online security breaches including malware and viruses, according to a survey by Which? More than a third of those who are not planning to take action and therefore risk becoming vulnerable are people aged over 55. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2025/oct/08/millions-in-uk-at-risk-of-cyber-attacks-as-windows-10-ends-updates-which-finds",
+    "published": "2025-10-08T05:00:16Z",
+    "image_url": "https://i.guim.co.uk/img/media/8e32fbeddf130fdc1d707d3d8c29e8a064ee151c/301_0_1641_1313/master/1641.jpg?width=140&quality=85&auto=format&fit=max&s=c7e9601166e56aa17acabe2c299a067a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-fe6574781b",
+    "source": "BBC — Top Stories",
+    "title": "US special envoy and Trump's son-in-law to join Gaza peace talks in Egypt",
+    "summary": "The arrival of Steve Witkoff and Jared Kushner comes as a second day of talks ended without tangible results, a Palestinian official tells the BBC.",
+    "url": "https://www.bbc.com/news/articles/cdjzvlxp8mjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T04:38:52Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b140/live/923c8e10-a401-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -144,6 +180,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-6760bb711c",
+    "source": "BBC — Top Stories",
+    "title": "Dazzling supermoon illuminates skylines around the world",
+    "summary": "From Paris to Taipei, this week's supermoon, also known as the Harvest and Hunter's moons, was captured in photos.",
+    "url": "https://www.bbc.com/news/articles/cx2xzk1nd2eo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T02:17:19Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfaf/live/efe8af80-a3d9-11f0-bc95-1520d15cd340.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-c7de4d3640",
     "source": "Politico — UK",
     "title": "‘The insatiable dragon is here’: How a banking deal fired up Catalan politics",
@@ -182,7 +230,7 @@
   {
     "id": "BBC — Top Stories-c337935165",
     "source": "BBC — Top Stories",
-    "title": "Romesh Ranganathan on overexposure and feeling 'intimidated' by Sheridan Smith",
+    "title": "Romesh Ranganathan on overexposure and acting with Sheridan Smith",
     "summary": "The comic says he understands why people feel they see a lot of him, but jokes: \"I do say no to stuff.\"",
     "url": "https://www.bbc.com/news/articles/c39r3ylnjpzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T01:47:52Z",
@@ -264,18 +312,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-00dab7f0db",
-    "source": "BBC — Top Stories",
-    "title": "EU steel tariff hike threatens 'biggest ever crisis' for UK industry",
-    "summary": "The EU is the destination for 78% of steel products made in the UK for overseas markets.",
-    "url": "https://www.bbc.com/news/articles/cwy875px79po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T23:30:18Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6663/live/eca51250-a38e-11f0-96cf-a52f331e209a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-ff17ead336",
     "source": "BBC — Top Stories",
     "title": "Dog attacks are still rising - even after the XL bully ban",
@@ -295,6 +331,18 @@
     "url": "https://www.bbc.com/news/articles/cly09x107e8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T23:04:54Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2bd/live/dbaefb80-a093-11f0-b1b3-b903aa8071ae.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-a49cb1a9bb",
+    "source": "The Guardian — UK",
+    "title": "Green groups criticise plans to weaken protections for English national parks",
+    "summary": "Exclusive: Letter from 170-plus organisations calls on government to drop proposed changes to planning law Plans to water down protections for national parks such as Dartmoor and the Lake District in a “kneejerk bid for growth” will be devastating for nature, more than 170 organisations have told the prime minister. The Treasury is understood to be pushing for a weakening of protections for England’s national parks and national landscapes in changes to planning law to make it easier for developers to build houses and infrastructure projects. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/oct/08/green-groups-criticise-plans-weaken-protections-english-national-parks",
+    "published": "2025-10-07T23:01:09Z",
+    "image_url": "https://i.guim.co.uk/img/media/e7ef4d1e99c49de97968e42e7f3affaf18d01cc0/251_0_3003_2403/master/3003.jpg?width=140&quality=85&auto=format&fit=max&s=9491bf88f38f25cf191dd99bc659e96a",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -324,18 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-a49cb1a9bb",
-    "source": "The Guardian — UK",
-    "title": "Green groups criticise plans to weaken protections for English national parks",
-    "summary": "Exclusive: Letter from 170-plus organisations calls on government to drop proposed changes to planning law Plans to water down protections for national parks such as Dartmoor and the Lake District in a “kneejerk bid for growth” will be devastating for nature, more than 170 organisations have told the prime minister. The Treasury is understood to be pushing for a weakening of protections for England’s national parks and national landscapes in changes to planning law to make it easier for developers to build houses and infrastructure projects. Continue reading...",
-    "url": "https://www.theguardian.com/environment/2025/oct/08/green-groups-criticise-plans-weaken-protections-english-national-parks",
-    "published": "2025-10-07T23:01:09Z",
-    "image_url": "https://i.guim.co.uk/img/media/e7ef4d1e99c49de97968e42e7f3affaf18d01cc0/251_0_3003_2403/master/3003.jpg?width=140&quality=85&auto=format&fit=max&s=9491bf88f38f25cf191dd99bc659e96a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-8d2968570b",
     "source": "The Guardian — UK",
     "title": "One year’s worth of bread lost in UK to wrecked harvests since 2020, report finds",
@@ -355,18 +391,6 @@
     "url": "https://www.theguardian.com/environment/2025/oct/08/brexit-nothing-stem-decline-uk-fish-populations-study",
     "published": "2025-10-07T23:01:08Z",
     "image_url": "https://i.guim.co.uk/img/media/806c84d117a83ea3121ddd48a3a362a06e6a6587/36_0_1440_1152/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=c3e7e1077db23420a7c6bc2a6913e84d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-d10a2e0813",
-    "source": "BBC — Top Stories",
-    "title": "Thousands join biggest-ever UK environmental lawsuit over river pollution",
-    "summary": "Livestock and water companies are accused of “extensive” pollution in the Wye, Lugg and Usk rivers.",
-    "url": "https://www.bbc.com/news/articles/crrj4qqqy7po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T21:57:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c49/live/fd57d970-a366-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -408,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-285d4b5d65",
-    "source": "BBC — Top Stories",
-    "title": "Israelis mark 7 October anniversary as talks on Gaza peace plan continue",
-    "summary": "\"The horror of that dark day will be forever seared in the memories of us all,\" UN Secretary General António Guterres says.",
-    "url": "https://www.bbc.com/news/articles/c24rj4pg05no?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T20:54:52Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d14/live/a0f653e0-a3a3-11f0-924e-bba4adcf336a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-5855a73eee",
     "source": "The Guardian — UK",
     "title": "Man and teenage boy arrested over cyber-attack on London nurseries",
@@ -427,18 +439,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/07/man-teenage-boy-arrested-kido-nurseries-cyber-attack-london",
     "published": "2025-10-07T20:48:39Z",
     "image_url": "https://i.guim.co.uk/img/media/cec28c9a5c4af4b268d52602d9f5c4ad3be74584/74_0_4473_3577/master/4473.jpg?width=140&quality=85&auto=format&fit=max&s=6ac5f1f45b03cc9bf0ee2feb010fb3de",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-ff522020e4",
-    "source": "The Guardian — UK",
-    "title": "‘Kardashian of Cheshire’ paedophile jailed for luxury handbag fraud",
-    "summary": "Jack Watkin flaunted ‘millionaire’ lifestyle after defrauding victims including his father and friends of nearly £200,000 A convicted paedophile who described himself as the “Kardashian of Cheshire” has been jailed for fraud after he used an elaborate luxury handbag scam to steal nearly £200,000. Jack Watkin, 26, of Alderley Edge, portrayed himself as a millionaire with a “glamorous lifestyle” on social media and duped six victims, including his own father and friends, into believing he was a “wealthy” and “well-connected” reseller of Hermès handbags. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/07/kardashian-of-cheshire-paedophile-jailed-for-luxury-handbag",
-    "published": "2025-10-07T20:10:23Z",
-    "image_url": "https://i.guim.co.uk/img/media/e530412020204c2b91eae56558580feda62b51a4/22_183_1098_878/master/1098.jpg?width=140&quality=85&auto=format&fit=max&s=88b0ec309da21277279ea7ee2814c733",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -487,6 +487,18 @@
     "url": "https://www.bbc.com/news/videos/ckg2qw59l07o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-07T16:52:27Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8db9/live/9185b940-a395-11f0-92db-77261a15b9d2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b484f14958",
+    "source": "BBC — Top Stories",
+    "title": "Millions of drivers could receive £700 payout over car finance mis-selling scandal",
+    "summary": "Lenders could pay out £8.2bn in compensation, which is less than the FCA had previously estimated.",
+    "url": "https://www.bbc.com/news/articles/cqlzwqv7xz1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-07T16:46:25Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2e9/live/20610b80-a399-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -547,18 +559,6 @@
     "url": "https://www.theguardian.com/world/2025/oct/07/how-tougher-powers-police-affect-protests-england-wales",
     "published": "2025-10-07T11:58:58Z",
     "image_url": "https://i.guim.co.uk/img/media/d1308bc8f3610d31712edf8eb66439d13fb9e20f/708_60_3563_2850/master/3563.jpg?width=140&quality=85&auto=format&fit=max&s=f0043b7f5e71cf66c6a3f40d8b923823",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-62845dc836",
-    "source": "The Guardian — UK",
-    "title": "GB News’s US expansion feared to be new way for Trumpian views to reach UK audience",
-    "summary": "White House backing was on full display as GB News launched The Late Show Live Not long ago, it would have been hard to believe a group of executives from a relatively small overseas broadcaster would be granted a meeting at the White House, let alone an audience with the president of the United States. Yet when a delegation from GB News – led by Nigel Farage – headed to Washington DC last month to meet Donald Trump’s team, it only confirmed that the Reform UK leader’s Maga connections provided the channel with significant access. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/07/gb-news-us-expansion-trumpian-views-uk-audience",
-    "published": "2025-10-07T11:00:03Z",
-    "image_url": "https://i.guim.co.uk/img/media/7e837f828cd9d310ce42248e664bed68f4accbda/1130_450_2093_1675/master/2093.jpg?width=140&quality=85&auto=format&fit=max&s=f86f19e58e2c82e761e046d88a9e79fa",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
