@@ -1,12 +1,36 @@
 [
   {
-    "id": "BBC — Top Stories-4eb7fe169d",
+    "id": "BBC — Top Stories-8bb8ab0b7b",
     "source": "BBC — Top Stories",
-    "title": "Dolly Parton's sister asks fans to pray for country singer",
-    "summary": "The message comes a week after the 79-year-old musician postponed gigs due to health issues.",
-    "url": "https://www.bbc.com/news/articles/cjd1m3y00dxo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T03:07:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810e/live/e81213b0-a3f1-11f0-928c-71dbb8619e94.jpg",
+    "title": "Chad cuts ties with wildlife charity linked to Prince Harry",
+    "summary": "The government says the charity African Parks displayed an arrogant and disrespectful attitude.",
+    "url": "https://www.bbc.com/news/articles/c07v3kgy2lko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T04:04:45Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b016/live/ddfa2db0-a3f9-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-8092ec2640",
+    "source": "The Guardian — UK",
+    "title": "Scientists develop first ‘accurate blood test’ to detect chronic fatigue syndrome",
+    "summary": "Research could offer hope for ME patients – but some experts urge caution and say more studies needed Scientists say they have developed the world’s first blood test to diagnose myalgic encephalomyelitis, also known as chronic fatigue syndrome (ME/CFS). There is no currently no test for the condition and patients tend to be diagnosed based on symptoms, which means many can go undiagnosed for years. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/oct/08/scientists-say-they-have-first-blood-test-to-diagnose-chronic-fatigue-syndrome-me",
+    "published": "2025-10-08T04:00:16Z",
+    "image_url": "https://i.guim.co.uk/img/media/aeace8771132ed7d06c2508e59021fe37722f5fb/0_0_5156_4125/master/5156.jpg?width=140&quality=85&auto=format&fit=max&s=c13c2a68ef7e7321cb5813f8632dc04b",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-240c2447c7",
+    "source": "Politico — UK",
+    "title": "Koalition: Das Ende des Verbrennerverbots naht",
+    "summary": "Der Koalitionsausschuss steht an und die Themen werden eher größer als kleiner: Bürgergeld, Verbrenner-Aus, Wehrpflicht, Krankenversicherung. Rasmus Buchsteiner berichtet, warum der Kanzler trotzdem optimistisch ist vor dem Treffen. Im 200-Sekunden-Interview erklärt Armand Zorn, stellvertretender SPD-Fraktionschef, wie sich seine Partei ein Aufweichen der strikten Verbrenner-Richtline für 2035 vorstellen könnten. Und im Gespräch: Rahm Emanuel, ehemals Stabschef […]",
+    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/koalition-das-ende-des-verbrennerverbots-naht/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-08T03:47:17Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/Berlin-Playbook-Website-card-1-1.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -139,18 +163,6 @@
     "url": "https://www.politico.eu/article/angela-merkel-memoir-freedom-germany-russia-vladimir-putin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-08T02:01:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2237711689.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-060ac64048",
-    "source": "Politico — UK",
-    "title": "Ukraine struggles to find homes for millions of refugees",
-    "summary": "People fleeing Russian attacks face huge difficulties in finding new homes and getting compensation for lost or destroyed property.",
-    "url": "https://www.politico.eu/article/ukraine-struggle-find-home-refugee/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T02:01:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/26/GettyImages-2236263511-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -451,18 +463,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/07/lucy-powell-tells-labour-it-cant-sugarcoat-how-badly-things-are-going",
     "published": "2025-10-07T19:20:09Z",
     "image_url": "https://i.guim.co.uk/img/media/4151d9bdb872e45688e64c3be0002d51946b6fe9/0_91_3326_2660/master/3326.jpg?width=140&quality=85&auto=format&fit=max&s=c90696380d90eb6a57e36651a8578b80",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-73589b4473",
-    "source": "The Guardian — UK",
-    "title": "China ‘spies’ case was dropped after government failed to provide evidence of Beijing threat",
-    "summary": "Ministers and officials did not provide statements that China was threat despite ‘many months’ of effort to obtain them Charges against two men accused of spying for China were suddenly dropped last month because prosecutors could not obtain critical evidence from the government that Beijing represented a “threat to the national security of the UK”. Stephen Parkinson, the director of public prosecutions, wrote to two select committee chairs to explain that despite trying over “many months”, the sought-after statements were not forthcoming from ministers and officials. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/07/china-spies-case-was-dropped-after-government-failed-to-provide-evidence-of-beijing-threat",
-    "published": "2025-10-07T18:48:01Z",
-    "image_url": "https://i.guim.co.uk/img/media/7e3c4f8f5625000c733ce32ee8f35a8d460ad40c/194_0_1565_1252/master/1565.jpg?width=140&quality=85&auto=format&fit=max&s=c479116a7812b15367d7fddca6fb8937",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
