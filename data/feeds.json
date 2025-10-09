@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-c9e60f07cd",
+    "source": "BBC — Top Stories",
+    "title": "Liberal Democrat membership has halved in 5 years",
+    "summary": "Analysis of available figures shows the number of party members has fallen by 49% since August 2020.",
+    "url": "https://www.bbc.com/news/articles/cy5069p70x2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-09T01:13:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fa8/live/4ac8fe20-a45f-11f0-a789-358ea6d9d143.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7caa805b78",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'I'll axe stamp duty' and 'My Maddie hoax agony'",
+    "summary": "The Tories vow to scrap some stamp duty and Madeleine McCann's parents give evidence in an alleged stalking case",
+    "url": "https://www.bbc.com/news/articles/c3rv52zr4r2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-09T00:44:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d3/live/f4024240-a490-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a3eab8fb22",
+    "source": "BBC — Top Stories",
+    "title": "'I cried every day': Victoria Beckham tells of fashion woes in new Netflix doc",
+    "summary": "The former Spice Girl's new Netflix documentary has landed - under the shadow of a reported family feud.",
+    "url": "https://www.bbc.com/news/articles/crrj4v9wre8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-09T00:05:33Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1452/live/6f0d40b0-a46f-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e487d86622",
+    "source": "BBC — Top Stories",
+    "title": "Have Russians set up a military base in my childhood home?",
+    "summary": "Satellite images show the house where the BBC's Vitaly Shevchenko grew up could now be a Russian base.",
+    "url": "https://www.bbc.com/news/articles/c4gj7p96nd0o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T23:19:35Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7db4/live/f7874bf0-a430-11f0-928c-71dbb8619e94.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-c6b04c06e0",
+    "source": "Politico — UK",
+    "title": "Trump says Israel and Hamas finalize Gaza peace deal",
+    "summary": "President Donald Trump says that Israel and Hamas have “signed off on the first phase” of a deal to end the two-year conflict in Gaza.",
+    "url": "https://www.politico.com/news/2025/10/08/trump-says-israel-and-hamas-finalize-gaza-peace-deal-00599152?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-08T23:18:37Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-116611bc90",
     "source": "BBC — Top Stories",
     "title": "How Britain's membership of the ECHR became a political hot potato",
@@ -30,7 +90,7 @@
     "summary": "Sanaa el-Azab is one of 58 people who have been evacuated from Gaza to study at universities in the UK on scholarships.",
     "url": "https://www.bbc.com/news/articles/cx25qy1804ro?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T23:01:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17ee/live/a0cb68b0-a466-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ced4/live/e70ad440-a49e-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -55,6 +115,18 @@
     "url": "https://www.bbc.com/news/articles/c2038w7lgx1o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T22:49:13Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0e3/live/6f4a1fa0-a490-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-788a451552",
+    "source": "BBC — Top Stories",
+    "title": "The battle for Scotland's flag: Why the right has adopted the saltire",
+    "summary": "The saltire has long been embraced by supporters of Scottish independence – but now it is being unfurled for a different cause.",
+    "url": "https://www.bbc.com/news/articles/clyxqknx7jqo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T21:59:24Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe18/live/e1266390-a44a-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -300,18 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-209a31d32e",
-    "source": "BBC — Top Stories",
-    "title": "Children harmed by decision to redeploy health visitors, Covid inquiry hears",
-    "summary": "Some children paid \"the highest price\" of death because of redeployments, says health visiting charity head.",
-    "url": "https://www.bbc.com/news/articles/c1jz3n126kwo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T18:42:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c97/live/867a0080-a465-11f0-8c79-29eeaf2ea52d.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-16117a261f",
     "source": "The Guardian — UK",
     "title": "Why has the UK dropped its trial of two alleged China spies?",
@@ -319,18 +379,6 @@
     "url": "https://www.theguardian.com/law/2025/oct/08/why-has-the-uk-dropped-its-trial-of-two-alleged-china-spies",
     "published": "2025-10-08T18:38:06Z",
     "image_url": "https://i.guim.co.uk/img/media/2fbaf52e943e93790082d46570d5ec0cba39fc84/0_0_11687_9350/master/11687.jpg?width=140&quality=85&auto=format&fit=max&s=9139777eccf1fd7de4a1d2abc2c5e9d6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4eb7fe169d",
-    "source": "BBC — Top Stories",
-    "title": "Dolly Parton posts 'I ain't dead yet' after sister sparks health concerns",
-    "summary": "The singer's sister had asked fans to pray for her after the star postponed gigs due to health issues.",
-    "url": "https://www.bbc.com/news/articles/cjd1m3y00dxo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T18:12:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810e/live/e81213b0-a3f1-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -391,18 +439,6 @@
     "url": "https://www.bbc.com/news/articles/cnvr0723np8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T17:13:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65f8/live/be1661d0-a467-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a9d2903225",
-    "source": "BBC — Top Stories",
-    "title": "No more veggie burgers? EU parliament votes to ban meat names for plant-based foods",
-    "summary": "Pressure to ban meat labels for plant-based products comes from Europe's livestock farmers.",
-    "url": "https://www.bbc.com/news/articles/c3w5v75deewo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T16:55:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62fd/live/09d090f0-a45e-11f0-a789-358ea6d9d143.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,18 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-e6559bd28c",
-    "source": "Politico — UK",
-    "title": "Le Pen says she’ll try to bring down any future PM until Macron calls new election",
-    "summary": "Other parties are \"scared to death\" of sending voters back to the polls, she said.",
-    "url": "https://www.politico.eu/article/marine-le-pen-says-she-will-try-bring-down-any-future-pm-until-emmanuel-macron-calls-new-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T14:54:56Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2239401692-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-5afdada616",
     "source": "The Guardian — UK",
     "title": "Legal experts question reasoning behind CPS dropping China ‘spies’ case",
@@ -540,18 +564,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-2dc0c06776",
-    "source": "BBC — Top Stories",
-    "title": "'Being gay in men's football is a very toxic place'",
-    "summary": "Australian Josh Cavallo, who moved to England in July to join non-league Peterborough Sports, says football has got \"mountains to do\" to tackle homophobia.",
-    "url": "https://www.bbc.com/sport/football/articles/cvgn0411vlvo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T08:00:17Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/282c/live/0d0af1e0-9cff-11f0-9297-a5fd92668561.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-878b9f51c1",
     "source": "BBC — Top Stories",
     "title": "Draconid meteor shower to peak tonight - here's how to watch it",
@@ -571,18 +583,6 @@
     "url": "https://www.theguardian.com/news/audio/2025/oct/08/this-is-what-weve-been-afraid-of-british-jews-after-the-manchester-attack-podcast",
     "published": "2025-10-08T02:00:11Z",
     "image_url": "https://i.guim.co.uk/img/media/43306077ae795f883443dba69bbe7e8965a8e324/603_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9879c84829766d72cccbafa0de07b52b",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-ff17ead336",
-    "source": "BBC — Top Stories",
-    "title": "Dog attacks are still rising - even after the XL bully ban",
-    "summary": "With close to 32,000 dog attacks recorded in England and Wales last year, is there a better solution?",
-    "url": "https://www.bbc.com/news/articles/cvgvy2yyv8mo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-07T23:09:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f42/live/7b0a3510-a390-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
