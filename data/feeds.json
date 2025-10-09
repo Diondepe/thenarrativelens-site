@@ -1,5 +1,113 @@
 [
   {
+    "id": "BBC — Top Stories-b3b6fe6de9",
+    "source": "BBC — Top Stories",
+    "title": "ChatGPT image snares suspect in deadly Los Angeles fire",
+    "summary": "Investigators say evidence collected from the 29-year-old's devices showed an AI image of a burning city.",
+    "url": "https://www.bbc.com/news/articles/c8exz5yg14ko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-09T02:57:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d6e/live/0e430540-a469-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-9730f8c43b",
+    "source": "Politico — UK",
+    "title": "UK eyes migrant returns deal with Kosovo",
+    "summary": "A gathering in Northern Ireland is an opportunity for the government to find a new avenue for dealing with its most pressing problem.",
+    "url": "https://www.politico.eu/article/uk-migrant-return-deal-kosovo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-09T02:49:02Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2236214935-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-63d13b3b4d",
+    "source": "Politico — UK",
+    "title": "UK-EU reset leaves sour taste for South African citrus exporters",
+    "summary": "Importers of citrus fruit seek exemption from EU rules that would apply under Brexit deal.",
+    "url": "https://www.politico.eu/article/uk-eu-reset-south-africa-citrus-export-business-brexit-pests/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-09T02:46:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-1242353956-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-0995d580c7",
+    "source": "Politico — UK",
+    "title": "Big Tech lawyer played key role in picking Ireland’s new privacy regulator",
+    "summary": "Former Meta lobbyist Niamh Sweeney will co-lead the Irish Data Protection Commission from mid-October.",
+    "url": "https://www.politico.eu/article/big-tech-lawyer-key-in-picking-irelands-newest-privacy-commissioner/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-09T02:25:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/06/GettyImages-634377038-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-504eb719d6",
+    "source": "Politico — UK",
+    "title": "‘Hybrid warfare’ or more of the same? Getting a grip on drones across Europe.",
+    "summary": "UAV incursions have been happening for years, but they suddenly became a major emergency.",
+    "url": "https://www.politico.eu/article/hybrid-warfare-or-more-of-the-same-getting-a-grip-on-drones-across-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-09T02:24:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2239399997-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-63ef5b810c",
+    "source": "Politico — UK",
+    "title": "Belgium lays out red lines on €140B Ukraine loan",
+    "summary": "Belgian PM Bart De Wever has suggested that the Commission's scheme to leverage Russian frozen assets effectively amounts to confiscation.",
+    "url": "https://www.politico.eu/article/belgium-ukraine-loan-russian-assets-bart-de-wever/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-09T02:14:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2231484628-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-ecec97921c",
+    "source": "Politico — UK",
+    "title": "The 5 tribes giving von der Leyen the biggest headaches",
+    "summary": "As the European Commission president faces the second set of no-confidence votes in three months, groups of people with very different views from each other are giving her angst. Some even want to bring her down.",
+    "url": "https://www.politico.eu/article/ursula-von-der-leyen-european-commission-no-confidence-vote/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-09T02:01:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/IMG_0898-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-d6f61e0129",
+    "source": "Politico — UK",
+    "title": "Time to stop funding Libyan militias running amok in the Mediterranean",
+    "summary": "EU countries should coordinate competent search and rescue operations, open routes for those fleeing to safety, and ensure the bloc stops financing out-of-control militias.",
+    "url": "https://www.politico.eu/article/libya-militia-human-rights-eu-lcg-italy-un-fishing-boats-ngos/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-09T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2215415837-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-425f6223c5",
+    "source": "Politico — UK",
+    "title": "The EU’s worst nightmare has never looked so real",
+    "summary": "If the far right gains control of parliament in the EU's second-largest country, Europe will fundamentally change.",
+    "url": "https://www.politico.eu/article/brussels-european-union-nato-france-national-rally/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-09T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2221716339-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-c9e60f07cd",
     "source": "BBC — Top Stories",
     "title": "Liberal Democrat membership has halved in 5 years",
@@ -120,6 +228,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-2f305700e7",
+    "source": "BBC — Top Stories",
+    "title": "Too-loud ads annoying you while streaming? California's put a stop to that",
+    "summary": "The state, home to Netflix and Hulu, has declared volume on commercials cannot be louder than the video content people are watching.",
+    "url": "https://www.bbc.com/news/articles/cg427wqpye2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-08T22:22:06Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f7f/live/cd7d4430-a490-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-788a451552",
     "source": "BBC — Top Stories",
     "title": "The battle for Scotland's flag: Why the right has adopted the saltire",
@@ -163,18 +283,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/08/keir-starmer-india-digital-id-visit-mumbai",
     "published": "2025-10-08T21:00:05Z",
     "image_url": "https://i.guim.co.uk/img/media/116950a317872360e58643c4079af16071a2c7d7/926_522_3453_2763/master/3453.jpg?width=140&quality=85&auto=format&fit=max&s=fa3b9589f1836d68daac0cb260a15a2a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b3b6fe6de9",
-    "source": "BBC — Top Stories",
-    "title": "ChatGPT image snares suspect in deadly Los Angeles fire",
-    "summary": "Investigators say evidence collected from the 29-year-old's devices showed an AI image of a burning city.",
-    "url": "https://www.bbc.com/news/articles/c8exz5yg14ko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T20:55:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d6e/live/0e430540-a469-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -228,30 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-2eaa42879d",
-    "source": "Politico — UK",
-    "title": "Pope Leo will ‘stand with’ Catholic leaders in protecting immigrants’ rights, advocates say",
-    "summary": "The comments from the pope mark the most recent push from the Vatican against the Trump administration’s immigration crackdown.",
-    "url": "https://www.politico.com/news/2025/10/08/pope-leo-immigration-church-00598180?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T20:00:47Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-dfa617ae8f",
-    "source": "Politico — UK",
-    "title": "Serbian president slams Turkey over arms sales to Kosovo",
-    "summary": "Turkey was among the first countries to recognize Kosovo’s 2008 declaration of independence from Serbia.",
-    "url": "https://www.politico.eu/article/turkey-kosovo-arms-weapons-balkans-un-charter-serbia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T19:42:36Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2232957454-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-8011cc3706",
     "source": "BBC — Top Stories",
     "title": "Synagogue attacker pledged allegiance to 'Islamic State' in 999 call",
@@ -288,18 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-0cefbbf1fa",
-    "source": "Politico — UK",
-    "title": "Socialists cave to center-right demands to slash EU green rules",
-    "summary": "The Socialists and liberals folded after the center-right EPP threatened to ditch them and work with the far right instead.",
-    "url": "https://www.politico.eu/article/socialists-liberals-epp-eu-green-rules/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T19:18:14Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-1229067066-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-3baf4a9c30",
     "source": "BBC — Top Stories",
     "title": "Troops cheated hearing tests, says ex-marine suing MoD",
@@ -319,30 +391,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/08/police-officer-girl-headlock-guilty-assault",
     "published": "2025-10-08T18:58:09Z",
     "image_url": "https://i.guim.co.uk/img/media/d6867c168b1786238d3249de844b83c88b0393ac/0_0_3097_2478/master/3097.jpg?width=140&quality=85&auto=format&fit=max&s=067c426c289cc9135306531b11154b41",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-afea4979e3",
-    "source": "Politico — UK",
-    "title": "Macron to name new PM in next 48 hours",
-    "summary": "The Elysée's statement comes after consultations with the current prime minister on the crisis that has engulfed France.",
-    "url": "https://www.politico.eu/article/sebastien-lecornu-france-prime-minister-french-political-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T18:55:48Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2239146930-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-a5a48b192e",
-    "source": "Politico — UK",
-    "title": "Italy wants to ban Islamic face coverings, mosque funding",
-    "summary": "Those who violate the proposed burqa ban could face a fine of up to €3,000.",
-    "url": "https://www.politico.eu/article/italy-religion-hijab-mosque-muslims-islam-ban-politics-bill/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T18:52:51Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/10728960-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -408,18 +456,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-5ed293152b",
-    "source": "Politico — UK",
-    "title": "Von der Leyen espère amadouer ses détracteurs en se montrant plus avenante",
-    "summary": "La présidente de la Commission européenne doit faire face à une nouvelle série de votes de défiance ce jeudi. Elle espère qu’en se montrant plus à l’écoute, elle ralliera davantage de soutiens.",
-    "url": "https://www.politico.eu/article/von-der-leyen-espere-amadouer-ses-detracteurs-en-se-montrant-plus-avenante/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T17:41:20Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/07/GettyImages-2238715874-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-489ef504b9",
     "source": "The Guardian — UK",
     "title": "Men hatched terror plot to ‘kill as many Jewish people as they could’, jury hears",
@@ -463,30 +499,6 @@
     "url": "https://www.theguardian.com/environment/2025/oct/08/national-security-threatened-climate-crisis-uk-defence-chiefs-warn",
     "published": "2025-10-08T15:52:02Z",
     "image_url": "https://i.guim.co.uk/img/media/24034cb8f4a11b3659780e02b81f93c2f21376d7/180_0_1620_1296/master/1620.jpg?width=140&quality=85&auto=format&fit=max&s=c487430417397828b6a7d3fbbb488d8a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-0a196cc2c1",
-    "source": "Politico — UK",
-    "title": "Britain’s leaders got their megaphones out. No one is listening.",
-    "summary": "Like PM Keir Starmer, Conservative leader Kemi Badenoch pulled through her party conference with an announcement that pleased the faithful. But will the public notice — and will it save her from an internal challenge?",
-    "url": "https://www.politico.eu/article/britain-leaders-got-their-megaphones-out-no-one-is-listening-keir-starmer-kemi-badenoch/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T15:24:56Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/GettyImages-2239409474-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-3334194b03",
-    "source": "Politico — UK",
-    "title": "Das Update zur Chat-Kontrolle und Reiches Herbstprognose",
-    "summary": "Die geplante EU-Chatkontrolle sorgt für empörte Reaktionen. Justizministerin Stefanie Hubig lehnt den Entwurf ab und spricht von „anlassloser Überwachung“. Aber in Brüssel wird weiter verhandelt und Hans von der Burchard ordnet ein, warum sich viele Mythen und Fehlinformationen darüber im Umlauf befinden und warum sich die Regierung doch noch positiv dazu positionieren könnte. Im zweiten […]",
-    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/das-update-zur-chat-kontrolle-und-reiches-herbstprognose/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T15:16:54Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/Berlin-Playbook-Website-card-1-1-1.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -559,18 +571,6 @@
     "url": "https://www.bbc.com/news/articles/cy4jz7l7qv8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T12:15:20Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ee/live/88e540b0-a450-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-878b9f51c1",
-    "source": "BBC — Top Stories",
-    "title": "Draconid meteor shower to peak tonight - here's how to watch it",
-    "summary": "The Draconid meteor shower is visible this year until 10 October in the northern hemisphere. Elizabeth Rizzini explains how to watch it.",
-    "url": "https://www.bbc.com/weather/articles/cly7llk7xnpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T04:38:11Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67ed/live/ec248de0-a421-11f0-ba96-81d873a15aec.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
