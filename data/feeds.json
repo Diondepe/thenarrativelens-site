@@ -1,5 +1,65 @@
 [
   {
+    "id": "The Guardian — UK-03216967a1",
+    "source": "The Guardian — UK",
+    "title": "Richard Desmond asks for ‘generosity’ in £1.3bn National Lottery claim",
+    "summary": "Payout likely to be funded by taxpayers if media mogul wins case against gambling regulator Business live – latest updates The billionaire media mogul Richard Desmond will urge a court to “err on the side of generosity” in assessing a £1.3bn damages claim against the Gambling Commission that would probably have to be funded by taxpayers if he wins. Companies owned by the former proprietor of the Daily Express, Asian Babes and Readers’ Wives are suing the gambling regulator in a bitter dispute that opens today. Continue reading...",
+    "url": "https://www.theguardian.com/media/2025/oct/09/richard-desmond-seeks-13m-claim-gambling-commission-uk-lottery",
+    "published": "2025-10-09T11:07:15Z",
+    "image_url": "https://i.guim.co.uk/img/media/634d64b3e54b251c211b380100ae4c3086d15b1c/0_20_3831_3066/master/3831.jpg?width=140&quality=85&auto=format&fit=max&s=42774f076248fdaa06c250a04549c58b",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7334efb71c",
+    "source": "BBC — Top Stories",
+    "title": "Hungarian author Laszlo Krasznahorkai wins Nobel Literature Prize",
+    "summary": "He was recognised “for his compelling and visionary oeuvre that, in the midst of apocalyptic terror, reaffirms the power of art”.",
+    "url": "https://www.bbc.com/news/articles/c5y810rlmd8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-09T11:07:03Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/194a/live/f91c69d0-a4ff-11f0-9156-136a18fa2a3c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-035ac3817e",
+    "source": "The Guardian — UK",
+    "title": "UK ‘stands ready to play our part’ in Gaza ceasefire deal, says foreign secretary – politics live",
+    "summary": "Yvette Cooper says deal to bring end to assault on Gaza and free hostages should be ‘implemented as swiftly as possible’ Compensation schemes for victims of the Post Office Horizon IT scandal will be improved, with a new appeals process and funded legal advice for post office operators, the government has announced. Responding to the first part of the findings from a two-year public inquiry into the Horizon IT scandal, regarded as one of the worst miscarriages of justice in UK legal history, the business secretary, Peter Kyle, said there would be a new appeals process for people who have accepted fixed-sum offers under the Horizon Shortfall Scheme, one of several compensation schemes. Funded legal advice will also be offered. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/09/foreign-secretary-yvette-cooper-keir-starmer-gaza-ceasefire-uk-politics-live",
+    "published": "2025-10-09T10:56:24Z",
+    "image_url": "https://i.guim.co.uk/img/media/db2ec654b55302359bfa2150a4dd9115ddc131a2/358_0_5354_4284/master/5354.jpg?width=140&quality=85&auto=format&fit=max&s=86a7100c6e413aa374ecbc5b72793fde",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6f09abc0f0",
+    "source": "BBC — Top Stories",
+    "title": "Pubs could stay open longer and host more live music under licensing reforms",
+    "summary": "Changes to licensing rules could see relaxed rules around live music and serving food outside.",
+    "url": "https://www.bbc.com/news/articles/c1l830m55dno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-09T10:35:20Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/397e/live/2a95de20-a4eb-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-064ae2aa9f",
+    "source": "BBC — Top Stories",
+    "title": "Hate crime in England and Wales rises for first time in three years",
+    "summary": "The number of police-recorded race and religious hate crimes have increased in the year to March.",
+    "url": "https://www.bbc.com/news/articles/cp3vg33nje4o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-09T10:26:44Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b97b/live/6d55e490-a4ef-11f0-97d1-dd4b0cdbcaae.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-d88af93a82",
     "source": "Politico — UK",
     "title": "Zelenskyy: If Trump gives us Tomahawks, we’ll lobby for Nobel Peace Prize",
@@ -26,8 +86,8 @@
   {
     "id": "Politico — UK-55dcb29179",
     "source": "Politico — UK",
-    "title": "Ursula von der Leyen wins no-confidence votes",
-    "summary": "European Commission president survives attempt at bringing her down.",
+    "title": "Ursula von der Leyen wins no-confidence votes as opposition struggles for support",
+    "summary": "Numbers very positive for European Commission president as she sees off attempts to bring her down.",
     "url": "https://www.politico.eu/article/ursula-von-der-leyen-wins-no-confidence-vote/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-09T10:10:25Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/09/leyen-9-scaled.jpg",
@@ -42,7 +102,7 @@
     "summary": "The former Spice Girl's new Netflix documentary has landed - under the shadow of a reported family feud.",
     "url": "https://www.bbc.com/news/articles/crrj4v9wre8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-09T10:08:18Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c609/live/659e7610-a4f2-11f0-8e74-1f6664d312e9.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43cc/live/0f472f90-a4fd-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -72,22 +132,10 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-035ac3817e",
-    "source": "The Guardian — UK",
-    "title": "UK ‘stands ready to play our part’ in Gaza ceasefire deal, says foreign secretary – politics live",
-    "summary": "Yvette Cooper says deal to bring end to assault on Gaza and free hostages should be ‘implemented as swiftly as possible’ Compensation schemes for victims of the Post Office Horizon IT scandal will be improved, with a new appeals process and funded legal advice for post office operators, the government has announced. Responding to the first part of the findings from a two-year public inquiry into the Horizon IT scandal, regarded as one of the worst miscarriages of justice in UK legal history, the business secretary, Peter Kyle, said there would be a new appeals process for people who have accepted fixed-sum offers under the Horizon Shortfall Scheme, one of several compensation schemes. Funded legal advice will also be offered. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/09/foreign-secretary-yvette-cooper-keir-starmer-gaza-ceasefire-uk-politics-live",
-    "published": "2025-10-09T09:52:29Z",
-    "image_url": "https://i.guim.co.uk/img/media/db2ec654b55302359bfa2150a4dd9115ddc131a2/358_0_5354_4284/master/5354.jpg?width=140&quality=85&auto=format&fit=max&s=86a7100c6e413aa374ecbc5b72793fde",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-81ac4b7c15",
     "source": "Politico — UK",
     "title": "Pour Eric Lombard, “le libre-échange est mort”, tué par la Chine et les États-Unis",
-    "summary": "PARIS — “Le libre-échange est terminé. Il est mort”, a jugé Eric Lombard, invité du sommet Politico sur la compétitivité, jeudi 9 octobre. L’ancien ministre de l’Economie et des `Finances a dénoncé les politiques commerciales de la Chine et des Etats-Unis, qui “sont en train de sortir du libre-échange et des règles de l’Organisation mondiale […]",
+    "summary": "PARIS — “Le libre-échange est terminé. Il est mort”, a jugé Eric Lombard, invité du sommet POLITICO sur la compétitivité, jeudi 9 octobre. L’ancien ministre de l’Economie et des `Finances a dénoncé les politiques commerciales de la Chine et des Etats-Unis, qui “sont en train de sortir du libre-échange et des règles de l’Organisation mondiale […]",
     "url": "https://www.politico.eu/article/pour-eric-lombard-le-libre-echange-est-mort-tue-par-la-chine-et-les-etats-unis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-09T09:48:45Z",
     "image_url": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
@@ -126,7 +174,7 @@
     "summary": "PARIS — “Il y a un accord politique possible” de non-censure avec le Parti socialiste, “il faut juste le finaliser”, a dit Eric Lombard, invité du sommet POLITICO sur la compétitivité, jeudi 9 octobre. “On avait préparé, au mois de juillet, avec l’ensemble des partis, un accord, qui aurait pu être un accord de non-censure […]",
     "url": "https://www.politico.eu/article/eric-lombard-un-accord-de-non-censure-etait-et-est-toujours-possible-avec-le-ps/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-09T09:33:52Z",
-    "image_url": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/09/GettyImages-2236447509-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -134,8 +182,8 @@
   {
     "id": "The Guardian — UK-4a347b0352",
     "source": "The Guardian — UK",
-    "title": "Compensation schemes for Post Office Horizon IT scandal victims ‘to be improved’",
-    "summary": "Government response to two-year inquiry’s initial findings includes ‘crucial’ pledges for new appeals process and legal advice funding Compensation schemes for victims of the Post Office Horizon IT scandal will be improved, with a new appeals process and funded legal advice for post office operators, the government has announced. Responding to the first part of the findings from a two-year public inquiry into the Horizon IT scandal, regarded as one of the worst miscarriages of justice in UK legal history, the business secretary, Peter Kyle, said there would be anew appeals process for people who have accepted fixed-sum offers under the Horizon Shortfall Scheme, one of several compensation schemes. Funded legal advice will also be offered. The Post Office will close this scheme on 31 January, to give post office operators who have not yet applied more time to put in applications. Continue reading...",
+    "title": "Post Office Horizon IT scandal victims get new appeals process and funded advice",
+    "summary": "Government response to two-year inquiry’s initial findings describes steps such as funding claimants’ legal advice as ‘crucial’ to bring justice Compensation schemes for victims of the Post Office Horizon IT scandal will be improved, with a new appeals process and funded legal advice for post office operators, the government has announced. Responding to the first part of the findings from a two-year public inquiry, the business secretary, Peter Kyle, said there would be a new appeals process for people who have accepted fixed-sum offers under the Horizon Shortfall Scheme (HSS), one of several compensation schemes. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/09/compensation-schemes-post-office-horizon-it-scandal-victims",
     "published": "2025-10-09T09:29:51Z",
     "image_url": "https://i.guim.co.uk/img/media/82a166f602ea929b070a766034e3139a25400789/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c30989175c265a5bcf2aaa1986f13148",
@@ -146,11 +194,11 @@
   {
     "id": "BBC — Top Stories-a016fb26fb",
     "source": "BBC — Top Stories",
-    "title": "'Joy and pain': Palestinians celebrate ceasefire deal but fear confronting grief",
+    "title": "'Joy and pain': Palestinians celebrate deal but fear confronting grief",
     "summary": "People in Gaza celebrate a potential end to the war, but know it will mean facing the grief they have put aside.",
     "url": "https://www.bbc.com/news/articles/cvgv0gypy75o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-09T09:25:10Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fa/live/6b74a5a0-a4e8-11f0-97b2-7b0352757645.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eab/live/6ff936d0-a4fd-11f0-9779-cd87a9626924.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -234,7 +282,7 @@
     "summary": "The agreement of the first-phase of the peace plan for Gaza, announced by US President Donald Trump, is a big moment.",
     "url": "https://www.bbc.com/news/articles/c99gzzd9yvzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-09T08:36:55Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0df1/live/895db150-a4da-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64f5/live/f4ecd140-a4fc-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -259,30 +307,6 @@
     "url": "https://www.bbc.com/news/articles/ckgek62l6pzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-09T07:30:59Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68c1/live/94c4fbe0-a4ec-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6f09abc0f0",
-    "source": "BBC — Top Stories",
-    "title": "Pubs could stay open longer and host more live music under licensing reforms",
-    "summary": "Changes to licensing rules could see relaxed rules around live music and serving food outside.",
-    "url": "https://www.bbc.com/news/articles/c1l830m55dno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T07:26:12Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/397e/live/2a95de20-a4eb-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-d7a5a59701",
-    "source": "BBC — Top Stories",
-    "title": "Are tennis courts being slowed to aid superstars Alcaraz and Sinner?",
-    "summary": "Roger Federer set tongues wagging when he said tournament directors like uniformly slow courts but are his instincts right?",
-    "url": "https://www.bbc.com/sport/tennis/articles/cx2797zdke0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T07:21:10Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6f/live/5fd49010-a48f-11f0-bf98-f16cd7752f0d.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -314,11 +338,11 @@
   {
     "id": "BBC — Top Stories-da6d5eb3b8",
     "source": "BBC — Top Stories",
-    "title": "What we know so far about what has been agreed",
+    "title": "What has been agreed - and what happens next",
     "summary": "Donald Trump says all hostages will be released and Israel will withdraw troops to an \"agreed upon line\", but there is no update to other aspects of his 20-point peace plan.",
     "url": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-09T05:36:27Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d7/live/3057e640-a4dd-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a19/live/c6434b00-a4ff-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -360,6 +384,18 @@
     "cluster_id": null
   },
   {
+    "id": "The Guardian — UK-1111b0a0e5",
+    "source": "The Guardian — UK",
+    "title": "English man raffles house to Americans seeking ‘safe haven’ from Trump",
+    "summary": "Tristram Biggs hopes Americans ‘terrified’ of political situation will buy $10 tickets for $1m home On the edge of a Buckinghamshire village, autumn leaves fall around a quaint Victorian cottage nestled among ancient trees, while horses graze in a nearby paddock. It is a quintessentially English scene, but one its owner hopes will appeal to liberal Americans desperate to escape Donald Trump’s America – for the cost of a $10 raffle ticket. After struggling to sell the £850,000 ($1m) property he bought three years ago, Tristram Biggs decided to raffle his home this summer, marketing it to Americans who are increasingly uneasy about the political temperature at home. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/09/a-safe-haven-buckinghamshire-man-invites-americans-to-enter-house-raffle",
+    "published": "2025-10-09T05:00:16Z",
+    "image_url": "https://i.guim.co.uk/img/media/724865dab3a83c7fdbf518ab9fa9e8b02fa9af84/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=5dfa249ad740dab02c14a98bd0dbec4f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-df634f050f",
     "source": "BBC — Top Stories",
     "title": "Children as young as four taking knives into school, BBC finds",
@@ -367,18 +403,6 @@
     "url": "https://www.bbc.com/news/articles/c77d06vde4po?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-09T05:00:07Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77dd/live/9a9eb9e0-a45e-11f0-928c-71dbb8619e94.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-c9e60f07cd",
-    "source": "BBC — Top Stories",
-    "title": "Liberal Democrat membership has halved in 5 years",
-    "summary": "Analysis of available figures shows the number of party members has fallen by 49% since August 2020.",
-    "url": "https://www.bbc.com/news/articles/cy5069p70x2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T01:13:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fa8/live/4ac8fe20-a45f-11f0-a789-358ea6d9d143.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -398,7 +422,7 @@
   {
     "id": "BBC — Top Stories-116611bc90",
     "source": "BBC — Top Stories",
-    "title": "How Britain's membership of the ECHR became a political hot potato",
+    "title": "Would leaving the ECHR really 'stop the boats'?",
     "summary": "The extent to which leaving the Convention would make a difference to immigration has been greatly exaggerated, argues Lord Sumption",
     "url": "https://www.bbc.com/news/articles/cm283eqje03o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-08T23:04:21Z",
@@ -444,18 +468,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-77f2696e16",
-    "source": "The Guardian — UK",
-    "title": "UK Treasury tells ministers not to expect bailouts from its reserve fund",
-    "summary": "Departments told to manage their own cost pressures as finance ministry seeks to curb overuse of contingency fund Cabinet ministers have been told they will not be able to use the Treasury reserve to fund public sector pay rises and cannot access it unless there are exceptional circumstances. In the run-up to the budget, James Murray, the chief secretary to the Treasury, has written to ministers setting out a decision to clamp down on departments’ access to the reserve. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/08/uk-treasury-tells-ministers-not-to-expect-bailouts-from-its-reserve-fund",
-    "published": "2025-10-08T21:30:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/a9247e3ef6666679c906e7794a398560a1253c98/869_180_4106_3284/master/4106.jpg?width=140&quality=85&auto=format&fit=max&s=b95b6206c385241467d4212fe4d9c925",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-85fc1de188",
     "source": "The Guardian — UK",
     "title": "Keir Starmer to look at India’s digital ID system during visit to Mumbai",
@@ -463,6 +475,18 @@
     "url": "https://www.theguardian.com/politics/2025/oct/08/keir-starmer-india-digital-id-visit-mumbai",
     "published": "2025-10-08T21:00:05Z",
     "image_url": "https://i.guim.co.uk/img/media/116950a317872360e58643c4079af16071a2c7d7/926_522_3453_2763/master/3453.jpg?width=140&quality=85&auto=format&fit=max&s=fa3b9589f1836d68daac0cb260a15a2a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-c779d90325",
+    "source": "The Guardian — UK",
+    "title": "NHS could pay 25% more for medicines under plan to end row with drugmakers and Trump",
+    "summary": "UK ministers preparing to raise payments to end standoff with pharma industry, cited as reason for firms axing British investments Ministers are preparing to raise the amount the NHS pays pharmaceutical firms for medicines by up to 25% after weeks of intensive talks with the Donald Trump administration and drugmakers. Labour has drawn up fresh proposals to end a standoff with the industry over drug pricing , including changing the cost-effectiveness thresholds under which new medications are assessed for use on the NHS, according to industry sources. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/08/nhs-could-pay-25-more-for-medicines-under-plan-to-end-row-with-drugmakers-and-trump",
+    "published": "2025-10-08T20:10:11Z",
+    "image_url": "https://i.guim.co.uk/img/media/64ca2cfe8e8478e32e535160655e4d47ad4b9900/1584_619_3278_2622/master/3278.jpg?width=140&quality=85&auto=format&fit=max&s=cbd3148ace8b8c892182ac4afb8c036e",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -528,18 +552,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-7cf59cb375",
-    "source": "The Guardian — UK",
-    "title": "Tory plan to abolish stamp duty ‘will benefit London and the wealthiest the most’ – as it happened",
-    "summary": "This blog is now closed, you can read more on this story here Voting in the Labour deputy leadership election opens today. Lucy Powell , the former Commons leader, is seen as the favourite and, as Jessica Elgot reports, Powell told supporters yesterday that, if she is elected, she will use the post to argue for changes in the way the government is operating. “We can’t sugarcoat the fact that things aren’t going well,” she said. Powell is no longer a government minister and, if she is elected deputy leader, she will do the job from the backbenches. In an interview on Newsnight last night, Bridget Phillipson , the education secretary standing against Powell, said a Powell victory would be “destabilising” for the party. She said: [Electing Powell] risks destabilising the party … we best achieve what we need to do together when we have those fierce conversations, including disagreements, behind closed doors. Members need to understand that there’s a potential challenge around all of that – that if you’re not inside when the big decisions are being made, you’re not at that table, you’re not in those conversations. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/08/conservative-tory-conference-kemi-badenoch-labour-keir-starmer-india-uk-politics-live-news-updates",
-    "published": "2025-10-08T15:13:31Z",
-    "image_url": "https://i.guim.co.uk/img/media/0307c38293edfb7caa70253a42b37082a9e76b9a/225_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=8dfed18c6efbe08ce8221925a014dbdf",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-1bdd95f33f",
     "source": "The Guardian — UK",
     "title": "‘Existential threat’: what do EU’s 50% steel tariffs mean for UK industry?",
@@ -547,18 +559,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/08/existential-threat-eu-steel-tariffs-mean-uk-industry-explainer",
     "published": "2025-10-08T15:04:37Z",
     "image_url": "https://i.guim.co.uk/img/media/348c492768aebd85ca5503e1faf0f2dac99734ac/326_0_4459_3569/master/4459.jpg?width=140&quality=85&auto=format&fit=max&s=8af06820432129639fe6c23b62f54a3c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-5afdada616",
-    "source": "The Guardian — UK",
-    "title": "Legal experts question reasoning behind CPS dropping China ‘spies’ case",
-    "summary": "Ex-DPP Ken Macdonald says prosecutors may have been ‘over-fussy’ in seeking further assurances from government Legal experts have questioned the explanation given by the Crown Prosecution Service for its sudden decision to drop charges against two Britons accused of spying for China amid a political row over who was responsible. The expert lawyers expressed surprise that the CPS thought it needed further assurance from the government that China was an enemy insofar as it posed “a current threat to national security” before the trial of Christopher Cash and Christopher Berry could go ahead. Continue reading...",
-    "url": "https://www.theguardian.com/law/2025/oct/08/uk-legal-experts-question-cps-drop-china-spies-case",
-    "published": "2025-10-08T14:43:52Z",
-    "image_url": "https://i.guim.co.uk/img/media/2fbaf52e943e93790082d46570d5ec0cba39fc84/0_0_11687_9350/master/11687.jpg?width=140&quality=85&auto=format&fit=max&s=9139777eccf1fd7de4a1d2abc2c5e9d6",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
