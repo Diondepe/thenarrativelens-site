@@ -1,12 +1,60 @@
 [
   {
+    "id": "The Guardian — UK-c87e7eeac3",
+    "source": "The Guardian — UK",
+    "title": "Man rearrested at Manchester airport after synagogue attack detention",
+    "summary": "Counter-terror police arrest 30-year-old man on suspicion of failing to disclose information about potential terrorist acts A 30-year-old man arrested over the Manchester synagogue attack has been re-arrested at an airport shortly after being released. Counter-terror police detained the man at Manchester airport on Thursday on suspicion of failing to disclose information about potential terrorist acts. The arrest came within 24 hours of the man being released from custody, where he had been held since the attack at Heaton Park synagogue on Yom Kippur last Thursday. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/09/man-rearrested-at-manchester-airport-after-synagogue-attack-detention",
+    "published": "2025-10-09T19:01:57Z",
+    "image_url": "https://i.guim.co.uk/img/media/dd5defba3ab642867fa2aac07c760aa883c5697e/1015_0_6098_4878/master/6098.jpg?width=140&quality=85&auto=format&fit=max&s=7f567ad9acc6555000e3390f122fdcda",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-2f8c3d9f06",
+    "source": "BBC — Top Stories",
+    "title": "Ex-PM Sunak joins Microsoft and AI firm as paid advisor",
+    "summary": "The former prime minister has been told not to lobby the UK government by the appointments watchdog.",
+    "url": "https://www.bbc.com/news/articles/clyqe22pz81o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-09T18:53:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75b5/live/f04264c0-a538-11f0-8469-192d9823e9a2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-3790a0569e",
+    "source": "BBC — Top Stories",
+    "title": "Prince William will attend COP30 climate summit in Brazil",
+    "summary": "Prince William will attend the COP30 summit on behalf of the King, joining other world leaders in Brazil.",
+    "url": "https://www.bbc.com/news/articles/c203v6d9q1po?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-09T18:49:56Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ec/live/e1295ad0-a53c-11f0-8303-d57b048c793f.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-d84dd1ac7f",
     "source": "BBC — Top Stories",
     "title": "Man re-arrested at airport over Manchester synagogue attack",
-    "summary": "A 30-year-old man was re-arrested at Manchester Airport earlier.",
+    "summary": "A 30-year-old man was re-arrested at Manchester Airport earlier, Counter Terrorism Policing said.",
     "url": "https://www.bbc.com/news/articles/cz69q1p6376o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T18:06:17Z",
+    "published": "2025-10-09T18:40:08Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff1c/live/c2f875e0-a538-11f0-8469-192d9823e9a2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b27e94e844",
+    "source": "BBC — Top Stories",
+    "title": "Naked mole rats' DNA could hold key to long life",
+    "summary": "The bald, subterranean rats are the world's longest-lived rodent.",
+    "url": "https://www.bbc.com/news/articles/cz7rxy21lxwo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-09T18:06:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1e4/live/bb740ed0-a4fa-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -192,18 +240,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-4e34a750fd",
-    "source": "BBC — Top Stories",
-    "title": "Tesla investigated over self-driving cars on wrong side of road",
-    "summary": "The US government said approximately 2.9 million cars could be impacted by the investigation.",
-    "url": "https://www.bbc.com/news/articles/cvg02rdxxz7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T15:41:56Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c837/live/81b11470-a52e-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-27b18b731a",
     "source": "The Guardian — UK",
     "title": "Starmer enters parallel universe as red carpet rolled out in India amid trade deal",
@@ -319,18 +355,6 @@
     "url": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-09T14:47:19Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/fa8b6ce0-a530-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-5c8789c401",
-    "source": "The Guardian — UK",
-    "title": "Former BBC controller fears for World Service independence amid defence funding push",
-    "summary": "Liliane Landor says World Service journalism must not be ‘linked or subordinated’, as BBC explores new funding sources Using Britain’s defence budget to help fund the BBC World Service risks subordinating its journalism to the government’s national security aims, its former controller has warned. The Guardian revealed last week that senior BBC figures are pushing ministers to increase the service’s funding by using resources beyond the Foreign Office, which has traditionally contributed to its global broadcasting. Continue reading...",
-    "url": "https://www.theguardian.com/media/2025/oct/09/former-bbc-controller-fears-for-world-service-independence-amid-defence-funding-push",
-    "published": "2025-10-09T14:46:01Z",
-    "image_url": "https://i.guim.co.uk/img/media/68cf5c0529cc35033ee3677ec8d34b1da97e08fd/0_0_3640_2912/master/3640.jpg?width=140&quality=85&auto=format&fit=max&s=4bded962218d43b60be28ee7ccfc12c2",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -456,18 +480,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a3eab8fb22",
-    "source": "BBC — Top Stories",
-    "title": "My eating disorder made me good at lying, says Victoria Beckham",
-    "summary": "The former Spice Girl's new Netflix documentary has landed - under the shadow of a reported family feud.",
-    "url": "https://www.bbc.com/news/articles/crrj4v9wre8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T10:08:18Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43cc/live/0f472f90-a4fd-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-648756deb4",
     "source": "BBC — Top Stories",
     "title": "Stars, secrets and slip-ups: Celebrity Traitors is off to a cracking start",
@@ -499,18 +511,6 @@
     "url": "https://www.bbc.com/news/articles/cn43439n4xxo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-09T05:18:07Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75f/live/c8448030-a465-11f0-8c79-29eeaf2ea52d.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b18715a352",
-    "source": "BBC — Top Stories",
-    "title": "America's top banker sounds warning on US stock market fall",
-    "summary": "Jamie Dimon said he was \"far more worried than others\" about the potential for a stock market correction.",
-    "url": "https://www.bbc.com/news/articles/cg5ej03p604o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T23:02:24Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7591/live/afd84100-a48b-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
