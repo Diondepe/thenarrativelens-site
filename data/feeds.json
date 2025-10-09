@@ -1,12 +1,24 @@
 [
   {
-    "id": "The Guardian — UK-c87e7eeac3",
+    "id": "BBC — Top Stories-49cfdd25a2",
+    "source": "BBC — Top Stories",
+    "title": "Nineteen more removed to France under 'one in, one out' scheme",
+    "summary": "The recent removals involved larger groups of migrants than previous flights, the Home Office says.",
+    "url": "https://www.bbc.com/news/articles/ce809jmznl2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-09T19:52:51Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d758/live/e7866ba0-a548-11f0-b8ec-574ff83ad78e.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-78eeb8854a",
     "source": "The Guardian — UK",
-    "title": "Man rearrested at Manchester airport after synagogue attack detention",
-    "summary": "Counter-terror police arrest 30-year-old man on suspicion of failing to disclose information about potential terrorist acts A 30-year-old man arrested over the Manchester synagogue attack has been re-arrested at an airport shortly after being released. Counter-terror police detained the man at Manchester airport on Thursday on suspicion of failing to disclose information about potential terrorist acts. The arrest came within 24 hours of the man being released from custody, where he had been held since the attack at Heaton Park synagogue on Yom Kippur last Thursday. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/09/man-rearrested-at-manchester-airport-after-synagogue-attack-detention",
-    "published": "2025-10-09T19:01:57Z",
-    "image_url": "https://i.guim.co.uk/img/media/dd5defba3ab642867fa2aac07c760aa883c5697e/1015_0_6098_4878/master/6098.jpg?width=140&quality=85&auto=format&fit=max&s=7f567ad9acc6555000e3390f122fdcda",
+    "title": "Joy and anxiety as Hamas and Israel prepare to implement ceasefire deal",
+    "summary": "Israelis and Palestinians share mixed feelings as end to bloody two-year conflict that has killed tens of thousands nears Israelis and Palestinians celebrated on Thursday night as Hamas and Israel’s government began preparations to implement a ceasefire deal that promises a durable end to a bloody two-year conflict that has killed tens of thousands, destabilised much of the Middle East and prompted protests around the world. In Gaza, there was joy but much anxiety. Many expressed the fear that the new deal would collapse, bringing more suffering to the devastated territory. Though crowds gathered in some places to dance and sing, in many places witnesses reported muted reaction amid loud overflights by warplanes and drones. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/oct/09/joy-and-anxiety-as-hamas-and-israel-prepare-to-implement-ceasefire-deal",
+    "published": "2025-10-09T19:38:42Z",
+    "image_url": "https://i.guim.co.uk/img/media/ac1babc39647947640e9097dc52d3072092c055f/108_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=8b8843c8169fb98e53332db8d3cdbf83",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -17,20 +29,20 @@
     "title": "Ex-PM Sunak joins Microsoft and AI firm as paid advisor",
     "summary": "The former prime minister has been told not to lobby the UK government by the appointments watchdog.",
     "url": "https://www.bbc.com/news/articles/clyqe22pz81o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T18:53:04Z",
+    "published": "2025-10-09T19:37:59Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75b5/live/f04264c0-a538-11f0-8469-192d9823e9a2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-3790a0569e",
-    "source": "BBC — Top Stories",
-    "title": "Prince William will attend COP30 climate summit in Brazil",
-    "summary": "Prince William will attend the COP30 summit on behalf of the King, joining other world leaders in Brazil.",
-    "url": "https://www.bbc.com/news/articles/c203v6d9q1po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T18:49:56Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ec/live/e1295ad0-a53c-11f0-8303-d57b048c793f.jpg",
+    "id": "Politico — UK-6992398005",
+    "source": "Politico — UK",
+    "title": "Trump’s trade war has India hugging Britain close",
+    "summary": "The U.S. president's second stint in office is binding the two countries together — and prompting London to look the other way on contentious issues.",
+    "url": "https://www.politico.eu/article/donald-trump-trade-war-india-britain-tariffs-keir-starmer-narendra-modi/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-09T19:30:57Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/09/GettyImages-2240063717-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -41,8 +53,20 @@
     "title": "Man re-arrested at airport over Manchester synagogue attack",
     "summary": "A 30-year-old man was re-arrested at Manchester Airport earlier, Counter Terrorism Policing said.",
     "url": "https://www.bbc.com/news/articles/cz69q1p6376o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T18:40:08Z",
+    "published": "2025-10-09T19:20:42Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff1c/live/c2f875e0-a538-11f0-8469-192d9823e9a2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-c87e7eeac3",
+    "source": "The Guardian — UK",
+    "title": "Man rearrested at Manchester airport after synagogue attack detention",
+    "summary": "Police arrest 30-year-old on suspicion of failing to disclose information about potential terrorist acts A 30-year-old man arrested over the Manchester synagogue attack has been rearrested at an airport shortly after being released. Counter-terror police detained the man at Manchester airport on Thursday on suspicion of failing to disclose information about potential terrorist acts. The arrest came within 24 hours of the man being released from custody, where he had been held since the attack at Heaton Park synagogue on Yom Kippur last Thursday. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/09/man-rearrested-at-manchester-airport-after-synagogue-attack-detention",
+    "published": "2025-10-09T19:01:57Z",
+    "image_url": "https://i.guim.co.uk/img/media/dd5defba3ab642867fa2aac07c760aa883c5697e/1015_0_6098_4878/master/6098.jpg?width=140&quality=85&auto=format&fit=max&s=7f567ad9acc6555000e3390f122fdcda",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -74,7 +98,7 @@
   {
     "id": "Politico — UK-501a8f22b3",
     "source": "Politico — UK",
-    "title": "3 arrested in suspected terror plot targeting Belgian PM",
+    "title": "3 arrested in suspected terror plot targeting Belgian PM Bart De Wever",
     "summary": "Federal investigators are probing evidence of plans to use a drone to deploy an explosive device.",
     "url": "https://www.politico.eu/article/belgium-terror-plot-prime-minister-bart-de-wever-crime/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-09T17:55:17Z",
@@ -324,18 +348,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-96322d6f4e",
-    "source": "The Guardian — UK",
-    "title": "Former Radio 1 DJ Tim Westwood charged with four counts of rape",
-    "summary": "Metropolitan police say Westwood, 68, has been charged with sexual offences against seven women The former BBC Radio 1 DJ Tim Westwood has been charged with sexual offences against seven women, including four counts of rape. The Metropolitan police said the 68-year-old had been charged with offences dating from 1983 to 2016. Officers said their investigation remained open and urged anyone with further information to come forward. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/09/former-bbc-radio-1-dj-tim-westwood-charged-rape-sexual-assault",
-    "published": "2025-10-09T15:00:52Z",
-    "image_url": "https://i.guim.co.uk/img/media/1f246f38356a5aec917971ee44d11b38d5f6000f/0_143_2769_2214/master/2769.jpg?width=140&quality=85&auto=format&fit=max&s=041c49064874ad175d354a99e598cb21",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-22729f2525",
     "source": "BBC — Top Stories",
     "title": "Madeleine McCann’s sister tells trial alleged stalker sent her 'creepy' messages",
@@ -355,6 +367,18 @@
     "url": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-09T14:47:19Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/fa8b6ce0-a530-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-5c8789c401",
+    "source": "The Guardian — UK",
+    "title": "Former BBC controller fears for World Service independence amid defence funding push",
+    "summary": "Liliane Landor says World Service journalism must not be ‘linked or subordinated’, as BBC explores new funding sources Using Britain’s defence budget to help fund the BBC World Service risks subordinating its journalism to the government’s national security aims, its former controller has warned. The Guardian revealed last week that senior BBC figures are pushing ministers to increase the service’s funding by using resources beyond the Foreign Office, which has traditionally contributed to its global broadcasting. Continue reading...",
+    "url": "https://www.theguardian.com/media/2025/oct/09/former-bbc-controller-fears-for-world-service-independence-amid-defence-funding-push",
+    "published": "2025-10-09T14:46:01Z",
+    "image_url": "https://i.guim.co.uk/img/media/68cf5c0529cc35033ee3677ec8d34b1da97e08fd/0_0_3640_2912/master/3640.jpg?width=140&quality=85&auto=format&fit=max&s=4bded962218d43b60be28ee7ccfc12c2",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -415,18 +439,6 @@
     "url": "https://www.politico.eu/article/huawei-blacklisted-eu-solar-panel-lobby/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-09T13:26:07Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/09/GettyImages-1807171301-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-4a45eee500",
-    "source": "Politico — UK",
-    "title": "Who wants to be the next prime minister of France?",
-    "summary": "The French president is expected to name his next prime minister by Friday evening.",
-    "url": "https://www.politico.eu/article/who-wants-to-be-french-prime-minister-emmanuel-macron/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-09T12:57:18Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/09/13399076-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,18 +547,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/08/keir-starmer-india-digital-id-visit-mumbai",
     "published": "2025-10-08T21:00:05Z",
     "image_url": "https://i.guim.co.uk/img/media/116950a317872360e58643c4079af16071a2c7d7/926_522_3453_2763/master/3453.jpg?width=140&quality=85&auto=format&fit=max&s=fa3b9589f1836d68daac0cb260a15a2a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-c779d90325",
-    "source": "The Guardian — UK",
-    "title": "NHS could pay 25% more for medicines under plan to end row with drugmakers and Trump",
-    "summary": "UK ministers preparing to raise payments to end standoff with pharma industry, cited as reason for firms axing British investments Ministers are preparing to raise the amount the NHS pays pharmaceutical firms for medicines by up to 25% after weeks of intensive talks with the Donald Trump administration and drugmakers. Labour has drawn up fresh proposals to end a standoff with the industry over drug pricing , including changing the cost-effectiveness thresholds under which new medications are assessed for use on the NHS, according to industry sources. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/08/nhs-could-pay-25-more-for-medicines-under-plan-to-end-row-with-drugmakers-and-trump",
-    "published": "2025-10-08T20:10:11Z",
-    "image_url": "https://i.guim.co.uk/img/media/64ca2cfe8e8478e32e535160655e4d47ad4b9900/1584_619_3278_2622/master/3278.jpg?width=140&quality=85&auto=format&fit=max&s=cbd3148ace8b8c892182ac4afb8c036e",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
