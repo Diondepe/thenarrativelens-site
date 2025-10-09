@@ -1,5 +1,41 @@
 [
   {
+    "id": "Politico — UK-c0d72c3b04",
+    "source": "Politico — UK",
+    "title": "Teurer, später, modriger: Die Ruine im Regierungsviertel",
+    "summary": "Der Erweiterungsbau des Marie-Elisabeth-Lüders-Haus: 420 Millionen Euro, ein modriger Keller und kein Ende in Sicht. Ein Bau, der längst fertig sein sollte und nun noch später fertig wird.Rasmus Buchsteiner führt durch den teils muffigen Betonkomplex an der Spree. Gordon Repinski spricht mit dem stellvertretenden FDP-Chef Wolfgang Kubicki im 200-Sekunden-Interview dazu. Der erklärt, warum ihn das […]",
+    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/teurer-spater-modriger-die-ruine-im-regierungsviertel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-09T04:19:28Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/23/Berlin-Playbook-Website-Card57.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-7c6be0aec5",
+    "source": "The Guardian — UK",
+    "title": "NHS trust’s facilities staff vote to strike over pay discrimination claim",
+    "summary": "Union accuses hospital group of ‘institutional racism’ as cleaners and porters get lower pay than colleagues Hundreds of NHS hospital workers have voted for strike action after claims that they have lost more than £36m in pay and pension contributions over the last four years. More than 330 low-paid workers, mainly cleaners, caterers and porters, known as facilities staff, at St George’s, Epsom and St Helier hospital group (GESH) are preparing to go on strike. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/oct/09/nhs-staff-vote-strike-institutional-racism-pay-gap-claims",
+    "published": "2025-10-09T04:00:15Z",
+    "image_url": "https://i.guim.co.uk/img/media/caf1bc28c0f381824a3db14dd959a55c0ead8e7f/290_0_4483_3586/master/4483.jpg?width=140&quality=85&auto=format&fit=max&s=4a061c24db10ae56d741b8fad43f7562",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-cbc7095891",
+    "source": "BBC — Top Stories",
+    "title": "China tightens export rules for crucial rare earths",
+    "summary": "The announcement comes ahead of a meeting between China's President Xi Jinping and his US counterpart Donald Trump later this month.",
+    "url": "https://www.bbc.com/news/articles/ckgzl0nwvd7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-09T03:14:30Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70a/live/123611c0-a4b3-11f0-92b0-ffd5b41fc4eb.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-b3b6fe6de9",
     "source": "BBC — Top Stories",
     "title": "ChatGPT image snares suspect in deadly Los Angeles fire",
@@ -300,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-943520d38a",
-    "source": "Politico — UK",
-    "title": "Trump says Israel-Hamas deal to end war is ‘very close’",
-    "summary": "The president suggested he could travel to the Middle East this weekend if negotiators can finalize a peace agreement.",
-    "url": "https://www.politico.com/news/2025/10/08/trump-says-israel-hamas-deal-to-end-war-is-very-close-00598352?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-08T20:11:45Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-c779d90325",
     "source": "The Guardian — UK",
     "title": "NHS could pay 25% more for medicines under plan to end row with drugmakers and Trump",
@@ -456,25 +480,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-489ef504b9",
+    "id": "The Guardian — UK-92da37633d",
     "source": "The Guardian — UK",
-    "title": "Men hatched terror plot to ‘kill as many Jewish people as they could’, jury hears",
-    "summary": "Walid Saadaoui and Amar Hussein secured guns and hundreds of ammunition rounds, Preston crown court told Two men accused of plotting a terrorist attack in Greater Manchester secured guns and hundreds of rounds of ammunition in a plan to “kill as many Jewish people as they could”, jurors have been told. Walid Saadaoui, 38, and Amar Hussein, 52, have gone on trial charged with preparing acts of terrorism between 13 December 2023 and 9 May 2024. The prosecution in the case at Preston crown court alleges that they are Islamic extremists with a “visceral dislike” of Jewish people. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/08/antisemitic-terror-plot-trial-greater-manchester",
-    "published": "2025-10-08T17:35:51Z",
-    "image_url": "https://i.guim.co.uk/img/media/95b81449047193c9b11ecadcca62b6c295c81523/438_0_3499_2799/master/3499.jpg?width=140&quality=85&auto=format&fit=max&s=a3a9e818e6d1896c71208d0faf5198ef",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-dc6ee3035b",
-    "source": "BBC — Top Stories",
-    "title": "Kate McCann tells court alleged stalker's contact with Maddie's sister was 'final straw'",
-    "summary": "Mrs McCann says she also received a letter signed off with her missing daughter's name and a kiss.",
-    "url": "https://www.bbc.com/news/articles/cnvr0723np8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-08T17:13:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65f8/live/be1661d0-a467-11f0-928c-71dbb8619e94.jpg",
+    "title": "David Lammy rules out charging workers for employment tribunal claims",
+    "summary": "Justice secretary says right to challenge unfair work behaviour is core to Labour work plan after union backlash The justice secretary, David Lammy, has ruled out reintroducing charges for employment tribunals after a backlash from unions over the proposals. The Guardian revealed last week that ministers were considering a plan to charge workers a fee to take their bosses to court as part of negotiations in this year’s spending review. Trade unions responded with fury, labelling the idea a “disaster”. Continue reading...",
+    "url": "https://www.theguardian.com/money/2025/oct/08/david-lammy-rules-out-charging-workers-for-employment-tribunal-claims",
+    "published": "2025-10-08T17:05:45Z",
+    "image_url": "https://i.guim.co.uk/img/media/837b2a1e272c7c0727a57adbdb7c7cf47d1df865/386_0_4207_3367/master/4207.jpg?width=140&quality=85&auto=format&fit=max&s=1f1d7d93f4f15761e4ca13ffc4fc24da",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -547,18 +559,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/08/the-car-finance-scandal-payouts-what-does-ruling-mean-and-how-much-compensation-could-you-get",
     "published": "2025-10-08T14:09:11Z",
     "image_url": "https://i.guim.co.uk/img/media/e013ddbaa7224984912b4276dfdbb3512c478d6d/331_0_3337_2669/master/3337.jpg?width=140&quality=85&auto=format&fit=max&s=060ef00339b97ff06a25768d65d68087",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-841f0ec1b0",
-    "source": "The Guardian — UK",
-    "title": "UK opens up more driving test slots to help reduce backlog",
-    "summary": "Driver and Vehicle Standards Agency says learners booking tests earlier has contributed to rising demand More driving test slots are being made available to tackle a severe backlog as figures show a 15% increase in learner drivers with future tests booked compared with this time last year. Driver and Vehicle Standards Agency (DVSA) figures show 668,128 people had a practical driving test booked in Britain at the end of September, up from 579,138 a year earlier. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/08/uk-opens-up-driving-test-slots-help-reduce-backlog",
-    "published": "2025-10-08T14:04:10Z",
-    "image_url": "https://i.guim.co.uk/img/media/9e26d3bc2e088b1814bdfe5e7ee13de98f355166/276_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=a7616aebd04dbeff2856b7b3a1735b5c",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
