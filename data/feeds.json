@@ -1,9 +1,33 @@
 [
   {
+    "id": "BBC — Top Stories-25c62c0bb1",
+    "source": "BBC — Top Stories",
+    "title": "Trump threatens to pull out of planned Xi meeting",
+    "summary": "Trump also threatened a \"massive\" tariff increase, after China tightened its rules for exports of rare earths.",
+    "url": "https://www.bbc.com/news/articles/cn4wkd7729po?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T18:56:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52b/live/d6a268a0-a5ef-11f0-af09-bf7f0464c1dc.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-60f83c8fb8",
+    "source": "BBC — Top Stories",
+    "title": "Venezuelan opposition leader María Corina Machado wins Nobel Peace Prize",
+    "summary": "Machado is recognised for \"tireless work promoting democratic rights\" in Venezuela, the Nobel Committee says.",
+    "url": "https://www.bbc.com/news/articles/c70821201ego?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T18:28:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2918/live/cfb8d170-a5f2-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-42d6df5693",
     "source": "The Guardian — UK",
     "title": "Boris Johnson breached rules designed to stop abuse of contacts made in public office, watchdog finds",
-    "summary": "Johnson found to have breached rules after refusing to answer specific questions about allegations published by the Guardian Boris Johnson breached rules designed to stop the abuse of contacts and access made in public office, an ethics watchdog has found. Last month the Guardian published revelations about Johnson’s conduct since leaving office. The Boris Files , a trove of documents from the former prime minister’s private office seen by the Guardian, suggested he repeatedly broke rules forbidding him from exploiting contacts made in office for private gain. Continue reading...",
+    "summary": "Johnson found to have breached rules after refusing to answer specific questions about allegations published by the Guardian Boris Johnson breached rules designed to stop the abuse of contacts and access made in public office, an ethics watchdog has found. Last month the Guardian published revelations about Johnson’s conduct since leaving office. The Boris Files , a trove of documents from the former prime minister’s private office seen by the Guardian, suggested he repeatedly broke rules forbidding him from exploiting for private gain contacts made in office. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/oct/10/boris-johnson-breached-rules-designed-to-stop-abuse-of-contacts-made-in-public-office-watchdog-finds",
     "published": "2025-10-10T18:10:47Z",
     "image_url": "https://i.guim.co.uk/img/media/5d8e2c9659068f455e07fb6e72f9f4ffd9698ff9/289_0_3385_2708/master/3385.jpg?width=140&quality=85&auto=format&fit=max&s=97c03347e5dd5cc864149c838620e781",
@@ -60,18 +84,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-25c62c0bb1",
-    "source": "BBC — Top Stories",
-    "title": "Trump threatens to pull out of planned Xi meeting",
-    "summary": "Trump also threatened a \"massive\" tariff increase, after China tightened its rules for exports of rare earths.",
-    "url": "https://www.bbc.com/news/articles/cn4wkd7729po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T17:02:40Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52b/live/d6a268a0-a5ef-11f0-af09-bf7f0464c1dc.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-d9d8c211d4",
     "source": "BBC — Top Stories",
     "title": "Ceasefire comes into force as IDF pulls out of parts of Gaza",
@@ -90,7 +102,7 @@
     "summary": "The First Lady has been directly engaged in diplomacy in Russia, pleading for the protection of children.",
     "url": "https://www.bbc.com/news/articles/cj075gq5n81o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T16:46:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab25/live/a275a0b0-a5ef-11f0-af09-bf7f0464c1dc.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df18/live/24e1eaa0-a608-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -127,6 +139,18 @@
     "url": "https://www.bbc.com/news/articles/cewnv2xprzko?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T16:38:28Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/584b/live/5367f310-a5f4-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-660f451d1f",
+    "source": "Politico — UK",
+    "title": "Estonia speaks out against EU social media ban for kids",
+    "summary": "Most EU countries have backed the idea of a digital age of majority.",
+    "url": "https://www.politico.eu/article/estonia-liisa-ly-pakosta-breaks-the-ranks-on-minors-protection/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-10T16:34:21Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2239525047-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -192,18 +216,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-9cb4e82521",
-    "source": "BBC — Top Stories",
-    "title": "As Nobel Prize goes to Venezuela's opposition leader, how far would Trump go to help her?",
-    "summary": "Maria Corina Machado called on Donald Trump directly to help her country which continues to be at crisis.",
-    "url": "https://www.bbc.com/news/articles/crmegp9lkjro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T15:51:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ae/live/94084770-a5f0-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-b9eabf5aba",
     "source": "BBC — Top Stories",
     "title": "Thousands line streets for boxing legend Ricky Hatton's funeral",
@@ -247,6 +259,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/10/calls-for-uk-government-to-pardon-women-executed-for-witchcraft",
     "published": "2025-10-10T14:43:13Z",
     "image_url": "https://i.guim.co.uk/img/media/20998c0db78b9e2cce5bf500f489071b05839940/131_76_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=8d060a1dd17f5ed7e7094f854a743d09",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-2ce93d0a15",
+    "source": "BBC — Top Stories",
+    "title": "Twelve striking images from Ricky Hatton's funeral",
+    "summary": "Friends, family and stars of the sporting world gathered for the funeral of boxing legend Ricky Hatton.",
+    "url": "https://www.bbc.com/news/articles/c3e7g2npwj2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T14:32:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c59/live/3ab5dda0-a5e0-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -408,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-60f83c8fb8",
-    "source": "BBC — Top Stories",
-    "title": "Venezuelan opposition leader María Corina Machado wins Nobel Peace Prize",
-    "summary": "Machado is recognised for \"tireless work promoting democratic rights\" in Venezuela, the Nobel Committee says.",
-    "url": "https://www.bbc.com/news/articles/c70821201ego?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T11:08:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2918/live/cfb8d170-a5f2-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-298065cac3",
     "source": "Politico — UK",
     "title": "Debt-ridden Italy fears impact of guarantees for €140B loan to Ukraine",
@@ -451,18 +463,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/10/clear-parallels-with-windrush-as-uk-born-toddler-denied-passport",
     "published": "2025-10-10T10:07:34Z",
     "image_url": "https://i.guim.co.uk/img/media/4e57083a0b887d67e541910c092e23e70c99e45d/2454_154_5486_4389/master/5486.jpg?width=140&quality=85&auto=format&fit=max&s=72a988ce9129b79e95c65038493d5cf5",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-97530d48d6",
-    "source": "Politico — UK",
-    "title": "Google faces UK restrictions over search dominance",
-    "summary": "LONDON — Google has “substantial and entrenched market power” in online search meaning it will likely face restrictions in the U.K. to curb its dominance, the country’s competition watchdog confirmed Friday. The Competition and Markets Authority (CMA) said it would designate Google with “strategic market status” for search and search advertising, the first time it has […]",
-    "url": "https://www.politico.eu/article/7307772/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T09:36:17Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-1496939217-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
