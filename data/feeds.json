@@ -1,5 +1,53 @@
 [
   {
+    "id": "BBC — Top Stories-12bb5a61e0",
+    "source": "BBC — Top Stories",
+    "title": "Macron reappoints Lecornu as French PM after days of turmoil",
+    "summary": "Sébastien Lecornu resigned on Monday after 26 days in the job and he said two days later his \"mission is over\".",
+    "url": "https://www.bbc.com/news/articles/cy4j9zz54ypo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T20:12:50Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88c/live/c47bff30-a615-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-321eb8ee2c",
+    "source": "Politico — UK",
+    "title": "Macron picks Lecornu as French PM again",
+    "summary": "The 39-year-old head of government abruptly resigned Monday, thrusting the country into crisis.",
+    "url": "https://www.politico.eu/article/france-prime-minister-sebastien-lecornu-emmanuel-macron-political-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-10T20:04:38Z",
+    "image_url": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-957fc93768",
+    "source": "The Guardian — UK",
+    "title": "Man in serious condition after being shot by police in London",
+    "summary": "IOPC investigating incident at property in Walthamstow where man reportedly had firearm and made threats to kill A man is in a “life threatening” condition in hospital after he was shot by police at a home in London on Friday afternoon. The Independent Office for Police Conduct (IOPC) has launched an investigation into the actions of Met police officers during the incident at a property in Walthamstow, north-east London. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/10/man-in-serious-condition-after-being-shot-by-police-in-london",
+    "published": "2025-10-10T19:34:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/819cb7352d1b4ce807680ca8cbf96d9da7205daf/414_0_4119_3297/master/4119.jpg?width=140&quality=85&auto=format&fit=max&s=222745db87cf240ee339b1428b68bca1",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9402cfa4d4",
+    "source": "BBC — Top Stories",
+    "title": "Tony Blair met Jeffrey Epstein while prime minister",
+    "summary": "The ex-PM confirms he met Epstein in 2002, six years before the financier pleaded guilty to soliciting prostitution from a minor.",
+    "url": "https://www.bbc.com/news/articles/c5yk16gpxj0o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T19:24:26Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f203/live/e5fc5b10-a60a-11f0-a188-efa4885b3354.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-25c62c0bb1",
     "source": "BBC — Top Stories",
     "title": "Trump threatens to pull out of planned Xi meeting",
@@ -60,18 +108,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-c100fac099",
-    "source": "BBC — Top Stories",
-    "title": "Qatar to build air force facility in Idaho, US says",
-    "summary": "The facility in Idaho will be used to train Qatari pilots to fly F-15 fighter jets, the US defence secretary says.",
-    "url": "https://www.bbc.com/news/articles/c75q2y92090o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T17:27:47Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d288/live/f71c1d60-a5f9-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-9ca30a7bec",
     "source": "BBC — Top Stories",
     "title": "What does wording of Gaza ceasefire agreement tell us?",
@@ -91,18 +127,6 @@
     "url": "https://www.bbc.com/news/articles/cjw7jp2pxnpo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T16:47:25Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1368/live/28860be0-a5e6-11f0-920e-cb66ee1d5eb0.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e59d0c28d1",
-    "source": "BBC — Top Stories",
-    "title": "Melania Trump says Putin responded to her pleas about Ukrainian children",
-    "summary": "The First Lady has been directly engaged in diplomacy in Russia, pleading for the protection of children.",
-    "url": "https://www.bbc.com/news/articles/cj075gq5n81o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T16:46:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df18/live/24e1eaa0-a608-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -187,6 +211,18 @@
     "url": "https://www.bbc.com/news/articles/cdr614l6ezlo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T16:27:00Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d8/live/e1563820-a5f5-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-199a0c0fc2",
+    "source": "The Guardian — UK",
+    "title": "Zarah Sultana compares Jeremy Corbyn reunion to Gallagher brothers",
+    "summary": "MP says pair have reconciled after bitter dispute as they appear together at Manchester leftwing festival Zarah Sultana has said she and Jeremy Corbyn have patched up their combustible co-leadership of a new leftwing party, with the MP comparing the duo to Liam and Noel Gallagher. Speaking alongside Corbyn at The World Transformed political festival in Manchester, the Gallaghers’ home city, Sultana insisted they could cooperate over the organisation still only known, unofficially, as Your Party. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/10/zarah-sultana-says-she-and-corbyn-have-reconciled-and-can-co-lead-new-party",
+    "published": "2025-10-10T16:25:30Z",
+    "image_url": "https://i.guim.co.uk/img/media/6fd89def8291c5182ebaa7ab0b38e6145f395e98/690_0_4549_3640/master/4549.jpg?width=140&quality=85&auto=format&fit=max&s=a72b815eb8f817daead611da0e4681ca",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -300,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-c13f6cfac3",
-    "source": "The Guardian — UK",
-    "title": "Ryanair flight landed at Manchester airport with six minutes of fuel left, flight log suggests",
-    "summary": "Investigation under way after flight during Storm Amy made three landing attempts in Scotland before flying to Manchester An investigation is under way after a Ryanair flight battling with high wind speeds during storm Amy last week landed at Manchester airport with just six minutes of fuel left in its tanks. The pilots had been taking passengers from Pisa in Italy to Prestwick in Scotland on Friday evening, but wind speeds of up to 100mph meant they were unable to land. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests",
-    "published": "2025-10-10T14:21:48Z",
-    "image_url": "https://i.guim.co.uk/img/media/a310c870d0093d949ccce55b7b641838691b7cef/614_0_4126_3300/master/4126.jpg?width=140&quality=85&auto=format&fit=max&s=1454c08aeb1f58dfd698cad89d4789dc",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-b8ae5819d0",
     "source": "Politico — UK",
     "title": "The Tory implosion offers a warning for both parties in America",
@@ -355,6 +379,18 @@
     "url": "https://www.bbc.com/news/articles/cx2jw9yyzjvo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T13:55:49Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f047/live/2e220be0-a5cc-11f0-aeb3-6f25177f837c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-0b42589177",
+    "source": "The Guardian — UK",
+    "title": "Farage insists ex-Reform UK Wales leader convicted of bribery is ‘bad apple’",
+    "summary": "Farage said he was shocked by Nathan Gill’s admissions relating to pro-Russia statements Nigel Farage has insisted his party’s former leader in Wales who was convicted of taking pro-Russian bribes was a “bad apple” who betrayed him. The Reform UK leader was in Caerphilly campaigning for his candidate in a forthcoming Senedd byelection when he was asked about his links to Nathan Gill. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/10/nigel-farage-nathan-gill-ex-reform-uk-wales-leader-bribery-bad-apple",
+    "published": "2025-10-10T13:47:56Z",
+    "image_url": "https://i.guim.co.uk/img/media/79242ce748ee55e2eb8794f70e43d656b3bfeb38/193_79_3213_2571/master/3213.jpg?width=140&quality=85&auto=format&fit=max&s=381d9b2dc3ea71beb7bebebd9e3f00c5",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -432,22 +468,10 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-298065cac3",
-    "source": "Politico — UK",
-    "title": "Debt-ridden Italy fears impact of guarantees for €140B loan to Ukraine",
-    "summary": "The European Commission has proposed a scheme to leverage frozen Russian assets to fund a reparations loan to Ukraine.",
-    "url": "https://www.politico.eu/article/debt-ridden-italy-fears-debt-impact-of-guarantees-for-e140-billion-loan-to-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T10:36:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2223348335-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e053aca122",
     "source": "The Guardian — UK",
     "title": "Richard Tice has 15-year record of supporting ‘net stupid zero’ initiatives",
-    "summary": "Firms led by deputy Reform UK leader since 2011 have shown commitment to saving energy and cutting CO 2 emissions UK politics live – latest updates He never seems to tire of deriding “net stupid zero”, but Reform UK’s deputy leader, Richard Tice, has a 15-year business record of support for sustainability and green energy initiatives. The Reform party has made opposition to green energy and net zero part of its policy platform. Its founder, Nigel Farage, has called net zero policies a “lunacy” ; the party has called to lift the ban on fracking for fossil gas; and one of the first Reform-led councils, Kent, rescinded last month its declaration of a climate emergency . Continue reading...",
+    "summary": "Firms led by deputy Reform UK leader since 2011 have shown commitment to saving energy and cutting CO 2 emissions He never seems to tire of deriding “net stupid zero”, but Reform UK’s deputy leader, Richard Tice, has a 15-year business record of support for sustainability and green energy initiatives. The Reform party has made opposition to green energy and net zero part of its policy platform. Its founder, Nigel Farage, has called net zero policies a “lunacy” ; the party has called to lift the ban on fracking for fossil gas; and one of the first Reform-led councils, Kent, rescinded last month its declaration of a climate emergency . Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/10/richard-tice-15-year-business-record-supporting-net-stupid-zero",
     "published": "2025-10-10T10:19:57Z",
     "image_url": "https://i.guim.co.uk/img/media/613797cdc389b1d14657ab10af312217bde96e19/720_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=b96fd5ee33c675c14bec082f8c60fcd1",
@@ -468,18 +492,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-2e41809dc8",
-    "source": "The Guardian — UK",
-    "title": "Former British diplomat challenges Palestine Action ban in Scotland",
-    "summary": "Craig Murray argues proscription order contravenes rights to freedom of speech under European convention of human rights A former British diplomat has served a petition challenging the ban on Palestine Action in Scotland. The case, brought by Craig Murray, is separate to the judicial review of the proscription decision being brought at the high court in London and could lead to a situation whereby the ban is ruled unlawful in Scotland but not in England and Wales. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/10/former-british-diplomat-craig-murray-challenges-palestine-action-ban-scotland",
-    "published": "2025-10-10T09:30:50Z",
-    "image_url": "https://i.guim.co.uk/img/media/a1bdfb6b8913c4cc82d5f51decaf49cdb4b0127a/626_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e075dee57a1bb67cab3f0d91561544ae",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-0c8a2685ed",
     "source": "BBC — Top Stories",
     "title": "Green turtle bounces back from brink in conservation 'win'",
@@ -487,18 +499,6 @@
     "url": "https://www.bbc.com/news/articles/cg426qqqqnro?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T08:01:28Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0524/live/c8f01350-a532-11f0-8469-192d9823e9a2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-c365a1ffca",
-    "source": "The Guardian — UK",
-    "title": "Starmer accused of pushing out some of last progressive allies in No 10 shake-up",
-    "summary": "Exclusive: PM reorganising key parts of government to give chief secretary Darren Jones more Whitehall control • UK politics live – latest updates Keir Starmer has been accused of pushing some of his last remaining progressive allies out of government as he embarks on another shake-up of his Downing Street operation designed to empower his chief secretary, Darren Jones. The prime minister is overseeing a reorganisation of several key parts of his government, including the delivery and policy units, to refocus the policy work and give Jones more direct control of the machinery of government. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/10/starmer-accused-pushing-out-progressive-allies-no-10-shake-up",
-    "published": "2025-10-10T07:50:15Z",
-    "image_url": "https://i.guim.co.uk/img/media/17c025211ab23ecccfb25bd78400ac57c393054c/56_54_1852_1482/master/1852.jpg?width=140&quality=85&auto=format&fit=max&s=0bd549d04ad78aa30446197a64db31bb",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
