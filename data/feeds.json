@@ -3,10 +3,106 @@
     "id": "BBC — Top Stories-25c62c0bb1",
     "source": "BBC — Top Stories",
     "title": "Trump threatens to pull out of planned Xi meeting",
-    "summary": "Trump also threatened a \"massive\" tariff increase, after the country tightened its rules for exports of rare earths.",
+    "summary": "Trump also threatened a \"massive\" tariff increase, after China tightened its rules for exports of rare earths.",
     "url": "https://www.bbc.com/news/articles/cn4wkd7729po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T16:12:08Z",
+    "published": "2025-10-10T17:02:40Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52b/live/d6a268a0-a5ef-11f0-af09-bf7f0464c1dc.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e59d0c28d1",
+    "source": "BBC — Top Stories",
+    "title": "Melania Trump says Putin responded to her pleas about Ukrainian children",
+    "summary": "The First Lady has been directly engaged in diplomacy in Russia, pleading for the protection of children.",
+    "url": "https://www.bbc.com/news/articles/cj075gq5n81o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T16:46:57Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab25/live/a275a0b0-a5ef-11f0-af09-bf7f0464c1dc.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-11e94aa710",
+    "source": "Politico — UK",
+    "title": "On Gaza, two cheers for Trump — but not three",
+    "summary": "The ceasefire is a triumph for the U.S. president, though some of his detractors are only giving him begrudging applause. Still, phase two of the deal remains fraught.",
+    "url": "https://www.politico.eu/article/war-in-gaza-ceasefire-donald-trump-israel-hamas/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-10T16:44:33Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2239668259-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-c3e117d459",
+    "source": "Politico — UK",
+    "title": "Donald Trump deserved the Nobel prize, says … Vladimir Putin",
+    "summary": "The Russian president, who is wanted by the ICC, says the Nobel committee has “lost credibility.”",
+    "url": "https://www.politico.eu/article/donald-trump-deserved-the-nobel-prize-says-vladimir-putin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-10T16:44:06Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/13265463.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-00f8ec932f",
+    "source": "BBC — Top Stories",
+    "title": "Plaid promises universal childcare if it wins Welsh election",
+    "summary": "Plaid will offer 20 hours of care for all families if it wins the next Senedd election, leader says.",
+    "url": "https://www.bbc.com/news/articles/cewnv2xprzko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T16:38:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/584b/live/5367f310-a5f4-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-f14ac81f7b",
+    "source": "The Guardian — UK",
+    "title": "Richard Tice accepted stay at French Riviera home of Tory donor",
+    "summary": "Reform deputy leader’s trip, worth £1,400, to Lubov Chernukhin’s property was for ‘discussing gas power in UK’ Reform UK’s deputy leader, Richard Tice, accepted a £1,400 stay at the French Riviera home of Lubov Chernukhin, a Conservative donor and the wife of Russia’s former deputy finance minister, new filings show. Tice enjoyed accommodation valued at £1,000 and meals worth £400 between 4 and 6 August at the Chernukhins’ property on the Mediterranean coast, listing the purpose as “discussing gas power in the UK”, according to the register of MPs’ interests. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/10/richard-tice-tory-donor-lubov-chernukhin",
+    "published": "2025-10-10T16:31:27Z",
+    "image_url": "https://i.guim.co.uk/img/media/dcaee614536715183961158e4ca905001fa1936d/532_599_5301_4243/master/5301.jpg?width=140&quality=85&auto=format&fit=max&s=2ef253019ac8c100dee7be7a7ba6bcb2",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-4fd7b38f9d",
+    "source": "Politico — UK",
+    "title": "Macron forging ahead with plan to tap new PM, leaving opposition ‘dumbfounded’",
+    "summary": "A high-stakes meeting Friday concluded without any apparent breakthroughs.",
+    "url": "https://www.politico.eu/article/emmanuel-macron-forging-ahead-with-plan-tap-new-pm-leaving-opposition-dumbfounded/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-10T16:30:09Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2225820998-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-fe70d340a3",
+    "source": "BBC — Top Stories",
+    "title": "No shortcut to reducing NHS wait times in Scotland, says Swinney",
+    "summary": "Ahead of the SNP conference, the first minister said some patients are waiting 'far too long' for treatment.",
+    "url": "https://www.bbc.com/news/articles/cdr614l6ezlo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T16:27:00Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d8/live/e1563820-a5f5-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-c082060544",
+    "source": "The Guardian — UK",
+    "title": "Man who entered UK on small boat found guilty of threatening to kill Nigel Farage",
+    "summary": "Fayaz Khan, 26, made the threat in a TikTok video that Reform UK leader told the court was ‘pretty chilling’ A man who came to the UK on a small boat has been found guilty of making a threat to kill Nigel Farage in a TikTok video. Fayaz Khan, 26, an Afghan national, was found guilty by a majority of 10 jurors to two after almost 12 hours of deliberation at Southwark court court. He had made the threat to kill the Reform UK leader in October last year in a video that Farage told the court was “pretty chilling”. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/10/fayaz-khan-small-boat-nigel-farage",
+    "published": "2025-10-10T16:16:23Z",
+    "image_url": "https://i.guim.co.uk/img/media/5da9e6daeecd108a635d483e3f6792035401dc5f/0_404_1307_1045/master/1307.jpg?width=140&quality=85&auto=format&fit=max&s=c4391b359015faf58ba8a5687685967c",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -18,19 +114,7 @@
     "summary": "The broadcaster will stop showing music videos in December, but its main channel will remain on air.",
     "url": "https://www.bbc.com/news/articles/cdr612yz8p0o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T16:06:47Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/402b/live/5276bfd0-a5f5-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-fe70d340a3",
-    "source": "BBC — Top Stories",
-    "title": "No shortcut to reducing NHS wait times in Scotland, says Swinney",
-    "summary": "Ahead of the SNP conference, the first minister said some patients are waiting 'far too long' for treatment.",
-    "url": "https://www.bbc.com/news/articles/cdr614l6ezlo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T16:00:05Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/627e/live/a26582d0-a5e9-11f0-920e-cb66ee1d5eb0.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f529/live/5eea1410-a5c3-11f0-add7-abf13599c13e.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -48,18 +132,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-00f8ec932f",
-    "source": "BBC — Top Stories",
-    "title": "Plaid promises universal childcare if it wins Welsh election",
-    "summary": "Plaid will offer 20 hours of care for all families if it wins the next Senedd election, leader says.",
-    "url": "https://www.bbc.com/news/articles/cewnv2xprzko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T15:43:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/584b/live/5367f310-a5f4-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-b9eabf5aba",
     "source": "BBC — Top Stories",
     "title": "Thousands line streets for boxing legend Ricky Hatton's funeral",
@@ -72,18 +144,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e59d0c28d1",
-    "source": "BBC — Top Stories",
-    "title": "Melania Trump says Putin responded to her pleas about Ukrainian children",
-    "summary": "The First Lady has been directly engaged in diplomacy in Russia, pleading for the protection of children.",
-    "url": "https://www.bbc.com/news/articles/cj075gq5n81o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T15:32:18Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab25/live/a275a0b0-a5ef-11f0-af09-bf7f0464c1dc.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-f52a2a26cf",
     "source": "The Guardian — UK",
     "title": "Britons travelling to EU to undergo new biometric checks at border from Sunday",
@@ -91,18 +151,6 @@
     "url": "https://www.theguardian.com/world/2025/oct/10/britons-travelling-eu-undergo-new-biometric-checks-border",
     "published": "2025-10-10T15:13:27Z",
     "image_url": "https://i.guim.co.uk/img/media/3eb57cab0e8775241f14f35b6fd0389f85da9b29/1362_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=9cb49b04978090e3c1ac1500e6bffa98",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9bcc918b0c",
-    "source": "BBC — Top Stories",
-    "title": "Man guilty of threatening to kill Nigel Farage",
-    "summary": "Fayaz Khan, 26, is described by the prosecution as \"a dangerous man with an interest in firearms\".",
-    "url": "https://www.bbc.com/news/articles/cdx216n1529o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T15:03:10Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/343f/live/f5763790-a5e3-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -228,18 +276,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-c8d52b5936",
-    "source": "The Guardian — UK",
-    "title": "Man convicted of 38 paedophile offences revealed as police informer who spied on UK activists",
-    "summary": "Trial of Nick Gratwick, 68, who schemed to rape children as young as six, exposes previous role among green protesters A man who schemed to rape children as young as six was revealed at his trial to have been a police informer who spied on environmental activists. Nick Gratwick, 68, was found guilty on Friday of 38 “abhorrent” paedophile offences, including plans over the last two years to pay to rape or sexually assault children in the UK and abroad. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/10/man-convicted-of-38-paedophile-offences-revealed-as-police-informer-who-spied-on-uk-activists",
-    "published": "2025-10-10T13:40:03Z",
-    "image_url": "https://i.guim.co.uk/img/media/032f48e3a8c99c7521658e6601b91e9de0845920/0_433_981_784/master/981.jpg?width=140&quality=85&auto=format&fit=max&s=7ebafa0ec1f490a8f46e9fd4d99d06e1",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-aadde73e58",
     "source": "Politico — UK",
     "title": "Latvia orders more than 800 Russian citizens to leave by mid-October",
@@ -259,18 +295,6 @@
     "url": "https://www.bbc.com/news/articles/cg7dlem0vdno?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T13:07:49Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0662/live/570e42c0-a5c8-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-1075bed35d",
-    "source": "The Guardian — UK",
-    "title": "High street slot machine shops pay staff bonuses linked to how much gamblers lose",
-    "summary": "Exclusive: MPs and campaigners condemn ‘appalling’ reward scheme for Merkur venue managers High street slot machine shops are paying their staff bonuses linked to how much gamblers lose, the Guardian has learned, prompting condemnation of the “appalling” reward scheme from MPs and campaigners. A network of 1,451 “adult gaming centres” (AGCs), most of which are open 24 hours a day, has spread through the UK in recent years, concentrated in the most economically deprived areas . Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/oct/10/high-street-slot-machine-shops-pay-staff-bonuses-linked-to-how-much-gamblers-lose",
-    "published": "2025-10-10T13:06:50Z",
-    "image_url": "https://i.guim.co.uk/img/media/f6f947e83eae0faf09d76f487ce04da8d4cce669/805_0_6713_5373/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=6adac3128b2cf392c73ebf01375f8fd8",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -420,42 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-6c73af9f0d",
-    "source": "Politico — UK",
-    "title": "Nobel Peace Prize goes to Venezuelan opposition leader despite Trump lobbying",
-    "summary": "María Corina Machado won for her years spent \"working for the freedom of the Venezuelan people,\" according to the Nobel Committee chairman",
-    "url": "https://www.politico.eu/article/nobel-peace-prize-goes-to-venezuelan-opposition-leader-despite-trump-lobbying/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T09:08:27Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2192558653-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-1e86e2539a",
-    "source": "Politico — UK",
-    "title": "Backlash as new EU political ad rules kick in",
-    "summary": "Politicians and campaigners fear that an advertising law designed to improve transparency could stifle it.",
-    "url": "https://www.politico.eu/article/eu-political-ad-rules-google-meta-microsoft-big-tech-kick-in/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T08:57:29Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2230083806-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-c46c84e31b",
-    "source": "Politico — UK",
-    "title": "Russia bombards Ukraine with huge strikes on energy facilities",
-    "summary": "“It was a cynical and calculated attack,\" says Ukrainian President Volodymyr Zelenskyy.",
-    "url": "https://www.politico.eu/article/russia-bombardments-ukraine-overnight-crippling-energy-infrastructure/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T08:44:19Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2238829082.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-0c8a2685ed",
     "source": "BBC — Top Stories",
     "title": "Green turtle bounces back from brink in conservation 'win'",
@@ -487,6 +475,18 @@
     "url": "https://www.bbc.com/news/articles/cly17834524o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T06:10:40Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2abb/live/00b3aff0-9f88-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-8ee4f7357b",
+    "source": "BBC — Top Stories",
+    "title": "Stop expecting perfection from us, Premier League referee Anthony Taylor says",
+    "summary": "In an interview with the BBC, referee Anthony Taylor criticises the \"expectation of perfection\" culture officials are subject to.",
+    "url": "https://www.bbc.com/sport/football/articles/c2dn9lkp0e5o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T05:00:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd1/live/598a6ff0-a510-11f0-ba60-dd95d022a9f0.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
