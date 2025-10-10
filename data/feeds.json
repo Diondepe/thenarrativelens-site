@@ -1,12 +1,96 @@
 [
   {
+    "id": "Politico — UK-2ed32c74ad",
+    "source": "Politico — UK",
+    "title": "Trump suggests booting ‘laggard’ Spain from NATO over defense spending",
+    "summary": "The U.S. president demanded that alliance members allocate 5 percent of GDP to defense spending. Spain was the only country to refuse to commit to the benchmark.",
+    "url": "https://www.politico.eu/article/trump-suggests-booting-laggard-spain-from-nato-over-defense-spending/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-10T01:20:09Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/13415914-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-be05944500",
+    "source": "BBC — Top Stories",
+    "title": "Huge buzz but a big gamble: Battlefield 6 takes aim at Call of Duty",
+    "summary": "The latest in the military shooter series is a pivotal release for publisher Electronic Arts.",
+    "url": "https://www.bbc.com/news/articles/c8xrkxdkkrno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T01:10:20Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a49/live/f4d6e500-a50c-11f0-ba60-dd95d022a9f0.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-608126bf6a",
+    "source": "BBC — Top Stories",
+    "title": "Thousands more university jobs cut as financial crisis deepens",
+    "summary": "University workers will vote on national strike action this month over a 1.4% pay offer made in the summer.",
+    "url": "https://www.bbc.com/news/articles/cp3ve5jegkvo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T01:05:07Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c657/live/4977f460-a520-11f0-adbe-83a1eb509ffb.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-da6d5eb3b8",
     "source": "BBC — Top Stories",
     "title": "What has been agreed and what happens next",
     "summary": "Israel's security cabinet are expected to meet at 17:00 Israel time (15:00 BST) to formally vote on the first phase of the plan.",
     "url": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T23:09:03Z",
+    "published": "2025-10-10T01:04:29Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/fa8b6ce0-a530-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-808336d37e",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'Peace within reach' and 'A moment of shared hope'",
+    "summary": "The ceasefire negotiations for the Israel-Gaza war and celebrations of peace dominate Friday's papers.",
+    "url": "https://www.bbc.com/news/articles/c4g2n911k73o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T00:54:40Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad6a/live/411fe1d0-a55f-11f0-92db-77261a15b9d2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-df84e9f365",
+    "source": "BBC — Top Stories",
+    "title": "The new AI arms race changing the war in Ukraine",
+    "summary": "Both Ukraine and Russia use AI in battle, but removing human decision-making comes with risks.",
+    "url": "https://www.bbc.com/news/articles/cly7jrez2jno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T00:26:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3db9/live/b9b81a10-a512-11f0-bfa1-3b47a791b9db.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-26ea75f08e",
+    "source": "BBC — Top Stories",
+    "title": "Fossil found on Dorset coast is unique 'sword dragon' species",
+    "summary": "Scientists say the newly discovered species of marine reptile probably met a grizzly end.",
+    "url": "https://www.bbc.com/news/articles/cdjzvzzy0mxo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T00:20:07Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eb1/live/cdd866d0-a530-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-267d14c802",
+    "source": "BBC — Top Stories",
+    "title": "How 20 minutes of nature can boost your health",
+    "summary": "Spending just 20 minutes in nature can lower blood pressure, heart rate and stress levels.",
+    "url": "https://www.bbc.com/news/articles/cvg0yvdjgn5o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-09T23:45:15Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfa1/live/aaf4fca0-a387-11f0-a56f-0b1b78ebdf89.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -50,8 +134,8 @@
   {
     "id": "The Guardian — UK-78eeb8854a",
     "source": "The Guardian — UK",
-    "title": "Joy and anxiety as Hamas and Israel prepare to implement ceasefire deal",
-    "summary": "Israelis and Palestinians share mixed feelings as end to bloody two-year conflict that has killed tens of thousands nears Israelis and Palestinians celebrated on Thursday night as Hamas and Israel’s government began preparations to implement a ceasefire deal that promises a durable end to a bloody two-year conflict that has killed tens of thousands, destabilised much of the Middle East and prompted protests around the world. In Gaza, there was joy but much anxiety. Many expressed the fear that the new deal would collapse, bringing more suffering to the devastated territory. Though crowds gathered in some places to dance and sing, in many places witnesses reported muted reaction amid loud overflights by warplanes and drones. Continue reading...",
+    "title": "Hamas and Israel prepare to implement ceasefire as Netanyahu says deal approved by government",
+    "summary": "Israel’s government ratified the ceasefire and hostage deal on Friday, clearing the way to suspend hostilities in Gaza within 24 hours Israelis and Palestinians celebrated on Thursday night as Hamas and Israel’s government began preparations to implement a ceasefire deal that promises a durable end to a bloody two-year conflict that has killed tens of thousands, destabilised much of the Middle East and prompted protests around the world. In Gaza, there was joy but much anxiety. Many expressed the fear that the new deal would collapse, bringing more suffering to the devastated territory. Though crowds gathered in some places to dance and sing, in many places witnesses reported muted reaction amid loud overflights by warplanes and drones. Continue reading...",
     "url": "https://www.theguardian.com/world/2025/oct/09/joy-and-anxiety-as-hamas-and-israel-prepare-to-implement-ceasefire-deal",
     "published": "2025-10-09T22:36:17Z",
     "image_url": "https://i.guim.co.uk/img/media/ac1babc39647947640e9097dc52d3072092c055f/108_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=8b8843c8169fb98e53332db8d3cdbf83",
@@ -91,18 +175,6 @@
     "url": "https://www.bbc.com/news/articles/cz69q1p6376o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-09T20:21:13Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff1c/live/c2f875e0-a538-11f0-8469-192d9823e9a2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-49cfdd25a2",
-    "source": "BBC — Top Stories",
-    "title": "Nineteen more removed to France under 'one in, one out' scheme",
-    "summary": "The recent removals involved larger groups of migrants than previous flights, the Home Office says.",
-    "url": "https://www.bbc.com/news/articles/ce809jmznl2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T19:52:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d758/live/e7866ba0-a548-11f0-b8ec-574ff83ad78e.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -192,18 +264,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-f75f4ef2d6",
-    "source": "BBC — Top Stories",
-    "title": "Five ways abolishing stamp duty could change the housing market",
-    "summary": "Kemi Badenoch says a future Conservative government would scrap stamp duty, but what might the impact be?",
-    "url": "https://www.bbc.com/news/articles/c9v7wppzm2ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T17:35:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e48c/live/cdb688c0-a4f5-11f0-8e74-1f6664d312e9.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-a016fb26fb",
     "source": "BBC — Top Stories",
     "title": "Palestinians celebrate but fear confronting grief",
@@ -223,18 +283,6 @@
     "url": "https://www.theguardian.com/environment/2025/oct/09/prince-william-to-attend-cop30-un-climate-summit-in-brazil",
     "published": "2025-10-09T17:09:25Z",
     "image_url": "https://i.guim.co.uk/img/media/5288b177ae2b576d7afda83217a7cf134ec19861/290_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=fa7d1953352517a92fac7febb056c53e",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-021551336e",
-    "source": "BBC — Top Stories",
-    "title": "From the fishing trip to a Gavin and Stacey film - five things Jones and Corden's book reveals",
-    "summary": "What can we expect from the new book When Gavin Met Stacey And Everything In Between?",
-    "url": "https://www.bbc.com/news/articles/cwy809dgd4zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T17:03:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4132/live/7d527410-a514-11f0-bfa1-3b47a791b9db.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -319,18 +367,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/09/uk-pubs-licensing-plan-costs-landlords",
     "published": "2025-10-09T15:54:06Z",
     "image_url": "https://i.guim.co.uk/img/media/d3bb2a7e2bc86c283b0b557c2b13acd9ca15e28d/531_0_4337_3471/master/4337.jpg?width=140&quality=85&auto=format&fit=max&s=a3e22d984b44c4f402694f6739af56e4",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-248f2eb1cf",
-    "source": "BBC — Top Stories",
-    "title": "Man who appealed Pelicot rape conviction handed longer jail term",
-    "summary": "A French court increases by a year the jail term of the only man who challenged his conviction for raping Gisèle Pelicot.",
-    "url": "https://www.bbc.com/news/articles/cq65e2jdd3lo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T15:52:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caa8/live/2d0a49a0-a524-11f0-adbe-83a1eb509ffb.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,30 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-284f4ff053",
-    "source": "Politico — UK",
-    "title": "How Huawei came in from the cold after being blacklisted by the EU",
-    "summary": "The powerful Chinese company is back at one of the bloc’s most influential lobbies, raising questions over its impact on watering down policies aimed at limiting Beijing’s ability to hack key infrastructure.",
-    "url": "https://www.politico.eu/article/huawei-blacklisted-eu-solar-panel-lobby/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-09T13:26:07Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/09/GettyImages-1807171301-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-ec6ac32c40",
-    "source": "BBC — Top Stories",
-    "title": "From Happy Valley to Riot Women: Why writer Sally Wainwright wants to shout about menopause",
-    "summary": "The writer returns with a show about a female rock band, and the \"middle squeeze\" on midlife women.",
-    "url": "https://www.bbc.com/news/articles/c0jqxpx34gqo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T12:10:56Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cb9/live/1b9de330-a50f-11f0-ba60-dd95d022a9f0.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-1856cecbb1",
     "source": "BBC — Top Stories",
     "title": "Lyse Doucet: Gaza deal is a huge moment but this is just the beginning",
@@ -511,18 +523,6 @@
     "url": "https://www.bbc.com/news/articles/cgrq8rkj40ro?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-09T11:04:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ee9/live/6d616200-a50a-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6f09abc0f0",
-    "source": "BBC — Top Stories",
-    "title": "Pubs could stay open longer and host more live music under licensing reforms",
-    "summary": "Changes to licensing rules could see relaxed rules around live music and serving food outside.",
-    "url": "https://www.bbc.com/news/articles/c1l830m55dno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T10:35:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/397e/live/2a95de20-a4eb-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
