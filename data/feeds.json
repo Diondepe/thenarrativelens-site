@@ -1,5 +1,53 @@
 [
   {
+    "id": "BBC — Top Stories-4741537813",
+    "source": "BBC — Top Stories",
+    "title": "Woman in Dutch beach cold case named after 21 years",
+    "summary": "An Interpol-led operation has identified German citizen Eva Maria Pommer after a police tip-off.",
+    "url": "https://www.bbc.com/news/articles/cpq5r9epd4qo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T04:01:54Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a3/live/52ab8620-a51e-11f0-9cda-fff576c5be6d.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-659ec2034f",
+    "source": "The Guardian — UK",
+    "title": "Senior SNP figures believe Holyrood majority ‘within reach’ at May’s election",
+    "summary": "As party gathers for conference, re-engaging independence supporters seen as way forward after trust in Scottish government hits record low Senior Scottish National party strategists believe a majority at next year’s Holyrood elections is “within reach” despite failing public trust in Scotland’s government as they focus in on the “battleground cohort” of independence supporters who have drifted away from the SNP. Before the party’s annual conference in Aberdeen this weekend, one senior source said the path to a majority – by winning 65 seats or more – was “more straightforward now” than it had been for a long time because of the Tory collapse and Labour’s unpopularity. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/10/snp-holyrood-scottish-parliament-election-party-conference",
+    "published": "2025-10-10T04:00:43Z",
+    "image_url": "https://i.guim.co.uk/img/media/a62be5749a3a5afcf915231fd73ae9a72713a8e2/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e03e88ff2e2e796f3ed9689d8a59d746",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-21bf61d9e0",
+    "source": "Politico — UK",
+    "title": "Extra: Eure Kritik und wie dieser Podcast entsteht",
+    "summary": "Heute wird’s persönlich: keine Analyse, kein Interview, sondern Antworten auf euer Feedback. In dieser Sonderfolge spricht Gordon Repinski über Themenauswahl, die Idee hinter den 200-Sekunden-Interviews, kreative Erzählformen und einen umstrittenen Moment jeder Folge: den Geburtstag des Tages. Er erzählt, wie spontane Aufnahmen zwischen Brüssel, Berlin und Besenkammern entstehen, warum der Podcast manchmal mitten in der […]",
+    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/extra-eure-kritik-und-wie-dieser-podcast-entsteht/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-10T03:55:56Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/23/Berlin-Playbook-Website-Card57.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-a59692d3cf",
+    "source": "Politico — UK",
+    "title": "How Trump’s envoys got Gaza deal over the finish line",
+    "summary": "Envoys Steve Witkoff and Jared Kushner dictated the final compromises to speed the talks to completion.",
+    "url": "https://www.politico.com/news/2025/10/09/trumps-envoys-gaza-deal-00601374?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-10T03:42:21Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-93eacd2389",
     "source": "BBC — Top Stories",
     "title": "New York’s top prosecutor charged with fraud after Trump pressures justice department",
@@ -48,6 +96,18 @@
     "cluster_id": null
   },
   {
+    "id": "Politico — UK-2ed32c74ad",
+    "source": "Politico — UK",
+    "title": "Trump suggests booting ‘laggard’ Spain from NATO over defense spending",
+    "summary": "The U.S. president demanded that alliance members allocate 5 percent of GDP to defense spending. Spain was the only country to refuse to commit to the benchmark.",
+    "url": "https://www.politico.eu/article/trump-suggests-booting-laggard-spain-from-nato-over-defense-spending/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-10T02:01:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/13415914-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-dbcbcc5437",
     "source": "Politico — UK",
     "title": "Nazi legacy complicates Germany’s efforts to fight Russian drones",
@@ -91,42 +151,6 @@
     "url": "https://www.politico.eu/article/russia-gps-swedish-finnish-polish-jamming-tech-risks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-10T02:00:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-1250663029-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-e12f1ffee7",
-    "source": "Politico — UK",
-    "title": "How not to fall: Behind von der Leyen’s fightback and Macron’s meltdown",
-    "summary": "While the French government collapses in Paris, Ursula von der Leyen stands unshaken in Strasbourg. It’s been a week of political tremors — some performative, others seismic. Just three months after facing her first motion of censure, the European Commission president was hit with not one but two new attempts to topple her — and […]",
-    "url": "https://www.politico.eu/podcast/eu-confidential/how-not-to-fall-behind-von-der-leyens-fightback-and-macrons-meltdown/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/04/11/EU-Confidential-Webcard-1920x1080-px.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-cacfe68930",
-    "source": "Politico — UK",
-    "title": "No way back this time for Peter Mandelson, Starmer suggests",
-    "summary": "The British PM said he could not see the ex-ambassador to Washington getting another government role after exit over Jeffrey Epstein links.",
-    "url": "https://www.politico.eu/article/peter-mandelson-keir-starmer-uk-us-envoy-labour/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/09/GettyImages-2220063074-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-2ed32c74ad",
-    "source": "Politico — UK",
-    "title": "Trump suggests booting ‘laggard’ Spain from NATO over defense spending",
-    "summary": "The U.S. president demanded that alliance members allocate 5 percent of GDP to defense spending. Spain was the only country to refuse to commit to the benchmark.",
-    "url": "https://www.politico.eu/article/trump-suggests-booting-laggard-spain-from-nato-over-defense-spending/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T01:20:09Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/13415914-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -204,18 +228,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a12e4ae90f",
-    "source": "BBC — Top Stories",
-    "title": "US kicks off controversial financial rescue plan for Argentina",
-    "summary": "The Trump administration will purchase pesos in a bid to calm Argentina's economic crisis.",
-    "url": "https://www.bbc.com/news/articles/c203vx56lqyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T00:09:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d157/live/35fa1e00-a556-11f0-9384-df5a4052ae6a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-267d14c802",
     "source": "BBC — Top Stories",
     "title": "How 20 minutes of nature can boost your health",
@@ -276,6 +288,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-00f8ec932f",
+    "source": "BBC — Top Stories",
+    "title": "Plaid ready to replace Welsh Labour, says leader",
+    "summary": "Plaid Cymru is ready to replace Welsh Labour at the next Senedd election, its leader will say later.",
+    "url": "https://www.bbc.com/news/articles/cewnv2xprzko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-09T22:01:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/846a/live/3e30fae0-a541-11f0-8303-d57b048c793f.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-4bb4096167",
     "source": "BBC — Top Stories",
     "title": "How Trump secured a Gaza breakthrough which eluded Biden",
@@ -295,18 +319,6 @@
     "url": "https://www.theguardian.com/society/2025/oct/09/majority-of-family-court-cases-in-england-and-wales-feature-domestic-abuse-watchdog-says",
     "published": "2025-10-09T21:00:34Z",
     "image_url": "https://i.guim.co.uk/img/media/24c670afd29fa8c38385e44649e2b2ea1b834c49/764_0_4853_3883/master/4853.jpg?width=140&quality=85&auto=format&fit=max&s=947900115e84094378037721e65b90b2",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-d84dd1ac7f",
-    "source": "BBC — Top Stories",
-    "title": "Man re-arrested at airport over Manchester synagogue attack",
-    "summary": "A 30-year-old man was re-arrested at Manchester Airport earlier, Counter Terrorism Policing said.",
-    "url": "https://www.bbc.com/news/articles/cz69q1p6376o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T20:21:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff1c/live/c2f875e0-a538-11f0-8469-192d9823e9a2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -336,13 +348,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-b27e94e844",
+    "id": "BBC — Top Stories-3790a0569e",
     "source": "BBC — Top Stories",
-    "title": "Naked mole rats' DNA could hold key to long life",
-    "summary": "The bald, subterranean rats are the world's longest-lived rodent.",
-    "url": "https://www.bbc.com/news/articles/cz7rxy21lxwo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T18:06:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1e4/live/bb740ed0-a4fa-11f0-b741-177e3e2c2fc7.jpg",
+    "title": "Prince William will attend COP30 climate summit in Brazil",
+    "summary": "Prince William will attend the COP30 summit on behalf of the King, joining other world leaders in Brazil.",
+    "url": "https://www.bbc.com/news/articles/c203v6d9q1po?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-09T18:49:56Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ec/live/e1295ad0-a53c-11f0-8303-d57b048c793f.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -432,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-c5dacce3c3",
-    "source": "The Guardian — UK",
-    "title": "Pub later-hours plan will not offset costs and wider difficulties, say landlords",
-    "summary": "Sector is sceptical over government licensing proposals given ‘ever-rising costs’ and ‘reduced consumer spend’ Plans to make it easier for pubs to open until the small hours will not offset the “toxic” combination of high costs and hard-up drinkers staying at home, industry figures have predicted, as they called for more help to cope with costs. The warning comes in response to government proposals to loosen licensing laws affecting pubs in England and Wales in order to boost “the British night out” and help the hospitality sector. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/09/uk-pubs-licensing-plan-costs-landlords",
-    "published": "2025-10-09T15:54:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/d3bb2a7e2bc86c283b0b557c2b13acd9ca15e28d/531_0_4337_3471/master/4337.jpg?width=140&quality=85&auto=format&fit=max&s=a3e22d984b44c4f402694f6739af56e4",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-27b18b731a",
     "source": "The Guardian — UK",
     "title": "Starmer enters parallel universe as red carpet rolled out in India amid trade deal",
@@ -451,6 +451,18 @@
     "url": "https://www.theguardian.com/politics/2025/oct/09/starmer-enters-parallel-universe-as-red-carpet-pulled-out-in-india-amid-trade-deal",
     "published": "2025-10-09T15:37:47Z",
     "image_url": "https://i.guim.co.uk/img/media/a9b76c4a21fce06d4e77395667fbf91edc183bdc/413_0_6306_5048/master/6306.jpg?width=140&quality=85&auto=format&fit=max&s=f6d1df7c8bf794786f940cbeb145fc6d",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-2920fe6d18",
+    "source": "The Guardian — UK",
+    "title": "Starmer praises Trump’s Gaza ceasefire deal – but avoids Nobel prize backing",
+    "summary": "Breakthrough in Gaza possible thanks to US president’s leadership, says prime minister during India trade visit Starmer enters parallel universe as red carpet pulled out in India amid trade deal Keir Starmer has said the Gaza ceasefire deal “would not have happened without President Trump’s leadership”, but stopped short of endorsing the US president for a Nobel peace prize. The prime minister said the first phase of the deal would be a “relief to the world” and that the UK had played its own role behind the scenes with the US and with negotiators. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/09/keir-starmer-praises-donald-trump-gaza-ceasefire-deal-but-avoids-nobel-prize-backing",
+    "published": "2025-10-09T15:37:21Z",
+    "image_url": "https://i.guim.co.uk/img/media/aed8f0e2ab673735855e824830b06b8f0d758de2/191_0_1871_1496/master/1871.jpg?width=140&quality=85&auto=format&fit=max&s=c57aa69906e1d54233881e4a7b65334d",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,18 +547,6 @@
     "url": "https://www.theguardian.com/society/2025/oct/09/nhs-staff-vote-strike-institutional-racism-pay-gap-claims",
     "published": "2025-10-09T08:21:19Z",
     "image_url": "https://i.guim.co.uk/img/media/3a4c5cc819d952abaca635364e5025e3164400b1/475_0_4750_3800/master/4750.jpg?width=140&quality=85&auto=format&fit=max&s=5cc5ffb107ea82f7fdf3c783fb91c497",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-77f2696e16",
-    "source": "The Guardian — UK",
-    "title": "UK Treasury tells ministers not to expect bailouts from its reserve fund",
-    "summary": "Departments told to manage their own cost pressures as finance ministry seeks to curb overuse of contingency fund Cabinet ministers have been told they will not be able to use the Treasury reserve to fund public sector pay rises and cannot access it unless there are exceptional circumstances. In the run-up to the budget, James Murray, the chief secretary to the Treasury, has written to ministers setting out a decision to clamp down on departments’ access to the reserve. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/08/uk-treasury-tells-ministers-not-to-expect-bailouts-from-its-reserve-fund",
-    "published": "2025-10-08T21:30:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/a9247e3ef6666679c906e7794a398560a1253c98/869_180_4106_3284/master/4106.jpg?width=140&quality=85&auto=format&fit=max&s=b95b6206c385241467d4212fe4d9c925",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
