@@ -5,8 +5,20 @@
     "title": "Man guilty of threatening to kill Nigel Farage",
     "summary": "The trial is taking place at Southwark Crown Court in London.",
     "url": "https://www.bbc.com/news/articles/cdx216n1529o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T13:20:56Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+    "published": "2025-10-10T14:11:24Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff4b/live/f5ed7220-a5dd-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-b8ae5819d0",
+    "source": "Politico — UK",
+    "title": "The Tory implosion offers a warning for both parties in America",
+    "summary": "Once the model for modern conservatism, Britain’s Tories are now flailing for relevance — and embracing Trump-style populism as a lifeline.",
+    "url": "http://politico.com/news/magazine/2025/10/10/tories-conservatives-trumpism-immigration-00600610?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-10T14:01:20Z",
+    "image_url": null,
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -14,11 +26,71 @@
   {
     "id": "The Guardian — UK-8e3101405b",
     "source": "The Guardian — UK",
-    "title": "Yvette Cooper defends children as young as 13 needing digital ID – UK politics live",
-    "summary": "Foreign secretary says it is ‘right way forward’ for young teenagers to have digital ID However, it wasn’t such a great night for the Lib Dems (or Labour or the Conservatives either) in the election for the Skelton East ward for Redcar and Cleveland council , where Reform UK set a new vote record with 65.3%, significantly ahead of Labour at 19.2% of the vote and the Conservative party (13.9%). The Lib Dems trailed, with only 1.5% of the vote. Reform’s biggest byelection win means they’ve gained a seat from the Tories. Continue reading...",
+    "title": "Yvette Cooper defends children as young as 13 needing digital ID – as it happened",
+    "summary": "This blog is now closed, you can read more of our UK political coverage here However, it wasn’t such a great night for the Lib Dems (or Labour or the Conservatives either) in the election for the Skelton East ward for Redcar and Cleveland council , where Reform UK set a new vote record with 65.3%, significantly ahead of Labour at 19.2% of the vote and the Conservative party (13.9%). The Lib Dems trailed, with only 1.5% of the vote. Reform’s biggest byelection win means they’ve gained a seat from the Tories. Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/oct/10/uk-politics-latest-live-news-labour-reform-plaid-cymru-snp-conservatives",
-    "published": "2025-10-10T13:12:53Z",
+    "published": "2025-10-10T14:01:11Z",
     "image_url": "https://i.guim.co.uk/img/media/b89470e423fed5c8dcd44a6d00b035bc70b45338/1004_279_1890_1512/master/1890.jpg?width=140&quality=85&auto=format&fit=max&s=57885289adfb4c09178c9f7f3536147f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a5b639c66f",
+    "source": "BBC — Top Stories",
+    "title": "EU's new border system being eased in from this weekend - what changes can UK travellers expect?",
+    "summary": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
+    "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T13:56:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eea5/live/1c47a510-89a2-11f0-9a26-53a7b49d8dfd.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-0b42589177",
+    "source": "The Guardian — UK",
+    "title": "Farage insists ex-Reform UK Wales leader convicted of bribery is ‘bad apple’",
+    "summary": "Farage said he was shocked by Nathan Gill’s admissions relating to pro-Russia statements Nigel Farage has insisted his party’s former leader in Wales who was convicted of taking pro-Russian bribes was a “bad apple” who betrayed him. The Reform UK leader was in Caerphilly campaigning for his candidate in a forthcoming Senedd byelection when he was asked about his links to Nathan Gill. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/10/nigel-farage-nathan-gill-ex-reform-uk-wales-leader-bribery-bad-apple",
+    "published": "2025-10-10T13:47:56Z",
+    "image_url": "https://i.guim.co.uk/img/media/79242ce748ee55e2eb8794f70e43d656b3bfeb38/193_79_3213_2571/master/3213.jpg?width=140&quality=85&auto=format&fit=max&s=381d9b2dc3ea71beb7bebebd9e3f00c5",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e3c184efc9",
+    "source": "BBC — Top Stories",
+    "title": "Alleged McCann stalker 'stunned' vigil organiser",
+    "summary": "Janet Kennedy says Julia Wandelt gave her an envelope at a vigil for missing Madeleine McCann.",
+    "url": "https://www.bbc.com/news/articles/c4gknrxdpy3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T13:45:58Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/313c/live/543892b0-a5b6-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-c8d52b5936",
+    "source": "The Guardian — UK",
+    "title": "Man convicted of 38 paedophile offences revealed as police informer who spied on UK activists",
+    "summary": "Trial of Nick Gratwick, 68, who schemed to rape children as young as six, exposes previous role among green protesters A man who schemed to rape children as young as six was revealed at his trial to have been a police informer who spied on environmental activists. Nick Gratwick, 68, was found guilty on Friday of 38 “abhorrent” paedophile offences, including plans over the last two years to pay to rape or sexually assault children in the UK and abroad. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/10/man-convicted-of-38-paedophile-offences-revealed-as-police-informer-who-spied-on-uk-activists",
+    "published": "2025-10-10T13:40:03Z",
+    "image_url": "https://i.guim.co.uk/img/media/032f48e3a8c99c7521658e6601b91e9de0845920/0_433_981_784/master/981.jpg?width=140&quality=85&auto=format&fit=max&s=7ebafa0ec1f490a8f46e9fd4d99d06e1",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-aadde73e58",
+    "source": "Politico — UK",
+    "title": "Latvia orders more than 800 Russian citizens to leave by mid-October",
+    "summary": "Russian citizens who failed to comply with Riga’s new immigration rules must leave by Oct. 13 or risk deportation.",
+    "url": "https://www.politico.eu/article/latvia-orders-800-russian-citizens-out-mid-october/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-10T13:35:57Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/13399144-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -72,18 +144,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e3c184efc9",
-    "source": "BBC — Top Stories",
-    "title": "Alleged McCann stalker 'stunned' vigil organiser",
-    "summary": "Janet Kennedy says Julia Wandelt gave her an envelope at a vigil for missing Madeleine McCann.",
-    "url": "https://www.bbc.com/news/articles/c4gknrxdpy3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T12:26:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/313c/live/543892b0-a5b6-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-ed0afc2c1d",
     "source": "BBC — Top Stories",
     "title": "Who are the 48 hostages still held in Gaza?",
@@ -122,23 +182,11 @@
   {
     "id": "BBC — Top Stories-da6d5eb3b8",
     "source": "BBC — Top Stories",
-    "title": "What's in the deal and when will the hostages be released?",
+    "title": "Aid, prisoner releases and US troops - what can we expect in phase one of the deal?",
     "summary": "Israeli troops have pulled back from parts of Gaza after Israel approved Donald Trump's ceasefire and hostage release plan.",
     "url": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T11:48:52Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c80/live/47137fa0-a5b1-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-00f8ec932f",
-    "source": "BBC — Top Stories",
-    "title": "Plaid ready to replace Welsh Labour, says leader",
-    "summary": "Plaid Cymru is ready to replace Welsh Labour at the next Senedd election, its leader will say later.",
-    "url": "https://www.bbc.com/news/articles/cewnv2xprzko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T11:26:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/846a/live/3e30fae0-a541-11f0-8303-d57b048c793f.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -216,13 +264,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-54e94ab5b3",
-    "source": "The Guardian — UK",
-    "title": "‘Clear parallels’ with Windrush as UK-born toddler denied passport",
-    "summary": "Campaigners say lessons not being learned as three-year-old’s mother is asked to prove right to free NHS treatment The UK has failed to learn lessons since the Windrush scandal, campaigners say, after a UK-born toddler was denied a British passport and asked to prove she has the right to free NHS treatment. Three-year-old Zharia-Rae’s mother, Tracy Ann Dunkley, has been a British citizen since 2024 and the child’s older brother, born to the same parents in 2020, was given a British passport in 2022. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/10/clear-parallels-with-windrush-as-uk-born-toddler-denied-passport",
-    "published": "2025-10-10T10:07:34Z",
-    "image_url": "https://i.guim.co.uk/img/media/4e57083a0b887d67e541910c092e23e70c99e45d/2454_154_5486_4389/master/5486.jpg?width=140&quality=85&auto=format&fit=max&s=72a988ce9129b79e95c65038493d5cf5",
+    "id": "BBC — Top Stories-d1a04f31f4",
+    "source": "BBC — Top Stories",
+    "title": "Actress Alex Kingston reveals womb cancer diagnosis",
+    "summary": "The Strictly and Doctor Who star says she had a hysterectomy and radiation therapy last year.",
+    "url": "https://www.bbc.com/news/articles/c4g5nl235jjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T10:07:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65f/live/2a7398f0-a5c3-11f0-add7-abf13599c13e.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -336,13 +384,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a5b639c66f",
-    "source": "BBC — Top Stories",
-    "title": "EU's new border system being eased in from this weekend - what changes can UK travellers expect?",
-    "summary": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
-    "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T07:44:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eea5/live/1c47a510-89a2-11f0-9a26-53a7b49d8dfd.png",
+    "id": "The Guardian — UK-c365a1ffca",
+    "source": "The Guardian — UK",
+    "title": "Starmer accused of pushing out some of last progressive allies in No 10 shake-up",
+    "summary": "Exclusive: PM reorganising key parts of government to give chief secretary Darren Jones more Whitehall control • UK politics live – latest updates Keir Starmer has been accused of pushing some of his last remaining progressive allies out of government as he embarks on another shake-up of his Downing Street operation designed to empower his chief secretary, Darren Jones. The prime minister is overseeing a reorganisation of several key parts of his government, including the delivery and policy units, to refocus the policy work and give Jones more direct control of the machinery of government. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/10/starmer-accused-pushing-out-progressive-allies-no-10-shake-up",
+    "published": "2025-10-10T07:50:15Z",
+    "image_url": "https://i.guim.co.uk/img/media/17c025211ab23ecccfb25bd78400ac57c393054c/56_54_1852_1482/master/1852.jpg?width=140&quality=85&auto=format&fit=max&s=0bd549d04ad78aa30446197a64db31bb",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -355,18 +403,6 @@
     "url": "https://www.bbc.com/news/articles/c2ej877g7w1o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T06:48:16Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/572e/live/8de9a860-a5a6-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-8586e7f63d",
-    "source": "Politico — UK",
-    "title": "Macron to meet with party leaders as rumors swirl he’ll reappoint outgoing PM",
-    "summary": "Speculation is rife that the French president could reappoint Lecornu to lead a technocratic government.",
-    "url": "https://www.politico.eu/article/emmanuel-macron-invitation-party-leaders-last-minute-talks-new-french-pm-deadline/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T06:46:02Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/13414929.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -396,6 +432,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-8ee4f7357b",
+    "source": "BBC — Top Stories",
+    "title": "Stop expecting perfection from us, Premier League referee Anthony Taylor says",
+    "summary": "In an interview with the BBC, referee Anthony Taylor criticises the \"expectation of perfection\" culture officials are subject to.",
+    "url": "https://www.bbc.com/sport/football/articles/c2dn9lkp0e5o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T05:00:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd1/live/598a6ff0-a510-11f0-ba60-dd95d022a9f0.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-659ec2034f",
     "source": "The Guardian — UK",
     "title": "Senior SNP figures believe Holyrood majority ‘within reach’ at May’s election",
@@ -403,18 +451,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/10/snp-holyrood-scottish-parliament-election-party-conference",
     "published": "2025-10-10T04:00:43Z",
     "image_url": "https://i.guim.co.uk/img/media/a62be5749a3a5afcf915231fd73ae9a72713a8e2/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e03e88ff2e2e796f3ed9689d8a59d746",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-21bf61d9e0",
-    "source": "Politico — UK",
-    "title": "Extra: Eure Kritik und wie dieser Podcast entsteht",
-    "summary": "Heute wird’s persönlich: keine Analyse, kein Interview, sondern Antworten auf euer Feedback. In dieser Sonderfolge spricht Gordon Repinski über Themenauswahl, die Idee hinter den 200-Sekunden-Interviews, kreative Erzählformen und einen umstrittenen Moment jeder Folge: den Geburtstag des Tages. Er erzählt, wie spontane Aufnahmen zwischen Brüssel, Berlin und Besenkammern entstehen, warum der Podcast manchmal mitten in der […]",
-    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/extra-eure-kritik-und-wie-dieser-podcast-entsteht/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T03:55:56Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/23/Berlin-Playbook-Website-Card57.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -492,18 +528,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-2914d1bf3f",
-    "source": "The Guardian — UK",
-    "title": "Phillipson presses Starmer and Reeves to abolish two-child benefit cap in full",
-    "summary": "Exclusive: education secretary tells the Guardian scrapping limit entirely in November’s budget most cost-effective way to tackle child poverty Phillipson on Gaza, child poverty and the deputy leadership race – Politics Weekly UK Bridget Phillipson is pushing the prime minister and chancellor to scrap the two-child benefit cap entirely in next month’s budget, with the education secretary telling the Guardian the evidence is clear that it needs to be removed. Phillipson, who is finalising a report to Keir Starmer and Rachel Reeves on child poverty, said abolishing the cap was the most cost effective way to make lives better for young disadvantaged people. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/09/phillipson-presses-starmer-and-reeves-to-abolish-two-child-benefit-cap-in-full",
-    "published": "2025-10-09T16:30:29Z",
-    "image_url": "https://i.guim.co.uk/img/media/922168ec85e98235bab5d28e82d5d2c09c5b631d/252_0_4023_3219/master/4023.jpg?width=140&quality=85&auto=format&fit=max&s=5b08e61e2e5b0cf53643bc43c4c88587",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-b385f86010",
     "source": "The Guardian — UK",
     "title": "Labour’s Bridget Phillipson on Gaza, child poverty and the deputy leadership race – podcast",
@@ -516,18 +540,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-c5dacce3c3",
-    "source": "The Guardian — UK",
-    "title": "Pub later-hours plan will not offset costs and wider difficulties, say landlords",
-    "summary": "Sector is sceptical over government licensing proposals given ‘ever-rising costs’ and ‘reduced consumer spend’ Plans to make it easier for pubs to open until the small hours will not offset the “toxic” combination of high costs and hard-up drinkers staying at home, industry figures have predicted, as they called for more help to cope with costs. The warning comes in response to government proposals to loosen licensing laws affecting pubs in England and Wales in order to boost “the British night out” and help the hospitality sector. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/09/uk-pubs-licensing-plan-costs-landlords",
-    "published": "2025-10-09T15:54:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/d3bb2a7e2bc86c283b0b557c2b13acd9ca15e28d/531_0_4337_3471/master/4337.jpg?width=140&quality=85&auto=format&fit=max&s=a3e22d984b44c4f402694f6739af56e4",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-27b18b731a",
     "source": "The Guardian — UK",
     "title": "Starmer enters parallel universe as red carpet rolled out in India amid trade deal",
@@ -535,18 +547,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/09/starmer-enters-parallel-universe-as-red-carpet-pulled-out-in-india-amid-trade-deal",
     "published": "2025-10-09T15:37:47Z",
     "image_url": "https://i.guim.co.uk/img/media/a9b76c4a21fce06d4e77395667fbf91edc183bdc/413_0_6306_5048/master/6306.jpg?width=140&quality=85&auto=format&fit=max&s=f6d1df7c8bf794786f940cbeb145fc6d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6b5474152f",
-    "source": "BBC — Top Stories",
-    "title": "Jeremy Bowen: There's now a realistic chance of ending the war - but it's not over yet",
-    "summary": "For the first time since the Hamas attacks on Israel two years ago, there is a realistic chance of ending the horrors",
-    "url": "https://www.bbc.com/news/articles/cn5q04yr345o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T15:05:36Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc85/live/3bbc10d0-a521-11f0-b741-177e3e2c2fc7.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
