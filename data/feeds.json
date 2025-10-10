@@ -1,5 +1,53 @@
 [
   {
+    "id": "BBC — Top Stories-9bcc918b0c",
+    "source": "BBC — Top Stories",
+    "title": "Man guilty of threatening to kill Nigel Farage",
+    "summary": "The trial is taking place at Southwark Crown Court in London.",
+    "url": "https://www.bbc.com/news/articles/cdx216n1529o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T13:20:56Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-8e3101405b",
+    "source": "The Guardian — UK",
+    "title": "Yvette Cooper defends children as young as 13 needing digital ID – UK politics live",
+    "summary": "Foreign secretary says it is ‘right way forward’ for young teenagers to have digital ID However, it wasn’t such a great night for the Lib Dems (or Labour or the Conservatives either) in the election for the Skelton East ward for Redcar and Cleveland council , where Reform UK set a new vote record with 65.3%, significantly ahead of Labour at 19.2% of the vote and the Conservative party (13.9%). The Lib Dems trailed, with only 1.5% of the vote. Reform’s biggest byelection win means they’ve gained a seat from the Tories. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/10/uk-politics-latest-live-news-labour-reform-plaid-cymru-snp-conservatives",
+    "published": "2025-10-10T13:12:53Z",
+    "image_url": "https://i.guim.co.uk/img/media/b89470e423fed5c8dcd44a6d00b035bc70b45338/1004_279_1890_1512/master/1890.jpg?width=140&quality=85&auto=format&fit=max&s=57885289adfb4c09178c9f7f3536147f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-abbe1e511b",
+    "source": "BBC — Top Stories",
+    "title": "Gregg Wallace claims BBC caused him 'distress and harassment'",
+    "summary": "The former MasterChef presenter is seeking up to £10,000 in damages from the BBC, court documents show.",
+    "url": "https://www.bbc.com/news/articles/cg7dlem0vdno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T13:07:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0662/live/570e42c0-a5c8-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-1075bed35d",
+    "source": "The Guardian — UK",
+    "title": "High street slot machine shops pay staff bonuses linked to how much gamblers lose",
+    "summary": "Exclusive: MPs and campaigners condemn ‘appalling’ reward scheme for Merkur venue managers High street slot machine shops are paying their staff bonuses linked to how much gamblers lose, the Guardian has learned, prompting condemnation of the “appalling” reward scheme from MPs and campaigners. A network of 1,451 “adult gaming centres” (AGCs), most of which are open 24 hours a day, has spread through the UK in recent years, concentrated in the most economically deprived areas . Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/oct/10/high-street-slot-machine-shops-pay-staff-bonuses-linked-to-how-much-gamblers-lose",
+    "published": "2025-10-10T13:06:50Z",
+    "image_url": "https://i.guim.co.uk/img/media/f6f947e83eae0faf09d76f487ce04da8d4cce669/805_0_6713_5373/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=6adac3128b2cf392c73ebf01375f8fd8",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-12b1316024",
     "source": "Politico — UK",
     "title": "Von der Leyen won’t suspend Hungary’s commissioner amid spy affair allegations",
@@ -43,18 +91,6 @@
     "url": "https://www.bbc.com/news/articles/cpvl9k4mw8no?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T12:26:22Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b600/live/0a160040-a5d0-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-8e3101405b",
-    "source": "The Guardian — UK",
-    "title": "Yvette Cooper defends children as young as 13 needing digital ID – UK politics live",
-    "summary": "Foreign secretary says it is ‘right way forward’ for young teenagers to have digital ID However, it wasn’t such a great night for the Lib Dems (or Labour or the Conservatives either) in the election for the Skelton East ward for Redcar and Cleveland council , where Reform UK set a new vote record with 65.3%, significantly ahead of Labour at 19.2% of the vote and the Conservative party (13.9%). The Lib Dems trailed, with only 1.5% of the vote. Reform’s biggest byelection win means they’ve gained a seat from the Tories. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/10/uk-politics-latest-live-news-labour-reform-plaid-cymru-snp-conservatives",
-    "published": "2025-10-10T12:19:52Z",
-    "image_url": "https://i.guim.co.uk/img/media/b89470e423fed5c8dcd44a6d00b035bc70b45338/1004_279_1890_1512/master/1890.jpg?width=140&quality=85&auto=format&fit=max&s=57885289adfb4c09178c9f7f3536147f",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -115,18 +151,6 @@
     "url": "https://www.bbc.com/news/articles/cdr612yz8p0o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T11:15:52Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f529/live/5eea1410-a5c3-11f0-add7-abf13599c13e.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9ccb5a6f7a",
-    "source": "BBC — Top Stories",
-    "title": "Government to consult on digital IDs for 13-year-olds",
-    "summary": "There has been a backlash to the announcement a UK-wide digital ID scheme will be introduced by 2029.",
-    "url": "https://www.bbc.com/news/articles/czjvrgd48evo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T11:13:18Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7293/live/170fd9e0-a5af-11f0-bce4-d9d16b79c0d6.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -312,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-c365a1ffca",
-    "source": "The Guardian — UK",
-    "title": "Starmer accused of pushing out some of last progressive allies in No 10 shake-up",
-    "summary": "Exclusive: PM reorganising key parts of government to give chief secretary Darren Jones more Whitehall control • UK politics live – latest updates Keir Starmer has been accused of pushing some of his last remaining progressive allies out of government as he embarks on another shake-up of his Downing Street operation designed to empower his chief secretary, Darren Jones. The prime minister is overseeing a reorganisation of several key parts of his government, including the delivery and policy units, to refocus the policy work and give Jones more direct control of the machinery of government. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/10/starmer-accused-pushing-out-progressive-allies-no-10-shake-up",
-    "published": "2025-10-10T07:50:15Z",
-    "image_url": "https://i.guim.co.uk/img/media/17c025211ab23ecccfb25bd78400ac57c393054c/56_54_1852_1482/master/1852.jpg?width=140&quality=85&auto=format&fit=max&s=0bd549d04ad78aa30446197a64db31bb",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-a5b639c66f",
     "source": "BBC — Top Stories",
     "title": "EU's new border system being eased in from this weekend - what changes can UK travellers expect?",
@@ -379,18 +391,6 @@
     "url": "https://www.theguardian.com/news/2025/oct/10/with-most-mps-ignorant-of-the-urgency-how-can-the-uk-ever-reach-net-zero",
     "published": "2025-10-10T05:00:44Z",
     "image_url": "https://i.guim.co.uk/img/media/a9eea0f63a47f0852f2fa20c081f1305e4a32bea/575_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b0e2f8cf19903d2191ec13ffea5ac65b",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4741537813",
-    "source": "BBC — Top Stories",
-    "title": "Woman found dead on Dutch beach named after 21 years",
-    "summary": "An Interpol-led operation has identified German citizen Eva Maria Pommer after a police tip-off.",
-    "url": "https://www.bbc.com/news/articles/cpq5r9epd4qo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T04:01:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c60/live/c000d5c0-a5b1-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
