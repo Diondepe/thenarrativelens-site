@@ -1,12 +1,96 @@
 [
   {
+    "id": "The Guardian — UK-54e94ab5b3",
+    "source": "The Guardian — UK",
+    "title": "‘Clear parallels’ with Windrush as UK-born toddler denied passport",
+    "summary": "Campaigners say lessons not being learned as three-year-old’s mother is asked to prove right to free NHS treatment The UK has failed to learn lessons since the Windrush scandal, campaigners say, after a UK-born toddler was denied a British passport and asked to prove she has the right to free NHS treatment. Three-year-old Zharia-Rae’s mother, Tracy Ann Dunkley, has been a British citizen since 2024 and the child’s older brother, born to the same parents in 2020, was given a British passport in 2022. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/10/clear-parallels-with-windrush-as-uk-born-toddler-denied-passport",
+    "published": "2025-10-10T10:07:34Z",
+    "image_url": "https://i.guim.co.uk/img/media/4e57083a0b887d67e541910c092e23e70c99e45d/2454_154_5486_4389/master/5486.jpg?width=140&quality=85&auto=format&fit=max&s=72a988ce9129b79e95c65038493d5cf5",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-8e3101405b",
     "source": "The Guardian — UK",
     "title": "Yvette Cooper defends children as young as 13 needing digital ID – UK politics live",
-    "summary": "Foreign secretary says it is ‘right way forward’ for young teenagers to have digital ID Bridget Phillipson is pushing the prime minister and chancellor to scrap the two-child benefit cap entirely in next month’s budget, with the education secretary telling the Guardian the evidence is clear that it needs to be removed. Phillipson, who is finalising a report to Keir Starmer and Rachel Reeves on child poverty, said abolishing the cap was the most cost effective way to make lives better for young disadvantaged people. I’ve been clear in public and in conversations with colleagues about what the evidence tells us and what needs to happen. Every year that passes, because of the two-child limit, more children move into poverty and the evidence is there for all to see. I have pushed to take action ahead of the budget – and that’s why we’re expanding free school meals, which will lift 100,000 children out of poverty – but there is more to do. That is why I’m seeking a mandate from members to do more. Continue reading...",
+    "summary": "Foreign secretary says it is ‘right way forward’ for young teenagers to have digital ID However, it wasn’t such a great night for the Lib Dems (or Labour or the Conservatives either) in the election for the Skelton East ward for Redcar and Cleveland council , where Reform UK set a new vote record with 65.3%, significantly ahead of Labour at 19.2% of the vote and the Conservative party (13.9%). The Lib Dems trailed, with only 1.5% of the vote. Reform’s biggest byelection win means they’ve gained a seat from the Tories. Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/oct/10/uk-politics-latest-live-news-labour-reform-plaid-cymru-snp-conservatives",
-    "published": "2025-10-10T09:10:26Z",
+    "published": "2025-10-10T09:59:22Z",
     "image_url": "https://i.guim.co.uk/img/media/b89470e423fed5c8dcd44a6d00b035bc70b45338/1004_279_1890_1512/master/1890.jpg?width=140&quality=85&auto=format&fit=max&s=57885289adfb4c09178c9f7f3536147f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-685a83a519",
+    "source": "BBC — Top Stories",
+    "title": "US to send 200 troops to Israel to monitor ceasefire",
+    "summary": "The US will establish a multinational force in Israel, likely to include troops from Egypt, Qatar, Turkey and the UAE, officials say.",
+    "url": "https://www.bbc.com/news/articles/cpvl97r4e8jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T09:58:12Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b586/live/1609fe70-a5b6-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9ccb5a6f7a",
+    "source": "BBC — Top Stories",
+    "title": "Government to consult on digital IDs for 13-year-olds",
+    "summary": "There has been a backlash to the announcement a UK-wide digital ID scheme will be introduced by 2029.",
+    "url": "https://www.bbc.com/news/articles/czjvrgd48evo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T09:57:26Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7293/live/170fd9e0-a5af-11f0-bce4-d9d16b79c0d6.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-97530d48d6",
+    "source": "Politico — UK",
+    "title": "Google faces UK restrictions over search dominance",
+    "summary": "LONDON — Google has “substantial and entrenched market power” in online search meaning it will likely face restrictions in the U.K. to curb its dominance, the country’s competition watchdog confirmed Friday. The Competition and Markets Authority (CMA) said it would designate Google with “strategic market status” for search and search advertising, the first time it has […]",
+    "url": "https://www.politico.eu/article/7307772/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-10T09:36:17Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-1496939217-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-da6d5eb3b8",
+    "source": "BBC — Top Stories",
+    "title": "What's in the deal and when will the hostages be released?",
+    "summary": "Israeli troops have pulled back from parts of Gaza after Israel approved Donald Trump's ceasefire and hostage release plan.",
+    "url": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T09:32:57Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c80/live/47137fa0-a5b1-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-2e41809dc8",
+    "source": "The Guardian — UK",
+    "title": "Former British diplomat challenges Palestine Action ban in Scotland",
+    "summary": "Craig Murray argues proscription order contravenes rights to freedom of speech under European convention of human rights A former British diplomat has served a petition challenging the ban on Palestine Action in Scotland. The case, brought by Craig Murray, is separate to the judicial review of the proscription decision being brought at the high court in London and could lead to a situation whereby the ban is ruled unlawful in Scotland but not in England and Wales. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/10/former-british-diplomat-craig-murray-challenges-palestine-action-ban-scotland",
+    "published": "2025-10-10T09:30:50Z",
+    "image_url": "https://i.guim.co.uk/img/media/a1bdfb6b8913c4cc82d5f51decaf49cdb4b0127a/626_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e075dee57a1bb67cab3f0d91561544ae",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-96c3d7cd76",
+    "source": "BBC — Top Stories",
+    "title": "Lawyer who prosecuted Trump faces fraud charges herself - here's what we know",
+    "summary": "US President Donald Trump ordered his officials to pursue his political foe, who denies any wrongdoing.",
+    "url": "https://www.bbc.com/news/articles/c237jpgn5kyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T09:09:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b2a/live/e543e020-a5c0-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -15,7 +99,7 @@
     "id": "Politico — UK-6c73af9f0d",
     "source": "Politico — UK",
     "title": "Nobel Peace Prize goes to Venezuelan opposition leader despite Trump lobbying",
-    "summary": "María Corina Machado won for her years spent \"working for the freedom of the Venezuelan people,\" according to the Nobel committee chairman",
+    "summary": "María Corina Machado won for her years spent \"working for the freedom of the Venezuelan people,\" according to the Nobel Committee chairman",
     "url": "https://www.politico.eu/article/nobel-peace-prize-goes-to-venezuelan-opposition-leader-despite-trump-lobbying/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-10T09:08:27Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2192558653-scaled.jpg",
@@ -96,18 +180,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-da6d5eb3b8",
-    "source": "BBC — Top Stories",
-    "title": "What's in the deal and when will the hostages be released?",
-    "summary": "Israel's government approved Donald Trump's Gaza ceasefire and hostage release plan early on Friday.",
-    "url": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T07:06:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c80/live/47137fa0-a5b1-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-eedb8515f0",
     "source": "BBC — Top Stories",
     "title": "William visibly moved as widow tells of husband's suicide",
@@ -156,18 +228,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-d1d7a0bafd",
-    "source": "BBC — Top Stories",
-    "title": "Landlords exposed flouting law on Airbnb",
-    "summary": "Duplicate short-term rental listings \"pile pressure\" on London's housing market, it is claimed.",
-    "url": "https://www.bbc.com/news/articles/cvg96rz9061o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T05:01:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d7/live/729229c0-94ad-11f0-a170-65cdc956211e.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-a5da700acf",
     "source": "The Guardian — UK",
     "title": "Ty Bouncers and food toys tipped to be must-have Christmas presents",
@@ -199,18 +259,6 @@
     "url": "https://www.bbc.com/sport/football/articles/c2dn9lkp0e5o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T05:00:04Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd1/live/598a6ff0-a510-11f0-ba60-dd95d022a9f0.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-808336d37e",
-    "source": "BBC — Top Stories",
-    "title": "The Papers: 'Peace within reach' and 'A moment of shared hope'",
-    "summary": "The ceasefire negotiations for the Israel-Gaza war and celebrations of peace dominate Friday's papers.",
-    "url": "https://www.bbc.com/news/articles/c4g2n911k73o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T04:46:47Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad6a/live/411fe1d0-a55f-11f0-92db-77261a15b9d2.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -264,18 +312,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-93eacd2389",
-    "source": "BBC — Top Stories",
-    "title": "New York’s top prosecutor charged with fraud after Trump pressures justice department",
-    "summary": "Letitia James, who led a civil fraud case against the US president, is indicted in Alexandria, Virginia.",
-    "url": "https://www.bbc.com/news/articles/c4g9n4xj904o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T02:17:58Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e680/live/03955d50-a581-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-a93041f672",
     "source": "Politico — UK",
     "title": "EU refuses to bow to Trump demands to tear up business rules",
@@ -307,18 +343,6 @@
     "url": "https://www.politico.eu/podcast/westminster-insider/inside-party-conference-where-next-for-the-tories/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-10T02:01:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/03/28/Westminster-Insider-Website-Card.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-2ed32c74ad",
-    "source": "Politico — UK",
-    "title": "Trump suggests booting ‘laggard’ Spain from NATO over defense spending",
-    "summary": "The U.S. president demanded that alliance members allocate 5 percent of GDP to defense spending. Spain was the only country to refuse to commit to the benchmark.",
-    "url": "https://www.politico.eu/article/trump-suggests-booting-laggard-spain-from-nato-over-defense-spending/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T02:01:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/13415914-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -362,7 +386,7 @@
   {
     "id": "BBC — Top Stories-267d14c802",
     "source": "BBC — Top Stories",
-    "title": "Four ways being in nature can boost your health",
+    "title": "How 20 minutes in nature can boost your health",
     "summary": "Spending just 20 minutes in nature can lower blood pressure, heart rate and stress levels.",
     "url": "https://www.bbc.com/news/articles/cvg0yvdjgn5o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-09T23:45:15Z",
@@ -427,18 +451,6 @@
     "url": "https://www.bbc.com/news/articles/cj3yke64vp6o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-09T21:09:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3234/live/7769f100-a54a-11f0-b8ec-574ff83ad78e.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-c87e7eeac3",
-    "source": "The Guardian — UK",
-    "title": "Man rearrested at Manchester airport after synagogue attack detention",
-    "summary": "Police arrest 30-year-old on suspicion of failing to disclose information about potential terrorist acts A 30-year-old man arrested over the Manchester synagogue attack has been rearrested at an airport shortly after being released. Counter-terror police detained the man at Manchester airport on Thursday on suspicion of failing to disclose information about potential terrorist acts. The arrest came within 24 hours of the man being released from custody, where he had been held since the attack at Heaton Park synagogue on Yom Kippur last Thursday. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/09/man-rearrested-at-manchester-airport-after-synagogue-attack-detention",
-    "published": "2025-10-09T19:01:57Z",
-    "image_url": "https://i.guim.co.uk/img/media/dd5defba3ab642867fa2aac07c760aa883c5697e/1015_0_6098_4878/master/6098.jpg?width=140&quality=85&auto=format&fit=max&s=7f567ad9acc6555000e3390f122fdcda",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,18 +547,6 @@
     "url": "https://www.bbc.com/news/articles/cn5q04yr345o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-09T15:05:36Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc85/live/3bbc10d0-a521-11f0-b741-177e3e2c2fc7.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-7d1603b7f8",
-    "source": "The Guardian — UK",
-    "title": "Plaid Cymru leader predicts two-horse race with Reform in Welsh elections",
-    "summary": "Rhun ap Iorwerth says 2026 Senedd vote will pitch vision against division but will not be a poll on independence The leader of Plaid Cymru, Rhun ap Iorwerth, has said next year’s Welsh parliament elections will be a two-horse race between his party and Reform UK. Ap Iorwerth said voters could choose to back Plaid’s vision of a progressive Wales or face the division upon which Reform thrives. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/09/plaid-cymru-leader-rhun-ap-iorwerth-predicts-two-horse-race-with-reform-in-welsh-elections",
-    "published": "2025-10-09T15:03:55Z",
-    "image_url": "https://i.guim.co.uk/img/media/83605d4c4f758cef6904bafe8f825f4216162403/944_58_4068_3256/master/4068.jpg?width=140&quality=85&auto=format&fit=max&s=c17de3e359daeec314aa2065eb7fc7f9",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
