@@ -1,5 +1,89 @@
 [
   {
+    "id": "BBC — Top Stories-9ccb5a6f7a",
+    "source": "BBC — Top Stories",
+    "title": "Government to consult on digital IDs for 13-year-olds",
+    "summary": "There has been a backlash to the announcement a UK-wide digital ID scheme will be introduced by 2029.",
+    "url": "https://www.bbc.com/news/articles/czjvrgd48evo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T11:13:18Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7293/live/170fd9e0-a5af-11f0-bce4-d9d16b79c0d6.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-e0f9729e06",
+    "source": "Politico — UK",
+    "title": "Gaza ceasefire has started, Israel announces",
+    "summary": "U.S. President's Donald Trump's inner circle helped get the deal over the line.",
+    "url": "https://www.politico.eu/article/israel-withdraws-first-troops-gaza-ceasefire-effect/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-10T11:11:18Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2239668675-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-04dffd1dc3",
+    "source": "The Guardian — UK",
+    "title": "Millions of older Britons likely to have undiagnosed sensory problems, study finds",
+    "summary": "Those affected at risk of falls, mental ill-health and leading socially restricted lives, say doctors Millions of people aged 50 or over in the UK are predicted to have undiagnosed sight or hearing problems, prompting calls for that age group to have checkups more regularly. Doctors involved in the related research said the findings were “deeply concerning”, and warned that those affected were at risk of falls, mental ill-health and leading socially restricted lives. 6.7 million people in the UK aged 50 or over have trouble seeing out of one or both eyes 2.4 million of them are visually impaired in one eye 20.3 million people have some form of hearing loss in one or both ears 7.7 million people cannot hear clearly with both ears Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/10/millions-of-older-britons-likely-to-have-undiagnosed-sensory-problems-study-finds",
+    "published": "2025-10-10T11:11:03Z",
+    "image_url": "https://i.guim.co.uk/img/media/bca53ff6977c15761bb3f14da91b0eeed525e7d6/407_0_4200_3360/master/4200.jpg?width=140&quality=85&auto=format&fit=max&s=65f763cc2555012de44ca00de540c32d",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-8e3101405b",
+    "source": "The Guardian — UK",
+    "title": "Yvette Cooper defends children as young as 13 needing digital ID – UK politics live",
+    "summary": "Foreign secretary says it is ‘right way forward’ for young teenagers to have digital ID However, it wasn’t such a great night for the Lib Dems (or Labour or the Conservatives either) in the election for the Skelton East ward for Redcar and Cleveland council , where Reform UK set a new vote record with 65.3%, significantly ahead of Labour at 19.2% of the vote and the Conservative party (13.9%). The Lib Dems trailed, with only 1.5% of the vote. Reform’s biggest byelection win means they’ve gained a seat from the Tories. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/10/uk-politics-latest-live-news-labour-reform-plaid-cymru-snp-conservatives",
+    "published": "2025-10-10T11:07:36Z",
+    "image_url": "https://i.guim.co.uk/img/media/b89470e423fed5c8dcd44a6d00b035bc70b45338/1004_279_1890_1512/master/1890.jpg?width=140&quality=85&auto=format&fit=max&s=57885289adfb4c09178c9f7f3536147f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-09b38a0364",
+    "source": "The Guardian — UK",
+    "title": "Google given special status by watchdog that could force it to change UK search",
+    "summary": "CMA puts Google under tighter regulation with ‘strategic market status’ designation and can enforce changes Business live – latest updates Google faces enforced changes to its UK search business after the competition watchdog conferred a special status on the company that puts it under tighter regulation. The Competition and Market Authority (CMA) confirmed that Google has “strategic market status” (SMS) in search and search advertising, a term that means the company has such market power that it requires a special regulatory regime. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2025/oct/10/google-given-special-status-by-watchdog-that-could-force-it-to-change-uk-search",
+    "published": "2025-10-10T10:53:32Z",
+    "image_url": "https://i.guim.co.uk/img/media/b7b03c1c42171d9fb98477f4065f72cac9abc166/400_0_4208_3366/master/4208.jpg?width=140&quality=85&auto=format&fit=max&s=e39bffcde24e9780e1354494fcc8e98d",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e053aca122",
+    "source": "The Guardian — UK",
+    "title": "Richard Tice has 15-year record of supporting ‘net stupid zero’ initiatives",
+    "summary": "Firms led by deputy Reform UK leader since 2011 have shown commitment to saving energy and cutting CO 2 emissions UK politics live – latest updates He never seems to tire of deriding “net stupid zero”, but Reform UK’s deputy leader, Richard Tice, has a 15-year business record of support for sustainability and green energy initiatives. The Reform party has made opposition to green energy and net zero part of its policy platform. Its founder, Nigel Farage, has called net zero policies a “lunacy” ; the party has called to lift the ban on fracking for fossil gas; and one of the first Reform-led councils, Kent, rescinded last month its declaration of a climate emergency . Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/10/richard-tice-15-year-business-record-supporting-net-stupid-zero",
+    "published": "2025-10-10T10:19:57Z",
+    "image_url": "https://i.guim.co.uk/img/media/613797cdc389b1d14657ab10af312217bde96e19/720_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=b96fd5ee33c675c14bec082f8c60fcd1",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d1a04f31f4",
+    "source": "BBC — Top Stories",
+    "title": "Actress Alex Kingston reveals womb cancer diagnosis",
+    "summary": "The Strictly and Doctor Who star says she had a hysterectomy and radiation therapy last year.",
+    "url": "https://www.bbc.com/news/articles/c4g5nl235jjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T10:07:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65f/live/2a7398f0-a5c3-11f0-add7-abf13599c13e.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-54e94ab5b3",
     "source": "The Guardian — UK",
     "title": "‘Clear parallels’ with Windrush as UK-born toddler denied passport",
@@ -12,18 +96,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-8e3101405b",
-    "source": "The Guardian — UK",
-    "title": "Yvette Cooper defends children as young as 13 needing digital ID – UK politics live",
-    "summary": "Foreign secretary says it is ‘right way forward’ for young teenagers to have digital ID However, it wasn’t such a great night for the Lib Dems (or Labour or the Conservatives either) in the election for the Skelton East ward for Redcar and Cleveland council , where Reform UK set a new vote record with 65.3%, significantly ahead of Labour at 19.2% of the vote and the Conservative party (13.9%). The Lib Dems trailed, with only 1.5% of the vote. Reform’s biggest byelection win means they’ve gained a seat from the Tories. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/10/uk-politics-latest-live-news-labour-reform-plaid-cymru-snp-conservatives",
-    "published": "2025-10-10T09:59:22Z",
-    "image_url": "https://i.guim.co.uk/img/media/b89470e423fed5c8dcd44a6d00b035bc70b45338/1004_279_1890_1512/master/1890.jpg?width=140&quality=85&auto=format&fit=max&s=57885289adfb4c09178c9f7f3536147f",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-685a83a519",
     "source": "BBC — Top Stories",
     "title": "US to send 200 troops to Israel to monitor ceasefire",
@@ -31,18 +103,6 @@
     "url": "https://www.bbc.com/news/articles/cpvl97r4e8jo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T09:58:12Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b586/live/1609fe70-a5b6-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9ccb5a6f7a",
-    "source": "BBC — Top Stories",
-    "title": "Government to consult on digital IDs for 13-year-olds",
-    "summary": "There has been a backlash to the announcement a UK-wide digital ID scheme will be introduced by 2029.",
-    "url": "https://www.bbc.com/news/articles/czjvrgd48evo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T09:57:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7293/live/170fd9e0-a5af-11f0-bce4-d9d16b79c0d6.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -90,7 +150,7 @@
     "summary": "US President Donald Trump ordered his officials to pursue his political foe, who denies any wrongdoing.",
     "url": "https://www.bbc.com/news/articles/c237jpgn5kyo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T09:09:23Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b2a/live/e543e020-a5c0-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ca0/live/eff12750-a5c3-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -115,18 +175,6 @@
     "url": "https://www.politico.eu/article/russia-bombardments-ukraine-overnight-crippling-energy-infrastructure/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-10T08:44:19Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2238829082.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-608126bf6a",
-    "source": "BBC — Top Stories",
-    "title": "Thousands more university jobs cut as financial crisis deepens",
-    "summary": "University workers will vote on national strike action this month over a 1.4% pay offer made in the summer.",
-    "url": "https://www.bbc.com/news/articles/cp3ve5jegkvo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T08:14:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6afc/live/e9db0200-a5a0-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -228,6 +276,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-00f8ec932f",
+    "source": "BBC — Top Stories",
+    "title": "Plaid ready to replace Welsh Labour, says leader",
+    "summary": "Plaid Cymru is ready to replace Welsh Labour at the next Senedd election, its leader will say later.",
+    "url": "https://www.bbc.com/news/articles/cewnv2xprzko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T05:03:17Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/846a/live/3e30fae0-a541-11f0-8303-d57b048c793f.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-a5da700acf",
     "source": "The Guardian — UK",
     "title": "Ty Bouncers and food toys tipped to be must-have Christmas presents",
@@ -252,18 +312,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-8ee4f7357b",
-    "source": "BBC — Top Stories",
-    "title": "Stop expecting perfection from us, Premier League referee Anthony Taylor says",
-    "summary": "In an interview with the BBC, referee Anthony Taylor criticises the \"expectation of perfection\" culture officials are subject to.",
-    "url": "https://www.bbc.com/sport/football/articles/c2dn9lkp0e5o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T05:00:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd1/live/598a6ff0-a510-11f0-ba60-dd95d022a9f0.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-4741537813",
     "source": "BBC — Top Stories",
     "title": "Woman found dead on Dutch beach named after 21 years",
@@ -271,18 +319,6 @@
     "url": "https://www.bbc.com/news/articles/cpq5r9epd4qo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T04:01:54Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c60/live/c000d5c0-a5b1-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-659ec2034f",
-    "source": "The Guardian — UK",
-    "title": "Senior SNP figures believe Holyrood majority ‘within reach’ at May’s election",
-    "summary": "As party gathers for conference, re-engaging independence supporters seen as way forward after trust in Scottish government hits record low Senior Scottish National party strategists believe a majority at next year’s Holyrood elections is “within reach” despite failing public trust in Scotland’s government as they focus in on the “battleground cohort” of independence supporters who have drifted away from the SNP. Before the party’s annual conference in Aberdeen this weekend, one senior source said the path to a majority – by winning 65 seats or more – was “more straightforward now” than it had been for a long time because of the Tory collapse and Labour’s unpopularity. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/10/snp-holyrood-scottish-parliament-election-party-conference",
-    "published": "2025-10-10T04:00:43Z",
-    "image_url": "https://i.guim.co.uk/img/media/a62be5749a3a5afcf915231fd73ae9a72713a8e2/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e03e88ff2e2e796f3ed9689d8a59d746",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -331,18 +367,6 @@
     "url": "https://www.politico.eu/article/game-of-gnomes-politics-donald-trump-europe-parliament/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-10T02:02:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/09/GettyImages-2202279754.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-1348c7fd62",
-    "source": "Politico — UK",
-    "title": "Inside Party Conference: Where next for the Tories?",
-    "summary": "With dire poll ratings and Reform UK in the ascendancy, Kemi Badenoch’s well-received speech at party conference provided a rare moment of optimism for the Conservatives. But where are they headed next? Host Patrick Baker has been behind-the-scenes of Conservative Party conference in Manchester, on a mission to find out. From the control center – A.K.A. the Politico Pub at […]",
-    "url": "https://www.politico.eu/podcast/westminster-insider/inside-party-conference-where-next-for-the-tories/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T02:01:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/03/28/Westminster-Insider-Website-Card.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -403,30 +427,6 @@
     "url": "https://www.bbc.com/news/articles/c1edwzpdlx4o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-09T22:57:02Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1603/live/b3ed7310-a5a7-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-cebbccd70a",
-    "source": "The Guardian — UK",
-    "title": "Further arrests made over ‘shocking’ arson attack on Peacehaven mosque",
-    "summary": "Four people have so far been arrested as part of police investigation into attack in East Sussex, which caused ‘significant damage’ Police have made further arrests over an arson attack on a mosque in East Sussex. The building in Phyllis Avenue, Peacehaven was badly damaged by the fire at about 9.50pm on Saturday. Nobody was injured, but police said “significant damage” was caused to the front of the building and a nearby vehicle. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/09/further-arrests-made-over-shocking-arson-attack-on-peacehaven-mosque",
-    "published": "2025-10-09T22:40:59Z",
-    "image_url": "https://i.guim.co.uk/img/media/1bcbf8c9d40cd3e66451571983fa16d8994c70fd/167_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=106c8d09f4c4935a2cbb529257329341",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-78eeb8854a",
-    "source": "The Guardian — UK",
-    "title": "Hamas and Israel prepare to implement ceasefire as Netanyahu says deal approved by government",
-    "summary": "Israel’s government ratified the ceasefire and hostage deal on Friday, clearing the way to suspend hostilities in Gaza within 24 hours • Gaza ceasefire – live updates Israelis and Palestinians celebrated on Thursday night as Hamas and Israel’s government began preparations to implement a ceasefire deal that promises a durable end to a bloody two-year conflict that has killed tens of thousands, destabilised much of the Middle East and prompted protests around the world. In Gaza, there was joy but much anxiety. Many expressed the fear that the new deal would collapse, bringing more suffering to the devastated territory. Though crowds gathered in some places to dance and sing, in many places witnesses reported muted reaction amid loud overflights by warplanes and drones. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/09/joy-and-anxiety-as-hamas-and-israel-prepare-to-implement-ceasefire-deal",
-    "published": "2025-10-09T22:36:17Z",
-    "image_url": "https://i.guim.co.uk/img/media/ac1babc39647947640e9097dc52d3072092c055f/108_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=8b8843c8169fb98e53332db8d3cdbf83",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
