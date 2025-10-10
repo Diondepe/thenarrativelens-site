@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-e5c7372402",
+    "source": "BBC — Top Stories",
+    "title": "Tech billionaires seem to be doom prepping. Should we all be worried?",
+    "summary": "The debate is ramping up about what happens if - or when - computer intelligence overtakes humans",
+    "url": "https://www.bbc.com/news/articles/cly17834524o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T06:10:40Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2abb/live/00b3aff0-9f88-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-ac68de96f0",
+    "source": "The Guardian — UK",
+    "title": "Foreign Office chief to visit China after collapse of high-profile espionage case",
+    "summary": "Exclusive: Oliver Robbins to visit China next week on ‘long-planned’ government business after collapse of trial of two men over spying charges The head of the Foreign Office will travel to China next week as ministers come under pressure over the collapse of a high-profile espionage case , the Guardian can disclose. Oliver Robbins, who as permanent secretary of the Foreign, Commonwealth and Development Office (FCDO) is its most senior civil servant, will visit China on “long-planned” government business. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/10/foreign-office-chief-to-visit-china-after-collapse-of-high-profile-espionage-case",
+    "published": "2025-10-10T06:00:47Z",
+    "image_url": "https://i.guim.co.uk/img/media/640bb4f8ada39f2ae1518be76705f3bca1b8677a/8_0_2233_1786/master/2233.jpg?width=140&quality=85&auto=format&fit=max&s=ebb7eff7bc22711ea60a7e0aef56dbe2",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1f34b184a3",
+    "source": "BBC — Top Stories",
+    "title": "Major Russian strikes cut power across Kyiv",
+    "summary": "Drone and missile strikes caused blackouts in Kyiv and killed a seven-year-old in Ukraine's south-east, officials say.",
+    "url": "https://www.bbc.com/news/articles/cvgq2vnxzlvo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T05:57:11Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5597/live/6f1f34d0-a59d-11f0-b3f8-1f6f33edd2b1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-00f8ec932f",
     "source": "BBC — Top Stories",
     "title": "Plaid ready to replace Welsh Labour, says leader",
@@ -14,7 +50,7 @@
   {
     "id": "BBC — Top Stories-eedb8515f0",
     "source": "BBC — Top Stories",
-    "title": "William's emotional moment in campaign to prevent suicide",
+    "title": "William visibly moved as widow tells of husband's suicide",
     "summary": "Prince William's foundation is giving £1m to set up a suicide prevention network.",
     "url": "https://www.bbc.com/news/articles/c2ej877g7w1o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T05:01:15Z",
@@ -43,6 +79,18 @@
     "url": "https://www.theguardian.com/news/2025/oct/10/with-most-mps-ignorant-of-the-urgency-how-can-the-uk-ever-reach-net-zero",
     "published": "2025-10-10T05:00:44Z",
     "image_url": "https://i.guim.co.uk/img/media/a9eea0f63a47f0852f2fa20c081f1305e4a32bea/575_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b0e2f8cf19903d2191ec13ffea5ac65b",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-8ee4f7357b",
+    "source": "BBC — Top Stories",
+    "title": "Abuse stopped family coming to games, says Premier League referee Taylor",
+    "summary": "In an interview with the BBC, referee Anthony Taylor criticises the \"expectation of perfection\" culture officials are subject to.",
+    "url": "https://www.bbc.com/sport/football/articles/c2dn9lkp0e5o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T05:00:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd1/live/598a6ff0-a510-11f0-ba60-dd95d022a9f0.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -234,7 +282,7 @@
     "summary": "University workers will vote on national strike action this month over a 1.4% pay offer made in the summer.",
     "url": "https://www.bbc.com/news/articles/cp3ve5jegkvo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T01:05:07Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c657/live/4977f460-a520-11f0-adbe-83a1eb509ffb.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6afc/live/e9db0200-a5a0-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -247,18 +295,6 @@
     "url": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T01:04:29Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/fa8b6ce0-a530-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-df84e9f365",
-    "source": "BBC — Top Stories",
-    "title": "The new AI arms race changing the war in Ukraine",
-    "summary": "Both Ukraine and Russia use AI in battle, but removing human decision-making comes with risks.",
-    "url": "https://www.bbc.com/news/articles/cly7jrez2jno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T00:26:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3db9/live/b9b81a10-a512-11f0-bfa1-3b47a791b9db.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -283,18 +319,6 @@
     "url": "https://www.bbc.com/news/articles/cvg0yvdjgn5o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-09T23:45:15Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfa1/live/aaf4fca0-a387-11f0-a56f-0b1b78ebdf89.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e5c7372402",
-    "source": "BBC — Top Stories",
-    "title": "Tech billionaires seem to be doom prepping. Should we all be worried?",
-    "summary": "The debate is ramping up about what happens if - or when - computer intelligence overtakes humans",
-    "url": "https://www.bbc.com/news/articles/cly17834524o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T23:02:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2abb/live/00b3aff0-9f88-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -432,18 +456,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-2914d1bf3f",
-    "source": "The Guardian — UK",
-    "title": "Phillipson presses Starmer and Reeves to abolish two-child benefit cap in full",
-    "summary": "Exclusive: education secretary tells the Guardian scrapping limit entirely in November’s budget most cost-effective way to tackle child poverty Phillipson on Gaza, child poverty and the deputy leadership race – Politics Weekly UK Bridget Phillipson is pushing the prime minister and chancellor to scrap the two-child benefit cap entirely in next month’s budget, with the education secretary telling the Guardian the evidence is clear that it needs to be removed. Phillipson, who is finalising a report to Keir Starmer and Rachel Reeves on child poverty, said abolishing the cap was the most cost effective way to make lives better for young disadvantaged people. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/09/phillipson-presses-starmer-and-reeves-to-abolish-two-child-benefit-cap-in-full",
-    "published": "2025-10-09T16:30:29Z",
-    "image_url": "https://i.guim.co.uk/img/media/922168ec85e98235bab5d28e82d5d2c09c5b631d/252_0_4023_3219/master/4023.jpg?width=140&quality=85&auto=format&fit=max&s=5b08e61e2e5b0cf53643bc43c4c88587",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-b385f86010",
     "source": "The Guardian — UK",
     "title": "Labour’s Bridget Phillipson on Gaza, child poverty and the deputy leadership race – podcast",
@@ -487,18 +499,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/09/keir-starmer-praises-donald-trump-gaza-ceasefire-deal-but-avoids-nobel-prize-backing",
     "published": "2025-10-09T15:37:21Z",
     "image_url": "https://i.guim.co.uk/img/media/aed8f0e2ab673735855e824830b06b8f0d758de2/191_0_1871_1496/master/1871.jpg?width=140&quality=85&auto=format&fit=max&s=c57aa69906e1d54233881e4a7b65334d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-2b80a0f24b",
-    "source": "BBC — Top Stories",
-    "title": "Israelis delight at deal to return hostages",
-    "summary": "\"I can't quite believe this is actually happening, we've been waiting for so long,\" said Gil Dickman, cousin of hostage Carmel Gat.",
-    "url": "https://www.bbc.com/news/articles/ce9rl9krm0do?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T15:24:09Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04a0/live/16a51d50-a503-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
