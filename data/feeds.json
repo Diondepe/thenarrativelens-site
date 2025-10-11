@@ -1,5 +1,29 @@
 [
   {
+    "id": "BBC — Top Stories-17dfd984fd",
+    "source": "BBC — Top Stories",
+    "title": "Biden receiving radiation therapy for prostate cancer",
+    "summary": "The 82-year-old former US president - who was diagnosed with an aggressive prostate cancer in May - is also getting hormone treatment.",
+    "url": "https://www.bbc.com/news/articles/c1ede670jnyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T14:44:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3846/live/3e341bf0-a6b1-11f0-90fd-c3777763571c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-66ba370505",
+    "source": "BBC — Top Stories",
+    "title": "Four killed in mass shooting after Mississippi football game",
+    "summary": "Twelve others were injured in the incident, which happened at around midnight.",
+    "url": "https://www.bbc.com/news/articles/c4gvgr7w2yko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T14:13:36Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee6f/live/49e8f3a0-a6aa-11f0-b55a-e7725355d83f.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-d31061819e",
     "source": "BBC — Top Stories",
     "title": "Hamas presses Israel to free prominent prisoners as part of Gaza deal",
@@ -15,7 +39,7 @@
     "id": "The Guardian — UK-3714c755fe",
     "source": "The Guardian — UK",
     "title": "Thousands gather in London in march for ‘lasting peace’ in Gaza",
-    "summary": "Director of Palestine Solidarity Campaign says ceasefire agreement says nothing about ‘system of apartheid’ in Palestine • Gaza ceasefire – live updates Thousands of people have gathered in central London to call for “lasting peace” in Gaza, a day after the ceasefire agreement between Israel and Hamas came into effect. The demonstration, organised by the Palestine Solidarity Campaign, began at Victoria Embankment on Saturday. Stalls sold keffiyehs and people handed out placards that read “from the river to the sea, Palestine will be free”, “it’s not a crime to act against genocide” and “Starmer has blood on his hands, free Palestine”. Continue reading...",
+    "summary": "Director of Palestine Solidarity Campaign says ceasefire agreement says nothing about ‘system of apartheid’ in Palestine • Gaza ceasefire – live updates Thousands of people have gathered in central London to call for “lasting peace” in Gaza, a day after the ceasefire agreement between Israel and Hamas came into effect. The demonstration, organised by the Palestine Solidarity Campaign, began at Victoria Embankment and headed to Whitehall. Stalls sold keffiyehs and people handed out placards that read “from the river to the sea, Palestine will be free”, “it’s not a crime to act against genocide” and “Starmer has blood on his hands, free Palestine”. Continue reading...",
     "url": "https://www.theguardian.com/world/2025/oct/11/thousands-gather-london-march-lasting-peace-gaza",
     "published": "2025-10-11T14:04:15Z",
     "image_url": "https://i.guim.co.uk/img/media/9f40d1fc7ddf52d38d21eecb09aa91595deb21cc/535_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2c060ede3f8d5b4fbc0496b82f513127",
@@ -384,18 +408,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-16a384bfe9",
-    "source": "BBC — Top Stories",
-    "title": "Runaway military horse that bolted through central London retires to the countryside",
-    "summary": "Quaker, 15, was one of five Household Cavalry horses spooked while on an exercise in Belgravia.",
-    "url": "https://www.bbc.com/news/articles/c5yq12lwg3eo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T00:08:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9268/live/36434370-a5ef-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-e3337eb8cc",
     "source": "BBC — Top Stories",
     "title": "'It's going to be really bad': Fears over AI bubble bursting grow in Silicon Valley",
@@ -427,18 +439,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/10/man-in-serious-condition-after-being-shot-by-police-in-london",
     "published": "2025-10-10T22:16:42Z",
     "image_url": "https://i.guim.co.uk/img/media/819cb7352d1b4ce807680ca8cbf96d9da7205daf/414_0_4119_3297/master/4119.jpg?width=140&quality=85&auto=format&fit=max&s=222745db87cf240ee339b1428b68bca1",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-12bb5a61e0",
-    "source": "BBC — Top Stories",
-    "title": "Macron reappoints Lecornu as French PM after days of turmoil",
-    "summary": "Sébastien Lecornu resigned on Monday after 26 days in the job and he said two days later his \"mission is over\".",
-    "url": "https://www.bbc.com/news/articles/cy4j9zz54ypo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T22:00:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88c/live/c47bff30-a615-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
