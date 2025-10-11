@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-dec44e23db",
+    "source": "BBC — Top Stories",
+    "title": "Wolf Alice: 'A good album is one of the highest forms of art'",
+    "summary": "With a fourth consecutive Mercury Prize nomination, the band share their philosophy of album making.",
+    "url": "https://www.bbc.com/news/articles/crmey4pw9vpo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T02:34:52Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64d5/live/1dc95f80-a42f-11f0-92db-77261a15b9d2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-63ae02c9c8",
+    "source": "BBC — Top Stories",
+    "title": "We struggle with autumn blues - here's how we turned it around",
+    "summary": "What's the best way to keep your spirits up as the days get shorter and the weather gets colder?",
+    "url": "https://www.bbc.com/news/articles/c7492e5x7jzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T02:19:41Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bbe/live/f4619570-a5f2-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-f0c24584be",
+    "source": "Politico — UK",
+    "title": "World’s cartoonists on this week’s events",
+    "summary": "Drawing the top stories around the globe.",
+    "url": "https://www.politico.eu/article/worlds-cartoonists-on-this-weeks-events-173/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-11T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/300664_1536_rgb.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-ca7ea2c509",
     "source": "BBC — Top Stories",
     "title": "A facelift at 28? Why young people are turning to plastic surgery",
@@ -7,18 +43,6 @@
     "url": "https://www.bbc.com/news/articles/czxwvr57424o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T01:05:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05fb/live/f899dc60-a5fc-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a12302c830",
-    "source": "BBC — Top Stories",
-    "title": "'They treated us like animals' - Inside the epicentre of deportations in New York City",
-    "summary": "Chaotic scenes have become routine in a federal immigration court in Manhattan.",
-    "url": "https://www.bbc.com/news/articles/cn0rxrxd444o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T00:35:36Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72cc/live/92d836b0-a552-11f0-9be5-958b3030bc7b.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -91,18 +115,6 @@
     "url": "https://www.bbc.com/news/articles/cn4wkd7729po?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T22:38:14Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52b/live/d6a268a0-a5ef-11f0-af09-bf7f0464c1dc.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-65f584c569",
-    "source": "BBC — Top Stories",
-    "title": "New James Bond producer up for the ‘challenge'",
-    "summary": "David Heyman was speaking for the first time about taking on the next 007 film for Bond's new owners Amazon MGM.",
-    "url": "https://www.bbc.com/news/articles/c4gqnw5r29ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T22:24:55Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b284/live/cdb473f0-a608-11f0-ba2a-33e7504c364f.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -487,18 +499,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/10/the-1m-man-why-did-boris-johnson-take-his-donor-to-ukraine",
     "published": "2025-10-10T12:00:53Z",
     "image_url": "https://i.guim.co.uk/img/media/05d5d20d0f3717b283178616a7827f51c1b68711/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=925f9de24a521df2d93c3e39064d125a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-e0f9729e06",
-    "source": "Politico — UK",
-    "title": "Gaza ceasefire has started, Israel announces",
-    "summary": "U.S. President's Donald Trump's inner circle helped get the deal over the line.",
-    "url": "https://www.politico.eu/article/israel-withdraws-first-troops-gaza-ceasefire-effect/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T11:11:18Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2239668675-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
