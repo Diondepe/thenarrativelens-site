@@ -1,12 +1,72 @@
 [
   {
-    "id": "The Guardian — UK-927760f1af",
+    "id": "BBC — Top Stories-d31061819e",
+    "source": "BBC — Top Stories",
+    "title": "Hamas presses Israel to free prominent prisoners as part of Gaza deal",
+    "summary": "It is unclear if disagreement over the list of Palestinian prisoners will affect the release of hostages within the agreed 72 hours.",
+    "url": "https://www.bbc.com/news/articles/cd727d2ne42o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T12:26:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/875a/live/bdbd1de0-a68e-11f0-a40c-1b117f97bd40.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-225a9f02ea",
+    "source": "Politico — UK",
+    "title": "MIT’s resistance gives boost to academics’ efforts to defy Trump",
+    "summary": "MIT’s rebuke of the Trump administration’s compact presents an opening for other college presidents to resist.",
+    "url": "https://www.politico.com/news/2025/10/11/academia-resistance-trump-funding-deal-00603781?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-11T12:13:55Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6b151800d1",
+    "source": "BBC — Top Stories",
+    "title": "Watch: North Korea shows off huge missile at military parade",
+    "summary": "Named the Hwasong-20, its size suggests that it could carry multiple nuclear warheads.",
+    "url": "https://www.bbc.com/news/videos/c8rvrk3y1rno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T11:55:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db3/live/d6441790-a695-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-5d0ff24793",
+    "source": "Politico — UK",
+    "title": "China’s rare earth gambit reveals the next phase of its economic warfare",
+    "summary": "Beijing’s rare earth crackdown lays bare the fusion of economic rivalry and national security risk.",
+    "url": "https://www.politico.com/news/2025/10/11/chinas-rare-earth-gambit-reveals-the-next-phase-of-its-economic-warfare-00602692?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-11T11:51:14Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-c0205a5d40",
     "source": "The Guardian — UK",
-    "title": "Widow of man conned out of pension savings to lose half the compensation to tax",
-    "summary": "Robert Dewar’s widow, Susan, is a leading campaigner over multimillion-pound Norton Motorcycles fraud The family of a deceased man, who was conned out of his retirement savings after investing in the Norton Motorcycles pension scam, is to lose almost half the subsequent compensation award because of a little-known tax rule. A long-running battle to win an award from the Fraud Compensation Fund (FCF) meant that Robert Dewar’s pension was not reimbursed until 2024, five years after his death at the age of 64. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/11/norton-motorcycles-pension-scandal-victims-widow-to-lose-almost-half-of-payout-tax-rule",
-    "published": "2025-10-11T11:00:22Z",
-    "image_url": "https://i.guim.co.uk/img/media/602f6465ad824db58a52dc454b93e574899f364b/309_0_5263_4209/master/5263.jpg?width=140&quality=85&auto=format&fit=max&s=9c77a9c4838288863b22dcfd2bfef38d",
+    "title": "Tony Blair met Jeffrey Epstein in No 10 on advice of Peter Mandelson, documents reveal",
+    "summary": "National Archives papers show how then MP pushed for 2002 meeting between PM and ‘young and vibrant’ financier Sir Tony Blair met Jeffrey Epstein in Downing Street while he was prime minister after a recommendation by Peter Mandelson, newly released papers from the National Archives show. Epstein visited Blair on 14 May 2002, after the suggestion by Lord Mandelson to the prime minister’s then chief of staff, Jonathan Powell. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/11/tony-blair-met-jeffrey-epstein-in-no-10-on-advice-of-peter-mandelson-documents-reveal",
+    "published": "2025-10-11T11:49:09Z",
+    "image_url": "https://i.guim.co.uk/img/media/cb0c5d8cebe80342cf77ad8bdb1ac3c4c2bbdd88/0_107_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=c4ef77522ab73ca3a4884f520ce8fa59",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-da6d5eb3b8",
+    "source": "BBC — Top Stories",
+    "title": "What we know about the Gaza ceasefire agreement",
+    "summary": "Israeli troops have pulled back from parts of Gaza after Israel approved Donald Trump's ceasefire and hostage release plan.",
+    "url": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T11:26:51Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4d6/live/6a43cd40-a5d9-11f0-8fc6-8d89d06fa925.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -17,8 +77,20 @@
     "title": "Revealed: Labour-run council using legal loophole to serve families with no-fault evictions",
     "summary": "Exclusive: London council created an arm’s-length body to manage some of its housing stock A Labour-run council is using a legal loophole to issue dozens of families with no-fault evictions, despite Keir Starmer’s manifesto pledge to outlaw the practice. Scrapping no-fault evictions “immediately” was one of Labour’s main manifesto pledges before its 2024 election win, but more than a year on, the party’s flagship renters’ rights bill has not been made law. Continue reading...",
     "url": "https://www.theguardian.com/society/2025/oct/11/lambeth-council-legal-loophole-no-fault-evictions",
-    "published": "2025-10-11T11:00:22Z",
+    "published": "2025-10-11T11:17:33Z",
     "image_url": "https://i.guim.co.uk/img/media/3359343504e7dc51ab70643e89370e0b4de0cf62/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=81bf1f34d3c187c6f6b49aa34906de39",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-927760f1af",
+    "source": "The Guardian — UK",
+    "title": "Widow of man conned out of pension savings to lose half the compensation to tax",
+    "summary": "Robert Dewar’s widow, Susan, is a leading campaigner over multimillion-pound Norton Motorcycles fraud The family of a deceased man, who was conned out of his retirement savings after investing in the Norton Motorcycles pension scam, is to lose almost half the subsequent compensation award because of a little-known tax rule. A long-running battle to win an award from the Fraud Compensation Fund (FCF) meant that Robert Dewar’s pension was not reimbursed until 2024, five years after his death at the age of 64. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/11/norton-motorcycles-pension-scandal-victims-widow-to-lose-almost-half-of-payout-tax-rule",
+    "published": "2025-10-11T11:00:22Z",
+    "image_url": "https://i.guim.co.uk/img/media/602f6465ad824db58a52dc454b93e574899f364b/309_0_5263_4209/master/5263.jpg?width=140&quality=85&auto=format&fit=max&s=9c77a9c4838288863b22dcfd2bfef38d",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -144,18 +216,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e308050051",
-    "source": "BBC — Top Stories",
-    "title": "How forensics identified forgotten teen left buried in a carpet for eight years",
-    "summary": "Questions still remain as to why no-one looked for teenager Karen Price when she vanished in 1981.",
-    "url": "https://www.bbc.com/news/articles/cx2neq10d8po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T06:09:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ff/live/c4371840-a668-11f0-928c-71dbb8619e94.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-2785e1d33e",
     "source": "The Guardian — UK",
     "title": "Rachel Reeves v the OBR: chancellor aims to loosen the watchdog’s grip",
@@ -175,18 +235,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/11/rachel-reeves-looks-for-extra-headroom-in-budget-to-insulate-uk-economy-against-bond-market",
     "published": "2025-10-11T06:00:16Z",
     "image_url": "https://i.guim.co.uk/img/media/2985e0d72fcba4f6115a887c87b543c6c0ad232b/374_0_4632_3706/master/4632.jpg?width=140&quality=85&auto=format&fit=max&s=8047712ee349235666773f74bee8d861",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-078d5f2b5e",
-    "source": "BBC — Top Stories",
-    "title": "The stats that say Haaland will run away with Golden Boot",
-    "summary": "BBC Sport looks at why it looks inevitable that Erling Haaland will win the Premier League Golden Boot this season.",
-    "url": "https://www.bbc.com/sport/football/articles/cdjz1py0xg7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T05:27:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a7e/live/fb818410-a5dd-11f0-8fc6-8d89d06fa925.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -264,6 +312,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-ab3c97ee7e",
+    "source": "BBC — Top Stories",
+    "title": "How hackers forced brewing giant Asahi back to pen and paper",
+    "summary": "The maker of Japan's most popular beer, Super Dry, was hit by a major cyber-attack last month.",
+    "url": "https://www.bbc.com/news/articles/cly64g5y744o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T00:43:35Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8158/live/45652770-a571-11f0-b928-f10695b5e201.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-a12302c830",
     "source": "BBC — Top Stories",
     "title": "'They treated us like animals' - Inside the epicentre of deportations in New York City",
@@ -295,6 +355,18 @@
     "url": "https://www.bbc.com/news/articles/c0lk3dg7j6eo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T23:45:24Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62f4/live/eb947bf0-a61b-11f0-860a-456736746653.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-53b059f2d1",
+    "source": "BBC — Top Stories",
+    "title": "Can the world's oldest president keep his title and woo a nation of young voters?",
+    "summary": "Cameroon's Paul Biya promises young voters \"the best is yet to come\" as others hunger for \"young blood\".",
+    "url": "https://www.bbc.com/news/articles/crkjg1n0m02o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T23:12:00Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa3a/live/e424bf70-a60b-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -396,18 +468,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-9ca30a7bec",
-    "source": "BBC — Top Stories",
-    "title": "What does wording of Gaza ceasefire agreement tell us?",
-    "summary": "The text of the agreement lacks details and in some cases is vague and ambiguous - perhaps on purpose.",
-    "url": "https://www.bbc.com/news/articles/ckgyr8e0gl2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T17:25:41Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fad/live/2ef94db0-a5fb-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-2e5ef11a84",
     "source": "Politico — UK",
     "title": "Warning signs of financial instability rattle policymakers ahead of IMF jamboree",
@@ -415,30 +475,6 @@
     "url": "https://www.politico.eu/article/warning-signs-of-financial-instability-rattle-markets-ahead-of-imf-jamboree/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-10T17:07:01Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2239416626-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-514f8a5a8b",
-    "source": "Politico — UK",
-    "title": "Chaos looms over EU entry points as new border checks take effect",
-    "summary": "The Entry/Exit System was designed to strengthen security, but it could lead to long wait times.",
-    "url": "https://www.politico.eu/article/chaos-looms-over-eu-entry-points-as-new-border-checks-take-effect/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T16:53:56Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-1220140386-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-e4f064b001",
-    "source": "Politico — UK",
-    "title": "Brussels looks to spin its red-tape cuts as a gift to Trump",
-    "summary": "The EU executive is preparing “checklist” of measures to address U.S. concerns over the bloc’s business regulations.",
-    "url": "https://www.politico.eu/article/eu-brussels-looks-to-spin-its-red-tape-cuts-as-gift-to-us-donald-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T16:52:06Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/13352223-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -456,25 +492,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-199a0c0fc2",
+    "id": "The Guardian — UK-c082060544",
     "source": "The Guardian — UK",
-    "title": "Zarah Sultana compares Jeremy Corbyn reunion to Gallagher brothers",
-    "summary": "MP says pair have reconciled after bitter dispute as they appear together at Manchester leftwing festival Zarah Sultana has said she and Jeremy Corbyn have patched up their combustible co-leadership of a new leftwing party, with the MP comparing the duo to Liam and Noel Gallagher. Speaking alongside Corbyn at The World Transformed political festival in Manchester, the Gallaghers’ home city, Sultana insisted they could cooperate over the organisation still only known, unofficially, as Your Party. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/10/zarah-sultana-says-she-and-corbyn-have-reconciled-and-can-co-lead-new-party",
-    "published": "2025-10-10T16:25:30Z",
-    "image_url": "https://i.guim.co.uk/img/media/6fd89def8291c5182ebaa7ab0b38e6145f395e98/690_0_4549_3640/master/4549.jpg?width=140&quality=85&auto=format&fit=max&s=a72b815eb8f817daead611da0e4681ca",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-70cce37389",
-    "source": "BBC — Top Stories",
-    "title": "'They've destroyed everything': Palestinians return to devastation in Gaza City",
-    "summary": "Those returning say they are driven by desperation rather than confidence that it is safe.",
-    "url": "https://www.bbc.com/news/articles/czew72350ngo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T15:03:02Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde1/live/2229dd10-a5e8-11f0-920e-cb66ee1d5eb0.jpg",
+    "title": "Man who entered UK on small boat found guilty of threatening to kill Nigel Farage",
+    "summary": "Fayaz Khan, 26, made the threat in a TikTok video that Reform UK leader told the court was ‘pretty chilling’ A man who came to the UK on a small boat has been found guilty of making a threat to kill Nigel Farage in a TikTok video. Fayaz Khan, 26, an Afghan national, was found guilty by a majority of 10 jurors to two after almost 12 hours of deliberation at Southwark court court. He had made the threat to kill the Reform UK leader in October last year in a video that Farage told the court was “pretty chilling”. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/10/fayaz-khan-small-boat-nigel-farage",
+    "published": "2025-10-10T16:16:23Z",
+    "image_url": "https://i.guim.co.uk/img/media/5da9e6daeecd108a635d483e3f6792035401dc5f/0_404_1307_1045/master/1307.jpg?width=140&quality=85&auto=format&fit=max&s=c4391b359015faf58ba8a5687685967c",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -523,30 +547,6 @@
     "url": "https://www.bbc.com/news/articles/cpvl9k4mw8no?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T12:26:22Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b600/live/0a160040-a5d0-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-d0c6c35feb",
-    "source": "The Guardian — UK",
-    "title": "The £1m man: why did Boris Johnson take his donor to Ukraine?",
-    "summary": "Exclusive: Leaked files offer a glimpse of the ex-prime minister’s relationship with Christopher Harborne As he boarded the night train to Ukraine, Boris Johnson had the usual entourage of aides and bodyguards – plus the man who had given him £1m. Less than a year had passed since Johnson accepted what is thought to be the largest donation ever to an individual MP. It was from Christopher Harborne, one of the UK’s biggest and most private political donors. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/10/the-1m-man-why-did-boris-johnson-take-his-donor-to-ukraine",
-    "published": "2025-10-10T12:00:53Z",
-    "image_url": "https://i.guim.co.uk/img/media/05d5d20d0f3717b283178616a7827f51c1b68711/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=925f9de24a521df2d93c3e39064d125a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4bb4096167",
-    "source": "BBC — Top Stories",
-    "title": "How Trump secured a Gaza breakthrough which eluded Biden",
-    "summary": "Trump's unique style and his relationships with key players helped but there were also factors beyond his control.",
-    "url": "https://www.bbc.com/news/articles/cj3yke64vp6o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-09T21:09:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3234/live/7769f100-a54a-11f0-b8ec-574ff83ad78e.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
