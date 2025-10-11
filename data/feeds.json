@@ -1,5 +1,53 @@
 [
   {
+    "id": "BBC — Top Stories-d31061819e",
+    "source": "BBC — Top Stories",
+    "title": "Hamas presses Israel to free prominent prisoners as part of Gaza deal",
+    "summary": "It is unclear if disagreement over the list of Palestinian prisoners will affect the release of hostages within the agreed 72 hours.",
+    "url": "https://www.bbc.com/news/articles/cd727d2ne42o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T14:06:06Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/875a/live/bdbd1de0-a68e-11f0-a40c-1b117f97bd40.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-3714c755fe",
+    "source": "The Guardian — UK",
+    "title": "Thousands gather in London in march for ‘lasting peace’ in Gaza",
+    "summary": "Director of Palestine Solidarity Campaign says ceasefire agreement says nothing about ‘system of apartheid’ in Palestine • Gaza ceasefire – live updates Thousands of people have gathered in central London to call for “lasting peace” in Gaza, a day after the ceasefire agreement between Israel and Hamas came into effect. The demonstration, organised by the Palestine Solidarity Campaign, began at Victoria Embankment on Saturday. Stalls sold keffiyehs and people handed out placards that read “from the river to the sea, Palestine will be free”, “it’s not a crime to act against genocide” and “Starmer has blood on his hands, free Palestine”. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/oct/11/thousands-gather-london-march-lasting-peace-gaza",
+    "published": "2025-10-11T14:04:15Z",
+    "image_url": "https://i.guim.co.uk/img/media/9f40d1fc7ddf52d38d21eecb09aa91595deb21cc/535_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2c060ede3f8d5b4fbc0496b82f513127",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-3e72e3ad39",
+    "source": "Politico — UK",
+    "title": "Here’s another winner of the Israel peace deal: Qatar’s lobbying machine",
+    "summary": "The tiny Persian Gulf country has been working for years in Washington to change its image as a backer of violent Islamist groups.",
+    "url": "https://www.politico.com/news/2025/10/11/qatar-lobbying-israel-influence-00603060?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-11T13:48:00Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1612555b88",
+    "source": "BBC — Top Stories",
+    "title": "Queen recalls Jilly Cooper's wish to 'get plastered'",
+    "summary": "Literary icons paid tribute to the author and longstanding friend of the Queen at Cliveden Literary Festival.",
+    "url": "https://www.bbc.com/news/articles/cvg9gql9dr3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T13:30:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9112/live/19892850-a6a1-11f0-a409-e197032d359e.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-851729cd5b",
     "source": "Politico — UK",
     "title": "Belgian police officer charged with spying",
@@ -14,23 +62,11 @@
   {
     "id": "BBC — Top Stories-71859765f2",
     "source": "BBC — Top Stories",
-    "title": "Bridget Phillipson v Lucy Powell - behind the battle for Labour's deputy leader",
+    "title": "Why Labour's deputy leadership race could be a verdict on Starmer",
     "summary": "The pair are going head-to-head to be Angela Rayner's replacement, but what are they battling for?",
     "url": "https://www.bbc.com/news/articles/c4g5nxzzky2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T12:51:14Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a57/live/a5a304f0-a5c5-11f0-92db-77261a15b9d2.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-d31061819e",
-    "source": "BBC — Top Stories",
-    "title": "Hamas presses Israel to free prominent prisoners as part of Gaza deal",
-    "summary": "It is unclear if disagreement over the list of Palestinian prisoners will affect the release of hostages within the agreed 72 hours.",
-    "url": "https://www.bbc.com/news/articles/cd727d2ne42o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T12:26:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/875a/live/bdbd1de0-a68e-11f0-a40c-1b117f97bd40.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -43,6 +79,18 @@
     "url": "https://www.politico.com/news/2025/10/11/academia-resistance-trump-funding-deal-00603781?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-11T12:13:55Z",
     "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-be5540e306",
+    "source": "BBC — Top Stories",
+    "title": "Djokovic suffers shock semi-final defeat to player ranked 204th in the world",
+    "summary": "Novak Djokovic suffers a shock defeat by Monegasque qualifier Valentin Vacherot in the semi-finals of the Shanghai Masters.",
+    "url": "https://www.bbc.com/sport/tennis/articles/cz696pywwnlo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T12:05:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5a8/live/54bd3f10-a692-11f0-a40c-1b117f97bd40.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -180,13 +228,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-ab8d053bcd",
+    "id": "BBC — Top Stories-3f2501002c",
     "source": "BBC — Top Stories",
-    "title": "Eighteen missing after explosion at Tennessee munitions factory",
-    "summary": "\"There's nothing to describe, it's gone,\" says Humphreys County Sheriff Mike Davis.",
-    "url": "https://www.bbc.com/news/articles/c89d4zw8704o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T08:16:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7998/live/15c6b930-a68d-11f0-92db-77261a15b9d2.jpg",
+    "title": "Is it acceptable to scatter a loved one's ashes in the countryside?",
+    "summary": "Some hillwalkers are concerned they are coming across piles of ashes during treks in wild areas of Scotland.",
+    "url": "https://www.bbc.com/news/articles/c0r0e7xkvlgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T08:18:25Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a75e/live/737877f0-a44c-11f0-8a21-ff96e44d1cc2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -211,18 +259,6 @@
     "url": "https://www.politico.com/news/2025/10/10/trump-trade-war-china-00601968?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-11T07:54:17Z",
     "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e90b878b47",
-    "source": "BBC — Top Stories",
-    "title": "Man sustains life-changing injuries after being shot by Met Police",
-    "summary": "Officers were called to an address in Walthamstow to reports of a man with a firearm.",
-    "url": "https://www.bbc.com/news/articles/c62qp1dm4e3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T07:31:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f446/live/d15514f0-a5f5-11f0-af09-bf7f0464c1dc.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -259,18 +295,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/11/rachel-reeves-looks-for-extra-headroom-in-budget-to-insulate-uk-economy-against-bond-market",
     "published": "2025-10-11T06:00:16Z",
     "image_url": "https://i.guim.co.uk/img/media/2985e0d72fcba4f6115a887c87b543c6c0ad232b/374_0_4632_3706/master/4632.jpg?width=140&quality=85&auto=format&fit=max&s=8047712ee349235666773f74bee8d861",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-5373566550",
-    "source": "BBC — Top Stories",
-    "title": "I'm learning how to get back into life, freed British-Egyptian activist says",
-    "summary": "Alaa Abdel Fattah tells the BBC's Today programme about life after a decade in prison.",
-    "url": "https://www.bbc.com/news/articles/cdx21gn39r5o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T05:08:11Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c90/live/efef4d60-a5d5-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -360,6 +384,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-16a384bfe9",
+    "source": "BBC — Top Stories",
+    "title": "Runaway military horse that bolted through central London retires to the countryside",
+    "summary": "Quaker, 15, was one of five Household Cavalry horses spooked while on an exercise in Belgravia.",
+    "url": "https://www.bbc.com/news/articles/c5yq12lwg3eo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T00:08:50Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9268/live/36434370-a5ef-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-e3337eb8cc",
     "source": "BBC — Top Stories",
     "title": "'It's going to be really bad': Fears over AI bubble bursting grow in Silicon Valley",
@@ -367,18 +403,6 @@
     "url": "https://www.bbc.com/news/articles/cz69qy760weo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T23:55:36Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a3/live/27b4ce60-a684-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-53b059f2d1",
-    "source": "BBC — Top Stories",
-    "title": "Can the world's oldest president keep his title and woo a nation of young voters?",
-    "summary": "Cameroon's Paul Biya promises young voters \"the best is yet to come\" as others hunger for \"young blood\".",
-    "url": "https://www.bbc.com/news/articles/crkjg1n0m02o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T23:12:00Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa3a/live/e424bf70-a60b-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -420,25 +444,13 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-321eb8ee2c",
-    "source": "Politico — UK",
-    "title": "Madcap week in French politics ends with Macron reappointing Lecornu as PM",
-    "summary": "The 39-year-old head of government abruptly resigned Monday, thrusting the country into crisis.",
-    "url": "https://www.politico.eu/article/france-prime-minister-sebastien-lecornu-emmanuel-macron-political-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T20:04:38Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2239311471-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-9402cfa4d4",
     "source": "BBC — Top Stories",
     "title": "Tony Blair met Jeffrey Epstein while prime minister",
     "summary": "The ex-PM confirms he met Epstein in 2002, six years before the financier pleaded guilty to soliciting prostitution from a minor.",
     "url": "https://www.bbc.com/news/articles/c5yk16gpxj0o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T19:24:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3636/live/43132e30-a68f-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3619/live/3b616a60-a6a5-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,13 +492,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-f14ac81f7b",
+    "id": "The Guardian — UK-199a0c0fc2",
     "source": "The Guardian — UK",
-    "title": "Richard Tice accepted stay at French Riviera home of Tory donor",
-    "summary": "Reform deputy leader’s trip, worth £1,400, to Lubov Chernukhin’s property was for ‘discussing gas power in UK’ Reform UK’s deputy leader, Richard Tice, accepted a £1,400 stay at the French Riviera home of Lubov Chernukhin, a Conservative donor and the wife of Russia’s former deputy finance minister, new filings show. Tice enjoyed accommodation valued at £1,000 and meals worth £400 between 4 and 6 August at the Chernukhins’ property on the Mediterranean coast, listing the purpose as “discussing gas power in the UK”, according to the register of MPs’ interests. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/10/richard-tice-tory-donor-lubov-chernukhin",
-    "published": "2025-10-10T16:31:27Z",
-    "image_url": "https://i.guim.co.uk/img/media/dcaee614536715183961158e4ca905001fa1936d/532_599_5301_4243/master/5301.jpg?width=140&quality=85&auto=format&fit=max&s=2ef253019ac8c100dee7be7a7ba6bcb2",
+    "title": "Zarah Sultana compares Jeremy Corbyn reunion to Gallagher brothers",
+    "summary": "MP says pair have reconciled after bitter dispute as they appear together at Manchester leftwing festival Zarah Sultana has said she and Jeremy Corbyn have patched up their combustible co-leadership of a new leftwing party, with the MP comparing the duo to Liam and Noel Gallagher. Speaking alongside Corbyn at The World Transformed political festival in Manchester, the Gallaghers’ home city, Sultana insisted they could cooperate over the organisation still only known, unofficially, as Your Party. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/10/zarah-sultana-says-she-and-corbyn-have-reconciled-and-can-co-lead-new-party",
+    "published": "2025-10-10T16:25:30Z",
+    "image_url": "https://i.guim.co.uk/img/media/6fd89def8291c5182ebaa7ab0b38e6145f395e98/690_0_4549_3640/master/4549.jpg?width=140&quality=85&auto=format&fit=max&s=a72b815eb8f817daead611da0e4681ca",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -523,18 +535,6 @@
     "url": "https://www.theguardian.com/politics/live/2025/oct/10/uk-politics-latest-live-news-labour-reform-plaid-cymru-snp-conservatives",
     "published": "2025-10-10T14:01:11Z",
     "image_url": "https://i.guim.co.uk/img/media/b89470e423fed5c8dcd44a6d00b035bc70b45338/1004_279_1890_1512/master/1890.jpg?width=140&quality=85&auto=format&fit=max&s=57885289adfb4c09178c9f7f3536147f",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-0b42589177",
-    "source": "The Guardian — UK",
-    "title": "Farage insists ex-Reform UK Wales leader convicted of bribery is ‘bad apple’",
-    "summary": "Farage said he was shocked by Nathan Gill’s admissions relating to pro-Russia statements Nigel Farage has insisted his party’s former leader in Wales who was convicted of taking pro-Russian bribes was a “bad apple” who betrayed him. The Reform UK leader was in Caerphilly campaigning for his candidate in a forthcoming Senedd byelection when he was asked about his links to Nathan Gill. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/10/nigel-farage-nathan-gill-ex-reform-uk-wales-leader-bribery-bad-apple",
-    "published": "2025-10-10T13:47:56Z",
-    "image_url": "https://i.guim.co.uk/img/media/79242ce748ee55e2eb8794f70e43d656b3bfeb38/193_79_3213_2571/master/3213.jpg?width=140&quality=85&auto=format&fit=max&s=381d9b2dc3ea71beb7bebebd9e3f00c5",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
