@@ -1,9 +1,57 @@
 [
   {
+    "id": "BBC — Top Stories-1d490b499b",
+    "source": "BBC — Top Stories",
+    "title": "We're grateful for what Trump is doing for peace, Nobel winner tells BBC",
+    "summary": "María Corina Machado tells Trump of her appreciation for \"what he's doing... around the world for peace\".",
+    "url": "https://www.bbc.com/news/articles/c5y8y25l250o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T18:51:32Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d5/live/9f59bf00-a6d1-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-55347aafd7",
+    "source": "BBC — Top Stories",
+    "title": "Liam Gallagher becomes a grandad for first time",
+    "summary": "The Oasis frontman's daughter Molly Moorish-Gallagher, 27, has given birth to a boy, she announced on Instagram.",
+    "url": "https://www.bbc.com/news/articles/c07v7drpp52o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T18:45:25Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf66/live/9c5ae170-a6d2-11f0-af59-a3ff604fe7e1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e2acf9422a",
+    "source": "BBC — Top Stories",
+    "title": "'We are inventing captivity medicine': Hospital prepares for freed Israeli hostages",
+    "summary": "Several of the hostages will be brought from Gaza to the Rabin Medical Center in Petah Tikva.",
+    "url": "https://www.bbc.com/news/articles/c4gvg8jx7gmo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T18:34:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/167b/live/252b1e00-a6cb-11f0-bf22-9df87c17cee5.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-811f8e6838",
+    "source": "BBC — Top Stories",
+    "title": "Nova festival survivor found dead two years after 7 October attack",
+    "summary": "Roei Shalev saw his girlfriend murdered in front of him during the Hamas attack.",
+    "url": "https://www.bbc.com/news/articles/cdxqx5vwqk2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T18:32:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/282d/live/62ebe300-a6d0-11f0-af59-a3ff604fe7e1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-92808cda1c",
     "source": "BBC — Top Stories",
     "title": "Paedophile singer Ian Watkins dies after prison attack",
-    "summary": "Watkins was serving a 29-year sentence imposed in 2013 after admitting 13 child sex offences.",
+    "summary": "Watkins, 48, was serving a 29-year sentence imposed in 2013 after admitting 13 child sex offences.",
     "url": "https://www.bbc.com/news/articles/cm2d2me0eljo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T17:49:44Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd93/live/cff02cb0-a6c4-11f0-92db-77261a15b9d2.jpg",
@@ -27,7 +75,7 @@
     "id": "The Guardian — UK-e73866d97b",
     "source": "The Guardian — UK",
     "title": "Lostprophets singer Ian Watkins dies after being attacked in prison",
-    "summary": "Forty-eight-year-old was serving 29-year prison sentence after admitting multiple child sex offences The convicted child sexual abuser and former Lostprophets singer Ian Watkins has died after being attacked in prison. The 48-year-old was serving a 29-year prison sentence at HMP Wakefield, with a further six years on licence, after admitting a string of sex offences including the attempted rape of a baby. Continue reading...",
+    "summary": "Forty-eight-year-old was serving 29-year prison sentence after admitting multiple child sex offences The convicted child sexual abuser and former Lostprophets singer Ian Watkins has died after being attacked in prison. He was attacked with a knife by another inmate on Saturday morning, sources confirmed to the PA news agency. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/11/lostprophets-singer-ian-watkins-dies-after-being-attacked-in-prison",
     "published": "2025-10-11T17:23:36Z",
     "image_url": "https://i.guim.co.uk/img/media/d3d7ca9f045c5dda909a0ee60dc265d7547cba8a/0_566_2200_1760/master/2200.jpg?width=140&quality=85&auto=format&fit=max&s=bee72d8c51f99034fe79ba760332ffb1",
@@ -38,7 +86,7 @@
   {
     "id": "BBC — Top Stories-0f554d7119",
     "source": "BBC — Top Stories",
-    "title": "Tens of thousands attend pro-Palestinian march in London",
+    "title": "Tens of thousands attend pro-Palestinian march in London day after Israel-Hamas ceasefire begins",
     "summary": "The demonstration comes a day after a ceasefire between Israel and Hamas took effect in Gaza.",
     "url": "https://www.bbc.com/news/articles/cewnwgnqj2qo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T17:17:54Z",
@@ -91,18 +139,6 @@
     "url": "https://www.politico.eu/article/zelenskyy-trump-discuss-concrete-agreements-ukraines-air-defense-russia-putin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-11T16:01:14Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/11/zelenskyy-trump.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3e4f659de3",
-    "source": "BBC — Top Stories",
-    "title": "Drone strike in besieged Sudan city kills dozens",
-    "summary": "El-Fasher has been surrounded by the RSF for 17 months, as residents face hunger and starvation.",
-    "url": "https://www.bbc.com/news/articles/c3rvrn8req4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T15:26:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f4e/live/d92cb460-a69c-11f0-a409-e197032d359e.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -168,18 +204,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-1612555b88",
-    "source": "BBC — Top Stories",
-    "title": "Queen recalls Jilly Cooper's wish to 'get plastered'",
-    "summary": "Literary icons paid tribute to the author and longstanding friend of the Queen at Cliveden Literary Festival.",
-    "url": "https://www.bbc.com/news/articles/cvg9gql9dr3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T13:30:59Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9112/live/19892850-a6a1-11f0-a409-e197032d359e.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-851729cd5b",
     "source": "Politico — UK",
     "title": "Belgian police officer charged with spying",
@@ -211,18 +235,6 @@
     "url": "https://www.politico.com/news/2025/10/11/academia-resistance-trump-funding-deal-00603781?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-11T12:13:55Z",
     "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6b151800d1",
-    "source": "BBC — Top Stories",
-    "title": "Watch: North Korea shows off huge missile at military parade",
-    "summary": "Named the Hwasong-20, its size suggests that it could carry multiple nuclear warheads.",
-    "url": "https://www.bbc.com/news/videos/c8rvrk3y1rno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T11:55:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe4/live/c0f04cb0-a69f-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -535,18 +547,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/10/fayaz-khan-small-boat-nigel-farage",
     "published": "2025-10-10T16:16:23Z",
     "image_url": "https://i.guim.co.uk/img/media/5da9e6daeecd108a635d483e3f6792035401dc5f/0_404_1307_1045/master/1307.jpg?width=140&quality=85&auto=format&fit=max&s=c4391b359015faf58ba8a5687685967c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-ed0afc2c1d",
-    "source": "BBC — Top Stories",
-    "title": "Who are the 48 hostages still held in Gaza?",
-    "summary": "A ceasefire deal should see Hamas hand over all 48 remaining Israeli and foreign hostages, 20 of whom are believed to be alive.",
-    "url": "https://www.bbc.com/news/articles/cpvl9k4mw8no?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T12:26:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b600/live/0a160040-a5d0-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
