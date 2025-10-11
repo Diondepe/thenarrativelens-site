@@ -1,12 +1,12 @@
 [
   {
-    "id": "BBC — Top Stories-28c679d68e",
+    "id": "BBC — Top Stories-ab8d053bcd",
     "source": "BBC — Top Stories",
-    "title": "Surge in Chagos arrivals prompts row over housing costs",
-    "summary": "Dozens of Chagossians have flown in to Heathrow Airport this week, putting pressure on housing services.",
-    "url": "https://www.bbc.com/news/articles/cd721j8390zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T06:39:14Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8370/live/76292040-a5d1-11f0-b98a-8b079c99c55e.jpg",
+    "title": "Eighteen missing after explosion at Tennessee munitions factory",
+    "summary": "\"There's nothing to describe, it's gone,\" says Humphreys County Sheriff Mike Davis, who grew emotional while providing an update about the most devastating incident of his career.",
+    "url": "https://www.bbc.com/news/articles/c89d4zw8704o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T08:16:44Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e13a/live/96ab36a0-a621-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -17,8 +17,20 @@
     "title": "Tony Blair and Nick Clegg hosted dinner giving tech bosses access to UK minister",
     "summary": "Exclusive: Six tech leaders dined with investment minister, documents reveal, underlining growing influence of ex-PM’s consultancy Tony Blair and Nick Clegg hosted a private dinner earlier this year at which a select group of technology entrepreneurs were given access to a key minister, official documents have revealed. The former prime minister, who is a champion of the tech industry, held the dinner in an upmarket London hotel in his capacity as the head of the Tony Blair Institute (TBI) political consultancy. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/oct/11/tony-blair-and-nick-clegg-hosted-dinner-giving-tech-bosses-access-to-uk-minister",
-    "published": "2025-10-11T06:00:18Z",
+    "published": "2025-10-11T08:05:07Z",
     "image_url": "https://i.guim.co.uk/img/media/434dd38a2c55d678523509a3156a4320f26e5122/0_0_1678_1343/master/1678.jpg?width=140&quality=85&auto=format&fit=max&s=ecccf460386a59e4ac71cf384590c9ec",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-28c679d68e",
+    "source": "BBC — Top Stories",
+    "title": "Surge in Chagos arrivals prompts row over housing costs",
+    "summary": "Dozens of Chagossians have flown in to Heathrow Airport this week, putting pressure on housing services.",
+    "url": "https://www.bbc.com/news/articles/cd721j8390zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T06:39:14Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8370/live/76292040-a5d1-11f0-b98a-8b079c99c55e.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -86,7 +98,7 @@
   {
     "id": "BBC — Top Stories-dec44e23db",
     "source": "BBC — Top Stories",
-    "title": "Wolf Alice: 'A good album is one of the highest forms of art'",
+    "title": "Their mellow new direction divided fans. But Wolf Alice aren't staying quiet",
     "summary": "With a fourth consecutive Mercury Prize nomination, the band share their philosophy of album making.",
     "url": "https://www.bbc.com/news/articles/crmey4pw9vpo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T02:34:52Z",
@@ -110,7 +122,7 @@
   {
     "id": "BBC — Top Stories-63ae02c9c8",
     "source": "BBC — Top Stories",
-    "title": "We struggle with autumn blues - here's how we turned it around",
+    "title": "We struggle with autumn blues. Here's how we turned it around",
     "summary": "What's the best way to keep your spirits up as the days get shorter and the weather gets colder?",
     "url": "https://www.bbc.com/news/articles/c7492e5x7jzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T02:19:41Z",
@@ -156,13 +168,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-1c59d10ad5",
+    "id": "BBC — Top Stories-e3337eb8cc",
     "source": "BBC — Top Stories",
-    "title": "King's coat of arms to feature on new UK passports",
-    "summary": "The full redesign, coming into effect from December, will be the first since passports turned dark blue after Brexit.",
-    "url": "https://www.bbc.com/news/articles/c0lk3dg7j6eo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T23:45:24Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62f4/live/eb947bf0-a61b-11f0-860a-456736746653.jpg",
+    "title": "'It's going to be really bad': Fears over AI bubble bursting grow in Silicon Valley",
+    "summary": "Some are worried that the rapid rise in the value of AI tech companies may be a bubble waiting to burst.",
+    "url": "https://www.bbc.com/news/articles/cz69qy760weo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T23:55:36Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf9b/live/ff11e480-a5e2-11f0-920e-cb66ee1d5eb0.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -182,23 +194,11 @@
   {
     "id": "BBC — Top Stories-f640380576",
     "source": "BBC — Top Stories",
-    "title": "Why The Traitors appeals to our dark side",
+    "title": "Murder, betrayal and lies - why we're attracted to The Traitors' dark side",
     "summary": "Psychologists and critics tell us why everyone must lie on the show and how teamwork is an illusion.",
     "url": "https://www.bbc.com/news/articles/cvg42rjjv4zo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T23:11:46Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5802/live/21f64190-a5f6-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-ab8d053bcd",
-    "source": "BBC — Top Stories",
-    "title": "Nineteen missing after explosion at Tennessee munitions factory",
-    "summary": "\"There's nothing to describe, it's gone,\" says Humphreys County Sheriff Mike Davis, who grew emotional while providing an update about the most devastating incident of his career.",
-    "url": "https://www.bbc.com/news/articles/c89d4zw8704o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T22:58:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e13a/live/96ab36a0-a621-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -235,18 +235,6 @@
     "url": "https://www.bbc.com/news/articles/cy4j9zz54ypo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T22:00:15Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88c/live/c47bff30-a615-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-be782e97a1",
-    "source": "BBC — Top Stories",
-    "title": "How John Swinney plans to put his stamp on the SNP as election looms",
-    "summary": "There is a renewed emphasis on independence as the party meets less than a year before the Scottish election.",
-    "url": "https://www.bbc.com/news/articles/cgknlj3vr76o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T22:00:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/010f/live/7be0ba60-a5be-11f0-add7-abf13599c13e.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -295,6 +283,18 @@
     "url": "https://www.theguardian.com/politics/2025/oct/10/labour-softening-stance-towards-china-reinforced-by-dropped-spy-case",
     "published": "2025-10-10T17:57:02Z",
     "image_url": "https://i.guim.co.uk/img/media/a9745ef648c8ccccf6b23043c8b359b97f012de2/362_0_3027_2421/master/3027.jpg?width=140&quality=85&auto=format&fit=max&s=47bd63ed16e917a065199e3d197acec1",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c100fac099",
+    "source": "BBC — Top Stories",
+    "title": "Qatar to build air force facility in Idaho, US says",
+    "summary": "The facility in Idaho will be used to train Qatari pilots to fly F-15 fighter jets, the US defence secretary says.",
+    "url": "https://www.bbc.com/news/articles/c75q2y92090o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T17:27:47Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d288/live/f71c1d60-a5f9-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
