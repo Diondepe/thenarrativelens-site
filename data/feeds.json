@@ -1,9 +1,33 @@
 [
   {
+    "id": "BBC — Top Stories-298110db4a",
+    "source": "BBC — Top Stories",
+    "title": "Strictly celebs starstruck as Wicked's Cynthia Erivo soars into movie week",
+    "summary": "The Oscar nominee, who stars as Elphaba in the hit film, was Strictly's first ever guest mentor.",
+    "url": "https://www.bbc.com/news/articles/ce8681j3n07o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T21:07:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ded4/live/9fd85c80-a6df-11f0-acf6-8f6b3e7c0d55.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-817438d97c",
+    "source": "BBC — Top Stories",
+    "title": "Actress Diane Keaton dies aged 79, US media report",
+    "summary": "She was best known for roles in films including in The Father of the Bride, The Godfather and Annie Hall.",
+    "url": "https://www.bbc.com/news/articles/cr5q5rp4r64o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T20:50:41Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5712/live/63564b50-a6d5-11f0-826a-6be1fb467f36.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-729d30fff8",
     "source": "BBC — Top Stories",
     "title": "No survivors found after Tennessee explosives plant blast",
-    "summary": "The 18 people unaccounted for after the blast at a Tennessee munitions factory are presumed dead, say officials.",
+    "summary": "With 18 people unaccounted for, the tragedy is \"even more devastating than we thought\", says a sheriff.",
     "url": "https://www.bbc.com/news/articles/cx2523997p9o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T20:16:12Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a40e/live/ecf31290-a6c0-11f0-92db-77261a15b9d2.jpg",
@@ -168,18 +192,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-d31061819e",
-    "source": "BBC — Top Stories",
-    "title": "Hamas presses Israel to free prominent prisoners as part of Gaza deal",
-    "summary": "It is unclear if disagreement over the list of Palestinian prisoners will affect the release of hostages within the agreed 72 hours.",
-    "url": "https://www.bbc.com/news/articles/cd727d2ne42o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T14:06:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/875a/live/bdbd1de0-a68e-11f0-a40c-1b117f97bd40.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-3714c755fe",
     "source": "The Guardian — UK",
     "title": "Thousands gather in London in march for ‘lasting peace’ in Gaza",
@@ -187,18 +199,6 @@
     "url": "https://www.theguardian.com/world/2025/oct/11/thousands-gather-london-march-lasting-peace-gaza",
     "published": "2025-10-11T14:04:15Z",
     "image_url": "https://i.guim.co.uk/img/media/9f40d1fc7ddf52d38d21eecb09aa91595deb21cc/535_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2c060ede3f8d5b4fbc0496b82f513127",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a5368036f2",
-    "source": "BBC — Top Stories",
-    "title": "Plaid to promise new teachers up to £30,000 to stay in Wales",
-    "summary": "Incentives will be aimed at new teachers in priority subjects if Plaid wins next election, party says.",
-    "url": "https://www.bbc.com/news/articles/cpw14egz1qeo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T13:49:30Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcb0/live/11002d40-a689-11f0-b1b4-c5478a000cd9.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
