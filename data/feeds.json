@@ -3,9 +3,9 @@
     "id": "BBC — Top Stories-92808cda1c",
     "source": "BBC — Top Stories",
     "title": "Paedophile singer Ian Watkins dies after prison attack",
-    "summary": "Ian Watkins was serving a 29-year sentence imposed in 2013 after admitting 13 child sex offences.",
+    "summary": "Watkins was serving a 29-year sentence imposed in 2013 after admitting 13 child sex offences.",
     "url": "https://www.bbc.com/news/articles/cm2d2me0eljo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T17:12:12Z",
+    "published": "2025-10-11T17:49:44Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd93/live/cff02cb0-a6c4-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
@@ -17,8 +17,32 @@
     "title": "No survivors found after Tennessee explosives plant blast",
     "summary": "The 18 people unaccounted for after the blast at a Tennessee munitions factory are presume dead, say officials.",
     "url": "https://www.bbc.com/news/articles/cx2523997p9o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T17:05:12Z",
+    "published": "2025-10-11T17:39:31Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a40e/live/ecf31290-a6c0-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e73866d97b",
+    "source": "The Guardian — UK",
+    "title": "Lostprophets singer Ian Watkins dies after being attacked in prison",
+    "summary": "Forty-eight-year-old was serving 29-year prison sentence after admitting multiple child sex offences The convicted child sexual abuser and former Lostprophets singer Ian Watkins has died after being attacked in prison. The 48-year-old was serving a 29-year prison sentence at HMP Wakefield, with a further six years on licence, after admitting a string of sex offences including the attempted rape of a baby. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/11/lostprophets-singer-ian-watkins-dies-after-being-attacked-in-prison",
+    "published": "2025-10-11T17:23:36Z",
+    "image_url": "https://i.guim.co.uk/img/media/d3d7ca9f045c5dda909a0ee60dc265d7547cba8a/0_566_2200_1760/master/2200.jpg?width=140&quality=85&auto=format&fit=max&s=bee72d8c51f99034fe79ba760332ffb1",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0f554d7119",
+    "source": "BBC — Top Stories",
+    "title": "Tens of thousands attend pro-Palestinian march in London",
+    "summary": "The demonstration comes a day after a ceasefire between Israel and Hamas took effect in Gaza.",
+    "url": "https://www.bbc.com/news/articles/cewnwgnqj2qo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T17:17:54Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f4f/live/b1807ac0-a6a4-11f0-a409-e197032d359e.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -36,25 +60,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-0f554d7119",
-    "source": "BBC — Top Stories",
-    "title": "Tens of thousands attend pro-Palestinian march in London",
-    "summary": "The demonstration comes a day after a ceasefire between Israel and Hamas took effect in Gaza.",
-    "url": "https://www.bbc.com/news/articles/cewnwgnqj2qo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T16:49:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f4f/live/b1807ac0-a6a4-11f0-a409-e197032d359e.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-fa5a783349",
     "source": "Politico — UK",
     "title": "Green MEP on Gaza aid flotilla to be released Sunday",
     "summary": "An aide to French MEP Mélissa Camara said there were no indications she faced mistreatment during her detention.",
     "url": "https://www.politico.eu/article/green-mep-on-gaza-aid-flotilla-to-be-released-sunday/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-11T16:48:32Z",
-    "image_url": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/24/13326908-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -103,6 +115,18 @@
     "url": "https://www.bbc.com/news/articles/c1ede670jnyo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T15:17:45Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3846/live/3e341bf0-a6b1-11f0-90fd-c3777763571c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-2981d2eb0c",
+    "source": "BBC — Top Stories",
+    "title": "Hamas mobilises fighters in Gaza as fears of internal violence mount",
+    "summary": "Clashes have already taken place between the group and an armed clan in Gaza City.",
+    "url": "https://www.bbc.com/news/articles/ce8482418plo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T14:44:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28d5/live/6f84f470-a6ae-11f0-b55a-e7725355d83f.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -187,6 +211,18 @@
     "url": "https://www.politico.com/news/2025/10/11/academia-resistance-trump-funding-deal-00603781?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-11T12:13:55Z",
     "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6b151800d1",
+    "source": "BBC — Top Stories",
+    "title": "Watch: North Korea shows off huge missile at military parade",
+    "summary": "Named the Hwasong-20, its size suggests that it could carry multiple nuclear warheads.",
+    "url": "https://www.bbc.com/news/videos/c8rvrk3y1rno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T11:55:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe4/live/c0f04cb0-a69f-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -336,18 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-28c679d68e",
-    "source": "BBC — Top Stories",
-    "title": "Surge in Chagos arrivals prompts row over housing costs",
-    "summary": "Dozens of Chagossians have flown in to Heathrow Airport this week, putting pressure on housing services.",
-    "url": "https://www.bbc.com/news/articles/cd721j8390zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T06:39:14Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8370/live/76292040-a5d1-11f0-b98a-8b079c99c55e.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-2785e1d33e",
     "source": "The Guardian — UK",
     "title": "Rachel Reeves v the OBR: chancellor aims to loosen the watchdog’s grip",
@@ -456,25 +480,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-957fc93768",
+    "id": "The Guardian — UK-42d6df5693",
     "source": "The Guardian — UK",
-    "title": "Man in serious condition after being shot by police in London",
-    "summary": "IOPC investigating incident at property in Walthamstow where man reportedly had firearm and made threats to kill A man was taken to hospital in a “life-threatening” condition after he was shot by police at a home in London on Friday afternoon. The Independent Office for Police Conduct (IOPC) has launched an investigation into the actions of Metropolitan police officers during the incident at a property in Walthamstow, north-east London. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/10/man-in-serious-condition-after-being-shot-by-police-in-london",
-    "published": "2025-10-10T22:16:42Z",
-    "image_url": "https://i.guim.co.uk/img/media/819cb7352d1b4ce807680ca8cbf96d9da7205daf/414_0_4119_3297/master/4119.jpg?width=140&quality=85&auto=format&fit=max&s=222745db87cf240ee339b1428b68bca1",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9402cfa4d4",
-    "source": "BBC — Top Stories",
-    "title": "Tony Blair met Jeffrey Epstein while prime minister",
-    "summary": "The ex-PM confirms he met Epstein in 2002, six years before the financier pleaded guilty to soliciting prostitution from a minor.",
-    "url": "https://www.bbc.com/news/articles/c5yk16gpxj0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T19:24:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3619/live/3b616a60-a6a5-11f0-b741-177e3e2c2fc7.jpg",
+    "title": "Boris Johnson breached rules designed to stop abuse of contacts made in public office, watchdog finds",
+    "summary": "Johnson found to have breached rules after refusing to answer specific questions about allegations published by the Guardian Boris Johnson breached rules designed to stop the abuse of contacts and access made in public office, an ethics watchdog has found. Last month the Guardian published revelations about Johnson’s conduct since leaving office. The Boris Files , a trove of documents from the former prime minister’s private office seen by the Guardian, suggested he repeatedly broke rules forbidding him from exploiting for private gain contacts made in office. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/10/boris-johnson-breached-rules-designed-to-stop-abuse-of-contacts-made-in-public-office-watchdog-finds",
+    "published": "2025-10-10T18:10:47Z",
+    "image_url": "https://i.guim.co.uk/img/media/5d8e2c9659068f455e07fb6e72f9f4ffd9698ff9/289_0_3385_2708/master/3385.jpg?width=140&quality=85&auto=format&fit=max&s=97c03347e5dd5cc864149c838620e781",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -523,18 +535,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/10/fayaz-khan-small-boat-nigel-farage",
     "published": "2025-10-10T16:16:23Z",
     "image_url": "https://i.guim.co.uk/img/media/5da9e6daeecd108a635d483e3f6792035401dc5f/0_404_1307_1045/master/1307.jpg?width=140&quality=85&auto=format&fit=max&s=c4391b359015faf58ba8a5687685967c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-739138458d",
-    "source": "The Guardian — UK",
-    "title": "Calls for UK government to pardon women executed for witchcraft",
-    "summary": "Council leader writes to home secretary asking for general pardon for ‘witches’ convicted in 16th and 17th centuries On 30 July 1652, seven women were hanged on Penenden Heath in Maidstone, Kent. Witch trials and executions were far from unusual at the time, in the town or elsewhere, but rarely were so many convicted at once. The women – Anne Ashby, Mary Brown, Anne Martyn, Mildred Wright, Susan Pickenden, Anne Wilson and Mary Reade – had been accused by their neighbours of terrible acts including “bewitching to death” a 10-day-old baby, the child’s mother, and a three-year-old. Several were claimed to have “carnally known” the devil in exchange for their monstrous powers. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/10/calls-for-uk-government-to-pardon-women-executed-for-witchcraft",
-    "published": "2025-10-10T14:43:13Z",
-    "image_url": "https://i.guim.co.uk/img/media/20998c0db78b9e2cce5bf500f489071b05839940/131_76_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=8d060a1dd17f5ed7e7094f854a743d09",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
