@@ -1,5 +1,29 @@
 [
   {
+    "id": "Politico — UK-851729cd5b",
+    "source": "Politico — UK",
+    "title": "Belgian police officer charged with spying",
+    "summary": "A member of the Brussels local police is suspected of having been co-opted for his access to diplomats.",
+    "url": "https://www.politico.eu/article/belgian-police-officer-charged-with-spying/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-11T12:53:20Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/11/belgian-police-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-71859765f2",
+    "source": "BBC — Top Stories",
+    "title": "Bridget Phillipson v Lucy Powell - behind the battle for Labour's deputy leader",
+    "summary": "The pair are going head-to-head to be Angela Rayner's replacement, but what are they battling for?",
+    "url": "https://www.bbc.com/news/articles/c4g5nxzzky2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T12:51:14Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a57/live/a5a304f0-a5c5-11f0-92db-77261a15b9d2.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-d31061819e",
     "source": "BBC — Top Stories",
     "title": "Hamas presses Israel to free prominent prisoners as part of Gaza deal",
@@ -30,7 +54,7 @@
     "summary": "Named the Hwasong-20, its size suggests that it could carry multiple nuclear warheads.",
     "url": "https://www.bbc.com/news/videos/c8rvrk3y1rno?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T11:55:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db3/live/d6441790-a695-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe4/live/c0f04cb0-a69f-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -66,7 +90,7 @@
     "summary": "Israeli troops have pulled back from parts of Gaza after Israel approved Donald Trump's ceasefire and hostage release plan.",
     "url": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T11:26:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4d6/live/6a43cd40-a5d9-11f0-8fc6-8d89d06fa925.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e572/live/df6cb660-a69f-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -348,18 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-1c59d10ad5",
-    "source": "BBC — Top Stories",
-    "title": "King's coat of arms to feature on new UK passports",
-    "summary": "The full redesign, coming into effect from December, will be the first since passports turned dark blue after Brexit.",
-    "url": "https://www.bbc.com/news/articles/c0lk3dg7j6eo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T23:45:24Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62f4/live/eb947bf0-a61b-11f0-860a-456736746653.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-53b059f2d1",
     "source": "BBC — Top Stories",
     "title": "Can the world's oldest president keep his title and woo a nation of young voters?",
@@ -463,18 +475,6 @@
     "url": "https://www.bbc.com/news/articles/c75q2y92090o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T17:27:47Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d288/live/f71c1d60-a5f9-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-2e5ef11a84",
-    "source": "Politico — UK",
-    "title": "Warning signs of financial instability rattle policymakers ahead of IMF jamboree",
-    "summary": "Two big U.S. bankruptcies have revived memories of the last time the financial sector went bad.",
-    "url": "https://www.politico.eu/article/warning-signs-of-financial-instability-rattle-markets-ahead-of-imf-jamboree/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T17:07:01Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2239416626-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
