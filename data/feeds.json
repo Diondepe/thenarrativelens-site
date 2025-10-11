@@ -1,5 +1,41 @@
 [
   {
+    "id": "The Guardian — UK-927760f1af",
+    "source": "The Guardian — UK",
+    "title": "Widow of man conned out of pension savings to lose half the compensation to tax",
+    "summary": "Robert Dewar’s widow, Susan, is a leading campaigner over multimillion-pound Norton Motorcycles fraud The family of a deceased man, who was conned out of his retirement savings after investing in the Norton Motorcycles pension scam, is to lose almost half the subsequent compensation award because of a little-known tax rule. A long-running battle to win an award from the Fraud Compensation Fund (FCF) meant that Robert Dewar’s pension was not reimbursed until 2024, five years after his death at the age of 64. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/11/norton-motorcycles-pension-scandal-victims-widow-to-lose-almost-half-of-payout-tax-rule",
+    "published": "2025-10-11T11:00:22Z",
+    "image_url": "https://i.guim.co.uk/img/media/602f6465ad824db58a52dc454b93e574899f364b/309_0_5263_4209/master/5263.jpg?width=140&quality=85&auto=format&fit=max&s=9c77a9c4838288863b22dcfd2bfef38d",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-f39106ea96",
+    "source": "The Guardian — UK",
+    "title": "Revealed: Labour-run council using legal loophole to serve families with no-fault evictions",
+    "summary": "Exclusive: London council created an arm’s-length body to manage some of its housing stock A Labour-run council is using a legal loophole to issue dozens of families with no-fault evictions, despite Keir Starmer’s manifesto pledge to outlaw the practice. Scrapping no-fault evictions “immediately” was one of Labour’s main manifesto pledges before its 2024 election win, but more than a year on, the party’s flagship renters’ rights bill has not been made law. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/oct/11/lambeth-council-legal-loophole-no-fault-evictions",
+    "published": "2025-10-11T11:00:22Z",
+    "image_url": "https://i.guim.co.uk/img/media/3359343504e7dc51ab70643e89370e0b4de0cf62/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=81bf1f34d3c187c6f6b49aa34906de39",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-8be0b82b6f",
+    "source": "Politico — UK",
+    "title": "Geert Wilders suspends campaign over security threat",
+    "summary": "The Dutch far-right politician, who is currently topping the polls ahead of Oct. 29 elections, said he was under threat by the same group behind the foiled plot against Belgium's Bart de Wever.",
+    "url": "https://www.politico.eu/article/geert-wilders-suspends-campaign-over-security-threat-party-freedom-netherlands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-11T10:54:48Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/11/geert-wilders-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-90ffc263d7",
     "source": "Politico — UK",
     "title": "Melania Trump says she and Vladimir Putin have ‘open channel of communication’ on war-displaced children",
@@ -51,10 +87,10 @@
     "id": "BBC — Top Stories-ab8d053bcd",
     "source": "BBC — Top Stories",
     "title": "Eighteen missing after explosion at Tennessee munitions factory",
-    "summary": "\"There's nothing to describe, it's gone,\" says Humphreys County Sheriff Mike Davis, who grew emotional while providing an update about the most devastating incident of his career.",
+    "summary": "\"There's nothing to describe, it's gone,\" says Humphreys County Sheriff Mike Davis.",
     "url": "https://www.bbc.com/news/articles/c89d4zw8704o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T08:16:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e13a/live/96ab36a0-a621-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7998/live/15c6b930-a68d-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -180,18 +216,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-3cda1f8cea",
-    "source": "BBC — Top Stories",
-    "title": "UK ready to use frozen Russian assets to fund Ukraine war effort",
-    "summary": "The UK, France and Germany are \"united\" in wanting to use the full value of frozen Russian assets to end the war, Sir Keir Starmer said.",
-    "url": "https://www.bbc.com/news/articles/c62np269qv9o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T03:02:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3e3/live/e61646b0-a641-11f0-bf8c-8df5a7a0d5c3.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-8a1c161877",
     "source": "BBC — Top Stories",
     "title": "I was ready to die for the Taliban. Now I hope I can prevent others becoming radicalised",
@@ -246,7 +270,7 @@
     "summary": "Chaotic scenes have become routine in a federal immigration court in Manhattan.",
     "url": "https://www.bbc.com/news/articles/cn0rxrxd444o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T00:35:36Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c595/live/806bc710-a68a-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da1c/live/95dc2430-a68c-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -259,6 +283,18 @@
     "url": "https://www.bbc.com/news/articles/cz69qy760weo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T23:55:36Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a3/live/27b4ce60-a684-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1c59d10ad5",
+    "source": "BBC — Top Stories",
+    "title": "King's coat of arms to feature on new UK passports",
+    "summary": "The full redesign, coming into effect from December, will be the first since passports turned dark blue after Brexit.",
+    "url": "https://www.bbc.com/news/articles/c0lk3dg7j6eo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T23:45:24Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62f4/live/eb947bf0-a61b-11f0-860a-456736746653.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -318,7 +354,7 @@
     "summary": "The ex-PM confirms he met Epstein in 2002, six years before the financier pleaded guilty to soliciting prostitution from a minor.",
     "url": "https://www.bbc.com/news/articles/c5yk16gpxj0o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T19:24:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2512/live/f4a4ec50-a67c-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3636/live/43132e30-a68f-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -408,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-11e94aa710",
-    "source": "Politico — UK",
-    "title": "On Gaza, two cheers for Trump — but not three",
-    "summary": "The ceasefire is a triumph for the U.S. president, though some of his detractors are only giving him begrudging applause. Still, phase two of the deal remains fraught.",
-    "url": "https://www.politico.eu/article/war-in-gaza-ceasefire-donald-trump-israel-hamas/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-10T16:44:33Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2239668259-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-f14ac81f7b",
     "source": "The Guardian — UK",
     "title": "Richard Tice accepted stay at French Riviera home of Tory donor",
@@ -444,30 +468,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-c082060544",
-    "source": "The Guardian — UK",
-    "title": "Man who entered UK on small boat found guilty of threatening to kill Nigel Farage",
-    "summary": "Fayaz Khan, 26, made the threat in a TikTok video that Reform UK leader told the court was ‘pretty chilling’ A man who came to the UK on a small boat has been found guilty of making a threat to kill Nigel Farage in a TikTok video. Fayaz Khan, 26, an Afghan national, was found guilty by a majority of 10 jurors to two after almost 12 hours of deliberation at Southwark court court. He had made the threat to kill the Reform UK leader in October last year in a video that Farage told the court was “pretty chilling”. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/10/fayaz-khan-small-boat-nigel-farage",
-    "published": "2025-10-10T16:16:23Z",
-    "image_url": "https://i.guim.co.uk/img/media/5da9e6daeecd108a635d483e3f6792035401dc5f/0_404_1307_1045/master/1307.jpg?width=140&quality=85&auto=format&fit=max&s=c4391b359015faf58ba8a5687685967c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-f52a2a26cf",
-    "source": "The Guardian — UK",
-    "title": "Britons travelling to EU to undergo new biometric checks at border from Sunday",
-    "summary": "Most non-EU nationals entering Schengen area will have photo and fingerprints taken as part of entry-exit system The first British and other non-EU citizens will be subjected to new biometric checks when travelling to Europe from Sunday, when the long-delayed entry-exit system (EES) is finally launched. A phased implementation to avoid chaos at borders means it could be another six months before every traveller is checked, with passport stamping continuing until the system is fully up and running. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/10/britons-travelling-eu-undergo-new-biometric-checks-border",
-    "published": "2025-10-10T15:13:27Z",
-    "image_url": "https://i.guim.co.uk/img/media/3eb57cab0e8775241f14f35b6fd0389f85da9b29/1362_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=9cb49b04978090e3c1ac1500e6bffa98",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-70cce37389",
     "source": "BBC — Top Stories",
     "title": "'They've destroyed everything': Palestinians return to devastation in Gaza City",
@@ -475,6 +475,18 @@
     "url": "https://www.bbc.com/news/articles/czew72350ngo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T15:03:02Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde1/live/2229dd10-a5e8-11f0-920e-cb66ee1d5eb0.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-739138458d",
+    "source": "The Guardian — UK",
+    "title": "Calls for UK government to pardon women executed for witchcraft",
+    "summary": "Council leader writes to home secretary asking for general pardon for ‘witches’ convicted in 16th and 17th centuries On 30 July 1652, seven women were hanged on Penenden Heath in Maidstone, Kent. Witch trials and executions were far from unusual at the time, in the town or elsewhere, but rarely were so many convicted at once. The women – Anne Ashby, Mary Brown, Anne Martyn, Mildred Wright, Susan Pickenden, Anne Wilson and Mary Reade – had been accused by their neighbours of terrible acts including “bewitching to death” a 10-day-old baby, the child’s mother, and a three-year-old. Several were claimed to have “carnally known” the devil in exchange for their monstrous powers. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/10/calls-for-uk-government-to-pardon-women-executed-for-witchcraft",
+    "published": "2025-10-10T14:43:13Z",
+    "image_url": "https://i.guim.co.uk/img/media/20998c0db78b9e2cce5bf500f489071b05839940/131_76_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=8d060a1dd17f5ed7e7094f854a743d09",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -523,18 +535,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/10/the-1m-man-why-did-boris-johnson-take-his-donor-to-ukraine",
     "published": "2025-10-10T12:00:53Z",
     "image_url": "https://i.guim.co.uk/img/media/05d5d20d0f3717b283178616a7827f51c1b68711/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=925f9de24a521df2d93c3e39064d125a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-e053aca122",
-    "source": "The Guardian — UK",
-    "title": "Richard Tice has 15-year record of supporting ‘net stupid zero’ initiatives",
-    "summary": "Firms led by deputy Reform UK leader since 2011 have shown commitment to saving energy and cutting CO 2 emissions He never seems to tire of deriding “net stupid zero”, but Reform UK’s deputy leader, Richard Tice, has a 15-year business record of support for sustainability and green energy initiatives. The Reform party has made opposition to green energy and net zero part of its policy platform. Its founder, Nigel Farage, has called net zero policies a “lunacy” ; the party has called to lift the ban on fracking for fossil gas; and one of the first Reform-led councils, Kent, rescinded last month its declaration of a climate emergency . Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/10/richard-tice-15-year-business-record-supporting-net-stupid-zero",
-    "published": "2025-10-10T10:19:57Z",
-    "image_url": "https://i.guim.co.uk/img/media/613797cdc389b1d14657ab10af312217bde96e19/720_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=b96fd5ee33c675c14bec082f8c60fcd1",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
