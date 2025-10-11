@@ -1,5 +1,17 @@
 [
   {
+    "id": "BBC — Top Stories-3cda1f8cea",
+    "source": "BBC — Top Stories",
+    "title": "UK ready to use frozen Russian assets to fund Ukraine war effort",
+    "summary": "The UK, France and Germany are \"united\" in wanting to use the full value of frozen Russian assets to end the war, Sir Keir Starmer said.",
+    "url": "https://www.bbc.com/news/articles/c62np269qv9o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T03:02:51Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3e3/live/e61646b0-a641-11f0-bf8c-8df5a7a0d5c3.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-dec44e23db",
     "source": "BBC — Top Stories",
     "title": "Wolf Alice: 'A good album is one of the highest forms of art'",
@@ -62,7 +74,7 @@
   {
     "id": "BBC — Top Stories-298210b013",
     "source": "BBC — Top Stories",
-    "title": "'Hope in Gaza' and 'Live forever in our hearts, Ricky'",
+    "title": "The Papers: 'Hope in Gaza' and 'Live forever in our hearts, Ricky'",
     "summary": "The beginning of a ceasefire between Israel and Hamas and the funeral of boxer Ricky Hatton lead Saturday's papers.",
     "url": "https://www.bbc.com/news/articles/cx27e9l9gxgo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-10T23:32:15Z",
@@ -331,18 +343,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/10/fayaz-khan-small-boat-nigel-farage",
     "published": "2025-10-10T16:16:23Z",
     "image_url": "https://i.guim.co.uk/img/media/5da9e6daeecd108a635d483e3f6792035401dc5f/0_404_1307_1045/master/1307.jpg?width=140&quality=85&auto=format&fit=max&s=c4391b359015faf58ba8a5687685967c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b9eabf5aba",
-    "source": "BBC — Top Stories",
-    "title": "Thousands line streets for boxing legend Ricky Hatton's funeral",
-    "summary": "The great and good of the boxing world were among those saying an emotional farewell to the boxer.",
-    "url": "https://www.bbc.com/news/articles/cvgq2z68n02o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T15:41:05Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/472e/live/80c91470-a5e9-11f0-920e-cb66ee1d5eb0.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
