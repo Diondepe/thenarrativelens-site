@@ -1,8 +1,20 @@
 [
   {
+    "id": "BBC — Top Stories-2215e39f30",
+    "source": "BBC — Top Stories",
+    "title": "Israelis praise Trump at huge rally ahead of expected hostage release by Hamas in Gaza",
+    "summary": "Hundreds of thousands gather in Tel Aviv as Palestinians continue to return to Gaza City after the Israeli withdrawal.",
+    "url": "https://www.bbc.com/news/articles/c75q5qng0rgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T23:12:32Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa50/live/d652b260-a6e9-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-817438d97c",
     "source": "BBC — Top Stories",
-    "title": "Actress Diane Keaton dies aged 79, US media report",
+    "title": "Academy award-winning actress Diane Keaton dies aged 79",
     "summary": "She was best known for roles in films including in The Father of the Bride, The Godfather and Annie Hall.",
     "url": "https://www.bbc.com/news/articles/cr5q5rp4r64o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T22:06:37Z",
@@ -31,18 +43,6 @@
     "url": "https://www.bbc.com/news/articles/cm2d2me0eljo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T21:32:08Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd93/live/cff02cb0-a6c4-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-2215e39f30",
-    "source": "BBC — Top Stories",
-    "title": "Israelis praise Trump at huge rally ahead of expected hostage release by Hamas in Gaza",
-    "summary": "Hundreds of thousands gather in Tel Aviv as Palestinians continue to return to Gaza City after the Israeli withdrawal.",
-    "url": "https://www.bbc.com/news/articles/c75q5qng0rgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T21:29:01Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa50/live/d652b260-a6e9-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
