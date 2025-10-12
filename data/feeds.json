@@ -1,5 +1,17 @@
 [
   {
+    "id": "BBC — Top Stories-2215e39f30",
+    "source": "BBC — Top Stories",
+    "title": "Israelis praise Trump at huge rally ahead of expected hostage release by Hamas in Gaza",
+    "summary": "Hundreds of thousands gather in Tel Aviv as Palestinians continue to return to Gaza City after the Israeli withdrawal.",
+    "url": "https://www.bbc.com/news/articles/c75q5qng0rgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T04:37:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa50/live/d652b260-a6e9-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-57caa9e21f",
     "source": "The Guardian — UK",
     "title": "What is the new EU border system EES, and how will it work?",
@@ -67,18 +79,6 @@
     "url": "https://www.bbc.com/news/articles/ce8450380zyo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T23:20:40Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940f/live/fef0d9a0-6705-11f0-8dbd-f3d32ebd3327.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-2215e39f30",
-    "source": "BBC — Top Stories",
-    "title": "Israelis praise Trump at huge rally ahead of expected hostage release by Hamas in Gaza",
-    "summary": "Hundreds of thousands gather in Tel Aviv as Palestinians continue to return to Gaza City after the Israeli withdrawal.",
-    "url": "https://www.bbc.com/news/articles/c75q5qng0rgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T23:12:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa50/live/d652b260-a6e9-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
