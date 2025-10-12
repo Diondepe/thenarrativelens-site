@@ -1,5 +1,29 @@
 [
   {
+    "id": "The Guardian — UK-57caa9e21f",
+    "source": "The Guardian — UK",
+    "title": "What is the new EU border system EES, and how will it work?",
+    "summary": "Digital entry and exit scheme means most travellers will have to register biometric information at the border Britons travelling to EU to undergo new biometric checks at border from Sunday Many travellers to Europe will see changes in border security from Sunday with the launch of the EU’s new digital entry and exit system (EES) after many delays. The system means most non-EU citizens will have to register their biometric information at the border. Travellers’ faces will have to be photographed and fingerprints scanned before they are allowed into Europe’s Schengen area. The system will eventually replace passports being stamped by border officials. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/oct/12/new-eu-new-border-system-ees-delays",
+    "published": "2025-10-12T04:00:41Z",
+    "image_url": "https://i.guim.co.uk/img/media/6e4c60e5dfa5da80d0c21f577ec7ccd958349ad1/253_0_3779_3024/master/3779.jpg?width=140&quality=85&auto=format&fit=max&s=fc29e0f1f02f9cdba9cb9d9bb107c556",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a85cfeb2ae",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'White House anger over UK spy case' and 'Pensions tax raid'",
+    "summary": "White House \"anger\" over the UK's handling of a China spy case and the chancellor's tax plans lead Sunday's papers.",
+    "url": "https://www.bbc.com/news/articles/c3060v86y4jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T03:54:38Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ca/live/3330a530-a700-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-860654c07c",
     "source": "BBC — Top Stories",
     "title": "What can the King do about Prince Andrew scandals?",
@@ -19,18 +43,6 @@
     "url": "https://www.bbc.com/news/articles/ce808gvp56mo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-12T02:04:52Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b1/live/0a753390-a70a-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a85cfeb2ae",
-    "source": "BBC — Top Stories",
-    "title": "The Papers: 'White House anger over UK spy case' and 'Pensions tax raid'",
-    "summary": "White House \"anger\" over the UK's handling of a China spy case and the chancellor's tax plans lead Sunday's papers.",
-    "url": "https://www.bbc.com/news/articles/c3060v86y4jo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T00:17:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ca/live/3330a530-a700-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -571,18 +583,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/09/starmer-enters-parallel-universe-as-red-carpet-pulled-out-in-india-amid-trade-deal",
     "published": "2025-10-09T15:37:47Z",
     "image_url": "https://i.guim.co.uk/img/media/a9b76c4a21fce06d4e77395667fbf91edc183bdc/413_0_6306_5048/master/6306.jpg?width=140&quality=85&auto=format&fit=max&s=f6d1df7c8bf794786f940cbeb145fc6d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-16117a261f",
-    "source": "The Guardian — UK",
-    "title": "Why has the UK dropped its trial of two alleged China spies?",
-    "summary": "Prosecutor hinted at lack of backing from Downing Street but legal experts argue prosecution was still possible An extraordinary disclosure by Stephen Parkinson, the director of public prosecutions, on Tuesday evening has triggered a political row over who was behind the sudden abandonment of a high-profile espionage case. Two Britons had been accused of acting as spies for China. One of them, Christopher Cash, was a parliamentary researcher for the Conservative backbencher Alicia Kearns, specialising in China issues. A trial had been due to start in October, but three weeks ago the Crown Prosecution Service dropped proceedings with little explanation until Tuesday. Continue reading...",
-    "url": "https://www.theguardian.com/law/2025/oct/08/why-has-the-uk-dropped-its-trial-of-two-alleged-china-spies",
-    "published": "2025-10-08T18:38:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/2fbaf52e943e93790082d46570d5ec0cba39fc84/0_0_11687_9350/master/11687.jpg?width=140&quality=85&auto=format&fit=max&s=9139777eccf1fd7de4a1d2abc2c5e9d6",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
