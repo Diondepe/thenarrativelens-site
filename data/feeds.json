@@ -1,5 +1,77 @@
 [
   {
+    "id": "The Guardian — UK-c650ed8e9a",
+    "source": "The Guardian — UK",
+    "title": "Lucy Powell calls on Labour not to ‘write off’ May local elections",
+    "summary": "Exclusive: deputy leadership favourite says budget can revive party’s appeal, while Bridget Phillipson pitches to channel grassroots views to cabinet Labour should not “write off” next May’s elections as a likely moment for big losses but use the budget as a way to seize back voters’ attention, Lucy Powell has said as the battle to be the party’s deputy leadership entered its final period. With voting among party members under way, Bridget Phillipson, Powell’s rival for the post, said if she won she would set up a formal system to reflect the views of members and unions to cabinet on a regular basis. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/12/lucy-powell-calls-on-labour-not-to-write-off-may-local-elections",
+    "published": "2025-10-12T16:00:21Z",
+    "image_url": "https://i.guim.co.uk/img/media/76ab272bb5d2ecfbb71be150d5f8572aba021427/254_0_3099_2480/master/3099.jpg?width=140&quality=85&auto=format&fit=max&s=02a913f33b7da7899cb063833ebe2c3f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a320ef828d",
+    "source": "BBC — Top Stories",
+    "title": "Murder arrest after two children found dead",
+    "summary": "A 43-year-old woman is detained by police after children are pronounced dead at a domestic property.",
+    "url": "https://www.bbc.com/news/articles/c78n8y3mlxko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T15:57:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e29/live/c337b680-a761-11f0-af68-63d6dbe14439.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-5ee881316e",
+    "source": "The Guardian — UK",
+    "title": "UK small businesses and charities say nuclear levy could add thousands to bills",
+    "summary": "Charge from next month expected to have disproportionate impact after energy-intensive industries given exemption British charities and small businesses have warned that a new levy on energy bills, intended to support the government’s nuclear power ambitions, could raise their costs by thousands of pounds a year. The extra charge could mean a significant cost hike for charities and small businesses with high energy use, meaning community services may be cut and economic growth curtailed, according to trade groups. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/12/uk-small-businesses-and-charities-say-nuclear-levy-could-add-thousands-to-bills",
+    "published": "2025-10-12T15:29:53Z",
+    "image_url": "https://i.guim.co.uk/img/media/fc5d48038b2acebba2cd8cca95e687c593a615ed/300_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=56db4cbcab2ae1ea5b0ebda7c4f6c663",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-817438d97c",
+    "source": "BBC — Top Stories",
+    "title": "'She left trail of fairy dust': Tributes pour in for Diane Keaton",
+    "summary": "First Wives Club co-star Goldie Hawn says Diane Keaton left \"memories beyond imagination\" following her death aged 79.",
+    "url": "https://www.bbc.com/news/articles/cr5q5rp4r64o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T15:28:08Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3881/live/ddb61160-a77e-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-6bcca05532",
+    "source": "The Guardian — UK",
+    "title": "William Hill owner says it could shut up to 200 shops if Reeves raises gambling taxes",
+    "summary": "Evoke considering the plans before expected tax increases in budget, with up to 1,500 jobs potentially affected The debt-laden company behind William Hill is considering closing up to 200 betting shops if Rachel Reeves’s autumn budget raises taxes on the gambling sector. Evoke, formerly known as 888, which acquired William Hill in a £2bn takeover in 2022, is drawing up plans for different scenarios before expected gambling tax increases in the chancellor’s budget on 26 November. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/12/william-hill-owner-could-shut-shops-if-reeves-raises-gambling-taxes",
+    "published": "2025-10-12T15:08:22Z",
+    "image_url": "https://i.guim.co.uk/img/media/e4049adc3b6aa3a939d9f2efd1f6288be8d97662/23_0_6521_5219/master/6521.jpg?width=140&quality=85&auto=format&fit=max&s=ba1ce31e821751325d1db0ffc6d37bd3",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b20db6ee15",
+    "source": "BBC — Top Stories",
+    "title": "The women taking Meta to task after their baby loss",
+    "summary": "Several women say the pain of losing their babies was made worse by targeted advertising.",
+    "url": "https://www.bbc.com/news/articles/ce8450380zyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T15:05:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940f/live/fef0d9a0-6705-11f0-8dbd-f3d32ebd3327.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-e5dd29d025",
     "source": "Politico — UK",
     "title": "Trump’s war on drugs is also about regime change",
@@ -15,7 +87,7 @@
     "id": "The Guardian — UK-f413308774",
     "source": "The Guardian — UK",
     "title": "Prince Andrew told Jeffrey Epstein ‘we’re in this together’ in 2011 email",
-    "summary": "Royal sent email after Virginia Giuffre photo emerged but later claimed he had ceased contact with Epstein in 2010 Prince Andrew told Jeffrey Epstein in an email “we are in this together” after a picture of the British royal with his arm around a teenage Virginia Giuffre was first published in 2011. The email will pile further pressure on Duke of York and the royal family as he previously told the BBC he had ceased contact with the paedophile financier by that point. Continue reading...",
+    "summary": "Royal sent email after Virginia Giuffre photo emerged but later claimed he had ceased contact with Epstein in 2010 Prince Andrew told Jeffrey Epstein in an email “we are in this together” after a picture of the British royal with his arm around a teenage Virginia Giuffre was first published in 2011. The email will pile further pressure on the Duke of York and the royal family because he previously told the BBC he had ceased contact with the convicted child sex offender by that point. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/12/prince-andrew-told-jeffrey-epstein-were-in-this-together-in-2011-email",
     "published": "2025-10-12T14:29:33Z",
     "image_url": "https://i.guim.co.uk/img/media/ac0a66808c4ec3c978ee1afc0e8e5ad50109ca57/496_61_2052_1641/master/2052.jpg?width=140&quality=85&auto=format&fit=max&s=dd44640f60b144707f996c332fd65edb",
@@ -27,7 +99,7 @@
     "id": "The Guardian — UK-5896dcb868",
     "source": "The Guardian — UK",
     "title": "UK ministers take control of £10bn Lower Thames Crossing",
-    "summary": "Exclusive: National Highways Agency stripped of oversight with project handed to DfT amid Labour government drive for growth Ministers have stripped the government’s road-building agency of responsibility for a £10bn tunnel under the River Thames amid a drive by Keir Starmer’s cabinet to take tight control over important infrastructure projects for fear of cost overruns and delays. Oversight of the Lower Thames Crossing – the UK’s largest planned infrastructure project – has been taken away from National Highways, and handed to the Department for Transport (DfT). Continue reading...",
+    "summary": "Exclusive: National Highways Agency stripped of oversight with project handed to DfT amid Labour government drive for growth Ministers have stripped the government’s road-building agency of responsibility for a £10bn tunnel under the River Thames amid a drive by Keir Starmer’s cabinet to take tight control over important infrastructure projects for fear of cost overruns and delays. Oversight of the Lower Thames Crossing – the UK’s largest planned infrastructure project – has been taken away from National Highways and handed to the Department for Transport (DfT). Continue reading...",
     "url": "https://www.theguardian.com/business/2025/oct/12/uk-ministers-take-control-of-10bn-lower-thames-crossing",
     "published": "2025-10-12T14:00:56Z",
     "image_url": "https://i.guim.co.uk/img/media/f18b06fdec61cef41e7df16f5e0a342d5470d356/222_80_3161_2527/master/3161.jpg?width=140&quality=85&auto=format&fit=max&s=a1e30d9d0a173bdfa6438fe5790e5332",
@@ -96,9 +168,21 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-5a9c5b7d8b",
+    "source": "BBC — Top Stories",
+    "title": "Afghan Taliban says Pakistani troops killed in 'retaliatory' border attacks",
+    "summary": "The attacks came days after Pakistan was accused of bombing a market inside Afghanistan.",
+    "url": "https://www.bbc.com/news/articles/cgmzmn4971zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T11:58:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c057/live/818d4a50-a753-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-d6d3adf9e3",
     "source": "Politico — UK",
-    "title": "Zelenskyy urges continued pressure on Russia amid strikes on Ukraine energy plants",
+    "title": "Zelenskyy urges continued pressure on Russia amid strikes on energy plants",
     "summary": "Moscow’s defense ministry confirmed that Russian forces targeted Ukraine's energy infrastructure.",
     "url": "https://www.politico.eu/article/zelenskyy-asks-allies-maintain-pressure-russia-strikes-ukraine-energy-plants/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-12T11:31:56Z",
@@ -115,6 +199,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/12/woman-arrested-on-suspicion-of-murder-after-death-of-two-children-in-stafford",
     "published": "2025-10-12T11:07:53Z",
     "image_url": "https://i.guim.co.uk/img/media/6ab52f09d359bff4984b270cd23b0c0e32176b46/118_0_3062_2450/master/3062.jpg?width=140&quality=85&auto=format&fit=max&s=33b0b70562dfa41d625ffa3d8fb592e9",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-28684b1118",
+    "source": "BBC — Top Stories",
+    "title": "Watch: Fire at historic Italian monastery",
+    "summary": "Drone footage shows blaze destroying the historic Bernaga Monastery in Italy.",
+    "url": "https://www.bbc.com/news/videos/c1jzj1n797yo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T11:03:57Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a46/live/bcfeb300-a756-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -180,18 +276,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-dee5cc0e49",
-    "source": "BBC — Top Stories",
-    "title": "Why do footballers have private coaches?",
-    "summary": "Top footballers get elite-level training at their clubs - so why is it that some players are also turning to private coaches?",
-    "url": "https://www.bbc.com/sport/football/articles/c5y4zdv8178o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T08:07:18Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7480/live/75756d70-a51d-11f0-9cda-fff576c5be6d.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-92808cda1c",
     "source": "BBC — Top Stories",
     "title": "Paedophile singer Ian Watkins dies in prison attack as two men arrested",
@@ -216,18 +300,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a5b639c66f",
-    "source": "BBC — Top Stories",
-    "title": "The EU's new border system explained",
-    "summary": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
-    "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T07:32:58Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eea5/live/1c47a510-89a2-11f0-9a26-53a7b49d8dfd.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-18df3efff1",
     "source": "The Guardian — UK",
     "title": "Parliamentary staff of colour earn £2,000 less than white colleagues, study suggests",
@@ -240,13 +312,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-817438d97c",
+    "id": "BBC — Top Stories-b5dcf848ff",
     "source": "BBC — Top Stories",
-    "title": "Academy Award-winning actress Diane Keaton dies aged 79",
-    "summary": "She was best known for roles in films including in The Father of the Bride, The Godfather and Annie Hall.",
-    "url": "https://www.bbc.com/news/articles/cr5q5rp4r64o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T06:25:29Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e60/live/49a140d0-a6ed-11f0-928c-71dbb8619e94.jpg",
+    "title": "How have the big-name striker signings done so far in the Premier League?",
+    "summary": "Strikers dominated the summer transfer window and we have taken a look at how nine of them have done since their moves.",
+    "url": "https://www.bbc.com/sport/football/articles/cx2xzxgw1qgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T06:18:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f4/live/f1938710-a3de-11f0-92db-77261a15b9d2.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -324,18 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-6513fbc463",
-    "source": "BBC — Top Stories",
-    "title": "When do the clocks go back in the UK?",
-    "summary": "Most of us will get an extra hour in bed during the last weekend of October but the change will usher in some much earlier sunsets, as Ben Rich explains.",
-    "url": "https://www.bbc.com/weather/articles/cm2zdzwy12do?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T23:32:29Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/201d/live/af01ae30-a42a-11f0-ba96-81d873a15aec.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-320666f051",
     "source": "BBC — Top Stories",
     "title": "Thirty belugas in Canada face being euthanised. Can they be saved?",
@@ -367,30 +427,6 @@
     "url": "https://www.bbc.com/news/articles/cp8w6kn2dyzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T23:06:46Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e33/live/5b660dd0-a6bd-11f0-a5ba-c17536b4c2c1.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4dd3b9ff64",
-    "source": "BBC — Top Stories",
-    "title": "KPop Demon Hunters directors on Oscar chances and a possible sequel",
-    "summary": "The co-directors of Netflix's most watched film ever say \"there's more we can do with these characters\"",
-    "url": "https://www.bbc.com/news/articles/c8rvzmyyzmpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T23:04:33Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5227/live/940c9bf0-a5ea-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-cd6750bc6f",
-    "source": "BBC — Top Stories",
-    "title": "'Never experienced weather like this': How the Himalayas are turning more dangerous",
-    "summary": "Unpredictable, intense and longer monsoons are encroaching into autumn, turning it into a deadly season.",
-    "url": "https://www.bbc.com/news/articles/cx2jwgnwmezo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T22:17:35Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae5b/live/a4270e00-a75f-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -456,18 +492,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-3714c755fe",
-    "source": "The Guardian — UK",
-    "title": "Thousands gather in London in march for ‘lasting peace’ in Gaza",
-    "summary": "Director of Palestine Solidarity Campaign says ceasefire agreement says nothing about ‘system of apartheid’ in Palestine • Gaza ceasefire – live updates Thousands of people have gathered in central London to call for “lasting peace” in Gaza, a day after the ceasefire agreement between Israel and Hamas came into effect. The demonstration, organised by the Palestine Solidarity Campaign, began at Victoria Embankment and headed to Whitehall. Stalls sold keffiyehs and people handed out placards that read “from the river to the sea, Palestine will be free”, “it’s not a crime to act against genocide” and “Starmer has blood on his hands, free Palestine”. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/11/thousands-gather-london-march-lasting-peace-gaza",
-    "published": "2025-10-11T14:04:15Z",
-    "image_url": "https://i.guim.co.uk/img/media/9f40d1fc7ddf52d38d21eecb09aa91595deb21cc/535_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2c060ede3f8d5b4fbc0496b82f513127",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-c0205a5d40",
     "source": "The Guardian — UK",
     "title": "Tony Blair met Jeffrey Epstein in No 10 on advice of Peter Mandelson, documents reveal",
@@ -523,30 +547,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/11/rachel-reeves-v-the-obr-chancellor-aims-to-loosen-the-watchdogs-grip",
     "published": "2025-10-11T06:00:17Z",
     "image_url": "https://i.guim.co.uk/img/media/ff33dfa476f52d953898428179b241bf0362054f/529_55_2275_1820/master/2275.jpg?width=140&quality=85&auto=format&fit=max&s=8d25016b91fe735d167b750d4e1ecb41",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-6579b62559",
-    "source": "The Guardian — UK",
-    "title": "Rachel Reeves looks for extra headroom in budget to insulate UK economy against bond market",
-    "summary": "Chancellor hopes to raise enough funds to stop damaging speculation about breaching fiscal rules Rachel Reeves v the OBR: chancellor aims to loosen the watchdog’s grip Rachel Reeves is aiming to create more “headroom” against her fiscal rules in November’s tax-raising budget , to cushion the UK against volatile government bond markets. The chancellor met her first rule – to balance taxes and day-to-day spending – with £10bn to spare in last autumn’s budget, and again at her March spring statement. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/11/rachel-reeves-looks-for-extra-headroom-in-budget-to-insulate-uk-economy-against-bond-market",
-    "published": "2025-10-11T06:00:16Z",
-    "image_url": "https://i.guim.co.uk/img/media/2985e0d72fcba4f6115a887c87b543c6c0ad232b/374_0_4632_3706/master/4632.jpg?width=140&quality=85&auto=format&fit=max&s=8047712ee349235666773f74bee8d861",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-be9e4c47e9",
-    "source": "The Guardian — UK",
-    "title": "Will UK taxpayers get their £122m back from PPE Medpro?",
-    "summary": "The high court told the company linked to Michelle Mone to pay up over the supply of defective gowns, but there appears no clear route to reclaim the funds The five-year unravelling of Britain’s most high-profile Covid contracts scandal involving a baroness, her husband and multimillion-pound government deals accelerated last week with a high court judgment against the company linked to the former Tory peer Michelle Mone. The judge, Mrs Justice Cockerill, ruled that PPE Medpro, owned by Mone’s husband, the Isle of Man-based businessman Doug Barrowman, supplied defective personal protective equipment (PPE) for use in the NHS during the pandemic. Cockerill ordered that PPE Medpro must return the sum of £122m, which the Department of Health and Social Care paid for the order of 25m sterile surgical gowns, under a contract awarded in June 2020 via the VIP lane. Continue reading...",
-    "url": "https://www.theguardian.com/news/ng-interactive/2025/oct/11/michelle-mone-doug-barrowman-ppe-medpro-vip-lane-ppe-contracts-dhsc",
-    "published": "2025-10-11T05:00:18Z",
-    "image_url": "https://i.guim.co.uk/img/media/b3e00debd45eb3906b161add6af4367f7fde8863/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=933a83cdec54db197f48896ff78aa237",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
