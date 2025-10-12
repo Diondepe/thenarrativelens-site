@@ -1,5 +1,17 @@
 [
   {
+    "id": "BBC — Top Stories-817438d97c",
+    "source": "BBC — Top Stories",
+    "title": "Academy Award-winning actress Diane Keaton dies aged 79",
+    "summary": "She was best known for roles in films including in The Father of the Bride, The Godfather and Annie Hall.",
+    "url": "https://www.bbc.com/news/articles/cr5q5rp4r64o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T06:25:29Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e60/live/49a140d0-a6ed-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-803c823fba",
     "source": "BBC — Top Stories",
     "title": "I was shocked when mum told me what she wants to do with her body when she dies",
@@ -175,18 +187,6 @@
     "url": "https://www.bbc.com/news/articles/cx2jwgnwmezo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T22:17:35Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f9/live/db61de90-a5c5-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-817438d97c",
-    "source": "BBC — Top Stories",
-    "title": "Academy award-winning actress Diane Keaton dies aged 79",
-    "summary": "She was best known for roles in films including in The Father of the Bride, The Godfather and Annie Hall.",
-    "url": "https://www.bbc.com/news/articles/cr5q5rp4r64o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T22:06:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e60/live/49a140d0-a6ed-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -374,7 +374,7 @@
   {
     "id": "Politico — UK-5d0ff24793",
     "source": "Politico — UK",
-    "title": "China’s rare earth gambit reveals the next phase of its economic warfare",
+    "title": "Trump wanted a trade deal. Xi opened a new front instead.",
     "summary": "Beijing’s rare earth crackdown lays bare the fusion of economic rivalry and national security risk.",
     "url": "https://www.politico.com/news/2025/10/11/chinas-rare-earth-gambit-reveals-the-next-phase-of-its-economic-warfare-00602692?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-11T11:51:14Z",
