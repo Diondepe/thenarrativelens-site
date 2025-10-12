@@ -1,5 +1,53 @@
 [
   {
+    "id": "BBC — Top Stories-23076b9f03",
+    "source": "BBC — Top Stories",
+    "title": "Universities must tackle antisemitism, says Education Secretary Phillipson",
+    "summary": "Education Secretary Bridget Phillipson says Jewish students do not feel safe, as she sets out measures to tackle antisemitism.",
+    "url": "https://www.bbc.com/news/articles/cly9y7gg6eqo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T10:15:56Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba27/live/16d92240-a74b-11f0-8dcd-87d5a4ff00af.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a320ef828d",
+    "source": "BBC — Top Stories",
+    "title": "Woman arrested on suspicion of murder after two children found dead",
+    "summary": "Staffordshire Police has asked people \"not to speculate\" as an investigation takes place.",
+    "url": "https://www.bbc.com/news/articles/c78n8y3mlxko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T10:06:32Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91c6/live/ab3bdf70-a752-11f0-8269-d390add37b5e.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-c6937fdd34",
+    "source": "Politico — UK",
+    "title": "Trump and el-Sisi to chair peace summit Monday to end war in Gaza",
+    "summary": "European leaders, including European Council President António Costa, will attend the signing ceremony for the Gaza peace deal in Sharm El-Sheikh, Egypt.",
+    "url": "https://www.politico.eu/article/trump-and-el-sisi-to-chair-peace-summit-monday-to-end-war-in-gaza/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-12T09:47:57Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/12/trump-el-sisi-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5a9c5b7d8b",
+    "source": "BBC — Top Stories",
+    "title": "Afghan Taliban says 58 Pakistani troops killed in 'retaliatory' attacks",
+    "summary": "The attacks came days after Pakistan was accused of bombing a market inside Afghanistan.",
+    "url": "https://www.bbc.com/news/articles/cgmzmn4971zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T09:31:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c057/live/818d4a50-a753-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-b0d18d5b05",
     "source": "Politico — UK",
     "title": "Pentagon will pay military troops, Trump says, shifting $8B",
@@ -30,7 +78,7 @@
     "summary": "Buenos Aires' experiment with shock therapy was supposed to invalidate the Davos agenda. But now it needs a $20 billion bailout.",
     "url": "https://www.politico.eu/article/why-davos-isnt-crying-for-argentina/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-12T07:42:20Z",
-    "image_url": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/12/milei-davos-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -48,22 +96,10 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-0b749b3186",
-    "source": "BBC — Top Stories",
-    "title": "Plaid promises independence plan for Wales, but not in first term",
-    "summary": "Plaid backs plan for independence white paper, but not in the first five years of a government.",
-    "url": "https://www.bbc.com/news/articles/c8646jdq323o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T07:26:53Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cef8/live/24a815e0-a6cc-11f0-bf22-9df87c17cee5.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-18df3efff1",
     "source": "The Guardian — UK",
     "title": "Parliamentary staff of colour earn £2,000 less than white colleagues, study suggests",
-    "summary": "Exclusive: Report by GMB union also finds pay disparity for women and disabled, trans, non-binary and gay staffers A race and gender pay gap among parliamentary staff means people of colour earn on average £2,000 less each year than their white counterparts, research seen by the Guardian suggests. A study due to be released this week will say that parliamentary employees who have a range of protected characteristics under equality legislation are more likely to suffer disparities in pay. Continue reading...",
+    "summary": "Exclusive: GMB union’s report also finds pay disparity for women and disabled, trans, non-binary and gay staffers working for MPs and peers A race and gender pay gap among parliamentary staff means people of colour earn on average £2,000 less each year than their white counterparts, research seen by the Guardian suggests. A study due to be released this week will say that parliamentary employees who have a range of protected characteristics under equality legislation are more likely to suffer disparities in pay. Continue reading...",
     "url": "https://www.theguardian.com/inequality/2025/oct/12/parliamentary-staff-of-colour-earn-2000-less-than-white-colleagues-study-suggests",
     "published": "2025-10-12T07:00:47Z",
     "image_url": "https://i.guim.co.uk/img/media/71ef600428451279f76b08ac2123adcaf3932862/304_244_5811_4649/master/5811.jpg?width=140&quality=85&auto=format&fit=max&s=74b745e0a5755dd5c8301752c6bffc63",
@@ -144,18 +180,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a85cfeb2ae",
-    "source": "BBC — Top Stories",
-    "title": "The Papers: 'White House anger over UK spy case' and 'Pensions tax raid'",
-    "summary": "White House \"anger\" over the UK's handling of a China spy case and the chancellor's tax plans lead Sunday's papers.",
-    "url": "https://www.bbc.com/news/articles/c3060v86y4jo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T03:54:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ca/live/3330a530-a700-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-860654c07c",
     "source": "BBC — Top Stories",
     "title": "What can the King do about Prince Andrew scandals?",
@@ -175,18 +199,6 @@
     "url": "https://www.bbc.com/news/articles/ce808gvp56mo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-12T02:04:52Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b1/live/0a753390-a70a-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-729d30fff8",
-    "source": "BBC — Top Stories",
-    "title": "No survivors found after Tennessee explosives plant blast",
-    "summary": "With 16 people unaccounted for, the tragedy is \"even more devastating than we thought\", says a sheriff.",
-    "url": "https://www.bbc.com/news/articles/cx2523997p9o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T00:04:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a40e/live/ecf31290-a6c0-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -402,18 +414,6 @@
     "summary": "MIT’s rebuke of the Trump administration’s compact presents an opening for other college presidents to resist.",
     "url": "https://www.politico.com/news/2025/10/11/academia-resistance-trump-funding-deal-00603781?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-11T12:13:55Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-5d0ff24793",
-    "source": "Politico — UK",
-    "title": "Trump wanted a trade deal. Xi opened a new front instead.",
-    "summary": "Beijing’s rare earth crackdown lays bare the fusion of economic rivalry and national security risk.",
-    "url": "https://www.politico.com/news/2025/10/11/chinas-rare-earth-gambit-reveals-the-next-phase-of-its-economic-warfare-00602692?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-11T11:51:14Z",
     "image_url": null,
     "thumb_url": null,
     "category": "Politics",
