@@ -1,9 +1,45 @@
 [
   {
+    "id": "BBC — Top Stories-1e78f9c721",
+    "source": "BBC — Top Stories",
+    "title": "Starmer to attend Egypt summit on Gaza peace plan, No 10 says",
+    "summary": "President Trump will lead Monday's summit, where No 10 says the peace plan will be signed.",
+    "url": "https://www.bbc.com/news/articles/c9qnqx7znqno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T17:12:19Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c65e/live/eaa51700-a6d8-11f0-826a-6be1fb467f36.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-da6d5eb3b8",
+    "source": "BBC — Top Stories",
+    "title": "What we know about the Gaza ceasefire agreement",
+    "summary": "Israel and Hamas are expected to exchange hostages and prisoners as part of phase one of Donald Trump's peace plan for Gaza.",
+    "url": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T17:06:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e572/live/df6cb660-a69f-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-bf2824c76d",
+    "source": "The Guardian — UK",
+    "title": "Jonathan Powell had no role in dropping of China spy case, senior minister says",
+    "summary": "Bridget Phillipson says national security adviser was not involved in discussions before CPS abandoned its prosecution The government’s national security adviser had no involvement in the prosecution being dropped against two British men accused of spying for China, a senior cabinet minister has said. Jonathan Powell had no connection to discussions about the “substance or the evidence” of the case, Bridget Phillipson said on Sunday, adding that Keir Starmer had full confidence in him. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/12/jonathan-powell-no-role-dropping-china-spy-case-senior-minister-says",
+    "published": "2025-10-12T16:26:07Z",
+    "image_url": "https://i.guim.co.uk/img/media/7c7106d5666d095a082dc707126b184e062f8535/366_57_3596_2876/master/3596.jpg?width=140&quality=85&auto=format&fit=max&s=972498e710af6df037bcf575843d5905",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-c650ed8e9a",
     "source": "The Guardian — UK",
     "title": "Lucy Powell calls on Labour not to ‘write off’ May local elections",
-    "summary": "Exclusive: deputy leadership favourite says budget can revive party’s appeal, while Bridget Phillipson pitches to channel grassroots views to cabinet Labour should not “write off” next May’s elections as a likely moment for big losses but use the budget as a way to seize back voters’ attention, Lucy Powell has said as the battle to be the party’s deputy leadership entered its final period. With voting among party members under way, Bridget Phillipson, Powell’s rival for the post, said if she won she would set up a formal system to reflect the views of members and unions to cabinet on a regular basis. Continue reading...",
+    "summary": "Exclusive: deputy leadership favourite says budget can revive party’s appeal, while Bridget Phillipson pitches to channel grassroots views to cabinet Labour should not “write off” next May’s elections as a likely moment for big losses but use the budget as a way to seize back voters’ attention, Lucy Powell has said as the battle to be the party’s deputy leadership entered its final period. With voting among party members under way, Bridget Phillipson, Powell’s rival for the post, said if she won she would set up a formal system to reflect the views of members and unions to the cabinet on a regular basis. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/oct/12/lucy-powell-calls-on-labour-not-to-write-off-may-local-elections",
     "published": "2025-10-12T16:00:21Z",
     "image_url": "https://i.guim.co.uk/img/media/76ab272bb5d2ecfbb71be150d5f8572aba021427/254_0_3099_2480/master/3099.jpg?width=140&quality=85&auto=format&fit=max&s=02a913f33b7da7899cb063833ebe2c3f",
@@ -50,7 +86,7 @@
   {
     "id": "The Guardian — UK-6bcca05532",
     "source": "The Guardian — UK",
-    "title": "William Hill owner says it could shut up to 200 shops if Reeves raises gambling taxes",
+    "title": "William Hill owner says it could shut shops if Reeves raises gambling taxes",
     "summary": "Evoke considering the plans before expected tax increases in budget, with up to 1,500 jobs potentially affected The debt-laden company behind William Hill is considering closing up to 200 betting shops if Rachel Reeves’s autumn budget raises taxes on the gambling sector. Evoke, formerly known as 888, which acquired William Hill in a £2bn takeover in 2022, is drawing up plans for different scenarios before expected gambling tax increases in the chancellor’s budget on 26 November. Continue reading...",
     "url": "https://www.theguardian.com/business/2025/oct/12/william-hill-owner-could-shut-shops-if-reeves-raises-gambling-taxes",
     "published": "2025-10-12T15:08:22Z",
@@ -240,18 +276,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-1e78f9c721",
-    "source": "BBC — Top Stories",
-    "title": "Starmer to attend Egypt summit on Gaza peace plan, No 10 says",
-    "summary": "President Trump will lead Monday's summit, where No 10 says the peace plan will be signed.",
-    "url": "https://www.bbc.com/news/articles/c9qnqx7znqno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T10:10:40Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c65e/live/eaa51700-a6d8-11f0-826a-6be1fb467f36.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-c6937fdd34",
     "source": "Politico — UK",
     "title": "Trump and el-Sisi to chair Gaza peace summit Monday",
@@ -276,18 +300,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-92808cda1c",
-    "source": "BBC — Top Stories",
-    "title": "Paedophile singer Ian Watkins dies in prison attack as two men arrested",
-    "summary": "Watkins, 48, was serving a 29-year sentence imposed in 2013 after admitting 13 child sex offences.",
-    "url": "https://www.bbc.com/news/articles/cm2d2me0eljo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T07:45:33Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e77/live/f73dd180-a73e-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-416a760723",
     "source": "Politico — UK",
     "title": "Why Davos isn’t crying for Argentina",
@@ -295,6 +307,18 @@
     "url": "https://www.politico.eu/article/why-davos-isnt-crying-for-argentina/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-12T07:42:20Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/12/milei-davos-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a5b639c66f",
+    "source": "BBC — Top Stories",
+    "title": "The EU's new border system explained",
+    "summary": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
+    "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T07:32:58Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eea5/live/1c47a510-89a2-11f0-9a26-53a7b49d8dfd.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -456,18 +480,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-40c8f01a19",
-    "source": "The Guardian — UK",
-    "title": "SNP backs Swinney’s ‘clear’ strategy for new independence referendum",
-    "summary": "Members overwhelmingly endorse leadership motion that majority at next Holyrood election is only route to second vote SNP members have overwhelmingly backed leader John Swinney’s “clear and unambiguous” independence strategy that a majority election win is the only route to another referendum. On the first day of the party’s annual conference in Aberdeen, the vast majority of members backed the leadership’s motion that next May’s Holyrood elections should be fought on a “clear platform of national independence” and that winning a majority in the Scottish parliament – by securing 65 seats or more – would be “the only uncontested way to deliver a new vote on Scotland’s future”. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/11/snp-backs-swinneys-clear-strategy-for-new-independence-referendum",
-    "published": "2025-10-11T16:22:05Z",
-    "image_url": "https://i.guim.co.uk/img/media/bbf31f3bd5679459ec939fb7fb00b657b84ca1df/536_224_4188_3350/master/4188.jpg?width=140&quality=85&auto=format&fit=max&s=9f345cdef6924222e4c5e55de88db613",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-67623aa3e4",
     "source": "Politico — UK",
     "title": "Zelenskyy and Trump discuss ‘concrete agreements’ on Ukraine air defense",
@@ -499,18 +511,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/11/tony-blair-met-jeffrey-epstein-in-no-10-on-advice-of-peter-mandelson-documents-reveal",
     "published": "2025-10-11T11:49:09Z",
     "image_url": "https://i.guim.co.uk/img/media/cb0c5d8cebe80342cf77ad8bdb1ac3c4c2bbdd88/0_107_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=c4ef77522ab73ca3a4884f520ce8fa59",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-da6d5eb3b8",
-    "source": "BBC — Top Stories",
-    "title": "What we know about the Gaza ceasefire agreement",
-    "summary": "Israeli troops have pulled back from parts of Gaza after Israel approved Donald Trump's ceasefire and hostage release plan.",
-    "url": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T11:26:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e572/live/df6cb660-a69f-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
