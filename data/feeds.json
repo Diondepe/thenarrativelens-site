@@ -1,5 +1,29 @@
 [
   {
+    "id": "BBC — Top Stories-269dd3da9f",
+    "source": "BBC — Top Stories",
+    "title": "Minister says Starmer security adviser had no role in China spy case",
+    "summary": "The Conservatives suggest Jonathan Powell's role led to the collapse of the prosecutions against two men.",
+    "url": "https://www.bbc.com/news/articles/cg424d712q7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T12:40:51Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-63d886d890",
+    "source": "BBC — Top Stories",
+    "title": "SNP leader says 'precedent on my side' to secure second referendum",
+    "summary": "The SNP won more than half of the seats at Holyrood in 2011, an electoral triumph that paved the way for a poll on the country's future.",
+    "url": "https://www.bbc.com/news/articles/cg424dk03x9o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T12:19:52Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bbb/live/419bcf60-a75e-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-a320ef828d",
     "source": "BBC — Top Stories",
     "title": "Woman arrested on suspicion of murder after two children found dead",
@@ -60,13 +84,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-1f0b5a4947",
+    "id": "BBC — Top Stories-1e78f9c721",
     "source": "BBC — Top Stories",
-    "title": "Madagascar presidency says attempt to seize power under way",
-    "summary": "An army unit claimed it had taken over leadership of the military command and was now in control of all the armed forces.",
-    "url": "https://www.bbc.com/news/articles/cd070pn4g07o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T09:49:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b14/live/7cafc7e0-a737-11f0-bde2-95e27e69c0f5.jpg",
+    "title": "Starmer to attend Egypt summit on Gaza peace plan, No 10 says",
+    "summary": "President Trump will lead Monday's summit, where No 10 says the peace plan will be signed.",
+    "url": "https://www.bbc.com/news/articles/c9qnqx7znqno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T10:10:40Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c65e/live/eaa51700-a6d8-11f0-826a-6be1fb467f36.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -74,8 +98,8 @@
   {
     "id": "Politico — UK-c6937fdd34",
     "source": "Politico — UK",
-    "title": "Trump and el-Sisi to chair peace summit Monday to end war in Gaza",
-    "summary": "European leaders including Emmanuel Macron, Keir Starmer, Friedrich Merz, Giorgia Meloni, Pedro Sánchez, António Costa and Recep Tayyip Erdoğan will attend the signing ceremony.",
+    "title": "Trump and el-Sisi to chair Gaza peace summit Monday",
+    "summary": "At least seven European leaders will attend the signing ceremony in Sharm El-Sheikh, Egypt.",
     "url": "https://www.politico.eu/article/trump-and-el-sisi-to-chair-peace-summit-monday-to-end-war-in-gaza/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-12T09:47:57Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/12/trump-el-sisi-scaled.jpg",
@@ -312,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-298110db4a",
-    "source": "BBC — Top Stories",
-    "title": "Strictly celebs starstruck as Wicked's Cynthia Erivo soars into movie week",
-    "summary": "The Oscar nominee, who stars as Elphaba in the hit film, was Strictly's first ever guest mentor.",
-    "url": "https://www.bbc.com/news/articles/ce8681j3n07o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T21:07:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ded4/live/9fd85c80-a6df-11f0-acf6-8f6b3e7c0d55.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e73866d97b",
     "source": "The Guardian — UK",
     "title": "Two men arrested after Lostprophets singer Ian Watkins dies in prison attack",
@@ -379,18 +391,6 @@
     "url": "https://www.politico.eu/article/third-time-lucky-finally-meloni-finds-a-way-to-tax-the-banks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-11T14:46:01Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/11/meloni-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-2981d2eb0c",
-    "source": "BBC — Top Stories",
-    "title": "Hamas mobilises fighters in Gaza as fears of internal violence mount",
-    "summary": "Clashes have already taken place between the group and an armed clan in Gaza City.",
-    "url": "https://www.bbc.com/news/articles/ce8482418plo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T14:44:59Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28d5/live/6f84f470-a6ae-11f0-b55a-e7725355d83f.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
