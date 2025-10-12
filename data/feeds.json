@@ -1,12 +1,36 @@
 [
   {
-    "id": "BBC — Top Stories-2215e39f30",
+    "id": "BBC — Top Stories-803c823fba",
     "source": "BBC — Top Stories",
-    "title": "Israelis praise Trump at huge rally ahead of expected hostage release by Hamas in Gaza",
-    "summary": "Hundreds of thousands gather in Tel Aviv as Palestinians continue to return to Gaza City after the Israeli withdrawal.",
-    "url": "https://www.bbc.com/news/articles/c75q5qng0rgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T04:37:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa50/live/d652b260-a6e9-11f0-928c-71dbb8619e94.jpg",
+    "title": "I was shocked when mum told me what she wants to do with her body when she dies",
+    "summary": "BBC presenter Lucy Owen finds out why her mum wants to donate her body to medical science.",
+    "url": "https://www.bbc.com/news/articles/cly7lwp8pyno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T06:10:52Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/231f/live/dd304d60-a44e-11f0-8a21-ff96e44d1cc2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-d86adcf17b",
+    "source": "The Guardian — UK",
+    "title": "‘Brummies united against racism’: poster campaign takes on the far right",
+    "summary": "A message of neighbourly solidarity is thriving in Birmingham against a backdrop of racist intimidation When Mus unfurled the leaflet lying on her driveway, she was left shocked, angry and upset. “White Britons are already a minority in London … it is clear that if these trends continue white people will become a minority in Britain,” it read. The leaflet, written by a far-right group, was distributed along her street three years ago in Moseley, a leafy suburb of Birmingham. It went on to blame NHS waiting lists, a shortage of social housing and even traffic on “the rising population”. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/12/brummies-united-against-racism-birmingham-poster-campaign-takes-on-the-far-right",
+    "published": "2025-10-12T06:00:44Z",
+    "image_url": "https://i.guim.co.uk/img/media/e306031449b36a3a35df4c311a007b7c99b75fef/610_0_5581_4463/master/5581.jpg?width=140&quality=85&auto=format&fit=max&s=7f2b22efa9531fbdc2ec07d41651e48a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-4f215b2bb5",
+    "source": "Politico — UK",
+    "title": "Poland tries to restore rule of law in the face of a hostile president",
+    "summary": "Polish President Karol Nawrocki is vowing to scuttle any effort to change the legal system set up by the previous Law and Justice party government.",
+    "url": "https://www.politico.eu/article/poland-restore-rule-of-law-hostile-president-karol-nawrocki/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-12T05:26:27Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2235365798-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -60,6 +84,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-6513fbc463",
+    "source": "BBC — Top Stories",
+    "title": "When do the clocks go back in the UK?",
+    "summary": "Most of us will get an extra hour in bed during the last weekend of October but the change will usher in some much earlier sunsets, as Ben Rich explains.",
+    "url": "https://www.bbc.com/weather/articles/cm2zdzwy12do?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T23:32:29Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/201d/live/af01ae30-a42a-11f0-ba96-81d873a15aec.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-320666f051",
     "source": "BBC — Top Stories",
     "title": "Thirty belugas in Canada face being euthanised. Can they be saved?",
@@ -79,18 +115,6 @@
     "url": "https://www.bbc.com/news/articles/ce8450380zyo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T23:20:40Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940f/live/fef0d9a0-6705-11f0-8dbd-f3d32ebd3327.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-803c823fba",
-    "source": "BBC — Top Stories",
-    "title": "I was shocked when mum told me what she wants to do with her body when she dies",
-    "summary": "BBC presenter Lucy Owen finds out why her mum wants to donate her body to medical science.",
-    "url": "https://www.bbc.com/news/articles/cly7lwp8pyno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T23:10:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/231f/live/dd304d60-a44e-11f0-8a21-ff96e44d1cc2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -168,18 +192,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-1e78f9c721",
-    "source": "BBC — Top Stories",
-    "title": "Starmer to attend Egypt summit on Gaza peace plan, No 10 says",
-    "summary": "President Trump will lead Monday's summit, where No 10 says the peace plan will be signed.",
-    "url": "https://www.bbc.com/news/articles/c9qnqx7znqno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T21:32:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c65e/live/eaa51700-a6d8-11f0-826a-6be1fb467f36.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-92808cda1c",
     "source": "BBC — Top Stories",
     "title": "Paedophile singer Ian Watkins dies in prison attack as two men arrested",
@@ -228,6 +240,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-337537f99d",
+    "source": "BBC — Top Stories",
+    "title": "SNP members back Swinney's independence plan for Holyrood election",
+    "summary": "The first minister will declare a mandate for a second independence referendum, if the SNP wins a majority of seats in the 2026 Holyrood election.",
+    "url": "https://www.bbc.com/news/articles/czxwx02xp8yo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-11T16:51:51Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e5/live/94ae3ca0-a6ba-11f0-a356-d3fc7522eb5a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-fa5a783349",
     "source": "Politico — UK",
     "title": "Green MEP on Gaza aid flotilla to be released Sunday",
@@ -259,6 +283,18 @@
     "url": "https://www.politico.eu/article/zelenskyy-trump-discuss-concrete-agreements-ukraines-air-defense-russia-putin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-11T16:01:14Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/11/zelenskyy-trump.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-cb3b291e3f",
+    "source": "Politico — UK",
+    "title": "Third time lucky: Meloni seeks compromise on bank tax after past failures",
+    "summary": "This time, Rome appears to have learned its lesson, and is planning to engage more proactively with Italy's banks, which are open to compromise.",
+    "url": "https://www.politico.eu/article/third-time-lucky-finally-meloni-finds-a-way-to-tax-the-banks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-11T14:46:01Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/11/meloni-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -420,30 +456,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-91485e1275",
-    "source": "Politico — UK",
-    "title": "Europe failed Israel",
-    "summary": "It is still unclear whether Donald Trump will succeed in ending the war in Gaza two years after Oct. 7, 2023. What is clear, however, is that when it really mattered, Europe and large parts of the free world failed.",
-    "url": "https://www.politico.com/news/magazine/2025/10/07/oct7-israel-europe-opinion-00597296?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-11T09:56:38Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-cb01155b31",
-    "source": "Politico — UK",
-    "title": "‘Qatar was the turning point’: How Israel’s bombing of Doha ignited a peace process",
-    "summary": "Trump extended his public olive branch in tandem with his administration's private outreach to Qatar and other Arab countries.",
-    "url": "https://www.politico.com/news/2025/10/10/qatar-was-the-turning-point-how-israels-bombing-of-doha-ignited-a-peace-process-00604017?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-11T09:14:58Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-d642915dba",
     "source": "The Guardian — UK",
     "title": "Number of wild bee species at risk of extinction in Europe doubles in 10 years",
@@ -547,18 +559,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/10/zarah-sultana-says-she-and-corbyn-have-reconciled-and-can-co-lead-new-party",
     "published": "2025-10-10T16:25:30Z",
     "image_url": "https://i.guim.co.uk/img/media/6fd89def8291c5182ebaa7ab0b38e6145f395e98/690_0_4549_3640/master/4549.jpg?width=140&quality=85&auto=format&fit=max&s=a72b815eb8f817daead611da0e4681ca",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-c082060544",
-    "source": "The Guardian — UK",
-    "title": "Man who entered UK on small boat found guilty of threatening to kill Nigel Farage",
-    "summary": "Fayaz Khan, 26, made the threat in a TikTok video that Reform UK leader told the court was ‘pretty chilling’ A man who came to the UK on a small boat has been found guilty of making a threat to kill Nigel Farage in a TikTok video. Fayaz Khan, 26, an Afghan national, was found guilty by a majority of 10 jurors to two after almost 12 hours of deliberation at Southwark court court. He had made the threat to kill the Reform UK leader in October last year in a video that Farage told the court was “pretty chilling”. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/10/fayaz-khan-small-boat-nigel-farage",
-    "published": "2025-10-10T16:16:23Z",
-    "image_url": "https://i.guim.co.uk/img/media/5da9e6daeecd108a635d483e3f6792035401dc5f/0_404_1307_1045/master/1307.jpg?width=140&quality=85&auto=format&fit=max&s=c4391b359015faf58ba8a5687685967c",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
