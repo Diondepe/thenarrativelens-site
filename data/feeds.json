@@ -1,5 +1,17 @@
 [
   {
+    "id": "Politico — UK-37fb082b12",
+    "source": "Politico — UK",
+    "title": "Israeli hostage release from Gaza and Middle East peace summit — live updates",
+    "summary": "U.S. President Donald Trump and European leaders are en route to Egypt today to witness the signing of a peace deal agreed between Israel and Hamas to end the war in Gaza.",
+    "url": "https://www.politico.eu/article/israeli-hostage-release-gaza-middle-east-peace-summit-live-updates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-12T19:03:01Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/12/GettyImages-2240248652-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-62f429707d",
     "source": "Politico — UK",
     "title": "China signals defiance in face of Trump’s 100 percent tariff threat",
@@ -38,7 +50,7 @@
   {
     "id": "BBC — Top Stories-da6d5eb3b8",
     "source": "BBC — Top Stories",
-    "title": "What we know about the Gaza ceasefire agreement",
+    "title": "What we know about the Gaza ceasefire agreement and hostages release",
     "summary": "Israel and Hamas are expected to exchange hostages and prisoners as part of phase one of Donald Trump's peace plan for Gaza.",
     "url": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-12T17:06:28Z",
@@ -487,18 +499,6 @@
     "url": "https://www.politico.eu/article/green-mep-on-gaza-aid-flotilla-to-be-released-sunday/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-11T16:48:32Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/24/13326908-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-67623aa3e4",
-    "source": "Politico — UK",
-    "title": "Zelenskyy and Trump discuss ‘concrete agreements’ on Ukraine air defense",
-    "summary": "The discussion comes amid a broader pivot by Washington as its efforts to end Russia's all-out war in Ukraine sputter.",
-    "url": "https://www.politico.eu/article/zelenskyy-trump-discuss-concrete-agreements-ukraines-air-defense-russia-putin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-11T16:01:14Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/11/zelenskyy-trump.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
