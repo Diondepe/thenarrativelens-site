@@ -5,8 +5,32 @@
     "title": "Woman arrested on suspicion of murder after two children found dead",
     "summary": "Staffordshire Police has asked people \"not to speculate\" as an investigation takes place.",
     "url": "https://www.bbc.com/news/articles/c78n8y3mlxko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T10:38:01Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91c6/live/ab3bdf70-a752-11f0-8269-d390add37b5e.png",
+    "published": "2025-10-12T11:54:29Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e29/live/c337b680-a761-11f0-af68-63d6dbe14439.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-d6d3adf9e3",
+    "source": "Politico — UK",
+    "title": "Zelenskyy urges continued pressure on Russia amid strikes on Ukraine energy plants",
+    "summary": "Moscow’s defense ministry confirmed that Russian forces targeted oil and energy infrastructure.",
+    "url": "https://www.politico.eu/article/zelenskyy-asks-allies-maintain-pressure-russia-strikes-ukraine-energy-plants/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-12T11:31:56Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/12/zelenskyy-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-6359061691",
+    "source": "The Guardian — UK",
+    "title": "Woman arrested on suspicion of murder after death of two children in Stafford",
+    "summary": "Police say woman, 43, remains in custody after two children pronounced dead at a home in the town A woman has been arrested on suspicion of murder after the deaths of two children in Stafford, Staffordshire police have said. Police were called to a home in the town at about 7.30am on Sunday by West Midlands ambulance service. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/12/woman-arrested-on-suspicion-of-murder-after-death-of-two-children-in-stafford",
+    "published": "2025-10-12T11:07:53Z",
+    "image_url": "https://i.guim.co.uk/img/media/6ab52f09d359bff4984b270cd23b0c0e32176b46/118_0_3062_2450/master/3062.jpg?width=140&quality=85&auto=format&fit=max&s=33b0b70562dfa41d625ffa3d8fb592e9",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -36,10 +60,22 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-1f0b5a4947",
+    "source": "BBC — Top Stories",
+    "title": "Madagascar presidency says attempt to seize power under way",
+    "summary": "An army unit claimed it had taken over leadership of the military command and was now in control of all the armed forces.",
+    "url": "https://www.bbc.com/news/articles/cd070pn4g07o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T09:49:57Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b14/live/7cafc7e0-a737-11f0-bde2-95e27e69c0f5.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-c6937fdd34",
     "source": "Politico — UK",
     "title": "Trump and el-Sisi to chair peace summit Monday to end war in Gaza",
-    "summary": "European leaders, including European Council President António Costa, will attend the signing ceremony for the Gaza peace deal in Sharm El-Sheikh, Egypt.",
+    "summary": "European leaders including Emmanuel Macron, Keir Starmer, Friedrich Merz, Giorgia Meloni, Pedro Sánchez, António Costa and Recep Tayyip Erdoğan will attend the signing ceremony.",
     "url": "https://www.politico.eu/article/trump-and-el-sisi-to-chair-peace-summit-monday-to-end-war-in-gaza/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-12T09:47:57Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/12/trump-el-sisi-scaled.jpg",
@@ -216,18 +252,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-b20db6ee15",
-    "source": "BBC — Top Stories",
-    "title": "The women taking Meta to task after their baby loss",
-    "summary": "Several women say the pain of losing their babies was made worse by targeted advertising.",
-    "url": "https://www.bbc.com/news/articles/ce8450380zyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T23:20:40Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940f/live/fef0d9a0-6705-11f0-8dbd-f3d32ebd3327.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-3b806a83c2",
     "source": "BBC — Top Stories",
     "title": "Cold, flu, Covid: Why so many people are getting ill right now",
@@ -282,7 +306,7 @@
     "summary": "Unpredictable, intense and longer monsoons are encroaching into autumn, turning it into a deadly season.",
     "url": "https://www.bbc.com/news/articles/cx2jwgnwmezo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-11T22:17:35Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f9/live/db61de90-a5c5-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae5b/live/a4270e00-a75f-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -408,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-225a9f02ea",
-    "source": "Politico — UK",
-    "title": "MIT’s resistance gives boost to academics’ efforts to defy Trump",
-    "summary": "MIT’s rebuke of the Trump administration’s compact presents an opening for other college presidents to resist.",
-    "url": "https://www.politico.com/news/2025/10/11/academia-resistance-trump-funding-deal-00603781?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-11T12:13:55Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-c0205a5d40",
     "source": "The Guardian — UK",
     "title": "Tony Blair met Jeffrey Epstein in No 10 on advice of Peter Mandelson, documents reveal",
@@ -480,18 +492,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-8a68cb2f3b",
-    "source": "The Guardian — UK",
-    "title": "Tony Blair and Nick Clegg hosted dinner giving tech bosses access to UK minister",
-    "summary": "Exclusive: Six tech leaders dined with investment minister, documents reveal, underlining growing influence of ex-PM’s consultancy Tony Blair and Nick Clegg hosted a private dinner earlier this year at which a select group of technology entrepreneurs were given access to a key minister, official documents have revealed. The former prime minister, who is a champion of the tech industry, held the dinner in an upmarket London hotel in his capacity as the head of the Tony Blair Institute (TBI) political consultancy. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/11/tony-blair-and-nick-clegg-hosted-dinner-giving-tech-bosses-access-to-uk-minister",
-    "published": "2025-10-11T08:05:07Z",
-    "image_url": "https://i.guim.co.uk/img/media/434dd38a2c55d678523509a3156a4320f26e5122/0_0_1678_1343/master/1678.jpg?width=140&quality=85&auto=format&fit=max&s=ecccf460386a59e4ac71cf384590c9ec",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-2785e1d33e",
     "source": "The Guardian — UK",
     "title": "Rachel Reeves v the OBR: chancellor aims to loosen the watchdog’s grip",
@@ -499,6 +499,18 @@
     "url": "https://www.theguardian.com/business/2025/oct/11/rachel-reeves-v-the-obr-chancellor-aims-to-loosen-the-watchdogs-grip",
     "published": "2025-10-11T06:00:17Z",
     "image_url": "https://i.guim.co.uk/img/media/ff33dfa476f52d953898428179b241bf0362054f/529_55_2275_1820/master/2275.jpg?width=140&quality=85&auto=format&fit=max&s=8d25016b91fe735d167b750d4e1ecb41",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-6579b62559",
+    "source": "The Guardian — UK",
+    "title": "Rachel Reeves looks for extra headroom in budget to insulate UK economy against bond market",
+    "summary": "Chancellor hopes to raise enough funds to stop damaging speculation about breaching fiscal rules Rachel Reeves v the OBR: chancellor aims to loosen the watchdog’s grip Rachel Reeves is aiming to create more “headroom” against her fiscal rules in November’s tax-raising budget , to cushion the UK against volatile government bond markets. The chancellor met her first rule – to balance taxes and day-to-day spending – with £10bn to spare in last autumn’s budget, and again at her March spring statement. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/11/rachel-reeves-looks-for-extra-headroom-in-budget-to-insulate-uk-economy-against-bond-market",
+    "published": "2025-10-11T06:00:16Z",
+    "image_url": "https://i.guim.co.uk/img/media/2985e0d72fcba4f6115a887c87b543c6c0ad232b/374_0_4632_3706/master/4632.jpg?width=140&quality=85&auto=format&fit=max&s=8047712ee349235666773f74bee8d861",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -547,18 +559,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/10/richard-tice-tory-donor-lubov-chernukhin",
     "published": "2025-10-10T16:31:27Z",
     "image_url": "https://i.guim.co.uk/img/media/dcaee614536715183961158e4ca905001fa1936d/532_599_5301_4243/master/5301.jpg?width=140&quality=85&auto=format&fit=max&s=2ef253019ac8c100dee7be7a7ba6bcb2",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-199a0c0fc2",
-    "source": "The Guardian — UK",
-    "title": "Zarah Sultana compares Jeremy Corbyn reunion to Gallagher brothers",
-    "summary": "MP says pair have reconciled after bitter dispute as they appear together at Manchester leftwing festival Zarah Sultana has said she and Jeremy Corbyn have patched up their combustible co-leadership of a new leftwing party, with the MP comparing the duo to Liam and Noel Gallagher. Speaking alongside Corbyn at The World Transformed political festival in Manchester, the Gallaghers’ home city, Sultana insisted they could cooperate over the organisation still only known, unofficially, as Your Party. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/10/zarah-sultana-says-she-and-corbyn-have-reconciled-and-can-co-lead-new-party",
-    "published": "2025-10-10T16:25:30Z",
-    "image_url": "https://i.guim.co.uk/img/media/6fd89def8291c5182ebaa7ab0b38e6145f395e98/690_0_4549_3640/master/4549.jpg?width=140&quality=85&auto=format&fit=max&s=a72b815eb8f817daead611da0e4681ca",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
