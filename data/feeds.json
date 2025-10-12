@@ -1,5 +1,17 @@
 [
   {
+    "id": "BBC — Top Stories-4b9ae8494c",
+    "source": "BBC — Top Stories",
+    "title": "Trump directs Pentagon to 'use all available funds' to pay troops during shutdown",
+    "summary": "The president's directive would ensure US military personnel don't miss a scheduled paycheque next week.",
+    "url": "https://www.bbc.com/news/articles/ce808gvp56mo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T02:04:52Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b1/live/0a753390-a70a-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-a85cfeb2ae",
     "source": "BBC — Top Stories",
     "title": "The Papers: 'White House anger over UK spy case' and 'Pensions tax raid'",
@@ -7,18 +19,6 @@
     "url": "https://www.bbc.com/news/articles/c3060v86y4jo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-12T00:17:03Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ca/live/3330a530-a700-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-1db109b151",
-    "source": "BBC — Top Stories",
-    "title": "Farmer finds car-sized Nasa probe in Texas field",
-    "summary": "The missing Nasa research-probe had blown off course and crash-landed in Edmonson on 2 October.",
-    "url": "https://www.bbc.com/news/videos/ce323w2gle0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-11T23:59:12Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e7/live/2a4c8540-a6fd-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
