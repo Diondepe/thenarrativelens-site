@@ -1,11 +1,47 @@
 [
   {
+    "id": "The Guardian — UK-387889626f",
+    "source": "The Guardian — UK",
+    "title": "UK charities say toxic immigration rhetoric leading to threats against staff",
+    "summary": "Voluntary organisations forced to introduce extensive security measures to protect staff and property Charities have warned of growing racial abuse, intimidation and threats of violence towards their staff and beneficiaries amid increasingly toxic rhetoric around immigration and race by politicians and extremist activists. Voluntary organisations say they are being forced to introduce extensive security measures to protect staff and property – a trend described by one charity head as in danger of becoming the “new normal” – after being targeted. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/13/uk-charities-toxic-immigration-rhetoric-threats-staff",
+    "published": "2025-10-13T07:00:17Z",
+    "image_url": "https://i.guim.co.uk/img/media/05bda860a0b21a07d48aac4f49b0b3b3be6fc43d/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7dd7425aa828c0ef3f102f51421730cd",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-67cd0a776a",
+    "source": "The Guardian — UK",
+    "title": "MPs highlight plight of Gaza students unable to come to UK with children",
+    "summary": "Politicians write to ministers about Palestinians who cannot take up scholarships because they are barred from bringing families A cross-party group of more than 100 MPs has written to the government, highlighting the plight of Palestinian students unable to take up scholarships at UK universities because they have been barred from bringing their children. The British government has now evacuated from Gaza almost 60 scholars with fully funded university places and more are expected soon, but others have been forced to abandon their plans in order to remain with their families. Continue reading...",
+    "url": "https://www.theguardian.com/education/2025/oct/13/mps-highlight-plight-of-gaza-students-unable-to-come-to-uk-with-children",
+    "published": "2025-10-13T07:00:14Z",
+    "image_url": "https://i.guim.co.uk/img/media/b0c176f0ae34c4327dc5ceacd97147aa6c6bcc1c/23_0_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=ce5b00856800bd17409d186f53583c21",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-269dd3da9f",
+    "source": "BBC — Top Stories",
+    "title": "Badenoch demands PM address 'unanswered' China spy case questions",
+    "summary": "In a letter to Starmer, the Tory leader claimed his government's account of the collapsed case had \"changed repeatedly\".",
+    "url": "https://www.bbc.com/news/articles/cg424d712q7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T06:55:41Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0151/live/79018c80-a7b1-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-4f6aa56159",
     "source": "BBC — Top Stories",
     "title": "Reeves urged to avoid 'half-baked' tax fixes in Budget",
     "summary": "The think tank says the government should seize the opportunity to reform the tax system.",
     "url": "https://www.bbc.com/news/articles/cx2n08n15w2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T06:24:55Z",
+    "published": "2025-10-13T06:53:39Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13d9/live/98a29640-a5d3-11f0-b98a-8b079c99c55e.jpg",
     "thumb_url": null,
     "category": "Politics",
@@ -14,11 +50,23 @@
   {
     "id": "BBC — Top Stories-ed0afc2c1d",
     "source": "BBC — Top Stories",
-    "title": "Who are the 20 hostages being released?",
+    "title": "Who are the hostages being released?",
     "summary": "A ceasefire deal should see Hamas hand over all 48 remaining Israeli and foreign hostages, 20 of whom are believed to be alive.",
     "url": "https://www.bbc.com/news/articles/cpvl9k4mw8no?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T06:03:45Z",
+    "published": "2025-10-13T06:40:07Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b600/live/0a160040-a5d0-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-7d1beabc5d",
+    "source": "Politico — UK",
+    "title": "Far right fizzles in Portugal’s local elections",
+    "summary": "Chega failed to conquer any major cities but is set to receive three times as many votes as in 2021.",
+    "url": "https://www.politico.eu/article/portugal-election-exit-polls-show-lisbon-porto-too-close-to-call/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-13T06:39:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/12/GettyImages-2222631823.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -50,7 +98,7 @@
   {
     "id": "BBC — Top Stories-d58e7c1bfd",
     "source": "BBC — Top Stories",
-    "title": "Blowing whistle on racism killed my career, ex England rugby player says",
+    "title": "Blowing whistle on racism killed my career, ex-England rugby player says",
     "summary": "Former England centre Luther Burrell believes clubs were put off hiring him after he went public to reveal racist abuse he suffered during his time at Newcastle.",
     "url": "https://www.bbc.com/sport/rugby-union/articles/cdr61plm727o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T05:12:38Z",
@@ -96,18 +144,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-ef5065acd9",
-    "source": "The Guardian — UK",
-    "title": "IFS warns Rachel Reeves against ‘half-baked dash for revenue’",
-    "summary": "Thinktank says UK could raise significant funds by tackling some of the longstanding ‘inefficiency and unfairness’ in tax system Rachel Reeves must avoid “a half-baked dash for revenue” or risk damaging economic growth as the chancellor seeks to close a large gap in next month’s budget, the Institute for Fiscal Studies has said. The tax and spending thinktank has warned there was a danger the chancellor would create “unnecessary economic damage” if she chooses to stitch together unrelated tax-raising measures to cut the shortfall in government revenues and keep within her fiscal rules. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/13/ifs-warns-rachel-reeves-against-half-baked-dash-for-revenue",
-    "published": "2025-10-13T04:00:11Z",
-    "image_url": "https://i.guim.co.uk/img/media/94c638861b3415ab0ecc59033f04981aac84c4fd/207_0_3598_2879/master/3598.jpg?width=140&quality=85&auto=format&fit=max&s=2fc751b23a84237a0b23b948b0d8f7a2",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-f9dbfaafc9",
     "source": "The Guardian — UK",
     "title": "National Trust and TV wildlife expert team up on autumn nature campaign",
@@ -115,6 +151,18 @@
     "url": "https://www.theguardian.com/environment/2025/oct/13/national-trust-autumn-nature-campaign-wildlife",
     "published": "2025-10-13T04:00:11Z",
     "image_url": "https://i.guim.co.uk/img/media/54135d2c8fb9fe94b54fc9120b8d70bea6ff9665/0_0_4946_3957/master/4946.jpg?width=140&quality=85&auto=format&fit=max&s=b071a906b1dd72c66a9b3687674223f3",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-ef5065acd9",
+    "source": "The Guardian — UK",
+    "title": "IFS warns Rachel Reeves against ‘half-baked dash for revenue’",
+    "summary": "Thinktank says UK could raise significant funds by tackling some of the longstanding ‘inefficiency and unfairness’ in tax system Rachel Reeves must avoid “a half-baked dash for revenue” or risk damaging economic growth as the chancellor seeks to close a large gap in next month’s budget, the Institute for Fiscal Studies has said. The tax and spending thinktank has warned there was a danger the chancellor would create “unnecessary economic damage” if she chooses to stitch together unrelated tax-raising measures to cut the shortfall in government revenues and keep within her fiscal rules. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/13/ifs-warns-rachel-reeves-against-half-baked-dash-for-revenue",
+    "published": "2025-10-13T04:00:11Z",
+    "image_url": "https://i.guim.co.uk/img/media/94c638861b3415ab0ecc59033f04981aac84c4fd/207_0_3598_2879/master/3598.jpg?width=140&quality=85&auto=format&fit=max&s=2fc751b23a84237a0b23b948b0d8f7a2",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -204,18 +252,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-18447c80b6",
-    "source": "Politico — UK",
-    "title": "EU must lift penalties on Israel now that Gaza ceasefire has begun, envoy says",
-    "summary": "Israel’s new ambassador to the EU tells POLITICO that Europe is not likely to get a seat on Trump’s “board of peace” unless it restores full cooperation with Netanyahu’s government.",
-    "url": "https://www.politico.eu/article/eu-must-lift-penalties-israel-now-gaza-ceasefire-begun-envoy-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-13T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/12/12778664-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-7fddbf1cf9",
     "source": "BBC — Top Stories",
     "title": "The Papers: 'Hostages set for release' and 'Hope amid the chaos'",
@@ -240,6 +276,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-3ab262775b",
+    "source": "BBC — Top Stories",
+    "title": "'We must catch up soon!' How to stop ghosting your friends",
+    "summary": "How to keep friendships alive as an adult alongside work, family and endless to-do lists.",
+    "url": "https://www.bbc.com/news/articles/cwyr971q7rxo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T23:28:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e2/live/d0670b70-a5f5-11f0-af09-bf7f0464c1dc.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-de08f99f38",
     "source": "BBC — Top Stories",
     "title": "Mental arithmetic really stresses me out and science has proved it",
@@ -254,11 +302,11 @@
   {
     "id": "BBC — Top Stories-fd0d42c800",
     "source": "BBC — Top Stories",
-    "title": "Carmakers go on trial over emissions cheat claims",
+    "title": "Carmakers go on trial over 'dieselgate' emissions cheat claims",
     "summary": "The trial is the latest chapter of what has become known as the \"dieselgate\" scandal.",
     "url": "https://www.bbc.com/news/articles/cjr5epw8dweo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-12T23:26:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6baf/live/c309be20-a760-11f0-af68-63d6dbe14439.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ae/live/f9094d30-a803-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -300,18 +348,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-caeead0bd7",
-    "source": "The Guardian — UK",
-    "title": "Woman, 53, becomes UK’s longest survivor of heart and lung transplant",
-    "summary": "Katie Mitchell had procedure at 15 after being diagnosed with Eisenmenger syndrome, a rare congenital disease At the age of 15, medics feared Katie Mitchell was coming to the end of her life after suffering irreversible lung damage and heart failure from a rare congenital disease. But she defied the odds thanks to a heart and lung transplant, and at the age of 53 she has become the UK’s longest-surviving recipient of such a procedure. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/oct/13/katie-mitchell-becomes-uk-longest-surviving-heart-and-lung-transplant-recipient",
-    "published": "2025-10-12T23:01:04Z",
-    "image_url": "https://i.guim.co.uk/img/media/206e4dd73f6964a698624078709d8e6a3d3701bd/0_368_1458_1167/master/1458.jpg?width=140&quality=85&auto=format&fit=max&s=8bdd0979fd3dd3a8c9023c3fe277fd67",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-1e78f9c721",
     "source": "BBC — Top Stories",
     "title": "Starmer arrives in Egypt ahead of summit on Gaza plan",
@@ -326,7 +362,7 @@
   {
     "id": "BBC — Top Stories-319e717a73",
     "source": "BBC — Top Stories",
-    "title": "'Painful' job cuts to come if US shutdown drags on, warns Vance",
+    "title": "'Painful' job cuts to come if US shutdown drags on, warns JD Vance",
     "summary": "Hundreds of thousands of federal employees are already on leave without pay as the impasse approaches its third week.",
     "url": "https://www.bbc.com/news/articles/cp3d554053lo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-12T22:15:32Z",
@@ -360,13 +396,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-269dd3da9f",
-    "source": "BBC — Top Stories",
-    "title": "Badenoch demands PM address 'unanswered' China spy case questions",
-    "summary": "In a letter to Starmer, the Tory leader claimed his government's account of the collapsed case had \"changed repeatedly\".",
-    "url": "https://www.bbc.com/news/articles/cg424d712q7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T21:03:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0151/live/79018c80-a7b1-11f0-92db-77261a15b9d2.jpg",
+    "id": "The Guardian — UK-6a4a1569d8",
+    "source": "The Guardian — UK",
+    "title": "Green party reaches 100,000 members for first time after Polanski becomes leader",
+    "summary": "Green party in England and Wales has had near-50% rise in membership since Zack Polanski took over last month The Greens in England and Wales have more than 100,000 members for the first time, the party has announced, a near-50% rise since Zack Polanski took over as leader last month. It puts them on a potential course to overtake the Conservatives and comes little more than a week after the Greens announced they had moved past the Liberal Democrats in membership numbers, getting to 83,500. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/12/green-party-reaches-100000-members-for-first-time-after-polanski-becomes-leader",
+    "published": "2025-10-12T21:30:02Z",
+    "image_url": "https://i.guim.co.uk/img/media/c9fafa82f2f9374068a49d257ec4abcde273be0c/575_0_5748_4598/master/5748.jpg?width=140&quality=85&auto=format&fit=max&s=a07c4fac9e5f6aa8dbddd844fc3c9d60",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -390,7 +426,7 @@
     "summary": "Police name the pair as Meraj Ul Zahra and Abdul Momin Alfaateh.",
     "url": "https://www.bbc.com/news/articles/c78n8y3mlxko?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-12T20:51:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e29/live/c337b680-a761-11f0-af68-63d6dbe14439.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d823/live/c2bf5520-a804-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -414,7 +450,7 @@
     "summary": "At least 27 people have been killed in one of the most violent internal confrontations since Israeli troops withdrew.",
     "url": "https://www.bbc.com/news/articles/cg5e551j593o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-12T18:32:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe2b/live/0e0c2070-a7cf-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d7f/live/a78844b0-a7ff-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -422,7 +458,7 @@
   {
     "id": "BBC — Top Stories-131011a2f9",
     "source": "BBC — Top Stories",
-    "title": "'In an instant, they were gone' - small town mourns after Tennessee explosives factory blast",
+    "title": "'In an instant, they were gone': Mall town mourns after Tennessee explosives factory blast",
     "summary": "Authorities say the 16 people missing after the explosives factory incident are all presumed dead.",
     "url": "https://www.bbc.com/news/articles/cwy8y0rnw2eo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-12T17:52:14Z",
@@ -480,30 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-5896dcb868",
-    "source": "The Guardian — UK",
-    "title": "UK ministers take control of £10bn Lower Thames Crossing",
-    "summary": "Exclusive: National Highways Agency stripped of oversight with project handed to DfT amid Labour government drive for growth Ministers have stripped the government’s road-building agency of responsibility for a £10bn tunnel under the River Thames amid a drive by Keir Starmer’s cabinet to take tight control over important infrastructure projects for fear of cost overruns and delays. Oversight of the Lower Thames Crossing – the UK’s largest planned infrastructure project – has been taken away from National Highways and handed to the Department for Transport (DfT). Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/12/uk-ministers-take-control-of-10bn-lower-thames-crossing",
-    "published": "2025-10-12T14:00:56Z",
-    "image_url": "https://i.guim.co.uk/img/media/f18b06fdec61cef41e7df16f5e0a342d5470d356/222_80_3161_2527/master/3161.jpg?width=140&quality=85&auto=format&fit=max&s=a1e30d9d0a173bdfa6438fe5790e5332",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-4ff1ab93a1",
-    "source": "The Guardian — UK",
-    "title": "Tories and Reform battle to be heirs to Thatcher’s legacy on her centenary",
-    "summary": "Gala dinner to remember Conservatives’ most successful leader puts spotlight on who will carry forward her ideas It is a glittering annual dinner in honour of the Conservative party’s most successful leader and, on the 100th anniversary of Margaret Thatcher’s birth, one that is bigger than ever. Yet as Tory grandees, celebrity backers and wealthy donors prepare to sit down at a gala dinner at London’s Guildhall on Monday evening, a battle for her legacy is under way between the party she once led and the insurgent threat to its survival, Reform UK. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/12/tories-reform-uk-battle-heirs-margaret-thatcher-legacy-100th-birthday",
-    "published": "2025-10-12T14:00:56Z",
-    "image_url": "https://i.guim.co.uk/img/media/8a15d5961b573f74f5ffc8396e485daaa59fd191/921_0_4658_3726/master/4658.jpg?width=140&quality=85&auto=format&fit=max&s=8a0a220fdb0a5fb85f10536d687c3471",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-72f01de5fe",
     "source": "BBC — Top Stories",
     "title": "Man charged with stalking after allegedly targeting Ed Davey and family",
@@ -511,18 +523,6 @@
     "url": "https://www.bbc.com/news/articles/c77d702znm4o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-12T13:54:25Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9188/live/c3b1dca0-a76e-11f0-93e3-054bcb63bc18.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-63d886d890",
-    "source": "BBC — Top Stories",
-    "title": "SNP leader says 'precedent on my side' to secure second referendum",
-    "summary": "The SNP won more than half of the seats at Holyrood in 2011, an electoral triumph that paved the way for a poll on the country's future.",
-    "url": "https://www.bbc.com/news/articles/cg424dk03x9o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T12:19:52Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bbb/live/419bcf60-a75e-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
