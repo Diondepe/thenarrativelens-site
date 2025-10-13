@@ -1,9 +1,153 @@
 [
   {
+    "id": "BBC — Top Stories-2334f8961c",
+    "source": "BBC — Top Stories",
+    "title": "Vodafone admits 'major outage' as more than 130,000 report problems",
+    "summary": "Vodafone claims to have more than 18 million customers in the UK, including nearly 700,000 home broadband customers.",
+    "url": "https://www.bbc.com/news/articles/c5yldldx659o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T15:16:38Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/824e/live/d4a91730-a840-11f0-be75-03aefff797aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-8e3e0fcede",
+    "source": "The Guardian — UK",
+    "title": "Vodafone outage: thousands of broadband and mobile users report problems",
+    "summary": "Many customers say they access cannot services including the internet and making mobile phone calls Tens of thousands of Vodafone customers were reporting that they could not access services including the internet and making mobile phone calls on Monday. Consumers started reporting problems on the website of the outage monitor Downdetector from about 3pm on Monday. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/13/vodafone-outage-broadband-mobile-down-internet-calls",
+    "published": "2025-10-13T15:09:44Z",
+    "image_url": "https://i.guim.co.uk/img/media/3b1a08a894d52beb69e451301a9356ce53ed518d/285_0_5039_4033/master/5039.jpg?width=140&quality=85&auto=format&fit=max&s=949d4756f427e8abeb0e4520c013be09",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-91236fcbba",
+    "source": "Politico — UK",
+    "title": "Commission hints at change to Israel sanctions plan if Gaza ceasefire holds",
+    "summary": "EU executive signals possible shift on Israel penalties if peace process continues — but says \"we're not there yet.\"",
+    "url": "https://www.politico.eu/article/commission-hints-reversal-israel-sanctions-if-gaza-ceasefire-holds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-13T15:06:40Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/13/GettyImages-2240437388-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-97b14841c8",
+    "source": "The Guardian — UK",
+    "title": "No 10 says claims it concealed evidence or withdrew witnesses to stop China spy trial are ‘categorically untrue’ – UK politics live",
+    "summary": "PM’s spokesperson says it is ‘entirely false’ government played role in getting CPS to drop China spying case At the Downing Street lobby briefing this morning the PM’s spokesperson said it was “entirely false” to suggest the government influenced the collapse of the China spying case because of concerns Beijing could withdraw investment in the UK, Downing Street said. Asked about reports in the Sunday Times which suggested a decision was taken high up in government to abandon the case so as not to damage the economic relationship with China, the PM’s spokesperson told reporters: It is entirely false. The CPS [Crown Prosecution Service] decision to drop the case was entirely a matter for the CPS. There was no role for any member of this government, no minister, or special adviser, to take any decision in relation to this case. That is entirely for the CPS. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/13/china-spy-trial-keir-starmer-egypt-margaret-thatcher-anniversary-uk-politics-live-news-updates",
+    "published": "2025-10-13T15:05:59Z",
+    "image_url": "https://i.guim.co.uk/img/media/d2d80b936dfd8305dce9c8788f464b483c87fb7e/1309_695_3678_2942/master/3678.jpg?width=140&quality=85&auto=format&fit=max&s=9abfddcd8765b3c95a5638db2d54980d",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-a49b4a5f92",
+    "source": "The Guardian — UK",
+    "title": "Lab-grown cells replicate early development of human heart",
+    "summary": "Cambridge scientists grow blood stem cells, raising new possibilities for regenerative medicine Scientists have grown embryo-like structures in the laboratory that replicate the early development of the heart, including the production of blood, raising new possibilities for regenerative medicine. The ability to generate blood stem cells in the laboratory may one day make it possible to treat patients in need of bone marrow transplants using their own cells. Continue reading...",
+    "url": "https://www.theguardian.com/science/2025/oct/13/lab-grown-cells-replicate-early-development-human-heart",
+    "published": "2025-10-13T15:00:02Z",
+    "image_url": "https://i.guim.co.uk/img/media/718b8c52b1f03abd513105350c5346a90c21bc2c/0_0_4708_3768/master/4708.jpg?width=140&quality=85&auto=format&fit=max&s=e354782c90d32c53be2b4ef7e16f129e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-fb4f6ad875",
+    "source": "The Guardian — UK",
+    "title": "Carmakers chose to cheat to sell cars rather than comply with emissions law, ‘dieselgate’ trial told",
+    "summary": "Mercedes, Ford, Renault, Nissan and Peugeot/Citroën face group action in which damages could exceed £6bn Car manufacturers decided they would rather cheat to prioritise “customer convenience” and sell cars than comply with the law on deadly pollutants, the first trial day of the largest group action in English legal history has been told. More than a decade after the original “dieselgate” scandal broke, lawyers representing 1.6 million diesel car owners in the UK argue that manufacturers deliberately installed software to rig emissions tests . Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/13/carmakers-emissions-dieselgate-trial-mercedes-ford-renault-nissan-peugeot-citroen",
+    "published": "2025-10-13T14:48:51Z",
+    "image_url": "https://i.guim.co.uk/img/media/24b04fa304385f1059d791619dc594ca83254ffe/856_0_4280_3424/master/4280.jpg?width=140&quality=85&auto=format&fit=max&s=be570044a1bbe170785220f6811dcc80",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a95e170b65",
+    "source": "BBC — Top Stories",
+    "title": "The controversy over the collapsed China spy case explained",
+    "summary": "The government is facing questions about why the case collapsed just weeks before a trial was due to go ahead.",
+    "url": "https://www.bbc.com/news/articles/ceq057734w1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T14:42:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d716/live/191e2800-a842-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-851885a886",
+    "source": "BBC — Top Stories",
+    "title": "Tommy Robinson refused to give phone Pin to police to protect 'journalistic material'",
+    "summary": "The far-right activist was charged under the Terrorism Act over an incident at the Channel Tunnel in July 2024.",
+    "url": "https://www.bbc.com/news/articles/c2lp1k7pnpno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T14:38:27Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4755/live/64e20e60-a828-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-fd0d42c800",
+    "source": "BBC — Top Stories",
+    "title": "Carmakers go on trial over 'dieselgate' emissions cheat claims",
+    "summary": "The trial is the latest chapter of what has become known as the \"dieselgate\" scandal.",
+    "url": "https://www.bbc.com/news/articles/cjr5epw8dweo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T14:31:36Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3058/live/77e2ecf0-a83c-11f0-8df8-17b411cc599c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-96e9ab6281",
+    "source": "Politico — UK",
+    "title": "Update Nahost: Trump in der Knesset, Warten in Sharm el Sheikh",
+    "summary": "Die letzten 20 lebenden Geiseln sind freigelassen worden. Donald Trump wird im israelischen Parlament, der Knesset, ausgiebig gefeiert. Israels Ministerpräsident Netanjahu und er loben sich in höchsten Tönen für den Deal. Trumps nächste Station wird jetzt Sharm el Sheikh sein, wo die Freilassung der Geiseln und der Rückzug Israels aus Gebieten in Gaza verhandelt worden […]",
+    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/update-nahost-trump-in-der-knesset-warten-in-sharm-el-sheikh/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-13T14:25:22Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/23/Berlin-Playbook-Website-Card57.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-4e94d92b18",
+    "source": "BBC — Top Stories",
+    "title": "'Unlike anyone the planet has experienced': Woody Allen pays glowing tribute to Diane Keaton",
+    "summary": "The pair worked together on eight films including the Oscar-winning Annie Hall and Manhattan.",
+    "url": "https://www.bbc.com/news/articles/c5y4kpmzl1mo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T14:24:51Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f86/live/362f8010-a82e-11f0-9f09-57500e5dbf06.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-b4342a623e",
+    "source": "Politico — UK",
+    "title": "Czech government talks stall over offensive remarks linked to likely next foreign minister",
+    "summary": "Former MEP's party threatens to walk away from talks to form a new government.",
+    "url": "https://www.politico.eu/article/czech-government-talks-stall-over-foreign-minister-nominee-filip-turek-controversy-motorists/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-13T14:18:27Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/13/1743605905648_20250402_EP-183026A_DE1_1265-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-46fec95d48",
     "source": "The Guardian — UK",
     "title": "Families of David Amess and Jo Cox voice concern at rise in violent political rhetoric",
-    "summary": "Relatives of murdered MPs say Charlie Kirk killing is a wake-up call for UK and that violence is becoming more likely The families of the murdered MPs David Amess and Jo Cox have voiced concern about a recent surge in violent political rhetoric in Britain. While the fatal attack on a synagogue in Manchester and targeting of muslims have placed a renewed spotlight on violent antisemitism and Islamophobia, there are also concerns over an increasing normalisation of language calling for political figures to be killed. Examples include the suspension of a Reform UK councillor linked to a social media account calling for Keir Starmer to be shot and the arrest of a man allegedly captured on film at major far-right rally last month in London threatening to kill the prime minister. At the same rally, Elon Musk made comments that later drew condemnation from Downing Street when he told the crowd that “violence is coming” . Continue reading...",
+    "summary": "Relatives of murdered MPs say Charlie Kirk killing is a wake-up call for UK and that violence is becoming more likely The families of the murdered MPs David Amess and Jo Cox have voiced concern about a recent surge in violent political rhetoric in Britain. While the fatal attack on a synagogue in Manchester and targeting of Muslims have placed a renewed spotlight on violent antisemitism and Islamophobia, there are also concerns over an increasing normalisation of language calling for political figures to be killed. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/oct/13/families-david-amess-jo-cox-voice-concern-rise-violent-political-rhetoric",
     "published": "2025-10-13T14:00:02Z",
     "image_url": "https://i.guim.co.uk/img/media/cf8608748b143070a8bee80415eb706938d93bf2/233_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7b973d7fc8cc2b9bd754aed8f3bfb192",
@@ -19,30 +163,6 @@
     "url": "https://www.politico.eu/article/kremlin-dmitry-peskov-says-russians-booted-by-latvia-most-welcome-at-home/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-13T13:42:51Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/13/13375144-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-97b14841c8",
-    "source": "The Guardian — UK",
-    "title": "No 10 says claims it concealed evidence or withdrew witnesses to stop China spy trial are ‘categorically untrue’ – UK politics live",
-    "summary": "PM’s spokesperson says it is ‘entirely false’ government played role in getting CPS to drop China spying case At the Downing Street lobby briefing this morning the PM’s spokesperson said it was “entirely false” to suggest the government influenced the collapse of the China spying case because of concerns Beijing could withdraw investment in the UK, Downing Street said. Asked about reports in the Sunday Times which suggested a decision was taken high up in government to abandon the case so as not to damage the economic relationship with China, the PM’s spokesperson told reporters: It is entirely false. The CPS [Crown Prosecution Service] decision to drop the case was entirely a matter for the CPS. There was no role for any member of this government, no minister, or special adviser, to take any decision in relation to this case. That is entirely for the CPS. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/13/china-spy-trial-keir-starmer-egypt-margaret-thatcher-anniversary-uk-politics-live-news-updates",
-    "published": "2025-10-13T13:41:32Z",
-    "image_url": "https://i.guim.co.uk/img/media/d2d80b936dfd8305dce9c8788f464b483c87fb7e/1309_695_3678_2942/master/3678.jpg?width=140&quality=85&auto=format&fit=max&s=9abfddcd8765b3c95a5638db2d54980d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-851885a886",
-    "source": "BBC — Top Stories",
-    "title": "Tommy Robinson refused to give phone Pin to police to protect 'journalistic material'",
-    "summary": "The far-right activist was charged under the Terrorism Act over an incident at the Channel Tunnel in July 2024.",
-    "url": "https://www.bbc.com/news/articles/c2lp1k7pnpno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T13:33:52Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4755/live/64e20e60-a828-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -120,18 +240,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-fd0d42c800",
-    "source": "BBC — Top Stories",
-    "title": "Carmakers go on trial over 'dieselgate' emissions cheat claims",
-    "summary": "The trial is the latest chapter of what has become known as the \"dieselgate\" scandal.",
-    "url": "https://www.bbc.com/news/articles/cjr5epw8dweo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T11:47:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ae/live/f9094d30-a803-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-6fa9279598",
     "source": "Politico — UK",
     "title": "‘This is my great honor’: In Israel, Trump touts lasting peace",
@@ -192,18 +300,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-a94a5e99eb",
-    "source": "The Guardian — UK",
-    "title": "Kent police apologise to protester threatened with arrest for holding Palestine flag",
-    "summary": "Force agrees to pay damages to Laura Murton, 43, who also had sign saying ‘Israel is committing genocide’ UK politics live – latest updates Gaza ceasefire – live updates A protester who was threatened with arrest under the Terrorism Act for holding a Palestine flag and signs saying “free Gaza” and “Israel is committing genocide” has received an apology from police, including for “unlawful false imprisonment”. Kent police have also agreed to pay damages and legal costs to Laura Murton, 43, in connection with the 14 July incident in Canterbury in which armed officers told her her demonstration expressed views supportive of Palestine Action, which had been banned earlier that month. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/13/kent-police-apologise-palestine-protester-laura-murton",
-    "published": "2025-10-13T10:31:40Z",
-    "image_url": "https://i.guim.co.uk/img/media/040f4595298d053be7aa6306fd4d339b529fd105/635_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8f08781bb61983befc44a3443399b200",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-c9bbc3ad02",
     "source": "BBC — Top Stories",
     "title": "A photo worth a thousand words: Female journalists sit front-row at Taliban event after exclusion",
@@ -222,7 +318,7 @@
     "summary": "The disgraced Lostprophets frontman was fatally injured at HMP Wakefield on Saturday.",
     "url": "https://www.bbc.com/news/articles/c3drdy5ry2do?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T10:23:12Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d12e/live/28d07cd0-a81f-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b618/live/7a30fed0-a840-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -247,18 +343,6 @@
     "url": "https://www.bbc.com/news/articles/cx2n08n15w2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T09:55:34Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dad/live/8bcc7840-a818-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-70a921d715",
-    "source": "The Guardian — UK",
-    "title": "Education cuts in prisons ultimately endanger the public, watchdog says",
-    "summary": "Charlie Taylor hits out at risk of real-terms spending cuts in prisons in England and Wales derailing work to break cycle of reoffending Cuts to education in prisons are derailing offenders’ work and training and ultimately endangering the public, the prisons watchdog has warned. Repeat offenders “cause mayhem” in their communities because of the failure of prisons to provide education, training and work that could help to break the cycle of offending, the chief inspector of prisons, Charlie Taylor, said. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/oct/13/education-cuts-in-prisons-ultimately-endanger-the-public-watchdog-says",
-    "published": "2025-10-13T09:55:24Z",
-    "image_url": "https://i.guim.co.uk/img/media/249f5fb7b8f4696a4fc994f1cf68d8c2e3e63adf/195_0_3937_3149/master/3937.jpg?width=140&quality=85&auto=format&fit=max&s=4672c419689a5917be8c23562bc9b901",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -314,7 +398,7 @@
   {
     "id": "Politico — UK-ca452a8c63",
     "source": "Politico — UK",
-    "title": "4Chan hit by £20,000 UK watchdog fine",
+    "title": "4chan hit by £20,000 UK watchdog fine",
     "summary": "U.K. Tech Secretary Liz Kendall says levy against the online message board is a “clear warning” to other providers.",
     "url": "https://www.politico.eu/article/uk-communications-regulator-confirms-20000-4chan-fine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-13T09:12:57Z",
@@ -331,30 +415,6 @@
     "url": "https://www.politico.eu/article/eu-commission-oliver-varhelyi-not-aware-hungary-alleged-attempt-recruit-spies-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-13T08:54:11Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/13/GettyImages-2208695516-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-eb181c2f42",
-    "source": "The Guardian — UK",
-    "title": "Two men in court charged with prison murder of Lostprophets singer Ian Watkins",
-    "summary": "Convicted child sexual abuse offender Watkins was attacked with a knife at HMP Wakefield on Saturday Two men have appeared in court after being charged with the murder of the former Lostprophets singer and convicted child sexual abuse offender, Ian Watkins, in prison. Rashid Gedel, 25, and Samuel Dodsworth, 43, were produced separately and appeared before Judge Dunne at Leeds magistrates court on Monday. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/13/two-men-charged-with-murder-lostprophets-singer-ian-watkins-prison",
-    "published": "2025-10-13T08:49:11Z",
-    "image_url": "https://i.guim.co.uk/img/media/d3d7ca9f045c5dda909a0ee60dc265d7547cba8a/0_499_2200_1760/master/2200.jpg?width=140&quality=85&auto=format&fit=max&s=62d869601cf280ec6ab8f615c2ac76a9",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-854f6ce89e",
-    "source": "Politico — UK",
-    "title": "China spy trial and the British deep state",
-    "summary": "As Israeli hostages and Palestinian prisoners are exchanged on one of the most significant days for peace in the Middle East – what role did Britain play in the peace plan? With Prime Minister Sir Keir Starmer in Egypt for the summit of peace – Sam and Anne assess if he can take any credit […]",
-    "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/china-spy-trial-and-the-british-deep-state/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-13T07:40:22Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/03/27/PASAA_PODCAST-HERO-16BY9.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -384,30 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-f66ba0aa01",
-    "source": "Politico — UK",
-    "title": "1 in 6 infections now resistant to antibiotics",
-    "summary": "Resistance to commonly used drugs rose over 40 percent in five years, a WHO report found.",
-    "url": "https://www.politico.eu/article/1-in-6-infections-now-resistant-to-antibiotics/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-13T07:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2212968793-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-7d1beabc5d",
-    "source": "Politico — UK",
-    "title": "Far right fizzles in Portugal’s local elections",
-    "summary": "Chega failed to conquer any major cities but is set to receive three times as many votes as in 2021.",
-    "url": "https://www.politico.eu/article/portugal-election-exit-polls-show-lisbon-porto-too-close-to-call/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-13T06:39:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/12/GettyImages-2222631823.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-7a8f3c1616",
     "source": "The Guardian — UK",
     "title": "Most of Great Britain’s major rail operators are back in public hands – is it working?",
@@ -415,18 +451,6 @@
     "url": "https://www.theguardian.com/business/ng-interactive/2025/oct/13/most-of-great-britains-major-rail-operators-are-back-in-public-hands-is-it-working",
     "published": "2025-10-13T06:00:14Z",
     "image_url": "https://i.guim.co.uk/img/media/91b462f9f4dd50ba732fe3733fdd2d6794f73cea/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=dd78d685b4f59fe1648a96b7b82c9b79",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-94a1e56933",
-    "source": "BBC — Top Stories",
-    "title": "Marcus Rashford's football revival at Barcelona",
-    "summary": "Marcus Rashford came to Barcelona to revive a spluttering career, and so far he is making a good job of that task, but it remains early days in Spain for the England forward.",
-    "url": "https://www.bbc.com/sport/football/articles/c3rvr0z531eo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T05:56:41Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9472/live/fc4682a0-a75a-11f0-a302-6bcd0f505684.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -456,18 +480,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-d58e7c1bfd",
-    "source": "BBC — Top Stories",
-    "title": "Blowing whistle on racism killed my career, ex-England rugby player says",
-    "summary": "Former England centre Luther Burrell believes clubs were put off hiring him after he went public to reveal racist abuse he suffered during his time at Newcastle.",
-    "url": "https://www.bbc.com/sport/rugby-union/articles/cdr61plm727o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T05:12:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e57/live/2a144370-a5da-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-ef5065acd9",
     "source": "The Guardian — UK",
     "title": "IFS warns Rachel Reeves against ‘half-baked dash for revenue’",
@@ -475,18 +487,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/13/ifs-warns-rachel-reeves-against-half-baked-dash-for-revenue",
     "published": "2025-10-13T04:00:11Z",
     "image_url": "https://i.guim.co.uk/img/media/94c638861b3415ab0ecc59033f04981aac84c4fd/207_0_3598_2879/master/3598.jpg?width=140&quality=85&auto=format&fit=max&s=2fc751b23a84237a0b23b948b0d8f7a2",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3f8117b9dd",
-    "source": "BBC — Top Stories",
-    "title": "'We're in limbo': A town in Trump country where shutdown axe looms",
-    "summary": "As politicians in Washington bicker during the government shutdown, Martinsburg, West Virginia, worries about what's next.",
-    "url": "https://www.bbc.com/news/articles/c4gk1z818z2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T23:42:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fadd/live/c5cf9dc0-a3a3-11f0-924e-bba4adcf336a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
