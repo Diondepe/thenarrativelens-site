@@ -1,5 +1,17 @@
 [
   {
+    "id": "BBC — Top Stories-a28cf10db6",
+    "source": "BBC — Top Stories",
+    "title": "Israeli hostages and Palestinian detainees freed as Trump hails 'historic dawn' in Middle East",
+    "summary": "A major hostage and prisoner exchange marks a significant step towards ending two years of war in Gaza.",
+    "url": "https://www.bbc.com/news/articles/c740jx07vz0o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T20:57:45Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18f7/live/f0d48700-a877-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-228bc057db",
     "source": "Politico — UK",
     "title": "Ministers set to tackle migrant return hubs and cross-border deportation powers",
@@ -475,18 +487,6 @@
     "url": "https://www.bbc.com/news/articles/cdx4l557n1lo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T10:34:43Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da05/live/19aca900-a819-11f0-881e-a7ddfaa732cf.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-c9bbc3ad02",
-    "source": "BBC — Top Stories",
-    "title": "A photo worth a thousand words: Female journalists sit front-row at Taliban event after exclusion",
-    "summary": "Female reporters were invited after being excluded from Taliban minister Amir Khan Muttaqi's first event in Delhi.",
-    "url": "https://www.bbc.com/news/articles/c4gze7ely6vo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T10:27:56Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d00a/live/8aa4f8f0-a7fc-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
