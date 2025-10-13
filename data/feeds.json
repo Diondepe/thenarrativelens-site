@@ -1,5 +1,53 @@
 [
   {
+    "id": "Politico — UK-ca56ee3b3a",
+    "source": "Politico — UK",
+    "title": "Macron-Retailleau : dernier appel",
+    "summary": "Vendredi soir, alors que la nomination du nouveau Premier ministre se fait attendre, Emmanuel Macron décroche son téléphone. Il appelle Bruno Retailleau, pour tenter de le convaincre une dernière fois.",
+    "url": "https://www.politico.eu/article/macron-retailleau-dernier-appel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-13T04:03:45Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/08/01/13192746.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-f9dbfaafc9",
+    "source": "The Guardian — UK",
+    "title": "National Trust and TV wildlife expert team up on autumn nature campaign",
+    "summary": "People urged to savour sights, sounds and smells of the season as poll shows a disconnect during darker months There may be a bite in the wind and the nights are certainly drawing in but a conservation charity and a television wildlife champion have launched a campaign aimed at getting more people connecting with nature in the autumn and winter months. The National Trust is launching a “Wild Senses” campaign on the back of the new BBC series Hamza’s Hidden Wild Isles in which the wildlife expert and camera operator Hamza Yassin celebrates the UK’s seasons and encourages viewers to notice, appreciate and reconnect to wildlife everywhere. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/oct/13/national-trust-autumn-nature-campaign-wildlife",
+    "published": "2025-10-13T04:00:11Z",
+    "image_url": "https://i.guim.co.uk/img/media/54135d2c8fb9fe94b54fc9120b8d70bea6ff9665/0_0_4946_3957/master/4946.jpg?width=140&quality=85&auto=format&fit=max&s=b071a906b1dd72c66a9b3687674223f3",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-ef5065acd9",
+    "source": "The Guardian — UK",
+    "title": "IFS warns Rachel Reeves against ‘half-baked dash for revenue’",
+    "summary": "Thinktank says UK could raise significant funds by tackling some of the longstanding ‘inefficiency and unfairness’ in tax system Rachel Reeves must avoid “a half-baked dash for revenue” or risk damaging economic growth as the chancellor seeks to close a large gap in next month’s budget, the Institute for Fiscal Studies has said. The tax and spending thinktank has warned there was a danger the chancellor would create “unnecessary economic damage” if she chooses to stitch together unrelated tax-raising measures to cut the shortfall in government revenues and keep within her fiscal rules. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/13/ifs-warns-rachel-reeves-against-half-baked-dash-for-revenue",
+    "published": "2025-10-13T04:00:11Z",
+    "image_url": "https://i.guim.co.uk/img/media/94c638861b3415ab0ecc59033f04981aac84c4fd/207_0_3598_2879/master/3598.jpg?width=140&quality=85&auto=format&fit=max&s=2fc751b23a84237a0b23b948b0d8f7a2",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d094ec6d4b",
+    "source": "BBC — Top Stories",
+    "title": "Trump says he may send Tomahawk missiles to Ukraine",
+    "summary": "Ukraine wants long-range missiles to hit back at Russia - and Donald Trump says he may send Tomahawks.",
+    "url": "https://www.bbc.com/news/articles/c93xpqgzkv0o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T03:40:00Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/597d8190-a7d7-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-d790431d41",
     "source": "Politico — UK",
     "title": "Delays to vital child sexual abuse laws harm our children",
@@ -264,18 +312,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-92400d55ae",
-    "source": "Politico — UK",
-    "title": "Open letter to Commissioner Costas Kadis",
-    "summary": "We urge you to commit to phasing out the destructive practice of bottom trawling in Europe’s protected marine areas. It’s time to follow the science and demonstrate leadership.",
-    "url": "https://www.politico.eu/sponsored-content/open-letter-to-commissioner-costas-kadis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-12T21:59:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/09/Article-cover-Image-via-Greenpeace.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-6a4a1569d8",
     "source": "The Guardian — UK",
     "title": "Green party reaches 100,000 members for first time after Polanski becomes leader",
@@ -319,30 +355,6 @@
     "url": "https://www.bbc.com/news/articles/c78n8y3mlxko?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-12T20:51:44Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e29/live/c337b680-a761-11f0-af68-63d6dbe14439.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-6359061691",
-    "source": "The Guardian — UK",
-    "title": "Police name girl, 2, and boy, 3, found dead in Stafford home",
-    "summary": "Woman, 43, remains in custody after Meraj Ul Zahra and Abdul Momin Alfaateh found unresponsive with injuries A girl and boy who were found dead in a home in Stafford have been named by Staffordshire police. Meraj Ul Zahra, two, and Abdul Momin Alfaateh, three, were found unresponsive with injuries inside the home on Sunday morning, police said. They died at the scene. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/12/woman-arrested-on-suspicion-of-murder-after-death-of-two-children-in-stafford",
-    "published": "2025-10-12T20:29:39Z",
-    "image_url": "https://i.guim.co.uk/img/media/a03b68436709f26e5feea0d357e35255d991ad6e/109_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=314668135f8a7d13f23888dd36bf6178",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-23076b9f03",
-    "source": "BBC — Top Stories",
-    "title": "Universities must tackle antisemitism, says education secretary",
-    "summary": "Education Secretary Bridget Phillipson says Jewish students do not feel safe, as she sets out measures to tackle antisemitism.",
-    "url": "https://www.bbc.com/news/articles/cly9y7gg6eqo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T20:20:46Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/477b/live/80a29800-a75a-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -492,18 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a5b639c66f",
-    "source": "BBC — Top Stories",
-    "title": "The EU's new border system explained",
-    "summary": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
-    "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T07:32:58Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eea5/live/1c47a510-89a2-11f0-9a26-53a7b49d8dfd.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-d86adcf17b",
     "source": "The Guardian — UK",
     "title": "‘Brummies united against racism’: poster campaign takes on the far right",
@@ -528,18 +528,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-40c8f01a19",
-    "source": "The Guardian — UK",
-    "title": "SNP backs Swinney’s ‘clear’ strategy for new independence referendum",
-    "summary": "Members overwhelmingly endorse leadership motion that majority at next Holyrood election is only route to second vote SNP members have overwhelmingly backed leader John Swinney’s “clear and unambiguous” independence strategy that a majority election win is the only route to another referendum. On the first day of the party’s annual conference in Aberdeen, the vast majority of members backed the leadership’s motion that next May’s Holyrood elections should be fought on a “clear platform of national independence” and that winning a majority in the Scottish parliament – by securing 65 seats or more – would be “the only uncontested way to deliver a new vote on Scotland’s future”. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/11/snp-backs-swinneys-clear-strategy-for-new-independence-referendum",
-    "published": "2025-10-11T16:22:05Z",
-    "image_url": "https://i.guim.co.uk/img/media/bbf31f3bd5679459ec939fb7fb00b657b84ca1df/536_224_4188_3350/master/4188.jpg?width=140&quality=85&auto=format&fit=max&s=9f345cdef6924222e4c5e55de88db613",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-2785e1d33e",
     "source": "The Guardian — UK",
     "title": "Rachel Reeves v the OBR: chancellor aims to loosen the watchdog’s grip",
@@ -559,6 +547,18 @@
     "url": "https://www.theguardian.com/politics/2025/oct/10/labour-softening-stance-towards-china-reinforced-by-dropped-spy-case",
     "published": "2025-10-10T17:57:02Z",
     "image_url": "https://i.guim.co.uk/img/media/a9745ef648c8ccccf6b23043c8b359b97f012de2/362_0_3027_2421/master/3027.jpg?width=140&quality=85&auto=format&fit=max&s=47bd63ed16e917a065199e3d197acec1",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ed0afc2c1d",
+    "source": "BBC — Top Stories",
+    "title": "Who are the 48 hostages still held in Gaza?",
+    "summary": "A ceasefire deal should see Hamas hand over all 48 remaining Israeli and foreign hostages, 20 of whom are believed to be alive.",
+    "url": "https://www.bbc.com/news/articles/cpvl9k4mw8no?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-10T12:26:22Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b600/live/0a160040-a5d0-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
