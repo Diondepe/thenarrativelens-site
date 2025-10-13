@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-ed0afc2c1d",
+    "source": "BBC — Top Stories",
+    "title": "Who are the hostages being released?",
+    "summary": "A ceasefire deal should see Hamas hand over all 48 remaining Israeli and foreign hostages, 20 of whom are believed to be alive.",
+    "url": "https://www.bbc.com/news/articles/cpvl9k4mw8no?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T08:15:55Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b600/live/0a160040-a5d0-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-0dac4f22d9",
+    "source": "The Guardian — UK",
+    "title": "Lloyds puts aside extra £800m for car finance compensation claims",
+    "summary": "Banking group raises total provision to almost £2bn on ‘likelihood of more historical cases’ becoming eligible for payouts Business live – latest updates Lloyds Bank has put aside an extra £800m to deal with possible compensation claims over the motor finance scandal, with its total provision rising to almost £2bn. The bank, one of the most exposed to an ongoing scandal in which drivers were overcharged for loans as a result of commission paid to car dealers, had previously set aside £1.15bn to deal with potential costs. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/13/lloyds-puts-aside-extra-800m-car-finance-compensation-historical-claims",
+    "published": "2025-10-13T08:08:02Z",
+    "image_url": "https://i.guim.co.uk/img/media/3d1107534512f13f20dd1973b414673e219d791f/511_0_3570_2857/master/3570.jpg?width=140&quality=85&auto=format&fit=max&s=abb9a14971eed23dd33af27204a274cc",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e4ede907a9",
+    "source": "BBC — Top Stories",
+    "title": "Lloyds warns car finance scandal could cost it £2bn",
+    "summary": "The bank has set aside an additional £800m, saying the number of eligible claims is expected to be higher than previously thought.",
+    "url": "https://www.bbc.com/news/articles/cq6zr733917o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T08:03:30Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74d3/live/ca6f5320-a80d-11f0-881e-a7ddfaa732cf.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-854f6ce89e",
+    "source": "Politico — UK",
+    "title": "China spy trial and the British deep state",
+    "summary": "As Israeli hostages and Palestinian prisoners are exchanged on one of the most significant days for peace in the Middle East – what role did Britain play in the peace plan? With Prime Minister Sir Keir Starmer in Egypt for the summit of peace – Sam and Anne assess if he can take any credit […]",
+    "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/china-spy-trial-and-the-british-deep-state/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-13T07:40:22Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/03/27/PASAA_PODCAST-HERO-16BY9.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1e78f9c721",
+    "source": "BBC — Top Stories",
+    "title": "Starmer arrives in Egypt ahead of summit on Gaza plan",
+    "summary": "President Trump will lead Monday's summit, where No 10 says the agreement will be signed.",
+    "url": "https://www.bbc.com/news/articles/c9qnqx7znqno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T07:23:10Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6b2/live/01ba3120-a7a4-11f0-80e5-35639bfcaf32.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-387889626f",
     "source": "The Guardian — UK",
     "title": "UK charities say toxic immigration rhetoric leading to threats against staff",
@@ -48,18 +108,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-ed0afc2c1d",
-    "source": "BBC — Top Stories",
-    "title": "Who are the hostages being released?",
-    "summary": "A ceasefire deal should see Hamas hand over all 48 remaining Israeli and foreign hostages, 20 of whom are believed to be alive.",
-    "url": "https://www.bbc.com/news/articles/cpvl9k4mw8no?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T06:40:07Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b600/live/0a160040-a5d0-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-7d1beabc5d",
     "source": "Politico — UK",
     "title": "Far right fizzles in Portugal’s local elections",
@@ -96,6 +144,30 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-94a1e56933",
+    "source": "BBC — Top Stories",
+    "title": "'He's giving us a lot of joy' - Marcus Rashford's revival at Barcelona",
+    "summary": "Marcus Rashford came to Barcelona to revive a spluttering career, and so far he is making a good job of that task, but it remains early days in Spain for the England forward.",
+    "url": "https://www.bbc.com/sport/football/articles/c3rvr0z531eo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T05:56:41Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9472/live/fc4682a0-a75a-11f0-a302-6bcd0f505684.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f6873783b3",
+    "source": "BBC — Top Stories",
+    "title": "By-election shines new spotlight on historic Caerphilly",
+    "summary": "Why the Caerphilly by-election is about more than just sending one representative to Cardiff Bay.",
+    "url": "https://www.bbc.com/news/articles/czew7nedd8jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T05:18:05Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b570/live/85c13390-a530-11f0-8469-192d9823e9a2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-d58e7c1bfd",
     "source": "BBC — Top Stories",
     "title": "Blowing whistle on racism killed my career, ex-England rugby player says",
@@ -103,6 +175,18 @@
     "url": "https://www.bbc.com/sport/rugby-union/articles/cdr61plm727o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T05:12:38Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e57/live/2a144370-a5da-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b1f82e8149",
+    "source": "BBC — Top Stories",
+    "title": "Heartbreak after modified e-bike fire destroys home",
+    "summary": "Emma Wills, from Chilworth, says she remains heartbroken about the fire at her home.",
+    "url": "https://www.bbc.com/news/articles/cj3yk5xvjgmo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T05:00:15Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc0a/live/af3be870-a795-11f0-8c9e-87f67f3eb58c.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -174,7 +258,7 @@
     "summary": "Ukraine wants long-range missiles to hit back at Russia - and Donald Trump says he may send Tomahawks.",
     "url": "https://www.bbc.com/news/articles/c93xpqgzkv0o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T03:40:00Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbf6/live/3b70f0e0-a7fc-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e942/live/3ce910f0-a807-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -231,22 +315,10 @@
     "id": "Politico — UK-d4b898c74c",
     "source": "Politico — UK",
     "title": "The week that shook France",
-    "summary": "An unprecedented crisis laid bare Emmanuel Macron’s flaws, exacerbated the risk of a sovereign debt disaster, and thrust the far right closer power than ever before.",
+    "summary": "An unprecedented crisis laid bare Emmanuel Macron’s flaws, exacerbated the risk of a sovereign debt disaster, and thrust the far right closer to power than ever before.",
     "url": "https://www.politico.eu/article/the-week-that-shook-france-emmanuel-macron-sebastien-lecornu-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-13T02:00:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/12/GettyImages-2233012427-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-679934a599",
-    "source": "Politico — UK",
-    "title": "For financial stability, we need more multilateralism — not less",
-    "summary": "Policy development alone is not enough. We need the timely and consistent implementation of agreed reforms across jurisdictions.",
-    "url": "https://www.politico.eu/article/for-financial-stability-we-need-more-multilateralism-not-less/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-13T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/12/GettyImages-2239512571.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -324,18 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-c590ae8b44",
-    "source": "The Guardian — UK",
-    "title": "Post-ministerial jobs watchdog closes as part of UK government ethics shake-up",
-    "summary": "Exclusive: Acoba’s functions split between two regulators and new Ethics and Integrity Commission to oversee others The much-criticised watchdog that scrutinises the jobs UK ministers can take after leaving office will be formally scrapped on Monday as part of a wider shake-up of the ethics structure in government. The Advisory Committee on Business Appointments (Acoba), described by critics as fundamentally toothless, has been closed, a Cabinet Office announcement said, with its functions taken over by two existing regulators. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/13/post-ministerial-jobs-watchdog-acoba-closes-uk-government-ethics-shake-up",
-    "published": "2025-10-12T23:01:05Z",
-    "image_url": "https://i.guim.co.uk/img/media/f4e0f6e9592219ca6ef63c15a28fd40b61bb4ad1/76_0_800_640/master/800.jpg?width=140&quality=85&auto=format&fit=max&s=6bfb50a1bdc98f670f66c8a9f90fd83e",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-310b8e7095",
     "source": "The Guardian — UK",
     "title": "Energy firms complete UK’s first ‘hydrogen blending’ trial to power grid",
@@ -343,18 +403,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/13/energy-firms-complete-uk-first-hydrogen-blending-trial-power-grid",
     "published": "2025-10-12T23:01:05Z",
     "image_url": "https://i.guim.co.uk/img/media/6941306d2b9087b51582ad2f3d49761278beef62/0_296_4180_3343/master/4180.jpg?width=140&quality=85&auto=format&fit=max&s=f19c2143ddd4bfc4c811cfde39301288",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-1e78f9c721",
-    "source": "BBC — Top Stories",
-    "title": "Starmer arrives in Egypt ahead of summit on Gaza plan",
-    "summary": "President Trump will lead Monday's summit, where No 10 says the agreement will be signed.",
-    "url": "https://www.bbc.com/news/articles/c9qnqx7znqno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T22:17:55Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6b2/live/01ba3120-a7a4-11f0-80e5-35639bfcaf32.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -432,18 +480,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-23076b9f03",
-    "source": "BBC — Top Stories",
-    "title": "Universities must tackle antisemitism, says education secretary",
-    "summary": "Education Secretary Bridget Phillipson says Jewish students do not feel safe, as she sets out measures to tackle antisemitism.",
-    "url": "https://www.bbc.com/news/articles/cly9y7gg6eqo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T20:20:46Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/477b/live/80a29800-a75a-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-2a57011e8e",
     "source": "BBC — Top Stories",
     "title": "Clashes erupt between Hamas forces and armed clan members in Gaza City",
@@ -468,18 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-da6d5eb3b8",
-    "source": "BBC — Top Stories",
-    "title": "What we know about the ceasefire agreement and hostages release",
-    "summary": "Israel and Hamas are expected to exchange hostages and prisoners as part of phase one of Donald Trump's peace plan for Gaza.",
-    "url": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T17:06:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e572/live/df6cb660-a69f-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-c650ed8e9a",
     "source": "The Guardian — UK",
     "title": "Lucy Powell calls on Labour not to ‘write off’ May local elections",
@@ -499,30 +523,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/12/william-hill-owner-could-shut-shops-if-reeves-raises-gambling-taxes",
     "published": "2025-10-12T15:08:22Z",
     "image_url": "https://i.guim.co.uk/img/media/e4049adc3b6aa3a939d9f2efd1f6288be8d97662/23_0_6521_5219/master/6521.jpg?width=140&quality=85&auto=format&fit=max&s=ba1ce31e821751325d1db0ffc6d37bd3",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b20db6ee15",
-    "source": "BBC — Top Stories",
-    "title": "The women taking Meta to task after their baby loss",
-    "summary": "Several women say the pain of losing their babies was made worse by targeted advertising.",
-    "url": "https://www.bbc.com/news/articles/ce8450380zyo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T15:05:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940f/live/fef0d9a0-6705-11f0-8dbd-f3d32ebd3327.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-72f01de5fe",
-    "source": "BBC — Top Stories",
-    "title": "Man charged with stalking after allegedly targeting Ed Davey and family",
-    "summary": "As well as the accusations regarding Ed Davey, Inigo Rowland is charged with flick-knife possession.",
-    "url": "https://www.bbc.com/news/articles/c77d702znm4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T13:54:25Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9188/live/c3b1dca0-a76e-11f0-93e3-054bcb63bc18.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
