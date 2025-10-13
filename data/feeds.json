@@ -1,12 +1,120 @@
 [
   {
+    "id": "BBC — Top Stories-271e198f2c",
+    "source": "BBC — Top Stories",
+    "title": "Middle East 'doomed' without Palestinian state, King of Jordan tells BBC",
+    "summary": "In an exclusive interview with BBC Panorama, the king says a two-state solution is the only answer.",
+    "url": "https://www.bbc.com/news/articles/c3w965y65zzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T16:14:39Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71dd/live/23199da0-a840-11f0-8df8-17b411cc599c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-97b14841c8",
+    "source": "The Guardian — UK",
+    "title": "No 10 says claims it concealed evidence or withdrew witnesses to stop China spy trial are ‘categorically untrue’ – UK politics live",
+    "summary": "PM’s spokesperson says it is ‘entirely false’ government played role in getting CPS to drop China spying case At the Downing Street lobby briefing this morning the PM’s spokesperson said it was “entirely false” to suggest the government influenced the collapse of the China spying case because of concerns Beijing could withdraw investment in the UK, Downing Street said. Asked about reports in the Sunday Times which suggested a decision was taken high up in government to abandon the case so as not to damage the economic relationship with China, the PM’s spokesperson told reporters: It is entirely false. The CPS [Crown Prosecution Service] decision to drop the case was entirely a matter for the CPS. There was no role for any member of this government, no minister, or special adviser, to take any decision in relation to this case. That is entirely for the CPS. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/13/china-spy-trial-keir-starmer-egypt-margaret-thatcher-anniversary-uk-politics-live-news-updates",
+    "published": "2025-10-13T16:10:03Z",
+    "image_url": "https://i.guim.co.uk/img/media/d2d80b936dfd8305dce9c8788f464b483c87fb7e/1309_695_3678_2942/master/3678.jpg?width=140&quality=85&auto=format&fit=max&s=9abfddcd8765b3c95a5638db2d54980d",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0d513408da",
+    "source": "BBC — Top Stories",
+    "title": "England defender Millie Bright retires from international football",
+    "summary": "England defender Millie Bright announces her retirement from international football, saying \"it's a feeling and I'm at peace with it\".",
+    "url": "https://www.bbc.com/sport/football/articles/ced616y4n8zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T16:06:38Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5c9/live/5d105060-a847-11f0-8df8-17b411cc599c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-6b594c20f2",
+    "source": "The Guardian — UK",
+    "title": "Tommy Robinson says Elon Musk is paying his legal costs as trial begins",
+    "summary": "Robinson allegedly failed to comply with officers who ‘became concerned’ by his behaviour at Channel Tunnel Tommy Robinson has claimed Elon Musk is paying his legal costs as he went on trial for refusing to comply with a request made by counter terrorism police as he tried to leave Britain last year. The far-right activist, whose real name is Stephen Yaxley Lennon, refused to give police the pin for his phone because it had “journalistic material on it” after they stopped him at the Channel Tunnel on 28 July 2024, a court heard. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/13/tommy-robinson-says-elon-musk-is-paying-his-legal-costs-as-trial-begins",
+    "published": "2025-10-13T15:58:28Z",
+    "image_url": "https://i.guim.co.uk/img/media/7b357a55cde6216a99d90c884f2e0e033d0a5af8/1007_547_4281_3424/master/4281.jpg?width=140&quality=85&auto=format&fit=max&s=2c34c681c65f0981ff76bea8e6655f09",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6746598138",
+    "source": "BBC — Top Stories",
+    "title": "'Long and painful nightmare finally over,' Trump tells Israel's parliament",
+    "summary": "The US president was applauded by Israeli lawmakers for his role in brokering an Israel-Hamas ceasefire.",
+    "url": "https://www.bbc.com/news/articles/c709jxxrrvlo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T15:50:33Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e6/live/04607d40-a839-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-ee4a7a92ac",
+    "source": "Politico — UK",
+    "title": "The new hero of Scottish independence? Nigel Farage",
+    "summary": "The Scottish National Party’s independence dream is still stuck — but a bogeyman could help.",
+    "url": "https://www.politico.eu/article/the-new-hero-of-scottish-independence-nigel-farage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-13T15:43:52Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/13/GettyImages-2232356629-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-55da737585",
+    "source": "BBC — Top Stories",
+    "title": "SNP will create network of walk-in GP services, says Scotland's first minister Swinney",
+    "summary": "The announcement came during the first minister's keynote speech at the SNP conference in Aberdeen.",
+    "url": "https://www.bbc.com/news/articles/ceq052d1ypeo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T15:40:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c9/live/15539c60-a84b-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-a9d2ea9c2f",
+    "source": "Politico — UK",
+    "title": "Bessent says US in talks with China to prevent new trade war",
+    "summary": "Treasury Secretary Scott Bessent said he expects to meet with his Chinese counterpart, Vice Premier He Lifeng, in Asia in coming weeks.",
+    "url": "https://www.politico.com/news/2025/10/13/bessent-china-talks-trade-00606345?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-13T15:29:12Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-2334f8961c",
     "source": "BBC — Top Stories",
     "title": "Vodafone admits 'major outage' as more than 130,000 report problems",
     "summary": "Vodafone claims to have more than 18 million customers in the UK, including nearly 700,000 home broadband customers.",
     "url": "https://www.bbc.com/news/articles/c5yldldx659o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T15:16:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/824e/live/d4a91730-a840-11f0-be75-03aefff797aa.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a0/live/c3a1d500-a848-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-620609c85c",
+    "source": "The Guardian — UK",
+    "title": "Gaza ceasefire: what is the UK’s role? – podcast",
+    "summary": "All eyes are on the Middle East where there have been emotional scenes in Israel as hostages were released, while tens of thousands of Palestinians are able to return to the ruins of their homes in Gaza. As global leaders, including Donald Trump and Keir Starmer, meet for a peace summit, Pippa Crerar and Kiran Stacey discuss the UK’s role in securing the ceasefire and in the next phases of the peace plan. Plus, what has Tony Blair’s contribution been to the ceasefire, and what part could he play in future? -- Send your thoughts and questions to politicsweeklyuk@theguardian.com Continue reading...",
+    "url": "https://www.theguardian.com/politics/audio/2025/oct/13/gaza-ceasefire-what-is-the-uk-role-podcast",
+    "published": "2025-10-13T15:16:05Z",
+    "image_url": "https://i.guim.co.uk/img/media/f4ef30188e9ddfc96fcc90b0ae86912571c8460a/0_204_5498_4398/master/5498.jpg?width=140&quality=85&auto=format&fit=max&s=d377243f4ee9b91ad2157c70bf9dc563",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -15,7 +123,7 @@
     "id": "The Guardian — UK-8e3e0fcede",
     "source": "The Guardian — UK",
     "title": "Vodafone outage: thousands of broadband and mobile users report problems",
-    "summary": "Many customers say they access cannot services including the internet and making mobile phone calls Tens of thousands of Vodafone customers were reporting that they could not access services including the internet and making mobile phone calls on Monday. Consumers started reporting problems on the website of the outage monitor Downdetector from about 3pm on Monday. Continue reading...",
+    "summary": "Many customers say they cannot access services including the internet or make mobile phone calls Tens of thousands of Vodafone customers were reporting that they could not access services including the internet and making mobile phone calls on Monday. Consumers started reporting problems on the website of the outage monitor Downdetector from about 3pm on Monday. Continue reading...",
     "url": "https://www.theguardian.com/business/2025/oct/13/vodafone-outage-broadband-mobile-down-internet-calls",
     "published": "2025-10-13T15:09:44Z",
     "image_url": "https://i.guim.co.uk/img/media/3b1a08a894d52beb69e451301a9356ce53ed518d/285_0_5039_4033/master/5039.jpg?width=140&quality=85&auto=format&fit=max&s=949d4756f427e8abeb0e4520c013be09",
@@ -30,19 +138,7 @@
     "summary": "EU executive signals possible shift on Israel penalties if peace process continues — but says \"we're not there yet.\"",
     "url": "https://www.politico.eu/article/commission-hints-reversal-israel-sanctions-if-gaza-ceasefire-holds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-13T15:06:40Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/13/GettyImages-2240437388-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-97b14841c8",
-    "source": "The Guardian — UK",
-    "title": "No 10 says claims it concealed evidence or withdrew witnesses to stop China spy trial are ‘categorically untrue’ – UK politics live",
-    "summary": "PM’s spokesperson says it is ‘entirely false’ government played role in getting CPS to drop China spying case At the Downing Street lobby briefing this morning the PM’s spokesperson said it was “entirely false” to suggest the government influenced the collapse of the China spying case because of concerns Beijing could withdraw investment in the UK, Downing Street said. Asked about reports in the Sunday Times which suggested a decision was taken high up in government to abandon the case so as not to damage the economic relationship with China, the PM’s spokesperson told reporters: It is entirely false. The CPS [Crown Prosecution Service] decision to drop the case was entirely a matter for the CPS. There was no role for any member of this government, no minister, or special adviser, to take any decision in relation to this case. That is entirely for the CPS. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/13/china-spy-trial-keir-starmer-egypt-margaret-thatcher-anniversary-uk-politics-live-news-updates",
-    "published": "2025-10-13T15:05:59Z",
-    "image_url": "https://i.guim.co.uk/img/media/d2d80b936dfd8305dce9c8788f464b483c87fb7e/1309_695_3678_2942/master/3678.jpg?width=140&quality=85&auto=format&fit=max&s=9abfddcd8765b3c95a5638db2d54980d",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/13/GettyImages-2240770788-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -50,11 +146,11 @@
   {
     "id": "The Guardian — UK-a49b4a5f92",
     "source": "The Guardian — UK",
-    "title": "Lab-grown cells replicate early development of human heart",
-    "summary": "Cambridge scientists grow blood stem cells, raising new possibilities for regenerative medicine Scientists have grown embryo-like structures in the laboratory that replicate the early development of the heart, including the production of blood, raising new possibilities for regenerative medicine. The ability to generate blood stem cells in the laboratory may one day make it possible to treat patients in need of bone marrow transplants using their own cells. Continue reading...",
+    "title": "Lab-grown human embryo model produces blood cells",
+    "summary": "Breakthrough raises new possibilities for regenerative medicine, which uses patient’s own cells to repair damaged tissues Scientists have grown embryo-like structures in the laboratory that produced human blood cells, raising new possibilities for regenerative medicine. The ability to generate blood stem cells in the laboratory may one day make it possible to treat patients in need of bone marrow transplants using their own cells. Continue reading...",
     "url": "https://www.theguardian.com/science/2025/oct/13/lab-grown-cells-replicate-early-development-human-heart",
     "published": "2025-10-13T15:00:02Z",
-    "image_url": "https://i.guim.co.uk/img/media/718b8c52b1f03abd513105350c5346a90c21bc2c/0_0_4708_3768/master/4708.jpg?width=140&quality=85&auto=format&fit=max&s=e354782c90d32c53be2b4ef7e16f129e",
+    "image_url": "https://i.guim.co.uk/img/media/e5a7171487d96a0fad46c37978efd5f3185ad987/0_166_1082_866/master/1082.jpg?width=140&quality=85&auto=format&fit=max&s=ac26bea810794cf9b14d683b6b77a8ce",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -91,18 +187,6 @@
     "url": "https://www.bbc.com/news/articles/c2lp1k7pnpno?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T14:38:27Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4755/live/64e20e60-a828-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-fd0d42c800",
-    "source": "BBC — Top Stories",
-    "title": "Carmakers go on trial over 'dieselgate' emissions cheat claims",
-    "summary": "The trial is the latest chapter of what has become known as the \"dieselgate\" scandal.",
-    "url": "https://www.bbc.com/news/articles/cjr5epw8dweo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T14:31:36Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3058/live/77e2ecf0-a83c-11f0-8df8-17b411cc599c.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -204,13 +288,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-6746598138",
+    "id": "BBC — Top Stories-7b1cae385e",
     "source": "BBC — Top Stories",
-    "title": "'Long and painful nightmare finally over,' Trump tells Israel's parliament",
-    "summary": "The US president was applauded by Israeli lawmakers for his role in brokering an Israel-Hamas ceasefire.",
-    "url": "https://www.bbc.com/news/articles/c709jxxrrvlo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T12:32:49Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e6/live/04607d40-a839-11f0-928c-71dbb8619e94.jpg",
+    "title": "German club condemns fan behaviour after tourists attacked",
+    "summary": "The incident on Abbey Street was said to have happened on Saturday, as supporters marched through the city centre.",
+    "url": "https://www.bbc.com/news/articles/ce3x1qrd2kno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T12:48:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a893/live/345ba410-a826-11f0-9402-2f1ec29d00d4.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -252,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-85e6f525b6",
-    "source": "The Guardian — UK",
-    "title": "Family says failure to assess man’s mental health led to his death on Bibby Stockholm",
-    "summary": "Leonard Farruku was unwell and should not have been moved to barge where he took his own life, say sisters The family of an asylum seeker who died on the Bibby Stockholm believe he would still be alive today had he been properly assessed and treated before being placed on the barge. Leonard Farruku, 27, died in the bathroom of his shared cabin onboard the barge on 12 December 2023. He had been moved there weeks earlier, after the then Conservative government began using the Bibby Stockholm to house asylum seekers. In the UK and Ireland, Samaritans can be contacted on freephone 116 123, or email jo@samaritans.org or jo@samaritans.ie . In the US, you can call or text the National Suicide Prevention Lifeline on 988, chat on 988lifeline.org , or text HOME to 741741 to connect with a crisis counselor. In Australia, the crisis support service Lifeline is 13 11 14. Other international helplines can be found at befrienders.org Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/13/leonard-farruku-family-mental-health-bibby-stockholm",
-    "published": "2025-10-13T11:13:46Z",
-    "image_url": "https://i.guim.co.uk/img/media/f264aea0e2d4b90211420c447233ca4aeefcf671/112_0_522_418/master/522.jpg?width=140&quality=85&auto=format&fit=max&s=52bcaa3b4a74b62abc16fb92236709de",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-1127782677",
     "source": "BBC — Top Stories",
     "title": "King Charles to host German president in first state visit to UK for 27 years",
@@ -271,18 +343,6 @@
     "url": "https://www.bbc.com/news/articles/czxklen5p2qo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T11:09:58Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92c0/live/ec0d7f20-a821-11f0-85ef-e382bd92d5ce.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-da6d5eb3b8",
-    "source": "BBC — Top Stories",
-    "title": "What happens next in Trump's ceasefire plan",
-    "summary": "Israel and Hamas are exchanging hostages and prisoners as part of phase one of Donald Trump's peace plan for Gaza.",
-    "url": "https://www.bbc.com/news/articles/cvgqx7ygq41o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T10:59:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d25/live/6026e230-a826-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -314,7 +374,7 @@
   {
     "id": "BBC — Top Stories-527f5d593f",
     "source": "BBC — Top Stories",
-    "title": "Two charged with murder of Lostprophets singer Ian Watkins who died in prison attack",
+    "title": "Two charged with murder of Lostprophets singer Ian Watkins in prison attack",
     "summary": "The disgraced Lostprophets frontman was fatally injured at HMP Wakefield on Saturday.",
     "url": "https://www.bbc.com/news/articles/c3drdy5ry2do?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T10:23:12Z",
@@ -331,18 +391,6 @@
     "url": "https://www.bbc.com/news/articles/c93xpqgzkv0o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T10:01:42Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f649/live/425039f0-a81c-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4f6aa56159",
-    "source": "BBC — Top Stories",
-    "title": "Reeves urged to avoid 'half-baked' tax fixes in Budget",
-    "summary": "The think tank says the government should seize the opportunity to reform the tax system.",
-    "url": "https://www.bbc.com/news/articles/cx2n08n15w2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T09:55:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dad/live/8bcc7840-a818-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -396,30 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-ca452a8c63",
-    "source": "Politico — UK",
-    "title": "4chan hit by £20,000 UK watchdog fine",
-    "summary": "U.K. Tech Secretary Liz Kendall says levy against the online message board is a “clear warning” to other providers.",
-    "url": "https://www.politico.eu/article/uk-communications-regulator-confirms-20000-4chan-fine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-13T09:12:57Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/13/GettyImages-1814351886-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-e7cc0f6846",
-    "source": "Politico — UK",
-    "title": "Várhelyi ‘not aware’ of Hungary’s alleged attempts to recruit spies in Brussels",
-    "summary": "The commissioner met with his boss Ursula von der Leyen on Sunday, days after media outlets reported the Hungarian government had tried to recruit EU staffers as spies.",
-    "url": "https://www.politico.eu/article/eu-commission-oliver-varhelyi-not-aware-hungary-alleged-attempt-recruit-spies-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-13T08:54:11Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/13/GettyImages-2208695516-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-387889626f",
     "source": "The Guardian — UK",
     "title": "UK charities say toxic immigration rhetoric leading to threats against staff",
@@ -451,18 +475,6 @@
     "url": "https://www.theguardian.com/business/ng-interactive/2025/oct/13/most-of-great-britains-major-rail-operators-are-back-in-public-hands-is-it-working",
     "published": "2025-10-13T06:00:14Z",
     "image_url": "https://i.guim.co.uk/img/media/91b462f9f4dd50ba732fe3733fdd2d6794f73cea/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=dd78d685b4f59fe1648a96b7b82c9b79",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-d204ab05a4",
-    "source": "BBC — Top Stories",
-    "title": "'All the stress was for nothing': Woman drops sex assault case after court delays",
-    "summary": "The woman said she endured years of pain after being assaulted by a taxi driver on her birthday.",
-    "url": "https://www.bbc.com/news/articles/cy50zp3dvxro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T05:25:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1c/live/64b84b40-a2c2-11f0-9de5-4d449564150c.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -583,18 +595,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/09/starmer-enters-parallel-universe-as-red-carpet-pulled-out-in-india-amid-trade-deal",
     "published": "2025-10-09T15:37:47Z",
     "image_url": "https://i.guim.co.uk/img/media/a9b76c4a21fce06d4e77395667fbf91edc183bdc/413_0_6306_5048/master/6306.jpg?width=140&quality=85&auto=format&fit=max&s=f6d1df7c8bf794786f940cbeb145fc6d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-faac305fe8",
-    "source": "The Guardian — UK",
-    "title": "Tax cuts, jokes and pig-wrestling: Badenoch’s attempt to save her job – podcast",
-    "summary": "The Conservative leader used her conference speech to announce plans to scrap stamp duty and launch an attack on Labour, but why was there so little mention of the biggest threat facing her party? And will her performance be enough to stave off leadership rival Robert Jenrick? Pippa Crerar and Kiran Stacey talk through the speech and ask where the Conservatives go from here. Plus, they speak to Luke Tryl from More in Common about whether any moments from conference season have moved the dial in British politics -- Send your thoughts and questions to politicsweeklyuk@theguardian.com Continue reading...",
-    "url": "https://www.theguardian.com/politics/audio/2025/oct/08/tax-cuts-jokes-and-pig-wrestling-badenochs-attempt-to-save-her-job-podcast",
-    "published": "2025-10-08T16:21:27Z",
-    "image_url": "https://i.guim.co.uk/img/media/253950090d68d10d798e0e4ad33602576ece7378/433_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=dc3a68ff4fb29117af10e6ed569d9d3b",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
