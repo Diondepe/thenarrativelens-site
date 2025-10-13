@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-921c2dcda4",
+    "source": "BBC — Top Stories",
+    "title": "Undercover officer played role in Stephen Lawrence inquiry clashes",
+    "summary": "There may be evidence of racism in how a police team targeted black justice campaigners, an inquiry hears.",
+    "url": "https://www.bbc.com/news/articles/c803ex1xgr5o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T18:52:50Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c245/live/0b16ba80-a859-11f0-a6a1-7df40e0558bb.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-44ab6b6eec",
+    "source": "The Guardian — UK",
+    "title": "Muddle over semantics or pressure from China? Collapsed spying case remains baffling",
+    "summary": "Labour says Conservative government at time failed to classify China as a threat, but plenty of evidence suggests the contrary There is a baffling contradiction at the heart of the efforts of Dan Jarvis, the security minister, to explain why the prosecution of two Britons accused of spying for China collapsed last month. The problem, he insisted in front of MPs on Monday, was that “it was not the policy of a Conservative government to classify China as a threat to national security”. Except there is plenty of evidence to suggest that China was recognised as a threat by the previous governments in documents and public statements by ministers and officials. All this makes the failure of the government witness – Matthew Collins, the deputy national security adviser – to set this out in three separate witness statements given to the prosecution even more surprising. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/13/muddle-over-semantics-or-pressure-from-china-collapsed-spying-case-remains-baffling",
+    "published": "2025-10-13T18:51:50Z",
+    "image_url": "https://i.guim.co.uk/img/media/ee066fc4e3dd3dbb4e6362791aaffbf989d4408e/139_0_860_688/master/860.jpg?width=140&quality=85&auto=format&fit=max&s=c37e5ab588ced4f047ec58e0b75a791e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-9b7f67f10a",
+    "source": "The Guardian — UK",
+    "title": "Trump sets sights on peace with Iran as he hails ‘end of Gaza war’",
+    "summary": "In speech to Israeli Knesset hours after hostages released, US president spoke of ‘historic dawn of new Middle East’ Gaza ceasefire – live updates Donald Trump vowed on Monday to use the power of his presidency to ensure that Israel recognises it has achieved “all that it can by force of arms”, and begin an age of cooperation in the Middle East that may ultimately extend as far as peace with Iran. In a speech to the Israeli Knesset, made hours after the last remaining Israeli hostages were released from Gaza, Trump hailed the “historic dawn of a new Middle East” and an end to the “long and painful nightmare” of the Gaza war. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/oct/13/donald-trump-sets-sights-peace-iran-hails-end-war-israel-hamas",
+    "published": "2025-10-13T18:47:42Z",
+    "image_url": "https://i.guim.co.uk/img/media/f5944880d1d17c4519b334a49d033127067fc20b/617_250_3713_2970/master/3713.jpg?width=140&quality=85&auto=format&fit=max&s=6cb4cc7c243a233c4a979d7d15c75b96",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-44458634e4",
+    "source": "The Guardian — UK",
+    "title": "Farage criticises ‘disgraceful’ rhetoric after alleged attack on Reform council leader",
+    "summary": "George Finch, 19, says he was called a ‘racist’ and ‘fascist’ during incident in Warwickshire on Friday The Reform UK leader, Nigel Farage, has criticised “disgraceful” rhetoric from the Labour and Green parties after the UK’s youngest council leader was allegedly assaulted. George Finch, 19, the Reform leader of Warwickshire county council,said he was called a “racist” and a “fascist” before being allegedly assaulted on Friday. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/13/farage-criticises-disgraceful-rhetoric-after-alleged-attack-on-reform-council-leader",
+    "published": "2025-10-13T18:33:26Z",
+    "image_url": "https://i.guim.co.uk/img/media/4a138e0c6067b23330a8d1669c877152eb428d8d/0_0_5710_4570/master/5710.jpg?width=140&quality=85&auto=format&fit=max&s=e5e83c3c8ffa22e2e3d69da97026c687",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e25f97f659",
+    "source": "The Guardian — UK",
+    "title": "Government made ‘every effort’ to support China spying trial, says minister",
+    "summary": "Dan Jarvis accuses Tories of suggesting case was deliberately abandoned ‘without a shred of evidence’ The government made “every effort” to support the trial of two men accused of spying for China , a minister has said, as he accused the Tories of claiming the case was deliberately abandoned “without a shred of evidence”. Dan Jarvis, the security minister, issued a robust defence of Jonathan Powell in the Commons after reports that Keir Starmer’s national security adviser played a role in the collapse of the case. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/13/government-made-every-effort-to-support-china-spy-case-says-minister",
+    "published": "2025-10-13T18:10:39Z",
+    "image_url": "https://i.guim.co.uk/img/media/8313073e626002f699a1531407e1311cc0190869/189_0_894_715/master/894.jpg?width=140&quality=85&auto=format&fit=max&s=48ac1c509e6955f98253811edbf9bb6e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-fb4f6ad875",
     "source": "The Guardian — UK",
     "title": "Carmakers chose to cheat to sell cars rather than comply with emissions law, ‘dieselgate’ trial told",
@@ -14,7 +74,7 @@
   {
     "id": "The Guardian — UK-050183f6a1",
     "source": "The Guardian — UK",
-    "title": "UK role in Gaza ceasefire agreement questioned by US figures",
+    "title": "Dispute over UK’s ‘key’ role in Gaza deal highlights limits of British influence",
     "summary": "US ambassador to Israel calls Bridget Phillipson ‘delusional’ for saying UK played key role, though others point to important input from British figures As world leaders arrived in Egypt on Monday to celebrate the first stage of the Gaza ceasefire deal and discuss the next steps, there was a curious note of disharmony between the US and the UK. Bridget Phillipson, the education secretary, had appeared on the BBC on Sunday talking about the UK’s “key role” in shaping the agreement – only to be slapped down on X by the US ambassador to Israel, Mike Huckabee, who called her “delusional”. Continue reading...",
     "url": "https://www.theguardian.com/world/2025/oct/13/uk-role-in-gaza-peace-settlement-questioned-by-us-figures",
     "published": "2025-10-13T17:54:26Z",
@@ -171,7 +231,7 @@
     "id": "The Guardian — UK-4023739ad5",
     "source": "The Guardian — UK",
     "title": "Swinney says Scottish government will sponsor visas for foreign care workers",
-    "summary": "First minister tells SNP conference older people should not ‘pay the price for Westminster’s prejudice’ over immigration UK politics live – latest updates John Swinney has said the Scottish government will help hundreds of overseas care workers stay in the UK, as he attacked Westminster for its rising hostility to immigrants . The first minister said it was unfair Scotland’s older people had to “pay the price for Westminster’s prejudice”, and that his devolved government would sponsor visa applications for workers needed to staff care homes, at a cost of about £500,000. Continue reading...",
+    "summary": "First minister tells SNP conference older people should not ‘pay the price for Westminster’s prejudice’ over immigration John Swinney has said the Scottish government will help hundreds of overseas care workers stay in the UK, as he attacked Westminster for its rising hostility to immigrants . The first minister said it was unfair Scotland’s older people had to “pay the price for Westminster’s prejudice”, and that his devolved government would sponsor visa applications for workers needed to staff care homes, at a cost of about £500,000. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/oct/13/john-swinney-scottish-government-sponsor-visas-foreign-care-workers",
     "published": "2025-10-13T16:28:46Z",
     "image_url": "https://i.guim.co.uk/img/media/c3e91c0e607a149c71cf76d4e1c99c364b1d3192/1116_378_4174_3339/master/4174.jpg?width=140&quality=85&auto=format&fit=max&s=9bb5f6819b8fd970db09894473000e5a",
@@ -247,18 +307,6 @@
     "url": "https://www.bbc.com/news/articles/c2drgnx6d39o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T15:58:57Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d94b/live/400bd0c0-a833-11f0-9f09-57500e5dbf06.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-6b594c20f2",
-    "source": "The Guardian — UK",
-    "title": "Tommy Robinson says Elon Musk is paying his legal costs as trial begins",
-    "summary": "Far-right activist is accused of refusing to comply with counter-terrorism police request at Channel tunnel Tommy Robinson claimed Elon Musk was paying his legal costs, as he went on trial for refusing to comply with a request made by counter-terrorism police as he tried to leave Britain last year. The far-right activist, whose real name is Stephen Yaxley Lennon, refused to give police the pin for his phone because it had “journalistic material on it” after they stopped him at the Channel tunnel on 28 July 2024, a court heard. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/13/tommy-robinson-says-elon-musk-is-paying-his-legal-costs-as-trial-begins",
-    "published": "2025-10-13T15:58:28Z",
-    "image_url": "https://i.guim.co.uk/img/media/7b357a55cde6216a99d90c884f2e0e033d0a5af8/1007_547_4281_3424/master/4281.jpg?width=140&quality=85&auto=format&fit=max&s=2c34c681c65f0981ff76bea8e6655f09",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -360,18 +408,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-a49b4a5f92",
-    "source": "The Guardian — UK",
-    "title": "Lab-grown human embryo model produces blood cells",
-    "summary": "Breakthrough raises new possibilities for regenerative medicine, which uses patient’s own cells to repair damaged tissues Scientists have grown embryo-like structures in the laboratory that produced human blood cells, raising new possibilities for regenerative medicine. The ability to generate blood stem cells in the laboratory may one day make it possible to treat patients in need of bone marrow transplants using their own cells. Continue reading...",
-    "url": "https://www.theguardian.com/science/2025/oct/13/lab-grown-cells-replicate-early-development-human-heart",
-    "published": "2025-10-13T15:00:02Z",
-    "image_url": "https://i.guim.co.uk/img/media/e5a7171487d96a0fad46c37978efd5f3185ad987/0_166_1082_866/master/1082.jpg?width=140&quality=85&auto=format&fit=max&s=ac26bea810794cf9b14d683b6b77a8ce",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-a95e170b65",
     "source": "BBC — Top Stories",
     "title": "The controversy over the collapsed China spy case explained",
@@ -420,22 +456,10 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-7b1cae385e",
-    "source": "BBC — Top Stories",
-    "title": "German club condemns fan behaviour after tourists attacked",
-    "summary": "The incident on Abbey Street was said to have happened on Saturday, as supporters marched through the city centre.",
-    "url": "https://www.bbc.com/news/articles/ce3x1qrd2kno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T12:48:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a893/live/345ba410-a826-11f0-9402-2f1ec29d00d4.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-60f87f537b",
     "source": "The Guardian — UK",
     "title": "Reform UK abandoning manifesto pledge of £90bn in tax cuts, deputy leader admits",
-    "summary": "Richard Tice says party will concentrate on cutting civil service and scrapping net zero once in government UK politics live – latest updates Reform UK’s deputy leader has admitted the party cannot deliver the £90bn in tax cuts promised in its manifesto, saying it would concentrate on public spending cuts once in government. Richard Tice said key election pledges such as lifting the income tax threshold would be an “aspiration” and that once in government Reform would concentrate on cutting the civil service and scrapping net zero . Continue reading...",
+    "summary": "Richard Tice says party will concentrate on cutting civil service and scrapping net zero once in government Reform UK’s deputy leader has admitted the party cannot deliver the £90bn in tax cuts promised in its manifesto, saying it would concentrate on public spending cuts once in government. Richard Tice said key election pledges such as lifting the income tax threshold would be an “aspiration” and that once in government Reform would concentrate on cutting the civil service and scrapping net zero . Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/oct/13/eform-uk-abandoning-manifesto-pledge-tax-cuts-deputy-leader-admits",
     "published": "2025-10-13T11:53:09Z",
     "image_url": "https://i.guim.co.uk/img/media/44346a77b55a6f32623a04ac579a14c17fbd8d0b/222_0_6640_5311/master/6640.jpg?width=140&quality=85&auto=format&fit=max&s=d84f18837d5fbea0592db04f6ed890d7",
@@ -528,18 +552,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-ef5065acd9",
-    "source": "The Guardian — UK",
-    "title": "IFS warns Rachel Reeves against ‘half-baked dash for revenue’",
-    "summary": "Thinktank says UK could raise significant funds by tackling some of the longstanding ‘inefficiency and unfairness’ in tax system Rachel Reeves must avoid “a half-baked dash for revenue” or risk damaging economic growth as the chancellor seeks to close a large gap in next month’s budget, the Institute for Fiscal Studies has said. The tax and spending thinktank has warned there was a danger the chancellor would create “unnecessary economic damage” if she chooses to stitch together unrelated tax-raising measures to cut the shortfall in government revenues and keep within her fiscal rules. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/13/ifs-warns-rachel-reeves-against-half-baked-dash-for-revenue",
-    "published": "2025-10-13T04:00:11Z",
-    "image_url": "https://i.guim.co.uk/img/media/94c638861b3415ab0ecc59033f04981aac84c4fd/207_0_3598_2879/master/3598.jpg?width=140&quality=85&auto=format&fit=max&s=2fc751b23a84237a0b23b948b0d8f7a2",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-3ab262775b",
     "source": "BBC — Top Stories",
     "title": "'We must catch up soon!' How to stop ghosting your friends",
@@ -571,18 +583,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/11/rachel-reeves-v-the-obr-chancellor-aims-to-loosen-the-watchdogs-grip",
     "published": "2025-10-11T06:00:17Z",
     "image_url": "https://i.guim.co.uk/img/media/ff33dfa476f52d953898428179b241bf0362054f/529_55_2275_1820/master/2275.jpg?width=140&quality=85&auto=format&fit=max&s=8d25016b91fe735d167b750d4e1ecb41",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-91d2aa0e2d",
-    "source": "The Guardian — UK",
-    "title": "Labour’s softening stance towards China reinforced by dropped spy case",
-    "summary": "In an attempt to reset the relationship the government is refusing to describe China as a national security threat despite evidence to the contrary Once, before the election, Labour’s approach to China was forthright. The party promised to declare China’s systematic repression of its Uyghur Muslim minority as a genocide. Its MPs united to support a genocide amendment to a 2021 trade bill, voting with Tory rebels and only failing to defeat Boris Johnson’s government by 11 votes. But in the past week recriminations have swirled after the prosecution of two Britons accused of spying for China was dropped . A refusal by the government to describe China as a national security threat has reinforced Labour’s already softened approach to Beijing and sharpened focus on the figure at its heart: Keir Starmer’s national security adviser, Jonathan Powell. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/10/labour-softening-stance-towards-china-reinforced-by-dropped-spy-case",
-    "published": "2025-10-10T17:57:02Z",
-    "image_url": "https://i.guim.co.uk/img/media/a9745ef648c8ccccf6b23043c8b359b97f012de2/362_0_3027_2421/master/3027.jpg?width=140&quality=85&auto=format&fit=max&s=47bd63ed16e917a065199e3d197acec1",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
