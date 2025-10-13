@@ -1,5 +1,29 @@
 [
   {
+    "id": "The Guardian — UK-90b8a80c42",
+    "source": "The Guardian — UK",
+    "title": "UK MPs urged to investigate TikTok’s plans to cut 439 content moderator jobs",
+    "summary": "Trade unions and online safety experts sign letter warning jobs losses could expose children to harmful content Trade unions and online safety experts have urged MPs to investigate TikTok’s plans to make hundreds of jobs for UK-based content moderators redundant. The video app company is planning 439 redundancies in its trust and safety team in London, leading to warnings that the jobs losses will have implications for online safety. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2025/oct/13/uk-mps-tiktok-plans-cut-content-moderator-jobs",
+    "published": "2025-10-13T05:00:13Z",
+    "image_url": "https://i.guim.co.uk/img/media/dbc281b2b0620161a08b28ce0622939ae40719c6/330_0_3340_2675/master/3340.jpg?width=140&quality=85&auto=format&fit=max&s=63a660108360eac772184600e2b3d900",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-0151612203",
+    "source": "Politico — UK",
+    "title": "737 Tage Hölle: Die Freilassung der Geiseln",
+    "summary": "Ein Tag, der Geschichte schreibt: Nach 737 Tagen Geiselhaft durch die Hamas beginnt in Israel die Freilassung der letzten Überlebenden. Freude, Erleichterung – und Trauer liegen dicht beieinander. Während die Familien ihre Angehörigen empfangen, reist Donald Trump nach Israel, um in der Knesset zu sprechen. Was von der Rede zu erwarten ist, bespricht Rixa Fürsen […]",
+    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/737-tage-holle-die-freilassung-der-geiseln/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-13T04:52:35Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/Berlin-Playbook-der-podcast-43-2-800x530-px-High-Quality.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-ca56ee3b3a",
     "source": "Politico — UK",
     "title": "Macron-Retailleau : dernier appel",
@@ -139,18 +163,6 @@
     "url": "https://www.politico.eu/article/whats-really-wrong-with-french-politics/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-13T02:00:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/12/GettyImages-2240251070-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-fca782055e",
-    "source": "Politico — UK",
-    "title": "Trump may speak with Putin about sending Tomahawks to Ukraine in effort to end war",
-    "summary": "“I think I might speak to Russia about that, in all fairness,” the president said.",
-    "url": "https://www.politico.com/news/2025/10/12/trump-putin-tomahawks-ukraine-war-effort-00605994?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-13T01:37:28Z",
-    "image_url": null,
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -331,18 +343,6 @@
     "url": "https://www.bbc.com/news/articles/cg424d712q7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-12T21:03:44Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0151/live/79018c80-a7b1-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-9e7e2fd304",
-    "source": "The Guardian — UK",
-    "title": "UK to host international summit on Gaza recovery plan",
-    "summary": "Representatives from Palestinian Authority, Saudi Arabia, Jordan, Germany and Italy among those to attend conference The UK is to host an international summit on the recovery of Gaza, Downing Street has said, as Keir Starmer prepared to attend a multi-nation event in Egypt intended to finalise a truce in the Palestinian territory. The prime minister will be among an estimated 20 national leaders, among them Donald Trump, who will gather in Sharm el-Sheikh on Monday, with Starmer saying the aim must be to ensure a lasting peace after two years of devastating loss of life. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/12/uk-to-host-international-summit-on-gaza-recovery-plan",
-    "published": "2025-10-12T21:00:02Z",
-    "image_url": "https://i.guim.co.uk/img/media/05db5169b643683a8fbce122f7804296b83cda85/435_100_1417_1134/master/1417.jpg?width=140&quality=85&auto=format&fit=max&s=b8a1f8b386c62366c722dfcb3af5c09a",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
