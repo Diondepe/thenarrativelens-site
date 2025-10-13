@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-93ec6d0823",
+    "source": "BBC — Top Stories",
+    "title": "Chris Mason: SNP are the latest proof that things change quickly in politics",
+    "summary": "The SNP are not only hopeful of victory at next year's Scottish election, but are even talking of an outright majority.",
+    "url": "https://www.bbc.com/news/articles/cdx4lz0789xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T22:13:01Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72bd/live/94e688c0-a87d-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6746598138",
+    "source": "BBC — Top Stories",
+    "title": "'Now the rebuilding begins,' says Trump as he signs Gaza peace plan",
+    "summary": "The US president says the ceasefire will hold and the second phase of negotiations for a lasting peace are under way.",
+    "url": "https://www.bbc.com/news/articles/c709jxxrrvlo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T21:27:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e6/live/04607d40-a839-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-3ed40c0d72",
+    "source": "BBC — Top Stories",
+    "title": "Powell made no decisions about evidence in China spy case, minister says",
+    "summary": "The government's national security adviser is facing pressure over whether he played a role in the trial's collapse.",
+    "url": "https://www.bbc.com/news/articles/cvg4r177k52o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T21:18:38Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-a28cf10db6",
     "source": "BBC — Top Stories",
     "title": "Israeli hostages and Palestinian detainees freed as Trump hails 'historic dawn' in Middle East",
@@ -51,7 +87,7 @@
     "id": "The Guardian — UK-9b7f67f10a",
     "source": "The Guardian — UK",
     "title": "Trump sets sights on peace with Iran as he hails ‘end of Gaza war’",
-    "summary": "In speech to Israeli Knesset hours after hostages released, US president spoke of ‘historic dawn of new Middle East’ Gaza ceasefire – live updates Donald Trump has vowed to use the power of his presidency to ensure that Israel recognises it has achieved “all that it can by force of arms”, and begin an age of cooperation in the Middle East that may ultimately extend as far as peace with Iran. In a speech to the Israeli Knesset, made hours after the last remaining Israeli hostages were released from Gaza, Trump hailed the “historic dawn of a new Middle East” and an end to the “long and painful nightmare” of the Gaza war. Continue reading...",
+    "summary": "In speech to Israeli Knesset hours after hostages released, US president spoke of ‘historic dawn of new Middle East’ Donald Trump has vowed to use the power of his presidency to ensure that Israel recognises it has achieved “all that it can by force of arms”, and begin an age of cooperation in the Middle East that may ultimately extend as far as peace with Iran. In a speech to the Israeli Knesset, made hours after the last remaining Israeli hostages were released from Gaza, Trump hailed the “historic dawn of a new Middle East” and an end to the “long and painful nightmare” of the Gaza war. Continue reading...",
     "url": "https://www.theguardian.com/world/2025/oct/13/donald-trump-sets-sights-peace-iran-hails-end-war-israel-hamas",
     "published": "2025-10-13T18:47:42Z",
     "image_url": "https://i.guim.co.uk/img/media/f5944880d1d17c4519b334a49d033127067fc20b/617_250_3713_2970/master/3713.jpg?width=140&quality=85&auto=format&fit=max&s=6cb4cc7c243a233c4a979d7d15c75b96",
@@ -99,10 +135,10 @@
     "id": "The Guardian — UK-050183f6a1",
     "source": "The Guardian — UK",
     "title": "Dispute over UK’s ‘key’ role in Gaza deal highlights limits of British influence",
-    "summary": "US ambassador to Israel calls Bridget Phillipson ‘delusional’ for saying UK played key role, though others point to important input from British figures As world leaders arrived in Egypt on Monday to celebrate the first stage of the Gaza ceasefire deal and discuss the next steps, there was a curious note of disharmony between the US and the UK. Bridget Phillipson, the education secretary, had appeared on the BBC on Sunday talking about the UK’s “key role” in shaping the agreement – only to be slapped down on X by the US ambassador to Israel, Mike Huckabee, who called her “delusional”. Continue reading...",
+    "summary": "US ambassador to Israel calls Bridget Phillipson ‘delusional’ for saying UK played key role as Trump sidelines Starmer For British officials who had spent the last 24 hours talking up the UK’s role in negotiating peace in Gaza, Monday’s press conference by Donald Trump in Egypt was a brutal lesson in realpolitik. “Where’s the United Kingdom?” asked the US president before ushering up Keir Starmer, who had been stood behind him. Without allowing the prime minister to say a word, Trump briefly shook the prime minister’s hand before turning his back on him and continuing to explain how he had brought peace to the Middle East. Continue reading...",
     "url": "https://www.theguardian.com/world/2025/oct/13/uk-role-in-gaza-peace-settlement-questioned-by-us-figures",
     "published": "2025-10-13T17:54:26Z",
-    "image_url": "https://i.guim.co.uk/img/media/0e235f15c4a18646fd3263ef942fb3d94317da10/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=d970325f80dd03baa577634f1065d828",
+    "image_url": "https://i.guim.co.uk/img/media/da5b0d3079f45801a7ea82ea124d9a01e89bd29b/261_0_2215_1772/master/2215.jpg?width=140&quality=85&auto=format&fit=max&s=1b5acb1d717b89b68ab928242dd6b948",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -324,18 +360,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-3b289bf5e9",
-    "source": "BBC — Top Stories",
-    "title": "Woman detained under Mental Health Act after children found dead",
-    "summary": "Meraj Ul Zahra, two, and Abdul Momin Alfaateh, three, were found on Sunday.",
-    "url": "https://www.bbc.com/news/articles/c2drgnx6d39o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T15:58:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d94b/live/400bd0c0-a833-11f0-9f09-57500e5dbf06.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-f89d286d39",
     "source": "BBC — Top Stories",
     "title": "TikTok star HSTikkyTokky arrested after manhunt",
@@ -343,18 +367,6 @@
     "url": "https://www.bbc.com/news/articles/c4gpvp8gxy5o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T15:53:57Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b3/live/5ccad860-a846-11f0-8df8-17b411cc599c.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6746598138",
-    "source": "BBC — Top Stories",
-    "title": "'Long and painful nightmare finally over,' Trump tells Israel's parliament",
-    "summary": "The US president was applauded by Israeli lawmakers for his role in brokering an Israel-Hamas ceasefire.",
-    "url": "https://www.bbc.com/news/articles/c709jxxrrvlo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T15:50:33Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e6/live/04607d40-a839-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -379,18 +391,6 @@
     "url": "https://www.politico.eu/article/the-new-hero-of-scottish-independence-nigel-farage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-13T15:43:52Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/13/GettyImages-2232356629-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-55da737585",
-    "source": "BBC — Top Stories",
-    "title": "SNP will create network of walk-in GP services, says Scotland's first minister Swinney",
-    "summary": "The announcement came during the first minister's keynote speech at the SNP conference in Aberdeen.",
-    "url": "https://www.bbc.com/news/articles/ceq052d1ypeo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T15:40:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c9/live/15539c60-a84b-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -450,7 +450,7 @@
     "summary": "Thousands of people gather in Gaza and the West Bank to welcome Palestinian prisoners and detainees freed by Israel.",
     "url": "https://www.bbc.com/news/articles/cr430epq45go?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T13:18:43Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fcb/live/ecdfe520-a833-11f0-9f09-57500e5dbf06.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71a3/live/a50bdd20-a87a-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
