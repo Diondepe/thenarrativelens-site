@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-4f6aa56159",
+    "source": "BBC — Top Stories",
+    "title": "Reeves urged to avoid 'half-baked' tax fixes in Budget",
+    "summary": "The think tank says the government should seize the opportunity to reform the tax system.",
+    "url": "https://www.bbc.com/news/articles/cx2n08n15w2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T06:24:55Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13d9/live/98a29640-a5d3-11f0-b98a-8b079c99c55e.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ed0afc2c1d",
+    "source": "BBC — Top Stories",
+    "title": "Who are the 20 hostages being released?",
+    "summary": "A ceasefire deal should see Hamas hand over all 48 remaining Israeli and foreign hostages, 20 of whom are believed to be alive.",
+    "url": "https://www.bbc.com/news/articles/cpvl9k4mw8no?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T06:03:45Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b600/live/0a160040-a5d0-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-1e40934fcb",
+    "source": "Politico — UK",
+    "title": "‘The war is over’: What to watch for as Trump heads to Israel",
+    "summary": "The president is slated to speak to the Knesset, the Israeli parliament, and then fly to Sharm El-Sheikh for a peace summit.",
+    "url": "https://www.politico.com/news/2025/10/12/what-to-watch-as-trump-heads-to-israel-amid-preparations-for-hostages-release-00605996?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-13T06:02:36Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-7a8f3c1616",
+    "source": "The Guardian — UK",
+    "title": "Most of Great Britain’s major rail operators are back in public hands – is it working?",
+    "summary": "Explore the Guardian’s tracker to see which operators are nationalised and if services are improving under public ownership The majority of Great Britain’s major rail operators are now in public ownership, as the Labour government continues its efforts to make the railways “more reliable, affordable and accessible”. The nationalisation of Greater Anglia on 12 October represents the ninth major passenger service to be brought back into public ownership, leaving seven to go before the government’s deadline of completing every operator by 2027. Continue reading...",
+    "url": "https://www.theguardian.com/business/ng-interactive/2025/oct/13/most-of-great-britains-major-rail-operators-are-back-in-public-hands-is-it-working",
+    "published": "2025-10-13T06:00:14Z",
+    "image_url": "https://i.guim.co.uk/img/media/91b462f9f4dd50ba732fe3733fdd2d6794f73cea/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=dd78d685b4f59fe1648a96b7b82c9b79",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d58e7c1bfd",
+    "source": "BBC — Top Stories",
+    "title": "Blowing whistle on racism killed my career, ex England rugby player says",
+    "summary": "Former England centre Luther Burrell believes clubs were put off hiring him after he went public to reveal racist abuse he suffered during his time at Newcastle.",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/cdr61plm727o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T05:12:38Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e57/live/2a144370-a5da-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-90b8a80c42",
     "source": "The Guardian — UK",
     "title": "UK MPs urged to investigate TikTok’s plans to cut 439 content moderator jobs",
@@ -36,18 +96,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-f9dbfaafc9",
-    "source": "The Guardian — UK",
-    "title": "National Trust and TV wildlife expert team up on autumn nature campaign",
-    "summary": "People urged to savour sights, sounds and smells of the season as poll shows a disconnect during darker months There may be a bite in the wind and the nights are certainly drawing in but a conservation charity and a television wildlife champion have launched a campaign aimed at getting more people connecting with nature in the autumn and winter months. The National Trust is launching a “Wild Senses” campaign on the back of the new BBC series Hamza’s Hidden Wild Isles in which the wildlife expert and camera operator Hamza Yassin celebrates the UK’s seasons and encourages viewers to notice, appreciate and reconnect to wildlife everywhere. Continue reading...",
-    "url": "https://www.theguardian.com/environment/2025/oct/13/national-trust-autumn-nature-campaign-wildlife",
-    "published": "2025-10-13T04:00:11Z",
-    "image_url": "https://i.guim.co.uk/img/media/54135d2c8fb9fe94b54fc9120b8d70bea6ff9665/0_0_4946_3957/master/4946.jpg?width=140&quality=85&auto=format&fit=max&s=b071a906b1dd72c66a9b3687674223f3",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-ef5065acd9",
     "source": "The Guardian — UK",
     "title": "IFS warns Rachel Reeves against ‘half-baked dash for revenue’",
@@ -60,13 +108,25 @@
     "cluster_id": null
   },
   {
+    "id": "The Guardian — UK-f9dbfaafc9",
+    "source": "The Guardian — UK",
+    "title": "National Trust and TV wildlife expert team up on autumn nature campaign",
+    "summary": "People urged to savour sights, sounds and smells of the season as poll shows a disconnect during darker months There may be a bite in the wind and the nights are certainly drawing in but a conservation charity and a television wildlife champion have launched a campaign aimed at getting more people connecting with nature in the autumn and winter months. The National Trust is launching a “Wild Senses” campaign on the back of the new BBC series Hamza’s Hidden Wild Isles in which the wildlife expert and camera operator Hamza Yassin celebrates the UK’s seasons and encourages viewers to notice, appreciate and reconnect to wildlife everywhere. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/oct/13/national-trust-autumn-nature-campaign-wildlife",
+    "published": "2025-10-13T04:00:11Z",
+    "image_url": "https://i.guim.co.uk/img/media/54135d2c8fb9fe94b54fc9120b8d70bea6ff9665/0_0_4946_3957/master/4946.jpg?width=140&quality=85&auto=format&fit=max&s=b071a906b1dd72c66a9b3687674223f3",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-d094ec6d4b",
     "source": "BBC — Top Stories",
-    "title": "Trump says he may send Tomahawk missiles to Ukraine",
+    "title": "Trump says he may give long-range Tomahawk missiles to Ukraine",
     "summary": "Ukraine wants long-range missiles to hit back at Russia - and Donald Trump says he may send Tomahawks.",
     "url": "https://www.bbc.com/news/articles/c93xpqgzkv0o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T03:40:00Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/597d8190-a7d7-11f0-928c-71dbb8619e94.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbf6/live/3b70f0e0-a7fc-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -156,18 +216,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-7bf7913db3",
-    "source": "Politico — UK",
-    "title": "What’s really wrong with French politics",
-    "summary": "Beyond Emmanuel Macron's political problems, a hyper-presidential system of government is to blame for the unfolding catastrophe.",
-    "url": "https://www.politico.eu/article/whats-really-wrong-with-french-politics/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-13T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/12/GettyImages-2240251070-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-7fddbf1cf9",
     "source": "BBC — Top Stories",
     "title": "The Papers: 'Hostages set for release' and 'Hope amid the chaos'",
@@ -192,18 +240,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-3ab262775b",
-    "source": "BBC — Top Stories",
-    "title": "We must catch up soon. How to stop ghosting friends in adulthood",
-    "summary": "How to keep friendships alive as an adult alongside work, family and endless to-do lists.",
-    "url": "https://www.bbc.com/news/articles/cwyr971q7rxo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T23:28:53Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e2/live/d0670b70-a5f5-11f0-af09-bf7f0464c1dc.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-de08f99f38",
     "source": "BBC — Top Stories",
     "title": "Mental arithmetic really stresses me out and science has proved it",
@@ -223,18 +259,6 @@
     "url": "https://www.bbc.com/news/articles/cjr5epw8dweo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-12T23:26:16Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6baf/live/c309be20-a760-11f0-af68-63d6dbe14439.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4f6aa56159",
-    "source": "BBC — Top Stories",
-    "title": "Reeves urged to avoid 'half-baked' tax fixes in Budget",
-    "summary": "The think tank says the government should seize the opportunity to reform the tax system.",
-    "url": "https://www.bbc.com/news/articles/cx2n08n15w2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T23:21:33Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13d9/live/98a29640-a5d3-11f0-b98a-8b079c99c55e.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -290,7 +314,7 @@
   {
     "id": "BBC — Top Stories-1e78f9c721",
     "source": "BBC — Top Stories",
-    "title": "Starmer arrives in Egypt ahead of summit on Gaza peace plan",
+    "title": "Starmer arrives in Egypt ahead of summit on Gaza plan",
     "summary": "President Trump will lead Monday's summit, where No 10 says the agreement will be signed.",
     "url": "https://www.bbc.com/news/articles/c9qnqx7znqno?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-12T22:17:55Z",
@@ -324,13 +348,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-6a4a1569d8",
-    "source": "The Guardian — UK",
-    "title": "Green party reaches 100,000 members for first time after Polanski becomes leader",
-    "summary": "Green party in England and Wales has had near-50% rise in membership since Zack Polanski took over last month The Greens in England and Wales have more than 100,000 members for the first time, the party has announced, a near-50% rise since Zack Polanski took over as leader last month. It puts them on a potential course to overtake the Conservatives and comes little more than a week after the Greens announced they had moved past the Liberal Democrats in membership numbers, getting to 83,500. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/12/green-party-reaches-100000-members-for-first-time-after-polanski-becomes-leader",
-    "published": "2025-10-12T21:30:02Z",
-    "image_url": "https://i.guim.co.uk/img/media/c9fafa82f2f9374068a49d257ec4abcde273be0c/575_0_5748_4598/master/5748.jpg?width=140&quality=85&auto=format&fit=max&s=a07c4fac9e5f6aa8dbddd844fc3c9d60",
+    "id": "BBC — Top Stories-8d717c1b76",
+    "source": "BBC — Top Stories",
+    "title": "Shooting at crowded South Carolina bar leaves four dead",
+    "summary": "Four people were killed and at least 20 injured, several critically, after a shooting at a crowded bar in South Carolina on Sunday.",
+    "url": "https://www.bbc.com/news/articles/c87y79y8g4qo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T21:52:47Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b5/live/0dc88030-a7ad-11f0-8424-3d1859d87bbf.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -348,6 +372,18 @@
     "cluster_id": null
   },
   {
+    "id": "The Guardian — UK-9e7e2fd304",
+    "source": "The Guardian — UK",
+    "title": "UK to host international summit on Gaza recovery plan",
+    "summary": "Representatives from Palestinian Authority, Saudi Arabia, Jordan, Germany and Italy among those to attend conference The UK is to host an international summit on the recovery of Gaza, Downing Street has said, as Keir Starmer prepared to attend a multi-nation event in Egypt intended to finalise a truce in the Palestinian territory. The prime minister will be among an estimated 20 national leaders, among them Donald Trump, who will gather in Sharm el-Sheikh on Monday, with Starmer saying the aim must be to ensure a lasting peace after two years of devastating loss of life. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/oct/12/uk-to-host-international-summit-on-gaza-recovery-plan",
+    "published": "2025-10-12T21:00:02Z",
+    "image_url": "https://i.guim.co.uk/img/media/05db5169b643683a8fbce122f7804296b83cda85/435_100_1417_1134/master/1417.jpg?width=140&quality=85&auto=format&fit=max&s=b8a1f8b386c62366c722dfcb3af5c09a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-a320ef828d",
     "source": "BBC — Top Stories",
     "title": "Murder arrest over deaths of children aged 2 and 3",
@@ -360,13 +396,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-d901762972",
+    "id": "BBC — Top Stories-23076b9f03",
     "source": "BBC — Top Stories",
-    "title": "Watch: What do people in the West Bank think about the plan?",
-    "summary": "Palestinians in the West Bank say they hope the deal could lead to a united Palestinian future.",
-    "url": "https://www.bbc.com/news/videos/c364nnnz9rxo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T18:50:01Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cabf/live/dfe06540-a79b-11f0-b741-177e3e2c2fc7.jpg",
+    "title": "Universities must tackle antisemitism, says education secretary",
+    "summary": "Education Secretary Bridget Phillipson says Jewish students do not feel safe, as she sets out measures to tackle antisemitism.",
+    "url": "https://www.bbc.com/news/articles/cly9y7gg6eqo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T20:20:46Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/477b/live/80a29800-a75a-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -415,18 +451,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/12/lucy-powell-calls-on-labour-not-to-write-off-may-local-elections",
     "published": "2025-10-12T16:00:21Z",
     "image_url": "https://i.guim.co.uk/img/media/76ab272bb5d2ecfbb71be150d5f8572aba021427/254_0_3099_2480/master/3099.jpg?width=140&quality=85&auto=format&fit=max&s=02a913f33b7da7899cb063833ebe2c3f",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-817438d97c",
-    "source": "BBC — Top Stories",
-    "title": "'She left trail of fairy dust': Tributes pour in for Diane Keaton",
-    "summary": "First Wives Club co-star Goldie Hawn says Diane Keaton left \"memories beyond imagination\" following her death aged 79.",
-    "url": "https://www.bbc.com/news/articles/cr5q5rp4r64o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T15:28:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3881/live/ddb61160-a77e-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -504,18 +528,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-d86adcf17b",
-    "source": "The Guardian — UK",
-    "title": "‘Brummies united against racism’: poster campaign takes on the far right",
-    "summary": "A message of neighbourly solidarity is thriving in Birmingham against a backdrop of racist intimidation When Mus unfurled the leaflet lying on her driveway, she was left shocked, angry and upset. “White Britons are already a minority in London … it is clear that if these trends continue white people will become a minority in Britain,” it read. The leaflet, written by a far-right group, was distributed along her street three years ago in Moseley, a leafy suburb of Birmingham. It went on to blame NHS waiting lists, a shortage of social housing and even traffic on “the rising population”. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/12/brummies-united-against-racism-birmingham-poster-campaign-takes-on-the-far-right",
-    "published": "2025-10-12T06:00:44Z",
-    "image_url": "https://i.guim.co.uk/img/media/e306031449b36a3a35df4c311a007b7c99b75fef/610_0_5581_4463/master/5581.jpg?width=140&quality=85&auto=format&fit=max&s=7f2b22efa9531fbdc2ec07d41651e48a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-57caa9e21f",
     "source": "The Guardian — UK",
     "title": "What is the new EU border system EES, and how will it work?",
@@ -547,18 +559,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/10/labour-softening-stance-towards-china-reinforced-by-dropped-spy-case",
     "published": "2025-10-10T17:57:02Z",
     "image_url": "https://i.guim.co.uk/img/media/a9745ef648c8ccccf6b23043c8b359b97f012de2/362_0_3027_2421/master/3027.jpg?width=140&quality=85&auto=format&fit=max&s=47bd63ed16e917a065199e3d197acec1",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-ed0afc2c1d",
-    "source": "BBC — Top Stories",
-    "title": "Who are the 48 hostages still held in Gaza?",
-    "summary": "A ceasefire deal should see Hamas hand over all 48 remaining Israeli and foreign hostages, 20 of whom are believed to be alive.",
-    "url": "https://www.bbc.com/news/articles/cpvl9k4mw8no?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-10T12:26:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b600/live/0a160040-a5d0-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
