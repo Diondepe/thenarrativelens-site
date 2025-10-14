@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-b68dba1bc1",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'Two years of torment over' and Trump declares 'historic dawn'",
+    "summary": "Every paper on Tuesday leads with the release of Israeli hostages, and the next phase of the ceasefire.",
+    "url": "https://www.bbc.com/news/articles/cd0453xd72yo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T00:21:58Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7179/live/3edfcbe0-a88b-11f0-928c-71dbb8619e94.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d4cf4f12ea",
+    "source": "BBC — Top Stories",
+    "title": "Firms advised to put plans on paper in case of cyber-attack",
+    "summary": "Prepare to switch to off-line systems in the event of a cyber-attack, firms are being advised.",
+    "url": "https://www.bbc.com/news/articles/ced61xv967lo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T23:04:57Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185a/live/0ae57c10-a87f-11f0-bc97-1f661444df9d.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-2d77d1985b",
+    "source": "BBC — Top Stories",
+    "title": "Tens of thousands of homes fitted with botched eco insulation need fixing",
+    "summary": "Insulation programmes costing billions of pounds have led to widespread problems with damp and mould.",
+    "url": "https://www.bbc.com/news/articles/c3w965gz8zgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T23:02:38Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f5f/live/1d995f00-a886-11f0-a23e-ad95148998b2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-90ca30a4f8",
     "source": "The Guardian — UK",
     "title": "UK retail sales growth cools amid fears over budget tax rises",
@@ -24,18 +60,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-b1e3f9a1d4",
-    "source": "The Guardian — UK",
-    "title": "Blair’s former policy chief Matthew Taylor to lead Fair Work Agency",
-    "summary": "Author of influential report on the gig economy says new watchdog can make progress on workers’ rights Labour has appointed Tony Blair’s former policy chief to lead Britain’s new jobs market watchdog being created by the government to enforce its strengthening of workers’ rights. Matthew Taylor, who led the influential Taylor report on the gig economy and modern working practices for Theresa May’s government, will become the chair of the Fair Work Agency when the body launches next April. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/14/matthew-taylor-fair-work-agency-watchdog-workers-rights",
-    "published": "2025-10-13T23:01:04Z",
-    "image_url": "https://i.guim.co.uk/img/media/7e3eda6e5deefda9feab9bea4f3e2f6ab24b6bdb/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=25c21c3f2be8a40dd8a084c116c556e7",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-9d1e0421b4",
     "source": "The Guardian — UK",
     "title": "Cyber-attacks rise by 50% in past year, UK security agency says",
@@ -48,6 +72,18 @@
     "cluster_id": null
   },
   {
+    "id": "The Guardian — UK-b1e3f9a1d4",
+    "source": "The Guardian — UK",
+    "title": "Blair’s former policy chief Matthew Taylor to lead Fair Work Agency",
+    "summary": "Author of influential report on the gig economy says new watchdog can make progress on workers’ rights Labour has appointed Tony Blair’s former policy chief to lead Britain’s new jobs market watchdog being created by the government to enforce its strengthening of workers’ rights. Matthew Taylor, who led the influential Taylor report on the gig economy and modern working practices for Theresa May’s government, will become the chair of the Fair Work Agency when the body launches next April. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/14/matthew-taylor-fair-work-agency-watchdog-workers-rights",
+    "published": "2025-10-13T23:01:04Z",
+    "image_url": "https://i.guim.co.uk/img/media/7e3eda6e5deefda9feab9bea4f3e2f6ab24b6bdb/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=25c21c3f2be8a40dd8a084c116c556e7",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-93ec6d0823",
     "source": "BBC — Top Stories",
     "title": "Chris Mason: SNP are the latest proof that things change quickly in politics",
@@ -55,6 +91,18 @@
     "url": "https://www.bbc.com/news/articles/cdx4lz0789xo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T22:13:01Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72bd/live/94e688c0-a87d-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-3d60a1c46f",
+    "source": "BBC — Top Stories",
+    "title": "Could I have saved my parents if I'd been taught CPR?",
+    "summary": "Cameron McGerr lost both his parents and is campaigning to have life-saving first aid taught in schools.",
+    "url": "https://www.bbc.com/news/articles/cddm1lrjy7lo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T22:00:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d90/live/eca169d0-a5f4-11f0-af09-bf7f0464c1dc.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -96,6 +144,18 @@
     "cluster_id": null
   },
   {
+    "id": "Politico — UK-955cc3ba0f",
+    "source": "Politico — UK",
+    "title": "[DOCUMENT] Projet de loi de finances 2026 : tout ce qu’a décidé Lecornu en matière de fiscalité",
+    "summary": "PARIS — A la veille de la présentation du projet de loi de finances 2026 par le nouveau gouvernement de Sébastien Lecornu, POLITICO publie la première partie du texte, relative aux recettes de l’Etat. Dans ces trente articles, on retrouve plusieurs annonces formulées par le Premier ministre, dont la reconduction de la contribution sur les […]",
+    "url": "https://www.politico.eu/article/document-projet-de-loi-de-finances-2026-tout-ce-qua-decide-lecornu-en-matiere-de-fiscalite/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-13T20:33:47Z",
+    "image_url": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-228bc057db",
     "source": "Politico — UK",
     "title": "Ministers set to tackle migrant return hubs and cross-border deportation powers",
@@ -103,18 +163,6 @@
     "url": "https://www.politico.eu/article/ministers-set-tackle-migrant-return-hubs-cross-border-deportation-powers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-13T19:25:42Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/13/GettyImages-2239926774-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-921c2dcda4",
-    "source": "BBC — Top Stories",
-    "title": "Undercover officer played role in Stephen Lawrence inquiry clashes",
-    "summary": "There may be evidence of racism in how a police team targeted black justice campaigners, an inquiry hears.",
-    "url": "https://www.bbc.com/news/articles/c803ex1xgr5o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T18:52:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c245/live/0b16ba80-a859-11f0-a6a1-7df40e0558bb.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -139,6 +187,18 @@
     "url": "https://www.theguardian.com/world/2025/oct/13/donald-trump-sets-sights-peace-iran-hails-end-war-israel-hamas",
     "published": "2025-10-13T18:47:42Z",
     "image_url": "https://i.guim.co.uk/img/media/f5944880d1d17c4519b334a49d033127067fc20b/617_250_3713_2970/master/3713.jpg?width=140&quality=85&auto=format&fit=max&s=6cb4cc7c243a233c4a979d7d15c75b96",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-8500cc9c10",
+    "source": "BBC — Top Stories",
+    "title": "Eurovision organisers postpone vote on Israel's inclusion in contest next year",
+    "summary": "The European Broadcasting Union had previously announced it would hold a vote on Israel's participation in November.",
+    "url": "https://www.bbc.com/news/articles/c5yl89jp538o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T18:38:20Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4176/live/509fcf30-a861-11f0-8c94-eb86f216b4f0.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -252,18 +312,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-2334f8961c",
-    "source": "BBC — Top Stories",
-    "title": "Vodafone admits 'major outage' as more than 130,000 report problems",
-    "summary": "Vodafone claims to have more than 18 million customers in the UK, including nearly 700,000 home broadband customers.",
-    "url": "https://www.bbc.com/news/articles/c5yldldx659o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T17:00:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a0/live/c3a1d500-a848-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-28ca53cc31",
     "source": "BBC — Top Stories",
     "title": "'You're my life, my hero': Hostages reunite with families after two years",
@@ -336,54 +384,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-d2829941bf",
-    "source": "BBC — Top Stories",
-    "title": "Eat kiwi fruit to relieve constipation, says guidance",
-    "summary": "New guidance for doctors says focusing on fruit in our diets can help with a really common complaint.",
-    "url": "https://www.bbc.com/news/articles/cd9kdkxy3veo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T16:24:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d23e/live/d40d3da0-a846-11f0-8df8-17b411cc599c.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-271e198f2c",
-    "source": "BBC — Top Stories",
-    "title": "Middle East 'doomed' without Palestinian state, King of Jordan tells BBC",
-    "summary": "In an exclusive interview with BBC Panorama, the king says a two-state solution is the only answer.",
-    "url": "https://www.bbc.com/news/articles/c3w965y65zzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T16:14:39Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71dd/live/23199da0-a840-11f0-8df8-17b411cc599c.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-0d513408da",
-    "source": "BBC — Top Stories",
-    "title": "England defender Millie Bright retires from international football",
-    "summary": "England defender Millie Bright announces her retirement from international football, saying \"it's a feeling and I'm at peace with it\".",
-    "url": "https://www.bbc.com/sport/football/articles/ced616y4n8zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T16:06:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5c9/live/5d105060-a847-11f0-8df8-17b411cc599c.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f89d286d39",
-    "source": "BBC — Top Stories",
-    "title": "TikTok star HSTikkyTokky arrested after manhunt",
-    "summary": "Harrison Sullivan has been on the run for almost a year following several alleged driving offences.",
-    "url": "https://www.bbc.com/news/articles/c4gpvp8gxy5o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T15:53:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b3/live/5ccad860-a846-11f0-8df8-17b411cc599c.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-d32b140f40",
     "source": "Politico — UK",
     "title": "EU and India move into final stages of trade talks with continuous contact",
@@ -403,18 +403,6 @@
     "url": "https://www.politico.eu/article/the-new-hero-of-scottish-independence-nigel-farage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-13T15:43:52Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/13/GettyImages-2232356629-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-a9d2ea9c2f",
-    "source": "Politico — UK",
-    "title": "Bessent says US in talks with China to prevent new trade war",
-    "summary": "Treasury Secretary Scott Bessent said he expects to meet with his Chinese counterpart, Vice Premier He Lifeng, in Asia in coming weeks.",
-    "url": "https://www.politico.com/news/2025/10/13/bessent-china-talks-trade-00606345?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-13T15:29:12Z",
-    "image_url": null,
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -468,18 +456,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-6b8d1f0a57",
-    "source": "BBC — Top Stories",
-    "title": "Prisoner questioned over schoolgirl's 1994 murder",
-    "summary": "Lindsay Rimer, 13, was found dead five months after she went missing from Hebden Bridge in 1994.",
-    "url": "https://www.bbc.com/news/articles/cvg4rn3vdx6o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T12:52:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c200/live/1809cb70-a83a-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-60f87f537b",
     "source": "The Guardian — UK",
     "title": "Reform UK abandoning manifesto pledge of £90bn in tax cuts, deputy leader admits",
@@ -492,25 +468,37 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-018306f306",
+    "id": "BBC — Top Stories-1127782677",
     "source": "BBC — Top Stories",
-    "title": "Mortgage rates creep back up as lenders show caution",
-    "summary": "Average mortgage rates have increased month-on-month for the first time since February, says Moneyfacts.",
-    "url": "https://www.bbc.com/news/articles/cdx4l557n1lo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T10:34:43Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da05/live/19aca900-a819-11f0-881e-a7ddfaa732cf.jpg",
+    "title": "King Charles to host German president in first state visit to UK for 27 years",
+    "summary": "Germany's President Steinmeier will visit King Charles on a state visit to the UK in December.",
+    "url": "https://www.bbc.com/news/articles/czxklen5p2qo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T11:09:58Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92c0/live/ec0d7f20-a821-11f0-85ef-e382bd92d5ce.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-527f5d593f",
+    "id": "BBC — Top Stories-c9bbc3ad02",
     "source": "BBC — Top Stories",
-    "title": "Two charged with murder of Lostprophets singer Ian Watkins in prison attack",
-    "summary": "The disgraced Lostprophets frontman was fatally injured at HMP Wakefield on Saturday.",
-    "url": "https://www.bbc.com/news/articles/c3drdy5ry2do?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T10:23:12Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b618/live/7a30fed0-a840-11f0-92db-77261a15b9d2.jpg",
+    "title": "A photo worth a thousand words: Female journalists sit front-row at Taliban event after exclusion",
+    "summary": "Female reporters were invited after being excluded from Taliban minister Amir Khan Muttaqi's first event in Delhi.",
+    "url": "https://www.bbc.com/news/articles/c4gze7ely6vo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T10:27:56Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d00a/live/8aa4f8f0-a7fc-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ed0afc2c1d",
+    "source": "BBC — Top Stories",
+    "title": "Who are the released hostages?",
+    "summary": "The Israeli military says 20 living hostages have been released by Hamas and have returned to Israel.",
+    "url": "https://www.bbc.com/news/articles/cpvl9k4mw8no?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-13T09:44:36Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f88c/live/941201e0-a855-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -559,6 +547,18 @@
     "url": "https://www.bbc.com/news/articles/cwyr971q7rxo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-12T23:28:53Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e2/live/d0670b70-a5f5-11f0-af09-bf7f0464c1dc.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-de08f99f38",
+    "source": "BBC — Top Stories",
+    "title": "Your nose gets colder when you're stressed. These thermal images show the change",
+    "summary": "Psychologists subjected a BBC reporter to a carefully designed thermal camera stress test.",
+    "url": "https://www.bbc.com/news/articles/cj076ynnlpgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-12T23:28:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee8/live/1e2ba400-a390-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
