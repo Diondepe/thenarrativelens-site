@@ -1,5 +1,17 @@
 [
   {
+    "id": "BBC — Top Stories-4f174c4e15",
+    "source": "BBC — Top Stories",
+    "title": "Private numbers of Australia PM and Donald Trump Jr publicly listed on website",
+    "summary": "It is unclear how the website - which uses AI to scrape the internet - obtained the private contact details.",
+    "url": "https://www.bbc.com/news/articles/c5y03zg5wwxo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T02:29:08Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/242a/live/830d5c50-a8a0-11f0-882f-452c648cc5be.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-90c513f825",
     "source": "Politico — UK",
     "title": "Europe’s new magnet plant: A silver bullet for industry, climate and geopolitics?",
@@ -67,6 +79,30 @@
     "url": "https://www.politico.eu/article/sea-watch-documents-60-violent-attacks-by-libyan-militias-at-sea/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-14T02:00:00Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/13/GettyImages-2231488621-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ae2509a0b7",
+    "source": "BBC — Top Stories",
+    "title": "Watch: SpaceX successfully completes 11th Starship test flight",
+    "summary": "The rocket launched from Starbase, Texas and flew for more than an hour before splash landing into the Indian Ocean.",
+    "url": "https://www.bbc.com/news/videos/cyv8p2zjqdeo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T01:37:25Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c98/live/0ed0cbc0-a89a-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-eb68dde6b6",
+    "source": "BBC — Top Stories",
+    "title": "Authorities identify 16 killed in Tennessee explosives factory blast",
+    "summary": "A shaken sheriff said that a teacher, a neighbour and one of his best friends were among the victims who died in the blast.",
+    "url": "https://www.bbc.com/news/articles/c98n4g3p1x8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T00:41:53Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4569/live/cce9af40-a88c-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -144,18 +180,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-9d1e0421b4",
-    "source": "The Guardian — UK",
-    "title": "Cyber-attacks rise by 50% in past year, UK security agency says",
-    "summary": "Officials say increased dependence on technology leaves society more vulnerable to threats such as ransomware “Highly significant” cyber-attacks rose by 50% in the past year and the UK’s security services are now dealing with a new nationally significant attack more than every other day, figures from the National Cyber Security Centre (NCSC) have revealed. In what officials described as “a call to arms”, national security officials and ministers are urging all organisations, from the smallest businesses to the largest employers, to draw up contingency plans for the eventuality that “your IT infrastructure [is] crippled tomorrow and all your screens [go] blank”. Continue reading...",
-    "url": "https://www.theguardian.com/technology/2025/oct/14/cyber-attacks-rise-in-past-year-uk-security-agency-says",
-    "published": "2025-10-13T23:01:04Z",
-    "image_url": "https://i.guim.co.uk/img/media/feb55202ad76bc2a8266dfe3008a8212d042508d/834_0_4374_3500/master/4374.jpg?width=140&quality=85&auto=format&fit=max&s=6283ae11e5ebaffe84cf434197fa76dc",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-b1e3f9a1d4",
     "source": "The Guardian — UK",
     "title": "Blair’s former policy chief Matthew Taylor to lead Fair Work Agency",
@@ -163,6 +187,18 @@
     "url": "https://www.theguardian.com/business/2025/oct/14/matthew-taylor-fair-work-agency-watchdog-workers-rights",
     "published": "2025-10-13T23:01:04Z",
     "image_url": "https://i.guim.co.uk/img/media/7e3eda6e5deefda9feab9bea4f3e2f6ab24b6bdb/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=25c21c3f2be8a40dd8a084c116c556e7",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-9d1e0421b4",
+    "source": "The Guardian — UK",
+    "title": "Cyber-attacks rise by 50% in past year, UK security agency says",
+    "summary": "Officials say increased dependence on technology leaves society more vulnerable to threats such as ransomware “Highly significant” cyber-attacks rose by 50% in the past year and the UK’s security services are now dealing with a new nationally significant attack more than every other day, figures from the National Cyber Security Centre (NCSC) have revealed. In what officials described as “a call to arms”, national security officials and ministers are urging all organisations, from the smallest businesses to the largest employers, to draw up contingency plans for the eventuality that “your IT infrastructure [is] crippled tomorrow and all your screens [go] blank”. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2025/oct/14/cyber-attacks-rise-in-past-year-uk-security-agency-says",
+    "published": "2025-10-13T23:01:04Z",
+    "image_url": "https://i.guim.co.uk/img/media/feb55202ad76bc2a8266dfe3008a8212d042508d/834_0_4374_3500/master/4374.jpg?width=140&quality=85&auto=format&fit=max&s=6283ae11e5ebaffe84cf434197fa76dc",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -396,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-2334f8961c",
-    "source": "BBC — Top Stories",
-    "title": "Vodafone admits 'major outage' as more than 130,000 report problems",
-    "summary": "Vodafone claims to have more than 18 million customers in the UK, including nearly 700,000 home broadband customers.",
-    "url": "https://www.bbc.com/news/articles/c5yldldx659o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T17:00:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a0/live/c3a1d500-a848-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-28ca53cc31",
     "source": "BBC — Top Stories",
     "title": "'You're my life, my hero': Hostages reunite with families after two years",
@@ -427,30 +451,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/13/john-swinney-scottish-government-sponsor-visas-foreign-care-workers",
     "published": "2025-10-13T16:28:46Z",
     "image_url": "https://i.guim.co.uk/img/media/c3e91c0e607a149c71cf76d4e1c99c364b1d3192/1116_378_4174_3339/master/4174.jpg?width=140&quality=85&auto=format&fit=max&s=9bb5f6819b8fd970db09894473000e5a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-851885a886",
-    "source": "BBC — Top Stories",
-    "title": "Tommy Robinson refused to give phone Pin to police to protect 'journalistic material'",
-    "summary": "The far-right activist was charged under the Terrorism Act over an incident at the Channel Tunnel in July 2024.",
-    "url": "https://www.bbc.com/news/articles/c2lp1k7pnpno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T16:26:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4755/live/64e20e60-a828-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-0d513408da",
-    "source": "BBC — Top Stories",
-    "title": "England defender Millie Bright retires from international football",
-    "summary": "England defender Millie Bright announces her retirement from international football, saying \"it's a feeling and I'm at peace with it\".",
-    "url": "https://www.bbc.com/sport/football/articles/ced616y4n8zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T16:06:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5c9/live/5d105060-a847-11f0-8df8-17b411cc599c.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
