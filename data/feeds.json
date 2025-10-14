@@ -1,5 +1,65 @@
 [
   {
+    "id": "The Guardian — UK-98ac93310c",
+    "source": "The Guardian — UK",
+    "title": "Labour MPs call on Rachel Reeves to scrap council tax",
+    "summary": "Exclusive: 13 mainly northern MPs say a new system should better account for higher house prices in south-east More than a dozen Labour MPs have written to Rachel Reeves calling on her to scrap council tax, as the chancellor faces mounting pressure to overhaul Great Britain’s property taxes in next month’s budget. Thirteen MPs, mainly from seats in northern England, wrote to Reeves last month asking her to abolish the tax and replace it with another system that better accounts for the steep rise in house prices in London and the south-east over the last 35 years. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/14/labour-mps-call-on-rachel-reeves-to-scrap-council-tax",
+    "published": "2025-10-14T06:00:14Z",
+    "image_url": "https://i.guim.co.uk/img/media/264653c367a82f82b87bb8e43ebff76db17c19f4/789_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7fac58a2cda4ce6fde76dec457567229",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-377b798ce4",
+    "source": "BBC — Top Stories",
+    "title": "Venezuela shuts embassy in Norway following opposition leader's Nobel award",
+    "summary": "Oslo calls the decision \"regrettable\", stressing that the Nobel committee functions independently.",
+    "url": "https://www.bbc.com/news/articles/cqjwlxjn1xgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T05:37:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d2/live/a704ba90-a8b4-11f0-8416-3322ec65949a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d88e66d874",
+    "source": "BBC — Top Stories",
+    "title": "US shipping chaos: I fear my wedding sari is destroyed",
+    "summary": "Customers worry about missing parcels as shipping companies struggle to handle a flood of packages facing new customs and tariff rules.",
+    "url": "https://www.bbc.com/news/articles/cj9zmeerp1xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T05:33:52Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f418/live/098df140-a851-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-3d60a1c46f",
+    "source": "BBC — Top Stories",
+    "title": "Could I have saved my parents if I'd been taught CPR?",
+    "summary": "Cameron McGerr lost both his parents and is campaigning to have life-saving first aid taught in schools.",
+    "url": "https://www.bbc.com/news/articles/cddm1lrjy7lo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T05:23:24Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d90/live/eca169d0-a5f4-11f0-af09-bf7f0464c1dc.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b68dba1bc1",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'Two years of torment over' and Trump declares 'historic dawn'",
+    "summary": "Every paper on Tuesday leads with the release of Israeli hostages, and the next phase of the ceasefire.",
+    "url": "https://www.bbc.com/news/articles/cd0453xd72yo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T05:18:54Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7179/live/3edfcbe0-a88b-11f0-928c-71dbb8619e94.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-ff2808ed48",
     "source": "BBC — Top Stories",
     "title": "Prostate cancer screening urgently needed, says Rishi Sunak",
@@ -103,18 +163,6 @@
     "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/russland-die-dusteren-warnungen-der-geheimdienste/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-14T03:52:13Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/Berlin-Playbook-Website-card-1-1-1.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-d88e66d874",
-    "source": "BBC — Top Stories",
-    "title": "US shipping chaos: I fear my wedding saree is destroyed",
-    "summary": "Customers worry about missing parcels as shipping companies struggle to handle a flood of packages facing new customs and tariff rules.",
-    "url": "https://www.bbc.com/news/articles/cj9zmeerp1xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T02:35:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f418/live/098df140-a851-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -228,21 +276,9 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-b68dba1bc1",
-    "source": "BBC — Top Stories",
-    "title": "The Papers: 'Two years of torment over' and Trump declares 'historic dawn'",
-    "summary": "Every paper on Tuesday leads with the release of Israeli hostages, and the next phase of the ceasefire.",
-    "url": "https://www.bbc.com/news/articles/cd0453xd72yo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T00:21:58Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7179/live/3edfcbe0-a88b-11f0-928c-71dbb8619e94.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-d4cf4f12ea",
     "source": "BBC — Top Stories",
-    "title": "Firms advised to put plans on paper in case of cyber-attack",
+    "title": "Cyber attack contingency plans should be put on paper, firms told",
     "summary": "Prepare to switch to off-line systems in the event of a cyber-attack, firms are being advised.",
     "url": "https://www.bbc.com/news/articles/ced61xv967lo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T23:04:57Z",
@@ -288,18 +324,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-b1e3f9a1d4",
-    "source": "The Guardian — UK",
-    "title": "Blair’s former policy chief Matthew Taylor to lead Fair Work Agency",
-    "summary": "Author of influential report on the gig economy says new watchdog can make progress on workers’ rights Labour has appointed Tony Blair’s former policy chief to lead Britain’s new jobs market watchdog being created by the government to enforce its strengthening of workers’ rights. Matthew Taylor, who led the influential Taylor report on the gig economy and modern working practices for Theresa May’s government, will become the chair of the Fair Work Agency when the body launches next April. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/14/matthew-taylor-fair-work-agency-watchdog-workers-rights",
-    "published": "2025-10-13T23:01:04Z",
-    "image_url": "https://i.guim.co.uk/img/media/7e3eda6e5deefda9feab9bea4f3e2f6ab24b6bdb/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=25c21c3f2be8a40dd8a084c116c556e7",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-9d1e0421b4",
     "source": "The Guardian — UK",
     "title": "Cyber-attacks rise by 50% in past year, UK security agency says",
@@ -312,6 +336,18 @@
     "cluster_id": null
   },
   {
+    "id": "The Guardian — UK-b1e3f9a1d4",
+    "source": "The Guardian — UK",
+    "title": "Blair’s former policy chief Matthew Taylor to lead Fair Work Agency",
+    "summary": "Author of influential report on the gig economy says new watchdog can make progress on workers’ rights Labour has appointed Tony Blair’s former policy chief to lead Britain’s new jobs market watchdog being created by the government to enforce its strengthening of workers’ rights. Matthew Taylor, who led the influential Taylor report on the gig economy and modern working practices for Theresa May’s government, will become the chair of the Fair Work Agency when the body launches next April. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/14/matthew-taylor-fair-work-agency-watchdog-workers-rights",
+    "published": "2025-10-13T23:01:04Z",
+    "image_url": "https://i.guim.co.uk/img/media/7e3eda6e5deefda9feab9bea4f3e2f6ab24b6bdb/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=25c21c3f2be8a40dd8a084c116c556e7",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-93ec6d0823",
     "source": "BBC — Top Stories",
     "title": "Chris Mason: SNP are the latest proof that things change quickly in politics",
@@ -319,18 +355,6 @@
     "url": "https://www.bbc.com/news/articles/cdx4lz0789xo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T22:13:01Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72bd/live/94e688c0-a87d-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3d60a1c46f",
-    "source": "BBC — Top Stories",
-    "title": "Could I have saved my parents if I'd been taught CPR?",
-    "summary": "Cameron McGerr lost both his parents and is campaigning to have life-saving first aid taught in schools.",
-    "url": "https://www.bbc.com/news/articles/cddm1lrjy7lo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T22:00:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d90/live/eca169d0-a5f4-11f0-af09-bf7f0464c1dc.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -350,23 +374,11 @@
   {
     "id": "BBC — Top Stories-3ed40c0d72",
     "source": "BBC — Top Stories",
-    "title": "Powell made no decisions about evidence in China spy case, minister says",
+    "title": "National security adviser made no decisions about evidence in China spy case, minister says",
     "summary": "The government's national security adviser is facing pressure over whether he played a role in the trial's collapse.",
     "url": "https://www.bbc.com/news/articles/cvg4r177k52o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T21:18:38Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/668aeee0-a3b3-11f0-9871-a159926144cf.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a28cf10db6",
-    "source": "BBC — Top Stories",
-    "title": "Israeli hostages and Palestinian detainees freed as Trump hails 'historic dawn' in Middle East",
-    "summary": "A major hostage and prisoner exchange marks a significant step towards ending two years of war in Gaza.",
-    "url": "https://www.bbc.com/news/articles/c740jx07vz0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T20:57:45Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18f7/live/f0d48700-a877-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -420,13 +432,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-44458634e4",
+    "id": "The Guardian — UK-e25f97f659",
     "source": "The Guardian — UK",
-    "title": "Farage criticises ‘disgraceful’ rhetoric after alleged attack on Reform council leader",
-    "summary": "George Finch, 19, says he was called a ‘racist’ and ‘fascist’ during incident in Warwickshire on Friday The Reform UK leader, Nigel Farage, has criticised “disgraceful” rhetoric from the Labour and Green parties after the UK’s youngest council leader was allegedly assaulted. George Finch, 19, the Reform leader of Warwickshire county council,said he was called a “racist” and a “fascist” before being allegedly assaulted on Friday. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/13/farage-criticises-disgraceful-rhetoric-after-alleged-attack-on-reform-council-leader",
-    "published": "2025-10-13T18:33:26Z",
-    "image_url": "https://i.guim.co.uk/img/media/4a138e0c6067b23330a8d1669c877152eb428d8d/0_0_5710_4570/master/5710.jpg?width=140&quality=85&auto=format&fit=max&s=e5e83c3c8ffa22e2e3d69da97026c687",
+    "title": "Government made ‘every effort’ to support China spying trial, says minister",
+    "summary": "Dan Jarvis accuses Tories of suggesting case was deliberately abandoned ‘without a shred of evidence’ The government made “every effort” to support the trial of two men accused of spying for China , a minister has said, as he accused the Tories of claiming the case was deliberately abandoned “without a shred of evidence”. Dan Jarvis, the security minister, issued a robust defence of Jonathan Powell in the Commons after reports that Keir Starmer’s national security adviser played a role in the collapse of the case. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/13/government-made-every-effort-to-support-china-spy-case-says-minister",
+    "published": "2025-10-13T18:10:39Z",
+    "image_url": "https://i.guim.co.uk/img/media/8313073e626002f699a1531407e1311cc0190869/189_0_894_715/master/894.jpg?width=140&quality=85&auto=format&fit=max&s=48ac1c509e6955f98253811edbf9bb6e",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -547,18 +559,6 @@
     "url": "https://www.bbc.com/news/articles/cpvl9k4mw8no?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T09:44:36Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f88c/live/941201e0-a855-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-387889626f",
-    "source": "The Guardian — UK",
-    "title": "UK charities say toxic immigration rhetoric leading to threats against staff",
-    "summary": "Voluntary organisations forced to introduce extensive security measures to protect staff and property Charities have warned of growing racial abuse, intimidation and threats of violence towards their staff and beneficiaries amid increasingly toxic rhetoric around immigration and race by politicians and extremist activists. Voluntary organisations say they are being forced to introduce extensive security measures to protect staff and property – a trend described by one charity head as in danger of becoming the “new normal” – after being targeted. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/13/uk-charities-toxic-immigration-rhetoric-threats-staff",
-    "published": "2025-10-13T07:00:17Z",
-    "image_url": "https://i.guim.co.uk/img/media/05bda860a0b21a07d48aac4f49b0b3b3be6fc43d/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7dd7425aa828c0ef3f102f51421730cd",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
