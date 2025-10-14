@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-3f80591d28",
+    "source": "BBC — Top Stories",
+    "title": "Military says it has seized power in Madagascar after president moves to 'safe place'",
+    "summary": "The military promises elections within two years, but President Rajoelina insists he is still in charge.",
+    "url": "https://www.bbc.com/news/articles/cn8xjjdgl8vo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T19:55:46Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6840/live/79898da0-a924-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-fad022455f",
+    "source": "BBC — Top Stories",
+    "title": "Asylum seeker laughed after killing woman, jury told",
+    "summary": "CCTV is shown to a jury showing the actions of an asylum seeker accused of murdering a hotel worker.",
+    "url": "https://www.bbc.com/news/articles/cwy902djzv2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T19:44:47Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88b8/live/a00ccce0-a8f6-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-8e958ef540",
+    "source": "Politico — UK",
+    "title": "Trump threatens to disarm Hamas ‘quickly, and perhaps violently’ as ceasefire wobbles",
+    "summary": "Israel and Hamas both accused of violating truce commitments.",
+    "url": "https://www.politico.eu/article/us-donald-trump-threatens-to-disarm-hamas-quickly-and-perhaps-violently-israel-ceasefire-wobbles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-14T19:41:48Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/13428814-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-73b5c2b532",
+    "source": "BBC — Top Stories",
+    "title": "UK will be second-fastest-growing G7 economy, IMF says, but faces higher inflation",
+    "summary": "But the UK is also predicted to suffer the highest rate of inflation in the G7 both this year and next.",
+    "url": "https://www.bbc.com/news/articles/cn092p27xn0o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T19:26:44Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c9/live/594f9870-a903-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b1f4f55517",
+    "source": "BBC — Top Stories",
+    "title": "US strikes another vessel off Venezuela coast, killing six",
+    "summary": "President Trump said the vessel belonged to \"narcoterrorists\" and that it was \"trafficking narcotics.\" US officials have not provided evidence to this claim.",
+    "url": "https://www.bbc.com/news/articles/cg51625lmmgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T19:25:32Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-6b082bfc1f",
     "source": "The Guardian — UK",
     "title": "Asylum seeker accused of killing Walsall hotel worker seen ‘clearly excited’ after attack, jury told",
@@ -43,18 +103,6 @@
     "url": "https://www.bbc.com/news/articles/c8679q0pe57o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-14T18:10:29Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fde/live/5730d520-a919-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3f80591d28",
-    "source": "BBC — Top Stories",
-    "title": "Military says it has seized power in Madagascar after president moves to 'safe place'",
-    "summary": "The military promises elections within two years, but President Rajoelina insists he is still in charge.",
-    "url": "https://www.bbc.com/news/articles/cn8xjjdgl8vo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T17:35:35Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6840/live/79898da0-a924-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -348,18 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-73b5c2b532",
-    "source": "BBC — Top Stories",
-    "title": "UK will be second-fastest-growing G7 economy, IMF says, but faces higher inflation",
-    "summary": "But the UK is also predicted to suffer the highest rate of inflation in the G7 both this year and next.",
-    "url": "https://www.bbc.com/news/articles/cn092p27xn0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T13:49:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c9/live/594f9870-a903-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-bf658dc3d8",
     "source": "The Guardian — UK",
     "title": "Anonymity for firearms officers will harm public confidence, Shabana Mahmood told",
@@ -374,8 +410,8 @@
   {
     "id": "Politico — UK-cb628ec782",
     "source": "Politico — UK",
-    "title": "Macron blinks on pension reform, giving French government some breathing room",
-    "summary": "But Sébastien Lecornu and his team aren’t out of the woods yet.",
+    "title": "Macron blinks on pensions, giving new government a fighting chance",
+    "summary": "PM Sébastien Lecornu's new government has room to breathe — but not much.",
     "url": "https://www.politico.eu/article/france-pm-lecornu-freeze-retirement-reform-bid-save-government-socialist/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-14T13:29:58Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/13268974-scaled.jpg",
@@ -391,30 +427,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/14/sustainability-professors-talk-at-uk-party-conferences-cancelled",
     "published": "2025-10-14T13:26:38Z",
     "image_url": "https://i.guim.co.uk/img/media/b520eb2c11030105b039552e94363acf766fc5a6/0_31_833_666/master/833.jpg?width=140&quality=85&auto=format&fit=max&s=df382433f5acadb8a415ead76a091a11",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-ab2c03cc1e",
-    "source": "BBC — Top Stories",
-    "title": "Raducanu has blood pressure taken in China defeat",
-    "summary": "Britain's Emma Raducanu struggles physically in a three-set loss to world number 219 Zhu Lin in the Ningbo Open first round.",
-    "url": "https://www.bbc.com/sport/tennis/articles/cn51r5xpl2go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T13:19:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/764c/live/c3c65970-a8f7-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-770ceb98de",
-    "source": "BBC — Top Stories",
-    "title": "Tommy Robinson police stop unlawful, court hears",
-    "summary": "The far-right activist was charged under the Terrorism Act over an incident at the Channel Tunnel in July 2024.",
-    "url": "https://www.bbc.com/news/articles/c0rpwkp9xz2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T13:18:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da6/live/6f9ef8d0-a8e2-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -475,18 +487,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/14/steve-reed-muslim-charity-run-london-excluded-women",
     "published": "2025-10-14T11:15:36Z",
     "image_url": "https://i.guim.co.uk/img/media/a3eea3c8bee35d530d82be1142c34bd0e957dd17/89_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=fbdecb5523fe051ac5415be8811160d6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-aa6b168e88",
-    "source": "Politico — UK",
-    "title": "Dutch seized Chinese chipmaker following US pressure",
-    "summary": "Newly published court documents shine fresh light on the controversial state intervention.",
-    "url": "https://www.politico.eu/article/us-pressured-the-netherlands-over-ceo-of-seized-chip-maker/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-14T10:45:34Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/GettyImages-2240496773-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
