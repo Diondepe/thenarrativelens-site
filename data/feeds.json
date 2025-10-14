@@ -1,5 +1,29 @@
 [
   {
+    "id": "Politico — UK-cb087fc5f9",
+    "source": "Politico — UK",
+    "title": "Italy seeks over €4B from banks as draft budget gains approval",
+    "summary": "Lenders and leaders have yet to decide on how the banks will be taxed, but those to Meloni's right won't let up.",
+    "url": "https://www.politico.eu/article/italy-budget-gains-giancarlo-giorgetti-finance-approvals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-14T21:54:18Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/GettyImages-2224594915-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-2ec7227c9a",
+    "source": "The Guardian — UK",
+    "title": "Border failings in Europe are eroding trust in nation states, warns Mahmood",
+    "summary": "Home secretary to tell meeting of interior ministers that international cooperation is way to curb irregular migration The failure to bring order to European borders is eroding trust in politicians and the concept of nation states, Shabana Mahmood will warn. As she hosts a meeting of fellow interior ministers to discuss migration routes through the western Balkans on Tuesday, the home secretary will say that international cooperation is the way to curb irregular migration. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/14/border-failings-in-europe-are-eroding-trust-in-nation-states-warns-mahmood",
+    "published": "2025-10-14T21:30:05Z",
+    "image_url": "https://i.guim.co.uk/img/media/1b417d1fd49ec1a610d4f18733f998cff1448cb1/178_76_1061_849/master/1061.jpg?width=140&quality=85&auto=format&fit=max&s=f860e9b1b04b6bfcbdd0e870917f9fda",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-b1f4f55517",
     "source": "BBC — Top Stories",
     "title": "US strikes another vessel off Venezuela coast, killing six",
@@ -87,7 +111,7 @@
     "id": "BBC — Top Stories-ba6e4df92f",
     "source": "BBC — Top Stories",
     "title": "D’Angelo, R&B Grammy-award winning singer, dies aged 51",
-    "summary": "The singer, who was also an acclaimed songwriter, was known for helping create the genre of neo-soul.",
+    "summary": "D'Angelo, who died after a cancer diagnosis, leaves behind a \"legacy of extraordinarily moving music\", his family says.",
     "url": "https://www.bbc.com/news/articles/cwynv40ly4vo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-14T18:26:57Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9231/live/b2f507a0-a93c-11f0-b741-177e3e2c2fc7.jpg",
@@ -126,7 +150,7 @@
     "summary": "Trump's Middle East visit was a victory lap - but peace does not emerge just because a president decides it.",
     "url": "https://www.bbc.com/news/articles/ce86118q6ego?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-14T17:31:59Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2de/live/f8ca8c40-a910-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d18/live/5044d380-a949-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -324,18 +348,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-67897c852d",
-    "source": "The Guardian — UK",
-    "title": "Ed Miliband approves UK’s biggest solar farm at Lincolnshire site",
-    "summary": "Tillbridge solar farm will be built in county where Reform UK’s anti-renewables agenda has rising support Ed Miliband has approved the UK’s biggest solar farm, which will be built in a county where Reform UK’s anti-renewables agenda has won rising support. The energy secretary on Tuesday gave the go-ahead for the Tillbridge solar farm to be developed near Gainsborough in Lincolnshire. Once built, it will generate enough electricity to power 300,000 UK homes. Continue reading...",
-    "url": "https://www.theguardian.com/environment/2025/oct/14/ed-miliband-approves-uk-biggest-solar-farm-at-lincolnshire-site",
-    "published": "2025-10-14T15:25:12Z",
-    "image_url": "https://i.guim.co.uk/img/media/6134fbd38da3233c66bbfcad35ff8215465e8021/588_0_3412_2729/master/3412.jpg?width=140&quality=85&auto=format&fit=max&s=a87664246e65894382c695c609dd6157",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-3b27d0231f",
     "source": "BBC — Top Stories",
     "title": "24 hours with Trump on diplomatic tornado through Middle East",
@@ -355,6 +367,18 @@
     "url": "https://www.bbc.com/news/articles/c0ex18xx9xeo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-14T15:07:41Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a419/live/650a2030-a922-11f0-a87a-599d240e4891.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-dd4f1cac44",
+    "source": "The Guardian — UK",
+    "title": "Former lord speaker faces suspension for ‘improper influence’ over speeding offence",
+    "summary": "Frances D’Souza wrote to Met commissioner in apparent attempt to evade sanction for exceeding 20mph speed limit Former lord speaker Frances D’Souza is facing suspension from the Lords after writing to the Metropolitan police commissioner to try to “influence a police investigation into alleged speeding offences”. Lady D’Souza wrote to Mark Rowley saying she feared she would have to give up attending parliament if she were banned from driving for exceeding the limit in a 20mph zone. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/14/former-lord-speaker-frances-dsouza-faces-suspension-improper-influence-speeding-offence",
+    "published": "2025-10-14T15:06:04Z",
+    "image_url": "https://i.guim.co.uk/img/media/6d3c0dd93de59f1aef4d7bae7ee9c2a6f7244938/292_0_2916_2333/master/2916.jpg?width=140&quality=85&auto=format&fit=max&s=d6edf43bafcea523ff83ccab68e16310",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -468,18 +492,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-d3fc873089",
-    "source": "Politico — UK",
-    "title": "‘Beautiful’ Meloni, cringe Starmer and football tickets: Bizarre moments from Trump’s Gaza summit",
-    "summary": "The Sharm el-Sheikh meeting was unforgettable — and not just because of the progress toward peace in the Middle East.",
-    "url": "https://www.politico.eu/article/13-bizarre-moments-donald-trump-gaza-peace-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-14T11:46:03Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/13427976-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-f0dca9f54d",
     "source": "The Guardian — UK",
     "title": "Minister ‘appalled’ at Muslim charity run in London that excluded women",
@@ -487,18 +499,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/14/steve-reed-muslim-charity-run-london-excluded-women",
     "published": "2025-10-14T11:15:36Z",
     "image_url": "https://i.guim.co.uk/img/media/a3eea3c8bee35d530d82be1142c34bd0e957dd17/89_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=fbdecb5523fe051ac5415be8811160d6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-9f703295c9",
-    "source": "The Guardian — UK",
-    "title": "Human rights official urges UK to review laws after Palestine Action placard arrests",
-    "summary": "Counter-terror laws must not place unnecessary limits on ‘fundamental rights’, Michael O’Flaherty tells Shabana Mahmood Europe’s most senior human rights official has called on Shabana Mahmood to review UK protest laws after mass arrests over the ban on Palestine Action. Michael O’Flaherty, the Council of Europe commissioner for human rights, said that the current legal framework allows UK authorities to “impose excessive limits on freedom of assembly and expression, and risk overpolicing” in a letter sent to the home secretary. Continue reading...",
-    "url": "https://www.theguardian.com/law/2025/oct/14/human-rights-official-urges-uk-to-review-laws-after-palestine-action-placard-arrests",
-    "published": "2025-10-14T08:59:31Z",
-    "image_url": "https://i.guim.co.uk/img/media/029309c9c0bbfd914646d70cee7334f6109d65ee/224_0_2822_2258/master/2822.jpg?width=140&quality=85&auto=format&fit=max&s=266050b989a16f2c70edbcf4fc43982f",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
