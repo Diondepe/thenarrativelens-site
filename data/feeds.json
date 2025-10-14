@@ -1,12 +1,12 @@
 [
   {
-    "id": "BBC — Top Stories-3f80591d28",
+    "id": "BBC — Top Stories-b1f4f55517",
     "source": "BBC — Top Stories",
-    "title": "Military says it has seized power in Madagascar after president moves to 'safe place'",
-    "summary": "The military promises elections within two years, but President Rajoelina insists he is still in charge.",
-    "url": "https://www.bbc.com/news/articles/cn8xjjdgl8vo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T19:55:46Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6840/live/79898da0-a924-11f0-92db-77261a15b9d2.jpg",
+    "title": "US strikes another vessel off Venezuela coast, killing six",
+    "summary": "President Trump said the vessel belonged to \"narcoterrorists\" and that it was \"trafficking narcotics.\" US officials have not provided evidence to this claim.",
+    "url": "https://www.bbc.com/news/articles/cg51625lmmgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T21:03:33Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf2/live/b00516d0-a940-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -15,10 +15,34 @@
     "id": "BBC — Top Stories-fad022455f",
     "source": "BBC — Top Stories",
     "title": "Asylum seeker laughed after killing woman, jury told",
-    "summary": "CCTV is shown to a jury showing the actions of an asylum seeker accused of murdering a hotel worker.",
+    "summary": "The jury in the trial of Deng Majek is shown CCTV and told he carried out a \"vicious and frenzied attack\".",
     "url": "https://www.bbc.com/news/articles/cwy902djzv2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T19:44:47Z",
+    "published": "2025-10-14T21:02:28Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88b8/live/a00ccce0-a8f6-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-92f207b795",
+    "source": "Politico — UK",
+    "title": "Trump to Spain: Spend more on defense or face ‘punishment’ tariffs",
+    "summary": "U.S. president berates \"unbelievably disrespectful\" Madrid for failing to reach NATO's military investment target.",
+    "url": "https://www.politico.eu/article/donald-trump-nato-spain-madrid-defense-spending-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-14T20:55:15Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/GettyImages-2233609160.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-3f80591d28",
+    "source": "BBC — Top Stories",
+    "title": "Military says it has seized power in Madagascar after president moves to 'safe place'",
+    "summary": "The military promises elections within two years, but President Rajoelina insists he is still in charge.",
+    "url": "https://www.bbc.com/news/articles/cn8xjjdgl8vo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T19:55:46Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6840/live/79898da0-a924-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -48,18 +72,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-b1f4f55517",
-    "source": "BBC — Top Stories",
-    "title": "US strikes another vessel off Venezuela coast, killing six",
-    "summary": "President Trump said the vessel belonged to \"narcoterrorists\" and that it was \"trafficking narcotics.\" US officials have not provided evidence to this claim.",
-    "url": "https://www.bbc.com/news/articles/cg51625lmmgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T19:25:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-6b082bfc1f",
     "source": "The Guardian — UK",
     "title": "Asylum seeker accused of killing Walsall hotel worker seen ‘clearly excited’ after attack, jury told",
@@ -78,7 +90,7 @@
     "summary": "The singer, who was also an acclaimed songwriter, was known for helping create the genre of neo-soul.",
     "url": "https://www.bbc.com/news/articles/cwynv40ly4vo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-14T18:26:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2a8/live/16b62d00-a924-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9231/live/b2f507a0-a93c-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -410,8 +422,8 @@
   {
     "id": "Politico — UK-cb628ec782",
     "source": "Politico — UK",
-    "title": "Macron blinks on pensions, giving new government a fighting chance",
-    "summary": "PM Sébastien Lecornu's new government has room to breathe — but not much.",
+    "title": "Macron finally admits he (maybe) got it wrong on pensions",
+    "summary": "The French president makes a desperate bid to save his fragile latest government.",
     "url": "https://www.politico.eu/article/france-pm-lecornu-freeze-retirement-reform-bid-save-government-socialist/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-14T13:29:58Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/13268974-scaled.jpg",
@@ -463,18 +475,6 @@
     "url": "https://www.politico.eu/article/13-bizarre-moments-donald-trump-gaza-peace-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-14T11:46:03Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/13427976-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-7b98feab62",
-    "source": "Politico — UK",
-    "title": "Big bags and generous compensation: EU Parliament backs air passenger rights",
-    "summary": "The transport committee's position is sharply at odds with the Commission and the Council.",
-    "url": "https://www.politico.eu/article/big-bag-generous-compensation-parliament-back-air-passenger-rights/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-14T11:32:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/13/GettyImages-2222058169-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
