@@ -1,5 +1,17 @@
 [
   {
+    "id": "BBC — Top Stories-650c2ab885",
+    "source": "BBC — Top Stories",
+    "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2005",
+    "summary": "Photograher Wim van den Heever got the winning shot beside an abandoned diamond mining settlement.",
+    "url": "https://www.bbc.com/news/articles/cx253vrd931o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T23:04:11Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e8a/live/d2878b50-a933-11f0-b741-177e3e2c2fc7.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-cb087fc5f9",
     "source": "Politico — UK",
     "title": "Italy seeks over €4B from banks as draft budget gains approval",
@@ -55,18 +67,6 @@
     "url": "https://www.politico.eu/article/donald-trump-nato-spain-madrid-defense-spending-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-14T20:55:15Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/GettyImages-2233609160.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3f80591d28",
-    "source": "BBC — Top Stories",
-    "title": "Military says it has seized power in Madagascar after president moves to 'safe place'",
-    "summary": "The military promises elections within two years, but President Rajoelina insists he is still in charge.",
-    "url": "https://www.bbc.com/news/articles/cn8xjjdgl8vo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T19:55:46Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6840/live/79898da0-a924-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -510,7 +510,7 @@
     "summary": "Firms too scared to take a chance on youngsters when taxes and minimum wages are higher, expert says UK labour market shows signs of stabilising after job losses Business live – latest updates So much about the UK jobs market is influenced by Rachel Reeves. Without overdoing the blame, say many experts, the chancellor’s tough budget last year and the likelihood of a repeat next month hangs over employers and how they recruit and pay staff. The latest official figures show a rising number of young people out of work in the three months to August. More broadly, unemployment rose to a four-year high and the number of vacancies fell. And then there was the stubborn increase in the public sector wage bill, which outpaced the much more modest increase in private sector wages. Continue reading...",
     "url": "https://www.theguardian.com/business/2025/oct/14/young-people-uk-jobs-market-unemployment-taxes-minimum-wages",
     "published": "2025-10-14T08:35:28Z",
-    "image_url": "https://i.guim.co.uk/img/media/f4dc200e143a4d8dc87044e874c5441ac45f9b5d/508_0_2921_2336/master/2921.jpg?width=140&quality=85&auto=format&fit=max&s=d37c1d242a13e926f4c4a51ea5d7394b",
+    "image_url": "https://i.guim.co.uk/img/media/f4dc200e143a4d8dc87044e874c5441ac45f9b5d/204_32_2877_2304/master/2877.jpg?width=140&quality=85&auto=format&fit=max&s=5f6fafbf353b1dae5ecefdaae1a1fd85",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
