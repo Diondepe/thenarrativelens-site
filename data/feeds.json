@@ -1,5 +1,53 @@
 [
   {
+    "id": "BBC — Top Stories-ff2808ed48",
+    "source": "BBC — Top Stories",
+    "title": "Prostate cancer screening urgently needed, says Rishi Sunak",
+    "summary": "The former prime minister tells the BBC it is time to introduce targeted screening of some younger men.",
+    "url": "https://www.bbc.com/news/articles/cwykxqerk12o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T05:01:05Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1f2/live/55ace660-a82b-11f0-9f09-57500e5dbf06.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-24968dd1e3",
+    "source": "The Guardian — UK",
+    "title": "Parenting advice on social media is often poor quality, says Phillipson",
+    "summary": "Education secretary warns against misleading claims online during launch of ‘Best Start in Life’ campaign Parents who turn to TikTok influencers and Instagram gurus for advice on everything from potty training to childhood vaccination are at risk of falling victim to misleading and poor quality information, the education secretary has warned. Bridget Phillipson was speaking at the launch of the government’s “Best Start in Life” campaign – sometimes described as Sure Start Mark 2 after the last Labour government’s early years policy, regarded by many as its finest achievement. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/oct/14/parenting-advice-on-social-media-is-often-poor-quality-says-phillipson",
+    "published": "2025-10-14T05:00:12Z",
+    "image_url": "https://i.guim.co.uk/img/media/5d840dee076eb07ded975fc6b8eb4cbfc94c2f38/0_480_1810_1446/master/1810.jpg?width=140&quality=85&auto=format&fit=max&s=d5e8a7c0650e9beef7951dcfea9a7f4f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-7e2532dc97",
+    "source": "Politico — UK",
+    "title": "DIRECT — Déclaration de politique générale de Sébastien Lecornu",
+    "summary": "Quatre jours après sa re-nomination à Matignon, Sébastien Lecornu, enfin doté d’un gouvernement, prononcera ce mardi, à 15 heures, une déclaration de politique générale très attendue à l’Assemblée nationale. Tout ce qu’il faut savoir en amont sur les forces politiques en présence, ainsi que le décryptage des annonces en direct par la rédaction parisienne de […]",
+    "url": "https://www.politico.eu/article/direct-declaration-de-politique-generale-de-sebastien-lecornu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-14T05:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/13/lacornu-liveblog.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5c8c19605d",
+    "source": "BBC — Top Stories",
+    "title": "Would-be drivers to be encouraged to donate blood",
+    "summary": "Driving licence applicants will get an email prompt encouraging them to become regular donors amid low NHS blood stocks.",
+    "url": "https://www.bbc.com/news/articles/cx2ln4rgz05o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T04:35:40Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dde/live/ffcfcef0-a8a3-11f0-9d5d-7553fd6e9082.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-c4dca91ade",
     "source": "Politico — UK",
     "title": "Trump and Zelenskyy to meet Friday in Washington",
@@ -55,6 +103,18 @@
     "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/russland-die-dusteren-warnungen-der-geheimdienste/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-14T03:52:13Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/Berlin-Playbook-Website-card-1-1-1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d88e66d874",
+    "source": "BBC — Top Stories",
+    "title": "US shipping chaos: I fear my wedding saree is destroyed",
+    "summary": "Customers worry about missing parcels as shipping companies struggle to handle a flood of packages facing new customs and tariff rules.",
+    "url": "https://www.bbc.com/news/articles/cj9zmeerp1xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T02:35:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f418/live/098df140-a851-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -144,18 +204,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-ae2509a0b7",
-    "source": "BBC — Top Stories",
-    "title": "Watch: SpaceX successfully completes 11th Starship test flight",
-    "summary": "The rocket launched from Starbase, Texas and flew for more than an hour before splash landing into the Indian Ocean.",
-    "url": "https://www.bbc.com/news/videos/cyv8p2zjqdeo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T01:37:25Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c98/live/0ed0cbc0-a89a-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-eb68dde6b6",
     "source": "BBC — Top Stories",
     "title": "Authorities identify 16 killed in Tennessee explosives factory blast",
@@ -206,7 +254,7 @@
   {
     "id": "BBC — Top Stories-2d77d1985b",
     "source": "BBC — Top Stories",
-    "title": "Tens of thousands of homes fitted with botched eco insulation need fixing",
+    "title": "Tens of thousands of homes fitted with botched eco insulation need fixing, watchdog says",
     "summary": "Insulation programmes costing billions of pounds have led to widespread problems with damp and mould.",
     "url": "https://www.bbc.com/news/articles/c3w965gz8zgo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-13T23:02:38Z",
@@ -240,18 +288,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-9d1e0421b4",
-    "source": "The Guardian — UK",
-    "title": "Cyber-attacks rise by 50% in past year, UK security agency says",
-    "summary": "Officials say increased dependence on technology leaves society more vulnerable to threats such as ransomware “Highly significant” cyber-attacks rose by 50% in the past year and the UK’s security services are now dealing with a new nationally significant attack more than every other day, figures from the National Cyber Security Centre (NCSC) have revealed. In what officials described as “a call to arms”, national security officials and ministers are urging all organisations, from the smallest businesses to the largest employers, to draw up contingency plans for the eventuality that “your IT infrastructure [is] crippled tomorrow and all your screens [go] blank”. Continue reading...",
-    "url": "https://www.theguardian.com/technology/2025/oct/14/cyber-attacks-rise-in-past-year-uk-security-agency-says",
-    "published": "2025-10-13T23:01:04Z",
-    "image_url": "https://i.guim.co.uk/img/media/feb55202ad76bc2a8266dfe3008a8212d042508d/834_0_4374_3500/master/4374.jpg?width=140&quality=85&auto=format&fit=max&s=6283ae11e5ebaffe84cf434197fa76dc",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-b1e3f9a1d4",
     "source": "The Guardian — UK",
     "title": "Blair’s former policy chief Matthew Taylor to lead Fair Work Agency",
@@ -259,6 +295,18 @@
     "url": "https://www.theguardian.com/business/2025/oct/14/matthew-taylor-fair-work-agency-watchdog-workers-rights",
     "published": "2025-10-13T23:01:04Z",
     "image_url": "https://i.guim.co.uk/img/media/7e3eda6e5deefda9feab9bea4f3e2f6ab24b6bdb/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=25c21c3f2be8a40dd8a084c116c556e7",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-9d1e0421b4",
+    "source": "The Guardian — UK",
+    "title": "Cyber-attacks rise by 50% in past year, UK security agency says",
+    "summary": "Officials say increased dependence on technology leaves society more vulnerable to threats such as ransomware “Highly significant” cyber-attacks rose by 50% in the past year and the UK’s security services are now dealing with a new nationally significant attack more than every other day, figures from the National Cyber Security Centre (NCSC) have revealed. In what officials described as “a call to arms”, national security officials and ministers are urging all organisations, from the smallest businesses to the largest employers, to draw up contingency plans for the eventuality that “your IT infrastructure [is] crippled tomorrow and all your screens [go] blank”. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2025/oct/14/cyber-attacks-rise-in-past-year-uk-security-agency-says",
+    "published": "2025-10-13T23:01:04Z",
+    "image_url": "https://i.guim.co.uk/img/media/feb55202ad76bc2a8266dfe3008a8212d042508d/834_0_4374_3500/master/4374.jpg?width=140&quality=85&auto=format&fit=max&s=6283ae11e5ebaffe84cf434197fa76dc",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -348,18 +396,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-921c2dcda4",
-    "source": "BBC — Top Stories",
-    "title": "Undercover officer played role in Stephen Lawrence inquiry clashes",
-    "summary": "There may be evidence of racism in how a police team targeted black justice campaigners, an inquiry hears.",
-    "url": "https://www.bbc.com/news/articles/c803ex1xgr5o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T18:52:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c245/live/0b16ba80-a859-11f0-a6a1-7df40e0558bb.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-44ab6b6eec",
     "source": "The Guardian — UK",
     "title": "Muddle over semantics or pressure from China? Collapsed spying case remains baffling",
@@ -396,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-e25f97f659",
-    "source": "The Guardian — UK",
-    "title": "Government made ‘every effort’ to support China spying trial, says minister",
-    "summary": "Dan Jarvis accuses Tories of suggesting case was deliberately abandoned ‘without a shred of evidence’ The government made “every effort” to support the trial of two men accused of spying for China , a minister has said, as he accused the Tories of claiming the case was deliberately abandoned “without a shred of evidence”. Dan Jarvis, the security minister, issued a robust defence of Jonathan Powell in the Commons after reports that Keir Starmer’s national security adviser played a role in the collapse of the case. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/13/government-made-every-effort-to-support-china-spy-case-says-minister",
-    "published": "2025-10-13T18:10:39Z",
-    "image_url": "https://i.guim.co.uk/img/media/8313073e626002f699a1531407e1311cc0190869/189_0_894_715/master/894.jpg?width=140&quality=85&auto=format&fit=max&s=48ac1c509e6955f98253811edbf9bb6e",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-050183f6a1",
     "source": "The Guardian — UK",
     "title": "Trump takes centre stage as questions linger over UK’s role in Gaza ceasefire",
@@ -420,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-d1e2aaddbb",
-    "source": "Politico — UK",
-    "title": "La Pologne tente de rétablir l’Etat de droit et ça ne plaît pas à son président",
-    "summary": "Le président polonais Karol Nawrocki promet qu'il fera échouer toute tentative visant à modifier le système juridique mis en place par le précédent gouvernement du parti Droit et justice.",
-    "url": "https://www.politico.eu/article/la-pologne-tente-de-retablir-letat-de-droit-et-ca-ne-plait-pas-a-son-president/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-13T17:49:53Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/10/GettyImages-2235365798-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-97b14841c8",
     "source": "The Guardian — UK",
     "title": "Badenoch accuses Labour of prioritising economic ties with China over national security – as it happened",
@@ -439,18 +451,6 @@
     "url": "https://www.theguardian.com/politics/live/2025/oct/13/china-spy-trial-keir-starmer-egypt-margaret-thatcher-anniversary-uk-politics-live-news-updates",
     "published": "2025-10-13T17:22:28Z",
     "image_url": "https://i.guim.co.uk/img/media/713844d742ecdfe64e82d16fdbce2da6b7c04637/237_26_804_643/master/804.jpg?width=140&quality=85&auto=format&fit=max&s=fc50ee1d903e1ab83bb20695f409ca73",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-da5e555a37",
-    "source": "BBC — Top Stories",
-    "title": "Alleged stalker asked 'but what if I am Madeleine?'",
-    "summary": "Julia Wandelt denies stalking Kate and Gerry McCann between June 2022 and February this year.",
-    "url": "https://www.bbc.com/news/articles/c14pzpx4g4go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-13T17:06:45Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ac/live/b91d2040-a84c-11f0-a6a1-7df40e0558bb.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
