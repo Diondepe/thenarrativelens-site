@@ -1,11 +1,83 @@
 [
   {
+    "id": "BBC — Top Stories-5d1c4943de",
+    "source": "BBC — Top Stories",
+    "title": "Celia Imrie's fart steals the show on Celebrity Traitors",
+    "summary": "The veteran actress blamed nerves for her releasing wind at a tense moment during the game.",
+    "url": "https://www.bbc.com/news/articles/c4gpr5j3kgdo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T22:13:06Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/543f/live/02c8bf20-aa0e-11f0-ba75-093eca1ac29b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f098e3c796",
+    "source": "BBC — Top Stories",
+    "title": "Government publishes key witness statements in collapsed China spy case",
+    "summary": "Deputy national security adviser concluded China was \"highly capable and conduct large-scale espionage operations against the UK\".",
+    "url": "https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T21:59:17Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-bd99f8ff8b",
+    "source": "Politico — UK",
+    "title": "Make tech executives liable if platforms don’t protect kids, say EU lawmakers",
+    "summary": "The call comes as the EU progresses investigations into Meta, TikTok and others.",
+    "url": "https://www.politico.eu/article/tech-eu-lawmakers-kids-addictive-platforms-european-parliament/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-15T21:53:07Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/6560190-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ead66fff09",
+    "source": "BBC — Top Stories",
+    "title": "Giuffre accuses 'entitled' Andrew in posthumous book",
+    "summary": "Virginia Giuffre, who took her life earlier this year, gives her account of meeting Prince Andrew.",
+    "url": "https://www.bbc.com/news/articles/c0kpjyjyrlno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T21:48:25Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/100f/live/d08fb940-a9ff-11f0-bb78-5756ff46d220.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-8800662006",
+    "source": "Politico — UK",
+    "title": "Trump: India will stop buying Russian oil",
+    "summary": "Indian Prime Minister Narendra Modi 'assured me today that they will not be buying oil from Russia,' the president said.",
+    "url": "https://www.politico.com/news/2025/10/15/trump-india-will-stop-buying-russian-oil-00610439?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-15T21:39:11Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-eb6c222f97",
+    "source": "Politico — UK",
+    "title": "Trump says land strikes may be next for Venezuela",
+    "summary": "The president said drug cartels have been almost completely stopped by sea.",
+    "url": "https://www.politico.com/news/2025/10/15/trump-venezuela-cartel-strikes-00610404?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-15T21:17:32Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-24a007e073",
     "source": "The Guardian — UK",
     "title": "Case dropped against Met police officer who shot unarmed man",
     "summary": "Officer, known as W80, shot Jermaine Baker during a foiled prison break in 2015 The family of a man shot dead by a police officer during a foiled prison break have accused Scotland Yard of evading accountability after a case against the marksman was thrown out. The officer, known only as W80, shot Jermaine Baker as police stopped a plot to snatch two prisoners from a van near Wood Green crown court in 2015. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/15/case-dropped-met-police-officer-shot-jermaine-baker",
-    "published": "2025-10-15T21:05:34Z",
+    "published": "2025-10-15T21:11:57Z",
     "image_url": "https://i.guim.co.uk/img/media/6406e1b4c75cb31446c0008a71065e961712e3ba/0_0_1304_1042/master/1304.jpg?width=140&quality=85&auto=format&fit=max&s=8115b41196634ee64bc152dff7f92812",
     "thumb_url": null,
     "category": "Politics",
@@ -24,13 +96,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-f098e3c796",
+    "id": "BBC — Top Stories-355814494e",
     "source": "BBC — Top Stories",
-    "title": "Government publishes evidence in collapsed China spy case",
-    "summary": "The deputy national security adviser provided three witness statements to prosecutors on whether China was a threat.",
-    "url": "https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T20:38:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg",
+    "title": "Hamas returns two more bodies but says it cannot retrieve remaining dead hostages",
+    "summary": "The group's armed wing says it has returned all the bodies of hostages it can reach in the ruins of Gaza.",
+    "url": "https://www.bbc.com/news/articles/c3w9py9940go?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T20:56:33Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63fd/live/a0ff9900-aa01-11f0-aa13-0b0479f6f42a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -182,7 +254,7 @@
   {
     "id": "BBC — Top Stories-59162990b1",
     "source": "BBC — Top Stories",
-    "title": "'Worse than starting from scratch': how big is the task of rebuilding Gaza?",
+    "title": "'Worse than starting from scratch': How big is the task of rebuilding Gaza?",
     "summary": "BBC Verify investigates the damage done by two years of war, which could take $70bn and decades to repair.",
     "url": "https://www.bbc.com/news/articles/cr5e4ee9r13o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-15T17:27:28Z",
@@ -252,18 +324,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-798db27faf",
-    "source": "Politico — UK",
-    "title": "Candace Owens denied visa to Australia by country’s highest court",
-    "summary": "The court ruled that the conservative speaker had failed a “character test” to enter the nation.",
-    "url": "https://www.politico.com/news/2025/10/15/candace-owens-australia-visa-00608983?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-15T16:21:00Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-c4f8964559",
     "source": "The Guardian — UK",
     "title": "Key witness statement in China spy row to be published, says Starmer",
@@ -271,18 +331,6 @@
     "url": "https://www.theguardian.com/world/2025/oct/15/china-spy-row-key-witness-statement-to-be-published-says-starmer",
     "published": "2025-10-15T16:14:26Z",
     "image_url": "https://i.guim.co.uk/img/media/e7f408d3b9dd35a24abd4f9dfd809cf3bbe6c045/873_419_4742_3794/master/4742.jpg?width=140&quality=85&auto=format&fit=max&s=8de16c028df2b70cf6b26fe3c7a3d2b1",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-c1b551caf9",
-    "source": "Politico — UK",
-    "title": "EU to be ‘ready’ for war with Russia by 2030",
-    "summary": "The European Commission aims to help the bloc prepare \"for the battlefields of tomorrow.\"",
-    "url": "https://www.politico.eu/article/eu-ukraine-russia-ready-for-war-2030/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-15T16:11:06Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/GettyImages-2237186671-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -324,18 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-810738954e",
-    "source": "Politico — UK",
-    "title": "Macron’s pension reform gamble poses dilemma for center-left opposition",
-    "summary": "After freezing the controversial retirement-age reform, Prime Minister Sébastien Lecornu is keeping options open for future budgetary maneuvers.",
-    "url": "https://www.politico.eu/article/emmanuel-macron-government-pension-reform-gamble-sebastien-lecornu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-15T15:48:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/GettyImages-2240572718-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-2407fdf2f8",
     "source": "BBC — Top Stories",
     "title": "Man who murdered girlfriend in hot tub is jailed for life",
@@ -355,18 +391,6 @@
     "url": "https://www.bbc.com/news/articles/c2drpzxpkp3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-15T14:53:46Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/331c/live/db761a00-a9cf-11f0-ba75-093eca1ac29b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-1b1850b67e",
-    "source": "BBC — Top Stories",
-    "title": "Controversial UK oil field publishes full scale of climate impact",
-    "summary": "The impact from the Rosebank oil field is estimated at nearly 250 million tonnes of planet warming CO2.",
-    "url": "https://www.bbc.com/news/articles/ce3xzgdqw3ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T14:44:09Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce7/live/c12f9c60-a9d0-11f0-aa31-b1f6905de5c6.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -492,18 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-2f6408578b",
-    "source": "BBC — Top Stories",
-    "title": "I said goodnight to my mum's ashes for five months, then I found out it wasn't her",
-    "summary": "Brian Allison says an unexplained mix-up with his mother's ashes tormented his late sister as she battled cancer.",
-    "url": "https://www.bbc.com/news/articles/cwyw47ewkgjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T05:12:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5479/live/3c1e57f0-a8f9-11f0-928c-71dbb8619e94.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-8838534951",
     "source": "The Guardian — UK",
     "title": "Inside the mystery of the collapsed Chinese spy trial – podcast",
@@ -523,18 +535,6 @@
     "url": "https://www.bbc.com/news/articles/c93127z99yxo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-14T23:32:02Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e251/live/daef4b20-a45b-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-10137290ae",
-    "source": "BBC — Top Stories",
-    "title": "AI couldn't picture a woman like me - until now",
-    "summary": "Paralympic swimmer Jess Smith, says representation means being seen as part of the AI world that's being built.",
-    "url": "https://www.bbc.com/news/articles/cj07ley3jnpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T23:14:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fd3/live/ac10ed40-a9c4-11f0-8da2-811fba9518ff.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
