@@ -1,5 +1,77 @@
 [
   {
+    "id": "The Guardian — UK-b5900ec22d",
+    "source": "The Guardian — UK",
+    "title": "Trump’s fragile peace plan: what next for Gaza? – podcast",
+    "summary": "As the Gaza ceasefire continues to hold, what road lies ahead in the peace process? John Harris speaks to the Guardian’s diplomatic editor, Patrick Wintour. Plus, what is at the heart of the Chinese spying case row? Why has Rachel Reeves changed her tone when it comes to Brexit? What’s behind the Green party’s surge in membership? And should Labour follow Zack Polanski’s lead in taking the fight to Reform? Kiran Stacey joins John to discuss Continue reading...",
+    "url": "https://www.theguardian.com/politics/audio/2025/oct/15/trumps-fragile-peace-plan-what-next-for-gaza-podcast",
+    "published": "2025-10-15T19:06:47Z",
+    "image_url": "https://i.guim.co.uk/img/media/20658f68cafa7842094de6f325288ac4e55aa6ba/454_0_4536_3629/master/4536.jpg?width=140&quality=85&auto=format&fit=max&s=15a03a260168ccbff8a198d2133141e2",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-9da9f15b89",
+    "source": "Politico — UK",
+    "title": "US defense secretary’s plane makes emergency stop in UK",
+    "summary": "All passengers, including Hegseth, were safe after the plane landed due to a crack in its windshield.",
+    "url": "https://www.politico.com/news/2025/10/15/hegseth-plan-united-kingdom-00609776?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-15T19:05:53Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-dec31a6cae",
+    "source": "BBC — Top Stories",
+    "title": "Baroness Mone-linked PPE firm misses deadline to pay £122m",
+    "summary": "PPE Medpro was ordered to repay damages by 16:00 BST on Wednesday after breaching a Covid-19 contract.",
+    "url": "https://www.bbc.com/news/articles/c629rdgyzl5o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T19:02:30Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5c8dfd50-9fbd-11f0-b73e-e715acbd6a10.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6fb1424adc",
+    "source": "BBC — Top Stories",
+    "title": "Cracked windscreen forces US Defence Secretary's plane to make unscheduled landing in UK",
+    "summary": "The Pentagon says Hegseth and other military leaders on board, who were travelling back from a Nato meeting, are safe.",
+    "url": "https://www.bbc.com/news/articles/cd67qe0255vo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T18:57:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c07c/live/7da5d950-a9f8-11f0-ba75-093eca1ac29b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-24a007e073",
+    "source": "The Guardian — UK",
+    "title": "Case dropped against Met police officer who shot unarmed man",
+    "summary": "Officer, known as W80, shot Jermaine Baker in a foiled prison break in 2015 The family of a man shot dead by a police officer in a foiled prison break have accused Scotland Yard of evading accountability after a case against the marksman was thrown out. The officer, known only as W80, shot Jermaine Baker as police stopped a plot to snatch two prisoners from a van near Wood Green crown court in 2015. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/15/case-dropped-met-police-officer-shot-jermaine-baker",
+    "published": "2025-10-15T18:32:39Z",
+    "image_url": "https://i.guim.co.uk/img/media/6406e1b4c75cb31446c0008a71065e961712e3ba/0_0_1304_1042/master/1304.jpg?width=140&quality=85&auto=format&fit=max&s=8115b41196634ee64bc152dff7f92812",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-1b1cc06385",
+    "source": "BBC — Top Stories",
+    "title": "UN humanitarian chief urges Israel to open more crossings into Gaza",
+    "summary": "Palestinians in Gaza are reported to be stockpiling food, amid anxiety that the ceasefire will unravel.",
+    "url": "https://www.bbc.com/news/articles/c803rmdzjdjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T18:31:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2087/live/78584840-a9e2-11f0-b2dc-37eb57bf4de6.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-55b5a6d5ed",
     "source": "Politico — UK",
     "title": "Slovak PM vows to derail key EU summit",
@@ -12,13 +84,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-dec31a6cae",
-    "source": "BBC — Top Stories",
-    "title": "Baroness Mone-linked firm fails to pay £122m over PPE",
-    "summary": "PPE Medpro was ordered to repay damages by 16:00 BST on Wednesday after breaching a Covid-19 contract.",
-    "url": "https://www.bbc.com/news/articles/c629rdgyzl5o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T18:19:17Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5c8dfd50-9fbd-11f0-b73e-e715acbd6a10.jpg",
+    "id": "The Guardian — UK-d432caff11",
+    "source": "The Guardian — UK",
+    "title": "Rachel Reeves says higher taxes on wealthy ‘part of the story’ for November budget",
+    "summary": "Exclusive: Chancellor hints at rises and calls out past ‘scaremongering’ over VAT on private schools and changes to non-doms Rachel Reeves has said higher taxes on the UK’s wealthy will form part of next month’s budget, as she shrugged off the “scaremongering” and “bleating” of her critics, and stressed her determination to repair the public finances. Speaking in Washington, where she is attending the annual meetings of the International Monetary Fund (IMF), the chancellor told the Guardian there “won’t be a return to austerity” and hinted at tax increases for the most well-off. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/15/rachel-reeves-says-higher-taxes-on-wealthy-part-of-the-story-for-november-budget",
+    "published": "2025-10-15T18:15:51Z",
+    "image_url": "https://i.guim.co.uk/img/media/934218e6696f83a93d45c820797ef1a9e520d086/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=aee1780c4ca0acce9aef386c8bfa71a3",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -168,18 +240,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-ec58953fd9",
-    "source": "BBC — Top Stories",
-    "title": "Case dropped for Met officer who shot unarmed man",
-    "summary": "The misconduct proceedings involving W80 came after years of legal battles over the case.",
-    "url": "https://www.bbc.com/news/articles/c4gjqeyy834o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T16:09:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0381/live/9911b790-a2b9-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-1dc55d5718",
     "source": "The Guardian — UK",
     "title": "Underground zip wire plan for Lake District approved by judge",
@@ -264,18 +324,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-a398cd5d22",
-    "source": "The Guardian — UK",
-    "title": "‘Alarming rise’ in mental health stigma in England, research shows",
-    "summary": "One in 10 people unwilling to live next to someone who has been mentally ill even if they have recovered, Mind reports The number of people in England who are frightened of living near people with mental health problems has nearly doubled to one in seven, which experts warn reflects an “alarming rise in stigma”. Even if the mentally ill person had recovered, one in 10 people said they would be unwilling to live next to them, according to new research from the mental health charity Mind. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/oct/15/alarming-rise-in-mental-health-stigma-in-england-research-shows",
-    "published": "2025-10-15T15:00:39Z",
-    "image_url": "https://i.guim.co.uk/img/media/5fed70324b519a3d53a7cf06e885cf965780065a/812_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=6fe5adf0abd243e1d2ae98b096663fef",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-7ec802188b",
     "source": "BBC — Top Stories",
     "title": "Reeves says she is looking at tax rises ahead of Budget",
@@ -324,18 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-463a7fdf50",
-    "source": "Politico — UK",
-    "title": "Update: Nina Warkens Gesundheitssparkurs und Wehrdienstreform",
-    "summary": "Gesundheitsministerin Nina Warken legt ihr erstes großes Sparpaket vor und will damit das drohende Zwei-Milliarden-Defizit in der gesetzlichen Krankenversicherung verhindern. Im Update erklärt Jürgen Klöckner, wie Kliniken besonders betroffen sind, warum CSU-Politiker Klaus Holetschek und Landkreistagspräsident Achim Brötel gegen die Kürzungen keilen. Außerdem: Der neue Ärger um den Wehrdienstkompromiss. Nach parteiinternen Spannungen hält SPD-Verteidigungsminister Boris […]",
-    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/update-nina-warkens-gesundheitssparkurs-und-wehrdienstreform/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-15T14:16:45Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/23/Berlin-Playbook-Website-Card57.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-57b8c9fbb1",
     "source": "The Guardian — UK",
     "title": "EHRC drops interim trans advice and urges ministers to act fast to approve its guidance",
@@ -379,18 +415,6 @@
     "url": "https://www.theguardian.com/media/2025/oct/15/gb-news-viewers-more-likely-to-wrongly-believe-net-migration-to-uk-increasing",
     "published": "2025-10-15T12:44:54Z",
     "image_url": "https://i.guim.co.uk/img/media/d8cf25322a37a3b5694f08e072cd0a24b9385551/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=b3276cae0cc22467011e2147b00ab81d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7a33180286",
-    "source": "BBC — Top Stories",
-    "title": "D'Angelo: A musical pioneer who reshaped soul",
-    "summary": "The singer, who has died aged 51, was credited with creating the album that became the genre's blueprint.",
-    "url": "https://www.bbc.com/news/articles/c62e5e3j75vo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T12:23:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856e/live/651f6030-a9c2-11f0-ab49-412d477b922a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -463,18 +487,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/15/pressure-downing-street-release-evidence-collapsed-china-spy-case",
     "published": "2025-10-15T08:20:58Z",
     "image_url": "https://i.guim.co.uk/img/media/2fbaf52e943e93790082d46570d5ec0cba39fc84/0_0_11811_9449/master/11811.jpg?width=140&quality=85&auto=format&fit=max&s=6462cd7552165f39827fa3063695c2b3",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-0e4aa01c5d",
-    "source": "The Guardian — UK",
-    "title": "Exiled Hong Kong dissidents fear UK plan to restart extraditions will put them in danger",
-    "summary": "Legislative change comes five years after treaty suspended in response to city’s crackdown on pro-democracy activists Exiled Hong Kong dissidents say they fear UK government plans to restart some extraditions with the city could put them in greater danger, saying Hong Kong authorities will use any pretext to pursue them. An amendment to UK extradition laws was passed on Tuesday more than five years after Britain and several other countries suspended extradition treaties with Hong Kong in response to the government crackdown on the pro-democracy movement, and its imposition of a Beijing-designed national security law. Continue reading...",
-    "url": "https://www.theguardian.com/law/2025/oct/15/exiled-hong-hong-dissidents-uk-restart-extraditions-danger",
-    "published": "2025-10-15T06:43:26Z",
-    "image_url": "https://i.guim.co.uk/img/media/ac571235186139f8f4089033aeff79f1486d0873/1152_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=8d3e94e8c306abd7df9a4955ea80f0f6",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -583,18 +595,6 @@
     "url": "https://www.theguardian.com/world/2025/oct/13/uk-role-in-gaza-peace-settlement-questioned-by-us-figures",
     "published": "2025-10-13T17:54:26Z",
     "image_url": "https://i.guim.co.uk/img/media/da5b0d3079f45801a7ea82ea124d9a01e89bd29b/261_0_2215_1772/master/2215.jpg?width=140&quality=85&auto=format&fit=max&s=1b5acb1d717b89b68ab928242dd6b948",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-620609c85c",
-    "source": "The Guardian — UK",
-    "title": "Gaza ceasefire: what is the UK’s role? – podcast",
-    "summary": "All eyes are on the Middle East where there have been emotional scenes in Israel as hostages were released, while tens of thousands of Palestinians are able to return to the ruins of their homes in Gaza. As global leaders, including Donald Trump and Keir Starmer, meet for a peace summit, Pippa Crerar and Kiran Stacey discuss the UK’s role in securing the ceasefire and in the next phases of the peace plan. Plus, what has Tony Blair’s contribution been to the ceasefire, and what part could he play in future? -- Send your thoughts and questions to politicsweeklyuk@theguardian.com Continue reading...",
-    "url": "https://www.theguardian.com/politics/audio/2025/oct/13/gaza-ceasefire-what-is-the-uk-role-podcast",
-    "published": "2025-10-13T15:16:05Z",
-    "image_url": "https://i.guim.co.uk/img/media/f4ef30188e9ddfc96fcc90b0ae86912571c8460a/0_204_5498_4398/master/5498.jpg?width=140&quality=85&auto=format&fit=max&s=d377243f4ee9b91ad2157c70bf9dc563",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
