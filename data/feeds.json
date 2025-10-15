@@ -1,24 +1,96 @@
 [
   {
+    "id": "The Guardian — UK-84f7ee3cc9",
+    "source": "The Guardian — UK",
+    "title": "Vets could be made to cap prescription prices after UK watchdog investigation",
+    "summary": "Market ‘not fit’ for purpose, CMA says, as it proposes shake-up including publishing treatment costs Business live – latest updates Vets in the UK could be forced to cap prescription prices after an investigation by the markets watchdog found pet owners may be paying twice as much for some common medicines from practices than online. The Competition and Markets Authority (CMA) found pet owners pay 16.6% more on average at large vet groups than at independent practices. It said the £6.3bn market was “not fit” for purpose and needed to be modernised. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/15/vets-could-be-made-to-publish-prices-after-uk-watchdog-investigation",
+    "published": "2025-10-15T08:22:36Z",
+    "image_url": "https://i.guim.co.uk/img/media/0dfed7ae0d3879a2f94fdc84753fb59890ca04ae/413_466_3530_2826/master/3530.jpg?width=140&quality=85&auto=format&fit=max&s=b87caa923850d589ac791cd496d7eb8e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-631f248ec9",
     "source": "BBC — Top Stories",
-    "title": "Vets should be made to publish prices, watchdog says",
-    "summary": "Pet owners are often unaware of prices, or not given estimates, the competiton watchdog finds.",
+    "title": "Vets must publish prices so pet owners not overcharged, watchdog says",
+    "summary": "Vet prices have risen at nearly twice the rate of inflation, the Competition and Markets Authority found.",
     "url": "https://www.bbc.com/news/articles/c201r14z6r3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T07:19:15Z",
+    "published": "2025-10-15T08:21:35Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce8/live/e3231dd0-a843-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-c7f4c219e1",
+    "id": "The Guardian — UK-0d5eea1530",
+    "source": "The Guardian — UK",
+    "title": "Pressure on Downing Street to release evidence in collapsed China spy case",
+    "summary": "Crown Prosecution Service denies it blocked publication of material and says decision rests with the government Downing Street is under pressure to publish its evidence in the collapsed China spy case after the Crown Prosecution Service (CPS) denied having blocked its release. Keir Starmer is likely to come under scrutiny at prime minister’s questions on Wednesday after the CPS said it was up to the government to release the evidence. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/15/pressure-downing-street-release-evidence-collapsed-china-spy-case",
+    "published": "2025-10-15T08:20:58Z",
+    "image_url": "https://i.guim.co.uk/img/media/2fbaf52e943e93790082d46570d5ec0cba39fc84/0_0_11811_9449/master/11811.jpg?width=140&quality=85&auto=format&fit=max&s=6462cd7552165f39827fa3063695c2b3",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-a577895fc4",
+    "source": "Politico — UK",
+    "title": "Rachel Reeves tells Sam to prepare for tax rises",
+    "summary": "The chancellor tells Sam Coates – on the record – that she is considering tax rises and spending cuts ahead of a critical autumn budget. In an exclusive interview – her first since being briefed by the Office for Budget Responsibility (OBR) on the size of the black hole – Rachel Reeves discusses whether there […]",
+    "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/rachel-reeves-tells-sam-to-prepare-for-tax-rises/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-15T07:36:40Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/03/27/PASAA_PODCAST-HERO-16BY9.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-c407fcdf19",
+    "source": "The Guardian — UK",
+    "title": "Royal Mail fined £21m by Ofcom for missing delivery targets",
+    "summary": "Communications regulator finds ‘millions of important letters are arriving late’ and ‘persistent failures’ Royal Mail has been fined £21m for missing its annual first- and second-class mail delivery targets, leading to millions of letters arriving late across the UK, the regulator Ofcom has said. This represents the third-largest fine ever imposed by the UK communications watchdog. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/15/royal-mail-fined-ofcom-missing-delivery-targets",
+    "published": "2025-10-15T07:25:42Z",
+    "image_url": "https://i.guim.co.uk/img/media/6655ded22d6939b229394c3e0a62f3efe05a66f8/894_0_5838_4673/master/5838.jpg?width=140&quality=85&auto=format&fit=max&s=8ef703e3473ae3bc41c07d544cf8bf8f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-29d60b1922",
     "source": "BBC — Top Stories",
-    "title": "Bangladesh garment factory fire kills at least 16",
-    "summary": "The dead have been burned beyond recognition and officials have warned that the toll could rise.",
-    "url": "https://www.bbc.com/news/articles/crexjqpw557o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T06:56:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5054/live/72d14200-a95b-11f0-9ec5-5f043a946e03.jpg",
+    "title": "British social media star 'Big John' detained in Australia over visa",
+    "summary": "Fisher says his visa is \"legit\" but that authorities were unhappy he would be working while in the country.",
+    "url": "https://www.bbc.com/news/articles/cwy196k9p4po?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T07:14:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcda/live/a2c1d0c0-a964-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-cc85f825c8",
+    "source": "The Guardian — UK",
+    "title": "Watchdog rules Red Tractor exaggerated its environmental standards",
+    "summary": "The Advertising Standards Authority agrees with River Action that the food safety body’s 2023 advert misled the public The UK’s advertising watchdog has upheld a complaint that Britain’s biggest farm assurance scheme misled the public in a TV ad about its environmental standards. The Red Tractor scheme , used by leading supermarkets including Tesco, Asda and Morrisons to assure customers their food meets high standards for welfare, environment, traceability and safety , is the biggest and perhaps best known assurance system in Britain. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/oct/15/watchdog-rules-red-tractor-exaggerated-environmental-standards",
+    "published": "2025-10-15T07:10:45Z",
+    "image_url": "https://i.guim.co.uk/img/media/1449599801a21b95276a0a4191f9f5fd54a31cad/513_503_2045_1636/master/2045.jpg?width=140&quality=85&auto=format&fit=max&s=a8002cb3b93bacc24a92ef35877ffcde",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a24554dc9a",
+    "source": "BBC — Top Stories",
+    "title": "UK must prepare for 2C rise in global warming by 2050, government warned",
+    "summary": "The Climate Change Committee said the UK should make climate change adaptions beyond the Paris Agreement.",
+    "url": "https://www.bbc.com/news/articles/cx24kllyye1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T06:57:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/771e/live/645f8050-a97a-11f0-8efc-fbca622d9725.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -30,7 +102,7 @@
     "summary": "Trump's Middle East visit was a victory lap - but peace does not emerge just because a president decides it.",
     "url": "https://www.bbc.com/news/articles/ce86118q6ego?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-15T06:52:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d18/live/5044d380-a949-11f0-92db-77261a15b9d2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/216e/live/e933fa30-a99e-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -38,8 +110,8 @@
   {
     "id": "The Guardian — UK-0e4aa01c5d",
     "source": "The Guardian — UK",
-    "title": "Exiled Hong Hong dissidents say UK plan to restart extraditions puts them in danger",
-    "summary": "Legislative change comes five years after treaty suspended in response to city’s crackdown on pro-democracy activists Exiled Hong Kong dissidents say they fear UK government plans to restart some extraditions with the city could put them in greater danger, saying Hong Kong authorities will use any pretext to pursue them. An amendment to UK extradition laws was passed on Tuesday. It came more than five years after the UK and several other countries suspended extradition treaties with Hong Kong in response to the government crackdown on the pro-democracy movement, and its imposition of a Beijing-designed national security law. Continue reading...",
+    "title": "Exiled Hong Kong dissidents fear UK plan to restart extraditions will put them in danger",
+    "summary": "Legislative change comes five years after treaty suspended in response to city’s crackdown on pro-democracy activists Exiled Hong Kong dissidents say they fear UK government plans to restart some extraditions with the city could put them in greater danger, saying Hong Kong authorities will use any pretext to pursue them. An amendment to UK extradition laws was passed on Tuesday more than five years after Britain and several other countries suspended extradition treaties with Hong Kong in response to the government crackdown on the pro-democracy movement, and its imposition of a Beijing-designed national security law. Continue reading...",
     "url": "https://www.theguardian.com/law/2025/oct/15/exiled-hong-hong-dissidents-uk-restart-extraditions-danger",
     "published": "2025-10-15T06:43:26Z",
     "image_url": "https://i.guim.co.uk/img/media/ac571235186139f8f4089033aeff79f1486d0873/1152_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=8d3e94e8c306abd7df9a4955ea80f0f6",
@@ -55,18 +127,6 @@
     "url": "https://www.bbc.com/news/articles/cd67qyw7z3vo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-15T06:38:32Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70db/live/a18a7290-a8fe-11f0-ab74-91eb43b2b68c.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-84f7ee3cc9",
-    "source": "The Guardian — UK",
-    "title": "Vets could be made to publish prices after UK watchdog investigation",
-    "summary": "Market ‘not fit’ for purpose and must be modernised, CMA says, with pet owners paying 16.6% more at large groups Vets in the UK could be forced to publish their prices and whether they are part of a larger group after an investigation by the markets watchdog into claims that chain-owned surgeries have left pet owners with dwindling choice and higher bills. The Competition and Markets Authority (CMA) found pet owners pay 16.6% more on average at large vet groups than at independent vets. It said the £6.3bn market was “not fit” for purpose and needed to be modernised. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/15/vets-could-be-made-to-publish-prices-after-uk-watchdog-investigation",
-    "published": "2025-10-15T06:38:29Z",
-    "image_url": "https://i.guim.co.uk/img/media/0dfed7ae0d3879a2f94fdc84753fb59890ca04ae/413_466_3530_2826/master/3530.jpg?width=140&quality=85&auto=format&fit=max&s=b87caa923850d589ac791cd496d7eb8e",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -108,18 +168,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-22ded3c09a",
-    "source": "The Guardian — UK",
-    "title": "UK must prepare buildings for 2C rise in global temperature, government told",
-    "summary": "Climate advisers warn that current plans to protect against extreme weather are inadequate Britain must prepare for global heating far in excess of the level scientists have pegged as the limit of safety, the government’s climate advisers have warned, as current plans to protect against extreme weather are inadequate. Heatwaves will occur in at least four of every five years in England by 2050, and time spent in drought will double. The number of days of peak wildfire conditions in July will nearly treble for the UK, while floods will increase in frequency throughout the year, with some peak river flows increasing by 40%. Continue reading...",
-    "url": "https://www.theguardian.com/environment/2025/oct/15/uk-prepare-buildings-2c-rise-temperature",
-    "published": "2025-10-15T04:00:13Z",
-    "image_url": "https://i.guim.co.uk/img/media/8221e6d88d1705439af1d480c4fbb18742604012/1454_1278_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=4ae72fae1191f4a22af4570e98fcd228",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-1cd5ab23ec",
     "source": "The Guardian — UK",
     "title": "Pupils fear AI is eroding their ability to study, research finds",
@@ -127,6 +175,18 @@
     "url": "https://www.theguardian.com/technology/2025/oct/15/pupils-fear-ai-eroding-study-ability-research",
     "published": "2025-10-15T04:00:13Z",
     "image_url": "https://i.guim.co.uk/img/media/60642396442850806f62b0f907723a563983398b/376_0_4467_3574/master/4467.jpg?width=140&quality=85&auto=format&fit=max&s=ed53a9d84744fe4ecf3e3a88d785cc80",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-22ded3c09a",
+    "source": "The Guardian — UK",
+    "title": "UK must prepare buildings for 2C rise in global temperature, government told",
+    "summary": "Climate advisers warn that current plans to protect against extreme weather are inadequate Britain must prepare for global heating far in excess of the level scientists have pegged as the limit of safety, the government’s climate advisers have warned, as current plans to protect against extreme weather are inadequate. Heatwaves will occur in at least four of every five years in England by 2050, and time spent in drought will double. The number of days of peak wildfire conditions in July will nearly treble for the UK, while floods will increase in frequency throughout the year, with some peak river flows increasing by 40%. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/oct/15/uk-prepare-buildings-2c-rise-temperature",
+    "published": "2025-10-15T04:00:13Z",
+    "image_url": "https://i.guim.co.uk/img/media/8221e6d88d1705439af1d480c4fbb18742604012/1454_1278_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=4ae72fae1191f4a22af4570e98fcd228",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -182,7 +242,7 @@
   {
     "id": "Politico — UK-00bba6b56e",
     "source": "Politico — UK",
-    "title": "NATO scrambles to fix ‘patchwork’ air defenses as Putin lurks",
+    "title": "NATO agonizes over leaky air defenses while Russian threat grows",
     "summary": "Mounting drone incursions are sparking a debate on national rules that some see as limiting NATO’s top military officer.",
     "url": "https://www.politico.eu/article/nato-weighs-options-to-sew-up-patchwork-air-defenses/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-15T02:10:00Z",
@@ -360,18 +420,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-92f207b795",
-    "source": "Politico — UK",
-    "title": "Trump to Spain: Spend more on defense or face ‘punishment’ tariffs",
-    "summary": "U.S. president berates \"unbelievably disrespectful\" Madrid for failing to reach NATO's military investment target.",
-    "url": "https://www.politico.eu/article/donald-trump-nato-spain-madrid-defense-spending-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-14T20:55:15Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/GettyImages-2233609160.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-43eb417a46",
     "source": "BBC — Top Stories",
     "title": "The players with points to prove as England reach World Cup",
@@ -391,42 +439,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/14/walsall-rhiannon-whyte-murder-trial-deng-chol-majek-wolverhampton-crown-court",
     "published": "2025-10-14T18:35:18Z",
     "image_url": "https://i.guim.co.uk/img/media/46cfb27bfcea36f35b912fabaee1caca41e0825d/0_41_388_310/master/388.jpg?width=140&quality=85&auto=format&fit=max&s=d429fee0a38e56c820bfc7d91507c321",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-fffae0c9dd",
-    "source": "The Guardian — UK",
-    "title": "DNA test confirmed alleged stalker was not Madeleine McCann, court hears",
-    "summary": "Investigating officer says he went against procedure to test Julia Wandelt, accused of campaign of harassment against McCann family An alleged stalker’s claim to be Madeleine McCann was ruled out after a DNA test proved conclusively she was not the missing girl, police have revealed in court. Julia Wandelt, 24, is accused of a campaign of harassment against the family of Madeleine, who went missing from Praia da Luz in Portugal in 2007 at the age of three. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/14/secret-dna-test-confirmed-alleged-stalker-was-not-madeleine-mccann-says-officer",
-    "published": "2025-10-14T18:19:44Z",
-    "image_url": "https://i.guim.co.uk/img/media/8dbd3f3706f1af8947530563a7825710b9044e0c/412_0_1439_1152/master/1439.jpg?width=140&quality=85&auto=format&fit=max&s=160a7057e5a8f72a8fac4b3fa4a8feaf",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-eedfa9e35f",
-    "source": "The Guardian — UK",
-    "title": "ChatGPT ‘upgrade’ giving more harmful answers than previously, tests find",
-    "summary": "Campaigners ‘deeply concerned’ about response to prompts about suicide, self-harm and eating disorders The latest version of ChatGPT has produced more harmful answers to some prompts than an earlier iteration of the AI chatbot, in particular when asked about suicide, self-harm and eating disorders, digital campaigners have said. Launched in August, GPT-5 was billed by the San Francisco start-up as advancing the “frontier of AI safety”. But when researchers fed the same 120 prompts into the latest model and its predecessor, GPT-4o, the newer version gave harmful responses 63 times compared with 52 for the old model. In the UK and Ireland, Samaritans can be contacted on freephone 116 123, or email jo@samaritans.org or jo@samaritans.ie . In the US, you can call or text the 988 Suicide & Crisis Lifeline at 988 or chat at 988lifeline.org . In Australia, the crisis support service Lifeline is 13 11 14. Other international helplines can be found at befrienders.org Continue reading...",
-    "url": "https://www.theguardian.com/technology/2025/oct/14/chatgpt-upgrade-giving-more-harmful-answers-than-previously-tests-find",
-    "published": "2025-10-14T17:06:24Z",
-    "image_url": "https://i.guim.co.uk/img/media/57a55dbf29e394625b140c167d1167d04b423427/472_0_4723_3779/master/4723.jpg?width=140&quality=85&auto=format&fit=max&s=efe0a4570c7334d075a7dceba687d4e9",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-360a014b31",
-    "source": "The Guardian — UK",
-    "title": "US and UK put sanctions on alleged Cambodia cyber-scammers and seize $15bn in bitcoin",
-    "summary": "People trafficking among allegations against six people who face measures including property freezes and travel bans The US and UK have seized $15bn (£11.3bn) in bitcoin and frozen London properties owned by the alleged leaders of scam centres in Cambodia that trick victims around the world and torture their trafficked workers. Two Chinese-born businessmen are among the six people hit by travel bans and sanctions that aim to tackle the growing threat of organised crime gangs carrying out online fraud globally on an industrial scale. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/14/uk-us-sanctions-leaders-cambodia-scam-centres",
-    "published": "2025-10-14T16:43:40Z",
-    "image_url": "https://i.guim.co.uk/img/media/d77df0913dcc040ac880f963150040bdc245fa84/401_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=be36f6a2235e08ea8ab69491aa5dab3e",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -499,18 +511,6 @@
     "url": "https://www.bbc.com/news/articles/c93xprvdy23o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-14T15:08:41Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/720d/live/b78262e0-a987-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e006b26e6d",
-    "source": "BBC — Top Stories",
-    "title": "Recognising Palestinian state helped get ceasefire, PM says",
-    "summary": "The PM says the Gaza deal belongs to Trump - but insists the UK played a key role behind the scenes.",
-    "url": "https://www.bbc.com/news/articles/c0ex18xx9xeo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T15:07:41Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a419/live/650a2030-a922-11f0-a87a-599d240e4891.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
