@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-40b33a5090",
+    "source": "BBC — Top Stories",
+    "title": "Dozens in court over alleged support of Palestine Action",
+    "summary": "About 2,000 people are likely to be charged, meaning 400 trials could need to be held.",
+    "url": "https://www.bbc.com/news/articles/c051g2q5651o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T19:56:55Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50bb/live/0c3ee8e0-a9f0-11f0-aa13-0b0479f6f42a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-02034df81a",
+    "source": "Politico — UK",
+    "title": "Pressure mounts on NATO allies to go all-in on Trump arms scheme for Ukraine",
+    "summary": "A majority of NATO countries have joined the PURL scheme, and the rest are under pressure \"to put your money where your mouth is.\"",
+    "url": "https://www.politico.eu/article/pressure-mounts-nato-allies-go-all-in-us-trump-arms-scheme-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-15T19:40:03Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/GettyImages-2240761222-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6fb1424adc",
+    "source": "BBC — Top Stories",
+    "title": "Cracked windscreen forces US defence secretary's plane to make unscheduled landing in UK",
+    "summary": "The Pentagon says Hegseth and other military leaders on board, who were travelling back from a Nato meeting, are safe.",
+    "url": "https://www.bbc.com/news/articles/cd67qe0255vo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T19:29:34Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c07c/live/7da5d950-a9f8-11f0-ba75-093eca1ac29b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-b5900ec22d",
     "source": "The Guardian — UK",
     "title": "Trump’s fragile peace plan: what next for Gaza? – podcast",
@@ -36,13 +72,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-6fb1424adc",
+    "id": "BBC — Top Stories-f4f2b269ad",
     "source": "BBC — Top Stories",
-    "title": "Cracked windscreen forces US Defence Secretary's plane to make unscheduled landing in UK",
-    "summary": "The Pentagon says Hegseth and other military leaders on board, who were travelling back from a Nato meeting, are safe.",
-    "url": "https://www.bbc.com/news/articles/cd67qe0255vo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T18:57:49Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c07c/live/7da5d950-a9f8-11f0-ba75-093eca1ac29b.jpg",
+    "title": "Ukraine imposes blackouts in most regions after Russian power grid attacks",
+    "summary": "This will be the fourth consecutive winter of outages since Russia launched its full-scale invasion in February 2022.",
+    "url": "https://www.bbc.com/news/articles/c15p32dvy0vo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T18:57:10Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e897/live/f8e6f990-a9ef-11f0-8f02-15a9bbd0334e.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -51,22 +87,10 @@
     "id": "The Guardian — UK-24a007e073",
     "source": "The Guardian — UK",
     "title": "Case dropped against Met police officer who shot unarmed man",
-    "summary": "Officer, known as W80, shot Jermaine Baker in a foiled prison break in 2015 The family of a man shot dead by a police officer in a foiled prison break have accused Scotland Yard of evading accountability after a case against the marksman was thrown out. The officer, known only as W80, shot Jermaine Baker as police stopped a plot to snatch two prisoners from a van near Wood Green crown court in 2015. Continue reading...",
+    "summary": "Officer, known as W80, shot Jermaine Baker during a foiled prison break in 2015 The family of a man shot dead by a police officer during a foiled prison break have accused Scotland Yard of evading accountability after a case against the marksman was thrown out. The officer, known only as W80, shot Jermaine Baker as police stopped a plot to snatch two prisoners from a van near Wood Green crown court in 2015. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/15/case-dropped-met-police-officer-shot-jermaine-baker",
     "published": "2025-10-15T18:32:39Z",
     "image_url": "https://i.guim.co.uk/img/media/6406e1b4c75cb31446c0008a71065e961712e3ba/0_0_1304_1042/master/1304.jpg?width=140&quality=85&auto=format&fit=max&s=8115b41196634ee64bc152dff7f92812",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-1b1cc06385",
-    "source": "BBC — Top Stories",
-    "title": "UN humanitarian chief urges Israel to open more crossings into Gaza",
-    "summary": "Palestinians in Gaza are reported to be stockpiling food, amid anxiety that the ceasefire will unravel.",
-    "url": "https://www.bbc.com/news/articles/c803rmdzjdjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T18:31:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2087/live/78584840-a9e2-11f0-b2dc-37eb57bf4de6.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -90,7 +114,7 @@
     "summary": "Exclusive: Chancellor hints at rises and calls out past ‘scaremongering’ over VAT on private schools and changes to non-doms Rachel Reeves has said higher taxes on the UK’s wealthy will form part of next month’s budget, as she shrugged off the “scaremongering” and “bleating” of her critics, and stressed her determination to repair the public finances. Speaking in Washington, where she is attending the annual meetings of the International Monetary Fund (IMF), the chancellor told the Guardian there “won’t be a return to austerity” and hinted at tax increases for the most well-off. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/oct/15/rachel-reeves-says-higher-taxes-on-wealthy-part-of-the-story-for-november-budget",
     "published": "2025-10-15T18:15:51Z",
-    "image_url": "https://i.guim.co.uk/img/media/934218e6696f83a93d45c820797ef1a9e520d086/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=aee1780c4ca0acce9aef386c8bfa71a3",
+    "image_url": "https://i.guim.co.uk/img/media/9b395f1774e0a93b07a28094bf2a4005dad9468b/1986_82_4671_3737/master/4671.jpg?width=140&quality=85&auto=format&fit=max&s=afb37a3189dede338b3c931009490ea8",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -198,7 +222,7 @@
     "summary": "The Swedish activist says soldiers \"hit and kicked me,\" in first major interview after the Gaza aid flotilla was intercepted.",
     "url": "https://www.politico.eu/article/greta-thunberg-israel-troops-abuse-gaza-flotilla-activist/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-15T16:23:45Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/GettyImages-2239603131-scaled.jpg",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/GettyImages-2239199959-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -288,18 +312,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-0dff16d2fb",
-    "source": "BBC — Top Stories",
-    "title": "Student arrested after chanting about putting Zionists 'in the ground'",
-    "summary": "Video appears to show Samuel Williams allegedly leading the chant at a pro-Palestinian march in London.",
-    "url": "https://www.bbc.com/news/articles/ce8gdelw79po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T15:40:01Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8157/live/530681c0-a9dc-11f0-b2a1-6f537f66f9aa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-2407fdf2f8",
     "source": "BBC — Top Stories",
     "title": "Man who murdered girlfriend in hot tub is jailed for life",
@@ -343,18 +355,6 @@
     "url": "https://www.bbc.com/news/articles/ce3xzgdqw3ro?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-15T14:44:09Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce7/live/c12f9c60-a9d0-11f0-aa31-b1f6905de5c6.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-4a6dc45b12",
-    "source": "Politico — UK",
-    "title": "Orbán rival Magyar accuses Várhelyi of ‘not revealing whole truth’ in Hungarian spy affair",
-    "summary": "Challenger Peter Magyar holds a sharp lead on the Hungarian prime minister ahead of the April election in Hungary.",
-    "url": "https://www.politico.eu/article/viktor-orban-rival-peter-magyar-accuses-oliver-varhelyi-hungarian-spy-affair/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-15T14:37:10Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/13274782-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -420,6 +420,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-7a33180286",
+    "source": "BBC — Top Stories",
+    "title": "D'Angelo: A musical pioneer who reshaped soul",
+    "summary": "The singer, who has died aged 51, was credited with creating the album that became the genre's blueprint.",
+    "url": "https://www.bbc.com/news/articles/c62e5e3j75vo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T12:23:03Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856e/live/651f6030-a9c2-11f0-ab49-412d477b922a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-7898897b1b",
     "source": "BBC — Top Stories",
     "title": "'Time to begin healing together': Israeli hostage couple reunited after 738 days",
@@ -427,18 +439,6 @@
     "url": "https://www.bbc.com/news/articles/c5yp0j0l3glo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-15T12:15:17Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4117/live/051d2a50-a9a9-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-137db6102d",
-    "source": "BBC — Top Stories",
-    "title": "Asylum hotel a 'feeding ground for unrest', High Court told",
-    "summary": "Lawyers for a council are trying to stop The Bell Hotel in Epping from housing asylum seekers.",
-    "url": "https://www.bbc.com/news/articles/cy8v9jzn5zgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T11:44:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e0/live/319334d0-8401-11f0-a3f8-9b56bf5c3841.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -528,13 +528,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-1b29430dd5",
+    "id": "BBC — Top Stories-10137290ae",
     "source": "BBC — Top Stories",
-    "title": "Which celebrity Traitor are you? Take our quiz to find out",
-    "summary": "Many of us like to think we could handle the pressure of being a traitor, so choose the tactics you'd deploy.",
-    "url": "https://www.bbc.com/news/articles/cx20545pdedo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T23:29:36Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2a8/live/489d99d0-a919-11f0-b741-177e3e2c2fc7.jpg",
+    "title": "AI couldn't picture a woman like me - until now",
+    "summary": "Paralympic swimmer Jess Smith, says representation means being seen as part of the AI world that's being built.",
+    "url": "https://www.bbc.com/news/articles/cj07ley3jnpo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T23:14:57Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fd3/live/ac10ed40-a9c4-11f0-8da2-811fba9518ff.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
