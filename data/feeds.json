@@ -1,5 +1,77 @@
 [
   {
+    "id": "BBC — Top Stories-f3bef36561",
+    "source": "BBC — Top Stories",
+    "title": "'Father of our democracy': Kenya's Raila Odinga dies in India aged 80",
+    "summary": "Odinga unsuccessfully ran for the presidency five times but shared power several times.",
+    "url": "https://www.bbc.com/news/articles/c1m39xg4dggo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T11:12:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7e/live/f47bf560-a98e-11f0-8cc1-273230b15f0b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-33f2acca95",
+    "source": "The Guardian — UK",
+    "title": "Keir Starmer faces Kemi Badenoch as questions persist over collapse of China spy case – PMQs live",
+    "summary": "PM to face leader of the opposition following recess and trips to India and Egypt Lindsay Hoyle starts by telling MPs that speakers from the parliaments in Fiji and Ukraine are in the gallery. And he says it is four years to the day since David Amess was murdered. It’s PMQs. Here is the list of MPs down to ask a question. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/15/keir-starmer-kemi-badenoch-pmqs-china-epping-rachel-reeves-imf-uk-politics-live-news-updates",
+    "published": "2025-10-15T11:09:15Z",
+    "image_url": "https://i.guim.co.uk/img/media/9c3060b4995cac9ca35eee883589ef3fa7d0ab92/357_0_1104_883/master/1104.jpg?width=140&quality=85&auto=format&fit=max&s=d04b496ab3f9d63e5a1ae9c9886420e6",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-c407fcdf19",
+    "source": "The Guardian — UK",
+    "title": "Royal Mail fined £21m by Ofcom for missing delivery targets",
+    "summary": "Communications regulator finds ‘millions of important letters are arriving late’ and ‘persistent failures’ Business live – latest updates Royal Mail has been fined £21m for missing its annual delivery targets for first- and second-class mail, leading to millions of letters arriving late across the UK, according to the regulator Ofcom. This is the third time the 509-year-old postal service has been fined by the communications watchdog, and the third-biggest financial penalty Ofcom has ever issued to any company. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/15/royal-mail-fined-ofcom-missing-delivery-targets",
+    "published": "2025-10-15T10:38:10Z",
+    "image_url": "https://i.guim.co.uk/img/media/6655ded22d6939b229394c3e0a62f3efe05a66f8/894_0_5838_4673/master/5838.jpg?width=140&quality=85&auto=format&fit=max&s=8ef703e3473ae3bc41c07d544cf8bf8f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-808e84e43f",
+    "source": "BBC — Top Stories",
+    "title": "Royal Mail fined £21m after missing post delivery targets",
+    "summary": "It is the third-largest fine the communications watchdog has ever issued.",
+    "url": "https://www.bbc.com/news/articles/cd67qyw7z3vo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T10:35:36Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70db/live/a18a7290-a8fe-11f0-ab74-91eb43b2b68c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-a89aad431f",
+    "source": "The Guardian — UK",
+    "title": "Nature groups rebuke Reeves for ‘cynical’ 11th-hour planning bill changes",
+    "summary": "Chancellor accused of removing environmental protections to win short-term growth and save her budget UK politics live – latest updates Last-minute changes to the government’s landmark planning bill have sparked a furious backlash from nature groups who have mounted an attack on the chancellor, Rachel Reeves, over her plans to remove environmental protections. The changes to the legislation come as it enters its final stages before being signed into law. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/15/nature-groups-rebuke-reeves-for-cynical-11th-hour-planning-bill-changes",
+    "published": "2025-10-15T10:33:58Z",
+    "image_url": "https://i.guim.co.uk/img/media/436b2196f2e7876ef01e4d4985770e5b3437f6b8/1562_0_3938_3150/master/3938.jpg?width=140&quality=85&auto=format&fit=max&s=6c2afc0362be0efb8027e21f42a1a63c",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7ec802188b",
+    "source": "BBC — Top Stories",
+    "title": "Reeves acknowledges she is looking at tax rises ahead of Budget",
+    "summary": "The chancellor tells Sky News that Brexit has damaged the economy, as she comes under pressure to raise funds for the public finances.",
+    "url": "https://www.bbc.com/news/articles/c2drpzxpkp3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T10:26:58Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9de/live/588597d0-a9aa-11f0-97ec-91b89bd10dfa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-631f248ec9",
     "source": "BBC — Top Stories",
     "title": "Vets must publish prices so pet owners not overcharged, watchdog says",
@@ -12,18 +84,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-33f2acca95",
-    "source": "The Guardian — UK",
-    "title": "Brexit has had ‘severe and long lasting’ impact on economy, says Reeves, as she confirms budget tax rises – UK politics live",
-    "summary": "Chancellor cites the UK’s exit from EU alongside austerity and Truss’s mini-budget as issues affecting economy People in poorer health are more likely to vote Reform UK, PA Media reports. PA says: Experts from Imperial College London looked at voting patterns in last year’s general election, when Reform secured 14.3% of the votes and five seats. Three of the five areas (60%) returning a Reform MP were in the most deprived fifth of the country, compared with 103 (29.7%) of Labour constituencies, according to the study published in BMJ Open Respiratory Research. What the evidence from Matthew Collins, the deputy NSA says, will be fascinating. Did it make any reference to threats posed by China at all? Did it draw on evidence from the home office or MI5? Did it flag the public descriptions of China as a threat to national security by the heads of MI5 and MI6? Or was it solely based on the integrated review and a speech by James Cleverly? Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/15/keir-starmer-kemi-badenoch-pmqs-china-epping-rachel-reeves-imf-uk-politics-live-news-updates",
-    "published": "2025-10-15T10:00:57Z",
-    "image_url": "https://i.guim.co.uk/img/media/cf1d7f25096a4a8b761518ca054246d555cd1118/836_223_6555_5247/master/6555.jpg?width=140&quality=85&auto=format&fit=max&s=34a7ca4311cc9cd81b0451ec7e06a51a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-ef4d97970a",
     "source": "The Guardian — UK",
     "title": "Nursing unions call for UK to back prosecutions for war crimes against health workers",
@@ -31,18 +91,6 @@
     "url": "https://www.theguardian.com/global-development/2025/oct/15/nursing-unions-call-for-uk-to-back-icc-prosecutions-for-war-crimes-against-health-workers",
     "published": "2025-10-15T10:00:33Z",
     "image_url": "https://i.guim.co.uk/img/media/f3f14f598be67b8426c501d42e0771bf32c2c5cf/576_0_2813_2252/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=d5e4418c28d38aa95ef488f9782ac2db",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f3bef36561",
-    "source": "BBC — Top Stories",
-    "title": "Former Kenyan Prime Minister Raila Odinga dies in India aged 80",
-    "summary": "Odinga died on Wednesday while receiving medical treatment at a hospital in India, family sources tell the BBC.",
-    "url": "https://www.bbc.com/news/articles/c1m39xg4dggo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T09:57:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7e/live/f47bf560-a98e-11f0-8cc1-273230b15f0b.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -120,18 +168,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-c407fcdf19",
-    "source": "The Guardian — UK",
-    "title": "Royal Mail fined £21m by Ofcom for missing delivery targets",
-    "summary": "Communications regulator finds ‘millions of important letters are arriving late’ and ‘persistent failures’ Business live – latest updates Royal Mail has been fined £21m for missing its annual delivery targets for first- and second-class mail, leading to millions of letters arriving late across the UK, according to the regulator Ofcom. This is the third time the 509-year-old postal service has been fined by the communications watchdog, and the third-biggest financial penalty Ofcom has ever issued to any company. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/15/royal-mail-fined-ofcom-missing-delivery-targets",
-    "published": "2025-10-15T09:09:00Z",
-    "image_url": "https://i.guim.co.uk/img/media/6655ded22d6939b229394c3e0a62f3efe05a66f8/894_0_5838_4673/master/5838.jpg?width=140&quality=85&auto=format&fit=max&s=8ef703e3473ae3bc41c07d544cf8bf8f",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-219a5f0af4",
     "source": "Politico — UK",
     "title": "Russian army hammers Ukraine’s gas system for 3rd time in a week",
@@ -139,6 +175,18 @@
     "url": "https://www.politico.eu/article/russian-army-batters-ukrainian-gas-infrastructure-for-third-time/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-15T09:01:34Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/GettyImages-2239522467-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c27188e7f7",
+    "source": "BBC — Top Stories",
+    "title": "Stephen Graham hopes father-son book will 'continue the message of Adolescence'",
+    "summary": "Graham is asking dads for their experiences raising sons for an upcoming book of letters.",
+    "url": "https://www.bbc.com/news/articles/cn40yyl8nvyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T09:01:19Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e276/live/d0cc4690-a90e-11f0-b5e8-25b94b51d777.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -216,30 +264,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-29d60b1922",
-    "source": "BBC — Top Stories",
-    "title": "British social media star 'Big John' detained in Australia over visa",
-    "summary": "Fisher says his visa is \"legit\" but that authorities were unhappy he would be working while in the country.",
-    "url": "https://www.bbc.com/news/articles/cwy196k9p4po?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T07:14:59Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcda/live/a2c1d0c0-a964-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-cc85f825c8",
-    "source": "The Guardian — UK",
-    "title": "Watchdog rules Red Tractor exaggerated its environmental standards",
-    "summary": "The Advertising Standards Authority agrees with River Action that the food safety body’s 2023 advert misled the public The UK’s advertising watchdog has upheld a complaint that Britain’s biggest farm assurance scheme misled the public in a TV ad about its environmental standards. The Red Tractor scheme , used by leading supermarkets including Tesco, Asda and Morrisons to assure customers their food meets high standards for welfare, environment, traceability and safety , is the biggest and perhaps best known assurance system in Britain. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/15/watchdog-rules-red-tractor-exaggerated-environmental-standards",
-    "published": "2025-10-15T07:10:45Z",
-    "image_url": "https://i.guim.co.uk/img/media/1449599801a21b95276a0a4191f9f5fd54a31cad/513_503_2045_1636/master/2045.jpg?width=140&quality=85&auto=format&fit=max&s=a8002cb3b93bacc24a92ef35877ffcde",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-a24554dc9a",
     "source": "BBC — Top Stories",
     "title": "UK must prepare for 2C rise in global warming by 2050, government warned",
@@ -247,6 +271,18 @@
     "url": "https://www.bbc.com/news/articles/cx24kllyye1o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-15T06:57:16Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/771e/live/645f8050-a97a-11f0-8efc-fbca622d9725.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c7f4c219e1",
+    "source": "BBC — Top Stories",
+    "title": "Bangladesh garment factory fire kills at least 16",
+    "summary": "The dead have been burned beyond recognition and officials have warned that the toll could rise.",
+    "url": "https://www.bbc.com/news/articles/crexjqpw557o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T06:56:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5054/live/72d14200-a95b-11f0-9ec5-5f043a946e03.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -264,13 +300,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-808e84e43f",
-    "source": "BBC — Top Stories",
-    "title": "Royal Mail fined £21m after missing post delivery targets",
-    "summary": "It is the third-largest fine the communications watchdog has ever issued.",
-    "url": "https://www.bbc.com/news/articles/cd67qyw7z3vo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T06:38:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70db/live/a18a7290-a8fe-11f0-ab74-91eb43b2b68c.jpg",
+    "id": "The Guardian — UK-0e4aa01c5d",
+    "source": "The Guardian — UK",
+    "title": "Exiled Hong Kong dissidents fear UK plan to restart extraditions will put them in danger",
+    "summary": "Legislative change comes five years after treaty suspended in response to city’s crackdown on pro-democracy activists Exiled Hong Kong dissidents say they fear UK government plans to restart some extraditions with the city could put them in greater danger, saying Hong Kong authorities will use any pretext to pursue them. An amendment to UK extradition laws was passed on Tuesday more than five years after Britain and several other countries suspended extradition treaties with Hong Kong in response to the government crackdown on the pro-democracy movement, and its imposition of a Beijing-designed national security law. Continue reading...",
+    "url": "https://www.theguardian.com/law/2025/oct/15/exiled-hong-hong-dissidents-uk-restart-extraditions-danger",
+    "published": "2025-10-15T06:43:26Z",
+    "image_url": "https://i.guim.co.uk/img/media/ac571235186139f8f4089033aeff79f1486d0873/1152_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=8d3e94e8c306abd7df9a4955ea80f0f6",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -336,18 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-84ae782123",
-    "source": "BBC — Top Stories",
-    "title": "Red Tractor ad banned for misleading environmental claims",
-    "summary": "The Advertising Standards Authority upheld a complaint by environment charity River Action.",
-    "url": "https://www.bbc.com/news/articles/cx2lmnvj3n5o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T02:40:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad99/live/38b93b50-a8f6-11f0-a33c-d7bc21b91844.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-4cbc7f45bf",
     "source": "Politico — UK",
     "title": "EU can cut red tape without bowing to Trump, says Denmark",
@@ -398,7 +422,7 @@
   {
     "id": "Politico — UK-2ce57eff21",
     "source": "Politico — UK",
-    "title": "EU airs dirty laundry in public as Parliament fights Commission in court",
+    "title": "Europe airs dirty laundry in public as Parliament fights Commission in court",
     "summary": "The case, which focuses on the unfreezing of funds to Hungary, raises questions about the function of the EU budget, lawyers say.",
     "url": "https://www.politico.eu/article/eu-parliament-commission-court-funds-ukraine-cpr/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-15T02:00:00Z",
@@ -444,18 +468,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-10522a926a",
-    "source": "BBC — Top Stories",
-    "title": "The Indian woman who stood up to moral policing - and won a pageant",
-    "summary": "Muskan Sharma, who won the Miss Rishikesh contest, said it made her feel like Miss Universe.",
-    "url": "https://www.bbc.com/news/articles/cqlzqzlnvvpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T23:10:21Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/101e/live/3d6de010-a590-11f0-bbf9-f1d34ef91255.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-650c2ab885",
     "source": "BBC — Top Stories",
     "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2025",
@@ -492,13 +504,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-8a0bd4025f",
+    "id": "BBC — Top Stories-4f6f0f2b74",
     "source": "BBC — Top Stories",
-    "title": "'We want to raise our children': Life in Gaza after hostages and prisoners released",
-    "summary": "The United Nations Development Programme (UNDP) says over 80% of all buildings in the territory are destroyed or damaged.",
-    "url": "https://www.bbc.com/news/videos/cev1yyzve3ro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T16:30:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b79/live/0001f880-a912-11f0-928c-71dbb8619e94.jpg",
+    "title": "Migrants will need A-level standard English to work in UK",
+    "summary": "The tougher rules will come in force in January as part of wider plans to cut immigration.",
+    "url": "https://www.bbc.com/news/articles/c8679q0pe57o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T18:10:29Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fde/live/5730d520-a919-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -523,18 +535,6 @@
     "url": "https://www.bbc.com/news/articles/cy0kllzqk1vo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-14T16:20:30Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a57f/live/9ab35420-a910-11f0-b5e8-25b94b51d777.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-514a9db4f6",
-    "source": "The Guardian — UK",
-    "title": "National grooming gangs inquiry stalls over remit wrangles and lack of chair",
-    "summary": "Exclusive: Source says senior legal figures appear reluctant to head investigation launched by Keir Starmer in June Keir Starmer’s national grooming gangs inquiry has stalled amid wrangles over its remit and difficulties in finding a senior legal figure willing to become its chair, the Guardian has been told. Terms of the statutory investigation are still being discussed by a panel of stakeholders including survivors of abuse rings, four months after the prime minister bowed to pressure and set it up . Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/14/national-grooming-gangs-inquiry-stalls-over-remit-wrangles-and-lack-of-chair",
-    "published": "2025-10-14T16:00:58Z",
-    "image_url": "https://i.guim.co.uk/img/media/d80e4ed83581a66adaf6d560421b0ec0a536888c/384_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=22aa63af8b8f238a8ccae53114e864fc",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
