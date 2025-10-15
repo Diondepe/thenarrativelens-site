@@ -1,12 +1,72 @@
 [
   {
+    "id": "BBC — Top Stories-631f248ec9",
+    "source": "BBC — Top Stories",
+    "title": "Vets should be made to publish prices, watchdog says",
+    "summary": "Pet owners are often unaware of prices, or not given estimates, the competiton watchdog finds.",
+    "url": "https://www.bbc.com/news/articles/c201r14z6r3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T07:19:15Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce8/live/e3231dd0-a843-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c7f4c219e1",
+    "source": "BBC — Top Stories",
+    "title": "Bangladesh garment factory fire kills at least 16",
+    "summary": "The dead have been burned beyond recognition and officials have warned that the toll could rise.",
+    "url": "https://www.bbc.com/news/articles/crexjqpw557o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T06:56:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5054/live/72d14200-a95b-11f0-9ec5-5f043a946e03.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6a7864466a",
+    "source": "BBC — Top Stories",
+    "title": "Bowen: Trump's role in Gaza ceasefire was decisive, but not a roadmap to peace",
+    "summary": "Trump's Middle East visit was a victory lap - but peace does not emerge just because a president decides it.",
+    "url": "https://www.bbc.com/news/articles/ce86118q6ego?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T06:52:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d18/live/5044d380-a949-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-0e4aa01c5d",
+    "source": "The Guardian — UK",
+    "title": "Exiled Hong Hong dissidents say UK plan to restart extraditions puts them in danger",
+    "summary": "Legislative change comes five years after treaty suspended in response to city’s crackdown on pro-democracy activists Exiled Hong Kong dissidents say they fear UK government plans to restart some extraditions with the city could put them in greater danger, saying Hong Kong authorities will use any pretext to pursue them. An amendment to UK extradition laws was passed on Tuesday. It came more than five years after the UK and several other countries suspended extradition treaties with Hong Kong in response to the government crackdown on the pro-democracy movement, and its imposition of a Beijing-designed national security law. Continue reading...",
+    "url": "https://www.theguardian.com/law/2025/oct/15/exiled-hong-hong-dissidents-uk-restart-extraditions-danger",
+    "published": "2025-10-15T06:43:26Z",
+    "image_url": "https://i.guim.co.uk/img/media/ac571235186139f8f4089033aeff79f1486d0873/1152_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=8d3e94e8c306abd7df9a4955ea80f0f6",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-808e84e43f",
     "source": "BBC — Top Stories",
     "title": "Royal Mail fined £21m after missing post delivery targets",
     "summary": "It is the third-largest fine the communications watchdog has ever issued.",
     "url": "https://www.bbc.com/news/articles/cd67qyw7z3vo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T06:22:51Z",
+    "published": "2025-10-15T06:38:32Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70db/live/a18a7290-a8fe-11f0-ab74-91eb43b2b68c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-84f7ee3cc9",
+    "source": "The Guardian — UK",
+    "title": "Vets could be made to publish prices after UK watchdog investigation",
+    "summary": "Market ‘not fit’ for purpose and must be modernised, CMA says, with pet owners paying 16.6% more at large groups Vets in the UK could be forced to publish their prices and whether they are part of a larger group after an investigation by the markets watchdog into claims that chain-owned surgeries have left pet owners with dwindling choice and higher bills. The Competition and Markets Authority (CMA) found pet owners pay 16.6% more on average at large vet groups than at independent vets. It said the £6.3bn market was “not fit” for purpose and needed to be modernised. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/15/vets-could-be-made-to-publish-prices-after-uk-watchdog-investigation",
+    "published": "2025-10-15T06:38:29Z",
+    "image_url": "https://i.guim.co.uk/img/media/0dfed7ae0d3879a2f94fdc84753fb59890ca04ae/413_466_3530_2826/master/3530.jpg?width=140&quality=85&auto=format&fit=max&s=b87caa923850d589ac791cd496d7eb8e",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -14,7 +74,7 @@
   {
     "id": "BBC — Top Stories-d37c3dc976",
     "source": "BBC — Top Stories",
-    "title": "I felt trapped, says victim of train sexual offence as reports rise",
+    "title": "You can't escape, says victim of train sexual offence as reports rise",
     "summary": "A BBC investigation finds reports of sexual offences on trains rise by more than a third.",
     "url": "https://www.bbc.com/news/articles/c39r2zp1dw7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-15T05:10:56Z",
@@ -67,6 +127,18 @@
     "url": "https://www.theguardian.com/technology/2025/oct/15/pupils-fear-ai-eroding-study-ability-research",
     "published": "2025-10-15T04:00:13Z",
     "image_url": "https://i.guim.co.uk/img/media/60642396442850806f62b0f907723a563983398b/376_0_4467_3574/master/4467.jpg?width=140&quality=85&auto=format&fit=max&s=ed53a9d84744fe4ecf3e3a88d785cc80",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-e6f672cedd",
+    "source": "Politico — UK",
+    "title": "Les 42 personnes qui comptent dans la tech",
+    "summary": "Dirigeants d’entreprise ou d’administration, élus, lobbyistes... Découvrez notre classement des personnalités les plus influentes du secteur.",
+    "url": "https://www.politico.eu/article/les-42-personnes-qui-comptent-dans-la-tech/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-15T04:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/Tech-list.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -192,18 +264,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-c7f4c219e1",
-    "source": "BBC — Top Stories",
-    "title": "Bangladesh garment factory fire kills at least 16",
-    "summary": "The dead have been burned beyond recognition and officials have warned that the toll could rise.",
-    "url": "https://www.bbc.com/news/articles/crexjqpw557o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T01:06:09Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fd0/live/7296f3f0-a962-11f0-b4ad-47ee312ae477.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-7bff33d622",
     "source": "BBC — Top Stories",
     "title": "How singing with other mums is helping women with postnatal depression",
@@ -270,7 +330,7 @@
     "summary": "Photographer Wim van den Heever got the winning shot beside an abandoned diamond mining settlement.",
     "url": "https://www.bbc.com/news/articles/cx253vrd931o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-14T23:04:11Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e8a/live/d2878b50-a933-11f0-b741-177e3e2c2fc7.png",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa48/live/b6848f00-a994-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -300,18 +360,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-b1f4f55517",
-    "source": "BBC — Top Stories",
-    "title": "US strikes another vessel off Venezuela coast, killing six",
-    "summary": "President Trump said the vessel belonged to \"narcoterrorists\" and that it was \"trafficking narcotics.\" US officials have not provided evidence to this claim.",
-    "url": "https://www.bbc.com/news/articles/cg51625lmmgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T21:03:33Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf2/live/b00516d0-a940-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-92f207b795",
     "source": "Politico — UK",
     "title": "Trump to Spain: Spend more on defense or face ‘punishment’ tariffs",
@@ -331,18 +379,6 @@
     "url": "https://www.bbc.com/sport/football/articles/c986588n805o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-14T20:40:16Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b9f/live/9369dac0-a8f4-11f0-a33c-d7bc21b91844.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-9cd0da6027",
-    "source": "Politico — UK",
-    "title": "Des taxes, des surprises, des angles morts : on a décortiqué les budgets 2026",
-    "summary": "Les budgets de l’Etat et de la Sécurité sociale ont été présentés mardi, avec des mesures (plus ou moins) attendues, avant de passer à la moulinette des parlementaires.",
-    "url": "https://www.politico.eu/article/taxes-surprises-angles-decortique-budgets-2026/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-14T20:27:48Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/GettyImages-2220199404-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -372,18 +408,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-6a7864466a",
-    "source": "BBC — Top Stories",
-    "title": "Bowen: Trump's role in Gaza ceasefire was decisive, but not a roadmap to peace",
-    "summary": "Trump's Middle East visit was a victory lap - but peace does not emerge just because a president decides it.",
-    "url": "https://www.bbc.com/news/articles/ce86118q6ego?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T17:31:59Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d18/live/5044d380-a949-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-eedfa9e35f",
     "source": "The Guardian — UK",
     "title": "ChatGPT ‘upgrade’ giving more harmful answers than previously, tests find",
@@ -403,18 +427,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/14/uk-us-sanctions-leaders-cambodia-scam-centres",
     "published": "2025-10-14T16:43:40Z",
     "image_url": "https://i.guim.co.uk/img/media/d77df0913dcc040ac880f963150040bdc245fa84/401_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=be36f6a2235e08ea8ab69491aa5dab3e",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-4bc128a691",
-    "source": "The Guardian — UK",
-    "title": "UK faces highest inflation in G7 this year and next, IMF warns",
-    "summary": "According to fund’s World Economic Outlook, Britain is on course to average 3.4% this year and 2.5% in 2026 US shares risk ‘sharp correction’ but markets seem complacent, IMF warns World economy resilient amid Trump tariffs but outlook looks ‘dim’, says IMF Consumers in the UK are expected to suffer the highest inflation in the G7 group of leading economies this year and next, the International Monetary Fund has warned. As policymakers gathered in Washington for its annual meetings, the IMF said prices would rise in Britain at a faster pace in 2025 and 2026 than it had originally forecast at its last update in July . Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/14/uk-faces-highest-inflation-in-g7-this-year-and-next-imf-warns",
-    "published": "2025-10-14T16:38:01Z",
-    "image_url": "https://i.guim.co.uk/img/media/d8d821f4f161fdfb594ea858187c81756ded4771/242_0_2516_2014/master/2516.jpg?width=140&quality=85&auto=format&fit=max&s=66c17f475d15a5ec1a981cd4be0123b6",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -451,6 +463,18 @@
     "url": "https://www.bbc.com/news/articles/cy0kllzqk1vo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-14T16:20:30Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a57f/live/9ab35420-a910-11f0-b5e8-25b94b51d777.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-514a9db4f6",
+    "source": "The Guardian — UK",
+    "title": "National grooming gangs inquiry stalls over remit wrangles and lack of chair",
+    "summary": "Exclusive: Source says senior legal figures appear reluctant to head investigation launched by Keir Starmer in June Keir Starmer’s national grooming gangs inquiry has stalled amid wrangles over its remit and difficulties in finding a senior legal figure willing to become its chair, the Guardian has been told. Terms of the statutory investigation are still being discussed by a panel of stakeholders including survivors of abuse rings, four months after the prime minister bowed to pressure and set it up . Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/14/national-grooming-gangs-inquiry-stalls-over-remit-wrangles-and-lack-of-chair",
+    "published": "2025-10-14T16:00:58Z",
+    "image_url": "https://i.guim.co.uk/img/media/d80e4ed83581a66adaf6d560421b0ec0a536888c/384_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=22aa63af8b8f238a8ccae53114e864fc",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -499,30 +523,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/14/former-lord-speaker-frances-dsouza-faces-suspension-improper-influence-speeding-offence",
     "published": "2025-10-14T15:06:04Z",
     "image_url": "https://i.guim.co.uk/img/media/6d3c0dd93de59f1aef4d7bae7ee9c2a6f7244938/292_0_2916_2333/master/2916.jpg?width=140&quality=85&auto=format&fit=max&s=d6edf43bafcea523ff83ccab68e16310",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-bf658dc3d8",
-    "source": "The Guardian — UK",
-    "title": "Anonymity for firearms officers will harm public confidence, Shabana Mahmood told",
-    "summary": "Senior media figures say hiding names of those facing trial would ‘ride roughshod over the principles of open justice’ A government plan to give anonymity to firearms officers in England and Wales facing criminal charges will damage public confidence in policing and fuel online misinformation, a coalition of editors, journalists and media lawyers have said. In a letter to the home secretary, Shabana Mahmood, seen by the Guardian, the group warned the measure would make officers empowered to use lethal force less accountable than ordinary members of the public. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/14/anonymity-firearms-officers-harm-public-confidence-shabana-mahmood-told",
-    "published": "2025-10-14T13:40:58Z",
-    "image_url": "https://i.guim.co.uk/img/media/2db5b88fda70110e6355dbf302556d18c5c99dbf/140_0_2363_1890/master/2363.jpg?width=140&quality=85&auto=format&fit=max&s=9710427e478b2368b28e38c85ea24251",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-45ad05f5d6",
-    "source": "The Guardian — UK",
-    "title": "Academic axed from Labour conference panel for criticising energy policy",
-    "summary": "Sustainability expert was told panellists discussing North Sea oil and gas were meant to ‘agree entirely’ with each other A prominent sustainability professor had events cancelled at Labour and Conservative conferences after hosts of a panel he was on said they did not want his views on oil and gas aired in front of MPs. Prof Matthew Agarwala spoke on the fringe at Lib Dem conference for the panel organised by Total Politics but was then pulled from similar panels at subsequent Labour and Conservative conferences. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/14/sustainability-professors-talk-at-uk-party-conferences-cancelled",
-    "published": "2025-10-14T13:26:38Z",
-    "image_url": "https://i.guim.co.uk/img/media/b520eb2c11030105b039552e94363acf766fc5a6/0_31_833_666/master/833.jpg?width=140&quality=85&auto=format&fit=max&s=df382433f5acadb8a415ead76a091a11",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
