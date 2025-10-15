@@ -1,12 +1,72 @@
 [
   {
-    "id": "BBC — Top Stories-5d1c4943de",
-    "source": "BBC — Top Stories",
-    "title": "Celia Imrie's fart steals the show on Celebrity Traitors",
-    "summary": "The veteran actress blamed nerves for her releasing wind at a tense moment during the game.",
-    "url": "https://www.bbc.com/news/articles/c4gpr5j3kgdo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T22:13:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/543f/live/02c8bf20-aa0e-11f0-ba75-093eca1ac29b.jpg",
+    "id": "The Guardian — UK-f322a1190e",
+    "source": "The Guardian — UK",
+    "title": "Border security officers sent to Balkans to disrupt people-smuggling networks",
+    "summary": "British team sent to develop new ways of working with Frontex, the EU’s border agency British border security officers have been deployed to the Balkans for the first time in an effort to disrupt the networks smuggling migrants into the UK. Officers have been sent to develop new ways of working with Frontex, the EU’s border agency, to track down and arrest people-smugglers operating along key routes into western Europe. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/16/border-security-officers-sent-to-balkans-to-disrupt-people-smuggling-networks",
+    "published": "2025-10-15T23:05:40Z",
+    "image_url": "https://i.guim.co.uk/img/media/3dbd98e9de5047b344854898a2c32738293c73c9/99_0_4561_3649/master/4561.jpg?width=140&quality=85&auto=format&fit=max&s=f07555eb1bb8c84d37b0bd3419fccdf1",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-5208eea6ee",
+    "source": "The Guardian — UK",
+    "title": "‘Gruesome videos’: social media pushes distressing news to children, experts say",
+    "summary": "Survey by Internet Matters finds children being left worried and upset by content showing shootings, stabbings and war More than half of children who get news from social media are left worried and upset after seeing content that involves war, violence and death, according to new research that found social media companies are “pushing” distressing news to children who are not seeking it. Videos of the murder of Charlie Kirk, the Liverpool parade car-ramming attack, scenes from wars, shootings, stabbings and car crashes have recently been pushed into children’s feeds, research by Internet Matters, an online safety organisation, has found. As a result, 39% of those who saw distressing content described themselves as very or extremely upset and worried by it. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/oct/16/gruesome-videos-social-media-distressing-news-children-survey",
+    "published": "2025-10-15T23:01:50Z",
+    "image_url": "https://i.guim.co.uk/img/media/72781d6c485a65b7073e63843db561a727836155/569_0_5002_4000/master/5002.jpg?width=140&quality=85&auto=format&fit=max&s=462bf6916209504918f407021695cc95",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-0c7c1bc869",
+    "source": "The Guardian — UK",
+    "title": "Some parents of special school pupils in England spending £5,000 on EHCPs",
+    "summary": "Sutton Trust’s research reveals huge inequalities in how parents navigate Send system, with poorer children ‘doubly disadvantaged’ One in eight children in special schools have parents who spent £5,000 or more on their assessments, according to research that reveals huge inequalities in how parents navigate England’s special educational needs system. The research comes as the government is planning to overhaul special educational needs and disabilities (Send) provision in schools. Despite earlier reports that education, health and care plans (EHCPs) that detail support for each child would be scrapped as part of the overhaul, sources have told the Guardian that the plans will now survive the reforms. Continue reading...",
+    "url": "https://www.theguardian.com/education/2025/oct/16/some-parents-of-special-school-pupils-in-england-spending-5000-on-ehcps",
+    "published": "2025-10-15T23:01:50Z",
+    "image_url": "https://i.guim.co.uk/img/media/4b84aa8138c74db6a8dd3f6e886354de905f4b3e/233_0_2535_2029/master/2535.jpg?width=140&quality=85&auto=format&fit=max&s=e169629d2075c74e16b37ca988fa966c",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-7ca0a40b7b",
+    "source": "The Guardian — UK",
+    "title": "Ministry of Justice ‘has failed to file spending receipts of nearly £11bn’",
+    "summary": "Analyst firm Tussell says department is more than two years behind on publishing receipts, weakening scrutiny around public money The Ministry of Justice, the Whitehall department in charge of a £13bn annual budget for prisons, probation and courts across England and Wales, has failed to file spending receipts of nearly £11bn, a report has said. Tussell, the public spending analyst firm, said the government department was more than two years behind on publishing receipts for multimillion pound contracts, weakening scrutiny around public money. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/16/ministry-of-justice-has-failed-to-file-spending-receipts-of-nearly-11bn",
+    "published": "2025-10-15T23:01:49Z",
+    "image_url": "https://i.guim.co.uk/img/media/c54230434e438ab78ae11aa309fe70ef1cea4117/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=42632d9cd4a3768a656faa409a05d08e",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-5b42da76cf",
+    "source": "The Guardian — UK",
+    "title": "No 10 moves to end China spy row – but threat of further fallout lingers",
+    "summary": "Questions remain over trial collapse even as publication of key evidence scuppers Tory’s main line of attack When Keir Starmer finally read the witness statement from his deputy national security adviser for the trial of two British men accused of spying for China, some of his frustration about the collapse of the case began to dissipate. His government had been besieged by the Tories for two weeks over its role, being accused of “secretly sabotaging” the trial, “blocking” key witnesses and “hiding behind process”, all to avoid having to tell a court that China was an enemy. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/16/no-10-moves-to-end-china-spy-row-but-threat-of-further-fallout-lingers",
+    "published": "2025-10-15T23:00:20Z",
+    "image_url": "https://i.guim.co.uk/img/media/8cb7daca9d878c671d46887912492ea900e4d3ad/1542_661_5087_4071/master/5087.jpg?width=140&quality=85&auto=format&fit=max&s=f129b65cd7030ec30fc33f6330afdd79",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-b3c92d126f",
+    "source": "The Guardian — UK",
+    "title": "Questions for CPS after No 10 publishes key witness statements in China spy row",
+    "summary": "Documents reveal messages between the accused pair warning: ‘You’re in spy territory now’ The Crown Prosecution Service abandoned a case against two Britons accused of spying for China despite being told by the UK’s deputy national security adviser that Beijing’s intelligence agencies “harm the interests and security of the UK”. Three witness statements were released by Keir Starmer on Wednesday night in an effort to draw a line under a row over why the case was dropped against the two, one of whom also warned the other in a message: “You’re in spy territory now.” Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/15/no-10-publishes-key-witness-statements-in-china-spy-row",
+    "published": "2025-10-15T22:45:34Z",
+    "image_url": "https://i.guim.co.uk/img/media/221d6b31db46283751fe8a8d4e21f332a9294c36/0_0_6783_5426/master/6783.jpg?width=140&quality=85&auto=format&fit=max&s=31efe9fb82c9ae4840e93245f97249b8",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -17,8 +77,20 @@
     "title": "Government publishes key witness statements in collapsed China spy case",
     "summary": "Deputy national security adviser concluded China was \"highly capable and conduct large-scale espionage operations against the UK\".",
     "url": "https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T21:59:17Z",
+    "published": "2025-10-15T22:42:21Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5d1c4943de",
+    "source": "BBC — Top Stories",
+    "title": "Celia Imrie's fart steals the show on Celebrity Traitors",
+    "summary": "The veteran actress blamed nerves for her releasing wind at a tense moment during the game.",
+    "url": "https://www.bbc.com/news/articles/c4gpr5j3kgdo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T22:19:54Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/543f/live/02c8bf20-aa0e-11f0-ba75-093eca1ac29b.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -79,18 +151,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/15/case-dropped-met-police-officer-shot-jermaine-baker",
     "published": "2025-10-15T21:11:57Z",
     "image_url": "https://i.guim.co.uk/img/media/6406e1b4c75cb31446c0008a71065e961712e3ba/0_0_1304_1042/master/1304.jpg?width=140&quality=85&auto=format&fit=max&s=8115b41196634ee64bc152dff7f92812",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-b3c92d126f",
-    "source": "The Guardian — UK",
-    "title": "No 10 publishes key witness statements in China spy row",
-    "summary": "Keir Starmer releases documents submitted by deputy national security adviser to Crown Prosecution Service Downing Street has published three witness statements from UK’s deputy national security adviser in an effort to draw as line under the row over why spying charges against two Britons accused of spying for China were dropped last month. Charges against Christopher Cash and Christopher Berry fell away because prosecutors could not obtain evidence from Matthew Collins that Beijing represented a “threat to the national security of the UK” over “many months”. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/15/no-10-publishes-key-witness-statements-in-china-spy-row",
-    "published": "2025-10-15T21:04:07Z",
-    "image_url": "https://i.guim.co.uk/img/media/221d6b31db46283751fe8a8d4e21f332a9294c36/0_0_6783_5426/master/6783.jpg?width=140&quality=85&auto=format&fit=max&s=31efe9fb82c9ae4840e93245f97249b8",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -276,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-9b93b2dc9a",
-    "source": "The Guardian — UK",
-    "title": "English councils to remain poorer than in 2010 despite funding rise, says report",
-    "summary": "Exclusive: Impact of austerity cannot be undone by end of parliament despite above-inflation funding, analysis finds Councils in England will still be poorer by the end of this parliament than they were in 2010 despite Labour’s funding increases, according to analysis by the Institute for Government (IfG). Funding cuts from 2010 to 2019 were so severe that they left gaps that could not be filled even by five years of above-inflation increases, leaving local authorities increasingly reliant on emergency funding and capable of providing only legally mandated services, the report shows. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/oct/15/english-councils-to-remain-poorer-than-2010-despite-funding-boost-says-report",
-    "published": "2025-10-15T17:06:00Z",
-    "image_url": "https://i.guim.co.uk/img/media/43377c3e3630a77bb622c03f9cb81368af080629/676_0_6781_5425/master/6781.jpg?width=140&quality=85&auto=format&fit=max&s=c54b576b45fed1203568addfd19b22d4",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-1923947126",
     "source": "The Guardian — UK",
     "title": "Jonathan Powell: the trusted aide Starmer is shielding from China spy row",
@@ -331,18 +379,6 @@
     "url": "https://www.theguardian.com/world/2025/oct/15/china-spy-row-key-witness-statement-to-be-published-says-starmer",
     "published": "2025-10-15T16:14:26Z",
     "image_url": "https://i.guim.co.uk/img/media/e7f408d3b9dd35a24abd4f9dfd809cf3bbe6c045/873_419_4742_3794/master/4742.jpg?width=140&quality=85&auto=format&fit=max&s=8de16c028df2b70cf6b26fe3c7a3d2b1",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-1dc55d5718",
-    "source": "The Guardian — UK",
-    "title": "Underground zip wire plan for Lake District approved by judge",
-    "summary": "Campaigners say go-ahead for ‘theme park’ attraction in quarry could imperil area’s Unesco world heritage status Plans to create an underground zip wire experience in a 19th-century Lake District slate quarry have been given the go-ahead by a high court judge. On Wednesday, Mr Justice Mould delivered a ruling that could bring an end to a long-running battle that has generated discussion about how people can and should experience national parks. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/15/underground-zip-wire-plan-for-lake-district-approved-by-judge",
-    "published": "2025-10-15T16:05:41Z",
-    "image_url": "https://i.guim.co.uk/img/media/4b74410cdb092512895a86a7257a67f367d91271/225_0_4080_3264/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=56f84e66e4a500350e2cfcd6d83da15d",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,18 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-79ef73a4b3",
-    "source": "The Guardian — UK",
-    "title": "Rachel Reeves says tax rises and spending cuts on budget agenda, citing Brexit impact",
-    "summary": "Chancellor also blames austerity and ‘ongoing impact of Liz Truss mini-budget’ for growing shortfall in public finances UK politics live – latest updates Rachel Reeves has said tax rises and spending cuts are on the table for this autumn’s budget, as the government aims to tackle a growing shortfall in the public finances which she said was partly due to the lingering impact of Brexit. Speaking to Sky News, the chancellor said: “Of course, we’re looking at tax and spending” as she prepared for her 26 November statement. “But the numbers will always add up with me as chancellor, because we saw just three years ago what happens when … the Conservatives lost control of the public finances, inflation and interest rates went through the roof.” Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/15/rachel-reeves-brexit-impact-tax-and-spending-budget",
-    "published": "2025-10-15T09:33:15Z",
-    "image_url": "https://i.guim.co.uk/img/media/dd374b852e474f9a455da37bd87392dc1a196da8/1331_824_2325_1860/master/2325.jpg?width=140&quality=85&auto=format&fit=max&s=6f98cfadf51ad1596f3ce9ad894be2f2",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-c5c8c3c5e9",
     "source": "BBC — Top Stories",
     "title": "Trump demands Hamas disarm as group moves to assert control with public execution",
@@ -499,18 +523,6 @@
     "url": "https://www.bbc.com/news/articles/cjr034p5prlo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-15T09:24:36Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea40/live/03d66130-a9a3-11f0-92db-77261a15b9d2.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-0d5eea1530",
-    "source": "The Guardian — UK",
-    "title": "Pressure on Downing Street to release evidence in collapsed China spy case",
-    "summary": "Crown Prosecution Service denies it blocked publication of material and says decision rests with the government Downing Street is under pressure to publish its evidence in the collapsed China spy case after the Crown Prosecution Service denied having blocked its release. Keir Starmer is likely to come under scrutiny at prime minister’s questions on Wednesday after the CPS said it was up to the government to release the evidence. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/15/pressure-downing-street-release-evidence-collapsed-china-spy-case",
-    "published": "2025-10-15T08:20:58Z",
-    "image_url": "https://i.guim.co.uk/img/media/2fbaf52e943e93790082d46570d5ec0cba39fc84/0_0_11811_9449/master/11811.jpg?width=140&quality=85&auto=format&fit=max&s=6462cd7552165f39827fa3063695c2b3",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -583,18 +595,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/13/muddle-over-semantics-or-pressure-from-china-collapsed-spying-case-remains-baffling",
     "published": "2025-10-13T18:51:50Z",
     "image_url": "https://i.guim.co.uk/img/media/ee066fc4e3dd3dbb4e6362791aaffbf989d4408e/139_0_860_688/master/860.jpg?width=140&quality=85&auto=format&fit=max&s=c37e5ab588ced4f047ec58e0b75a791e",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-050183f6a1",
-    "source": "The Guardian — UK",
-    "title": "Trump takes centre stage as questions linger over UK’s role in Gaza ceasefire",
-    "summary": "While some question UK’s ‘key’ role in negotiations, others claim British influence was significant For British officials who had spent the last 24 hours talking up the UK’s role in negotiating peace in Gaza, Monday’s press conference by Donald Trump in Egypt was a brutal lesson in realpolitik. “Where’s the United Kingdom?” asked the US president before ushering up Keir Starmer, who had been stood behind him. Trump briefly shook the prime minister’s hand and called him “his friend”, before turning his back on him and continuing to explain how he had brought peace to the Middle East without allowing the prime minister to say a word. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/13/uk-role-in-gaza-peace-settlement-questioned-by-us-figures",
-    "published": "2025-10-13T17:54:26Z",
-    "image_url": "https://i.guim.co.uk/img/media/da5b0d3079f45801a7ea82ea124d9a01e89bd29b/261_0_2215_1772/master/2215.jpg?width=140&quality=85&auto=format&fit=max&s=1b5acb1d717b89b68ab928242dd6b948",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
