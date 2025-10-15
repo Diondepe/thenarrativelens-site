@@ -1,5 +1,101 @@
 [
   {
+    "id": "BBC — Top Stories-631f248ec9",
+    "source": "BBC — Top Stories",
+    "title": "Vets must publish prices so pet owners not overcharged, watchdog says",
+    "summary": "Vet prices have risen at nearly twice the rate of inflation, the Competition and Markets Authority found.",
+    "url": "https://www.bbc.com/news/articles/c201r14z6r3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T09:18:29Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce8/live/e3231dd0-a843-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-33f2acca95",
+    "source": "The Guardian — UK",
+    "title": "Brexit has had ‘severe and long lasting’ impact on economy, says Reeves, as she confirms budget tax rises – UK politics live",
+    "summary": "Chancellor cites the UK’s exit from EU alongside austerity and Truss’s mini-budget as issues affecting economy In his Sky News interview with the chancellor, Sam Coates put it to her that the UK was in a “doom loop” where the government needed to come back every year with higher taxes to fill a black hole in the public finances. Rachel Reeves replied: “Nobody wants that cycle to end more than I do, Sam.” But, when Coates asked her if she could rule out having to put taxes up again in 2026, Reeves just avoided the question, telling him: Our economy is doing well. I recognise that the cost of living challenges are still very real for people. In the last parliament, living standards fell. That’s the first time that’s ever happened. Living standards are rising today because of the increases in the national living wage, the national minimum wage, and because inflation and interest rates are lower than they were under the previous government. Is there more to do? Absolutely, but I will never take risks through the public finances because when you do, it is ordinary people that pay the price. Last year Rachel Reeves raised taxes by £40 billion. She said she wouldn’t come back for more. Now the Chancellor has confirmed she’s about to break her promise. Rachel Reeves doesn’t need to raise taxes. She needs to get a grip of government spending - including the welfare bill. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/15/keir-starmer-kemi-badenoch-pmqs-china-epping-rachel-reeves-imf-uk-politics-live-news-updates",
+    "published": "2025-10-15T09:09:40Z",
+    "image_url": "https://i.guim.co.uk/img/media/cf1d7f25096a4a8b761518ca054246d555cd1118/836_223_6555_5247/master/6555.jpg?width=140&quality=85&auto=format&fit=max&s=34a7ca4311cc9cd81b0451ec7e06a51a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-c407fcdf19",
+    "source": "The Guardian — UK",
+    "title": "Royal Mail fined £21m by Ofcom for missing delivery targets",
+    "summary": "Communications regulator finds ‘millions of important letters are arriving late’ and ‘persistent failures’ Business live – latest updates Royal Mail has been fined £21m for missing its annual delivery targets for first- and second-class mail, leading to millions of letters arriving late across the UK, according to the regulator Ofcom. This is the third time the 509-year-old postal service has been fined by the communications watchdog, and the third-biggest financial penalty Ofcom has ever issued to any company. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/15/royal-mail-fined-ofcom-missing-delivery-targets",
+    "published": "2025-10-15T09:09:00Z",
+    "image_url": "https://i.guim.co.uk/img/media/6655ded22d6939b229394c3e0a62f3efe05a66f8/894_0_5838_4673/master/5838.jpg?width=140&quality=85&auto=format&fit=max&s=8ef703e3473ae3bc41c07d544cf8bf8f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-79ef73a4b3",
+    "source": "The Guardian — UK",
+    "title": "Rachel Reeves cites Brexit impact while ‘looking at tax and spending’ for budget",
+    "summary": "Chancellor also blames austerity and ‘ongoing impact of Lis Truss’s mini-budget’ for growing shortfall in public finances UK politics live – latest updates Rachel Reeves has said tax rises and spending cuts are on the table for this autumn’s budget, as the government aims to tackle a growing shortfall in the public finances which she said was partly due to the lingering impact of Brexit. Speaking to Sky News, the chancellor said: “Of course, we’re looking at tax and spending” as she prepared for her 26 November statement. “But the numbers will always add up with me as chancellor, because we saw just three years ago what happens when … the Conservatives lost control of the public finances, inflation and interest rates went through the roof.” Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/15/rachel-reeves-brexit-impact-tax-and-spending-budget",
+    "published": "2025-10-15T09:02:47Z",
+    "image_url": "https://i.guim.co.uk/img/media/c068ee22b82762c8ba7cfcc4272eb9aa9ddd3878/2131_1021_1418_1135/master/1418.jpg?width=140&quality=85&auto=format&fit=max&s=7a1259f1ab7d20fc530814ca66fcf3f6",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-219a5f0af4",
+    "source": "Politico — UK",
+    "title": "Russian army hammers Ukraine’s gas system for 3rd time in a week",
+    "summary": "\"Ukrainian gas infrastructure is under heavy pressure from Russian attacks,\" said President Volodymyr Zelenskyy last week.",
+    "url": "https://www.politico.eu/article/russian-army-batters-ukrainian-gas-infrastructure-for-third-time/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-15T09:01:34Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/GettyImages-2239522467-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-39e6251f65",
+    "source": "The Guardian — UK",
+    "title": "Driverless taxis from Waymo will be on London’s roads next year, US firm announces",
+    "summary": "Cars with human safety drivers will appear in coming weeks as permissions are sought for fully autonomous rides Driverless taxis from Waymo will be available for hire on London’s roads next year, the US company has announced. The UK capital will become the first European city to have an autonomous taxi service of the kind now familiar in San Francisco and four other US cities using Waymo’s technology. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2025/oct/15/driverless-taxis-from-waymo-will-be-on-londons-roads-next-year-us-firm-announces",
+    "published": "2025-10-15T09:00:32Z",
+    "image_url": "https://i.guim.co.uk/img/media/69cf1bf49daa7e80b897635f58a11d3f6c90ed84/317_0_3252_2602/master/3252.jpg?width=140&quality=85&auto=format&fit=max&s=e0c1e11481f0a963896e77b2296c1ea0",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ba6e4df92f",
+    "source": "BBC — Top Stories",
+    "title": "'He transformed R&B forever' - Stars pay tribute to D’Angelo, after his death at 51",
+    "summary": "The Grammy-winning singer, who died of cancer, \"transformed R&B forever\", says Beyoncé.",
+    "url": "https://www.bbc.com/news/articles/cwynv40ly4vo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T08:42:29Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9231/live/b2f507a0-a93c-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f3bef36561",
+    "source": "BBC — Top Stories",
+    "title": "Former Kenyan Prime Minister Raila Odinga dies aged 80",
+    "summary": "Odinga died on Wednesday while receiving medical treatment at a hospital in India, family sources tell the BBC.",
+    "url": "https://www.bbc.com/news/articles/c1m39xg4dggo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T08:31:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7e/live/f47bf560-a98e-11f0-8cc1-273230b15f0b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-84f7ee3cc9",
     "source": "The Guardian — UK",
     "title": "Vets could be made to cap prescription prices after UK watchdog investigation",
@@ -12,22 +108,10 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-631f248ec9",
-    "source": "BBC — Top Stories",
-    "title": "Vets must publish prices so pet owners not overcharged, watchdog says",
-    "summary": "Vet prices have risen at nearly twice the rate of inflation, the Competition and Markets Authority found.",
-    "url": "https://www.bbc.com/news/articles/c201r14z6r3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T08:21:35Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce8/live/e3231dd0-a843-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-0d5eea1530",
     "source": "The Guardian — UK",
     "title": "Pressure on Downing Street to release evidence in collapsed China spy case",
-    "summary": "Crown Prosecution Service denies it blocked publication of material and says decision rests with the government Downing Street is under pressure to publish its evidence in the collapsed China spy case after the Crown Prosecution Service (CPS) denied having blocked its release. Keir Starmer is likely to come under scrutiny at prime minister’s questions on Wednesday after the CPS said it was up to the government to release the evidence. Continue reading...",
+    "summary": "Crown Prosecution Service denies it blocked publication of material and says decision rests with the government Downing Street is under pressure to publish its evidence in the collapsed China spy case after the Crown Prosecution Service denied having blocked its release. Keir Starmer is likely to come under scrutiny at prime minister’s questions on Wednesday after the CPS said it was up to the government to release the evidence. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/oct/15/pressure-downing-street-release-evidence-collapsed-china-spy-case",
     "published": "2025-10-15T08:20:58Z",
     "image_url": "https://i.guim.co.uk/img/media/2fbaf52e943e93790082d46570d5ec0cba39fc84/0_0_11811_9449/master/11811.jpg?width=140&quality=85&auto=format&fit=max&s=6462cd7552165f39827fa3063695c2b3",
@@ -43,18 +127,6 @@
     "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/rachel-reeves-tells-sam-to-prepare-for-tax-rises/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-15T07:36:40Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/03/27/PASAA_PODCAST-HERO-16BY9.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-c407fcdf19",
-    "source": "The Guardian — UK",
-    "title": "Royal Mail fined £21m by Ofcom for missing delivery targets",
-    "summary": "Communications regulator finds ‘millions of important letters are arriving late’ and ‘persistent failures’ Royal Mail has been fined £21m for missing its annual first- and second-class mail delivery targets, leading to millions of letters arriving late across the UK, the regulator Ofcom has said. This represents the third-largest fine ever imposed by the UK communications watchdog. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/15/royal-mail-fined-ofcom-missing-delivery-targets",
-    "published": "2025-10-15T07:25:42Z",
-    "image_url": "https://i.guim.co.uk/img/media/6655ded22d6939b229394c3e0a62f3efe05a66f8/894_0_5838_4673/master/5838.jpg?width=140&quality=85&auto=format&fit=max&s=8ef703e3473ae3bc41c07d544cf8bf8f",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -135,7 +207,7 @@
     "id": "BBC — Top Stories-d37c3dc976",
     "source": "BBC — Top Stories",
     "title": "You can't escape, says victim of train sexual offence as reports rise",
-    "summary": "A BBC investigation finds reports of sexual offences on trains rise by more than a third.",
+    "summary": "A BBC investigation reveals a 37% increase in reports of sexual offences across England, Scotland and Wales.",
     "url": "https://www.bbc.com/news/articles/c39r2zp1dw7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-15T05:10:56Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e644/live/e34d5150-a923-11f0-a87a-599d240e4891.png",
@@ -163,18 +235,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/15/digital-id-denmark-estonia-uncontroversial-concerns-security-privacy",
     "published": "2025-10-15T04:01:12Z",
     "image_url": "https://i.guim.co.uk/img/media/4035e7b7eff3d81c9e1f6c60ed048be1af0ed7c4/74_0_1927_1541/master/1927.jpg?width=140&quality=85&auto=format&fit=max&s=c9620d151bae0948dd51d937d839e0a6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-1cd5ab23ec",
-    "source": "The Guardian — UK",
-    "title": "Pupils fear AI is eroding their ability to study, research finds",
-    "summary": "One in four students say AI ‘makes it too easy’ for them to find answers Pupils fear that using artificial intelligence is eroding their ability to study, with many complaining it makes schoolwork “too easy” and others saying it limits their creativity and stops them learning new skills, according to new research. The report on the use of AI in UK schools , commissioned by Oxford University Press (OUP), found that just 2% of students aged between 13 and 18 said they did not use AI for their schoolwork, while 80% said they regularly used it. Continue reading...",
-    "url": "https://www.theguardian.com/technology/2025/oct/15/pupils-fear-ai-eroding-study-ability-research",
-    "published": "2025-10-15T04:00:13Z",
-    "image_url": "https://i.guim.co.uk/img/media/60642396442850806f62b0f907723a563983398b/376_0_4467_3574/master/4467.jpg?width=140&quality=85&auto=format&fit=max&s=ed53a9d84744fe4ecf3e3a88d785cc80",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -276,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-2f8132861c",
-    "source": "BBC — Top Stories",
-    "title": "Government under pressure to release collapsed China spy case evidence",
-    "summary": "Both the Tories and Liberal Democrats are calling on the government to publish evidence it submitted in the now-collapsed case.",
-    "url": "https://www.bbc.com/news/articles/cql9v6x4wpzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T02:00:00Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-2ce57eff21",
     "source": "Politico — UK",
     "title": "EU airs dirty laundry in public as Parliament fights Commission in court",
@@ -348,25 +396,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-256ec77c6d",
-    "source": "BBC — Top Stories",
-    "title": "ChatGPT will soon allow erotica for verified adults, says OpenAI boss",
-    "summary": "CEO Sam Altman says upcoming versions of the popular chatbot would enable it to behave in a more human-like way - \"but only if you want it\".",
-    "url": "https://www.bbc.com/news/articles/cpd2qv58yl5o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T23:19:53Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55e3/live/ab2ee790-a949-11f0-9ed6-59ec7d3b0c12.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-10137290ae",
     "source": "BBC — Top Stories",
     "title": "AI couldn't picture a woman like me - until now",
     "summary": "Paralympic swimmer Jess Smith, says representation means being seen as part of the AI world that's being built.",
     "url": "https://www.bbc.com/news/articles/cj07ley3jnpo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-14T23:14:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d08/live/ebc436e0-a44c-11f0-8a21-ff96e44d1cc2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df45/live/ca483340-a9a6-11f0-809b-f3c591e90d81.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -396,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-cb087fc5f9",
-    "source": "Politico — UK",
-    "title": "Italy seeks over €4B from banks as draft budget gains approval",
-    "summary": "Lenders and leaders have yet to decide on how the banks will be taxed, but those to Meloni's right won't let up.",
-    "url": "https://www.politico.eu/article/italy-budget-gains-giancarlo-giorgetti-finance-approvals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-14T21:54:18Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/GettyImages-2224594915-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-2ec7227c9a",
     "source": "The Guardian — UK",
     "title": "Border failings in Europe are eroding trust in nation states, warns Mahmood",
@@ -432,13 +456,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-6b082bfc1f",
-    "source": "The Guardian — UK",
-    "title": "Asylum seeker accused of killing Walsall hotel worker seen ‘clearly excited’ after attack, jury told",
-    "summary": "Rhiannon Skye Whyte, 27, was stabbed 23 times with a screwdriver after shift at hotel where Deng Chol Majek lived An asylum seeker accused of stabbing a hotel worker 23 times with a screwdriver and leaving her to die was seen dancing and laughing in the aftermath of the attack, a murder trial jury has heard. Deng Chol Majek, who claims to be 19, was “clearly excited about what he had done” after inflicting fatal wounds on Rhiannon Skye Whyte, who worked in the hotel where he was living, Wolverhampton crown court heard. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/14/walsall-rhiannon-whyte-murder-trial-deng-chol-majek-wolverhampton-crown-court",
-    "published": "2025-10-14T18:35:18Z",
-    "image_url": "https://i.guim.co.uk/img/media/46cfb27bfcea36f35b912fabaee1caca41e0825d/0_41_388_310/master/388.jpg?width=140&quality=85&auto=format&fit=max&s=d429fee0a38e56c820bfc7d91507c321",
+    "id": "BBC — Top Stories-4f6f0f2b74",
+    "source": "BBC — Top Stories",
+    "title": "Migrants will need A-level standard English to work in UK",
+    "summary": "The tougher rules will come in force in January as part of wider plans to cut immigration.",
+    "url": "https://www.bbc.com/news/articles/c8679q0pe57o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T18:10:29Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fde/live/5730d520-a919-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -499,30 +523,6 @@
     "url": "https://www.theguardian.com/environment/2025/oct/14/ed-miliband-approves-uk-biggest-solar-farm-at-lincolnshire-site",
     "published": "2025-10-14T15:25:12Z",
     "image_url": "https://i.guim.co.uk/img/media/6134fbd38da3233c66bbfcad35ff8215465e8021/588_0_3412_2729/master/3412.jpg?width=140&quality=85&auto=format&fit=max&s=a87664246e65894382c695c609dd6157",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3b27d0231f",
-    "source": "BBC — Top Stories",
-    "title": "24 hours with Trump on diplomatic tornado through Middle East",
-    "summary": "The US president's single-day tour was a victory lap rather than an exercise in setting out detail, writes the BBC's Tom Bateman.",
-    "url": "https://www.bbc.com/news/articles/c93xprvdy23o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T15:08:41Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/720d/live/b78262e0-a987-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-dd4f1cac44",
-    "source": "The Guardian — UK",
-    "title": "Former lord speaker faces suspension for ‘improper influence’ over speeding offence",
-    "summary": "Frances D’Souza wrote to Met commissioner in apparent attempt to evade sanction for exceeding 20mph speed limit Former lord speaker Frances D’Souza is facing suspension from the Lords after writing to the Metropolitan police commissioner to try to “influence a police investigation into alleged speeding offences”. Lady D’Souza wrote to Mark Rowley saying she feared she would have to give up attending parliament if she were banned from driving for exceeding the limit in a 20mph zone. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/14/former-lord-speaker-frances-dsouza-faces-suspension-improper-influence-speeding-offence",
-    "published": "2025-10-14T15:06:04Z",
-    "image_url": "https://i.guim.co.uk/img/media/6d3c0dd93de59f1aef4d7bae7ee9c2a6f7244938/292_0_2916_2333/master/2916.jpg?width=140&quality=85&auto=format&fit=max&s=d6edf43bafcea523ff83ccab68e16310",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
