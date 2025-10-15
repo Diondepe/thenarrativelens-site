@@ -1,12 +1,12 @@
 [
   {
-    "id": "BBC — Top Stories-ec8cbc142f",
+    "id": "BBC — Top Stories-84ae782123",
     "source": "BBC — Top Stories",
-    "title": "The Papers: 'Israel cuts aid to Gaza' and 'Reeves blow as prices rise'",
-    "summary": "Several of the papers on Wednesday lead on a report from the International Monetary Fund.",
-    "url": "https://www.bbc.com/news/articles/cvgkdw32x08o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T00:32:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/357e/live/68beb100-a954-11f0-92db-77261a15b9d2.png",
+    "title": "Red Tractor ad banned for misleading environmental claims",
+    "summary": "The Advertising Standards Authority upheld a complaint by environment charity River Action.",
+    "url": "https://www.bbc.com/news/articles/cx2lmnvj3n5o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T02:40:44Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad99/live/38b93b50-a8f6-11f0-a33c-d7bc21b91844.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -17,8 +17,116 @@
     "title": "Hamas returns four more bodies of hostages, Israeli military says",
     "summary": "Israel warns it will restrict aid convoys into Gaza because of delays returning the remaining bodies.",
     "url": "https://www.bbc.com/news/articles/ced60125zyqo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T00:15:28Z",
+    "published": "2025-10-15T02:15:38Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66ef/live/c6334f40-a94e-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-4cbc7f45bf",
+    "source": "Politico — UK",
+    "title": "EU can cut red tape without bowing to Trump, says Denmark",
+    "summary": "Brussels should stand firm against Washington while seizing the moment to advance its own rule-cutting reforms, Danish foreign minister tells POLITICO.",
+    "url": "https://www.politico.eu/article/eu-can-cut-red-tape-without-bowing-to-us-donald-trump-says-denmark-lars-lokke-rasmussen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-15T02:10:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/13367305-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-00bba6b56e",
+    "source": "Politico — UK",
+    "title": "NATO weighs options to sew up ‘patchwork’ air defenses",
+    "summary": "Mounting drone incursions are sparking a debate on national rules that some see as limiting NATO’s top military officer.",
+    "url": "https://www.politico.eu/article/nato-weighs-options-to-sew-up-patchwork-air-defenses/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-15T02:10:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/13371559-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-c52f689f7e",
+    "source": "Politico — UK",
+    "title": "Inside Britain’s broken justice machine",
+    "summary": "Leaky ceilings, mounting backlogs and burned-out barristers — can the government fix the courts?",
+    "url": "https://www.politico.eu/article/inside-britain-broken-justice-machine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-15T02:01:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/13272544-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-8838534951",
+    "source": "The Guardian — UK",
+    "title": "Inside the mystery of the collapsed Chinese spy trial – podcast",
+    "summary": "Questions mount over collapse of trial of teacher and parliamentary researcher accused of spying for China. Dan Sabbagh reports It had all the makings of a pulpy political thriller. For years, British intelligence had been warning about the growing threat of Chinese influence, from political interference to suspected espionage. Then in 2023, two young British men – a parliamentary researcher and a teacher in China – were arrested and accused of spying for China. The headlines were dramatic. But days before the trial was due to begin, the entire case collapsed. Dan Sabbagh, the Guardian’s defence and security editor, was shocked. “I was absolutely gobsmacked,” he tells Nosheen Iqbal. Continue reading...",
+    "url": "https://www.theguardian.com/news/audio/2025/oct/15/inside-the-mystery-of-the-collapsed-chinese-spy-trial-podcast",
+    "published": "2025-10-15T02:00:10Z",
+    "image_url": "https://i.guim.co.uk/img/media/200b95f5770a95dd9fdf8c1ce1a84c625728aaef/676_0_6138_4913/master/6138.jpg?width=140&quality=85&auto=format&fit=max&s=e00a7395c180e4578788bf7756e8c0be",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-2f8132861c",
+    "source": "BBC — Top Stories",
+    "title": "Government under pressure to release collapsed China spy case evidence",
+    "summary": "Both the Tories and Liberal Democrats are calling on the government to publish evidence it submitted in the now-collapsed case.",
+    "url": "https://www.bbc.com/news/articles/cql9v6x4wpzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T02:00:00Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-2ce57eff21",
+    "source": "Politico — UK",
+    "title": "EU airs dirty laundry in public as Parliament fights Commission in court",
+    "summary": "The case, which focuses on the unfreezing of funds to Hungary, raises questions about the function of the EU budget, lawyers say.",
+    "url": "https://www.politico.eu/article/eu-parliament-commission-court-funds-ukraine-cpr/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-15T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/GettyImages-2232795081-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-cf14e00df8",
+    "source": "Politico — UK",
+    "title": "Europe must complete the single market by 2028",
+    "summary": "This deadline shouldn't be seen as a slogan — it’s a contract with Europeans who want results, not reassurances. And leaders must treat it as such.",
+    "url": "https://www.politico.eu/article/europe-market-2028-law-finance/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-15T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/GettyImages-2221768575.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-a71965cdd9",
+    "source": "Politico — UK",
+    "title": "EU countries clash over how to share migration load",
+    "summary": "Many governments want to pay rather than take in more asylum-seekers.",
+    "url": "https://www.politico.eu/article/eu-countries-migration-law-european-commission-funding-migrants/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-15T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/GettyImages-2235724169-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ec8cbc142f",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'Israel cuts aid to Gaza' and 'Reeves blow as prices rise'",
+    "summary": "Several of the papers on Wednesday lead on a report from the International Monetary Fund.",
+    "url": "https://www.bbc.com/news/articles/cvgkdw32x08o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T00:32:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/357e/live/68beb100-a954-11f0-92db-77261a15b9d2.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -72,6 +180,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-d37c3dc976",
+    "source": "BBC — Top Stories",
+    "title": "I felt trapped, says victim of train sexual offence as reports rise",
+    "summary": "A BBC investigation finds reports of sexual offences on trains rise by more than a third.",
+    "url": "https://www.bbc.com/news/articles/c39r2zp1dw7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T22:00:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e644/live/e34d5150-a923-11f0-a87a-599d240e4891.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-cb087fc5f9",
     "source": "Politico — UK",
     "title": "Italy seeks over €4B from banks as draft budget gains approval",
@@ -108,18 +228,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-fad022455f",
-    "source": "BBC — Top Stories",
-    "title": "Asylum seeker laughed after killing woman, jury told",
-    "summary": "The jury in the trial of Deng Majek is shown CCTV and told he carried out a \"vicious and frenzied attack\".",
-    "url": "https://www.bbc.com/news/articles/cwy902djzv2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T21:02:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88b8/live/a00ccce0-a8f6-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-92f207b795",
     "source": "Politico — UK",
     "title": "Trump to Spain: Spend more on defense or face ‘punishment’ tariffs",
@@ -132,6 +240,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-43eb417a46",
+    "source": "BBC — Top Stories",
+    "title": "The players with points to prove as England reach World Cup",
+    "summary": "England have qualified for next summer's World Cup, but who are the players who must still prove they deserve a spot in Thomas Tuchel's squad?",
+    "url": "https://www.bbc.com/sport/football/articles/c986588n805o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T20:40:16Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b9f/live/9369dac0-a8f4-11f0-a33c-d7bc21b91844.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-8e958ef540",
     "source": "Politico — UK",
     "title": "Trump threatens to disarm Hamas ‘quickly, and perhaps violently’ as ceasefire wobbles",
@@ -139,18 +259,6 @@
     "url": "https://www.politico.eu/article/us-donald-trump-threatens-to-disarm-hamas-quickly-and-perhaps-violently-israel-ceasefire-wobbles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-14T19:41:48Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/13428814-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-73b5c2b532",
-    "source": "BBC — Top Stories",
-    "title": "UK will be second-fastest-growing G7 economy, IMF says, but faces higher inflation",
-    "summary": "But the UK is also predicted to suffer the highest rate of inflation in the G7 both this year and next.",
-    "url": "https://www.bbc.com/news/articles/cn092p27xn0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T19:26:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c9/live/594f9870-a903-11f0-928c-71dbb8619e94.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -252,30 +360,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-79b4d250ca",
-    "source": "Politico — UK",
-    "title": "Trump’s Gaza deal won’t end Starmer’s trouble with the left",
-    "summary": "Labour MPs hope Trump's ceasefire deal will lower the political temperature in the U.K.",
-    "url": "https://www.politico.eu/article/trump-gaza-deal-wont-end-starmer-trouble-with-left-uk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-14T16:41:21Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/trump-starmer-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-1beab172e0",
-    "source": "Politico — UK",
-    "title": "Top German MPs call to lift weapons export ban on Israel",
-    "summary": "Germany partially suspended arms exports to Israel in August.",
-    "url": "https://www.politico.eu/article/top-german-government-officials-lift-weapons-export-israel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-14T16:38:22Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/GettyImages-2240465043-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-4bc128a691",
     "source": "The Guardian — UK",
     "title": "UK faces highest inflation in G7 this year and next, IMF warns",
@@ -319,18 +403,6 @@
     "url": "https://www.theguardian.com/politics/live/2025/oct/14/keir-starmer-china-national-security-spying-gaza-nigel-farage-uk-politics-live-news-updates",
     "published": "2025-10-14T16:21:12Z",
     "image_url": "https://i.guim.co.uk/img/media/a62e2bee5a65addf5e2afa8e22f90a0f32212ab2/388_2_1151_921/master/1151.jpg?width=140&quality=85&auto=format&fit=max&s=efc83e2113d8c04c101e9b89cb41b66a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-161383674c",
-    "source": "BBC — Top Stories",
-    "title": "Peer faces Lords ban for raising speeding fines with police chief",
-    "summary": "Ex-Lords speaker Baroness D'Souza complained to Sir Mark Rowley she could lose her licence after a speeding fine.",
-    "url": "https://www.bbc.com/news/articles/c5y4558r5gko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T16:20:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe10/live/beb55400-a914-11f0-b5e8-25b94b51d777.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -408,54 +480,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-9cf4dd65e7",
-    "source": "Politico — UK",
-    "title": "Russia blasts ‘freaks’ at Time magazine over cover that Trump hated",
-    "summary": "“Only unhealthy people\" could have chosen the photo Time used, Foreign Ministry spokesperson Maria Zakharova fumes.",
-    "url": "https://www.politico.eu/article/russia-slams-freaks-time-magazine-donald-trump-cover-photo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-14T14:48:35Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/GettyImages-2235010425-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-e4490f84e3",
-    "source": "Politico — UK",
-    "title": "Update: Junger Widerstand gegen die Rentenreform",
-    "summary": "Friedrich Merz will die große Rentenreform, doch in der eigenen Fraktion formiert sich Widerstand. Die „Junge Gruppe“ der Union lehnt einen Teil der Pläne von Arbeitsministerin Bärbel Bas ab und droht, die knappe Koalitionsmehrheit zu verweigern. Rixa Fürsen und Rasmus Buchsteiner analysieren den Generationenkonflikt in der Union und wie die SPD darauf schaut. Das Berlin […]",
-    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/update-junger-widerstand-gegen-die-rentenreform/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-14T14:44:52Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/07/23/Berlin-Playbook-Website-Card57.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-348515e111",
-    "source": "Politico — UK",
-    "title": "Police clash with protesters as huge strike rocks Brussels",
-    "summary": "Tens of thousands came to the Belgian capital to march against austerity measures and other controversial government policies.",
-    "url": "https://www.politico.eu/article/police-clash-with-protesters-huge-strikes-rock-brussels-belgium/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-14T14:13:50Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/1A3A8461-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-bb56aefe38",
-    "source": "BBC — Top Stories",
-    "title": "'No other woman can play like she can': The rise of darts star who beat Luke Littler",
-    "summary": "The spotlight is on Beau Greaves after her landmark win over Luke Littler on Monday, but who is the 21-year-old from Doncaster?",
-    "url": "https://www.bbc.com/sport/darts/articles/cy5qy49d04yo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T13:53:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1608/live/e8444cd0-a90b-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-bf658dc3d8",
     "source": "The Guardian — UK",
     "title": "Anonymity for firearms officers will harm public confidence, Shabana Mahmood told",
@@ -463,18 +487,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/14/anonymity-firearms-officers-harm-public-confidence-shabana-mahmood-told",
     "published": "2025-10-14T13:40:58Z",
     "image_url": "https://i.guim.co.uk/img/media/2db5b88fda70110e6355dbf302556d18c5c99dbf/140_0_2363_1890/master/2363.jpg?width=140&quality=85&auto=format&fit=max&s=9710427e478b2368b28e38c85ea24251",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-cb628ec782",
-    "source": "Politico — UK",
-    "title": "Macron finally admits he (maybe) got it wrong on pensions",
-    "summary": "The French president makes a desperate bid to save his fragile latest government.",
-    "url": "https://www.politico.eu/article/france-pm-lecornu-freeze-retirement-reform-bid-save-government-socialist/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-14T13:29:58Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/13268974-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -583,18 +595,6 @@
     "url": "https://www.theguardian.com/politics/audio/2025/oct/13/gaza-ceasefire-what-is-the-uk-role-podcast",
     "published": "2025-10-13T15:16:05Z",
     "image_url": "https://i.guim.co.uk/img/media/f4ef30188e9ddfc96fcc90b0ae86912571c8460a/0_204_5498_4398/master/5498.jpg?width=140&quality=85&auto=format&fit=max&s=d377243f4ee9b91ad2157c70bf9dc563",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-b385f86010",
-    "source": "The Guardian — UK",
-    "title": "Labour’s Bridget Phillipson on Gaza, child poverty and the deputy leadership race – podcast",
-    "summary": "Pippa Crerar and Kiran Stacey speak to the education secretary and Labour deputy leadership candidate Bridget Phillipson about the plan for a ceasefire in Gaza, as well as why she is pushing the prime minister and chancellor to get rid of the two-child limit on benefits. Plus, she explains why she believes she is the best candidate to become the next deputy leader of the Labour party. And, we hear her thoughts on Keir Starmer’s leadership and how Labour should take on Nigel Farage and the rise of Reform Continue reading...",
-    "url": "https://www.theguardian.com/politics/audio/2025/oct/09/labour-bridget-phillipson-on-gaza-child-poverty-and-the-deputy-leadership-race-podcast",
-    "published": "2025-10-09T16:24:42Z",
-    "image_url": "https://i.guim.co.uk/img/media/29b19e196ba7bcf1de656ebb756fcececc4b9bb0/5_1388_3165_2532/master/3165.jpg?width=140&quality=85&auto=format&fit=max&s=a1b9e4abde33fe67c6d17507d2e7bdc9",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
