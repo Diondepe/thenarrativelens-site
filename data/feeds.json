@@ -1,12 +1,84 @@
 [
   {
+    "id": "The Guardian — UK-7e2f11c5a4",
+    "source": "The Guardian — UK",
+    "title": "Launch of veteran card will be used to test UK government’s digital ID scheme",
+    "summary": "Ministers hope scheme for 1.8 million people will show how technology works and ease privacy and security concerns Former military personnel will be used to test and refine the government’s divisive digital ID scheme from Friday, when ministers make a smartphone-based veteran card available to 1.8 million people. The proof of service, which in its current physical version gives access to charities, retail discounts and certain public services, will be the first of a series of official credentials the government wants to let people carry in a government app. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2025/oct/17/launch-of-veteran-card-will-be-used-to-test-uk-governments-digital-id-scheme",
+    "published": "2025-10-16T23:01:55Z",
+    "image_url": "https://i.guim.co.uk/img/media/7391fbf864eb4aeb3abf730b30f0f4a6d2c63c31/1060_0_3571_2858/master/3571.jpg?width=140&quality=85&auto=format&fit=max&s=b00fceaf6cbd47301a24d3cbe8f974dc",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-b33916c7b1",
+    "source": "The Guardian — UK",
+    "title": "Banks need stricter controls to prevent romance fraud, says City regulator",
+    "summary": "FCA cites study showing victims’ ‘red flags’ are often missed and calls for improved monitoring systems The City regulator has called on banks and payment firms to bring in stricter controls protecting customers from romance fraud after a study showed a number of missed “red flags” that led to people losing huge sums of money. The review by the Financial Conduct Authority (FCA) highlighted one case where someone lost £428,000, another where a customer made 403 payments totalling £72,000 to a fraudster and a case where someone wanted money to transfer cryptocurrency to their “partner” in Iraq. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2025/oct/17/banks-need-stricter-controls-to-prevent-romance-says-city-regulator",
+    "published": "2025-10-16T23:01:55Z",
+    "image_url": "https://i.guim.co.uk/img/media/24caabe275f63d95a04c05e01a388c36e2a37888/0_0_2058_1648/master/2058.jpg?width=140&quality=85&auto=format&fit=max&s=9febf89fa0bd9a77520e5a3275774c46",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-11c6ed7804",
+    "source": "BBC — Top Stories",
+    "title": "Reeves plans 'targeted action' on bills in Budget",
+    "summary": "The chancellor is planning moves to help households with the cost of living in the Budget.",
+    "url": "https://www.bbc.com/news/articles/c8eykkgdze5o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T23:01:43Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a818/live/0e3e46d0-aaaa-11f0-ba75-093eca1ac29b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0189a78b23",
+    "source": "BBC — Top Stories",
+    "title": "KISS founding guitarist Ace Frehley dies aged 74",
+    "summary": "The member of the US rock band, known for his Spaceman persona, died surrounded by his family.",
+    "url": "https://www.bbc.com/news/articles/cj41vwgv47no?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T22:50:22Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83dd/live/dfa0d0e0-aae0-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-8f6b40a2b2",
     "source": "BBC — Top Stories",
     "title": "Strange shrieks as tensions rise in Celebrity Traitors",
     "summary": "For many social media users, it was the subtitles that stole the show.",
     "url": "https://www.bbc.com/news/articles/cjr04nwnq57o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T22:13:48Z",
+    "published": "2025-10-16T22:25:52Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/251b/live/1f6655a0-aadd-11f0-881b-d76376cce4d0.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-44ef36089c",
+    "source": "BBC — Top Stories",
+    "title": "Housing designed to combat loneliness wins top architecture award",
+    "summary": "Appleby Blue Almshouse in London wins the Royal Institute of British Architects' Stirling Prize.",
+    "url": "https://www.bbc.com/news/articles/c4gwlz6k96no?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T22:13:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de6/live/2924c200-a909-11f0-b741-177e3e2c2fc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-b3be7d55f4",
+    "source": "The Guardian — UK",
+    "title": "Man accused of killing Georgina Ward in 2020 appears in Dudley court",
+    "summary": "Daniel Birtwistle, 39, faces trial for manslaughter of 24-year-old tattoo artist and other charges including assault A man has appeared in court charged with manslaughter, assault and coercive and controlling behaviour. Daniel Birtwistle, 39, from Tamworth, Staffordshire, appeared by video link at Dudley magistrates court on Thursday morning, where he spoke only to confirm his name and date of birth. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/16/man-accused-of-killing-georgina-ward-in-2020-appears-in-dudley-court",
+    "published": "2025-10-16T22:08:21Z",
+    "image_url": "https://i.guim.co.uk/img/media/7aab3982d531456e52823b31504af26f3ba1fef8/0_106_1487_1190/master/1487.jpg?width=140&quality=85&auto=format&fit=max&s=ff77d15d2a34e228f172b42f89c4d5fa",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -14,11 +86,11 @@
   {
     "id": "BBC — Top Stories-5850591d0c",
     "source": "BBC — Top Stories",
-    "title": "Sam Fender wins the 2025 Mercury Prize",
-    "summary": "The rock star won for his third album as the ceremony took place in his home town.",
+    "title": "Sam Fender wins 2025 Mercury Prize for album of the year",
+    "summary": "\"I didn't think that was going to happen at all,\" the star says, as judges laud his \"classic\" album.",
     "url": "https://www.bbc.com/news/articles/cp3dnjd9g4go?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T22:00:10Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fd6/live/a5a6b0d0-aadb-11f0-ad2d-d573169134c8.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c45/live/8e5e9100-aada-11f0-ba75-093eca1ac29b.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -240,54 +312,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-4007d2325d",
-    "source": "The Guardian — UK",
-    "title": "Starmer orders NHS antisemitism review after ‘clear cases not dealt with adequately’",
-    "summary": "Prime minister also announces £10m funding to provide security for Jewish amenities, including synagogues and schools UK politics live – latest updates Keir Starmer has ordered a review of antisemitism in the NHS, saying “clear cases” are not being dealt with adequately. The prime minister said John Mann, the government’s independent adviser on antisemitism, would lead the review as part of a wider crackdown on antisemitism in the UK. Continue reading...",
-    "url": "https://www.theguardian.com/news/2025/oct/16/starmer-orders-nhs-antisemitism-review-after-clear-cases-not-dealt-with",
-    "published": "2025-10-16T16:52:59Z",
-    "image_url": "https://i.guim.co.uk/img/media/ec51de10e71d54a7a2323a05241d5886ad831ed4/507_0_4172_3337/master/4172.jpg?width=140&quality=85&auto=format&fit=max&s=9ed37ead822d82e9f29f10520214df01",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-6a5ffa62e8",
-    "source": "The Guardian — UK",
-    "title": "Timely arrival: Great British Railways clock launches at London Bridge",
-    "summary": "Digital timepiece is UK rail’s first national clock in more than 50 years and will be seen at stations across the country Commuters rushing through London Bridge station may have missed it, but on Thursday morning a new era in railway timekeeping and design was looming above them: a 1.8-metre-high digital timepiece, hanging above the concourse, the first physical manifestation of the Great British Railways ’ signature station clock. The design, the first such for more than 50 years, will appear in digital form on electronic information boards at stations across Britain. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/16/great-british-railways-clock-launches-london-bridge",
-    "published": "2025-10-16T16:51:18Z",
-    "image_url": "https://i.guim.co.uk/img/media/775abeb8937b3468d5b19c0a79de578571b089e8/457_0_5028_4023/master/5028.jpg?width=140&quality=85&auto=format&fit=max&s=6191cdbff8e479e3343d1045c779dae4",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-ec16754307",
-    "source": "The Guardian — UK",
-    "title": "Brace for early flu season in England and get vaccinated, say experts",
-    "summary": "Rise in flu levels being driven by cases among children and young people, say public health leaders The flu season could be coming early this year, public health experts in England have said, adding that those who are eligible for a free vaccination should take up their offer. According to the UK Health Security Agency (UKHSA), an increase in flu levels in England is being driven by cases among younger adults and schoolchildren. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/oct/16/brace-for-early-flu-season-in-england-and-get-vaccinated-say-experts",
-    "published": "2025-10-16T16:43:19Z",
-    "image_url": "https://i.guim.co.uk/img/media/b4f608ce6aa5988d671fdbea3f82f30a58485513/946_0_6261_5008/master/6261.jpg?width=140&quality=85&auto=format&fit=max&s=6a90dd03e65f77d037baa1e65ee6a1db",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-66e903ef58",
-    "source": "BBC — Top Stories",
-    "title": "EU sets 2027 target for anti-drone system to defend against Russia",
-    "summary": "It is part of a new drive for the 27-member European Union to be ready for conflict by 2030.",
-    "url": "https://www.bbc.com/news/articles/c4gz2ppye5zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T16:19:23Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0695/live/45bd6050-aaa5-11f0-b533-114b7c628ce7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-0fd854fcb5",
     "source": "The Guardian — UK",
     "title": "No 10 says Badenoch’s claim PM should have intervened to stop China spy trial collapsing ‘absurd’ – as it happened",
@@ -396,18 +420,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-11c6ed7804",
-    "source": "BBC — Top Stories",
-    "title": "Reeves plans 'targeted action' on bills in Budget",
-    "summary": "The chancellor is planning moves to help households with the cost of living in the Budget.",
-    "url": "https://www.bbc.com/news/articles/c8eykkgdze5o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T14:56:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a818/live/0e3e46d0-aaaa-11f0-ba75-093eca1ac29b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-7be36c5258",
     "source": "The Guardian — UK",
     "title": "UK economy expands as GDP rises by 0.1% in August ahead of crucial budget",
@@ -463,18 +475,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/16/ministers-begin-charm-offensive-to-win-over-labour-mps-sceptical-of-digital-id-plans",
     "published": "2025-10-16T14:14:18Z",
     "image_url": "https://i.guim.co.uk/img/media/06d92341c681c5c3b23c3fa38a82cb200c4dfdc9/153_0_1930_1545/master/1930.jpg?width=140&quality=85&auto=format&fit=max&s=62900829781c7abde38c64e418e91e29",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b76c519833",
-    "source": "BBC — Top Stories",
-    "title": "Manchester Pride headliner 'yet to be paid for performance'",
-    "summary": "Suppliers also say they have been met with silence when they contact organisers to ask for payment.",
-    "url": "https://www.bbc.com/news/articles/cpq1ddje202o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T14:08:14Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9e3/live/87a23180-aa73-11f0-9c75-5fce1bce10a4.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
