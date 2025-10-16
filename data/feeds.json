@@ -1,12 +1,144 @@
 [
   {
+    "id": "BBC — Top Stories-e9fd1afdbd",
+    "source": "BBC — Top Stories",
+    "title": "Decision on China mega embassy in London delayed again",
+    "summary": "The proposed complex would be the biggest embassy in Europe if it goes ahead - but it has generated controversy.",
+    "url": "https://www.bbc.com/news/articles/cr7mn28drz8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T16:19:20Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7769/live/3ad037b0-aaa7-11f0-b533-114b7c628ce7.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-71d77a4e08",
+    "source": "BBC — Top Stories",
+    "title": "Kenya police fire shots at crowds gathered to see body of ex-PM Odinga",
+    "summary": "The crowds were so big that the public viewing was moved from the parliament building to a stadium.",
+    "url": "https://www.bbc.com/news/articles/cwyk1l65nqvo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T16:16:47Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ad6/live/7856fec0-aa9d-11f0-b13f-1d91fccb7d93.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-734ce86e96",
+    "source": "Politico — UK",
+    "title": "Lithuanian PM accuses defense minister of using influencers to lobby for bigger budget",
+    "summary": "Defense minister calls it a \"misunderstanding,\" saying \"we are all on the same team.\"",
+    "url": "https://www.politico.eu/article/lithuania-pm-inga-ruginiene-accuses-defense-minister-using-influencers-lobby-bigger-budget/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-16T16:06:52Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/GettyImages-2231465253-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-07e8204786",
+    "source": "The Guardian — UK",
+    "title": "Woman who travelled with husband to assisted dying clinic will not face charges",
+    "summary": "Louise Shackleton says she faced ‘excruciating pressure’ after CPS decides prosecution not in public interest A woman who accompanied her husband to an assisted dying clinic in Switzerland has been told she will not face charges. Louise Shackleton, 59, handed herself in to police on return from Dignitas after her husband’s death last December. North Yorkshire police said this week that although the Crown Prosecution Service concluded there was evidence of assisted suicide, it was not in the public interest to prosecute her. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/oct/16/woman-who-travelled-with-husband-to-assisted-dying-clinic-will-not-face-charges",
+    "published": "2025-10-16T16:04:10Z",
+    "image_url": "https://i.guim.co.uk/img/media/40c2475c76308d1f015775f3390a6285eec2cc86/0_132_3236_2588/master/3236.jpg?width=140&quality=85&auto=format&fit=max&s=6855e36f5eeac80a72f3f3d7d8f9f69d",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-6a5ffa62e8",
+    "source": "The Guardian — UK",
+    "title": "Timely arrival: Great British Railways clock launches at London Bridge",
+    "summary": "Digital timepiece is UK rail’s first national clock in more than 50 years and will be seen at stations across the country Commuters rushing through London Bridge station on Thursday morning may have missed it, but a new era in railway timekeeping and design was looming above them: a 1.8-metre-high digital timepiece, hanging above the concourse, the first physical manifestation of what will be Great British Railways ’ signature station clock. The design, the first such for more than 50 years, will appear in digital form on electronic information boards at stations across the country. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/16/great-british-railways-clock-launches-london-bridge",
+    "published": "2025-10-16T15:58:47Z",
+    "image_url": "https://i.guim.co.uk/img/media/775abeb8937b3468d5b19c0a79de578571b089e8/457_0_5028_4023/master/5028.jpg?width=140&quality=85&auto=format&fit=max&s=6191cdbff8e479e3343d1045c779dae4",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-90b551a341",
+    "source": "Politico — UK",
+    "title": "Montenegro asks EU for help fighting Russian meddling",
+    "summary": "Balkan country's president says disinformation is a \"daily\" battle.",
+    "url": "https://www.politico.eu/article/montenegro-eu-help-fighting-russian-meddling/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-16T15:58:30Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/13042732-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-0fd854fcb5",
     "source": "The Guardian — UK",
     "title": "No 10 says Badenoch’s claim PM should have intervened to stop China spy trial collapsing ‘absurd’ – UK politics live",
     "summary": "Downing Street says had Starmer intervened he would have been interfering in a case related to a previous government Ward says that “no minister or special adviser played any role in the provision of evidence” under this government. He says he cannot say if that was the case under the last government. There is a lot of jeering at this. The Speaker, Lindsay Hoyle , reprimands Tom Tugendhat for his interruption. Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/oct/16/china-spy-case-cps-keir-starmer-uk-politics-latest-news-updates",
-    "published": "2025-10-16T15:04:23Z",
+    "published": "2025-10-16T15:58:12Z",
     "image_url": "https://i.guim.co.uk/img/media/d531e71f36df851b9482ec86e79bd6053562df55/350_0_4118_3294/master/4118.jpg?width=140&quality=85&auto=format&fit=max&s=b948fd612f7a2cda4548be541a7d94ce",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-d65d7fbf20",
+    "source": "The Guardian — UK",
+    "title": "Farage urged to explain anti-abortion links to meeting with Trump officials",
+    "summary": "Lib Dems accuse Reform leader of wanting to water down women’s rights after reports of help from advocacy group Nigel Farage has been urged to explain why a US anti-abortion advocacy group helped arrange a meeting in London with Trump administration officials and diplomats. The meeting, first reported by the New York Times , took place in March between Farage and a delegation from Trump’s state department, which it said was overseen by the US embassy and brokered by the Alliance Defending Freedom (ADF) group. The meeting was said to have discussed abortion rights, free speech and online safety laws. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/16/farage-urged-to-explain-anti-abortion-links-to-meeting-with-trump-officials",
+    "published": "2025-10-16T15:57:42Z",
+    "image_url": "https://i.guim.co.uk/img/media/d8c81edbcb2539a14e4cd3f7e7a69fb43a939356/141_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=1c442a86e7df00e81b64cdcd208d0740",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-b9fa783566",
+    "source": "BBC — Top Stories",
+    "title": "What was alleged against Christopher Cash and Christopher Berry in China spy case?",
+    "summary": "The two were accused of passing information to an agent who forwarded it to a high-ranking Chinese official.",
+    "url": "https://www.bbc.com/news/articles/cpd2vxzpgl7o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T15:54:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66e3/live/8b3e26b0-aaa4-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-b3be7d55f4",
+    "source": "The Guardian — UK",
+    "title": "Man accused of killing Georgina Ward in 2020 appears in Dudley court",
+    "summary": "Daniel Birtwistle, 39, faces trial for manslaughter of 24-year-old tattoo artist and other charges including assault A man has appeared in court charged with manslaughter, assault and coercive and controlling behaviour. Daniel Birtwistle, 39, from Tamworth, Staffordshire, appeared by video link at Dudley magistrates court on Thursday morning, where he spoke only to confirm his name and date of birth. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/16/man-accused-of-killing-georgina-ward-in-2020-appears-in-dudley-court",
+    "published": "2025-10-16T15:48:42Z",
+    "image_url": "https://i.guim.co.uk/img/media/f2e3d3333a8134cdf8a744c14e0ec424a7e0d6d3/0_510_1844_1473/master/1844.jpg?width=140&quality=85&auto=format&fit=max&s=9e3f7de543695b4d75c7696f30ff75b4",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-cd21066fb3",
+    "source": "BBC — Top Stories",
+    "title": "Major UK rare earths refinery scrapped in favour of US",
+    "summary": "The project would have given the UK a strategic foothold in the rare earths industry.",
+    "url": "https://www.bbc.com/news/articles/czxnv7y03nno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T15:32:05Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c79/live/6105cc50-aa9e-11f0-80a3-d7eda8235a25.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f098e3c796",
+    "source": "BBC — Top Stories",
+    "title": "MI5 chief says China is daily threat to UK and voices frustration over spy case collapse",
+    "summary": "Sir Ken McCallum says the Security Service acted against Chinese activity in the last week, as a parliamentary inquiry is launched into the spy case.",
+    "url": "https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T15:24:39Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e5/live/61a91ac0-aaaa-11f0-aa13-0b0479f6f42a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -24,25 +156,25 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-3d0a13a57c",
+    "source": "BBC — Top Stories",
+    "title": "Rating Raducanu's season - and what does future hold?",
+    "summary": "BBC tennis correspondent Russell Fuller looks at how Emma Raducanu's 2025 season went - and what the future could hold.",
+    "url": "https://www.bbc.com/sport/tennis/articles/cp975ld0x58o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T15:01:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3ec/live/d7b4d930-aa04-11f0-ba75-093eca1ac29b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-11c6ed7804",
     "source": "BBC — Top Stories",
     "title": "Reeves plans 'targeted action' on bills in Budget",
     "summary": "The chancellor is planning moves to help households with the cost of living in the Budget.",
     "url": "https://www.bbc.com/news/articles/c8eykkgdze5o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T14:56:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/744d/live/8b7c26a0-aa8f-11f0-978a-a301e44bcdc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e9fd1afdbd",
-    "source": "BBC — Top Stories",
-    "title": "Decision on China mega embassy site delayed again",
-    "summary": "It is the second time the government has delayed a decision on the proposed site in central London.",
-    "url": "https://www.bbc.com/news/articles/cr7mn28drz8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T14:50:18Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c1c/live/d4030dd0-aa9e-11f0-80a3-d7eda8235a25.png",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a818/live/0e3e46d0-aaaa-11f0-ba75-093eca1ac29b.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -72,18 +204,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-b9fa783566",
-    "source": "BBC — Top Stories",
-    "title": "What was alleged against Christopher Cash and Christopher Berry in China spy case?",
-    "summary": "The two were accused of passing information to an agent who forwarded it to a high-ranking Chinese official.",
-    "url": "https://www.bbc.com/news/articles/cpd2vxzpgl7o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T14:35:11Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/167e/live/ba3f1660-aa8e-11f0-978a-a301e44bcdc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-1d40b5dd0a",
     "source": "Politico — UK",
     "title": "EU plans to expand Erasmus program to southern Mediterranean countries",
@@ -98,35 +218,11 @@
   {
     "id": "BBC — Top Stories-2f47fabb4b",
     "source": "BBC — Top Stories",
-    "title": "Cardiff to become UK's first city to impose SUV parking premium after council approval",
+    "title": "Cardiff could become UK's first city to impose SUV parking premium after council approval",
     "summary": "Owners of large cars such as SUVs would be charged more to encourage switching to smaller vehicles.",
     "url": "https://www.bbc.com/news/articles/c04gpp4w0rdo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T14:24:59Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/211a/live/dcfcb5c0-aa9a-11f0-b13f-1d91fccb7d93.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f098e3c796",
-    "source": "BBC — Top Stories",
-    "title": "MI5 chief says China is daily threat to UK and voices frustration over spy case collapse",
-    "summary": "Sir Ken McCallum says the Security Service acted against Chinese activity in the last week, as a parliamentary inquiry is launched into the spy case.",
-    "url": "https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T14:24:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a0f/live/2c978730-aaa1-11f0-b533-114b7c628ce7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-bb2d9cc802",
-    "source": "BBC — Top Stories",
-    "title": "India casts doubt on Trump's claim Modi will stop buying Russian oil",
-    "summary": "The Indian government says it is \"not aware\" of a call in which the US president claimed India's leader made the commitment.",
-    "url": "https://www.bbc.com/news/articles/c8eykdy0567o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T14:19:27Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb4/live/72908140-aa94-11f0-86ac-8fbb271dad90.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -204,18 +300,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-13cdef81a7",
-    "source": "The Guardian — UK",
-    "title": "MPs to hold inquiry into collapsed China spy case after No 10 publishes key evidence",
-    "summary": "Labour MP and chair of security committee Matt Western says there are ‘a lot of questions yet to be asked’ UK politics live – latest updates Questions for CPS after No 10 publishes key witness statements in China spy row MPs will hold an inquiry into the collapse of the caseagainst two men accused of spying for China, after No 10 published key evidence in an attempt to draw a line under the row. Matt Western, a Labour MP and chair of the joint committee on the national security strategy, told the House of Commons there were “a lot of questions yet to be asked” and announced a formal inquiry. Continue reading...",
-    "url": "https://www.theguardian.com/law/2025/oct/16/prosecutions-director-must-explain-why-china-spy-case-was-dropped-says-minister",
-    "published": "2025-10-16T13:43:27Z",
-    "image_url": "https://i.guim.co.uk/img/media/d531e71f36df851b9482ec86e79bd6053562df55/350_0_4118_3294/master/4118.jpg?width=140&quality=85&auto=format&fit=max&s=b948fd612f7a2cda4548be541a7d94ce",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-9a095fbc74",
     "source": "BBC — Top Stories",
     "title": "Omaze house winners to get keys as planning row ends",
@@ -240,18 +324,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-5e3ab7a6f8",
-    "source": "The Guardian — UK",
-    "title": "Three men charged in connection with rape of woman on Brighton beach",
-    "summary": "Sussex police commend ‘bravery of the victim’ after arrest of Iranian national and two Eqyptian nationals Three men have been charged in connection with the rape of a woman on Brighton beach, Sussex police have said. Officers received a report that a woman had been raped on the lower esplanade in Brighton at about 5am on 4 October. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/16/three-men-charged-in-connection-with-of-woman-on-brighton-beach",
-    "published": "2025-10-16T13:22:01Z",
-    "image_url": "https://i.guim.co.uk/img/media/a77ad8cab54e5bb4a3ecd3f7c6b80968341ee164/1235_0_4411_3529/master/4411.jpg?width=140&quality=85&auto=format&fit=max&s=18c4b6cb4d62561e3f4e444dc7f3dc18",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-7752678d60",
     "source": "BBC — Top Stories",
     "title": "MI5 operating in new era of terror and state threats, says chief",
@@ -267,7 +339,7 @@
     "id": "The Guardian — UK-e3451de7d7",
     "source": "The Guardian — UK",
     "title": "Rachel Reeves says those with broadest shoulders should pay fair share of tax",
-    "summary": "Chancellor adds she wants to ‘get the balance right’ and not deter wealthy people from making the UK their home Rachel Reeves has said those with the “broadest shoulders” should pay their “fair share” into the exchequer as she prepares to raise taxes in next month’s budget. The chancellor is expected to deliver a package of tax increases and spending cuts on 26 November to meet her fiscal rules in the face of deteriorating forecasts from the independent Office for Budget Responsibility (OBR). Continue reading...",
+    "summary": "Chancellor adds she wants to ‘get the balance right’ and not deter wealthy people from making the UK their home Rachel Reeves has said those with the “broadest shoulders” should pay their “fair share,” of taxes and promised new measures to tackle inflation, as she draws up next month’s crunch budget. Speaking in Washington DC, where she was attending the annual meetings of the International Monetary Fund (IMF), Reeves confirmed she was looking at wealthy taxpayers as she draws up her budget plans. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/oct/16/rachel-reeves-says-those-broadest-shoulders-should-pay-fair-share-tax",
     "published": "2025-10-16T12:51:40Z",
     "image_url": "https://i.guim.co.uk/img/media/838272fda6fc2e5b5604a5f4474638b03da75c71/449_0_6527_5221/master/6527.jpg?width=140&quality=85&auto=format&fit=max&s=3549aafe7cac549b687d4a4fe467f865",
@@ -384,6 +456,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-c1afce9f3b",
+    "source": "BBC — Top Stories",
+    "title": "Trump says he authorised CIA in Venezuela as Maduro says 'no to regime change'",
+    "summary": "Trump would not be drawn on whether the CIA was seeking to topple Maduro.",
+    "url": "https://www.bbc.com/news/articles/c0ex1jq9pdvo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T11:27:12Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e77/live/3dbc5e90-aa0c-11f0-ba75-093eca1ac29b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-206a5fe462",
     "source": "The Guardian — UK",
     "title": "China spy row: what do the witness statements say and what is their significance?",
@@ -420,18 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-ef0a48ad39",
-    "source": "Politico — UK",
-    "title": "French government survives no-confidence votes",
-    "summary": "PM Sébastien Lecornu was expected to survive after committing to suspend an unpopular law that raised the age of retirement.",
-    "url": "https://www.politico.eu/article/french-government-sebastien-lecornu-survives-no-confidence-votes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-16T09:52:06Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/GettyImages-2240895372-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-fbe28bf0ca",
     "source": "BBC — Top Stories",
     "title": "Inquest opened into former world champion boxer Ricky Hatton's death",
@@ -439,54 +511,6 @@
     "url": "https://www.bbc.com/sport/boxing/articles/c2lp9ngz1gvo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T09:20:49Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e9/live/4b78b5b0-aa6b-11f0-bb1a-bf07c7ad3691.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-d604bc008b",
-    "source": "The Guardian — UK",
-    "title": "Reform UK accused of sowing division in Wales in rowdy TV byelection debate",
-    "summary": "Party leading latest opinion poll comes under fire for ‘weaponising’ immigration as candidates in Caerphilly clash Reform UK has been accused of sowing division over immigration in the south Welsh valleys constituency of Caerphilly before next week’s crucial Senedd byelection. During a fiery candidates’ debate, Nigel Farage’s party was criticised for using immigrants to score political points rather than treating them as individuals. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/16/reform-uk-accused-of-sowing-division-in-wales-in-rowdy-tv-byelection-debate-caerphilly",
-    "published": "2025-10-16T09:05:57Z",
-    "image_url": "https://i.guim.co.uk/img/media/79242ce748ee55e2eb8794f70e43d656b3bfeb38/193_79_3213_2571/master/3213.jpg?width=140&quality=85&auto=format&fit=max&s=381d9b2dc3ea71beb7bebebd9e3f00c5",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-ca817f3380",
-    "source": "Politico — UK",
-    "title": "EU top court rules pets can be ‘baggage,’ limiting airline liability for lost animals",
-    "summary": "The ruling comes in a case in which a dog escaped from its pet-carrier at Buenos Aires airport and was never recovered.",
-    "url": "https://www.politico.eu/article/hold-ecj-ruling-on-pets-as-baggage-pre-writes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-16T08:15:21Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/GettyImages-1247459565-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-b0390d89dc",
-    "source": "The Guardian — UK",
-    "title": "Proposed UK cuts to global aid fund could lead to 300,000 preventable deaths, say charities",
-    "summary": "Exclusive: 20% reduction in contribution to Aids, TB and malaria funding expected to be announced next month The UK is expected to slash its contribution to a leading aid fund combating preventable diseases, with charities warning this could lead to more than 300,000 otherwise preventable deaths. If confirmed, the anticipated 20% cut in the UK contribution to the Global Fund to Fight Aids, Tuberculosis and Malaria, would be announced on the sidelines of next month’s G20 summit in South Africa, which Keir Starmer is due to attend. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/16/proposed-uk-cuts-global-aid-fund-preventable-deaths-charities",
-    "published": "2025-10-16T07:16:04Z",
-    "image_url": "https://i.guim.co.uk/img/media/0be3310af5d4efaeacf93d8911b0c9530bb566cf/0_0_4589_3670/master/4589.jpg?width=140&quality=85&auto=format&fit=max&s=89b10cf97cb58e1784a1c15b2ca0f086",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9906e18b24",
-    "source": "BBC — Top Stories",
-    "title": "'I don't want my kids growing up in England,' says ex-Premier League footballer who moved to Dubai",
-    "summary": "About 75 fans watched Jonjo Shelvey's debut in the third tier of the United Arab Emirates - but he says he has not moved for money.",
-    "url": "https://www.bbc.com/sport/football/articles/cx2n8wd2znzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T05:28:59Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38aa/live/950dad40-a8d4-11f0-b0df-05ea5e3542cc.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -511,30 +535,6 @@
     "url": "https://www.bbc.com/news/articles/cdx4rrrvg8do?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T00:38:20Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7921/live/7fc18c00-a9b9-11f0-b2a1-6f537f66f9aa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-eb583c238e",
-    "source": "BBC — Top Stories",
-    "title": "Is Microsoft's first ever handheld Xbox console worth the wait?",
-    "summary": "The ROG Xbox Ally works with Game Pass out of the box, meaning gamers start off with hundreds of games.",
-    "url": "https://www.bbc.com/news/articles/cqjwlnvx9jpo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T23:11:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45d/live/4dfd0520-a9f3-11f0-b2a1-6f537f66f9aa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f536aa8f8f",
-    "source": "BBC — Top Stories",
-    "title": "'I can't afford to save both twins': Sudan's war left one mother with an impossible choice",
-    "summary": "The destruction and hunger that Sudan's war has brought leaves parents with some impossible choices.",
-    "url": "https://www.bbc.com/news/articles/cre5rng5808o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T23:10:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c84/live/2ba8f570-a9c5-11f0-b2a1-6f537f66f9aa.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
