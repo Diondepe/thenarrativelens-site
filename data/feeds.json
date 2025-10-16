@@ -1,5 +1,29 @@
 [
   {
+    "id": "BBC — Top Stories-4d972ff593",
+    "source": "BBC — Top Stories",
+    "title": "Aid group suspends Gaza operations after ceasefire",
+    "summary": "The US and Israeli-backed GHF group was heavily criticised before it announced a “pause” on its operations.",
+    "url": "https://www.bbc.com/news/articles/cgjd783ywn3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T19:58:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/141c/live/1a9fc450-aac6-11f0-b2a1-6f537f66f9aa.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-aa3193cb93",
+    "source": "Politico — UK",
+    "title": "Commission slaps down Fitto’s calls for a budget compromise",
+    "summary": "The EU executive has publicly rejected the Italian commissioner's declared openness to \"improvements\" in regional funding in its next budget.",
+    "url": "https://www.politico.eu/article/raffaele-fitto-commission-slaps-down-budget-compromise-lawmakers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-16T19:20:35Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/GettyImages-2217925450-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-577cf2a1f8",
     "source": "BBC — Top Stories",
     "title": "No Maccabi Tel Aviv fans allowed at Aston Villa match over safety concerns",
@@ -15,10 +39,10 @@
     "id": "The Guardian — UK-3f704d0951",
     "source": "The Guardian — UK",
     "title": "Head of CPS faces cross-party pressure to explain China spy trial collapse",
-    "summary": "Stephen Parkinson questioned by joint committees as MI5 expresses frustration over charges being dropped The director of public prosecutions came under intense cross-party pressure on Thursday night to explain why the China spy trial collapsed as MI5 expressed frustration at the decision and MPs launched a series of inquiries into how it was taken. The chairs of the home affairs, foreign affairs, justice and national security committees wrote together to Stephen Parkinson, the head of the Crown Prosecution Service (CPS), calling on him to give “a fuller explanation for the dropping of charges”. Continue reading...",
+    "summary": "Stephen Parkinson called on to give ‘fuller explanation’ as MI5 expresses frustration over charges being dropped The director of public prosecutions has come under intense cross-party pressure to explain why the China spy trial collapsed as MI5 expressed frustration at the decision and MPs launched a series of inquiries into how it was taken. The chairs of the home affairs, foreign affairs, justice and national security committees wrote together to Stephen Parkinson, the head of the Crown Prosecution Service (CPS), on Thursday calling on him to give “a fuller explanation for the dropping of charges”. Continue reading...",
     "url": "https://www.theguardian.com/world/2025/oct/16/head-of-cps-faces-cross-party-pressure-to-explain-china-spy-trial-collapse",
     "published": "2025-10-16T18:44:22Z",
-    "image_url": "https://i.guim.co.uk/img/media/89b5115ff3dcbd2ea5f9a91d70b0b53658e27708/1320_135_3594_2875/master/3594.jpg?width=140&quality=85&auto=format&fit=max&s=c2c84dd72cccd0de7b32fe031883d6fe",
+    "image_url": "https://i.guim.co.uk/img/media/ce5132e849de9958cec0b6abd1b689ca391b4534/60_18_4226_3381/master/4226.jpg?width=140&quality=85&auto=format&fit=max&s=2815a114d8df70294a699ce5591282d8",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -43,18 +67,6 @@
     "url": "https://www.bbc.com/news/articles/c4gkm0243wzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T18:16:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024c/live/0b0b5130-aabc-11f0-aa13-0b0479f6f42a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-df5f645142",
-    "source": "BBC — Top Stories",
-    "title": "Met chief vows 'ruthless' rogue officer clear-out",
-    "summary": "Sir Mark Rowley says the force is making progress in rooting out unfit officers in its ranks.",
-    "url": "https://www.bbc.com/news/articles/cn09djnzrn4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T17:59:46Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b91/live/0e47f180-aaaf-11f0-8051-295629adf78e.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -216,6 +228,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-66e903ef58",
+    "source": "BBC — Top Stories",
+    "title": "EU sets 2027 target for anti-drone system to defend against Russia",
+    "summary": "It is part of a new drive for the 27-member European Union to be ready for conflict by 2030.",
+    "url": "https://www.bbc.com/news/articles/c4gz2ppye5zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T16:19:23Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0695/live/45bd6050-aaa5-11f0-b533-114b7c628ce7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-0fd854fcb5",
     "source": "The Guardian — UK",
     "title": "No 10 says Badenoch’s claim PM should have intervened to stop China spy trial collapsing ‘absurd’ – as it happened",
@@ -372,6 +396,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-d927380097",
+    "source": "BBC — Top Stories",
+    "title": "Sharon Osbourne backs naming airport after Ozzy",
+    "summary": "Rebranding Birmingham Airport as Ozzy Osbourne International would be amazing, according to his widow.",
+    "url": "https://www.bbc.com/news/articles/c4gpxw35708o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T14:21:39Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f04/live/0ca4f940-aa96-11f0-86ac-8fbb271dad90.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-a5dbe67a0b",
     "source": "Politico — UK",
     "title": "MI5 boss: Threats from states like China on a par with terrorists",
@@ -403,18 +439,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/16/ministers-begin-charm-offensive-to-win-over-labour-mps-sceptical-of-digital-id-plans",
     "published": "2025-10-16T14:14:18Z",
     "image_url": "https://i.guim.co.uk/img/media/06d92341c681c5c3b23c3fa38a82cb200c4dfdc9/153_0_1930_1545/master/1930.jpg?width=140&quality=85&auto=format&fit=max&s=62900829781c7abde38c64e418e91e29",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-9c01bf9ef6",
-    "source": "Politico — UK",
-    "title": "Update-Spezial mit Patrick Sensburg zum Wehrdienst",
-    "summary": "Heute läuft die erste Bundestagsdebatte über das Wehrdienst-Modernisierungsgesetz, um das in dieser Woche nochmals überraschend deutlich gestritten wurde. Im Update-Spezial spricht Rixa Fürsen mit Patrick Sensburg, dem Präsidenten des Reservistenverbandes und Oberst der Reserve. Er erklärt, warum der neue Wehrdienst ein guter Tag für Deutschland und Europa ist, weshalb Freiwilligkeit allein nicht reichen wird – […]",
-    "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/update-spezial-mit-patrick-sensburg-zum-wehrdienst/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-16T14:12:21Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/03/Berlin-Playbook-Website-card-1-1-1.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -456,30 +480,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-9c8571dc0f",
-    "source": "BBC — Top Stories",
-    "title": "Clashes between police and Gen Z protesters in Peru leave one dead",
-    "summary": "The protests come just days after a new president was sworn in following Dina Boluarte's impeachment.",
-    "url": "https://www.bbc.com/news/articles/czjp79j2emro?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T12:50:25Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fa7/live/8f453200-aa8e-11f0-aa13-0b0479f6f42a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b6a193d994",
-    "source": "BBC — Top Stories",
-    "title": "Prominent Palestinian prisoner Marwan Barghouti attacked by guards, family says",
-    "summary": "The alleged attack on the 66-year-old is said to have left him unconscious. Israel's prison service called the claim \"fake\".",
-    "url": "https://www.bbc.com/news/articles/cpwvr2xpkz0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T12:08:47Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76cf/live/ad2d8f80-aa82-11f0-9334-19f2cf191969.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-4f344ea14c",
     "source": "BBC — Top Stories",
     "title": "The unanswered questions after release of China spy evidence",
@@ -499,18 +499,6 @@
     "url": "https://www.theguardian.com/world/2025/oct/16/china-spy-row-what-do-the-witness-statements-say-and-what-is-their-significance",
     "published": "2025-10-16T11:18:45Z",
     "image_url": "https://i.guim.co.uk/img/media/2beb20d0771107fb3ef81a4fe08f1375fa71a30c/192_0_1499_1199/master/1499.jpg?width=140&quality=85&auto=format&fit=max&s=7cb6a1ad78edf548800030131b07cd5a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-fbe28bf0ca",
-    "source": "BBC — Top Stories",
-    "title": "Inquest opened into former world champion boxer Ricky Hatton's death",
-    "summary": "An inquest into the death of boxer Ricky Hatton is opened and adjourned.",
-    "url": "https://www.bbc.com/sport/boxing/articles/c2lp9ngz1gvo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T09:20:49Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e9/live/4b78b5b0-aa6b-11f0-bb1a-bf07c7ad3691.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -595,6 +583,18 @@
     "url": "https://www.theguardian.com/environment/2025/oct/14/protecting-home-flood-defence-doors-drains-paving",
     "published": "2025-10-14T04:00:11Z",
     "image_url": "https://i.guim.co.uk/img/media/6b2c3dd2dbc457cbab9ca58ccadfe943d628bb99/177_0_3415_2732/master/3415.jpg?width=140&quality=85&auto=format&fit=max&s=ee6eef356b889f0ad313425912c3483b",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-53515fb374",
+    "source": "BBC — Top Stories",
+    "title": "BBC News app",
+    "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+    "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+    "published": "2025-04-30T14:04:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
