@@ -1,5 +1,53 @@
 [
   {
+    "id": "BBC — Top Stories-3b277ee6a7",
+    "source": "BBC — Top Stories",
+    "title": "UK economy grew 0.1% in August",
+    "summary": "The growth follows a slight contraction in the economy during July, official figures show.",
+    "url": "https://www.bbc.com/news/articles/cq65j9pm508o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T06:14:04Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9ad/live/065ddcf0-9d4e-11f0-9e5e-c7b443a2076d.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-fb7bcf4b82",
+    "source": "BBC — Top Stories",
+    "title": "Chris Mason: Digesting the key segments and changes in China documents",
+    "summary": "Both this government and its Conservative predecessor had deep worries about Chinese espionage, writes the BBC's political editor.",
+    "url": "https://www.bbc.com/news/articles/ckgyvq754q0o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T06:07:01Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128c/live/a8d441c0-aa25-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-7be36c5258",
+    "source": "The Guardian — UK",
+    "title": "UK economy expands as GDP rises by 0.1% in August ahead of crucial budget",
+    "summary": "Lift in latest data keeps UK on track to be among the fastest-growing major economies this year The UK economy expanded by 0.1% in August, according to official figures, giving a lift to Rachel Reeves ahead of next month’s crucial budget. A boost from the manufacturing sector helped the economy improve along with a strong performance by the health sector. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/16/uk-economy-expands-as-gdp-rises-by-01-in-august-ahead-of-crucial-budget",
+    "published": "2025-10-16T06:01:08Z",
+    "image_url": "https://i.guim.co.uk/img/media/db0e13f23fb65c49aeed89f83d00bcca9f5e8319/462_0_4212_3371/master/4212.jpg?width=140&quality=85&auto=format&fit=max&s=14ebad530a44d31f7864ece683f747e6",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-720f433d2a",
+    "source": "BBC — Top Stories",
+    "title": "Watch: 'My kids lost a year of childhood' - Family moved from hotel to hotel in housing crisis",
+    "summary": "Danielle and her three children have moved four times in a year after her landlord wanted to sell their flat.",
+    "url": "https://www.bbc.com/news/videos/cvgwx0n3557o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T05:10:27Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6986/live/8cff0410-a9f5-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-a95e170b65",
     "source": "BBC — Top Stories",
     "title": "The controversy over the collapsed China spy case explained",
@@ -15,7 +63,7 @@
     "id": "The Guardian — UK-9a6588fb20",
     "source": "The Guardian — UK",
     "title": "Rachel Reeves should consider welfare cuts in budget, IFS says",
-    "summary": "Thinktank urges chancellor to take ‘bold’ action on benefits and pensions to placate jittery financial markets Britain’s leading tax and spending experts have urged Rachel Reeves to consider announcing billions of pounds in welfare cuts in next month’s budget to help placate jittery financial markets. After the chancellor gave her strongest hint yet that spending cuts were under consideration , the Institute for Fiscal Studies (IFS) called on Reeves to take “bold” action to plug a potential £22bn shortfall in the government finances. Continue reading...",
+    "summary": "Thinktank urges chancellor to take ‘bold’ action on benefits and pensions to placate jittery financial markets Exclusive: Reeves says higher taxes on wealthy ‘part of budget story’ Britain’s leading tax and spending experts have urged Rachel Reeves to consider announcing billions of pounds in welfare cuts in next month’s budget to help placate jittery financial markets. After the chancellor gave her strongest hint yet that spending cuts were under consideration , the Institute for Fiscal Studies (IFS) called on Reeves to take “bold” action to plug a potential £22bn shortfall in the government finances. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/16/rachel-reeves-should-consider-welfare-cuts-in-budget-ifs-says",
     "published": "2025-10-16T05:00:58Z",
     "image_url": "https://i.guim.co.uk/img/media/34f18f5766fd18c44f9d2cbb073383ccfa7c8597/0_0_4619_3697/master/4619.jpg?width=140&quality=85&auto=format&fit=max&s=04fd72872e95974d1fcf9746fe696fdd",
@@ -36,21 +84,9 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a026670a28",
-    "source": "BBC — Top Stories",
-    "title": "Trump says Modi has agreed to stop buying Russian oil",
-    "summary": "The US president says the move is \"a big stop\", but there has been no confirmation so far from Delhi.",
-    "url": "https://www.bbc.com/news/articles/ce8gdl54n1go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T04:23:14Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cfc/live/bc52fc50-aa0c-11f0-aa13-0b0479f6f42a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-9645e04fb4",
     "source": "BBC — Top Stories",
-    "title": "Cabinet Office rejects Cummings' China breach claim",
+    "title": "Cabinet Office rejects Cummings' claim China breached 'sensitive' communications",
     "summary": "Boris Johnson's ex-Downing Street aide says Beijing obtained \"vast amounts\" of \"secret\" data.",
     "url": "https://www.bbc.com/news/articles/ce3xz607dpro?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T04:19:49Z",
@@ -91,6 +127,18 @@
     "url": "https://www.bbc.com/news/articles/cvg73jvd184o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T02:49:11Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b9/live/59fd6720-aa20-11f0-b2a1-6f537f66f9aa.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-35ee869214",
+    "source": "BBC — Top Stories",
+    "title": "CMAT and Pulp among favourites to win Mercury Prize",
+    "summary": "Bookmakers say the stars are front-runners for the prize, which is held in Newcastle on Thursday.",
+    "url": "https://www.bbc.com/news/articles/cj0e4d8d4z2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T02:21:12Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a0/live/deab0b80-8e1e-11f0-bc83-b3874353fef8.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -210,19 +258,7 @@
     "summary": "The claim involves 3,000 people and focuses on internal memos and scientific reports, seen by the BBC.",
     "url": "https://www.bbc.com/news/articles/c797wv928g8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T00:22:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fad/live/ac7b7110-a9d3-11f0-aa13-0b0479f6f42a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-355814494e",
-    "source": "BBC — Top Stories",
-    "title": "Hamas returns remains of two more hostages but says more time needed to reach others",
-    "summary": "The group's armed wing says it has returned the bodies it can reach in Gaza's ruins, but needs specialised equipment and more time to retrieve others.",
-    "url": "https://www.bbc.com/news/articles/c3w9py9940go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T00:21:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63fd/live/a0ff9900-aa01-11f0-aa13-0b0479f6f42a.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/216d/live/0c8e29a0-aa59-11f0-9d87-a79f167250e5.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -252,6 +288,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-eb583c238e",
+    "source": "BBC — Top Stories",
+    "title": "Is Microsoft's first ever handheld Xbox console worth the wait?",
+    "summary": "The ROG Xbox Ally works with Game Pass out of the box, meaning gamers start off with hundreds of games.",
+    "url": "https://www.bbc.com/news/articles/cqjwlnvx9jpo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T23:11:22Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45d/live/4dfd0520-a9f3-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-f536aa8f8f",
     "source": "BBC — Top Stories",
     "title": "'I can't afford to save both twins': Sudan's war left one mother with an impossible choice",
@@ -271,6 +319,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/16/border-security-officers-sent-to-balkans-to-disrupt-people-smuggling-networks",
     "published": "2025-10-15T23:05:40Z",
     "image_url": "https://i.guim.co.uk/img/media/3dbd98e9de5047b344854898a2c32738293c73c9/99_0_4561_3649/master/4561.jpg?width=140&quality=85&auto=format&fit=max&s=f07555eb1bb8c84d37b0bd3419fccdf1",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7bd045358e",
+    "source": "BBC — Top Stories",
+    "title": "Russia intensifies attacks on Ukraine's trains in 'battle for the railways'",
+    "summary": "In the last two months, Russia has hugely upped its attacks on Ukraine's trains and rail network.",
+    "url": "https://www.bbc.com/news/articles/cvgdepnqk2jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T23:04:20Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47d4/live/70c77fb0-aa55-11f0-ba75-093eca1ac29b.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -408,18 +468,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-24a007e073",
-    "source": "The Guardian — UK",
-    "title": "Case dropped against Met police officer who shot unarmed man",
-    "summary": "Officer, known as W80, shot Jermaine Baker during a foiled prison break in 2015 The family of a man shot dead by a police officer during a foiled prison break have accused Scotland Yard of evading accountability after a case against the marksman was thrown out. The officer, known only as W80, shot Jermaine Baker as police stopped a plot to snatch two prisoners from a van near Wood Green crown court in 2015. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/15/case-dropped-met-police-officer-shot-jermaine-baker",
-    "published": "2025-10-15T21:11:57Z",
-    "image_url": "https://i.guim.co.uk/img/media/6406e1b4c75cb31446c0008a71065e961712e3ba/0_0_1304_1042/master/1304.jpg?width=140&quality=85&auto=format&fit=max&s=8115b41196634ee64bc152dff7f92812",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-b5900ec22d",
     "source": "The Guardian — UK",
     "title": "Trump’s fragile ceasefire plan: what next for Gaza? – podcast",
@@ -432,13 +480,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-dec31a6cae",
-    "source": "BBC — Top Stories",
-    "title": "Baroness Mone-linked PPE firm misses deadline to pay £122m",
-    "summary": "PPE Medpro was ordered to repay damages by 16:00 BST on Wednesday after breaching a Covid-19 contract.",
-    "url": "https://www.bbc.com/news/articles/c629rdgyzl5o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T19:02:30Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5c8dfd50-9fbd-11f0-b73e-e715acbd6a10.jpg",
+    "id": "The Guardian — UK-d432caff11",
+    "source": "The Guardian — UK",
+    "title": "Rachel Reeves says higher taxes on wealthy ‘part of the story’ for November budget",
+    "summary": "Exclusive: Chancellor hints at rises and calls out past ‘scaremongering’ over VAT on private schools and changes to non-doms Rachel Reeves has said higher taxes on the UK’s wealthy will form part of next month’s budget, as she shrugged off the “scaremongering” and “bleating” of her critics, and stressed her determination to repair the public finances. Speaking in Washington, where she is attending the annual meetings of the International Monetary Fund (IMF), the chancellor told the Guardian there “won’t be a return to austerity” and hinted at tax increases for the most well-off. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/15/rachel-reeves-says-higher-taxes-on-wealthy-part-of-the-story-for-november-budget",
+    "published": "2025-10-15T18:15:51Z",
+    "image_url": "https://i.guim.co.uk/img/media/9b395f1774e0a93b07a28094bf2a4005dad9468b/1986_82_4671_3737/master/4671.jpg?width=140&quality=85&auto=format&fit=max&s=afb37a3189dede338b3c931009490ea8",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -499,54 +547,6 @@
     "url": "https://www.theguardian.com/world/2025/oct/15/china-spy-row-key-witness-statement-to-be-published-says-starmer",
     "published": "2025-10-15T16:14:26Z",
     "image_url": "https://i.guim.co.uk/img/media/e7f408d3b9dd35a24abd4f9dfd809cf3bbe6c045/873_419_4742_3794/master/4742.jpg?width=140&quality=85&auto=format&fit=max&s=8de16c028df2b70cf6b26fe3c7a3d2b1",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-b84e616b3a",
-    "source": "BBC — Top Stories",
-    "title": "Gaza experts work to identify bodies of 90 Palestinians returned by Israel",
-    "summary": "Under the Gaza ceasefire deal, Israel has agreed to hand over the bodies of 15 Palestinians in return for every dead Israeli hostage.",
-    "url": "https://www.bbc.com/news/articles/c5ypwqwlnn2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T16:05:01Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ca7/live/eb30fb80-a9c6-11f0-8da2-811fba9518ff.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-57b8c9fbb1",
-    "source": "The Guardian — UK",
-    "title": "EHRC drops interim trans advice and urges ministers to act fast to approve its guidance",
-    "summary": "Equalities watchdog removes interim response to supreme court ruling on legal definition of a woman from its website The equalities watchdog has withdrawn interim advice on how institutions should respond to the supreme court ruling on transgender rights, which some campaign groups said could effectively exclude trans people from many public spaces. The Equality and Human Rights Commission (EHRC) said the advice, published in April, shortly after that month’s supreme court ruling that the legal definition of a woman is based on biological sex only, had been taken down from its website. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/oct/15/equalities-watchdog-bridget-phillipson-transgender-guidance",
-    "published": "2025-10-15T14:01:37Z",
-    "image_url": "https://i.guim.co.uk/img/media/2aedc6704852112fba0d254242116604bcb0de3c/333_0_3326_2661/master/3326.jpg?width=140&quality=85&auto=format&fit=max&s=b70031d6a1f90bf8ec64c55ba5739a09",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-059f224558",
-    "source": "BBC — Top Stories",
-    "title": "Watch: Freed detainee finds family alive after thinking they had been killed",
-    "summary": "Shadi Abu Sido told the BBC an Israeli prison officer said his family had been killed.",
-    "url": "https://www.bbc.com/news/videos/c7516x2zy6ko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T13:10:39Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6400/live/49bc1600-a9c5-11f0-aa13-0b0479f6f42a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7898897b1b",
-    "source": "BBC — Top Stories",
-    "title": "'Time to begin healing together': Israeli hostage couple reunited after 738 days",
-    "summary": "Avinatan Or and Noa Argamani were kidnapped from the Nova music festival on 7 October2023 but held in separate locations.",
-    "url": "https://www.bbc.com/news/articles/c5yp0j0l3glo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T12:15:17Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4117/live/051d2a50-a9a9-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
