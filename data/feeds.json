@@ -1,12 +1,12 @@
 [
   {
-    "id": "BBC — Top Stories-f098e3c796",
-    "source": "BBC — Top Stories",
-    "title": "China carried out 'large scale espionage' in UK, government witness said in collapsed spy case",
-    "summary": "Sir Keir Starmer faces questions after the government released witness statements by top security official.",
-    "url": "https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T08:58:21Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e264/live/b984d4a0-aa6e-11f0-ba75-093eca1ac29b.jpg",
+    "id": "Politico — UK-13bca0fc57",
+    "source": "Politico — UK",
+    "title": "Germany’s Merz warns Europe risks becoming economic pawn of US, China",
+    "summary": "The chancellor is pushing the EU to undertake sweeping economic reforms as he comes under increasing political pressure at home to revive the stagnant German economy.",
+    "url": "https://www.politico.eu/article/germany-friedrich-merz-warns-europe-risks-becoming-economic-pawn-us-china/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-16T10:12:55Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/13433983-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -14,11 +14,95 @@
   {
     "id": "The Guardian — UK-0fd854fcb5",
     "source": "The Guardian — UK",
-    "title": "Government to respond to Commons urgent question on China spy case witness statements – UK politics live",
-    "summary": "A minister will reply to a request for a statement ‘on the three witness statements in relation to alleged breach of Official Secrets Act on behalf of China’ Stephen Kinnock , the care minister, was the government spokesperson on the media this morning. As Eleni Courea reports, asked about the China spy case witness statements, he said it was up to the CPS to explain why the prosecution was dropped. He told Sky News: I believe the DPP [Stephen Parkinson, who as director of public prosecutions is head of the CPS] told MPs yesterday that he felt the evidence was 95% of the way there, but there was a 5% gap that was missing. I think he’s the best person to explain what that 5% that was missing was. For the avoidance of any doubt, I routinely spoke and shared information with Christopher Berry about Chinese and British politics. He was my friend and these were matters we were both passionately interested in. I believed him to be as critical of and concerned about the Chinese Communist Party as I was. I believed him to be a source of useful information, as he lived in China. That information would have been used to the benefit of the UK. It was inconceivable to me that he would deliberately pass on any information to Chinese intelligence, even if that information was not sensitive. Mr Berry told me that he was working for a strategic advisory company in China, and that he was helping clients trade and invest in the UK. A small amount of the information I gave to him was provided in that context. However, this was all either information that was publicly available, information I was already encouraged to share with journalists as a routine part of my job or was just political gossip that formed part of the everyday Westminster rumour mill. I was entirely open about my relationship with Mr Berry. I did not ever receive money for information which I provided. I cannot emphasise my position strongly enough. I have lost a career I loved for an allegation against me of which I am entirely innocent. Continue reading...",
+    "title": "Joint committee on national security strategy to hold inquiry into collapse of China spy trial, MPs told – UK politics live",
+    "summary": "Chairs of home affairs, foreign affairs and justice committees to be among those involved in inquiry Ward says that “no minister or special adviser played any role in the provision of evidence” under this government. He says he cannot say if that was the case under the last government. There is a lot of jeering at this. The Speaker, Lindsay Hoyle , reprimands Tom Tugendhat for his interruption. Continue reading...",
     "url": "https://www.theguardian.com/politics/live/2025/oct/16/china-spy-case-cps-keir-starmer-uk-politics-latest-news-updates",
-    "published": "2025-10-16T08:56:04Z",
-    "image_url": "https://i.guim.co.uk/img/media/bc36c48f8d3f897800edc802cdf890079dd80aff/958_432_1897_1519/master/1897.jpg?width=140&quality=85&auto=format&fit=max&s=5f159871a600449fc00315d5728e2a39",
+    "published": "2025-10-16T10:02:52Z",
+    "image_url": "https://i.guim.co.uk/img/media/4d0b92f01b9c9c2d63c06628925c737334c455ab/311_0_1725_1380/master/1725.jpg?width=140&quality=85&auto=format&fit=max&s=59baf799a6552720f72ae2216dcf886f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-ef0a48ad39",
+    "source": "Politico — UK",
+    "title": "French government survives no-confidence votes",
+    "summary": "PM Sébastien Lecornu was expected to survive after committing to suspend an unpopular law that raised the age of retirement.",
+    "url": "https://www.politico.eu/article/french-government-sebastien-lecornu-survives-no-confidence-votes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-16T09:52:06Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/GettyImages-2240895372-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-75e643ff68",
+    "source": "BBC — Top Stories",
+    "title": "Titan submersible imploded due to poor engineering, say US officials",
+    "summary": "The submersible disappeared from sensors on its journey to the wreck of the Titanic, killing all five people on board.",
+    "url": "https://www.bbc.com/news/articles/cdeg7y4171xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T09:43:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3877/live/765b5270-aa74-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f098e3c796",
+    "source": "BBC — Top Stories",
+    "title": "China carried out 'large scale espionage' in UK, government witness said in collapsed spy case",
+    "summary": "Sir Keir Starmer faces questions after the government released witness statements by top security official.",
+    "url": "https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T09:43:36Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e264/live/b984d4a0-aa6e-11f0-ba75-093eca1ac29b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-03635f0d08",
+    "source": "BBC — Top Stories",
+    "title": "Diane Keaton's family thank public for 'love and support' after actress's death",
+    "summary": "Relatives tell People magazine they are grateful for the \"extraordinary messages\" after the star's death.",
+    "url": "https://www.bbc.com/news/articles/c1e38xqx1qwo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T09:28:29Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2cb/live/17936ac0-aa2e-11f0-814b-d74023a6b3c7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-3efa09584d",
+    "source": "The Guardian — UK",
+    "title": "Ricky Hatton is thought to have killed himself, inquest told",
+    "summary": "Provisional cause of death for former boxing world champion given at opening of inquest in Stockport Ricky Hatton, the former world champion boxer who died in September, is believed to have killed himself, according to a provisional cause of death given at the opening of his inquest at Stockport coroner’s court. Hatton, 46, was found dead in his home on 14 September. News of his death caused an outpouring of grief across the world and thousands of people lined the streets for his funeral. Continue reading...",
+    "url": "https://www.theguardian.com/sport/2025/oct/16/ricky-hatton-is-thought-to-have-killed-himself-inquest-told",
+    "published": "2025-10-16T09:18:48Z",
+    "image_url": "https://i.guim.co.uk/img/media/33252c81d04a0b1c71c718a8c6973d7117c651d4/329_0_2920_2336/master/2920.jpg?width=140&quality=85&auto=format&fit=max&s=b5b911db9612996d16044cc325b75acf",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-5208eea6ee",
+    "source": "The Guardian — UK",
+    "title": "‘Gruesome videos’: social media pushes distressing news to children, experts say",
+    "summary": "Survey by Internet Matters finds children being left worried and upset by content showing shootings, stabbings and war More than half of children who get news from social media are left worried and upset after seeing content that involves war, violence and death, according to new research that found social media companies are “pushing” distressing news to children who are not seeking it. Videos of the murder of Charlie Kirk, the Liverpool parade car-ramming attack, scenes from wars, shootings, stabbings and car crashes have recently been pushed into children’s feeds, research by Internet Matters, an online safety organisation, has found. As a result, 39% of those who saw distressing content described themselves as very or extremely upset and worried by it. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/oct/16/gruesome-videos-social-media-distressing-news-children-survey",
+    "published": "2025-10-16T09:11:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/72781d6c485a65b7073e63843db561a727836155/569_0_5002_4000/master/5002.jpg?width=140&quality=85&auto=format&fit=max&s=462bf6916209504918f407021695cc95",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-d604bc008b",
+    "source": "The Guardian — UK",
+    "title": "Reform UK accused of sowing division in Wales in rowdy TV byelection debate",
+    "summary": "Party leading latest opinion poll comes under fire for ‘weaponising’ immigration as candidates in Caerphilly clash Reform UK has been accused of sowing division over immigration in the south Welsh valleys constituency of Caerphilly before next week’s crucial Senedd byelection. During a fiery candidates’ debate, Nigel Farage’s party was criticised for using immigrants to score political points rather than treating them as individuals. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/16/reform-uk-accused-of-sowing-division-in-wales-in-rowdy-tv-byelection-debate-caerphilly",
+    "published": "2025-10-16T09:05:57Z",
+    "image_url": "https://i.guim.co.uk/img/media/79242ce748ee55e2eb8794f70e43d656b3bfeb38/193_79_3213_2571/master/3213.jpg?width=140&quality=85&auto=format&fit=max&s=381d9b2dc3ea71beb7bebebd9e3f00c5",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -36,13 +120,25 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-2f47fabb4b",
+    "source": "BBC — Top Stories",
+    "title": "Cardiff may become UK's first city to impose SUV parking premium",
+    "summary": "Owners of large cars such as SUVs would be charged more to encourage switching to smaller vehicles.",
+    "url": "https://www.bbc.com/news/articles/c04gpp4w0rdo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T08:45:35Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8384/live/deccdb50-aa6d-11f0-ba75-093eca1ac29b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-13cdef81a7",
     "source": "The Guardian — UK",
     "title": "Prosecutions director must explain why China spy case was dropped, says UK minister",
     "summary": "Stephen Kinnock says government is ‘deeply disappointed’ CPS abandoned prosecution UK politics live – latest updates Questions for CPS after No 10 publishes key witness statements in China spy row The director of public prosecutions should explain why he felt he could not proceed with the trial of two men accused of spying for China, a government minister has said after No 10 published key evidence in an attempt to draw a line under the row. Stephen Kinnock said the government was “deeply disappointed that the prosecution didn’t go ahead” and that Stephen Parkinson was “the best person to explain” why the Crown Prosecution Service (CPS) felt the government’s evidence did not meet the bar. Continue reading...",
     "url": "https://www.theguardian.com/law/2025/oct/16/prosecutions-director-must-explain-why-china-spy-case-was-dropped-says-minister",
     "published": "2025-10-16T08:42:26Z",
-    "image_url": "https://i.guim.co.uk/img/media/6dcbbfe6e46d0639def302c8c79d2da1d1210736/1620_11_3219_2575/master/3219.jpg?width=140&quality=85&auto=format&fit=max&s=4876b73a0e75c9d9135be75f1ef2e97d",
+    "image_url": "https://i.guim.co.uk/img/media/d531e71f36df851b9482ec86e79bd6053562df55/350_0_4118_3294/master/4118.jpg?width=140&quality=85&auto=format&fit=max&s=b948fd612f7a2cda4548be541a7d94ce",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -72,37 +168,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-75e643ff68",
-    "source": "BBC — Top Stories",
-    "title": "Titan submersible imploded due to poor engineering, say US officials",
-    "summary": "The submersible disappeared from sensors on its journey to the wreck of the Titanic, killing all five people on board.",
-    "url": "https://www.bbc.com/news/articles/cdeg7y4171xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T08:00:24Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ac/live/c7a68410-aa5b-11f0-9d87-a79f167250e5.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-2be3185571",
     "source": "The Guardian — UK",
     "title": "Thousands in UK open case against Johnson & Johnson over alleged talcum powder cancer link",
-    "summary": "High court claim says company knowingly sold product containing asbestos and ‘concealed’ risk to public Thousands of people are taking legal action against pharmaceutical company Johnson & Johnson, claiming it knowingly sold asbestos-contaminated talcum powder in the UK. As many as 3,000 people have alleged that either they or a family member developed forms of ovarian cancer or mesothelioma from using Johnson’s Baby Powder, and are seeking damages at the high court in London. Continue reading...",
+    "summary": "High court claim says company knowingly sold product containing asbestos and ‘concealed’ risk to public Thousands of people are taking legal action against the US pharmaceutical company Johnson & Johnson, claiming it knowingly sold asbestos-contaminated talcum powder in the UK. As many as 3,000 people have alleged that either they or a family member developed forms of ovarian cancer or mesothelioma from using Johnson’s Baby Powder, and are seeking damages at the high court in London. Continue reading...",
     "url": "https://www.theguardian.com/business/2025/oct/16/thousands-in-uk-open-case-against-johnson-johnson-over-alleged-talcum-powder-cancer-link",
     "published": "2025-10-16T07:34:23Z",
     "image_url": "https://i.guim.co.uk/img/media/18b4c09eef0fa9ca75bbd8ca8b16f42810722f58/905_0_4503_3605/master/4503.jpg?width=140&quality=85&auto=format&fit=max&s=f7880887d27ed747cf723f7f5057c649",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3b277ee6a7",
-    "source": "BBC — Top Stories",
-    "title": "UK economy grew slightly in August ahead of key Budget",
-    "summary": "The 0.1% growth follows a slight contraction in the economy during July, official figures show.",
-    "url": "https://www.bbc.com/news/articles/cq65j9pm508o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T07:24:56Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9ad/live/065ddcf0-9d4e-11f0-9e5e-c7b443a2076d.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -228,18 +300,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-9a6588fb20",
-    "source": "The Guardian — UK",
-    "title": "Rachel Reeves should consider welfare cuts in budget, IFS says",
-    "summary": "Thinktank urges chancellor to take ‘bold’ action on benefits and pensions to placate jittery financial markets Exclusive: Reeves says higher taxes on wealthy ‘part of budget story’ Britain’s leading tax and spending experts have urged Rachel Reeves to consider announcing billions of pounds in welfare cuts in next month’s budget to help placate jittery financial markets. After the chancellor gave her strongest hint yet that spending cuts were under consideration , the Institute for Fiscal Studies (IFS) called on Reeves to take “bold” action to plug a potential £22bn shortfall in the government finances. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/16/rachel-reeves-should-consider-welfare-cuts-in-budget-ifs-says",
-    "published": "2025-10-16T05:00:58Z",
-    "image_url": "https://i.guim.co.uk/img/media/34f18f5766fd18c44f9d2cbb073383ccfa7c8597/0_0_4619_3697/master/4619.jpg?width=140&quality=85&auto=format&fit=max&s=04fd72872e95974d1fcf9746fe696fdd",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-2772211184",
     "source": "Politico — UK",
     "title": "Kanzler Merz: Auf der Suche nach Konsens",
@@ -259,18 +319,6 @@
     "url": "https://www.theguardian.com/world/2025/oct/16/agnes-wanjiru-niece-urges-labour-extradite-ex-soldier-kenya",
     "published": "2025-10-16T04:00:57Z",
     "image_url": "https://i.guim.co.uk/img/media/4d08201e7d7d59c50d15f76608f3a34e546dab7c/0_386_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=eabb290adc2878158ca07c45c7d1a04b",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-629fd53810",
-    "source": "BBC — Top Stories",
-    "title": "The Papers: 'Chinese stole secrets' and 'Andrew, Epstein and me'",
-    "summary": "The now-collapsed case against two men accused of spying for China is front and centre for a number of the papers.",
-    "url": "https://www.bbc.com/news/articles/cvg73jvd184o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T02:49:11Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b9/live/59fd6720-aa20-11f0-b2a1-6f537f66f9aa.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -336,30 +384,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-4db72e13db",
-    "source": "Politico — UK",
-    "title": "Why migration is taking over the UK Foreign Office",
-    "summary": "Veteran international dealmaker Yvette Cooper has a new job, but the same focus.",
-    "url": "https://www.politico.eu/article/uk-foreign-office-migrants-france-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-16T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/GettyImages-2239505767-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-135e7c8c13",
-    "source": "BBC — Top Stories",
-    "title": "The Last Dinner Party are feasting on love, death and killer riffs",
-    "summary": "The rock band discuss the themes that fuelled their critically-acclaimed new album, From The Pyre.",
-    "url": "https://www.bbc.com/news/articles/c2lpnn2w5qjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T01:43:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dea8/live/58585f90-a9a5-11f0-928c-71dbb8619e94.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-15125fa2bd",
     "source": "BBC — Top Stories",
     "title": "The real problem with Britain's asylum hotels - and the woman with a bold plan to solve it",
@@ -379,30 +403,6 @@
     "url": "https://www.bbc.com/news/articles/c797wv928g8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T00:22:16Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/216d/live/0c8e29a0-aa59-11f0-9d87-a79f167250e5.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-ff9c159319",
-    "source": "Politico — UK",
-    "title": "China conducted ‘large scale espionage operations’ against UK, top official warned in collapsed spy case",
-    "summary": "Deputy national security adviser also emphasized Britain's pursuit of \"positive\" ties with Beijing, according to evidence released in response to an escalating political row in Westminster.",
-    "url": "https://www.politico.eu/article/china-spying-against-uk-matthew-collins/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-16T00:15:44Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/13428770-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-b896c2c804",
-    "source": "The Guardian — UK",
-    "title": "Faulty engineering led to deadly Titan sub implosion, US investigators rule",
-    "summary": "NTSB report finds OceanGate company did not adequately test submersible before 2023 voyage to wreck of Titanic The deadly implosion of a submersible traveling to the wreck of the Titanic was the result of faulty engineering, the National Transportation Safety Board (NTSB) announced on Wednesday. The NTSB’s final report on the voyage that killed five people in June 2023 said that OceanGate, the private company that owned the Titan, did not adequately test its experimental submersible before the trip. The Washington state-based firm, which suspended operations after the catastrophic implosion, was unaware of the submersible’s true durability, the report said. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/15/titan-sub-disaster-ntsb-report",
-    "published": "2025-10-15T23:23:39Z",
-    "image_url": "https://i.guim.co.uk/img/media/6e2cf7873bed91814fc74ea88035f5c671a587a0/195_0_2579_2063/master/2579.jpg?width=140&quality=85&auto=format&fit=max&s=ff2eaefe5d01ceda117377e629d9acee",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,6 +480,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-fba039deb0",
+    "source": "BBC — Top Stories",
+    "title": "China arrested 30 Christians. Some fear it's the start of a bigger crackdown",
+    "summary": "Activists say the unprecedented round-up could be the beginning of a wider crackdown on China's underground churches.",
+    "url": "https://www.bbc.com/news/articles/cx2pez2vg8wo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T22:03:19Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebe4/live/ca5c5350-a9ad-11f0-97ec-91b89bd10dfa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-ead66fff09",
     "source": "BBC — Top Stories",
     "title": "Andrew believed having sex with me was his birthright, Giuffre claimed in memoir",
@@ -535,18 +547,6 @@
     "url": "https://www.bbc.com/news/articles/cr5e4ee9r13o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-15T17:27:28Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a94/live/ba9a7ae0-a9e0-11f0-b2a1-6f537f66f9aa.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-9b93b2dc9a",
-    "source": "The Guardian — UK",
-    "title": "English councils to remain poorer than in 2010 despite funding rise, says report",
-    "summary": "Exclusive: Impact of austerity cannot be undone by end of parliament despite above-inflation funding, analysis finds Councils in England will still be poorer by the end of this parliament than they were in 2010 despite Labour’s funding increases, according to analysis by the Institute for Government (IfG). Funding cuts from 2010 to 2019 were so severe that they left gaps that could not be filled even by five years of above-inflation increases, leaving local authorities increasingly reliant on emergency funding and capable of providing only legally mandated services, the report shows. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/oct/15/english-councils-to-remain-poorer-than-2010-despite-funding-boost-says-report",
-    "published": "2025-10-15T17:06:00Z",
-    "image_url": "https://i.guim.co.uk/img/media/43377c3e3630a77bb622c03f9cb81368af080629/676_0_6781_5425/master/6781.jpg?width=140&quality=85&auto=format&fit=max&s=c54b576b45fed1203568addfd19b22d4",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
