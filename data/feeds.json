@@ -1,12 +1,60 @@
 [
   {
+    "id": "BBC — Top Stories-f098e3c796",
+    "source": "BBC — Top Stories",
+    "title": "Government publishes key witness statements in collapsed China spy case",
+    "summary": "The government's deputy national security adviser warned in 2023 that China was carrying out \"large scale espionage\" activities against the UK.",
+    "url": "https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T07:04:38Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-7f78a1ec1d",
+    "source": "The Guardian — UK",
+    "title": "‘Damning’ review of anti-Black racism within Met police ‘buried’ by force",
+    "summary": "Exclusive: external consultancy report found discrimination ‘baked into HR systems’ at London force A review of anti-Black racism within the Metropolitan police has been “buried” by the force, despite finding discrimination “baked into its HR systems”, the Guardian can reveal. The internal review, commissioned by the Met from the consultancy HR Rewired, concluded that bias, racial stereotyping and inequity were woven through the force’s recruitment, promotion and grievance processes, affecting Black staff specifically. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/16/review-anti-black-racism-metropolitan-police-force-london",
+    "published": "2025-10-16T07:00:03Z",
+    "image_url": "https://i.guim.co.uk/img/media/4fca3e8c9f622c97fc19b4392a2f945a1035bbc7/207_1216_2959_2367/master/2959.jpg?width=140&quality=85&auto=format&fit=max&s=fbf29c9dcef29892f7b06fde80306b1d",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-3b277ee6a7",
     "source": "BBC — Top Stories",
-    "title": "UK economy grew 0.1% in August",
-    "summary": "The growth follows a slight contraction in the economy during July, official figures show.",
+    "title": "UK economy grew slightly in August ahead of key Budget",
+    "summary": "The 0.1% growth follows a slight contraction in the economy during July, official figures show.",
     "url": "https://www.bbc.com/news/articles/cq65j9pm508o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T06:14:04Z",
+    "published": "2025-10-16T06:56:04Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9ad/live/065ddcf0-9d4e-11f0-9e5e-c7b443a2076d.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-75e643ff68",
+    "source": "BBC — Top Stories",
+    "title": "Titan imploded due to poor engineering, say US officials",
+    "summary": "The submersible disappeared on its journey to the wreck of the Titanic, killing all five people on board.",
+    "url": "https://www.bbc.com/news/articles/cdeg7y4171xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T06:49:21Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ac/live/c7a68410-aa5b-11f0-9d87-a79f167250e5.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-53cbb592ae",
+    "source": "BBC — Top Stories",
+    "title": "Australia's rainforests are releasing more carbon than they absorb, warn scientists",
+    "summary": "Australia's rainforests are the first in the world to make the \"concerning\" switch, say scientists.",
+    "url": "https://www.bbc.com/news/articles/cjd05mdz9pdo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T06:28:19Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410a/live/74c89260-aa51-11f0-bee7-c3688d7175cc.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -27,7 +75,7 @@
     "id": "The Guardian — UK-7be36c5258",
     "source": "The Guardian — UK",
     "title": "UK economy expands as GDP rises by 0.1% in August ahead of crucial budget",
-    "summary": "Lift in latest data keeps UK on track to be among the fastest-growing major economies this year The UK economy expanded by 0.1% in August, according to official figures, giving a lift to Rachel Reeves ahead of next month’s crucial budget. A boost from the manufacturing sector helped the economy improve along with a strong performance by the health sector. Continue reading...",
+    "summary": "Manufacturing and health sectors boost growth but ONS revises down figures for July Exclusive: says higher taxes on wealthy ‘part of budget story’ Business live – updates The UK economy expanded by 0.1% in August, according to official figures, giving a lift to Rachel Reeves ahead of next month’s crucial budget. A boost from the manufacturing sector helped the economy improve along with a strong performance by the health sector. Continue reading...",
     "url": "https://www.theguardian.com/business/2025/oct/16/uk-economy-expands-as-gdp-rises-by-01-in-august-ahead-of-crucial-budget",
     "published": "2025-10-16T06:01:08Z",
     "image_url": "https://i.guim.co.uk/img/media/db0e13f23fb65c49aeed89f83d00bcca9f5e8319/462_0_4212_3371/master/4212.jpg?width=140&quality=85&auto=format&fit=max&s=14ebad530a44d31f7864ece683f747e6",
@@ -72,25 +120,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-f098e3c796",
-    "source": "BBC — Top Stories",
-    "title": "Government publishes key witness statements in collapsed China spy case",
-    "summary": "The government's deputy national security adviser warned in 2023 that China was carrying out \"large scale espionage\" activities against the UK.",
-    "url": "https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T04:28:47Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-9645e04fb4",
     "source": "BBC — Top Stories",
     "title": "Cabinet Office rejects Cummings' claim China breached 'sensitive' communications",
     "summary": "Boris Johnson's ex-Downing Street aide says Beijing obtained \"vast amounts\" of \"secret\" data.",
     "url": "https://www.bbc.com/news/articles/ce3xz607dpro?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T04:19:49Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c52e/live/c16db960-aa29-11f0-b2a1-6f537f66f9aa.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3be/live/7ecbb2b0-aa5b-11f0-9d87-a79f167250e5.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -139,18 +175,6 @@
     "url": "https://www.bbc.com/news/articles/cj0e4d8d4z2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T02:21:12Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a0/live/deab0b80-8e1e-11f0-bc83-b3874353fef8.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-c1afce9f3b",
-    "source": "BBC — Top Stories",
-    "title": "Trump says he authorised CIA in Venezuela as Maduro says 'no to regime change'",
-    "summary": "Trump would not be drawn on whether the CIA was seeking to topple Maduro.",
-    "url": "https://www.bbc.com/news/articles/c0ex1jq9pdvo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T02:07:10Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e77/live/3dbc5e90-aa0c-11f0-ba75-093eca1ac29b.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -242,7 +266,7 @@
   {
     "id": "BBC — Top Stories-15125fa2bd",
     "source": "BBC — Top Stories",
-    "title": "The real problem with Britain's asylum hotels - and the woman with a bold idea to solve it",
+    "title": "Britain's asylum hotels problem: the woman with a bold plan to solve it",
     "summary": "Instead of using private contractors to provide hotel rooms to asylum seekers, could paying councils to buy more properties be the solution?",
     "url": "https://www.bbc.com/news/articles/cdx4rrrvg8do?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T00:38:20Z",
@@ -348,18 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-1e0e30ec37",
-    "source": "BBC — Top Stories",
-    "title": "Reeves urged to make Budget 'bold' or risk future tax rises",
-    "summary": "The Institute for Fiscal Studies says the chancellor needs to find £22bn to make up a shortfall.",
-    "url": "https://www.bbc.com/news/articles/cg7n8v34jvlo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T23:02:53Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f54f/live/8f97b450-a9c9-11f0-a5c2-cb318711a6b0.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-5208eea6ee",
     "source": "The Guardian — UK",
     "title": "‘Gruesome videos’: social media pushes distressing news to children, experts say",
@@ -408,18 +420,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-b3c92d126f",
-    "source": "The Guardian — UK",
-    "title": "Questions for CPS after No 10 publishes key witness statements in China spy row",
-    "summary": "Documents reveal messages between the accused pair warning: ‘You’re in spy territory now’ The Crown Prosecution Service abandoned a case against two Britons accused of spying for China despite being told by the UK’s deputy national security adviser that Beijing’s intelligence agencies “harm the interests and security of the UK”. Three witness statements were released by Keir Starmer on Wednesday night in an effort to draw a line under a row over why the case was dropped against the two, one of whom also warned the other in a message: “You’re in spy territory now.” Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/15/no-10-publishes-key-witness-statements-in-china-spy-row",
-    "published": "2025-10-15T22:45:34Z",
-    "image_url": "https://i.guim.co.uk/img/media/221d6b31db46283751fe8a8d4e21f332a9294c36/0_0_6783_5426/master/6783.jpg?width=140&quality=85&auto=format&fit=max&s=31efe9fb82c9ae4840e93245f97249b8",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-5d1c4943de",
     "source": "BBC — Top Stories",
     "title": "Celia Imrie's fart steals the show on Celebrity Traitors",
@@ -446,7 +446,7 @@
   {
     "id": "BBC — Top Stories-ead66fff09",
     "source": "BBC — Top Stories",
-    "title": "Giuffre accuses 'entitled' Andrew in posthumous book",
+    "title": "Andrew believed having sex with me was his birthright, Giuffre claimed in memoir",
     "summary": "Virginia Giuffre, who took her life earlier this year, gives her account of meeting Prince Andrew.",
     "url": "https://www.bbc.com/news/articles/c0kpjyjyrlno?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-15T21:48:25Z",
