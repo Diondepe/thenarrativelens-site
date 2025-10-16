@@ -1,12 +1,132 @@
 [
   {
+    "id": "BBC — Top Stories-629fd53810",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'Chinese stole secrets' and 'Andrew, Epstein and me'",
+    "summary": "The now-collapsed case against two men accused of spying for China is front and centre for a number of the papers.",
+    "url": "https://www.bbc.com/news/articles/cvg73jvd184o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T02:49:11Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b9/live/59fd6720-aa20-11f0-b2a1-6f537f66f9aa.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c1afce9f3b",
+    "source": "BBC — Top Stories",
+    "title": "Trump says he authorised CIA in Venezuela as Maduro says 'no to regime change'",
+    "summary": "Trump would not be drawn on whether the CIA was seeking to topple Maduro.",
+    "url": "https://www.bbc.com/news/articles/c0ex1jq9pdvo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T02:07:10Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e77/live/3dbc5e90-aa0c-11f0-ba75-093eca1ac29b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-96d6d869bd",
+    "source": "Politico — UK",
+    "title": "How Spain’s Sánchez became NATO’s flakiest friend",
+    "summary": "Many EU diplomats agree with Trump that low military spending and weak support for Ukraine make Spain a bad ally.",
+    "url": "https://www.politico.eu/article/spain-pedro-sanchez-europe-nato-gdp-spending/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-16T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/WhatsApp-Image-2025-10-15-at-10.57.28-PM.jpeg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-76da174106",
+    "source": "Politico — UK",
+    "title": "Europe’s socialists keep mum on migration at anti-Trump jamboree",
+    "summary": "The center left is split on how to tackle migration and is relying on the same old priorities to fight right-wing populism.",
+    "url": "https://www.politico.eu/article/europe-socialists-migration-anti-trump-jamboree/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-16T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/GettyImages-2164726001-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-a2acdaa726",
+    "source": "Politico — UK",
+    "title": "Brits are pining for the pre-Brexit migration system",
+    "summary": "The idea was that leaving the bloc would give the U.K. back “control” of its borders and create a fairer system. But the widespread perception is it didn't turn out that way.",
+    "url": "https://www.politico.eu/article/labour-liberal-dems-british-brexit-migration-eu-immigration-movement-vote/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-16T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/GettyImages-2220165049-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-4ac7e1d045",
+    "source": "Politico — UK",
+    "title": "Ukraine likes its latest ally — Trump",
+    "summary": "Relations between the two leaders have warmed since Kyiv learned there could only be \"one diva' in the room.",
+    "url": "https://www.politico.eu/article/ukraine-likes-donald-trump-more-than-it-used-to-russia-peace-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-16T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/GettyImages-2240288159-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-c951e7edc7",
+    "source": "Politico — UK",
+    "title": "Geert Wilders’ one-man rule — and what that means for the Dutch",
+    "summary": "How Europe’s smallest party became the Netherlands’ largest political force.",
+    "url": "https://www.politico.eu/article/geert-wilders-one-man-rule-what-that-means-for-dutch-party-of-freedom/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-16T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/08/Geert-Wilders-Joker-final-ONLINE.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-4db72e13db",
+    "source": "Politico — UK",
+    "title": "Why migration is taking over the UK Foreign Office",
+    "summary": "Veteran international dealmaker Yvette Cooper has a new job, but the same focus.",
+    "url": "https://www.politico.eu/article/uk-foreign-office-migrants-france-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-16T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/GettyImages-2239505767-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-135e7c8c13",
+    "source": "BBC — Top Stories",
+    "title": "The Last Dinner Party are feasting on love, death and killer riffs",
+    "summary": "The rock band discuss the themes that fuelled their critically-acclaimed new album, From The Pyre.",
+    "url": "https://www.bbc.com/news/articles/c2lpnn2w5qjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T01:43:15Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dea8/live/58585f90-a9a5-11f0-928c-71dbb8619e94.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-f098e3c796",
     "source": "BBC — Top Stories",
     "title": "Government publishes key witness statements in collapsed China spy case",
     "summary": "The government's deputy national security adviser warned in 2023 that China was carrying out \"large scale espionage\" activities against the UK.",
     "url": "https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T01:03:17Z",
+    "published": "2025-10-16T01:31:45Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-15125fa2bd",
+    "source": "BBC — Top Stories",
+    "title": "The real problem with Britain's asylum hotels - and the woman with a bold idea to solve it",
+    "summary": "Instead of using private contractors to provide hotel rooms to asylum seekers, could paying councils to buy more properties be the solution?",
+    "url": "https://www.bbc.com/news/articles/cdx4rrrvg8do?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T00:38:20Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7921/live/7fc18c00-a9b9-11f0-b2a1-6f537f66f9aa.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -60,6 +180,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-f536aa8f8f",
+    "source": "BBC — Top Stories",
+    "title": "'I can't afford to save both twins': Sudan's war left one mother with an impossible choice",
+    "summary": "The destruction and hunger that Sudan's war has brought leaves parents with some impossible choices.",
+    "url": "https://www.bbc.com/news/articles/cre5rng5808o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T23:10:51Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c84/live/2ba8f570-a9c5-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-f322a1190e",
     "source": "The Guardian — UK",
     "title": "Border security officers sent to Balkans to disrupt people-smuggling networks",
@@ -67,6 +199,18 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/16/border-security-officers-sent-to-balkans-to-disrupt-people-smuggling-networks",
     "published": "2025-10-15T23:05:40Z",
     "image_url": "https://i.guim.co.uk/img/media/3dbd98e9de5047b344854898a2c32738293c73c9/99_0_4561_3649/master/4561.jpg?width=140&quality=85&auto=format&fit=max&s=f07555eb1bb8c84d37b0bd3419fccdf1",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7bd045358e",
+    "source": "BBC — Top Stories",
+    "title": "Russia intensifies attacks on Ukraine's trains in 'battle for the railways'",
+    "summary": "In the last two months, Russia has hugely upped its attacks on Ukraine's trains and rail network.",
+    "url": "https://www.bbc.com/news/articles/cvgdepnqk2jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T23:04:20Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e4d/live/6b8113b0-a904-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -240,30 +384,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-02034df81a",
-    "source": "Politico — UK",
-    "title": "Pressure mounts on NATO allies to go all-in on Trump arms scheme for Ukraine",
-    "summary": "A majority of NATO countries have joined the PURL scheme, and the rest are under pressure \"to put your money where your mouth is.\"",
-    "url": "https://www.politico.eu/article/pressure-mounts-nato-allies-go-all-in-us-trump-arms-scheme-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-15T19:40:03Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/GettyImages-2240761222-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6fb1424adc",
-    "source": "BBC — Top Stories",
-    "title": "Cracked windscreen forces US defence secretary's plane to land in UK",
-    "summary": "The Pentagon says Hegseth and other military leaders on board, who were travelling back from a Nato meeting, are safe.",
-    "url": "https://www.bbc.com/news/articles/cd67qe0255vo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T19:29:34Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c07c/live/7da5d950-a9f8-11f0-ba75-093eca1ac29b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-b5900ec22d",
     "source": "The Guardian — UK",
     "title": "Trump’s fragile ceasefire plan: what next for Gaza? – podcast",
@@ -271,18 +391,6 @@
     "url": "https://www.theguardian.com/politics/audio/2025/oct/15/trumps-fragile-peace-plan-what-next-for-gaza-podcast",
     "published": "2025-10-15T19:06:47Z",
     "image_url": "https://i.guim.co.uk/img/media/20658f68cafa7842094de6f325288ac4e55aa6ba/454_0_4536_3629/master/4536.jpg?width=140&quality=85&auto=format&fit=max&s=15a03a260168ccbff8a198d2133141e2",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-9da9f15b89",
-    "source": "Politico — UK",
-    "title": "US defense secretary’s plane makes emergency stop in UK",
-    "summary": "All passengers, including Hegseth, were safe after the plane landed due to a crack in its windshield.",
-    "url": "https://www.politico.com/news/2025/10/15/hegseth-plan-united-kingdom-00609776?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-15T19:05:53Z",
-    "image_url": null,
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -300,18 +408,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-55b5a6d5ed",
-    "source": "Politico — UK",
-    "title": "Slovak PM vows to derail key EU summit",
-    "summary": "Populist leader Robert Fico said he intends to challenge a draft joint statement from the European Council and push for measures on energy prices and carmaking.",
-    "url": "https://www.politico.eu/article/slovakia-robert-fico-vow-derail-key-eu-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-15T18:22:17Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/GettyImages-2232749085-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-d432caff11",
     "source": "The Guardian — UK",
     "title": "Rachel Reeves says higher taxes on wealthy ‘part of the story’ for November budget",
@@ -319,18 +415,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/15/rachel-reeves-says-higher-taxes-on-wealthy-part-of-the-story-for-november-budget",
     "published": "2025-10-15T18:15:51Z",
     "image_url": "https://i.guim.co.uk/img/media/9b395f1774e0a93b07a28094bf2a4005dad9468b/1986_82_4671_3737/master/4671.jpg?width=140&quality=85&auto=format&fit=max&s=afb37a3189dede338b3c931009490ea8",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-911dfec839",
-    "source": "Politico — UK",
-    "title": "L’Europe lave son linge sale en public lors d’un procès entre le Parlement et la Commission",
-    "summary": "L'affaire, qui porte sur le dégel de fonds versés à la Hongrie, soulève des questions sur la fonction du budget de l'UE, selon les avocats.",
-    "url": "https://www.politico.eu/article/leurope-etale-son-linge-sale-en-public-lors-dun-proces-entre-le-parlement-et-la-commission/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-15T18:07:05Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/GettyImages-2232795081-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -360,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-55a661a826",
-    "source": "Politico — UK",
-    "title": "Hegseth warns of ‘costs on Russia’ in latest sign of shifting US stance",
-    "summary": "The Defense secretary spoke before a meeting of European defense leaders that he has skipped in the past.",
-    "url": "https://www.politico.com/news/2025/10/15/hegseth-criticism-russia-ukraine-00608885?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-15T17:17:47Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-9b93b2dc9a",
     "source": "The Guardian — UK",
     "title": "English councils to remain poorer than in 2010 despite funding rise, says report",
@@ -391,18 +463,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/15/jonathan-powell-the-adviser-who-has-become-a-powerful-influence-on-uk-foreign-policy",
     "published": "2025-10-15T16:46:36Z",
     "image_url": "https://i.guim.co.uk/img/media/a523b8b60cc34630daa76fa1d1ee28f0c18bbde8/0_150_1979_1583/master/1979.jpg?width=140&quality=85&auto=format&fit=max&s=0e90bbdcb0d5de5e1f0f02e8bb0f5fba",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-1f54781d0a",
-    "source": "Politico — UK",
-    "title": "RFK Jr. adviser praises Europe, UK’s Covid shots data",
-    "summary": "Robert W. Malone was launching the Make Europe Healthy Again movement in the European Parliament.",
-    "url": "https://www.politico.eu/article/rfk-jr-adviser-praises-europe-uk-covid-shots-data/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-15T16:45:13Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/GettyImages-2028795623-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -444,30 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-2407fdf2f8",
-    "source": "BBC — Top Stories",
-    "title": "Man who murdered girlfriend in hot tub is jailed for life",
-    "summary": "Aren Pearson will spend at least 25 years in jail for stabbing Claire Leveque to death in Shetland in 2023.",
-    "url": "https://www.bbc.com/news/articles/cvgvx134d86o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T15:28:47Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53a7/live/b5856120-a9d9-11f0-ba75-093eca1ac29b.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-8edab1a3bb",
-    "source": "BBC — Top Stories",
-    "title": "After the PM's appearance at PMQs, what more do we know about the collapsed China spy case?",
-    "summary": "The detail of this story is enormously complicated, and it is possible the release of witness statements do not signal the end of the saga.",
-    "url": "https://www.bbc.com/news/articles/cn09ezx0qn4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T14:28:57Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e2/live/aa0dcc70-a9d3-11f0-b2a1-6f537f66f9aa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-57b8c9fbb1",
     "source": "The Guardian — UK",
     "title": "EHRC drops interim trans advice and urges ministers to act fast to approve its guidance",
@@ -504,18 +540,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-7a33180286",
-    "source": "BBC — Top Stories",
-    "title": "D'Angelo: A musical pioneer who reshaped soul",
-    "summary": "The singer, who has died aged 51, was credited with creating the album that became the genre's blueprint.",
-    "url": "https://www.bbc.com/news/articles/c62e5e3j75vo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T12:23:03Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856e/live/651f6030-a9c2-11f0-ab49-412d477b922a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-7898897b1b",
     "source": "BBC — Top Stories",
     "title": "'Time to begin healing together': Israeli hostage couple reunited after 738 days",
@@ -535,30 +559,6 @@
     "url": "https://www.theguardian.com/news/audio/2025/oct/15/inside-the-mystery-of-the-collapsed-chinese-spy-trial-podcast",
     "published": "2025-10-15T02:00:10Z",
     "image_url": "https://i.guim.co.uk/img/media/200b95f5770a95dd9fdf8c1ce1a84c625728aaef/676_0_6138_4913/master/6138.jpg?width=140&quality=85&auto=format&fit=max&s=e00a7395c180e4578788bf7756e8c0be",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7bff33d622",
-    "source": "BBC — Top Stories",
-    "title": "'It gave me my voice back': How group singing is helping new mums with postnatal depression",
-    "summary": "New research suggests singing can be clinically effective at treating the symptoms and cost effective for the NHS.",
-    "url": "https://www.bbc.com/news/articles/c93127z99yxo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T23:32:02Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e251/live/daef4b20-a45b-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-650c2ab885",
-    "source": "BBC — Top Stories",
-    "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2025",
-    "summary": "South African photographer Wim van den Heever takes the main prize for his shot",
-    "url": "https://www.bbc.com/news/articles/cx253vrd931o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-14T23:04:11Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5e/live/963dedd0-a9ae-11f0-aa13-0b0479f6f42a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
