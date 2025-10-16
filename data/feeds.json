@@ -1,5 +1,29 @@
 [
   {
+    "id": "BBC — Top Stories-f236e4bea7",
+    "source": "BBC — Top Stories",
+    "title": "'Wrong' to block Tel Aviv fans from Aston Villa match, says PM",
+    "summary": "Followers of the Israeli club will not be allowed to attend the Europa League game over safety concerns.",
+    "url": "https://www.bbc.com/news/articles/c205gnz5p8xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T21:14:50Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2ed/live/08b96ff0-aad2-11f0-907b-733fc7f56ec1.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7765a6b04b",
+    "source": "BBC — Top Stories",
+    "title": "Former Trump adviser John Bolton criminally indicted",
+    "summary": "Bolton's indictment makes him the third of the US president's political opponents to face criminal charges in recent weeks.",
+    "url": "https://www.bbc.com/news/articles/cgql2qzkz5zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T21:14:39Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0ec/live/769b8cd0-a9d1-11f0-aa31-b1f6905de5c6.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-4d972ff593",
     "source": "BBC — Top Stories",
     "title": "Aid group suspends Gaza operations after ceasefire",
@@ -19,18 +43,6 @@
     "url": "https://www.politico.eu/article/raffaele-fitto-commission-slaps-down-budget-compromise-lawmakers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-16T19:20:35Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/GettyImages-2217925450-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-577cf2a1f8",
-    "source": "BBC — Top Stories",
-    "title": "No Maccabi Tel Aviv fans allowed at Aston Villa match over safety concerns",
-    "summary": "Aston Villa confirm no away fans will be permitted to attend the Europa League match at Villa Park against Maccabi Tel Aviv in November.",
-    "url": "https://www.bbc.com/sport/football/articles/cy9pjv59w95o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T18:50:45Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfcb/live/45d314c0-aab1-11f0-8051-295629adf78e.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -583,18 +595,6 @@
     "url": "https://www.theguardian.com/environment/2025/oct/14/protecting-home-flood-defence-doors-drains-paving",
     "published": "2025-10-14T04:00:11Z",
     "image_url": "https://i.guim.co.uk/img/media/6b2c3dd2dbc457cbab9ca58ccadfe943d628bb99/177_0_3415_2732/master/3415.jpg?width=140&quality=85&auto=format&fit=max&s=ee6eef356b889f0ad313425912c3483b",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-53515fb374",
-    "source": "BBC — Top Stories",
-    "title": "BBC News app",
-    "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
-    "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
-    "published": "2025-04-30T14:04:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
