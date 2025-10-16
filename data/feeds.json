@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-a95e170b65",
+    "source": "BBC — Top Stories",
+    "title": "The controversy over the collapsed China spy case explained",
+    "summary": "The government is facing questions about why the case collapsed just weeks before a trial was due to go ahead.",
+    "url": "https://www.bbc.com/news/articles/ceq057734w1o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T05:08:45Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4d4/live/9865e380-a8d5-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-9a6588fb20",
+    "source": "The Guardian — UK",
+    "title": "Rachel Reeves should consider welfare cuts in budget, IFS says",
+    "summary": "Thinktank urges chancellor to take ‘bold’ action on benefits and pensions to placate jittery financial markets Britain’s leading tax and spending experts have urged Rachel Reeves to consider announcing billions of pounds in welfare cuts in next month’s budget to help placate jittery financial markets. After the chancellor gave her strongest hint yet that spending cuts were under consideration , the Institute for Fiscal Studies (IFS) called on Reeves to take “bold” action to plug a potential £22bn shortfall in the government finances. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/16/rachel-reeves-should-consider-welfare-cuts-in-budget-ifs-says",
+    "published": "2025-10-16T05:00:58Z",
+    "image_url": "https://i.guim.co.uk/img/media/34f18f5766fd18c44f9d2cbb073383ccfa7c8597/0_0_4619_3697/master/4619.jpg?width=140&quality=85&auto=format&fit=max&s=04fd72872e95974d1fcf9746fe696fdd",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-f098e3c796",
+    "source": "BBC — Top Stories",
+    "title": "Government publishes key witness statements in collapsed China spy case",
+    "summary": "The government's deputy national security adviser warned in 2023 that China was carrying out \"large scale espionage\" activities against the UK.",
+    "url": "https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T04:28:47Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a026670a28",
+    "source": "BBC — Top Stories",
+    "title": "Trump says Modi has agreed to stop buying Russian oil",
+    "summary": "The US president says the move is \"a big stop\", but there has been no confirmation so far from Delhi.",
+    "url": "https://www.bbc.com/news/articles/ce8gdl54n1go?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T04:23:14Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cfc/live/bc52fc50-aa0c-11f0-aa13-0b0479f6f42a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9645e04fb4",
+    "source": "BBC — Top Stories",
+    "title": "Cabinet Office rejects Cummings' China breach claim",
+    "summary": "Boris Johnson's ex-Downing Street aide says Beijing obtained \"vast amounts\" of \"secret\" data.",
+    "url": "https://www.bbc.com/news/articles/ce3xz607dpro?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T04:19:49Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c52e/live/c16db960-aa29-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-2772211184",
     "source": "Politico — UK",
     "title": "Kanzler Merz: Auf der Suche nach Konsens",
@@ -132,18 +192,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-f098e3c796",
-    "source": "BBC — Top Stories",
-    "title": "Government publishes key witness statements in collapsed China spy case",
-    "summary": "The government's deputy national security adviser warned in 2023 that China was carrying out \"large scale espionage\" activities against the UK.",
-    "url": "https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T01:31:45Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a266/live/5582c670-a95a-11f0-92db-77261a15b9d2.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-15125fa2bd",
     "source": "BBC — Top Stories",
     "title": "The real problem with Britain's asylum hotels - and the woman with a bold idea to solve it",
@@ -228,18 +276,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-7bd045358e",
-    "source": "BBC — Top Stories",
-    "title": "Russia intensifies attacks on Ukraine's trains in 'battle for the railways'",
-    "summary": "In the last two months, Russia has hugely upped its attacks on Ukraine's trains and rail network.",
-    "url": "https://www.bbc.com/news/articles/cvgdepnqk2jo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T23:04:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e4d/live/6b8113b0-a904-11f0-b741-177e3e2c2fc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-170cfdf060",
     "source": "BBC — Top Stories",
     "title": "Months after fall of Assad, families of Syria's missing still seeking justice",
@@ -255,7 +291,7 @@
     "id": "BBC — Top Stories-1e0e30ec37",
     "source": "BBC — Top Stories",
     "title": "Reeves urged to make Budget 'bold' or risk future tax rises",
-    "summary": "The Institute for Fiscal Studies says Reeves needs to find £22bn to make up a finance shortfall.",
+    "summary": "The Institute for Fiscal Studies says the chancellor needs to find £22bn to make up a shortfall.",
     "url": "https://www.bbc.com/news/articles/cg7n8v34jvlo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-15T23:02:53Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f54f/live/8f97b450-a9c9-11f0-a5c2-cb318711a6b0.jpg",
@@ -372,18 +408,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a026670a28",
-    "source": "BBC — Top Stories",
-    "title": "Trump says Modi has agreed to stop buying Russian oil",
-    "summary": "The US president says the move is \"a big stop\", but there has been no confirmation so far from Delhi.",
-    "url": "https://www.bbc.com/news/articles/ce8gdl54n1go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T21:35:56Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cfc/live/bc52fc50-aa0c-11f0-aa13-0b0479f6f42a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-24a007e073",
     "source": "The Guardian — UK",
     "title": "Case dropped against Met police officer who shot unarmed man",
@@ -415,18 +439,6 @@
     "url": "https://www.bbc.com/news/articles/c629rdgyzl5o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-15T19:02:30Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5c8dfd50-9fbd-11f0-b73e-e715acbd6a10.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-d432caff11",
-    "source": "The Guardian — UK",
-    "title": "Rachel Reeves says higher taxes on wealthy ‘part of the story’ for November budget",
-    "summary": "Exclusive: Chancellor hints at rises and calls out past ‘scaremongering’ over VAT on private schools and changes to non-doms Rachel Reeves has said higher taxes on the UK’s wealthy will form part of next month’s budget, as she shrugged off the “scaremongering” and “bleating” of her critics, and stressed her determination to repair the public finances. Speaking in Washington, where she is attending the annual meetings of the International Monetary Fund (IMF), the chancellor told the Guardian there “won’t be a return to austerity” and hinted at tax increases for the most well-off. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/15/rachel-reeves-says-higher-taxes-on-wealthy-part-of-the-story-for-november-budget",
-    "published": "2025-10-15T18:15:51Z",
-    "image_url": "https://i.guim.co.uk/img/media/9b395f1774e0a93b07a28094bf2a4005dad9468b/1986_82_4671_3737/master/4671.jpg?width=140&quality=85&auto=format&fit=max&s=afb37a3189dede338b3c931009490ea8",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -499,18 +511,6 @@
     "url": "https://www.bbc.com/news/articles/c5ypwqwlnn2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-15T16:05:01Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ca7/live/eb30fb80-a9c6-11f0-8da2-811fba9518ff.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4ca8ba40b4",
-    "source": "BBC — Top Stories",
-    "title": "Funeral director admits fraud charges after inquiry into human remains at his premises in Hull",
-    "summary": "Robert Bush denied 30 counts of preventing lawful burials but admitted fraud charges.",
-    "url": "https://www.bbc.com/news/articles/cwyplw17897o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T15:56:24Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/208c/live/f92571e0-a9de-11f0-b2a1-6f537f66f9aa.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
