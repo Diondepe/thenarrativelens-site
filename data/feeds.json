@@ -1,9 +1,33 @@
 [
   {
+    "id": "BBC — Top Stories-577cf2a1f8",
+    "source": "BBC — Top Stories",
+    "title": "No Maccabi Tel Aviv fans allowed at Aston Villa match over safety concerns",
+    "summary": "Aston Villa confirm no away fans will be permitted to attend the Europa League match at Villa Park against Maccabi Tel Aviv in November.",
+    "url": "https://www.bbc.com/sport/football/articles/cy9pjv59w95o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T18:50:45Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfcb/live/45d314c0-aab1-11f0-8051-295629adf78e.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-3f704d0951",
+    "source": "The Guardian — UK",
+    "title": "Head of CPS faces cross-party pressure to explain China spy trial collapse",
+    "summary": "Stephen Parkinson questioned by joint committees as MI5 expresses frustration over charges being dropped The director of public prosecutions came under intense cross-party pressure on Thursday night to explain why the China spy trial collapsed as MI5 expressed frustration at the decision and MPs launched a series of inquiries into how it was taken. The chairs of the home affairs, foreign affairs, justice and national security committees wrote together to Stephen Parkinson, the head of the Crown Prosecution Service (CPS), calling on him to give “a fuller explanation for the dropping of charges”. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/oct/16/head-of-cps-faces-cross-party-pressure-to-explain-china-spy-trial-collapse",
+    "published": "2025-10-16T18:44:22Z",
+    "image_url": "https://i.guim.co.uk/img/media/89b5115ff3dcbd2ea5f9a91d70b0b53658e27708/1320_135_3594_2875/master/3594.jpg?width=140&quality=85&auto=format&fit=max&s=c2c84dd72cccd0de7b32fe031883d6fe",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-88488bd9ba",
     "source": "Politico — UK",
     "title": "‘We are ready’: Orbán hails planned Trump-Putin meeting in Budapest",
-    "summary": "U.S. president says he will meet Russian leader in Hungary.",
+    "summary": "The U.S. president says he will meet Russia's leader in Hungary.",
     "url": "https://www.politico.eu/article/viktor-orban-vladimir-putin-russia-ukraine-donald-trump-meeting/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-16T18:19:32Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/13114809-scaled.jpg",
@@ -19,6 +43,18 @@
     "url": "https://www.bbc.com/news/articles/c4gkm0243wzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T18:16:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024c/live/0b0b5130-aabc-11f0-aa13-0b0479f6f42a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-df5f645142",
+    "source": "BBC — Top Stories",
+    "title": "Met chief vows 'ruthless' rogue officer clear-out",
+    "summary": "Sir Mark Rowley says the force is making progress in rooting out unfit officers in its ranks.",
+    "url": "https://www.bbc.com/news/articles/cn09djnzrn4o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T17:59:46Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b91/live/0e47f180-aaaf-11f0-8051-295629adf78e.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -43,18 +79,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/16/manchester-pride-determining-best-way-forward-after-claims-performers-have-not-been-paid",
     "published": "2025-10-16T17:49:59Z",
     "image_url": "https://i.guim.co.uk/img/media/ba04332d8e3490d5eca2fdfaf2b4eb18ffc0da29/1120_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=443c65b89c8eb46eac0caa6a8f776f7c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-577cf2a1f8",
-    "source": "BBC — Top Stories",
-    "title": "No Maccabi Tel Aviv fans allowed at Aston Villa match over safety concerns",
-    "summary": "Aston Villa confirm no away fans will be permitted to attend the Europa League match at Villa Park against Maccabi Tel Aviv in November.",
-    "url": "https://www.bbc.com/sport/football/articles/cy9pjv59w95o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T17:38:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfcb/live/45d314c0-aab1-11f0-8051-295629adf78e.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -192,13 +216,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-b3be7d55f4",
+    "id": "The Guardian — UK-0fd854fcb5",
     "source": "The Guardian — UK",
-    "title": "Man accused of killing Georgina Ward in 2020 appears in Dudley court",
-    "summary": "Daniel Birtwistle, 39, faces trial for manslaughter of 24-year-old tattoo artist and other charges including assault A man has appeared in court charged with manslaughter, assault and coercive and controlling behaviour. Daniel Birtwistle, 39, from Tamworth, Staffordshire, appeared by video link at Dudley magistrates court on Thursday morning, where he spoke only to confirm his name and date of birth. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/16/man-accused-of-killing-georgina-ward-in-2020-appears-in-dudley-court",
-    "published": "2025-10-16T16:26:17Z",
-    "image_url": "https://i.guim.co.uk/img/media/7aab3982d531456e52823b31504af26f3ba1fef8/0_106_1487_1190/master/1487.jpg?width=140&quality=85&auto=format&fit=max&s=ff77d15d2a34e228f172b42f89c4d5fa",
+    "title": "No 10 says Badenoch’s claim PM should have intervened to stop China spy trial collapsing ‘absurd’ – as it happened",
+    "summary": "Downing Street says had Starmer intervened he would have been interfering in a case related to a previous government. This live blog is closed Ward says that “no minister or special adviser played any role in the provision of evidence” under this government. He says he cannot say if that was the case under the last government. There is a lot of jeering at this. The Speaker, Lindsay Hoyle , reprimands Tom Tugendhat for his interruption. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/16/china-spy-case-cps-keir-starmer-uk-politics-latest-news-updates",
+    "published": "2025-10-16T16:15:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/d531e71f36df851b9482ec86e79bd6053562df55/350_0_4118_3294/master/4118.jpg?width=140&quality=85&auto=format&fit=max&s=b948fd612f7a2cda4548be541a7d94ce",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -254,7 +278,7 @@
   {
     "id": "BBC — Top Stories-b9fa783566",
     "source": "BBC — Top Stories",
-    "title": "What was alleged against Christopher Cash and Christopher Berry in China spy case?",
+    "title": "What was alleged against the men who were accused of spying for China?",
     "summary": "The two were accused of passing information to an agent who forwarded it to a high-ranking Chinese official.",
     "url": "https://www.bbc.com/news/articles/cpd2vxzpgl7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T15:54:13Z",
@@ -375,7 +399,7 @@
     "id": "The Guardian — UK-ae3123017e",
     "source": "The Guardian — UK",
     "title": "Labour begins charm offensive to win over MPs sceptical of digital ID plans",
-    "summary": "Party tries to reassure its MPs about proposed scheme and gather ideas on how it could improve public services UK politics live – latest updates Ministers have launched a charm offensive to win over sceptical Labour MPs to back the digital ID scheme, asking MPs to offer ideas about how it could improve public services. The outreach is part of a broader loyalty and delivery drive to soothe tensions after a fractious few months for the government. Continue reading...",
+    "summary": "Party tries to reassure its MPs about proposed scheme and gather ideas on how it could improve public services Ministers have launched a charm offensive to win over sceptical Labour MPs to back the digital ID scheme, asking MPs to offer ideas about how it could improve public services. The outreach is part of a broader loyalty and delivery drive to soothe tensions after a fractious few months for the government. Continue reading...",
     "url": "https://www.theguardian.com/politics/2025/oct/16/ministers-begin-charm-offensive-to-win-over-labour-mps-sceptical-of-digital-id-plans",
     "published": "2025-10-16T14:14:18Z",
     "image_url": "https://i.guim.co.uk/img/media/06d92341c681c5c3b23c3fa38a82cb200c4dfdc9/153_0_1930_1545/master/1930.jpg?width=140&quality=85&auto=format&fit=max&s=62900829781c7abde38c64e418e91e29",
@@ -420,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-13cdef81a7",
-    "source": "The Guardian — UK",
-    "title": "MPs to hold inquiry into collapsed China spy case after No 10 publishes key evidence",
-    "summary": "Labour MP and chair of security committee Matt Western says there are ‘a lot of questions yet to be asked’ Questions for CPS after No 10 publishes key witness statements in China spy row MPs will hold an inquiry into the collapse of the caseagainst two men accused of spying for China, after No 10 published key evidence in an attempt to draw a line under the row. Matt Western, a Labour MP and chair of the joint committee on the national security strategy, told the House of Commons there were “a lot of questions yet to be asked” and announced a formal inquiry. Continue reading...",
-    "url": "https://www.theguardian.com/law/2025/oct/16/prosecutions-director-must-explain-why-china-spy-case-was-dropped-says-minister",
-    "published": "2025-10-16T13:43:27Z",
-    "image_url": "https://i.guim.co.uk/img/media/d531e71f36df851b9482ec86e79bd6053562df55/350_0_4118_3294/master/4118.jpg?width=140&quality=85&auto=format&fit=max&s=b948fd612f7a2cda4548be541a7d94ce",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-9a095fbc74",
     "source": "BBC — Top Stories",
     "title": "Omaze house winners to get keys as planning row ends",
@@ -456,13 +468,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-d6c677c62d",
+    "id": "BBC — Top Stories-b6a193d994",
     "source": "BBC — Top Stories",
-    "title": "BBC rejects Gregg Wallace's harassment damages claim",
-    "summary": "The former MasterChef presenter is taking legal action against the corporation after he was sacked.",
-    "url": "https://www.bbc.com/news/articles/ce8z0lx0e71o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T12:18:02Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2453/live/02728950-a8d0-11f0-92db-77261a15b9d2.jpg",
+    "title": "Prominent Palestinian prisoner Marwan Barghouti attacked by guards, family says",
+    "summary": "The alleged attack on the 66-year-old is said to have left him unconscious. Israel's prison service called the claim \"fake\".",
+    "url": "https://www.bbc.com/news/articles/cpwvr2xpkz0o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T12:08:47Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76cf/live/ad2d8f80-aa82-11f0-9334-19f2cf191969.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -475,18 +487,6 @@
     "url": "https://www.bbc.com/news/articles/cp3x55rqdy5o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T11:57:37Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d265/live/67d562f0-aa87-11f0-978a-a301e44bcdc7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-547c073a4b",
-    "source": "BBC — Top Stories",
-    "title": "Guide dog charity welcomes largest litter in years",
-    "summary": "Guide Dogs says the 13 puppies, named \"the baker's dozen\", could cost £1m to breed, raise and train.",
-    "url": "https://www.bbc.com/news/articles/c04glp477ygo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T11:46:27Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad0/live/42fe27d0-aa7a-11f0-aa13-0b0479f6f42a.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
