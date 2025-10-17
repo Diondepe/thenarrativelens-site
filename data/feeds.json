@@ -1,5 +1,101 @@
 [
   {
+    "id": "BBC — Top Stories-e90ab7589a",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'China spy fiasco' and 'Ban' on Israeli fans a 'national disgrace'",
+    "summary": "The collapsed China spy case leads the majority of the papers for the second day in a row.",
+    "url": "https://www.bbc.com/news/articles/crmxz4zlj97o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T01:09:33Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6e8/live/1aa65a90-aaf3-11f0-b2a1-6f537f66f9aa.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-de6d467327",
+    "source": "BBC — Top Stories",
+    "title": "Why talking about sweat stopped being a taboo (long before Alan Carr was on Traitors)",
+    "summary": "Let's talk about sweat... From Alan Carr and scores of celebrities openly discussing it, to the trend of professionals using saunas for business meetings",
+    "url": "https://www.bbc.com/news/articles/cwy51pgql7eo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T00:47:10Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4478/live/456d6860-aaa1-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0189a78b23",
+    "source": "BBC — Top Stories",
+    "title": "KISS founding guitarist Ace Frehley dies aged 74",
+    "summary": "Bandmates Gene Simmons and Paul Stanley have paid tribute to an \"irreplaceable rock soldier\".",
+    "url": "https://www.bbc.com/news/articles/cj41vwgv47no?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T00:14:22Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/285f/live/b09d0690-aaec-11f0-83de-033e77bcbaac.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-37a74e90ac",
+    "source": "BBC — Top Stories",
+    "title": "Weekly quiz: Which prize did this sleepy spider win a 10-year-old?",
+    "summary": "How much attention did you pay to what happened in the world over the past seven days?",
+    "url": "https://www.bbc.com/news/articles/cvgvw7103ppo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T23:50:20Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b012/live/4b1919d0-aac9-11f0-aa13-0b0479f6f42a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7765a6b04b",
+    "source": "BBC — Top Stories",
+    "title": "Former Trump adviser John Bolton criminally indicted",
+    "summary": "Bolton is the third of the US president's political opponents to face charges in recent weeks.",
+    "url": "https://www.bbc.com/news/articles/cgql2qzkz5zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T23:48:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0ec/live/769b8cd0-a9d1-11f0-aa31-b1f6905de5c6.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-6cd20145ad",
+    "source": "BBC — Top Stories",
+    "title": "Reese Witherspoon on writing a thriller: 'What do girls in bikinis have to do with solving crime?'",
+    "summary": "The actress talks about co-writing her debut thriller, about a female surgeon, with Harlan Coben.",
+    "url": "https://www.bbc.com/news/articles/cn0gl91dwr2o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T23:44:48Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51e2/live/15169120-a900-11f0-ab74-91eb43b2b68c.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-12344f073a",
+    "source": "BBC — Top Stories",
+    "title": "The 'shadow army' helping Uganda's long-serving president keep an iron grip on power",
+    "summary": "Analysts say the unit has become so influential that it rivals the power of the regular army.",
+    "url": "https://www.bbc.com/news/articles/cvg33ke2d6do?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T23:37:10Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d51c/live/1970a530-897f-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e2a4280f25",
+    "source": "BBC — Top Stories",
+    "title": "Cafes and food delivery apps are our new rivals, Greene King CEO says",
+    "summary": "Young adults are drinking less, so the likes of Nick Mackenzie are having to expand the appeal of pubs.",
+    "url": "https://www.bbc.com/news/articles/cd9kd14pgzgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T23:05:11Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b46/live/664d8310-aa8a-11f0-978a-a301e44bcdc7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-7e2f11c5a4",
     "source": "The Guardian — UK",
     "title": "Launch of veteran card will be used to test UK government’s digital ID scheme",
@@ -36,30 +132,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-0189a78b23",
-    "source": "BBC — Top Stories",
-    "title": "KISS founding guitarist Ace Frehley dies aged 74",
-    "summary": "The member of the US rock band, known for his Spaceman persona, died surrounded by his family.",
-    "url": "https://www.bbc.com/news/articles/cj41vwgv47no?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T22:50:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83dd/live/dfa0d0e0-aae0-11f0-b2a1-6f537f66f9aa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-8f6b40a2b2",
-    "source": "BBC — Top Stories",
-    "title": "Strange shrieks as tensions rise in Celebrity Traitors",
-    "summary": "For many social media users, it was the subtitles that stole the show.",
-    "url": "https://www.bbc.com/news/articles/cjr04nwnq57o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T22:25:52Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/251b/live/1f6655a0-aadd-11f0-881b-d76376cce4d0.png",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-44ef36089c",
     "source": "BBC — Top Stories",
     "title": "Housing designed to combat loneliness wins top architecture award",
@@ -84,6 +156,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-0a770600f7",
+    "source": "BBC — Top Stories",
+    "title": "China has found Trump's pain point - rare earths",
+    "summary": "China holds a near-monopoly in the processing of the elements crucial for making everything from smartphones to fighter jets.",
+    "url": "https://www.bbc.com/news/articles/ckg1jr18z4ko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T22:03:42Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0744/live/7aa46040-aa94-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-5850591d0c",
     "source": "BBC — Top Stories",
     "title": "Sam Fender wins 2025 Mercury Prize for album of the year",
@@ -91,18 +175,6 @@
     "url": "https://www.bbc.com/news/articles/cp3dnjd9g4go?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T22:00:10Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c45/live/8e5e9100-aada-11f0-ba75-093eca1ac29b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7765a6b04b",
-    "source": "BBC — Top Stories",
-    "title": "Former Trump adviser John Bolton criminally indicted",
-    "summary": "Bolton is the third of the US president's political opponents to face charges in recent weeks.",
-    "url": "https://www.bbc.com/news/articles/cgql2qzkz5zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T21:51:52Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0ec/live/769b8cd0-a9d1-11f0-aa31-b1f6905de5c6.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -240,18 +312,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-7752678d60",
-    "source": "BBC — Top Stories",
-    "title": "MI5 operating in new era of terror and state threats, says chief",
-    "summary": "In an annual speech, Sir Ken McCallum says the security service is operating in \"a new era\" with terrorism remaining an \"ever-present threat\".",
-    "url": "https://www.bbc.com/news/articles/cgr40w2zereo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T17:11:27Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1fd/live/165a5240-aaa1-11f0-ba75-093eca1ac29b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-d310dc471e",
     "source": "The Guardian — UK",
     "title": "Ministers plan high-level visits to China despite espionage trial outcry",
@@ -271,18 +331,6 @@
     "url": "https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T17:02:04Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e5/live/61a91ac0-aaaa-11f0-aa13-0b0479f6f42a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e9fd1afdbd",
-    "source": "BBC — Top Stories",
-    "title": "Decision on China mega embassy in London delayed again",
-    "summary": "The proposed complex would be the biggest embassy in Europe if it goes ahead - but it has generated controversy.",
-    "url": "https://www.bbc.com/news/articles/cr7mn28drz8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T16:59:19Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7769/live/3ad037b0-aaa7-11f0-b533-114b7c628ce7.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,30 +528,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-1e65a47c59",
-    "source": "BBC — Top Stories",
-    "title": "French PM survives major test but breathing space will not last long",
-    "summary": "Sébastien Lecornu survives two confidence votes in parliament and can now focus on passing the 2026 budget.",
-    "url": "https://www.bbc.com/news/articles/clykve1xnn6o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T13:46:21Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fc7/live/33440470-aa95-11f0-86ac-8fbb271dad90.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9a095fbc74",
-    "source": "BBC — Top Stories",
-    "title": "Omaze house winners to get keys as planning row ends",
-    "summary": "Councillors give retrospective approval for unauthorised work on the £6m raffle prize.",
-    "url": "https://www.bbc.com/news/articles/c2016p06dpzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T13:40:25Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/290e/live/06c69380-aa78-11f0-ba75-093eca1ac29b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-206a5fe462",
     "source": "The Guardian — UK",
     "title": "China spy row: what do the witness statements say and what is their significance?",
@@ -511,30 +535,6 @@
     "url": "https://www.theguardian.com/world/2025/oct/16/china-spy-row-what-do-the-witness-statements-say-and-what-is-their-significance",
     "published": "2025-10-16T11:18:45Z",
     "image_url": "https://i.guim.co.uk/img/media/2beb20d0771107fb3ef81a4fe08f1375fa71a30c/192_0_1499_1199/master/1499.jpg?width=140&quality=85&auto=format&fit=max&s=7cb6a1ad78edf548800030131b07cd5a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-720f433d2a",
-    "source": "BBC — Top Stories",
-    "title": "Watch: BBC follows family forced to move four times in a year and live in hotel for months",
-    "summary": "Danielle and her three children have moved four times in a year after her landlord wanted to sell their flat.",
-    "url": "https://www.bbc.com/news/videos/cvgwx0n3557o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T05:10:27Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6986/live/8cff0410-a9f5-11f0-b2a1-6f537f66f9aa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-15125fa2bd",
-    "source": "BBC — Top Stories",
-    "title": "The real problem with Britain's asylum hotels - and the woman with a bold plan to solve it",
-    "summary": "Instead of using private contractors to provide hotel rooms to asylum seekers, could paying councils to buy more properties be the solution?",
-    "url": "https://www.bbc.com/news/articles/cdx4rrrvg8do?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T00:38:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7921/live/7fc18c00-a9b9-11f0-b2a1-6f537f66f9aa.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
