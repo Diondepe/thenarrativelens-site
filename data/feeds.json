@@ -1,12 +1,72 @@
 [
   {
-    "id": "BBC — Top Stories-f236e4bea7",
+    "id": "BBC — Top Stories-d86d5ed563",
     "source": "BBC — Top Stories",
-    "title": "'Wrong decision' to block Tel Aviv fans from Aston Villa match, says PM",
-    "summary": "Followers of the Israeli club will not be allowed to attend the Europa League game over safety concerns.",
-    "url": "https://www.bbc.com/news/articles/c205gnz5p8xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T07:14:54Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9751/live/6a03aad0-ab1a-11f0-93f3-35cf52b1b510.jpg",
+    "title": "HIV protection jab to be offered on NHS in England and Wales for first time",
+    "summary": "The shot, given six times a year or every other month, is an alternative to taking daily pills to protect against ever catching the virus.",
+    "url": "https://www.bbc.com/news/articles/c803egy217xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T08:18:39Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b86c/live/cdc0d600-a837-11f0-9f09-57500e5dbf06.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-4fe7acc687",
+    "source": "BBC — Top Stories",
+    "title": "Taylor Swift fans flock to German museum to see Ophelia painting",
+    "summary": "A German museum has seen hundreds of fans visit a painting depicted in the the singer's video .",
+    "url": "https://www.bbc.com/news/articles/cvgvwvq2jg4o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T08:11:35Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc42/live/9f5a4000-ab0a-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-8439e1fda8",
+    "source": "The Guardian — UK",
+    "title": "Ministers to explore reversing ban on Maccabi Tel Aviv fans attending UK match after PM’s criticism – politics live",
+    "summary": "Fans of the Israeli football team will not be allowed to attend the Europa League match at Aston Villa on 6 November owing to safety concerns Good morning. Yesterday it emerged that fans of Maccabi Tel Aviv will not be allowed to attend the Europa League match at Aston Villa on 6 November owing to safety concerns. The decision was taken by Birmingham’s safety advisory group, based on advice from the West Midlands police, who said the match would be “high risk” based on “current intelligence and previous incidents, ­including ­violent clashes and hate crime offences that occurred during the 2024 Uefa Europa League match between Ajax and ­Maccabi Tel Aviv in Amsterdam ”. There is more on the announcement here . The decision prompted widespread condemnation from political leaders. Keir Starmer said : This is the wrong decision. We will not tolerate antisemitism on our streets. This is a national disgrace. How have things come to this? A serious mistake by WM Police. You don’t tackle antisemitism by banning its victims. This decision must be reversed. From the moment that the match was announced, it was clear that there were latent safety risks that even our capable security and police authorities would not be able to fully manage. With so much hostility and uncertainty around the match, it was only right to take drastic measures. As Israel continues its assault on Gaza, killing thousands and devastating civilian infrastructure, sporting fixtures involving Israeli teams cannot be separated from the wider political context. Hosting such teams sends a message of normalisation and indifference to mass atrocities. [The decision is] just completely and utterly unacceptable, and the prime minister has said we will do everything we possibly can to resolve this issue. It’s an operational issue for the police, and government doesn’t get involved in operational issues for the police. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/17/keir-starmer-uk-politics-latest-news-updates-maccabi-tel-aviv-fans-banned",
+    "published": "2025-10-17T07:50:57Z",
+    "image_url": "https://i.guim.co.uk/img/media/ad5ab2cf424cf4344730f6a222e4514c6bb29857/1021_889_3944_3156/master/3944.jpg?width=140&quality=85&auto=format&fit=max&s=bb0f1038f816bce2709357ae328af2b6",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9d194f5882",
+    "source": "BBC — Top Stories",
+    "title": "Zelensky to meet Trump at White House to ask for Tomahawk missiles",
+    "summary": "Ukraine's leader will meet Trump in Washington a day after the US president agreed to face-to-face talks with his Russian counterpart.",
+    "url": "https://www.bbc.com/news/articles/crmxz37nv3zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T07:40:01Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea26/live/4896a750-ab0e-11f0-aa13-0b0479f6f42a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-af7e4392cd",
+    "source": "The Guardian — UK",
+    "title": "‘Gamechanging’ HIV prevention jab to be approved for England and Wales",
+    "summary": "Long-acting injection offers an alternative to daily pills taken to protect against the virus A “gamechanging” injection to prevent HIV is set to be approved for use in England and Wales. The long-acting jab, administered every two months, will offer an alternative to the daily pills used to protect against the virus. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/oct/17/hiv-prevention-injection-england-wales",
+    "published": "2025-10-17T07:17:49Z",
+    "image_url": "https://i.guim.co.uk/img/media/67ebca48d921b384e87e83d5416a59518086357a/172_0_5156_4125/master/5156.jpg?width=140&quality=85&auto=format&fit=max&s=a482afa114fb037d9c83cee1e4b53d6c",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-a94a1705b6",
+    "source": "The Guardian — UK",
+    "title": "Ferrari cuts number of cars it sends to UK after tax changes",
+    "summary": "Non-dom regime was abolished in April and carmaker says ‘some people are getting out of that country’ Ferrari has cut the number of cars it sells in the UK as wealthy individuals relocate overseas after tax changes and the abolition of non-dom status. The Italian luxury carmaker reportedly began limiting the number of vehicles it exported to the UK about six months ago, in an attempt to stop a decline in their residual value. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/17/ferrari-cuts-number-of-cars-it-sends-to-uk-after-tax-changes",
+    "published": "2025-10-17T07:15:37Z",
+    "image_url": "https://i.guim.co.uk/img/media/7328ee84251f34521de54751d5b91d588994058a/17_274_4087_3272/master/4087.jpg?width=140&quality=85&auto=format&fit=max&s=3d2235e84c8fc36badccd6c594591dbf",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -19,6 +79,18 @@
     "url": "https://www.bbc.com/news/articles/cd9kd14pgzgo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T07:01:09Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cae/live/704e8240-ab1d-11f0-ba75-093eca1ac29b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0a6e3e9406",
+    "source": "BBC — Top Stories",
+    "title": "Author of I Want To Die But I Want To Eat Tteokbokki dies at 35",
+    "summary": "South Korean writer Baek Se-hee was known for her 2018 bestselling memoir about her struggle with depression.",
+    "url": "https://www.bbc.com/news/articles/cpq1dy8w3jwo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T06:20:46Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d211/live/06e5cf80-ab21-11f0-93f3-35cf52b1b510.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -60,42 +132,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-0ea9654dfd",
-    "source": "BBC — Top Stories",
-    "title": "Military veterans now able to download digital ID card",
-    "summary": "The rollout can serve as a \"case study\" for how a wider scheme for all Britons will work, minister says.",
-    "url": "https://www.bbc.com/news/articles/cj3zmjrzegjo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T04:09:12Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b12/live/e4401a00-aac9-11f0-ba75-093eca1ac29b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-4fe7acc687",
-    "source": "BBC — Top Stories",
-    "title": "Taylor Swift fans flock to German museum to see Ophelia painting",
-    "summary": "The Hessische Landesmuseum in the central Germany has seen hundreds of fans visit in search of a painting depicted in the video for The Fate of Ophelia.",
-    "url": "https://www.bbc.com/news/articles/cvgvwvq2jg4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T04:08:13Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc42/live/9f5a4000-ab0a-11f0-b2a1-6f537f66f9aa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9d194f5882",
-    "source": "BBC — Top Stories",
-    "title": "Zelensky to make Tomahawk missile case in US after Trump-Putin phone call",
-    "summary": "Ukraine's leader will meet Trump in Washington a day after the US president agreed to face-to-face talks with his Russian counterpart.",
-    "url": "https://www.bbc.com/news/articles/crmxz37nv3zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T04:05:23Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea26/live/4896a750-ab0e-11f0-aa13-0b0479f6f42a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-da0c4f8969",
     "source": "The Guardian — UK",
     "title": "London developers to be allowed to reduce percentage of affordable homes",
@@ -110,7 +146,7 @@
   {
     "id": "BBC — Top Stories-50ad873b03",
     "source": "BBC — Top Stories",
-    "title": "Five takeaways from heated Mamdani-Cuomo New York mayoral debate",
+    "title": "Five takeaways from NYC mayoral debate as Mamdani and Cuomo clash",
     "summary": "The three leading candidates for New York City mayor have been making their case to lead America's biggest city.",
     "url": "https://www.bbc.com/news/articles/cn8xlx53jn6o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T02:43:13Z",
@@ -228,18 +264,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-d86d5ed563",
-    "source": "BBC — Top Stories",
-    "title": "HIV protection jab to be offered on NHS in England and Wales for first time",
-    "summary": "The shot, given six times a year or every other month, is an alternative to taking daily pills to protect against ever catching the virus.",
-    "url": "https://www.bbc.com/news/articles/c803egy217xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T01:27:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b86c/live/cdc0d600-a837-11f0-9f09-57500e5dbf06.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-e90ab7589a",
     "source": "BBC — Top Stories",
     "title": "The Papers: 'China spy fiasco' and 'Ban' on Israeli fans a 'national disgrace'",
@@ -278,11 +302,11 @@
   {
     "id": "BBC — Top Stories-37a74e90ac",
     "source": "BBC — Top Stories",
-    "title": "Weekly quiz: Which prize did this sleepy spider win a 10-year-old?",
+    "title": "Weekly quiz: What award did this sleepy spider win a 10-year-old?",
     "summary": "How much attention did you pay to what happened in the world over the past seven days?",
     "url": "https://www.bbc.com/news/articles/cvgvw7103ppo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T23:50:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b012/live/4b1919d0-aac9-11f0-aa13-0b0479f6f42a.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f8a/live/65444170-ab2f-11f0-aa13-0b0479f6f42a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -319,6 +343,18 @@
     "url": "https://www.bbc.com/news/articles/cvg33ke2d6do?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T23:37:10Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d51c/live/1970a530-897f-11f0-9cf6-cbf3e73ce2b9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-407fdc3d0d",
+    "source": "BBC — Top Stories",
+    "title": "British Gas owner among firms fined for underpaying staff",
+    "summary": "A list of nearly 500 employers fined more than £10m for failing to pay the minimum wage is released.",
+    "url": "https://www.bbc.com/news/articles/c4g7zrmpld0o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-16T23:04:51Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c99/live/03315f30-aac2-11f0-877c-fd491036f200.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -420,37 +456,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-626cce5afd",
+    "id": "The Guardian — UK-d310dc471e",
     "source": "The Guardian — UK",
-    "title": "Cardiff becomes first UK council to impose higher parking charges on larger vehicles",
-    "summary": "Premium charge aims to combat steep rise in SUVs and other larger vehicles which are ‘a danger to other road users’ Cardiff council will force drivers with larger vehicles to pay more for parking, becoming the first local authority in the UK to impose a parking premium to combat the dangers of larger vehicles. Councillors voted on Thursday to approve a new parking plan for the city whereby owners of larger vehicles will be charged more for parking permits because their cars “take up more parking space and are a danger to other road users”. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/16/cardiff-becomes-first-uk-council-to-impose-higher-parking-charges-on-larger-vehicles",
-    "published": "2025-10-16T17:57:02Z",
-    "image_url": "https://i.guim.co.uk/img/media/803e26250d6a84d46b0452142972cfd493ba020f/46_0_3480_2784/master/3480.jpg?width=140&quality=85&auto=format&fit=max&s=84bc191493018b7226c43900a3f95791",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-d358290645",
-    "source": "The Guardian — UK",
-    "title": "Manchester Pride ‘determining best way forward’ after claims performers have not been paid",
-    "summary": "Trustees working with legal and financial advisers as artists claim repeated emails have been ignored Manchester Pride has said it is “determining the best way forward” with legal and financial advisers after allegations that its performers have not been paid. One of Europe’s biggest LGBTQ+ Pride events issued a statement after performers who took part in this year’s three-day festival claimed they are owed thousands in unpaid fees. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/16/manchester-pride-determining-best-way-forward-after-claims-performers-have-not-been-paid",
-    "published": "2025-10-16T17:49:59Z",
-    "image_url": "https://i.guim.co.uk/img/media/ba04332d8e3490d5eca2fdfaf2b4eb18ffc0da29/1120_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=443c65b89c8eb46eac0caa6a8f776f7c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-2be3185571",
-    "source": "The Guardian — UK",
-    "title": "Thousands in UK take legal action against Johnson & Johnson over alleged talc cancer link",
-    "summary": "High court claim says company knowingly sold product containing asbestos and ‘concealed’ risk to public ‘When I was a child, everyone used it’: woman blames Johnson & Johnson talc for her cancer Thousands of people are taking legal action against the US pharmaceutical company Johnson & Johnson, claiming it knowingly sold baby powder containing asbestos-contaminated talc in the UK. About 3,000 people have alleged that they or a family member developed forms of ovarian cancer or mesothelioma from using Johnson’s Baby Powder, and are seeking damages at the high court in London. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/16/thousands-in-uk-open-case-against-johnson-johnson-over-alleged-talcum-powder-cancer-link",
-    "published": "2025-10-16T17:22:01Z",
-    "image_url": "https://i.guim.co.uk/img/media/18b4c09eef0fa9ca75bbd8ca8b16f42810722f58/905_0_4503_3605/master/4503.jpg?width=140&quality=85&auto=format&fit=max&s=f7880887d27ed747cf723f7f5057c649",
+    "title": "Ministers plan high-level visits to China despite espionage trial outcry",
+    "summary": "National security adviser, education secretary and science minister to visit before end of year as part of policy to reset relations Ministers are pushing ahead with their reset of relations with China, including several planned high-level visits before the end of the year, despite the furore triggered by the collapse of a high-profile espionage trial. Plans have been drawn up for Jonathan Powell , the national security adviser, to travel to Beijing in November for talks before an anticipated trip by Keir Starmer next year. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/16/ministers-plan-high-level-visits-to-china-despite-espionage-trial-outcry",
+    "published": "2025-10-16T17:10:22Z",
+    "image_url": "https://i.guim.co.uk/img/media/b1f3c5cd082b1b0bf8af9e84880aa7d9f9670596/271_0_2560_2048/master/2560.jpg?width=140&quality=85&auto=format&fit=max&s=e628d7326565e32801da9209949bd31d",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -511,18 +523,6 @@
     "url": "https://www.bbc.com/news/articles/cpd2vxzpgl7o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T15:54:13Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66e3/live/8b3e26b0-aaa4-11f0-b2a1-6f537f66f9aa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-7be36c5258",
-    "source": "The Guardian — UK",
-    "title": "UK economy expands as GDP rises by 0.1% in August ahead of crucial budget",
-    "summary": "Manufacturing and health sectors boost growth but ONS revises down figures for July Exclusive: says higher taxes on wealthy ‘part of budget story’ The UK economy expanded by 0.1% in August, according to official figures, giving a lift to Rachel Reeves before next month’s crucial budget. A boost from the manufacturing sector helped the economy improve along with a strong performance by the health sector. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/16/uk-economy-expands-as-gdp-rises-by-01-in-august-ahead-of-crucial-budget",
-    "published": "2025-10-16T14:45:02Z",
-    "image_url": "https://i.guim.co.uk/img/media/db0e13f23fb65c49aeed89f83d00bcca9f5e8319/462_0_4212_3371/master/4212.jpg?width=140&quality=85&auto=format&fit=max&s=14ebad530a44d31f7864ece683f747e6",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
