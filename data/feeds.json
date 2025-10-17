@@ -1,5 +1,173 @@
 [
   {
+    "id": "BBC — Top Stories-50ad873b03",
+    "source": "BBC — Top Stories",
+    "title": "Five takeaways from heated Mamdani-Cuomo New York mayoral debate",
+    "summary": "The three leading candidates for New York City mayor took the stage in Manhattan to make a case to lead America's biggest city.",
+    "url": "https://www.bbc.com/news/articles/cn8xlx53jn6o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T02:43:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aad/live/03a87b70-aaf8-11f0-af50-73683b2b8713.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-c1deb67f64",
+    "source": "Politico — UK",
+    "title": "Blackout for blackout: Ukraine punches back for Russian attacks",
+    "summary": "Ukraine has built up its own long-range strike capability and is now punishing Russia for its attacks.",
+    "url": "https://www.politico.eu/article/kyiv-sends-missiles-drones-into-russia-retaliation-non-nuclear-strike/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-17T02:09:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/13/GettyImages-2240396508-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0cb8fae25f",
+    "source": "BBC — Top Stories",
+    "title": "Putin-Trump call a curveball for Zelensky ahead of White House meeting",
+    "summary": "The phone conversation, held while Zelensky was flying to Washington, stole a march on his big moment.",
+    "url": "https://www.bbc.com/news/articles/cze63r34213o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T02:08:18Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eadd/live/43de70e0-aad6-11f0-a36f-5746963cc16d.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-1503dc5597",
+    "source": "Politico — UK",
+    "title": "EU considers withholding funds from countries that don’t fix pension systems",
+    "summary": "Brussels fears Europe's aging population will cause fiscal crises unless member countries address unsustainable retirement systems.",
+    "url": "https://www.politico.eu/article/eu-funds-pension-systems-budget-legal-protests/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-17T02:08:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/15/GettyImages-2240577304-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-a2fb3b8cfe",
+    "source": "Politico — UK",
+    "title": "Brussels eyes €25B more in Russian state assets across EU",
+    "summary": "The bloc already has its eyes on €140 billion in Moscow's frozen assets, but the European Commission is tempted to grab additional funds from private bank accounts.",
+    "url": "https://www.politico.eu/article/brussels-russia-assests-eu-billions-mega-loan-ukraine-finance/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-17T02:07:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/13132568-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-a6a110842d",
+    "source": "Politico — UK",
+    "title": "Germany spearheads drive to legitimize Taliban in exchange for migrant deportations",
+    "summary": "Friedrich Merz's conservative-led government is close to cutting a deal with the Taliban to deport migrants to Afghanistan, and other EU countries may follow suit.",
+    "url": "https://www.politico.eu/article/germany-taliban-friedrich-merz-spearheads-drive-legitimize-exchange-migrant-deportations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-17T02:02:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/GettyImages-2240995895-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-1d82675a3d",
+    "source": "Politico — UK",
+    "title": "As France burned, Macron was looking for his legacy",
+    "summary": "The French president's dogged determination to defend his achievements risks backfiring.",
+    "url": "https://www.politico.eu/article/emmanuel-macron-france-legacy-crisis-egypt/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-17T02:02:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/IMG_0963-1-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-8b3cf12e7e",
+    "source": "Politico — UK",
+    "title": "Selmayr’s possible comeback raises prospect of major von der Leyen-Kallas turf war",
+    "summary": "One of the EU's most powerful men could be in line for a big job at the heart of the bloc's decision-making. Some officials are alarmed.",
+    "url": "https://www.politico.eu/article/martin-selmayr-comeback-raises-prospect-major-ursula-von-der-leyen-kaja-kallas-turf-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-17T02:02:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/GettyImages-931340260-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-e53138de0e",
+    "source": "Politico — UK",
+    "title": "Why Labour got fighty again on Brexit",
+    "summary": "After years of staying quiet, Britain's ruling party is preparing to blame its economic woes on leaving the EU. But some argue the strategy goes deeper — and is fraught with danger.",
+    "url": "https://www.politico.eu/article/labour-brexit-politics-uk-chancellor-rachel-reeves/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-17T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/GettyImages-2215406857-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-4629bcfd8a",
+    "source": "Politico — UK",
+    "title": "ChatXXX: AI’s plans to get sexy",
+    "summary": "OpenAI's Sam Altman says erotic material will soon be allowed on ChatGPT, but that's nothing new.",
+    "url": "https://www.politico.eu/article/ai-tech-robots-sexy-politics-chat-gpt/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-17T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/iStock-1224338172-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-606dc5899e",
+    "source": "Politico — UK",
+    "title": "Starmer ally: Come clean on relations with China after spy row",
+    "summary": "It’s been a week where the politics of the Middle East and Britain’s relations with China have loomed large over Westminster. For all the backslapping and goodwill of Sharm el-Sheikh, will the ceasefire and exchange of hostages and prisoners in Gaza pave the way for a political solution? What part could Britain play? And how […]",
+    "url": "https://www.politico.eu/podcast/westminster-insider/starmer-ally-come-clean-on-relations-with-china-after-spy-row/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-17T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/04/11/Westminster-Insider-Website-card-1920x1080-px.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-6509678e1d",
+    "source": "Politico — UK",
+    "title": "How to go from hero to zero, with Emmanuel Macron and Angela Merkel",
+    "summary": "French President Emmanuel Macron has gone from “Mr. Europe” eight years ago to the solitary man by the Seine. At the same time, ex-German Chancellor Angela Merkel’s legacy is also going through a sudden and sharp downgrade. How did these centrist pillars of Europe tank so quickly? With parties on the far right and far […]",
+    "url": "https://www.politico.eu/podcast/eu-confidential/how-to-go-from-hero-to-zero-with-emmanuel-macron-and-angela-merkel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-17T02:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/10/29/EU-Confidential-Website-Card.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0a770600f7",
+    "source": "BBC — Top Stories",
+    "title": "China has found Trump's pain point - rare earths",
+    "summary": "China holds a near-monopoly in the processing of the elements crucial for making everything from smartphones to fighter jets.",
+    "url": "https://www.bbc.com/news/articles/ckg1jr18z4ko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T01:31:59Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0744/live/7aa46040-aa94-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d86d5ed563",
+    "source": "BBC — Top Stories",
+    "title": "'Game-changing' HIV protection jab approved in England and Wales",
+    "summary": "The shot, given six times a year or every other month, is an alternative to taking daily pills to protect against ever catching the virus.",
+    "url": "https://www.bbc.com/news/articles/c803egy217xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T01:27:22Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b86c/live/cdc0d600-a837-11f0-9f09-57500e5dbf06.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-e90ab7589a",
     "source": "BBC — Top Stories",
     "title": "The Papers: 'China spy fiasco' and 'Ban' on Israeli fans a 'national disgrace'",
@@ -156,18 +324,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-0a770600f7",
-    "source": "BBC — Top Stories",
-    "title": "China has found Trump's pain point - rare earths",
-    "summary": "China holds a near-monopoly in the processing of the elements crucial for making everything from smartphones to fighter jets.",
-    "url": "https://www.bbc.com/news/articles/ckg1jr18z4ko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T22:03:42Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0744/live/7aa46040-aa94-11f0-b2a1-6f537f66f9aa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-5850591d0c",
     "source": "BBC — Top Stories",
     "title": "Sam Fender wins 2025 Mercury Prize for album of the year",
@@ -216,18 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-aa3193cb93",
-    "source": "Politico — UK",
-    "title": "Commission slaps down Fitto’s calls for a budget compromise",
-    "summary": "The EU executive has publicly rejected the Italian commissioner's declared openness to \"improvements\" in regional funding in its next budget.",
-    "url": "https://www.politico.eu/article/raffaele-fitto-commission-slaps-down-budget-compromise-lawmakers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-16T19:20:35Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/GettyImages-2217925450-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-3f704d0951",
     "source": "The Guardian — UK",
     "title": "Head of CPS faces cross-party pressure to explain China spy trial collapse",
@@ -235,18 +379,6 @@
     "url": "https://www.theguardian.com/world/2025/oct/16/head-of-cps-faces-cross-party-pressure-to-explain-china-spy-trial-collapse",
     "published": "2025-10-16T18:44:22Z",
     "image_url": "https://i.guim.co.uk/img/media/ce5132e849de9958cec0b6abd1b689ca391b4534/60_18_4226_3381/master/4226.jpg?width=140&quality=85&auto=format&fit=max&s=2815a114d8df70294a699ce5591282d8",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-88488bd9ba",
-    "source": "Politico — UK",
-    "title": "‘We are ready’: Orbán hails planned Trump-Putin meeting in Budapest",
-    "summary": "The U.S. president says he will meet Russia's leader in Hungary.",
-    "url": "https://www.politico.eu/article/viktor-orban-vladimir-putin-russia-ukraine-donald-trump-meeting/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-16T18:19:32Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/13114809-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -288,18 +420,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-e639a10c95",
-    "source": "Politico — UK",
-    "title": "Trump says he will meet Putin in Budapest to discuss end of Ukraine war",
-    "summary": "The meeting would be the first between the two leaders since August’s Alaska summit.",
-    "url": "https://www.politico.com/news/2025/10/16/trump-putin-meeting-budapest-00611493?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-16T17:36:22Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-2be3185571",
     "source": "The Guardian — UK",
     "title": "Thousands in UK take legal action against Johnson & Johnson over alleged talc cancer link",
@@ -319,30 +439,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/16/ministers-plan-high-level-visits-to-china-despite-espionage-trial-outcry",
     "published": "2025-10-16T17:10:22Z",
     "image_url": "https://i.guim.co.uk/img/media/b1f3c5cd082b1b0bf8af9e84880aa7d9f9670596/271_0_2560_2048/master/2560.jpg?width=140&quality=85&auto=format&fit=max&s=e628d7326565e32801da9209949bd31d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-f098e3c796",
-    "source": "BBC — Top Stories",
-    "title": "MI5 chief says China is daily threat to UK and voices frustration over spy case collapse",
-    "summary": "Sir Ken McCallum says the Security Service acted against Chinese activity in the last week, as a parliamentary inquiry is launched into the spy case.",
-    "url": "https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T17:02:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e5/live/61a91ac0-aaaa-11f0-aa13-0b0479f6f42a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-8b951dc85b",
-    "source": "Politico — UK",
-    "title": "Georgia fines Finnish foreign minister for ‘blocking the road’ during protest",
-    "summary": "A meeting with the Georgian PM was cancelled after Elina Valtonen recorded a video message in support of protesters.",
-    "url": "https://www.politico.eu/article/georgia-fines-finnish-foreign-minister-elina-valtonen-for-blocking-the-road-at-a-protest-rally-osce/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-16T16:58:31Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/13407035-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -384,30 +480,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-734ce86e96",
-    "source": "Politico — UK",
-    "title": "Lithuanian PM accuses defense minister of using influencers to lobby for bigger budget",
-    "summary": "Defense minister calls it a \"misunderstanding,\" saying \"we are all on the same team.\"",
-    "url": "https://www.politico.eu/article/lithuania-pm-inga-ruginiene-accuses-defense-minister-using-influencers-lobby-bigger-budget/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-16T16:06:52Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/GettyImages-2231465253-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-90b551a341",
-    "source": "Politico — UK",
-    "title": "Montenegro asks EU for help fighting Russian meddling",
-    "summary": "Balkan country's president says disinformation is a \"daily\" battle.",
-    "url": "https://www.politico.eu/article/montenegro-eu-help-fighting-russian-meddling/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-16T15:58:30Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/13042732-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-d65d7fbf20",
     "source": "The Guardian — UK",
     "title": "Farage urged to explain anti-abortion links to meeting with Trump officials",
@@ -432,42 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-cd21066fb3",
-    "source": "BBC — Top Stories",
-    "title": "Major UK rare earths refinery scrapped in favour of US",
-    "summary": "The project would have given the UK a strategic foothold in the rare earths industry.",
-    "url": "https://www.bbc.com/news/articles/czxnv7y03nno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T15:32:05Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0928/live/867e40c0-aabc-11f0-b2a1-6f537f66f9aa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-fdee95f1a2",
-    "source": "Politico — UK",
-    "title": "Trump to speak with Putin Thursday",
-    "summary": "The call comes ahead of Trump’s meeting with Ukrainian President Volodymyr Zelenskyy at the White House on Friday.",
-    "url": "https://www.politico.com/news/2025/10/16/trump-to-speak-with-putin-thursday-00611227?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-16T15:03:52Z",
-    "image_url": null,
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-3d0a13a57c",
-    "source": "BBC — Top Stories",
-    "title": "Rating Raducanu's season - and what does future hold?",
-    "summary": "BBC tennis correspondent Russell Fuller looks at how Emma Raducanu's 2025 season went - and what the future could hold.",
-    "url": "https://www.bbc.com/sport/tennis/articles/cp975ld0x58o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T15:01:23Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3ec/live/d7b4d930-aa04-11f0-ba75-093eca1ac29b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-7be36c5258",
     "source": "The Guardian — UK",
     "title": "UK economy expands as GDP rises by 0.1% in August ahead of crucial budget",
@@ -475,42 +511,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/16/uk-economy-expands-as-gdp-rises-by-01-in-august-ahead-of-crucial-budget",
     "published": "2025-10-16T14:45:02Z",
     "image_url": "https://i.guim.co.uk/img/media/db0e13f23fb65c49aeed89f83d00bcca9f5e8319/462_0_4212_3371/master/4212.jpg?width=140&quality=85&auto=format&fit=max&s=14ebad530a44d31f7864ece683f747e6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-1d40b5dd0a",
-    "source": "Politico — UK",
-    "title": "EU plans to expand Erasmus program to southern Mediterranean countries",
-    "summary": "The inclusion of non-EU students from the bloc’s partners in Africa and the Middle East is part of the broader \"Pact for the Mediterranean.\"",
-    "url": "https://www.politico.eu/article/eu-expand-erasmus-program-southern-mediterranean-africa-middle-east/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-16T14:34:14Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/GettyImages-2197336115-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-a5dbe67a0b",
-    "source": "Politico — UK",
-    "title": "MI5 boss: Threats from states like China on a par with terrorists",
-    "summary": "Intelligence chief 'frustrated' at collapse of China spying case — but rows in behind under-fire director of public prosecutions.",
-    "url": "https://www.politico.eu/article/mi5-boss-threats-from-china-now-par-with-terror-ken-mccallum/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-16T14:15:48Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/GettyImages-2240939797-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-8b7af6f755",
-    "source": "Politico — UK",
-    "title": "EU Commission presents defense plan to protect ‘every’ centimeter of Europe",
-    "summary": "The EU executive wants to coordinate efforts by member countries to speed up defense preparations.",
-    "url": "https://www.politico.eu/article/eu-commission-presents-defense-roadmap-from-russia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-16T14:15:12Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/GettyImages-2223641157-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
