@@ -1,5 +1,101 @@
 [
   {
+    "id": "BBC — Top Stories-c0419f9d0b",
+    "source": "BBC — Top Stories",
+    "title": "Shares recover after US banks cause a scare",
+    "summary": "Problems at two US regional banks have made investors nervous and triggered a sell-off in shares.",
+    "url": "https://www.bbc.com/news/articles/c4gjz82wx4wo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T15:06:44Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5a9/live/8a7a3b60-ab5d-11f0-aa13-0b0479f6f42a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-9293a2be18",
+    "source": "The Guardian — UK",
+    "title": "Nearly 2,000 Foreign Office jobs ‘at risk’, says PCS union",
+    "summary": "Reduction in higher-level roles linked to government decision to cut foreign aid budget, says union Almost 2,000 civil servants at the Foreign, Commonwealth and Development Office face the risk of redundancy, with the biggest union for government workers vowing to fight the cuts. The PCS union, which has about 200,000 members, said it has been told that 1,885 jobs at the second highest level, known as delegated grades, are “at risk”, in addition to redundancy notices that have already been issued to some senior civil servants. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/17/nearly-2000-foreign-office-jobs-at-risk-says-pcs-union",
+    "published": "2025-10-17T14:59:10Z",
+    "image_url": "https://i.guim.co.uk/img/media/017dfbf64123e79db604e328ecd97853dc4d7304/292_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=b1a6cc55a835a67cf2cc64d81d9c3d87",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-8b894cf113",
+    "source": "BBC — Top Stories",
+    "title": "Landmark global shipping deal in tatters after US pressure",
+    "summary": "President Trump intervened in the talks calling the deal a \"green scam\".",
+    "url": "https://www.bbc.com/news/articles/c3vnl0yxg53o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T14:48:45Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/784f/live/5e54e370-ab6a-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7f05ff213d",
+    "source": "BBC — Top Stories",
+    "title": "Husband guilty in murder case without a body that shocked France",
+    "summary": "Cédric Jubillar maintained his innocence, but was found guilty by a jury and sentenced to 30 years in jail.",
+    "url": "https://www.bbc.com/news/articles/crexz473pvxo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T14:37:10Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33a7/live/8ebe5b70-ab62-11f0-b0f1-8b73bbc9408d.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-8b38903477",
+    "source": "BBC — Top Stories",
+    "title": "Bolton surrenders to face charges of sharing classified information",
+    "summary": "Donald Trump's former national security adviser is accused of using personal messaging apps and email to share sensitive information.",
+    "url": "https://www.bbc.com/news/articles/cg43lwwdwlno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T14:34:11Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5954/live/558b1fc0-ab5b-11f0-b03c-d3cc69fd9896.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-a6afd50f06",
+    "source": "The Guardian — UK",
+    "title": "Students owe nearly £500m of ‘hidden debts’ to UK universities, figures reveal",
+    "summary": "FoI data shows 180,000 students and graduates weighed down by private debt amid cost of living crisis Students have accrued nearly £500m in “hidden debts” to their universities, including library fines, unpaid accommodation and support loans, according to figures that highlight the cost of living crisis on UK campuses. The figures from freedom of information requests sent to 148 UK universities showed that 180,000 students and graduates owe private debts totalling £486m to universities, averaging about £2,650 each. Continue reading...",
+    "url": "https://www.theguardian.com/education/2025/oct/17/students-owe-nearly-500m-hidden-debts-uk-universities-figures",
+    "published": "2025-10-17T14:27:24Z",
+    "image_url": "https://i.guim.co.uk/img/media/24e247b5e8569cda59b3c01ecf4580459012cb0f/86_0_2315_1851/master/2315.jpg?width=140&quality=85&auto=format&fit=max&s=b03a0e37da5acc4938d3273cbbd4c800",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-a9eb1a0cbc",
+    "source": "BBC — Top Stories",
+    "title": "China warns UK of 'consequences' over mega-embassy delays",
+    "summary": "It comes after the UK said it had pushed back a decision on the controversial site for the second time.",
+    "url": "https://www.bbc.com/news/articles/c629j10gln8o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T14:25:40Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fd/live/668006e0-ab5d-11f0-b0f1-8b73bbc9408d.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-65b3487b0e",
+    "source": "The Guardian — UK",
+    "title": "Compulsory maths and English GCSE resits too inflexible, says curriculum chief",
+    "summary": "Becky Francis says pupils condemned to retaking maths and English face ‘blocks to progress’ and system needs overhaul The requirement that children who fail GCSE maths and English must repeatedly resit the exams is too inflexible and needs to be overhauled, according to Becky Francis, the head of the government’s curriculum review. Francis said the full review, ordered by the education secretary, Bridget Phillipson, would be published “in a few weeks” and supports changes expected in a forthcoming white paper to England’s resits policy that requires pupils who fail to reach a grade 4 in maths and English to keep retaking them while in post-16 schooling. Continue reading...",
+    "url": "https://www.theguardian.com/education/2025/oct/17/compulsory-maths-english-gcse-resits-inflexible-curriculum-chief-becky-francis",
+    "published": "2025-10-17T14:07:37Z",
+    "image_url": "https://i.guim.co.uk/img/media/c34e225c6f1c137c3e5a6b042f8fe6701555058d/444_0_2764_2211/master/2764.jpg?width=140&quality=85&auto=format&fit=max&s=1a00ec038487ecb2520308715f6628ba",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-5d19e17e5a",
     "source": "Politico — UK",
     "title": "Putin-Trump summit in Hungary forces EU leaders to mull airspace exemptions",
@@ -12,25 +108,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-8439e1fda8",
+    "id": "The Guardian — UK-e3f2845db7",
     "source": "The Guardian — UK",
-    "title": "No 10 says talks happening ‘at pace’ across government to lift ban on Maccabi Tel Aviv fans attending Aston Villa match – live",
-    "summary": "Fans of Israeli football team Maccabi Tel Aviv banned from match at Aston Villa next month Zarah Sultana , the former Labour MP who is now a member of the Independent Alliance in parliament, alongside Ayoub Khan and four others, has also defended the Maccabi ban on the grounds that Israeli teams should not be competing in international sport. She says : Next UEFA must ban all Israeli teams. We cannot have normalisation with genocide and apartheid. Apartheid South Africa was banned from the Olympics for 32 years. The same people who called Nelson Mandela a “terrorist” now say we can’t boycott apartheid Israel. There are two distinct issues. One is the safety aspect … If the police in West Midlands find it challenging because they simply do not have the resources to ensure safety, then that’s one aspect. The second aspect is a moral argument that Maccabi Tel Aviv should not even be playing in this international competition. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/17/keir-starmer-uk-politics-latest-news-updates-maccabi-tel-aviv-fans-banned",
-    "published": "2025-10-17T13:59:43Z",
-    "image_url": "https://i.guim.co.uk/img/media/c06220d3dee987abdc59177faa424469a2e88602/361_0_3747_2997/master/3747.jpg?width=140&quality=85&auto=format&fit=max&s=32e00a0ccefb5c75eeadf23511a0d3fb",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-a9eb1a0cbc",
-    "source": "BBC — Top Stories",
-    "title": "China warns UK of 'consequences' over mega-embassy delays",
-    "summary": "It comes after the UK said it had pushed back a decision on the controversial site for the second time.",
-    "url": "https://www.bbc.com/news/articles/c629j10gln8o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T13:56:52Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fd/live/668006e0-ab5d-11f0-b0f1-8b73bbc9408d.jpg",
+    "title": "Legal challenge to Palestine Action ban can go ahead, court rules",
+    "summary": "Judges reject Home Office attempt to block judicial review of group’s proscription under Terrorism Act A legal challenge to the ban on Palestine Action can go ahead next month after the court of appeal rejected the Home Office’s attempt to block the case. In a blow to the government, on Friday, three judges, led by the lady chief justice, Sue Carr, upheld Mr Justice Chamberlain’s decision to grant the Palestine Action co-founder Huda Ammori a judicial review of the group’s proscription under the Terrorism Act. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/17/legal-challenge-to-palestine-action-ban-can-go-ahead-court-rules",
+    "published": "2025-10-17T14:05:06Z",
+    "image_url": "https://i.guim.co.uk/img/media/6d2287d82274494f208077d1f771c7ded858f00b/175_81_1731_1385/master/1731.jpg?width=140&quality=85&auto=format&fit=max&s=3bb69198e4e0e9010d1217cd370457d9",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -43,30 +127,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/17/manchester-arena-bomber-brother-hashem-abedi-trial-attack-prison-officers",
     "published": "2025-10-17T13:45:18Z",
     "image_url": "https://i.guim.co.uk/img/media/67f645398e103bf7395fb11518a00be70926c7fb/464_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=c0249f7a533be3e0f637f7c1ecbba460",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-8b38903477",
-    "source": "BBC — Top Stories",
-    "title": "Bolton surrenders to face charges of sharing classified information",
-    "summary": "Donald Trump's former national security adviser is accused of using personal messaging apps and email to illegally share sensitive information.",
-    "url": "https://www.bbc.com/news/articles/cg43lwwdwlno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T13:45:02Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5954/live/558b1fc0-ab5b-11f0-b03c-d3cc69fd9896.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-c0419f9d0b",
-    "source": "BBC — Top Stories",
-    "title": "UK stock market hit by nerves over US banks",
-    "summary": "Problems at two US regional banks have made investors nervous and triggered a sell-off in shares.",
-    "url": "https://www.bbc.com/news/articles/c4gjz82wx4wo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T13:38:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5a9/live/8a7a3b60-ab5d-11f0-aa13-0b0479f6f42a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -134,8 +194,8 @@
   {
     "id": "The Guardian — UK-aaa4fa3f62",
     "source": "The Guardian — UK",
-    "title": "Gaucho restaurant chain to slash share of service charge for waiting staff",
-    "summary": "Staff letter details plan to cut share to between 25% and 29%, using some funds to boost pay of head office staff Argentinian steak restaurant Gaucho is slashing the share of the service charge its waiters receive, using some of the funds to bump up the pay package of head office workers. A letter to workers seen by the Guardian says that from 1 October existing waiters would receive between 25.45% and 29.4% of the service charge collected at tables they have served, depending on length of service, down from 37% previously – already a reduction from 45% early last year. Bar staff will get 17% of the service charge, down from 20%. Continue reading...",
+    "title": "Gaucho chain to slash waiters’ share of service charge and boost head office pay",
+    "summary": "Restaurant group plans to cut share as low as 17% for new waiting staff, with office workers among those benefiting The Argentinian steak restaurant Gaucho is slashing the share of the service charge its waiters receive, using some of the funds to bump up the pay package of head office workers. A letter to workers seen by the Guardian says that from 1 October existing waiters would receive between 25.45% and 29.4% of the service charge collected at tables they have served, depending on length of service, down from 37% previously – already a reduction from 45% early last year. Bar staff will get 17% of the service charge, down from 20%. Continue reading...",
     "url": "https://www.theguardian.com/business/2025/oct/17/gaucho-restaurant-chain-to-slash-share-of-service-charge-for-waiting-staff",
     "published": "2025-10-17T13:01:53Z",
     "image_url": "https://i.guim.co.uk/img/media/0852b2c9b80b1a7f0891dddc2431d5a83ae1f324/536_385_3501_2800/master/3501.jpg?width=140&quality=85&auto=format&fit=max&s=6a8dbeec63f469d438b2413baf73e1de",
@@ -156,6 +216,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-fa935ed314",
+    "source": "BBC — Top Stories",
+    "title": "Charity watchdog 'assessing concerns' over Manchester Pride",
+    "summary": "Performers and suppliers say they have not been paid what they are owed since the event in August.",
+    "url": "https://www.bbc.com/news/articles/cr43l7l0e0vo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T12:49:09Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aeb/live/515e6930-ab5f-11f0-ba75-093eca1ac29b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-11df2a1a2e",
     "source": "The Guardian — UK",
     "title": "Three neo-Nazis jailed for plotting terror attacks on UK mosques and synagogues",
@@ -163,18 +235,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/17/three-uk-neo-nazis-jailed-for-between-eight-and-11-years-over-terror-plots",
     "published": "2025-10-17T12:31:05Z",
     "image_url": "https://i.guim.co.uk/img/media/ee0ae424d0c76ca5708cd99ba6277c69773fe834/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=437c1cbe057df83db2980cc5232e5aea",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-1e1de116d3",
-    "source": "The Guardian — UK",
-    "title": "Global markets fall and gold hits record high amid jitters over US banks",
-    "summary": "Signs of credit stress send markets in Europe and Asia down, while investors turn to safe haven assets Business live – latest updates Global stock markets fell sharply and gold hit a record high after two US regional banks said they had been exposed to millions of dollars of bad loans and alleged fraud . Signs of credit stress rattled markets across Europe and Asia. In London the FTSE 100 fell 1.5%, Germany’s Dax fell 2%, the Ibex in Spain was off 0.8% and France’s Cac 40 dropped 1.5%, before recovering some ground. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/17/global-stock-markets-fall-and-gold-hits-record-high-amid-jitters-over-us-banks",
-    "published": "2025-10-17T12:18:55Z",
-    "image_url": "https://i.guim.co.uk/img/media/0858658736253ef269f9b70b55a400bcf81ed67d/1272_291_4561_3651/master/4561.jpg?width=140&quality=85&auto=format&fit=max&s=155dfe3a5066fa100fbe55b9370c47b7",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -192,18 +252,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-487c178e97",
-    "source": "The Guardian — UK",
-    "title": "Laurence Fox’s libel claim over racism accusations to go to retrial",
-    "summary": "Court of appeal rules in former actor’s favour after finding tweets calling him racist did cause harm to his reputation Laurence Fox’s libel claim after he was called a racist on social media will go to a retrial, the court of appeal has ruled. The former actor was successfully sued by Simon Blake, who is now the chief executive of Stonewall, and the drag artist Crystal over a row on the social media platform Twitter, now called X. Continue reading...",
-    "url": "https://www.theguardian.com/culture/2025/oct/17/laurence-fox-social-media-libel-claim-goes-to-retrial-after-court-of-appeal-ruling",
-    "published": "2025-10-17T11:55:55Z",
-    "image_url": "https://i.guim.co.uk/img/media/cc184bc5df770b91b6f4450e1de4fd32ab3dec73/212_0_3165_2533/master/3165.jpg?width=140&quality=85&auto=format&fit=max&s=4c19cbcc5e4f963ecd5b34d6cf9cca5d",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-adecc6fdd7",
     "source": "BBC — Top Stories",
     "title": "Far-right extremists jailed for planning attacks on mosques and synagogues",
@@ -211,30 +259,6 @@
     "url": "https://www.bbc.com/news/articles/c4gkm4jyrpdo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T11:47:11Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6ea/live/4e319be0-aab2-11f0-8051-295629adf78e.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-e3f2845db7",
-    "source": "The Guardian — UK",
-    "title": "Legal challenge to Palestine Action ban can go ahead, court rules",
-    "summary": "Judges reject Home Office attempt to block judicial review of group’s proscription under Terrorism Act A legal challenge to the ban on Palestine Action can go ahead next month after the court of appeal rejected the Home Office’s attempt to block the case. On Friday, three judges, led by the lady chief justice, Sue Carr, upheld Mr Justice Chamberlain’s decision to grant the Palestine Action co-founder Huda Ammori a judicial review of the group’s proscription under the Terrorism Act. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/17/legal-challenge-to-palestine-action-ban-can-go-ahead-court-rules",
-    "published": "2025-10-17T11:40:15Z",
-    "image_url": "https://i.guim.co.uk/img/media/6d2287d82274494f208077d1f771c7ded858f00b/175_81_1731_1385/master/1731.jpg?width=140&quality=85&auto=format&fit=max&s=3bb69198e4e0e9010d1217cd370457d9",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-c6dac17b8b",
-    "source": "BBC — Top Stories",
-    "title": "MPs demand chief prosecutor explain China spy case collapse",
-    "summary": "Stephen Parkinson is under pressure to say more about why the case collapsed last month.",
-    "url": "https://www.bbc.com/news/articles/cvgd5jgzdweo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T11:31:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c0d/live/d66487c0-ab3e-11f0-86b3-2dd47a6542fa.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -252,18 +276,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-ab641056a8",
-    "source": "BBC — Top Stories",
-    "title": "Manchester Arena bombmaker denies attempted prison murders",
-    "summary": "Hashem Abedi is accused of attempting to murder three prison officers at HMP Frankland in Durham.",
-    "url": "https://www.bbc.com/news/articles/c0mxz2j8jw4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T11:14:43Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/601c/live/47116900-9aca-11f0-879c-c76667f294aa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-f75b075393",
     "source": "BBC — Top Stories",
     "title": "Celebrity MasterChef to air featuring sacked host John Torode",
@@ -271,6 +283,18 @@
     "url": "https://www.bbc.com/news/articles/c1lqg2j8zj0o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T11:09:21Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f1b/live/91a36080-ab42-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-47099f52c1",
+    "source": "The Guardian — UK",
+    "title": "Government U-turns on support for bird-friendly swift bricks in new homes",
+    "summary": "Housing minister Steve Reed refuses to back mandating measure, despite giving support while in environment job The government is refusing to support a new amendment to install a swift brick in every new home – a U-turn by Steve Reed since he became housing secretary. When he was environment secretary, Reed told a campaigner, Hannah Bourne-Taylor, she was “pushing at an open door” and he and others wanted to add to the party’s manifesto her proposal that developers must include a £35 hollow brick in every new home. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/oct/17/government-u-turns-on-support-for-bird-friendly-swift-bricks-in-new-homes",
+    "published": "2025-10-17T11:09:14Z",
+    "image_url": "https://i.guim.co.uk/img/media/78dcf8fd3221f0a879fc89b06a26ddca9d4acd7d/551_0_2490_1992/master/2490.jpg?width=140&quality=85&auto=format&fit=max&s=c63c4151745ee00bb3b40efc390fdbc9",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -459,7 +483,7 @@
     "id": "BBC — Top Stories-de6d467327",
     "source": "BBC — Top Stories",
     "title": "'I have a sweating problem': What Alan Carr's Traitors admission tells us about how social taboos changed",
-    "summary": "Let's talk about sweat... From Alan Carr and scores of celebrities openly discussing it, to the trend of professionals using saunas for business meetings",
+    "summary": "Let's talk about sweat... From contestants on The Celebrity Traitors and scores of celebrities openly discussing it, to the trend of professionals using saunas for business meetings",
     "url": "https://www.bbc.com/news/articles/cwy51pgql7eo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T00:47:10Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4478/live/456d6860-aaa1-11f0-b2a1-6f537f66f9aa.jpg",
@@ -492,18 +516,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-44ef36089c",
-    "source": "BBC — Top Stories",
-    "title": "Housing designed to combat loneliness wins top architecture award",
-    "summary": "Appleby Blue Almshouse in London wins the Royal Institute of British Architects' Stirling Prize.",
-    "url": "https://www.bbc.com/news/articles/c4gwlz6k96no?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T22:13:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5be8/live/748d3c60-ab28-11f0-aa13-0b0479f6f42a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-3f704d0951",
     "source": "The Guardian — UK",
     "title": "Head of CPS faces cross-party pressure to explain China spy trial collapse",
@@ -511,18 +523,6 @@
     "url": "https://www.theguardian.com/world/2025/oct/16/head-of-cps-faces-cross-party-pressure-to-explain-china-spy-trial-collapse",
     "published": "2025-10-16T18:44:22Z",
     "image_url": "https://i.guim.co.uk/img/media/ce5132e849de9958cec0b6abd1b689ca391b4534/60_18_4226_3381/master/4226.jpg?width=140&quality=85&auto=format&fit=max&s=2815a114d8df70294a699ce5591282d8",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-626cce5afd",
-    "source": "The Guardian — UK",
-    "title": "Cardiff becomes first UK council to impose higher parking charges on larger vehicles",
-    "summary": "Premium charge aims to combat steep rise in SUVs and other larger vehicles which are ‘a danger to other road users’ Cardiff council will force drivers with larger vehicles to pay more for parking, becoming the first local authority in the UK to impose a parking premium to combat the dangers of larger vehicles. Councillors voted on Thursday to approve a new parking plan for the city whereby owners of larger vehicles will be charged more for parking permits because their cars “take up more parking space and are a danger to other road users”. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/16/cardiff-becomes-first-uk-council-to-impose-higher-parking-charges-on-larger-vehicles",
-    "published": "2025-10-16T17:57:02Z",
-    "image_url": "https://i.guim.co.uk/img/media/803e26250d6a84d46b0452142972cfd493ba020f/46_0_3480_2784/master/3480.jpg?width=140&quality=85&auto=format&fit=max&s=84bc191493018b7226c43900a3f95791",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
