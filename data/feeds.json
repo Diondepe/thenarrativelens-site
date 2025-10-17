@@ -1,5 +1,17 @@
 [
   {
+    "id": "The Guardian — UK-8619716d07",
+    "source": "The Guardian — UK",
+    "title": "Pregnant women in England at ‘growing risk’ of serious injury in childbirth",
+    "summary": "NHS figures show number of mothers sustaining third- or fourth-degree perineal tear has increased by 16% since 2020 Pregnant women in England are at growing risk of suffering a serious injury while giving birth, NHS figures reveal. The number of mothers sustaining a third- or fourth-degree perineal tear while delivering their baby has risen from 25 in 1,000 in June 2020 to 29 in 1,000 in June this year – a 16% increase. Continue reading...",
+    "url": "https://www.theguardian.com/lifeandstyle/2025/oct/17/pregnant-women-in-england-at-growing-risk-of-serious-injury-in-childbirth",
+    "published": "2025-10-17T05:01:02Z",
+    "image_url": "https://i.guim.co.uk/img/media/c24170df2f0de51ff5fa749a28822c96442cccdf/918_0_4588_3671/master/4588.jpg?width=140&quality=85&auto=format&fit=max&s=e66134ff781c7368c31aede4ce8c4f62",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "Politico — UK-b345457269",
     "source": "Politico — UK",
     "title": "Selenskyj bei Trump, Hoffnung auf Tomahawk – ein Gespräch mit Nico Lange",
@@ -14,7 +26,7 @@
   {
     "id": "BBC — Top Stories-f236e4bea7",
     "source": "BBC — Top Stories",
-    "title": "'Wrong' to block Tel Aviv fans from Aston Villa match, says PM",
+    "title": "PM says it is 'wrong decision' to block Tel Aviv fans from Aston Villa match",
     "summary": "Followers of the Israeli club will not be allowed to attend the Europa League game over safety concerns.",
     "url": "https://www.bbc.com/news/articles/c205gnz5p8xo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T04:17:54Z",
@@ -198,7 +210,7 @@
     "summary": "China holds a near-monopoly in the processing of the elements crucial for making everything from smartphones to fighter jets.",
     "url": "https://www.bbc.com/news/articles/ckg1jr18z4ko?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T01:31:59Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0744/live/7aa46040-aa94-11f0-b2a1-6f537f66f9aa.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0639/live/6c510820-ab18-11f0-aa13-0b0479f6f42a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -439,18 +451,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/16/thousands-in-uk-open-case-against-johnson-johnson-over-alleged-talcum-powder-cancer-link",
     "published": "2025-10-16T17:22:01Z",
     "image_url": "https://i.guim.co.uk/img/media/18b4c09eef0fa9ca75bbd8ca8b16f42810722f58/905_0_4503_3605/master/4503.jpg?width=140&quality=85&auto=format&fit=max&s=f7880887d27ed747cf723f7f5057c649",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-d310dc471e",
-    "source": "The Guardian — UK",
-    "title": "Ministers plan high-level visits to China despite espionage trial outcry",
-    "summary": "National security adviser, education secretary and science minister to visit before end of year as part of policy to reset relations Ministers are pushing ahead with their reset of relations with China, including several planned high-level visits before the end of the year, despite the furore triggered by the collapse of a high-profile espionage trial. Plans have been drawn up for Jonathan Powell , the national security adviser, to travel to Beijing in November for talks before an anticipated trip by Keir Starmer next year. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/16/ministers-plan-high-level-visits-to-china-despite-espionage-trial-outcry",
-    "published": "2025-10-16T17:10:22Z",
-    "image_url": "https://i.guim.co.uk/img/media/b1f3c5cd082b1b0bf8af9e84880aa7d9f9670596/271_0_2560_2048/master/2560.jpg?width=140&quality=85&auto=format&fit=max&s=e628d7326565e32801da9209949bd31d",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
