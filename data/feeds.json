@@ -1,12 +1,72 @@
 [
   {
+    "id": "BBC — Top Stories-8b38903477",
+    "source": "BBC — Top Stories",
+    "title": "Ex-Trump adviser Bolton in court to face charges of mishandling classified documents",
+    "summary": "Prosecutors accuse Bolton of using personal messaging apps and email to illegally transmit sensitive information.",
+    "url": "https://www.bbc.com/news/articles/cg43lwwdwlno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T13:14:10Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5954/live/558b1fc0-ab5b-11f0-b03c-d3cc69fd9896.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-8439e1fda8",
+    "source": "The Guardian — UK",
+    "title": "No 10 says talks happening ‘at pace’ across government to lift ban on Maccabi Tel Aviv fans attending Aston Villa match – live",
+    "summary": "Fans of Israeli football team Maccabi Tel Aviv banned from match at Aston Villa next month Zarah Sultana , the former Labour MP who is now a member of the Independent Alliance in parliament, alongside Ayoub Khan and four others, has also defended the Maccabi ban on the grounds that Israeli teams should not be competing in international sport. She says : Next UEFA must ban all Israeli teams. We cannot have normalisation with genocide and apartheid. Apartheid South Africa was banned from the Olympics for 32 years. The same people who called Nelson Mandela a “terrorist” now say we can’t boycott apartheid Israel. There are two distinct issues. One is the safety aspect … If the police in West Midlands find it challenging because they simply do not have the resources to ensure safety, then that’s one aspect. The second aspect is a moral argument that Maccabi Tel Aviv should not even be playing in this international competition. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/17/keir-starmer-uk-politics-latest-news-updates-maccabi-tel-aviv-fans-banned",
+    "published": "2025-10-17T13:12:21Z",
+    "image_url": "https://i.guim.co.uk/img/media/c06220d3dee987abdc59177faa424469a2e88602/361_0_3747_2997/master/3747.jpg?width=140&quality=85&auto=format&fit=max&s=32e00a0ccefb5c75eeadf23511a0d3fb",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-8e184595ce",
     "source": "BBC — Top Stories",
     "title": "Government loses bid to block Palestine Action ban appeal",
-    "summary": "In a highly significant ruling, the Court of Appeal paved the way for the review of the ban before a High Court judge next month.",
+    "summary": "Palestine Action's co-founder said the government's attempt to avoid judicial scrutiny had 'backfired spectacularly'.",
     "url": "https://www.bbc.com/news/articles/ce9dg5v43vmo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T12:38:20Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8426/live/b75f8090-ab53-11f0-aa13-0b0479f6f42a.jpg",
+    "published": "2025-10-17T13:06:50Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a54/live/18b89910-ab5b-11f0-ba75-093eca1ac29b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-aaa4fa3f62",
+    "source": "The Guardian — UK",
+    "title": "Gaucho restaurant chain to slash share of service charge for waiting staff",
+    "summary": "Staff letter details plan to cut share to between 25% and 29%, using some funds to boost pay of head office staff Argentinian steak restaurant Gaucho is slashing the share of the service charge its waiters receive, using some of the funds to bump up the pay package of head office workers. A letter to workers seen by the Guardian says that from 1 October existing waiters would receive between 25.45% and 29.4% of the service charge collected at tables they have served, depending on length of service, down from 37% previously – already a reduction from 45% early last year. Bar staff will get 17% of the service charge, down from 20%. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/17/gaucho-restaurant-chain-to-slash-share-of-service-charge-for-waiting-staff",
+    "published": "2025-10-17T13:01:53Z",
+    "image_url": "https://i.guim.co.uk/img/media/0852b2c9b80b1a7f0891dddc2431d5a83ae1f324/536_385_3501_2800/master/3501.jpg?width=140&quality=85&auto=format&fit=max&s=6a8dbeec63f469d438b2413baf73e1de",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-46228af064",
+    "source": "The Guardian — UK",
+    "title": "China threatens UK with ‘consequences’ over delayed London mega embassy",
+    "summary": "Diplomatic tensions escalate amid rows over planning hold-ups and collapse of spying trial UK politics live – latest updates Tensions between Britain and China have escalated after Beijing criticised further delays to a planning decision on its proposed “mega embassy” in London. China’s ministry of foreign affairs expressed “grave concern and strong dissatisfaction” after Steve Reed, the housing secretary, pushed back his final decision on the proposal until 10 December. Continue reading...",
+    "url": "https://www.theguardian.com/world/2025/oct/17/china-accuses-uk-of-bad-faith-over-delayed-embassy-project",
+    "published": "2025-10-17T12:50:20Z",
+    "image_url": "https://i.guim.co.uk/img/media/9976c23eec5bdd0054cf4072ac02442686550a81/248_0_1126_901/master/1126.jpg?width=140&quality=85&auto=format&fit=max&s=86ef5e8a72130b7e5c0eb06091875f1a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-11df2a1a2e",
+    "source": "The Guardian — UK",
+    "title": "Three UK neo-Nazis jailed for between eight and 11 years over terror plots",
+    "summary": "Group of ‘like-minded extremists’ styled themselves after the SS and amassed arsenal of more than 200 weapons Three neo-Nazi extremists who amassed an arsenal of more than 200 weapons and were planning terrorist attacks on mosques and synagogues in England have been jailed for between eight and 11 years. Christopher Ringrose, 35, Marco Pitzettu, 26, and Brogan Stewart, 25, communicated online and formed a group with, a jury heard, “like-minded extremists” who wanted to “go to war for their chosen cause”. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/17/three-uk-neo-nazis-jailed-for-between-eight-and-11-years-over-terror-plots",
+    "published": "2025-10-17T12:31:05Z",
+    "image_url": "https://i.guim.co.uk/img/media/ee0ae424d0c76ca5708cd99ba6277c69773fe834/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=437c1cbe057df83db2980cc5232e5aea",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -43,18 +103,6 @@
     "url": "https://www.bbc.com/news/articles/c5y0g79xevxo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T12:17:01Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba5/live/372f54e0-ab44-11f0-86b3-2dd47a6542fa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-8439e1fda8",
-    "source": "The Guardian — UK",
-    "title": "No 10 says talks happening ‘at pace’ across government to lift ban on Maccabi Tel Aviv fans attending Aston Villa match – live",
-    "summary": "Fans of Israeli football team Maccabi Tel Aviv banned from match at Aston Villa next month Zarah Sultana , the former Labour MP who is now a member of the Independent Alliance in parliament, alongside Ayoub Khan and four others, has also defended the Maccabi ban on the grounds that Israeli teams should not be competing in international sport. She says : Next UEFA must ban all Israeli teams. We cannot have normalisation with genocide and apartheid. Apartheid South Africa was banned from the Olympics for 32 years. The same people who called Nelson Mandela a “terrorist” now say we can’t boycott apartheid Israel. There are two distinct issues. One is the safety aspect … If the police in West Midlands find it challenging because they simply do not have the resources to ensure safety, then that’s one aspect. The second aspect is a moral argument that Maccabi Tel Aviv should not even be playing in this international competition. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/17/keir-starmer-uk-politics-latest-news-updates-maccabi-tel-aviv-fans-banned",
-    "published": "2025-10-17T12:09:15Z",
-    "image_url": "https://i.guim.co.uk/img/media/c06220d3dee987abdc59177faa424469a2e88602/361_0_3747_2997/master/3747.jpg?width=140&quality=85&auto=format&fit=max&s=32e00a0ccefb5c75eeadf23511a0d3fb",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -99,22 +147,10 @@
     "id": "The Guardian — UK-e3f2845db7",
     "source": "The Guardian — UK",
     "title": "Legal challenge to Palestine Action ban can go ahead, court rules",
-    "summary": "Judges reject Home Office attempt to block judicial review of group’s proscription under Terrorism Act A legal challenge to the ban on Palestine Action can go ahead next month after the court of appeal rejected the Home Office’s attempt to block the case. On Friday, three judges, led by the lady chief justice, upheld Mr Justice Chamberlain’s decision to grant the Palestine Action co-founder Huda Ammori a judicial review of the group’s proscription under the Terrorism Act. Continue reading...",
+    "summary": "Judges reject Home Office attempt to block judicial review of group’s proscription under Terrorism Act A legal challenge to the ban on Palestine Action can go ahead next month after the court of appeal rejected the Home Office’s attempt to block the case. On Friday, three judges, led by the lady chief justice, Sue Carr, upheld Mr Justice Chamberlain’s decision to grant the Palestine Action co-founder Huda Ammori a judicial review of the group’s proscription under the Terrorism Act. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/17/legal-challenge-to-palestine-action-ban-can-go-ahead-court-rules",
     "published": "2025-10-17T11:40:15Z",
     "image_url": "https://i.guim.co.uk/img/media/6d2287d82274494f208077d1f771c7ded858f00b/175_81_1731_1385/master/1731.jpg?width=140&quality=85&auto=format&fit=max&s=3bb69198e4e0e9010d1217cd370457d9",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-9d194f5882",
-    "source": "BBC — Top Stories",
-    "title": "Zelensky to meet Trump at White House to ask for Tomahawk missiles",
-    "summary": "Ukraine's leader will meet Trump in Washington a day after the US president agreed to face-to-face talks with his Russian counterpart.",
-    "url": "https://www.bbc.com/news/articles/crmxz37nv3zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T11:39:43Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ddb/live/a53cab50-ab52-11f0-b2a1-6f537f66f9aa.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -186,7 +222,7 @@
     "summary": "Monarch will join Pope Leo XIV at an ecumenical service in Sistine Chapel during visit to the Vatican next month King Charles will become the first reigning English monarch since Henry VIII split from Rome in 1534 to pray publicly with a pope during his state visit to the Holy See next week. The king will join Pope Leo XIV at an ecumenical service in the Sistine Chapel during his visit with the queen to the Vatican on 22-23 October, a gesture regarded as a “significant moment” in relations between the Catholic church and the Church of England, of which Charles is supreme governor. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/17/king-charles-first-reigning-english-monarch-500-years-pray-publicly-pope",
     "published": "2025-10-17T11:00:56Z",
-    "image_url": "https://i.guim.co.uk/img/media/ec03762c49248de499a91fedd909f6342bc4f9e5/813_267_2016_1613/master/2016.jpg?width=140&quality=85&auto=format&fit=max&s=ae9850686b8bbc931a42fd9c10c8d971",
+    "image_url": "https://i.guim.co.uk/img/media/82a4bdcd9c480e755a18811f47c3eedbc50a6531/0_0_3937_3150/master/3937.jpg?width=140&quality=85&auto=format&fit=max&s=d856df4d170c23765bd008bf67126880",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -216,18 +252,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-46228af064",
-    "source": "The Guardian — UK",
-    "title": "China threatens UK with ‘consequences’ over delayed London mega embassy",
-    "summary": "Diplomatic tensions escalate amid rows over planning hold-ups and collapse of spying trial UK politics live – latest updates Tensions between Britain and China have escalated after Beijing criticised further delays to a planning decision on its proposed “mega embassy” in London. China’s ministry of foreign affairs expressed “grave concern and strong dissatisfaction” after Steve Reed, the housing secretary, pushed back his final decision on the proposal until 10 December. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/17/china-accuses-uk-of-bad-faith-over-delayed-embassy-project",
-    "published": "2025-10-17T10:37:08Z",
-    "image_url": "https://i.guim.co.uk/img/media/9976c23eec5bdd0054cf4072ac02442686550a81/248_0_1126_901/master/1126.jpg?width=140&quality=85&auto=format&fit=max&s=86ef5e8a72130b7e5c0eb06091875f1a",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-56d33d9571",
     "source": "Politico — UK",
     "title": "Meloni condemns car bomb attack on Italian journalist",
@@ -246,7 +270,7 @@
     "summary": "Varun Yadav lost his entire life savings after he was a victim of romance fraud on a dating app.",
     "url": "https://www.bbc.com/news/articles/c24l5301gg8o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T10:02:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de87/live/cbc3bb60-aa85-11f0-932c-b3160d756a6c.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c19c/live/c1435d40-ab56-11f0-b2a1-6f537f66f9aa.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -288,6 +312,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-042846ef08",
+    "source": "BBC — Top Stories",
+    "title": "Tiah-Mai Ayton - the boxer 'scaring' world champion Katie Taylor",
+    "summary": "Tiah-Mai is set to fight Hungarian bantamweight Beata Dudek at London's York Hall later.",
+    "url": "https://www.bbc.com/news/articles/cm2l98nj391o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T08:39:38Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c001/live/e75f42f0-a9da-11f0-b2dc-37eb57bf4de6.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-d86d5ed563",
     "source": "BBC — Top Stories",
     "title": "HIV protection jab to be offered on NHS in England and Wales for first time",
@@ -300,37 +336,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-af7e4392cd",
-    "source": "The Guardian — UK",
-    "title": "‘Gamechanging’ HIV prevention jab to be approved for England and Wales",
-    "summary": "Long-acting injection offers an alternative to daily pills taken to protect against the virus A “gamechanging” injection to prevent HIV is to be approved for use in England and Wales. The long-acting jab, administered every two months, will offer an alternative to the daily pills used to protect against the virus. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/oct/17/hiv-prevention-injection-england-wales",
-    "published": "2025-10-17T07:17:49Z",
-    "image_url": "https://i.guim.co.uk/img/media/67ebca48d921b384e87e83d5416a59518086357a/172_0_5156_4125/master/5156.jpg?width=140&quality=85&auto=format&fit=max&s=a482afa114fb037d9c83cee1e4b53d6c",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-a94a1705b6",
-    "source": "The Guardian — UK",
-    "title": "Ferrari cuts number of cars it sends to UK after non-dom tax status scrapped",
-    "summary": "Carmaker says reasons for reduction include that some wealthy people ‘are getting out of the country’ Ferrari has cut the number of cars it sells in the UK as wealthy individuals relocate overseas after tax changes and the abolition of non-dom status. The Italian luxury carmaker reportedly began limiting the number of vehicles it exported to the UK about six months ago, in an attempt to stop a decline in their residual value. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/17/ferrari-cuts-number-of-cars-it-sends-to-uk-after-tax-changes",
-    "published": "2025-10-17T07:15:37Z",
-    "image_url": "https://i.guim.co.uk/img/media/7328ee84251f34521de54751d5b91d588994058a/17_274_4087_3272/master/4087.jpg?width=140&quality=85&auto=format&fit=max&s=3d2235e84c8fc36badccd6c594591dbf",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e2a4280f25",
+    "id": "BBC — Top Stories-6fbb61f535",
     "source": "BBC — Top Stories",
-    "title": "Cafes and food delivery apps are our new rivals, says Greene King boss",
-    "summary": "Young adults are drinking less, so the likes of Nick Mackenzie are having to expand the appeal of pubs.",
-    "url": "https://www.bbc.com/news/articles/cd9kd14pgzgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T07:01:09Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cae/live/704e8240-ab1d-11f0-ba75-093eca1ac29b.jpg",
+    "title": "Why does evolution keep creating 'imposter crabs'?",
+    "summary": "'Crabs' are a collection of decapods that have evolved over millions of years to look the same.",
+    "url": "https://www.bbc.com/news/articles/cly7d7erz80o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T05:25:57Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e52/live/8b9f83e0-a43e-11f0-a627-4b5c53db4eb7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -338,7 +350,7 @@
   {
     "id": "BBC — Top Stories-b365bb475a",
     "source": "BBC — Top Stories",
-    "title": "Calls to suspend GP who 'harassed' woman raped by his son",
+    "title": "Charity calls for suspension of GP who 'harassed' woman raped by his son",
     "summary": "Rape Crisis Scotland argues Dr Andrew McFarlane has distressed his son's victim and may cause harm to other rape survivors.",
     "url": "https://www.bbc.com/news/articles/ce3xylkx2d1o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T05:01:11Z",
@@ -463,18 +475,6 @@
     "url": "https://www.theguardian.com/technology/2025/oct/17/launch-of-veteran-card-will-be-used-to-test-uk-governments-digital-id-scheme",
     "published": "2025-10-16T23:01:55Z",
     "image_url": "https://i.guim.co.uk/img/media/7391fbf864eb4aeb3abf730b30f0f4a6d2c63c31/1060_0_3571_2858/master/3571.jpg?width=140&quality=85&auto=format&fit=max&s=b00fceaf6cbd47301a24d3cbe8f974dc",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-8f6b40a2b2",
-    "source": "BBC — Top Stories",
-    "title": "Strange shrieks as tensions rise in Celebrity Traitors",
-    "summary": "For many social media users, it was the subtitles that stole the show.",
-    "url": "https://www.bbc.com/news/articles/cjr04nwnq57o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T22:25:52Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5d0/live/40bf6c10-ab22-11f0-aa13-0b0479f6f42a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
