@@ -5,8 +5,20 @@
     "title": "'Wrong decision' to block Tel Aviv fans from Aston Villa match, says PM",
     "summary": "Followers of the Israeli club will not be allowed to attend the Europa League game over safety concerns.",
     "url": "https://www.bbc.com/news/articles/c205gnz5p8xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T06:02:19Z",
+    "published": "2025-10-17T07:14:54Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9751/live/6a03aad0-ab1a-11f0-93f3-35cf52b1b510.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-e2a4280f25",
+    "source": "BBC — Top Stories",
+    "title": "Cafes and food delivery apps are our new rivals, says Greene King boss",
+    "summary": "Young adults are drinking less, so the likes of Nick Mackenzie are having to expand the appeal of pubs.",
+    "url": "https://www.bbc.com/news/articles/cd9kd14pgzgo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T07:01:09Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cae/live/704e8240-ab1d-11f0-ba75-093eca1ac29b.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -60,6 +72,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-4fe7acc687",
+    "source": "BBC — Top Stories",
+    "title": "Taylor Swift fans flock to German museum to see Ophelia painting",
+    "summary": "The Hessische Landesmuseum in the central Germany has seen hundreds of fans visit in search of a painting depicted in the video for The Fate of Ophelia.",
+    "url": "https://www.bbc.com/news/articles/cvgvwvq2jg4o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T04:08:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc42/live/9f5a4000-ab0a-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-9d194f5882",
     "source": "BBC — Top Stories",
     "title": "Zelensky to make Tomahawk missile case in US after Trump-Putin phone call",
@@ -87,7 +111,7 @@
     "id": "BBC — Top Stories-50ad873b03",
     "source": "BBC — Top Stories",
     "title": "Five takeaways from heated Mamdani-Cuomo New York mayoral debate",
-    "summary": "The three leading candidates for New York City mayor took the stage in Manhattan to make a case to lead America's biggest city.",
+    "summary": "The three leading candidates for New York City mayor have been making their case to lead America's biggest city.",
     "url": "https://www.bbc.com/news/articles/cn8xlx53jn6o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T02:43:13Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aad/live/03a87b70-aaf8-11f0-af50-73683b2b8713.jpg",
@@ -206,7 +230,7 @@
   {
     "id": "BBC — Top Stories-d86d5ed563",
     "source": "BBC — Top Stories",
-    "title": "'Game-changing' HIV protection jab approved in England and Wales",
+    "title": "HIV protection jab to be offered on NHS in England and Wales for first time",
     "summary": "The shot, given six times a year or every other month, is an alternative to taking daily pills to protect against ever catching the virus.",
     "url": "https://www.bbc.com/news/articles/c803egy217xo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T01:27:22Z",
@@ -230,7 +254,7 @@
   {
     "id": "BBC — Top Stories-de6d467327",
     "source": "BBC — Top Stories",
-    "title": "Why talking about sweat stopped being a taboo (long before Alan Carr was on Traitors)",
+    "title": "What Alan Carr’s sweat (and Celia Imrie’s fart) tell us about social taboos in 2025",
     "summary": "Let's talk about sweat... From Alan Carr and scores of celebrities openly discussing it, to the trend of professionals using saunas for business meetings",
     "url": "https://www.bbc.com/news/articles/cwy51pgql7eo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T00:47:10Z",
@@ -300,25 +324,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e2a4280f25",
-    "source": "BBC — Top Stories",
-    "title": "Cafes and food delivery apps are our new rivals, Greene King CEO says",
-    "summary": "Young adults are drinking less, so the likes of Nick Mackenzie are having to expand the appeal of pubs.",
-    "url": "https://www.bbc.com/news/articles/cd9kd14pgzgo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T23:05:11Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cae/live/704e8240-ab1d-11f0-ba75-093eca1ac29b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-407fdc3d0d",
-    "source": "BBC — Top Stories",
-    "title": "British Gas owner among firms fined for underpaying staff",
-    "summary": "A list of nearly 500 employers fined more than £10m for failing to pay the minimum wage is released.",
-    "url": "https://www.bbc.com/news/articles/c4g7zrmpld0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T23:04:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c99/live/03315f30-aac2-11f0-877c-fd491036f200.jpg",
+    "id": "The Guardian — UK-b33916c7b1",
+    "source": "The Guardian — UK",
+    "title": "Banks need stricter controls to prevent romance fraud, says City regulator",
+    "summary": "FCA cites study showing victims’ ‘red flags’ are often missed and calls for improved monitoring systems The City regulator has called on banks and payment firms to bring in stricter controls protecting customers from romance fraud after a study showed a number of missed “red flags” that led to people losing huge sums of money. The review by the Financial Conduct Authority (FCA) highlighted one case where someone lost £428,000, another where a customer made 403 payments totalling £72,000 to a fraudster and a case where someone wanted money to transfer cryptocurrency to their “partner” in Iraq. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2025/oct/17/banks-need-stricter-controls-to-prevent-romance-says-city-regulator",
+    "published": "2025-10-16T23:01:55Z",
+    "image_url": "https://i.guim.co.uk/img/media/24caabe275f63d95a04c05e01a388c36e2a37888/0_0_2058_1648/master/2058.jpg?width=140&quality=85&auto=format&fit=max&s=9febf89fa0bd9a77520e5a3275774c46",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -331,18 +343,6 @@
     "url": "https://www.theguardian.com/technology/2025/oct/17/launch-of-veteran-card-will-be-used-to-test-uk-governments-digital-id-scheme",
     "published": "2025-10-16T23:01:55Z",
     "image_url": "https://i.guim.co.uk/img/media/7391fbf864eb4aeb3abf730b30f0f4a6d2c63c31/1060_0_3571_2858/master/3571.jpg?width=140&quality=85&auto=format&fit=max&s=b00fceaf6cbd47301a24d3cbe8f974dc",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-b33916c7b1",
-    "source": "The Guardian — UK",
-    "title": "Banks need stricter controls to prevent romance fraud, says City regulator",
-    "summary": "FCA cites study showing victims’ ‘red flags’ are often missed and calls for improved monitoring systems The City regulator has called on banks and payment firms to bring in stricter controls protecting customers from romance fraud after a study showed a number of missed “red flags” that led to people losing huge sums of money. The review by the Financial Conduct Authority (FCA) highlighted one case where someone lost £428,000, another where a customer made 403 payments totalling £72,000 to a fraudster and a case where someone wanted money to transfer cryptocurrency to their “partner” in Iraq. Continue reading...",
-    "url": "https://www.theguardian.com/technology/2025/oct/17/banks-need-stricter-controls-to-prevent-romance-says-city-regulator",
-    "published": "2025-10-16T23:01:55Z",
-    "image_url": "https://i.guim.co.uk/img/media/24caabe275f63d95a04c05e01a388c36e2a37888/0_0_2058_1648/master/2058.jpg?width=140&quality=85&auto=format&fit=max&s=9febf89fa0bd9a77520e5a3275774c46",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -366,7 +366,7 @@
     "summary": "Appleby Blue Almshouse in London wins the Royal Institute of British Architects' Stirling Prize.",
     "url": "https://www.bbc.com/news/articles/c4gwlz6k96no?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T22:13:48Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de6/live/2924c200-a909-11f0-b741-177e3e2c2fc7.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5be8/live/748d3c60-ab28-11f0-aa13-0b0479f6f42a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
