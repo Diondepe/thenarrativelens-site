@@ -1,5 +1,41 @@
 [
   {
+    "id": "The Guardian — UK-a284a94f9e",
+    "source": "The Guardian — UK",
+    "title": "The fall of Prince Andrew – a timeline",
+    "summary": "How concerns were raised over his relationship with the convicted child sex offender Jeffrey Epstein The stripping of Prince Andrew’s military roles and royal patronages marked a nadir for the Queen’s second son since sexual assault accusations arose amid concern over his relationship with the convicted child sex offender Jeffrey Epstein. It was a fall from grace for the 65-year-old, who was once second in line to the throne. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2022/jan/13/prince-andrew-a-timeline",
+    "published": "2025-10-17T20:58:17Z",
+    "image_url": "https://i.guim.co.uk/img/media/d2d2cd8c1522bfb8fbec01596b97329e5e384fce/0_18_4094_2456/master/4094.jpg?width=140&quality=85&auto=format&fit=max&s=1c3b3282daab9f536001afb917ba95f0",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-65cb68b576",
+    "source": "The Guardian — UK",
+    "title": "Prince Andrew gives up royal titles including Duke of York after ‘discussion with king’",
+    "summary": "In statement released by Buckingham Palace, Andrew says he will give up titles and honours Virginia Giuffre book extract: ‘Prince Andrew believed having sex with me was his birthright’ Prince Andrew has agreed to give up his use of the Duke of York title, he said in a statement released through Buckingham Palace. He will also give up his membership of the Order of the Garter, meaning his only remaining title will be that of prince, which cannot be removed as he was born the son of a queen. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/17/prince-andrew-to-give-up-royal-titles",
+    "published": "2025-10-17T20:30:43Z",
+    "image_url": "https://i.guim.co.uk/img/media/758d67910045c0a4a8533cdfbfb890e98bb6ae2f/981_0_4244_3394/master/4244.jpg?width=140&quality=85&auto=format&fit=max&s=470240cfc3bea739e13c968869951332",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-acd26f8076",
+    "source": "BBC — Top Stories",
+    "title": "David Hockney's iPad drawings sell for millions",
+    "summary": "Seventeen prints titled \"Arrival of Spring in Woldgate\" went under the hammer at Sotheby's earlier.",
+    "url": "https://www.bbc.com/news/articles/c0rpgjk7z0zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T20:09:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcad/live/d47fe740-ab54-11f0-b03c-d3cc69fd9896.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-6e196255d6",
     "source": "BBC — Top Stories",
     "title": "Polish judge refuses to extradite Ukrainian Nord Stream blasts suspect",
@@ -12,9 +48,21 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-4e8ef49a16",
+    "source": "BBC — Top Stories",
+    "title": "Man and woman arrested over rape of Sikh woman",
+    "summary": "The arrest comes after the pair were held over the rape of another woman in her 30s in Halesowen.",
+    "url": "https://www.bbc.com/news/articles/c9wvr40plrko?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T19:59:08Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b78a/live/736a7df0-ab8e-11f0-bcc1-4bb330842a95.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-26d339bc69",
     "source": "BBC — Top Stories",
-    "title": "Customers sue maker of popular On Cloud shoes over 'noisy and embarrassing' squeaks",
+    "title": "Customers sue over 'embarrassing' squeaky On Cloud shoes",
     "summary": "Athletic shoe company On is facing a lawsuit from customers who claim that its sneakers produce annoying squeaks.",
     "url": "https://www.bbc.com/news/articles/c803lzr87yno?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T19:58:30Z",
@@ -60,18 +108,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-65cb68b576",
-    "source": "The Guardian — UK",
-    "title": "Prince Andrew gives up royal titles including Duke of York after ‘discussion with king’",
-    "summary": "In statement released by Buckingham Palace, Andrew says he will give up titles and honours Virginia Giuffre book extract: ‘Prince Andrew believed having sex with me was his birthright’ Prince Andrew has agreed to give up his use of the Duke of York title, he said in a statement released through Buckingham Palace. He will also give up his membership of the Order of the Garter, meaning his only remaining title will be that of prince, which cannot be removed as he was born the son of a queen. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/17/prince-andrew-to-give-up-royal-titles",
-    "published": "2025-10-17T18:37:08Z",
-    "image_url": "https://i.guim.co.uk/img/media/758d67910045c0a4a8533cdfbfb890e98bb6ae2f/981_0_4244_3394/master/4244.jpg?width=140&quality=85&auto=format&fit=max&s=470240cfc3bea739e13c968869951332",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-60b7aba1e4",
     "source": "BBC — Top Stories",
     "title": "Government 'doing everything' to overturn Maccabi Tel Aviv fan ban",
@@ -79,18 +115,6 @@
     "url": "https://www.bbc.com/news/articles/c5ylxn8g2y2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T18:25:15Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1af/live/19e503f0-ab83-11f0-ba75-093eca1ac29b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-297d36cde4",
-    "source": "BBC — Top Stories",
-    "title": "Asylum seeker accused of killing hotel worker danced on video after attack, court hears",
-    "summary": "Deng Majek denies murdering 27-year-old Rhiannon Whyte by stabbing her with a screwdriver at Bescot Stadium train station in Walsall.",
-    "url": "https://www.bbc.com/news/articles/cnvej88l56eo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T18:19:12Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88b8/live/a00ccce0-a8f6-11f0-b741-177e3e2c2fc7.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -288,13 +312,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-ca8c76813d",
+    "id": "The Guardian — UK-9293a2be18",
     "source": "The Guardian — UK",
-    "title": "Mississippi residents sue UK-owned biomass firm granted permit for more emissions",
-    "summary": "Nearby residents say they have had health concerns due to air pollution from Drax Biomass facility Residents of a small Mississippi town are suing Drax Biomass after the company won a permit to become a “major source” of hazardous air pollution at a local wood pellet production plant. The subsidiary of the FTSE 250 energy company was previously denied permission to increase emissions in the 900-person town of Gloster, Mississippi, after local residents warned that they had already suffered serious adverse health consequences because of the operation. Continue reading...",
-    "url": "https://www.theguardian.com/us-news/2025/oct/17/mississippi-suit-drax-biomass-air-pollution",
-    "published": "2025-10-17T15:03:02Z",
-    "image_url": "https://i.guim.co.uk/img/media/5c6a91ce06a89ddf4a3ce7615c6cd59132b88377/323_0_3290_2632/master/3290.jpg?width=140&quality=85&auto=format&fit=max&s=684889714a36bdf62686442bb81e7dec",
+    "title": "Nearly 2,000 Foreign Office jobs ‘at risk’, says PCS union",
+    "summary": "Reduction in higher-level roles linked to government decision to cut foreign aid budget, says union Almost 2,000 civil servants at the Foreign, Commonwealth and Development Office face the risk of redundancy, with the biggest union for government workers vowing to fight the cuts. The PCS union, which has about 200,000 members, said it had been told that 1,885 jobs at the second highest level, known as delegated grades, were “at risk”, in addition to redundancy notices that have already been issued to some senior civil servants. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/17/nearly-2000-foreign-office-jobs-at-risk-says-pcs-union",
+    "published": "2025-10-17T14:59:10Z",
+    "image_url": "https://i.guim.co.uk/img/media/017dfbf64123e79db604e328ecd97853dc4d7304/292_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=b1a6cc55a835a67cf2cc64d81d9c3d87",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -408,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-f75b075393",
-    "source": "BBC — Top Stories",
-    "title": "Celebrity MasterChef to air with sacked host John Torode",
-    "summary": "The Christmas specials will also air, with the BBC acknowledging it had not been a \"straightforward decision\".",
-    "url": "https://www.bbc.com/news/articles/c1lqg2j8zj0o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T11:09:21Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f1b/live/91a36080-ab42-11f0-b2a1-6f537f66f9aa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-47099f52c1",
     "source": "The Guardian — UK",
     "title": "Government U-turns on support for bird-friendly swift bricks in new homes",
@@ -511,18 +523,6 @@
     "url": "https://www.bbc.com/news/articles/c14pll3pd70o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T05:16:39Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e59/live/36830b30-aa87-11f0-aa13-0b0479f6f42a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-da0c4f8969",
-    "source": "The Guardian — UK",
-    "title": "London developers to be allowed to reduce percentage of affordable homes",
-    "summary": "Housing secretary and capital’s mayor draw up plans to boost housebuilding, but homelessness charities protest Developers will be allowed to build lower numbers of affordable homes and claim higher subsidies to build them under plans being drawn up by the government to solve London’s housebuilding crisis. Steve Reed, the housing secretary, and Sadiq Khan, the mayor of London, will announce the package within weeks, in what officials say will be a time-limited intervention designed to stall the sudden drop in new building in the capital. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/oct/17/developers-higher-subsidies-fewer-affordable-homes-london",
-    "published": "2025-10-17T04:00:03Z",
-    "image_url": "https://i.guim.co.uk/img/media/a594ae8a90bab1b80a9a34eb9f7b1cca5cd157a8/380_0_4142_3313/master/4142.jpg?width=140&quality=85&auto=format&fit=max&s=a2887e53fc9be441d604e3cbaf3c84b5",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
