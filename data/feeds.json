@@ -1,5 +1,77 @@
 [
   {
+    "id": "The Guardian — UK-8439e1fda8",
+    "source": "The Guardian — UK",
+    "title": "Ministers to explore reversing ban on Maccabi Tel Aviv fans attending UK match after PM’s criticism – politics live",
+    "summary": "Fans of the Israeli football team will not be allowed to attend the Europa League match at Aston Villa on 6 November owing to safety concerns Simon Foster , the Labour West Midlands police and crime commissioner, has called for a review of the ban on Maccabi Tel Aviv fans attending the match. In a lengthy statement , he says: I have today requested, Birmingham City Council Safety Advisory Group (‘SAG’) and West Midlands Police (‘WMP’), convene a Special SAG, at the earliest possible opportunity and conduct an immediate review of the decision, to prohibit the attendance of away fans at the football match, between Aston Villa FC v Maccabi Tel Aviv FC, on Thursday 6 November. The purpose of my request for a review, is to enable the SAG and WMP to determine, whether or not this decision and recommendation is appropriate, necessary, justified, reasonable and a proportionate means of achieving a legitimate aim. That must include consideration, of all and any suitable, alternative options. West Midlands Police has a strong track record of successfully policing football matches and other high-risk public events. We are committed to delivering fair and impartial policing, while balancing the public’s right to protest with our duty to ensure public safety. Continue reading...",
+    "url": "https://www.theguardian.com/politics/live/2025/oct/17/keir-starmer-uk-politics-latest-news-updates-maccabi-tel-aviv-fans-banned",
+    "published": "2025-10-17T09:12:48Z",
+    "image_url": "https://i.guim.co.uk/img/media/ad5ab2cf424cf4344730f6a222e4514c6bb29857/1021_889_3944_3156/master/3944.jpg?width=140&quality=85&auto=format&fit=max&s=bb0f1038f816bce2709357ae328af2b6",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-21895130a3",
+    "source": "Politico — UK",
+    "title": "Farage: Putin is a ‘very bad dude’",
+    "summary": "Russian leader is not a 'rational man,' says leader of Britain's populist Reform UK.",
+    "url": "https://www.politico.eu/article/vladimir-putin-very-bad-dude-says-nigel-farage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-17T09:08:20Z",
+    "image_url": "https://www.politico.eu/wp-content/themes/politico/assets/images/politico-billboard.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9e39244ae5",
+    "source": "BBC — Top Stories",
+    "title": "Airline apologises for asking dead flight attendant for paperwork",
+    "summary": "The woman's death has triggered widespread anger in Taiwan following speculation that she was overworked.",
+    "url": "https://www.bbc.com/news/articles/cy40gq2882xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T09:08:13Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f91/live/e52dee10-ab19-11f0-93f3-35cf52b1b510.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0a6e3e9406",
+    "source": "BBC — Top Stories",
+    "title": "Author of I Want To Die But I Want To Eat Tteokbokki dies at 35",
+    "summary": "South Korean writer Baek Se-hee was known for her 2018 bestselling memoir about her struggle with depression.",
+    "url": "https://www.bbc.com/news/articles/cpq1dy8w3jwo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T09:05:01Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d211/live/06e5cf80-ab21-11f0-93f3-35cf52b1b510.png",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7765a6b04b",
+    "source": "BBC — Top Stories",
+    "title": "Ex-Trump adviser John Bolton charged with sharing classified information",
+    "summary": "Bolton is the third of the US president's political opponents to face charges in recent weeks.",
+    "url": "https://www.bbc.com/news/articles/cgql2qzkz5zo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T08:55:54Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d25/live/8ea73980-ab2c-11f0-a94b-bd0a0d9557d9.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-1e1de116d3",
+    "source": "The Guardian — UK",
+    "title": "Global markets fall and gold hits record high amid jitters over US banks",
+    "summary": "Signs of credit stress leave markets in Europe and Asia down, while investors turn to safe haven assets Business live – latest updates Global stock markets fell sharply and gold hit a record high after two US regional banks said they had been left exposed to millions of dollars of bad loans and alleged fraud . Signs of credit stress rattled markets across Europe and Asia. In London the FTSE 100 fell 1.5%, Germany’s Dax fell 2%, the Ibex in Spain was off 0.8% and France’s Cac 40 dropped 1.5%, before recovering some ground. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/17/global-stock-markets-fall-and-gold-hits-record-high-amid-jitters-over-us-banks",
+    "published": "2025-10-17T08:32:01Z",
+    "image_url": "https://i.guim.co.uk/img/media/0858658736253ef269f9b70b55a400bcf81ed67d/1272_291_4561_3651/master/4561.jpg?width=140&quality=85&auto=format&fit=max&s=155dfe3a5066fa100fbe55b9370c47b7",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-d86d5ed563",
     "source": "BBC — Top Stories",
     "title": "HIV protection jab to be offered on NHS in England and Wales for first time",
@@ -24,18 +96,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-8439e1fda8",
-    "source": "The Guardian — UK",
-    "title": "Ministers to explore reversing ban on Maccabi Tel Aviv fans attending UK match after PM’s criticism – politics live",
-    "summary": "Fans of the Israeli football team will not be allowed to attend the Europa League match at Aston Villa on 6 November owing to safety concerns Good morning. Yesterday it emerged that fans of Maccabi Tel Aviv will not be allowed to attend the Europa League match at Aston Villa on 6 November owing to safety concerns. The decision was taken by Birmingham’s safety advisory group, based on advice from the West Midlands police, who said the match would be “high risk” based on “current intelligence and previous incidents, ­including ­violent clashes and hate crime offences that occurred during the 2024 Uefa Europa League match between Ajax and ­Maccabi Tel Aviv in Amsterdam ”. There is more on the announcement here . The decision prompted widespread condemnation from political leaders. Keir Starmer said : This is the wrong decision. We will not tolerate antisemitism on our streets. This is a national disgrace. How have things come to this? A serious mistake by WM Police. You don’t tackle antisemitism by banning its victims. This decision must be reversed. From the moment that the match was announced, it was clear that there were latent safety risks that even our capable security and police authorities would not be able to fully manage. With so much hostility and uncertainty around the match, it was only right to take drastic measures. As Israel continues its assault on Gaza, killing thousands and devastating civilian infrastructure, sporting fixtures involving Israeli teams cannot be separated from the wider political context. Hosting such teams sends a message of normalisation and indifference to mass atrocities. [The decision is] just completely and utterly unacceptable, and the prime minister has said we will do everything we possibly can to resolve this issue. It’s an operational issue for the police, and government doesn’t get involved in operational issues for the police. Continue reading...",
-    "url": "https://www.theguardian.com/politics/live/2025/oct/17/keir-starmer-uk-politics-latest-news-updates-maccabi-tel-aviv-fans-banned",
-    "published": "2025-10-17T07:50:57Z",
-    "image_url": "https://i.guim.co.uk/img/media/ad5ab2cf424cf4344730f6a222e4514c6bb29857/1021_889_3944_3156/master/3944.jpg?width=140&quality=85&auto=format&fit=max&s=bb0f1038f816bce2709357ae328af2b6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-9d194f5882",
     "source": "BBC — Top Stories",
     "title": "Zelensky to meet Trump at White House to ask for Tomahawk missiles",
@@ -51,7 +111,7 @@
     "id": "The Guardian — UK-af7e4392cd",
     "source": "The Guardian — UK",
     "title": "‘Gamechanging’ HIV prevention jab to be approved for England and Wales",
-    "summary": "Long-acting injection offers an alternative to daily pills taken to protect against the virus A “gamechanging” injection to prevent HIV is set to be approved for use in England and Wales. The long-acting jab, administered every two months, will offer an alternative to the daily pills used to protect against the virus. Continue reading...",
+    "summary": "Long-acting injection offers an alternative to daily pills taken to protect against the virus A “gamechanging” injection to prevent HIV is to be approved for use in England and Wales. The long-acting jab, administered every two months, will offer an alternative to the daily pills used to protect against the virus. Continue reading...",
     "url": "https://www.theguardian.com/society/2025/oct/17/hiv-prevention-injection-england-wales",
     "published": "2025-10-17T07:17:49Z",
     "image_url": "https://i.guim.co.uk/img/media/67ebca48d921b384e87e83d5416a59518086357a/172_0_5156_4125/master/5156.jpg?width=140&quality=85&auto=format&fit=max&s=a482afa114fb037d9c83cee1e4b53d6c",
@@ -84,13 +144,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-0a6e3e9406",
+    "id": "BBC — Top Stories-3d329f7041",
     "source": "BBC — Top Stories",
-    "title": "Author of I Want To Die But I Want To Eat Tteokbokki dies at 35",
-    "summary": "South Korean writer Baek Se-hee was known for her 2018 bestselling memoir about her struggle with depression.",
-    "url": "https://www.bbc.com/news/articles/cpq1dy8w3jwo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T06:20:46Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d211/live/06e5cf80-ab21-11f0-93f3-35cf52b1b510.png",
+    "title": "Family of British girl missing for 55 years gives ultimatum to person of interest",
+    "summary": "Authorities believe three-year-old was abducted from Fairy Meadow beach in Wollongong in January 1970.",
+    "url": "https://www.bbc.com/news/articles/c1e374lgn0wo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T06:41:03Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9e6/live/bbc3fdb0-ab07-11f0-baa3-6de9de658722.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -240,18 +300,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-4629bcfd8a",
-    "source": "Politico — UK",
-    "title": "ChatXXX: AI’s plans to get sexy",
-    "summary": "OpenAI's Sam Altman says erotic material will soon be allowed on ChatGPT, but that's nothing new.",
-    "url": "https://www.politico.eu/article/ai-tech-robots-sexy-politics-chat-gpt/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-17T02:00:00Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/16/iStock-1224338172-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-0a770600f7",
     "source": "BBC — Top Stories",
     "title": "China has found Trump's pain point - rare earths",
@@ -288,18 +336,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-0189a78b23",
-    "source": "BBC — Top Stories",
-    "title": "KISS founding guitarist Ace Frehley dies aged 74",
-    "summary": "Bandmates Gene Simmons and Paul Stanley have paid tribute to an \"irreplaceable rock soldier\".",
-    "url": "https://www.bbc.com/news/articles/cj41vwgv47no?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T00:14:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/285f/live/b09d0690-aaec-11f0-83de-033e77bcbaac.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-37a74e90ac",
     "source": "BBC — Top Stories",
     "title": "Weekly quiz: What award did this sleepy spider win a 10-year-old?",
@@ -307,18 +343,6 @@
     "url": "https://www.bbc.com/news/articles/cvgvw7103ppo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-16T23:50:20Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f8a/live/65444170-ab2f-11f0-aa13-0b0479f6f42a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-7765a6b04b",
-    "source": "BBC — Top Stories",
-    "title": "Former Trump adviser John Bolton criminally indicted",
-    "summary": "Bolton is the third of the US president's political opponents to face charges in recent weeks.",
-    "url": "https://www.bbc.com/news/articles/cgql2qzkz5zo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T23:48:28Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0ec/live/769b8cd0-a9d1-11f0-aa31-b1f6905de5c6.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -360,18 +384,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-b33916c7b1",
-    "source": "The Guardian — UK",
-    "title": "Banks need stricter controls to prevent romance fraud, says City regulator",
-    "summary": "FCA cites study showing victims’ ‘red flags’ are often missed and calls for improved monitoring systems The City regulator has called on banks and payment firms to bring in stricter controls protecting customers from romance fraud after a study showed a number of missed “red flags” that led to people losing huge sums of money. The review by the Financial Conduct Authority (FCA) highlighted one case where someone lost £428,000, another where a customer made 403 payments totalling £72,000 to a fraudster and a case where someone wanted money to transfer cryptocurrency to their “partner” in Iraq. Continue reading...",
-    "url": "https://www.theguardian.com/technology/2025/oct/17/banks-need-stricter-controls-to-prevent-romance-says-city-regulator",
-    "published": "2025-10-16T23:01:55Z",
-    "image_url": "https://i.guim.co.uk/img/media/24caabe275f63d95a04c05e01a388c36e2a37888/0_0_2058_1648/master/2058.jpg?width=140&quality=85&auto=format&fit=max&s=9febf89fa0bd9a77520e5a3275774c46",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-7e2f11c5a4",
     "source": "The Guardian — UK",
     "title": "Launch of veteran card will be used to test UK government’s digital ID scheme",
@@ -379,6 +391,18 @@
     "url": "https://www.theguardian.com/technology/2025/oct/17/launch-of-veteran-card-will-be-used-to-test-uk-governments-digital-id-scheme",
     "published": "2025-10-16T23:01:55Z",
     "image_url": "https://i.guim.co.uk/img/media/7391fbf864eb4aeb3abf730b30f0f4a6d2c63c31/1060_0_3571_2858/master/3571.jpg?width=140&quality=85&auto=format&fit=max&s=b00fceaf6cbd47301a24d3cbe8f974dc",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-b33916c7b1",
+    "source": "The Guardian — UK",
+    "title": "Banks need stricter controls to prevent romance fraud, says City regulator",
+    "summary": "FCA cites study showing victims’ ‘red flags’ are often missed and calls for improved monitoring systems The City regulator has called on banks and payment firms to bring in stricter controls protecting customers from romance fraud after a study showed a number of missed “red flags” that led to people losing huge sums of money. The review by the Financial Conduct Authority (FCA) highlighted one case where someone lost £428,000, another where a customer made 403 payments totalling £72,000 to a fraudster and a case where someone wanted money to transfer cryptocurrency to their “partner” in Iraq. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2025/oct/17/banks-need-stricter-controls-to-prevent-romance-says-city-regulator",
+    "published": "2025-10-16T23:01:55Z",
+    "image_url": "https://i.guim.co.uk/img/media/24caabe275f63d95a04c05e01a388c36e2a37888/0_0_2058_1648/master/2058.jpg?width=140&quality=85&auto=format&fit=max&s=9febf89fa0bd9a77520e5a3275774c46",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -420,18 +444,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-5850591d0c",
-    "source": "BBC — Top Stories",
-    "title": "Sam Fender wins 2025 Mercury Prize for album of the year",
-    "summary": "\"I didn't think that was going to happen at all,\" the star says, as judges laud his \"classic\" album.",
-    "url": "https://www.bbc.com/news/articles/cp3dnjd9g4go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-16T22:00:10Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9a6/live/21b55aa0-ab1d-11f0-b2a1-6f537f66f9aa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-4d972ff593",
     "source": "BBC — Top Stories",
     "title": "US-backed aid group suspends Gaza operations after ceasefire",
@@ -444,13 +456,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-3f704d0951",
+    "id": "The Guardian — UK-626cce5afd",
     "source": "The Guardian — UK",
-    "title": "Head of CPS faces cross-party pressure to explain China spy trial collapse",
-    "summary": "Stephen Parkinson called on to give ‘fuller explanation’ as MI5 expresses frustration over charges being dropped The director of public prosecutions has come under intense cross-party pressure to explain why the China spy trial collapsed as MI5 expressed frustration at the decision and MPs launched a series of inquiries into how it was taken. The chairs of the home affairs, foreign affairs, justice and national security committees wrote together to Stephen Parkinson, the head of the Crown Prosecution Service (CPS), on Thursday calling on him to give “a fuller explanation for the dropping of charges”. Continue reading...",
-    "url": "https://www.theguardian.com/world/2025/oct/16/head-of-cps-faces-cross-party-pressure-to-explain-china-spy-trial-collapse",
-    "published": "2025-10-16T18:44:22Z",
-    "image_url": "https://i.guim.co.uk/img/media/ce5132e849de9958cec0b6abd1b689ca391b4534/60_18_4226_3381/master/4226.jpg?width=140&quality=85&auto=format&fit=max&s=2815a114d8df70294a699ce5591282d8",
+    "title": "Cardiff becomes first UK council to impose higher parking charges on larger vehicles",
+    "summary": "Premium charge aims to combat steep rise in SUVs and other larger vehicles which are ‘a danger to other road users’ Cardiff council will force drivers with larger vehicles to pay more for parking, becoming the first local authority in the UK to impose a parking premium to combat the dangers of larger vehicles. Councillors voted on Thursday to approve a new parking plan for the city whereby owners of larger vehicles will be charged more for parking permits because their cars “take up more parking space and are a danger to other road users”. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/16/cardiff-becomes-first-uk-council-to-impose-higher-parking-charges-on-larger-vehicles",
+    "published": "2025-10-16T17:57:02Z",
+    "image_url": "https://i.guim.co.uk/img/media/803e26250d6a84d46b0452142972cfd493ba020f/46_0_3480_2784/master/3480.jpg?width=140&quality=85&auto=format&fit=max&s=84bc191493018b7226c43900a3f95791",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -499,18 +511,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/16/china-spying-case-dream-job-turns-into-nightmare-for-dpp-stephen-parkinson",
     "published": "2025-10-16T16:14:50Z",
     "image_url": "https://i.guim.co.uk/img/media/89b5115ff3dcbd2ea5f9a91d70b0b53658e27708/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8d81c6af7a120e55f5de8a3b47955250",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-d65d7fbf20",
-    "source": "The Guardian — UK",
-    "title": "Farage urged to explain anti-abortion links to meeting with Trump officials",
-    "summary": "Lib Dems accuse Reform leader of wanting to water down women’s rights after reports of help from advocacy group Nigel Farage has been urged to explain why a US anti-abortion advocacy group helped arrange a meeting in London with Trump administration officials and diplomats. The meeting, first reported by the New York Times , took place in March between Farage and a delegation from Trump’s state department, which it said was overseen by the US embassy and brokered by the Alliance Defending Freedom (ADF) group. The meeting was said to have discussed abortion rights, free speech and online safety laws. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/16/farage-urged-to-explain-anti-abortion-links-to-meeting-with-trump-officials",
-    "published": "2025-10-16T15:57:42Z",
-    "image_url": "https://i.guim.co.uk/img/media/d8c81edbcb2539a14e4cd3f7e7a69fb43a939356/141_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=1c442a86e7df00e81b64cdcd208d0740",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
