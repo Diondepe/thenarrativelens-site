@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-57f6c09242",
+    "source": "BBC — Top Stories",
+    "title": "Exciting results from blood test for 50 cancers",
+    "summary": "The Galleri test looks for fragments of DNA that have broken off a tumour and are circulating in the blood.",
+    "url": "https://www.bbc.com/news/articles/c205g21n1zzo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T22:02:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f714/live/07276060-aba5-11f0-bba9-81f28efa2a1e.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0ae89168db",
+    "source": "BBC — Top Stories",
+    "title": "After all those scandals, why did Andrew quit his titles now?",
+    "summary": "He has voluntarily given up his titles but was clearly under pressure to jump before he was pushed.",
+    "url": "https://www.bbc.com/news/articles/c3ep8gd1qv3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T21:53:26Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e79/live/0be65060-ab97-11f0-8c97-590e369b28d5.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d0dfd2d0d6",
+    "source": "BBC — Top Stories",
+    "title": "Red Cross retrieves body of dead hostage in Gaza, Israel says",
+    "summary": "The Israeli military says \"a coffin of a deceased hostage\" is now on the way to its troops in the territory.",
+    "url": "https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T21:51:00Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8654/live/6af9de50-aba1-11f0-ba75-093eca1ac29b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-e78ca2d87e",
+    "source": "The Guardian — UK",
+    "title": "Prince Andrew’s fall from grace complete as monarchy cuts him loose",
+    "summary": "Ex-royal cherished his titles and status but Buckingham Palace faced risk of reputational spillover Prince Andrew gives up royal titles including Duke of York after ‘discussion with king’ This is the outcome that, ultimately, King Charles and the Prince of Wales would have hoped for: Andrew, the subject of so many toxic headlines unhelpful to the royal family and institution of monarchy, finally doing the “honourable” thing. It has been six long years since his disastrous Newsnight interview with Emily Maitlis precipitated the start of this very public fall from grace. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/17/prince-andrews-fall-from-grace-complete-as-monarchy-cuts-him-loose",
+    "published": "2025-10-17T21:20:04Z",
+    "image_url": "https://i.guim.co.uk/img/media/e0e1d937c4db5e45ee39873e5b4ac2dad38374eb/408_0_4080_3264/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=3c3152c5a21b818b48d2bba435bf0ae9",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-7a343bdf8c",
+    "source": "BBC — Top Stories",
+    "title": "Who is Prince Andrew? The royal who has given up his titles",
+    "summary": "He remains a prince but has given up the title of Duke of York among others.",
+    "url": "https://www.bbc.com/news/articles/c4g7zn96nevo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T21:09:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f548/live/f5e8ce70-ab94-11f0-ba75-093eca1ac29b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-a284a94f9e",
     "source": "The Guardian — UK",
     "title": "The fall of Prince Andrew – a timeline",
@@ -15,7 +75,7 @@
     "id": "The Guardian — UK-65cb68b576",
     "source": "The Guardian — UK",
     "title": "Prince Andrew gives up royal titles including Duke of York after ‘discussion with king’",
-    "summary": "In statement released by Buckingham Palace, Andrew says he will give up titles and honours Virginia Giuffre book extract: ‘Prince Andrew believed having sex with me was his birthright’ Prince Andrew has agreed to give up his use of the Duke of York title, he said in a statement released through Buckingham Palace. He will also give up his membership of the Order of the Garter, meaning his only remaining title will be that of prince, which cannot be removed as he was born the son of a queen. Continue reading...",
+    "summary": "In statement released by Buckingham Palace, Andrew says he will give up titles and honours Virginia Giuffre book extract: ‘Prince Andrew believed having sex with me was his birthright’ Prince Andrew has agreed to give up his use of the Duke of York title, he said in a statement released through Buckingham Palace. He will also give up use of his honours as a Knight Grand Cross of the Royal Victorian Order (GCVO) and Royal Knight Companion of the Most Noble Order of the Garter, meaning his only remaining title will be that of prince, which cannot be removed as he was born the son of a queen. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/17/prince-andrew-to-give-up-royal-titles",
     "published": "2025-10-17T20:30:43Z",
     "image_url": "https://i.guim.co.uk/img/media/758d67910045c0a4a8533cdfbfb890e98bb6ae2f/981_0_4244_3394/master/4244.jpg?width=140&quality=85&auto=format&fit=max&s=470240cfc3bea739e13c968869951332",
@@ -36,18 +96,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-6e196255d6",
-    "source": "BBC — Top Stories",
-    "title": "Polish judge refuses to extradite Ukrainian Nord Stream blasts suspect",
-    "summary": "The judge ordered his release, after a ruling that was met with a ripple of surprise in court and a smile from the Ukrainian in the dock.",
-    "url": "https://www.bbc.com/news/articles/c8drmzv98jzo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T20:06:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25e9/live/c58c1af0-ab8c-11f0-bcc1-4bb330842a95.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-4e8ef49a16",
     "source": "BBC — Top Stories",
     "title": "Man and woman arrested over rape of Sikh woman",
@@ -55,30 +103,6 @@
     "url": "https://www.bbc.com/news/articles/c9wvr40plrko?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T19:59:08Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b78a/live/736a7df0-ab8e-11f0-bcc1-4bb330842a95.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-26d339bc69",
-    "source": "BBC — Top Stories",
-    "title": "Customers sue over 'embarrassing' squeaky On Cloud shoes",
-    "summary": "Athletic shoe company On is facing a lawsuit from customers who claim that its sneakers produce annoying squeaks.",
-    "url": "https://www.bbc.com/news/articles/c803lzr87yno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T19:58:30Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/934d/live/b1270cf0-ab82-11f0-9dd5-0bcfdec15686.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-6b5e42f132",
-    "source": "BBC — Top Stories",
-    "title": "What does King Charles do and who else is in the Royal Family?",
-    "summary": "As the UK's head of state, King Charles has number of parliamentary and constitutional duties.",
-    "url": "https://www.bbc.com/news/articles/cwy7e4q779wo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T19:54:02Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7ef/live/d4c7ce40-a8fa-11f0-92db-77261a15b9d2.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -516,18 +540,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-023ba8d473",
-    "source": "BBC — Top Stories",
-    "title": "Award for dog, abandoned five times but now solving wildlife crime",
-    "summary": "Henry, a 10-year-old Springer Spaniel, was a \"lost soul\" who found his purpose as a detection dog.",
-    "url": "https://www.bbc.com/news/articles/c14pll3pd70o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T05:16:39Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e59/live/36830b30-aa87-11f0-aa13-0b0479f6f42a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-206a5fe462",
     "source": "The Guardian — UK",
     "title": "China spy row: what do the witness statements say and what is their significance?",
@@ -583,18 +595,6 @@
     "url": "https://www.theguardian.com/business/2025/oct/14/young-people-uk-jobs-market-unemployment-taxes-minimum-wages",
     "published": "2025-10-14T08:35:28Z",
     "image_url": "https://i.guim.co.uk/img/media/f4dc200e143a4d8dc87044e874c5441ac45f9b5d/204_32_2877_2304/master/2877.jpg?width=140&quality=85&auto=format&fit=max&s=5f6fafbf353b1dae5ecefdaae1a1fd85",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-93ed6f1af3",
-    "source": "The Guardian — UK",
-    "title": "Doors, drains and paving perils: protecting your home from flooding",
-    "summary": "Climate breakdown and crumbling defences mean more homes in England are at risk – but you are not completely defenceless The flood-prone Worcestershire town being abandoned by insurers Millions more homes in Great Britain at risk of flooding, investigation finds More homes than ever before in England are at risk of flooding due to climate breakdown and crumbling flood defence infrastructure. While the following advice will not completely negate the effects of flood barriers breaching, and it is up to the government to properly invest in defences, there are some steps you can take to help protect your home. Continue reading...",
-    "url": "https://www.theguardian.com/environment/2025/oct/14/protecting-home-flood-defence-doors-drains-paving",
-    "published": "2025-10-14T04:00:11Z",
-    "image_url": "https://i.guim.co.uk/img/media/6b2c3dd2dbc457cbab9ca58ccadfe943d628bb99/177_0_3415_2732/master/3415.jpg?width=140&quality=85&auto=format&fit=max&s=ee6eef356b889f0ad313425912c3483b",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
