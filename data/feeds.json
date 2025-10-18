@@ -1,5 +1,29 @@
 [
   {
+    "id": "Politico — UK-f82032ca61",
+    "source": "Politico — UK",
+    "title": "Socialist lawmakers expect top-job status quo in EU Parliament ahead of reshuffle",
+    "summary": "Behind the scenes, lawmakers expect the center-right EPP to retain the Parliament’s presidency in 2027 — and anticipate that current Socialist group leader Iratxe García will remain in her post as well.",
+    "url": "https://www.politico.eu/article/socialist-lawmakers-assume-top-job-status-quo-in-eu-parliament-ahead-of-reshuffle/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-18T12:10:14Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/18/GettyImages-2239197261-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-2992dfc7ff",
+    "source": "The Guardian — UK",
+    "title": "World’s landscapes may soon be ‘devoid of wild animals’, says nature photographer",
+    "summary": "Margot Raggett, whose latest compilation shows animals scrubbed from natural habitats, calls for rethink on UK accelerated housebuilding Margot Raggett has spent the past decade raising money for conservation efforts around the world but, right now, she feels nervous about the future. “It does feel like we’ve taken a backward step,” she said. The wildlife photographer has raised £1.2m for the cause in the past 10 years through her Remembering Wildlife series, an annual, not-for-profit picture book featuring images of animals from the world’s top nature photographers. The first edition was published in 2015, when the Paris climate agreement was being drafted but, in the years since, efforts to tackle the climate crisis have been rolled back. Continue reading...",
+    "url": "https://www.theguardian.com/environment/2025/oct/18/worlds-landscapes-may-soon-be-devoid-of-wild-animals-says-nature-photographer",
+    "published": "2025-10-18T11:54:18Z",
+    "image_url": "https://i.guim.co.uk/img/media/d3f2686d31e9f389b88b2e056cb929919df5b685/188_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=37712764e0fb7672ee1310fe808f453c",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-2f52647c57",
     "source": "The Guardian — UK",
     "title": "Why Prince Andrew is giving up his titles now – and what it means for the royal family",
@@ -26,7 +50,7 @@
   {
     "id": "BBC — Top Stories-c26cd00c2c",
     "source": "BBC — Top Stories",
-    "title": "'It's a joyous moment' - Brother of Prince Andrew accuser",
+    "title": "'It's a joyous moment', says brother of Prince Andrew accuser",
     "summary": "Sky Roberts told BBC Newsnight the family has mixed emotions after the prince gave up his titles.",
     "url": "https://www.bbc.com/news/videos/ckgk1eknvzpo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-18T09:51:09Z",
@@ -48,25 +72,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-d0dfd2d0d6",
-    "source": "BBC — Top Stories",
-    "title": "Israel confirms latest body returned from Gaza is dead hostage",
-    "summary": "Eliyahu Margalit is the 10th dead hostage Hamas has returned - out of 28.",
-    "url": "https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-18T09:41:11Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f90/live/2c0c23b0-abec-11f0-afba-41198f87c8a8.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-d96ee1b734",
     "source": "BBC — Top Stories",
     "title": "Prince Andrew gives up his title as Duke of York",
     "summary": "The prince said he had made the decision because \"continued accusations about me distract from the work\" of the Royal Family.",
     "url": "https://www.bbc.com/news/articles/cgqlyw9g7weo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-18T09:41:05Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a715/live/95be8140-abf6-11f0-aa13-0b0479f6f42a.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a8e/live/9911a410-ac1b-11f0-ba75-093eca1ac29b.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -103,6 +115,18 @@
     "url": "https://www.politico.com/news/2025/10/17/trump-national-guard-supreme-court-appeal-00614129?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-18T08:23:12Z",
     "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-9b5f0929b3",
+    "source": "BBC — Top Stories",
+    "title": "Anger as historic Scottish ship towed out to sea and sunk in Hawaii",
+    "summary": "Falls of Clyde was scuttled by the authorities in Hawaii despite a campaign to return to its birthplace for restoration.",
+    "url": "https://www.bbc.com/news/articles/cn7em5p087vo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T08:18:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df07/live/3c22e370-ab78-11f0-acd1-6bae268efee4.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -278,7 +302,7 @@
   {
     "id": "BBC — Top Stories-beceb32b06",
     "source": "BBC — Top Stories",
-    "title": "'It's scary to think I could have died': How Americans are coming back from fentanyl addiction",
+    "title": "'It's scary to think I could have died' - the Americans coming back from fentanyl addiction",
     "summary": "Fatal overdoses in the US are falling - and Kayla's state of North Carolina is at the forefront of that trend.",
     "url": "https://www.bbc.com/news/articles/cm2e471159vo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T23:42:24Z",
@@ -314,7 +338,7 @@
   {
     "id": "BBC — Top Stories-072b475982",
     "source": "BBC — Top Stories",
-    "title": "Ritual, wrestling and Reddit: Grand Sumo meets internet fandom in London",
+    "title": "Grand sumo in London: Why rituals and wrestling are drawing a new fanbase",
     "summary": "Going to Japan is almost the only way to see a top-flight suo sumo tournament. This week, London is hosting.",
     "url": "https://www.bbc.com/news/articles/c4gw7009342o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T23:10:16Z",
@@ -351,7 +375,7 @@
     "id": "BBC — Top Stories-0ae89168db",
     "source": "BBC — Top Stories",
     "title": "After all those scandals, why did Andrew quit his titles now?",
-    "summary": "He has voluntarily given up his titles but was clearly under pressure to jump before he was pushed.",
+    "summary": "He has voluntarily given up the remaining vestiges of his royal life, but was clearly under pressure to jump before he was pushed.",
     "url": "https://www.bbc.com/news/articles/c3ep8gd1qv3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T21:53:26Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00a6/live/20d2aba0-abf5-11f0-aa13-0b0479f6f42a.jpg",
@@ -379,18 +403,6 @@
     "url": "https://www.theguardian.com/uk-news/2022/jan/13/prince-andrew-a-timeline",
     "published": "2025-10-17T20:58:17Z",
     "image_url": "https://i.guim.co.uk/img/media/d2d2cd8c1522bfb8fbec01596b97329e5e384fce/0_18_4094_2456/master/4094.jpg?width=140&quality=85&auto=format&fit=max&s=1c3b3282daab9f536001afb917ba95f0",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-034d29f4fe",
-    "source": "The Guardian — UK",
-    "title": "Chancellor says she ‘can’t leave welfare untouched’ this parliament as budget looms",
-    "summary": "Rachel Reeves understood to be eyeing cuts to Motability scheme as she tries to plug hole in country’s finances Rachel Reeves has said she “can’t leave welfare untouched” this parliament, with the Treasury understood to be considering axing up to £1bn in tax breaks for a scheme providing cars for disabled people. The chancellor set out her thinking on welfare before next month’s budget in an interview, having previously said she would need to make cuts and raise taxes . Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/17/chancellor-says-she-cant-leave-welfare-untouched-this-parliament-ahead-of-tough-budget",
-    "published": "2025-10-17T19:24:08Z",
-    "image_url": "https://i.guim.co.uk/img/media/92cf3e3c31a278041e2f1589d6b3eab353986fff/478_0_4778_3823/master/4778.jpg?width=140&quality=85&auto=format&fit=max&s=63c477cc52019984f262c2803a257727",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -499,18 +511,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/17/nearly-2000-foreign-office-jobs-at-risk-says-pcs-union",
     "published": "2025-10-17T14:59:10Z",
     "image_url": "https://i.guim.co.uk/img/media/017dfbf64123e79db604e328ecd97853dc4d7304/292_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=b1a6cc55a835a67cf2cc64d81d9c3d87",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-5d19e17e5a",
-    "source": "Politico — UK",
-    "title": "Putin-Trump summit in Hungary forces EU leaders to mull airspace exemptions",
-    "summary": "A ban on Russian overflights of European nations complicates Budapest meeting plans.",
-    "url": "https://www.politico.eu/article/eu-leaders-forced-consider-airspace-ban-exemption-allow-russia-putin-budapest-meeting-us-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-17T14:05:53Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/17/GettyImages-2240946437-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
