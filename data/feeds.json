@@ -1,5 +1,65 @@
 [
   {
+    "id": "The Guardian — UK-6d62d1f04e",
+    "source": "The Guardian — UK",
+    "title": "‘Suck it up’: leaked video exposes bitter infighting at Reform UK’s flagship Kent council",
+    "summary": "Exclusive: Footage reveals Kent leader berating councillors amid rows over budgets and bullying claims Bitter divisions in Reform UK’s flagship county council have been laid bare in a leaked video of a chaotic internal meeting where members were told to “fucking suck it up” if they did not agree with decisions. Councillors can be seen complaining about “backbiting” and being ignored by their leader, Linden Kemkaran, who tells them they will be “screwed” and that Reform can forget about winning the general election if they don’t balance Kent’s budget. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/18/suck-it-up-leaked-video-exposes-bitter-infighting-at-reform-uks-flagship-kent-council",
+    "published": "2025-10-18T15:00:48Z",
+    "image_url": "https://i.guim.co.uk/img/media/4bd9ed0f44567a2d0c22285fcf7a47ed42f07a09/302_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=cbf37abdadc3f4a905def32c61636ab1",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-bd68460ef3",
+    "source": "Politico — UK",
+    "title": "Local ‘ceasefire’ area declared at Ukrainian nuclear plant for damage repairs",
+    "summary": "Without reliable external power, the Zaporizhzhia nuclear power risks losing the cooling needed to keep its reactors stable.",
+    "url": "https://www.politico.eu/article/ukraine-russia-local-ceasefire-zone-declared-nuclear-plant-damage-repairs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-18T14:57:18Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/18/GettyImages-2228830716-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5d2d626d1d",
+    "source": "BBC — Top Stories",
+    "title": "Eleven killed after Israel hits bus in Gaza, Hamas-run civil defence says",
+    "summary": "The Israeli military said it had fired at a \"suspicious vehicle\" it said had crossed the line demarcating the area occupied by its forces.",
+    "url": "https://www.bbc.com/news/articles/cpv1nk7dy4yo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T14:39:50Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d2/live/17878350-ac30-11f0-969d-e546dac1b2a4.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-0ccd1b459d",
+    "source": "BBC — Top Stories",
+    "title": "Watch: Brits row from Peru to Australia in tiny boat",
+    "summary": "Jess Rowe and Miriam Payne told the BBC how they made the six-month journey unsupported, catching fish and growing their own vegetables.",
+    "url": "https://www.bbc.com/news/videos/cd9kx7we4xyo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T14:32:26Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1df7/live/f51dc190-ac29-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5edc4b6d53",
+    "source": "BBC — Top Stories",
+    "title": "David Attenborough becomes oldest Daytime Emmy winner",
+    "summary": "The 99-year-old broadcaster and naturalist wins for his work narrating the series Secret Lives of Orangutans.",
+    "url": "https://www.bbc.com/news/articles/c1lqnjpvr79o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T14:14:35Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a00/live/8613c530-ac27-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-89ab3e729a",
     "source": "BBC — Top Stories",
     "title": "Louisiana resident assisted in Hamas 7 October attack, US says",
@@ -87,7 +147,7 @@
     "id": "The Guardian — UK-2f52647c57",
     "source": "The Guardian — UK",
     "title": "Why Prince Andrew is giving up his titles now – and what it means for the royal family",
-    "summary": "There seems little doubt the palace pushed for decision amid growing list of scandals involving Andrew Prince Andrew gives up royal titles including Duke of York after ‘discussion with king’ Prince Andrew has relinquished his royal titles , including the Duke of York, he said in a statement released through Buckingham Palace. Here are the details of what was announced last night – and what wasn’t: Continue reading...",
+    "summary": "There seems little doubt the palace pushed for decision amid growing list of scandals involving Andrew Prince Andrew gives up royal titles including Duke of York after ‘discussion with king’ Prince Andrew has relinquished his royal titles , including Duke of York, he said in a statement released through Buckingham Palace. Here are the details of what was announced last night – and what wasn’t: Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2025/oct/18/why-prince-andrew-is-giving-up-his-titles-now-and-what-it-means-for-the-royal-family",
     "published": "2025-10-18T10:22:03Z",
     "image_url": "https://i.guim.co.uk/img/media/45ace1c164c9059da8762400461e6a65d9164441/189_0_4916_3934/master/4916.jpg?width=140&quality=85&auto=format&fit=max&s=e3403deaad65f68b8741671fbde10fc3",
@@ -228,18 +288,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-e11887b67c",
-    "source": "BBC — Top Stories",
-    "title": "A drunken Butlin's holiday mishap saved my life",
-    "summary": "Charlotte Morjaria found out she had cancer after an accident on a trip with her friends to Butlins.",
-    "url": "https://www.bbc.com/news/articles/c864dg1wvplo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-18T06:07:19Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3cc/live/48979840-ab3b-11f0-b2a1-6f537f66f9aa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-07ff2ab8e6",
     "source": "The Guardian — UK",
     "title": "Chemical linked to low sperm count, obesity and cancer found in dummies, tests find",
@@ -360,25 +408,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-31f15169b7",
-    "source": "BBC — Top Stories",
-    "title": "Smuggler jailed for 40 years after shipping ballistic missile parts from Iran",
-    "summary": "The Pakistani convict called himself a \"walking dead person\" just days before his last voyage destined for Houthi rebels in Yemen.",
-    "url": "https://www.bbc.com/news/articles/cwy534vw28go?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T23:10:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c4/live/974c8040-a901-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-072b475982",
     "source": "BBC — Top Stories",
     "title": "Grand sumo in London: Why rituals and wrestling are drawing a new fanbase",
     "summary": "Going to Japan is almost the only way to see a top-flight suo sumo tournament. This week, London is hosting.",
     "url": "https://www.bbc.com/news/articles/c4gw7009342o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T23:10:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b50f/live/701e2f20-abfc-11f0-aa13-0b0479f6f42a.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c9/live/5cccf4d0-ab73-11f0-ba75-093eca1ac29b.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -420,18 +456,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-40cab34c43",
-    "source": "BBC — Top Stories",
-    "title": "Lamborghini swerves away from all-electric future",
-    "summary": "Customers still want \"the sound and the emotion\" of internal combustion engines, the company's boss Stephan Winkelmann said.",
-    "url": "https://www.bbc.com/news/articles/clykvq2955qo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T21:45:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d984/live/fe4e1280-ab78-11f0-adb1-afd098d794f7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-e78ca2d87e",
     "source": "The Guardian — UK",
     "title": "Prince Andrew’s fall from grace complete as monarchy cuts him loose",
@@ -444,13 +468,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-a284a94f9e",
+    "id": "The Guardian — UK-034d29f4fe",
     "source": "The Guardian — UK",
-    "title": "The fall of Prince Andrew – a timeline",
-    "summary": "How concerns were raised over his relationship with the convicted child sex offender Jeffrey Epstein The stripping of Prince Andrew’s military roles and royal patronages marked a nadir for the queen’s second son since sexual assault accusations arose amid concern over his relationship with the convicted child sex offender Jeffrey Epstein. It was a fall from grace for the 65-year-old, who was once second in line to the throne. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2022/jan/13/prince-andrew-a-timeline",
-    "published": "2025-10-17T20:58:17Z",
-    "image_url": "https://i.guim.co.uk/img/media/d2d2cd8c1522bfb8fbec01596b97329e5e384fce/0_18_4094_2456/master/4094.jpg?width=140&quality=85&auto=format&fit=max&s=1c3b3282daab9f536001afb917ba95f0",
+    "title": "Chancellor says she ‘can’t leave welfare untouched’ this parliament as budget looms",
+    "summary": "Rachel Reeves understood to be eyeing cuts to Motability scheme as she tries to plug hole in country’s finances Rachel Reeves has said she “can’t leave welfare untouched” this parliament, with the Treasury understood to be considering axing up to £1bn in tax breaks for a scheme providing cars for disabled people. The chancellor set out her thinking on welfare before next month’s budget in an interview, having previously said she would need to make cuts and raise taxes . Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/17/chancellor-says-she-cant-leave-welfare-untouched-this-parliament-ahead-of-tough-budget",
+    "published": "2025-10-17T19:24:08Z",
+    "image_url": "https://i.guim.co.uk/img/media/92cf3e3c31a278041e2f1589d6b3eab353986fff/478_0_4778_3823/master/4778.jpg?width=140&quality=85&auto=format&fit=max&s=63c477cc52019984f262c2803a257727",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -480,18 +504,6 @@
     "cluster_id": null
   },
   {
-    "id": "Politico — UK-5e44b5faa3",
-    "source": "Politico — UK",
-    "title": "G7 scrambles to push back on Chinese rare-earth curbs",
-    "summary": "Western allies race to forge united G7 response after China tightened grip on rare minerals key to green and defense industries.",
-    "url": "https://www.politico.eu/article/g7-push-back-china-rare-earth-curb/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-17T16:51:24Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/17/GettyImages-2227113709-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-68996e375b",
     "source": "The Guardian — UK",
     "title": "Your Party sets out constitution plans including new year leadership contest",
@@ -511,18 +523,6 @@
     "url": "https://www.theguardian.com/politics/2025/oct/17/mark-sedwill-is-frontrunner-to-become-new-uk-ambassador-to-us-sources-say",
     "published": "2025-10-17T15:54:20Z",
     "image_url": "https://i.guim.co.uk/img/media/dc72ba8a8afde4d240d69db790c0660cd70503d1/0_153_2531_2024/master/2531.jpg?width=140&quality=85&auto=format&fit=max&s=7bf2028643d325542df4b0408c4cafb6",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-9293a2be18",
-    "source": "The Guardian — UK",
-    "title": "Nearly 2,000 Foreign Office jobs ‘at risk’, says PCS union",
-    "summary": "Reduction in higher-level roles linked to government decision to cut foreign aid budget, says union Almost 2,000 civil servants at the Foreign, Commonwealth and Development Office face the risk of redundancy, with the biggest union for government workers vowing to fight the cuts. The PCS union, which has about 200,000 members, said it had been told that 1,885 jobs at the second highest level, known as delegated grades, were “at risk”, in addition to redundancy notices that have already been issued to some senior civil servants. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/17/nearly-2000-foreign-office-jobs-at-risk-says-pcs-union",
-    "published": "2025-10-17T14:59:10Z",
-    "image_url": "https://i.guim.co.uk/img/media/017dfbf64123e79db604e328ecd97853dc4d7304/292_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=b1a6cc55a835a67cf2cc64d81d9c3d87",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
