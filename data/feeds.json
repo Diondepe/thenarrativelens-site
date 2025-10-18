@@ -1,5 +1,53 @@
 [
   {
+    "id": "The Guardian — UK-b683377d95",
+    "source": "The Guardian — UK",
+    "title": "Labour’s housing hypocrisy: councils serve almost 200 families with no-fault eviction notices",
+    "summary": "Exclusive: firms run by five of the party’s councils have used legal loophole to serve section 21 notices Labour-run councils have used a legal loophole to issue almost 200 families with no-fault eviction notices since the party was elected on a promise to ban the practice, a Guardian investigation has found. Scrapping these orders, known as section 21 evictions, was one of Keir Starmer’s main pledges before last July’s general election but, more than a year later, they remain lawful. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/oct/18/labours-housing-hypocrisy-councils-serve-almost-200-families-with-no-fault-eviction-notices",
+    "published": "2025-10-18T09:00:42Z",
+    "image_url": "https://i.guim.co.uk/img/media/75dc1d6a2d1968fe3e8d2074bdeb250e7ef5f9fa/409_101_4163_3331/master/4163.jpg?width=140&quality=85&auto=format&fit=max&s=95947ac62206560eacfc6d183dab6f0d",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-963a6896f2",
+    "source": "Politico — UK",
+    "title": "Prince Andrew gives up royal titles amid Epstein fallout",
+    "summary": "Andrew has been under intense scrutiny over his relationship with American financier and convicted sex offender Jeffrey Epstein.",
+    "url": "https://www.politico.eu/article/prince-andrew-royal-titles-convict-sex-traffic-offender-epstein-china-spy-fallout/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-18T08:57:16Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/18/GettyImages-544081426-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d0dfd2d0d6",
+    "source": "BBC — Top Stories",
+    "title": "Israel confirms latest body returned from Gaza is dead hostage",
+    "summary": "Eliyahu Margalit is the 10th dead hostage Hamas has returned - out of 28.",
+    "url": "https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T08:53:29Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f90/live/2c0c23b0-abec-11f0-afba-41198f87c8a8.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-75e774cd38",
+    "source": "Politico — UK",
+    "title": "US Supreme Court gets first chance to weigh Trump’s bid to deploy National Guard",
+    "summary": "The administration filed an emergency appeal over lower-court orders that have blocked the deployment of the guard in Illinois.",
+    "url": "https://www.politico.com/news/2025/10/17/trump-national-guard-supreme-court-appeal-00614129?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-18T08:23:12Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-44afd57a64",
     "source": "The Guardian — UK",
     "title": "Revealed: UK Foreign Office staff pushed for Israel trip despite suspension of trade talks",
@@ -55,18 +103,6 @@
     "url": "https://www.bbc.com/news/articles/cdxrzzk02plo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-18T06:49:31Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b92/live/827b57a0-abe4-11f0-b2a1-6f537f66f9aa.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-d0dfd2d0d6",
-    "source": "BBC — Top Stories",
-    "title": "Israel confirms latest body returned from Gaza is dead hostage",
-    "summary": "Eliyahu Margalit is the tenth dead hostage Hamas has returned - out of 28.",
-    "url": "https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-18T06:28:53Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f90/live/2c0c23b0-abec-11f0-afba-41198f87c8a8.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -246,7 +282,7 @@
     "summary": "Going to Japan is almost the only way to see a top-flight suo sumo tournament. This week, London is hosting.",
     "url": "https://www.bbc.com/news/articles/c4gw7009342o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T23:10:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c9/live/5cccf4d0-ab73-11f0-ba75-093eca1ac29b.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b50f/live/701e2f20-abfc-11f0-aa13-0b0479f6f42a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -314,7 +350,7 @@
   {
     "id": "BBC — Top Stories-ab9cb0a335",
     "source": "BBC — Top Stories",
-    "title": "How nervous are investors about the stock market?",
+    "title": "How nervous are investors about the US stock market?",
     "summary": "As shares remain high, investors have been jumping at signs of trouble.",
     "url": "https://www.bbc.com/news/articles/cq502xl53xqo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T21:35:37Z",
@@ -499,42 +535,6 @@
     "url": "https://www.politico.eu/article/protect-palestinian-statehood-talks-us-donald-trump-eu-israel-plan-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-17T13:38:28Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/17/11768120-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-ca240fcc49",
-    "source": "The Guardian — UK",
-    "title": "UK government borrowing costs fall to lowest level since July",
-    "summary": "Boost for Rachel Reeves as bond yield falls while she considers tax rises and spending cuts in budget Business live – latest updates The UK government’s borrowing costs have fallen to the lowest level since July as Rachel Reeves considers tax rises and spending cuts before next month’s autumn budget. In a boost for the chancellor, the yield – in effect the interest rate – on 10-year UK government bonds has fallen by about 0.15 percentage points this week, after briefly dipping below 4.5% early on Friday for the first time in three months. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/17/uk-government-borrowing-costs-rachel-reeves-bond-yield",
-    "published": "2025-10-17T13:21:54Z",
-    "image_url": "https://i.guim.co.uk/img/media/8dbf4c88ec0af6b34da1b6648913c9d5cb025c77/0_0_4269_3415/master/4269.jpg?width=140&quality=85&auto=format&fit=max&s=ff75f3c9058b31d283061b902692ae30",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-39078abaae",
-    "source": "Politico — UK",
-    "title": "French companies backtrack from joint deregulation call with Berlin",
-    "summary": "PARIS — Some signatories of a joint appeal by French and German business bosses to loosen merger rules and scrap environmental laws to promote European industrial “champions” have distanced themselves from the letter, saying they were encouraged to write it by their national governments. The letter to French President Emmanuel Macron and German Chancellor Friedrich […]",
-    "url": "https://www.politico.eu/article/french-companies-backtrack-from-joint-deregulation-call-with-berlin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-17T12:22:41Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/17/GettyImages-2234044888-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-c10b83b360",
-    "source": "Politico — UK",
-    "title": "EU unlikely to push sanctions on Israel after Trump peace deal",
-    "summary": "The delay in introducing measures has cast doubt on the bloc's credibility, Belgian Foreign Minister Maxime Prévot told POLITICO.",
-    "url": "https://www.politico.eu/article/eu-unlikely-push-sanctions-israel-trump-peace-deal-maxime-prevot/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-17T11:16:08Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/17/GettyImages-2239539294-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
