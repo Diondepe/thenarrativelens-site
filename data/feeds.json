@@ -1,5 +1,17 @@
 [
   {
+    "id": "The Guardian — UK-2f52647c57",
+    "source": "The Guardian — UK",
+    "title": "Why Prince Andrew is giving up his titles now – and what it means for the royal family",
+    "summary": "There seems little doubt the palace pushed for decision amid growing list of scandals involving Andrew Prince Andrew gives up royal titles including Duke of York after ‘discussion with king’ Prince Andrew has relinquished his royal titles , including the Duke of York, he said in a statement released through Buckingham Palace. Here are the details of what was announced last night – and what wasn’t: Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/18/why-prince-andrew-is-giving-up-his-titles-now-and-what-it-means-for-the-royal-family",
+    "published": "2025-10-18T10:22:03Z",
+    "image_url": "https://i.guim.co.uk/img/media/45ace1c164c9059da8762400461e6a65d9164441/189_0_4916_3934/master/4916.jpg?width=140&quality=85&auto=format&fit=max&s=e3403deaad65f68b8741671fbde10fc3",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-2450785c33",
     "source": "The Guardian — UK",
     "title": "French customs reject British shellfish shipments after UK ‘reset’ deal with EU",
@@ -7,6 +19,18 @@
     "url": "https://www.theguardian.com/business/2025/oct/18/french-customs-reject-british-shellfish-shipments-after-uk-reset-deal-with-eu",
     "published": "2025-10-18T10:00:42Z",
     "image_url": "https://i.guim.co.uk/img/media/4b3ce965a063671041a4077d2ce307be0de7e041/0_806_3024_2419/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=7582017274e5c24a72b38d0b51163fe7",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-c26cd00c2c",
+    "source": "BBC — Top Stories",
+    "title": "'It's a joyous moment' - Brother of Prince Andrew accuser",
+    "summary": "Sky Roberts told BBC Newsnight the family has mixed emotions after the prince gave up his titles.",
+    "url": "https://www.bbc.com/news/videos/ckgk1eknvzpo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T09:51:09Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7fe/live/9ff06b00-ac06-11f0-aa13-0b0479f6f42a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -132,18 +156,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-df5c632b5c",
-    "source": "BBC — Top Stories",
-    "title": "'Super Sam' - the Englishman battling Messi for Golden Boot",
-    "summary": "'Super' Sam Surridge has already scored the winner in the US Open Cup final, now he's battling Lionel Messi for the MLS Golden Boot.",
-    "url": "https://www.bbc.com/sport/football/articles/c2kpd4l59jno?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-18T06:39:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5dc/live/f6b558e0-a9b5-11f0-a923-ff705558ae00.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-e11887b67c",
     "source": "BBC — Top Stories",
     "title": "A drunken Butlin's holiday mishap saved my life",
@@ -264,18 +276,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-d227206b2f",
-    "source": "BBC — Top Stories",
-    "title": "Buying more, wearing less - why India's Diwali gold rush is different",
-    "summary": "Soaring gold prices have dented jewellery demand but Indians are not ready to give up on the metal yet.",
-    "url": "https://www.bbc.com/news/articles/c3vnk3w0z69o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T23:44:09Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0b7/live/0041d8c0-ab64-11f0-8210-51f58cb86203.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-beceb32b06",
     "source": "BBC — Top Stories",
     "title": "'It's scary to think I could have died': How Americans are coming back from fentanyl addiction",
@@ -314,7 +314,7 @@
   {
     "id": "BBC — Top Stories-072b475982",
     "source": "BBC — Top Stories",
-    "title": "When Grand Sumo came to London",
+    "title": "Ritual, wrestling and Reddit: Grand Sumo meets internet fandom in London",
     "summary": "Going to Japan is almost the only way to see a top-flight suo sumo tournament. This week, London is hosting.",
     "url": "https://www.bbc.com/news/articles/c4gw7009342o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T23:10:16Z",
@@ -355,30 +355,6 @@
     "url": "https://www.bbc.com/news/articles/c3ep8gd1qv3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T21:53:26Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00a6/live/20d2aba0-abf5-11f0-aa13-0b0479f6f42a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-40cab34c43",
-    "source": "BBC — Top Stories",
-    "title": "Lamborghini swerves away from all-electric future",
-    "summary": "Customers still want \"the sound and the emotion\" of internal combustion engines, the company's boss Stephan Winkelmann said.",
-    "url": "https://www.bbc.com/news/articles/clykvq2955qo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T21:45:04Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d984/live/fe4e1280-ab78-11f0-adb1-afd098d794f7.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-ab9cb0a335",
-    "source": "BBC — Top Stories",
-    "title": "How nervous are investors about the US stock market?",
-    "summary": "As shares remain high, investors have been jumping at signs of trouble.",
-    "url": "https://www.bbc.com/news/articles/cq502xl53xqo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T21:35:37Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d29/live/f1225470-ab8e-11f0-bcc1-4bb330842a95.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -540,6 +516,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-023ba8d473",
+    "source": "BBC — Top Stories",
+    "title": "Criminal-catching 'superdog' wins award after being abandoned five times",
+    "summary": "Henry, a 10-year-old Springer Spaniel, was a \"lost soul\" who found his purpose as a detection dog.",
+    "url": "https://www.bbc.com/news/articles/c14pll3pd70o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T05:16:39Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e59/live/36830b30-aa87-11f0-aa13-0b0479f6f42a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-206a5fe462",
     "source": "The Guardian — UK",
     "title": "China spy row: what do the witness statements say and what is their significance?",
@@ -576,6 +564,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-f9802f3d4f",
+    "source": "BBC — Top Stories",
+    "title": "Suffolk mum grows 58-stone pumpkin to beat son in family challenge",
+    "summary": "Frances Crickmore's monster pumpkin triumphed in the farmer family challenge.",
+    "url": "https://www.bbc.com/news/articles/cz91pwzyq5jo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-15T05:50:58Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ab/live/4822c580-a90e-11f0-928c-71dbb8619e94.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-8838534951",
     "source": "The Guardian — UK",
     "title": "Inside the mystery of the collapsed Chinese spy trial – podcast",
@@ -588,13 +588,13 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-ab08696a7b",
-    "source": "The Guardian — UK",
-    "title": "Young people are biggest victims of UK’s fragile jobs market",
-    "summary": "Firms too scared to take a chance on youngsters when taxes and minimum wages are higher, expert says UK labour market shows signs of stabilising after job losses Business live – latest updates So much about the UK jobs market is influenced by Rachel Reeves. Without overdoing the blame, say many experts, the chancellor’s tough budget last year and the likelihood of a repeat next month hangs over employers and how they recruit and pay staff. The latest official figures show a rising number of young people out of work in the three months to August. More broadly, unemployment rose to a four-year high and the number of vacancies fell. And then there was the stubborn increase in the public sector wage bill, which outpaced the much more modest increase in private sector wages. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/14/young-people-uk-jobs-market-unemployment-taxes-minimum-wages",
-    "published": "2025-10-14T08:35:28Z",
-    "image_url": "https://i.guim.co.uk/img/media/f4dc200e143a4d8dc87044e874c5441ac45f9b5d/204_32_2877_2304/master/2877.jpg?width=140&quality=85&auto=format&fit=max&s=5f6fafbf353b1dae5ecefdaae1a1fd85",
+    "id": "BBC — Top Stories-7773028990",
+    "source": "BBC — Top Stories",
+    "title": "Great-grandmother graduates from university at 90 years old",
+    "summary": "90-year-old Maryette was the oldest of more than 300 graduates at the Open University's ceremony in Belfast on Tuesday.",
+    "url": "https://www.bbc.com/news/articles/cx24kkxgwxlo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-14T14:30:41Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c3e/live/cab7ac40-a909-11f0-99b2-a3801a157d90.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
