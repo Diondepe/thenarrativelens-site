@@ -1,5 +1,41 @@
 [
   {
+    "id": "The Guardian — UK-44afd57a64",
+    "source": "The Guardian — UK",
+    "title": "Revealed: UK Foreign Office staff pushed for Israel trip despite suspension of trade talks",
+    "summary": "Exclusive: Peer meet Israeli officials and business leaders on visit that had no support from ministers The Foreign Office recommended that David Lammy endorse a trade mission to Israel, days after he suspended trade talks and rebuked the country’s government, internal documents reveal. In an unusual move, officials asked for ministerial advice over Ian Austin’s visit to Israel in late May. Bureaucratic dysfunction meant the trip by the trade envoy went ahead without the support of ministers or advisers. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/18/revealed-uk-foreign-office-staff-pushed-for-israel-trip-despite-suspension-of-trade-talks",
+    "published": "2025-10-18T08:06:30Z",
+    "image_url": "https://i.guim.co.uk/img/media/e0300f33315509cd3f4bdd6938b432a087f7ff14/64_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=266b0596d35a89e9727171d28fe19c2a",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-4d96a4a3f4",
+    "source": "The Guardian — UK",
+    "title": "US podcaster who helped convict ‘Queen of the Con’ disappointed at short sentence",
+    "summary": "Johnathan Walton, who was a victim of Marianne ‘Mair’ Smyth, had helped UK authorities track her down A US podcaster and author who helped UK authorities convict a woman derisively known as the “Queen of the Con” of defrauding a group of Northern Irish mortgage advice customers has expressed disappointment in her being sentenced on Friday to only four years in prison. “She scams or tries to scam everyone she meets, and she will never change,” Johnathan Walton said in a statement after Marianne “Mair” Smyth’s sentencing closed the books on a transatlantic case against her. Continue reading...",
+    "url": "https://www.theguardian.com/us-news/2025/oct/18/us-podcaster-queen-of-the-con-sentence",
+    "published": "2025-10-18T08:00:40Z",
+    "image_url": "https://i.guim.co.uk/img/media/6d9edd8c49eac80b098ef414ee088e853087728c/29_0_1201_960/master/1201.jpg?width=140&quality=85&auto=format&fit=max&s=8306a7588ad17d11971a004af08c907f",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-067dfc2718",
+    "source": "BBC — Top Stories",
+    "title": "Zelensky fails to secure Tomahawk missiles at talks with Trump",
+    "summary": "Following the meeting, Trump calls for Kyiv and Moscow to \"stop where they are\" and end the war.",
+    "url": "https://www.bbc.com/news/articles/c93dqew8l3xo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T07:42:19Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e77b/live/0f8fc3a0-ab87-11f0-a7be-25e543799ac8.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-57f6c09242",
     "source": "BBC — Top Stories",
     "title": "New blood test could speed up diagnosis of 50 cancer types, study says",
@@ -7,6 +43,18 @@
     "url": "https://www.bbc.com/news/articles/c205g21n1zzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-18T07:13:48Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f714/live/07276060-aba5-11f0-bba9-81f28efa2a1e.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-13c234015e",
+    "source": "BBC — Top Stories",
+    "title": "Chinese Nobel laureate and physicist Chen Ning Yang dies aged 103",
+    "summary": "Yang, one of the world's most influential scientists, earned global recognition for his work in theoretical physics.",
+    "url": "https://www.bbc.com/news/articles/cdxrzzk02plo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T06:49:31Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b92/live/827b57a0-abe4-11f0-b2a1-6f537f66f9aa.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -84,6 +132,18 @@
     "cluster_id": null
   },
   {
+    "id": "BBC — Top Stories-019e8853ef",
+    "source": "BBC — Top Stories",
+    "title": "Trump only one who can force Putin to negotiating table, Finnish president tells BBC",
+    "summary": "You have to \"force Russia to come to the negotiating table\" and that is the deal the US leader is trying to make,\" Alexander Stubb said.",
+    "url": "https://www.bbc.com/news/articles/c62e9y9wjdjo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T05:05:14Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f9c/live/61a8f800-ab8c-11f0-bcc1-4bb330842a95.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-76a3c38b93",
     "source": "BBC — Top Stories",
     "title": "How an old suitcase revealed a hidden family fortune, lost under Nazi rule",
@@ -134,35 +194,11 @@
   {
     "id": "BBC — Top Stories-83cead57bd",
     "source": "BBC — Top Stories",
-    "title": "How and when to see the Orionids meteor shower",
+    "title": "When and where to see the Orionids meteor shower",
     "summary": "The Orionids are thought to be one of the most impressive meteor displays. Visible from early October to early November, it will peak this week around 22 October. Here's more on how you can see it.",
     "url": "https://www.bbc.com/weather/articles/c70196602g2o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T23:58:22Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84b3/live/7ea45a90-9de4-11f0-a561-d7c24224dfc6.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e1df98c5a2",
-    "source": "BBC — Top Stories",
-    "title": "'We have to prioritise South Africans': Anti-migrant movement blocks foreigners from healthcare",
-    "summary": "Activists are stopping foreigners going to some health clinics with little push-back from the state.",
-    "url": "https://www.bbc.com/news/articles/cr43l19qn3ko?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T23:45:08Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9da3/live/f935ad20-ab60-11f0-aa13-0b0479f6f42a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-d227206b2f",
-    "source": "BBC — Top Stories",
-    "title": "Buying more, wearing less - why India's Diwali gold rush is different",
-    "summary": "Soaring gold prices have dented jewellery demand but Indians are not ready to give up on the metal yet.",
-    "url": "https://www.bbc.com/news/articles/c3vnk3w0z69o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T23:44:09Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0b7/live/0041d8c0-ab64-11f0-8210-51f58cb86203.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -194,7 +230,7 @@
   {
     "id": "BBC — Top Stories-31f15169b7",
     "source": "BBC — Top Stories",
-    "title": "Smuggler jailed for 40 years after shipping ballistic missiles parts from Iran",
+    "title": "Smuggler jailed for 40 years after shipping ballistic missile parts from Iran",
     "summary": "The Pakistani convict called himself a \"walking dead person\" just days before his last voyage destined for Houthi rebels in Yemen.",
     "url": "https://www.bbc.com/news/articles/cwy534vw28go?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T23:10:31Z",
@@ -206,7 +242,7 @@
   {
     "id": "BBC — Top Stories-072b475982",
     "source": "BBC — Top Stories",
-    "title": "Ritual, wrestling and Reddit: Grand Sumo meets internet fandom in London",
+    "title": "When Grand Sumo came to London",
     "summary": "Going to Japan is almost the only way to see a top-flight suo sumo tournament. This week, London is hosting.",
     "url": "https://www.bbc.com/news/articles/c4gw7009342o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T23:10:16Z",
@@ -223,18 +259,6 @@
     "url": "https://www.bbc.com/news/articles/cg43lg3p7wno?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T23:09:44Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b4/live/d7959770-ab6f-11f0-ba75-093eca1ac29b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-067dfc2718",
-    "source": "BBC — Top Stories",
-    "title": "Zelensky fails to secure Tomahawk missiles at talks with Trump",
-    "summary": "Following the meeting, Trump calls for Kyiv and Moscow to \"stop where they are\" and end the war.",
-    "url": "https://www.bbc.com/news/articles/c93dqew8l3xo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T22:57:44Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e77b/live/0f8fc3a0-ab87-11f0-a7be-25e543799ac8.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -258,7 +282,7 @@
     "summary": "The prince said he had made the decision because \"continued accusations about me distract from the work\" of the Royal Family.",
     "url": "https://www.bbc.com/news/articles/cgqlyw9g7weo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T22:35:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5efd/live/52b0ac90-ab7c-11f0-92a8-7dbabb20e321.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a715/live/95be8140-abf6-11f0-aa13-0b0479f6f42a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -270,7 +294,7 @@
     "summary": "He has voluntarily given up his titles but was clearly under pressure to jump before he was pushed.",
     "url": "https://www.bbc.com/news/articles/c3ep8gd1qv3o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T21:53:26Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4730/live/a803c280-abbe-11f0-a705-a564fdd057f2.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00a6/live/20d2aba0-abf5-11f0-aa13-0b0479f6f42a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -283,6 +307,18 @@
     "url": "https://www.bbc.com/news/articles/clykvq2955qo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T21:45:04Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d984/live/fe4e1280-ab78-11f0-adb1-afd098d794f7.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ab9cb0a335",
+    "source": "BBC — Top Stories",
+    "title": "How nervous are investors about the stock market?",
+    "summary": "As shares remain high, investors have been jumping at signs of trouble.",
+    "url": "https://www.bbc.com/news/articles/cq502xl53xqo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T21:35:37Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d29/live/f1225470-ab8e-11f0-bcc1-4bb330842a95.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -336,18 +372,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-60b7aba1e4",
-    "source": "BBC — Top Stories",
-    "title": "Government 'doing everything' to overturn Maccabi Tel Aviv fan ban",
-    "summary": "The Home Office said it is exploring what extra resources are required to allow fans to attend the Aston Villa match.",
-    "url": "https://www.bbc.com/news/articles/c5ylxn8g2y2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T18:25:15Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1af/live/19e503f0-ab83-11f0-ba75-093eca1ac29b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-8b9b9bc704",
     "source": "The Guardian — UK",
     "title": "King Charles ‘considering stripping Prince Andrew of Duke of York title’",
@@ -367,18 +391,6 @@
     "url": "https://www.bbc.com/news/articles/c4gk0w95jyjo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T17:32:50Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da0b/live/bc987c70-aa9e-11f0-ba75-093eca1ac29b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-afb40bd815",
-    "source": "The Guardian — UK",
-    "title": "UK MPs warn of repeat of 2024 riots unless online misinformation is tackled",
-    "summary": "Science and technology select committee says complacency over social media content puts public at risk Failures to properly tackle online misinformation mean it is “only a matter of time” before viral content triggers a repeat of the 2024 summer riots, MPs have warned. Chi Onwurah, the chair of the Commons science and technology select committee, said ministers seemed complacent about the threat and this was putting the public at risk. Continue reading...",
-    "url": "https://www.theguardian.com/technology/2025/oct/17/uks-riots-of-2024-will-repeat-unless-misinformation-is-tackled-mps-warn",
-    "published": "2025-10-17T16:53:35Z",
-    "image_url": "https://i.guim.co.uk/img/media/a6dbeed0c488c0afa8081dc9f842d4273508c300/119_0_5186_4149/master/5186.jpg?width=140&quality=85&auto=format&fit=max&s=a46558cd3eabca61b190813cf1b502e6",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -408,18 +420,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-1e1de116d3",
-    "source": "The Guardian — UK",
-    "title": "Bank shares lead global market fall amid jitters over US private credit",
-    "summary": "Signs of credit stress send markets in Europe and Asia down, while investors turn to safe haven assets European stock markets fell on Friday and gold hit a record high after two US regional banks said they had been exposed to millions of dollars of bad loans and alleged fraud . Signs of credit stress rattled markets across Europe and Asia. In London the FTSE 100 fell 0.9%, Germany’s Dax fell 1.8%, Italy’s FTSE Mib fell 1.5%, the Ibex in Spain was off 0.3% and France’s Cac 40 dropped 0.2%. Continue reading...",
-    "url": "https://www.theguardian.com/business/2025/oct/17/global-stock-markets-fall-and-gold-hits-record-high-amid-jitters-over-us-banks",
-    "published": "2025-10-17T16:24:22Z",
-    "image_url": "https://i.guim.co.uk/img/media/0858658736253ef269f9b70b55a400bcf81ed67d/1272_291_4561_3651/master/4561.jpg?width=140&quality=85&auto=format&fit=max&s=155dfe3a5066fa100fbe55b9370c47b7",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-4598c9c498",
     "source": "Politico — UK",
     "title": "Poland’s ‘modest’ civil partnership proposal pleases almost no-one",
@@ -427,6 +427,18 @@
     "url": "https://www.politico.eu/article/poland-modest-civil-partnership-proposal-pleases-almost-no-one-lgbtq-nawroki-tusk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-17T16:17:11Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/17/equality-poland-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-68996e375b",
+    "source": "The Guardian — UK",
+    "title": "Your Party sets out constitution plans including new year leadership contest",
+    "summary": "Exclusive: Proposals will bring ‘democratic revolution’ and transform ‘post-Labour left’ into formal political force, say organisers Your Party, the leftwing movement steered by Jeremy Corbyn and Zarah Sultana, has set out draft constitution plans including a leadership contest in the new year and new governing structures, the Guardian has learned. Organisers say the proposals will bring a “democratic revolution” and begin transforming Britain’s “post-Labour left” into a formal political force, while drawing a line under months of public rifts. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2025/oct/17/your-party-constitution-leadership-contest-jeremy-corbyn-zarah-sultana",
+    "published": "2025-10-17T16:00:20Z",
+    "image_url": "https://i.guim.co.uk/img/media/fc2b1318aa50ebf0b9a4c748b00cd003f4ad9d1b/230_0_2829_2264/master/2829.jpg?width=140&quality=85&auto=format&fit=max&s=ffde9fb8b2af4e5b03acb067de5c7c15",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -523,18 +535,6 @@
     "url": "https://www.politico.eu/article/eu-unlikely-push-sanctions-israel-trump-peace-deal-maxime-prevot/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-17T11:16:08Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/17/GettyImages-2239539294-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-47099f52c1",
-    "source": "The Guardian — UK",
-    "title": "Government U-turns on support for bird-friendly swift bricks in new homes",
-    "summary": "Housing minister Steve Reed refuses to back mandating measure, despite giving support while in environment job The government is refusing to support a new amendment to install a swift brick in every new home – a U-turn by Steve Reed since he became housing secretary. When he was environment secretary, Reed told a campaigner, Hannah Bourne-Taylor, she was “pushing at an open door” and he and others wanted to add to the party’s manifesto her proposal that developers must include a £35 hollow brick in every new home. Continue reading...",
-    "url": "https://www.theguardian.com/environment/2025/oct/17/government-u-turns-on-support-for-bird-friendly-swift-bricks-in-new-homes",
-    "published": "2025-10-17T11:09:14Z",
-    "image_url": "https://i.guim.co.uk/img/media/78dcf8fd3221f0a879fc89b06a26ddca9d4acd7d/551_0_2490_1992/master/2490.jpg?width=140&quality=85&auto=format&fit=max&s=c63c4151745ee00bb3b40efc390fdbc9",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
