@@ -1,12 +1,24 @@
 [
   {
-    "id": "BBC — Top Stories-3daf731423",
+    "id": "BBC — Top Stories-f2543f991d",
     "source": "BBC — Top Stories",
-    "title": "What Prince Andrew's titles loss means for Sarah Ferguson, Beatrice and Eugenie",
-    "summary": "We ask royal commentators what life looks like for the women of the York family.",
-    "url": "https://www.bbc.com/news/articles/cx2p7xzz4lvo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-18T20:08:47Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b47b/live/4bf20c30-ac5f-11f0-ba75-093eca1ac29b.jpg",
+    "title": "Red Cross receives two bodies that Hamas says are Gaza hostages",
+    "summary": "It comes after outrage in Israel that the armed group has not returned all deceased hostages from Gaza.",
+    "url": "https://www.bbc.com/news/articles/c7v8e1484n5o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T20:52:26Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcce/live/7b71ebb0-ac50-11f0-80da-bb3137bb460a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-299182fb82",
+    "source": "BBC — Top Stories",
+    "title": "US to repatriate survivors of strike on 'drug-carrying submarine', Trump says",
+    "summary": "The latest attack is at least the sixth US strike on Venezuelan ships in recent weeks.",
+    "url": "https://www.bbc.com/news/articles/cn8xg1jve73o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T20:42:39Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1a8/live/9185be50-ac5e-11f0-ba75-093eca1ac29b.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -17,8 +29,32 @@
     "title": "No Kings protests draw huge crowds as anti-Trump rallies sweep across US",
     "summary": "Protests are planned in over 2,500 cities across the US, including New York, DC, Atlanta and Los Angeles.",
     "url": "https://www.bbc.com/news/articles/c93xgyp1zv4o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-18T19:53:42Z",
+    "published": "2025-10-18T20:38:37Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a6/live/471bcad0-ac45-11f0-ba75-093eca1ac29b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-ec702231e1",
+    "source": "BBC — Top Stories",
+    "title": "Wrongfully imprisoned for more than 40 years, US man now faces deportation to India",
+    "summary": "Subramanyam \"Subu\" Vedam was freed from prison after being wrongfully convicted for a 1980 murder.",
+    "url": "https://www.bbc.com/news/articles/ckgz85g6pj0o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T20:12:09Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5386/live/a103bdb0-ac30-11f0-969d-e546dac1b2a4.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-3daf731423",
+    "source": "BBC — Top Stories",
+    "title": "What Prince Andrew's titles loss means for Sarah Ferguson, Beatrice and Eugenie",
+    "summary": "We ask royal commentators what life looks like for the women of the York family.",
+    "url": "https://www.bbc.com/news/articles/cx2p7xzz4lvo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T20:08:47Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a59/live/ee95adb0-ac60-11f0-ba75-093eca1ac29b.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -79,18 +115,6 @@
     "url": "https://www.politico.eu/article/ukraine-russia-local-ceasefire-zone-declared-nuclear-plant-damage-repairs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-18T14:57:18Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/18/GettyImages-2228830716-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-5d2d626d1d",
-    "source": "BBC — Top Stories",
-    "title": "Eleven killed after Israel hits bus in Gaza, Hamas-run civil defence says",
-    "summary": "The Israeli military said it had fired at a \"suspicious vehicle\" it said had crossed the line demarcating the area occupied by its forces.",
-    "url": "https://www.bbc.com/news/articles/cpv1nk7dy4yo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-18T14:39:50Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d2/live/17878350-ac30-11f0-969d-e546dac1b2a4.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -552,18 +576,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-f9802f3d4f",
-    "source": "BBC — Top Stories",
-    "title": "Suffolk mum grows 58-stone pumpkin to beat son in family challenge",
-    "summary": "Frances Crickmore's monster pumpkin triumphed in the farmer family challenge.",
-    "url": "https://www.bbc.com/news/articles/cz91pwzyq5jo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-15T05:50:58Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ab/live/4822c580-a90e-11f0-928c-71dbb8619e94.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-8838534951",
     "source": "The Guardian — UK",
     "title": "Inside the mystery of the collapsed Chinese spy trial – podcast",
@@ -583,18 +595,6 @@
     "url": "https://www.bbc.com/news/articles/cx24kkxgwxlo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-14T14:30:41Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c3e/live/cab7ac40-a909-11f0-99b2-a3801a157d90.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-54206057fa",
-    "source": "BBC — Top Stories",
-    "title": "I never expected to work at the chocolate factory founded by my ancestor",
-    "summary": "Giles Naish says he is proud of his connection to chocolatier and philanthropist Joseph Rowntree.",
-    "url": "https://www.bbc.com/news/articles/cd9y49nyx81o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-12T09:06:25Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717d/live/6d2b0310-ab89-11f0-ba75-093eca1ac29b.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
