@@ -1,5 +1,41 @@
 [
   {
+    "id": "BBC — Top Stories-a7073dcb92",
+    "source": "BBC — Top Stories",
+    "title": "The Papers: 'Andrew gives up titles' and 'Banned old Duke of York'",
+    "summary": "Prince Andrew giving up his titles, including the Duke of York, dominates Saturday's papers.",
+    "url": "https://www.bbc.com/news/articles/cvgk7g3mlm3o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T01:35:43Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1540/live/c74a2200-abb5-11f0-aa13-0b0479f6f42a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-ff04b18a96",
+    "source": "Politico — UK",
+    "title": "Trump, still convinced Putin ‘wants to end this war,’ lukewarm on Zelenskyy’s request for Tomahawks",
+    "summary": "Although the president didn't rule out giving Ukraine long-range missiles, he expressed optimism that it wouldn't be necessary, suggesting that Russia's leader is serious about peace.",
+    "url": "https://www.politico.com/news/2025/10/17/trump-still-convinced-putin-wants-to-end-this-war-lukewarm-on-zelenskyys-request-for-tomahawks-00613870?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-18T01:22:02Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-439471a59a",
+    "source": "Politico — UK",
+    "title": "World’s cartoonists on this week’s events",
+    "summary": "Drawing the top stories around the globe.",
+    "url": "https://www.politico.eu/article/worlds-cartoonists-on-this-weeks-events-174/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-18T01:00:00Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/17/300853_1536_rgb.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-83cead57bd",
     "source": "BBC — Top Stories",
     "title": "How and when to see the Orionids meteor shower",
@@ -63,7 +99,7 @@
     "id": "BBC — Top Stories-31f15169b7",
     "source": "BBC — Top Stories",
     "title": "Smuggler jailed for 40 years after shipping ballistic missiles parts from Iran",
-    "summary": "Pakistani national duped his fishing boat crew into transporting dangerous weapons to Houthi rebels.",
+    "summary": "The Pakistani convict called himself a \"walking dead person\" just days before his last voyage destined for Houthi rebels in Yemen.",
     "url": "https://www.bbc.com/news/articles/cwy534vw28go?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T23:10:31Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c4/live/974c8040-a901-11f0-928c-71dbb8619e94.jpg",
@@ -74,7 +110,7 @@
   {
     "id": "BBC — Top Stories-072b475982",
     "source": "BBC — Top Stories",
-    "title": "There's nothing like feeling the Royal Albert Hall shake when sumo wrestlers collide",
+    "title": "Grand Sumo in London? An ancient sport finds new fans far beyond Japan",
     "summary": "The ancient sport has found a generation of new fans - thanks to the internet age.",
     "url": "https://www.bbc.com/news/articles/c4gw7009342o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T23:10:16Z",
@@ -276,18 +312,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-6cd20145ad",
-    "source": "BBC — Top Stories",
-    "title": "Reese Witherspoon on writing a thriller: 'What do girls in bikinis have to do with solving crime?'",
-    "summary": "The actress talks about co-writing her debut thriller, about a female surgeon, with Harlan Coben.",
-    "url": "https://www.bbc.com/news/articles/cn0gl91dwr2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T17:09:51Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51e2/live/15169120-a900-11f0-ab74-91eb43b2b68c.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-e1d1f8f7db",
     "source": "BBC — Top Stories",
     "title": "'I'm trying to forgive', says mum of baby found in Hull undertakers two years after funeral",
@@ -307,6 +331,18 @@
     "url": "https://www.theguardian.com/technology/2025/oct/17/uks-riots-of-2024-will-repeat-unless-misinformation-is-tackled-mps-warn",
     "published": "2025-10-17T16:53:35Z",
     "image_url": "https://i.guim.co.uk/img/media/a6dbeed0c488c0afa8081dc9f842d4273508c300/119_0_5186_4149/master/5186.jpg?width=140&quality=85&auto=format&fit=max&s=a46558cd3eabca61b190813cf1b502e6",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-5e44b5faa3",
+    "source": "Politico — UK",
+    "title": "G7 scrambles to push back on Chinese rare-earth curbs",
+    "summary": "Western allies race to forge united G7 response after China tightened grip on rare minerals key to green and defense industries.",
+    "url": "https://www.politico.eu/article/g7-push-back-china-rare-earth-curb/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-17T16:51:24Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/17/GettyImages-2227113709-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -487,42 +523,6 @@
     "url": "https://www.politico.eu/article/china-beijing-beefs-with-london-uk-over-delayed-super-embassy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-17T10:56:40Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/17/13249940-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-56d33d9571",
-    "source": "Politico — UK",
-    "title": "Meloni condemns car bomb attack on Italian journalist",
-    "summary": "Anti-mafia prosecutors have opened a probe.",
-    "url": "https://www.politico.eu/article/giorgia-meloni-condemn-car-bomb-attack-italian-investigative-journalist-sigfrido-ranucci/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-17T10:23:25Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/17/GettyImages-2240589889.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-81e6d40e74",
-    "source": "Politico — UK",
-    "title": "Ban on Israeli football fans sparks UK political backlash",
-    "summary": "Israel's Foreign Minister Gideon Sa'ar branded the move by Birmingham local authorities \"shameful.\"",
-    "url": "https://www.politico.eu/article/keir-starmer-slams-decision-to-ban-maccabi-tel-aviv-football-fans-from-uk-match/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-17T09:26:42Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/17/13371733-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-21895130a3",
-    "source": "Politico — UK",
-    "title": "Farage: Putin is a ‘very bad dude’",
-    "summary": "Russian leader is not a 'rational man,' says leader of Britain's populist Reform UK.",
-    "url": "https://www.politico.eu/article/vladimir-putin-very-bad-dude-says-nigel-farage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-17T09:08:20Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/17/GettyImages-2240576914-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
