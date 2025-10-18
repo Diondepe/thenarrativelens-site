@@ -1,5 +1,17 @@
 [
   {
+    "id": "The Guardian — UK-ffc0f4d8ee",
+    "source": "The Guardian — UK",
+    "title": "York MP calls on royal family to explain source of £12m Virginia Giuffre payment",
+    "summary": "Rachael Maskell says ‘a lot of clarity’ needed over how Prince Andrew funded settlement of sexual abuse case Why Prince Andrew is giving up his titles now – and what it means for the royal family An MP has called on the royal family to explain how Prince Andrew funded a settlement in a sexual abuse case brought by Virginia Giuffre. Rachael Maskell, who represents York Central, said “a lot of clarity” was needed regarding the reported £12m payment, made in 2022. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2025/oct/18/york-mp-calls-on-royal-family-to-explain-source-of-12m-virginia-giuffre-payment",
+    "published": "2025-10-18T17:10:59Z",
+    "image_url": "https://i.guim.co.uk/img/media/db40d1fe42288fa95b1939ca8d89f54f7d432dee/0_218_3888_3110/master/3888.jpg?width=140&quality=85&auto=format&fit=max&s=63342c5d69b2e0aa5a4ac1b12aadc577",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-a9ba1da944",
     "source": "BBC — Top Stories",
     "title": "Accuser's brother urges King to strip Andrew of prince title",
@@ -396,18 +408,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-072b475982",
-    "source": "BBC — Top Stories",
-    "title": "Grand sumo in London: Why rituals and wrestling are drawing a new fanbase",
-    "summary": "Going to Japan is almost the only way to see a top-flight suo sumo tournament. This week, London is hosting.",
-    "url": "https://www.bbc.com/news/articles/c4gw7009342o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T23:10:16Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c9/live/5cccf4d0-ab73-11f0-ba75-093eca1ac29b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-1921fac864",
     "source": "BBC — Top Stories",
     "title": "'I'm not putting my ring back on yet,' says Molly-Mae after Tommy reunion",
@@ -415,18 +415,6 @@
     "url": "https://www.bbc.com/news/articles/cg43lg3p7wno?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T23:09:44Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b4/live/d7959770-ab6f-11f0-ba75-093eca1ac29b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-65cb68b576",
-    "source": "The Guardian — UK",
-    "title": "Prince Andrew gives up royal titles including Duke of York after ‘discussion with king’",
-    "summary": "In statement released by Buckingham Palace, Andrew says he will give up titles and honours Virginia Giuffre book extract: ‘Prince Andrew believed having sex with me was his birthright’ Analysis: Prince Andrew’s fall from grace complete as monarchy cuts him loose Prince Andrew has agreed to give up his use of the Duke of York title, he said in a statement released through Buckingham Palace. He will also give up use of his honours as a Knight Grand Cross of the Royal Victorian Order (GCVO) and Royal Knight Companion of the Most Noble Order of the Garter, meaning his only remaining title will be that of prince, which cannot be removed as he was born the son of a queen. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/17/prince-andrew-to-give-up-royal-titles",
-    "published": "2025-10-17T22:50:01Z",
-    "image_url": "https://i.guim.co.uk/img/media/758d67910045c0a4a8533cdfbfb890e98bb6ae2f/981_0_4244_3394/master/4244.jpg?width=140&quality=85&auto=format&fit=max&s=470240cfc3bea739e13c968869951332",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -595,6 +583,18 @@
     "url": "https://www.bbc.com/news/articles/cd9y49nyx81o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-12T09:06:25Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717d/live/6d2b0310-ab89-11f0-ba75-093eca1ac29b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-53515fb374",
+    "source": "BBC — Top Stories",
+    "title": "BBC News app",
+    "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+    "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+    "published": "2025-04-30T14:04:28Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
