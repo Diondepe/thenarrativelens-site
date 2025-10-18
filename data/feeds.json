@@ -1,5 +1,53 @@
 [
   {
+    "id": "The Guardian — UK-2450785c33",
+    "source": "The Guardian — UK",
+    "title": "French customs reject British shellfish shipments after UK ‘reset’ deal with EU",
+    "summary": "One of the largest mussel exporters in Britain lose £150,000 after three lorries were prevented from entering the EU One of Britain’s largest mussel exporters has suffered a £150,000 loss, after three of its shipments to the EU were rejected in recent weeks by French customs. Family-run business Offshore Shellfish, based in Devon, has continued exporting blue mussels to its European customers since Brexit, despite the administrative burden and onerous paperwork requirements. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/18/french-customs-reject-british-shellfish-shipments-after-uk-reset-deal-with-eu",
+    "published": "2025-10-18T10:00:42Z",
+    "image_url": "https://i.guim.co.uk/img/media/4b3ce965a063671041a4077d2ce307be0de7e041/0_806_3024_2419/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=7582017274e5c24a72b38d0b51163fe7",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-c00021ee3c",
+    "source": "Politico — UK",
+    "title": "Trump grants clemency to disgraced former lawmaker George Santos",
+    "summary": "The former member of Congress from New York served less than three months of a seven-years sentence for wire fraud and identity theft.",
+    "url": "https://www.politico.com/news/2025/10/17/trump-clemency-george-santos-00614693?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-18T09:45:09Z",
+    "image_url": null,
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d0dfd2d0d6",
+    "source": "BBC — Top Stories",
+    "title": "Israel confirms latest body returned from Gaza is dead hostage",
+    "summary": "Eliyahu Margalit is the 10th dead hostage Hamas has returned - out of 28.",
+    "url": "https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T09:41:11Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f90/live/2c0c23b0-abec-11f0-afba-41198f87c8a8.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d96ee1b734",
+    "source": "BBC — Top Stories",
+    "title": "Prince Andrew gives up his title as Duke of York",
+    "summary": "The prince said he had made the decision because \"continued accusations about me distract from the work\" of the Royal Family.",
+    "url": "https://www.bbc.com/news/articles/cgqlyw9g7weo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T09:41:05Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a715/live/95be8140-abf6-11f0-aa13-0b0479f6f42a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "The Guardian — UK-b683377d95",
     "source": "The Guardian — UK",
     "title": "Labour’s housing hypocrisy: councils serve almost 200 families with no-fault eviction notices",
@@ -19,18 +67,6 @@
     "url": "https://www.politico.eu/article/prince-andrew-royal-titles-convict-sex-traffic-offender-epstein-china-spy-fallout/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-18T08:57:16Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/18/GettyImages-544081426-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-d0dfd2d0d6",
-    "source": "BBC — Top Stories",
-    "title": "Israel confirms latest body returned from Gaza is dead hostage",
-    "summary": "Eliyahu Margalit is the 10th dead hostage Hamas has returned - out of 28.",
-    "url": "https://www.bbc.com/news/articles/c5yp3eq9knvo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-18T08:53:29Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f90/live/2c0c23b0-abec-11f0-afba-41198f87c8a8.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -78,7 +114,7 @@
     "summary": "Following the meeting, Trump calls for Kyiv and Moscow to \"stop where they are\" and end the war.",
     "url": "https://www.bbc.com/news/articles/c93dqew8l3xo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-18T07:42:19Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e77b/live/0f8fc3a0-ab87-11f0-a7be-25e543799ac8.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7c5/live/225bcc90-ac09-11f0-b2a1-6f537f66f9aa.png",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -96,13 +132,13 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-13c234015e",
+    "id": "BBC — Top Stories-df5c632b5c",
     "source": "BBC — Top Stories",
-    "title": "Chinese Nobel laureate and physicist Chen Ning Yang dies aged 103",
-    "summary": "Yang, one of the world's most influential scientists, earned global recognition for his work in theoretical physics.",
-    "url": "https://www.bbc.com/news/articles/cdxrzzk02plo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-18T06:49:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b92/live/827b57a0-abe4-11f0-b2a1-6f537f66f9aa.jpg",
+    "title": "'Super Sam' - the Englishman battling Messi for Golden Boot",
+    "summary": "'Super' Sam Surridge has already scored the winner in the US Open Cup final, now he's battling Lionel Messi for the MLS Golden Boot.",
+    "url": "https://www.bbc.com/sport/football/articles/c2kpd4l59jno?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T06:39:50Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5dc/live/f6b558e0-a9b5-11f0-a923-ff705558ae00.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -110,7 +146,7 @@
   {
     "id": "BBC — Top Stories-e11887b67c",
     "source": "BBC — Top Stories",
-    "title": "'A drunken Butlin's holiday mishap saved my life'",
+    "title": "A drunken Butlin's holiday mishap saved my life",
     "summary": "Charlotte Morjaria found out she had cancer after an accident on a trip with her friends to Butlins.",
     "url": "https://www.bbc.com/news/articles/c864dg1wvplo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-18T06:07:19Z",
@@ -192,18 +228,6 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-a7073dcb92",
-    "source": "BBC — Top Stories",
-    "title": "The Papers: 'Andrew gives up titles' and 'Banned old Duke of York'",
-    "summary": "Prince Andrew giving up his titles, including the Duke of York, dominates Saturday's papers.",
-    "url": "https://www.bbc.com/news/articles/cvgk7g3mlm3o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-18T04:03:38Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1540/live/c74a2200-abb5-11f0-aa13-0b0479f6f42a.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "Politico — UK-ff04b18a96",
     "source": "Politico — UK",
     "title": "Trump, still convinced Putin ‘wants to end the war,’ lukewarm on Zelenskyy’s request for Tomahawks",
@@ -228,13 +252,25 @@
     "cluster_id": null
   },
   {
-    "id": "BBC — Top Stories-83cead57bd",
+    "id": "BBC — Top Stories-7d7a3f349e",
     "source": "BBC — Top Stories",
-    "title": "When and where to see the Orionids meteor shower",
-    "summary": "The Orionids are thought to be one of the most impressive meteor displays. Visible from early October to early November, it will peak this week around 22 October. Here's more on how you can see it.",
-    "url": "https://www.bbc.com/weather/articles/c70196602g2o?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T23:58:22Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84b3/live/7ea45a90-9de4-11f0-a561-d7c24224dfc6.jpg",
+    "title": "Are two-week half-terms a blessing or a curse?",
+    "summary": "Many schools are extending autumn breaks, but what do parents, teachers and experts think?",
+    "url": "https://www.bbc.com/news/articles/c0r0lp4ydkdo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T23:52:44Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83dd/live/5e37b740-a9e5-11f0-aa13-0b0479f6f42a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-d227206b2f",
+    "source": "BBC — Top Stories",
+    "title": "Buying more, wearing less - why India's Diwali gold rush is different",
+    "summary": "Soaring gold prices have dented jewellery demand but Indians are not ready to give up on the metal yet.",
+    "url": "https://www.bbc.com/news/articles/c3vnk3w0z69o?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-17T23:44:09Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0b7/live/0041d8c0-ab64-11f0-8210-51f58cb86203.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -307,18 +343,6 @@
     "url": "https://www.theguardian.com/uk-news/2025/oct/17/prince-andrew-to-give-up-royal-titles",
     "published": "2025-10-17T22:50:01Z",
     "image_url": "https://i.guim.co.uk/img/media/758d67910045c0a4a8533cdfbfb890e98bb6ae2f/981_0_4244_3394/master/4244.jpg?width=140&quality=85&auto=format&fit=max&s=470240cfc3bea739e13c968869951332",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-d96ee1b734",
-    "source": "BBC — Top Stories",
-    "title": "Prince Andrew gives up his title as Duke of York",
-    "summary": "The prince said he had made the decision because \"continued accusations about me distract from the work\" of the Royal Family.",
-    "url": "https://www.bbc.com/news/articles/cgqlyw9g7weo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T22:35:32Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a715/live/95be8140-abf6-11f0-aa13-0b0479f6f42a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -408,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-8b9b9bc704",
-    "source": "The Guardian — UK",
-    "title": "King Charles ‘considering stripping Prince Andrew of Duke of York title’",
-    "summary": "Buckingham Palace said to be at ‘tipping point’ over headlines about prince’s links to Jeffrey Epstein and Chinese official King Charles is considering stripping Prince Andrew of his title of Duke of York after a string of allegations, the Guardian understands. Buckingham Palace has reportedly reached “a tipping point” over headlines about Andrew’s connections to the late sex offender Jeffrey Epstein and to a senior Chinese Communist party official suspected to be at the heart of the recent collapsed China spy case. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/17/prince-andrew-duke-of-york-removal-of-titles-king-charles-prince-william-monarchy",
-    "published": "2025-10-17T17:55:21Z",
-    "image_url": "https://i.guim.co.uk/img/media/54890395b230e2383a39484aba6898d5fecdd047/0_0_3541_2834/master/3541.jpg?width=140&quality=85&auto=format&fit=max&s=a3f623538e0a10d3bb35bfe9f5c162d4",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "BBC — Top Stories-a7596d61c4",
     "source": "BBC — Top Stories",
     "title": "We're furious the 'Lip King' is selling weight-loss jabs, say dead mother's family",
@@ -427,6 +439,18 @@
     "url": "https://www.bbc.com/news/articles/c4gk0w95jyjo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T17:32:50Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da0b/live/bc987c70-aa9e-11f0-ba75-093eca1ac29b.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-afb40bd815",
+    "source": "The Guardian — UK",
+    "title": "UK MPs warn of repeat of 2024 riots unless online misinformation is tackled",
+    "summary": "Science and technology select committee says complacency over social media content puts public at risk Failures to properly tackle online misinformation mean it is “only a matter of time” before viral content triggers a repeat of the 2024 summer riots, MPs have warned. Chi Onwurah, the chair of the Commons science and technology select committee, said ministers seemed complacent about the threat and this was putting the public at risk. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2025/oct/17/uks-riots-of-2024-will-repeat-unless-misinformation-is-tackled-mps-warn",
+    "published": "2025-10-17T16:53:35Z",
+    "image_url": "https://i.guim.co.uk/img/media/a6dbeed0c488c0afa8081dc9f842d4273508c300/119_0_5186_4149/master/5186.jpg?width=140&quality=85&auto=format&fit=max&s=a46558cd3eabca61b190813cf1b502e6",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -511,30 +535,6 @@
     "url": "https://www.politico.eu/article/eu-leaders-forced-consider-airspace-ban-exemption-allow-russia-putin-budapest-meeting-us-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-17T14:05:53Z",
     "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/17/GettyImages-2240946437-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-e3f2845db7",
-    "source": "The Guardian — UK",
-    "title": "Legal challenge to Palestine Action ban can go ahead, court rules",
-    "summary": "Judges reject Home Office attempt to block judicial review of group’s proscription under Terrorism Act A legal challenge to the ban on Palestine Action can go ahead next month after the court of appeal rejected the Home Office’s attempt to block the case. In a blow to the government, on Friday, three judges, led by the lady chief justice, Sue Carr, upheld Mr Justice Chamberlain’s decision to grant the Palestine Action co-founder Huda Ammori a judicial review of the group’s proscription under the Terrorism Act. Continue reading...",
-    "url": "https://www.theguardian.com/uk-news/2025/oct/17/legal-challenge-to-palestine-action-ban-can-go-ahead-court-rules",
-    "published": "2025-10-17T14:05:06Z",
-    "image_url": "https://i.guim.co.uk/img/media/6d2287d82274494f208077d1f771c7ded858f00b/175_81_1731_1385/master/1731.jpg?width=140&quality=85&auto=format&fit=max&s=3bb69198e4e0e9010d1217cd370457d9",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-76f79a90b7",
-    "source": "Politico — UK",
-    "title": "EU’s Israel plan: Protect Palestinian statehood in talks with Trump",
-    "summary": "Draft strategy seen by POLITICO sets out Brussels' priorities for aid and reconstruction.",
-    "url": "https://www.politico.eu/article/protect-palestinian-statehood-talks-us-donald-trump-eu-israel-plan-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-17T13:38:28Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/17/11768120-scaled.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
