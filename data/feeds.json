@@ -1,5 +1,65 @@
 [
   {
+    "id": "BBC — Top Stories-e11887b67c",
+    "source": "BBC — Top Stories",
+    "title": "'A drunken Butlin's holiday mishap saved my life'",
+    "summary": "Charlotte Morjaria found out she had cancer after an accident on a trip with her friends to Butlins.",
+    "url": "https://www.bbc.com/news/articles/c864dg1wvplo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T06:07:19Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3cc/live/48979840-ab3b-11f0-b2a1-6f537f66f9aa.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-07ff2ab8e6",
+    "source": "The Guardian — UK",
+    "title": "Chemical linked to low sperm count, obesity and cancer found in dummies, tests find",
+    "summary": "BPA, a synthetic chemical used in production of plastics, found in baby products made by three big European brands A chemical linked to impaired sexual development, obesity and cancer has been found in baby dummies manufactured by three big European brands. Dummies made by the Dutch multinational Philips, the Swiss oral health specialists Curaprox and the French toy brand Sophie la Girafe were found to contain bisphenol A (BPA), according to laboratory testing by dTest, a Czech consumer organisation. Philips said they had carried out subsequent testing and found no BPA, while Sophie la Girafe said the amount found was insignificant. Continue reading...",
+    "url": "https://www.theguardian.com/society/2025/oct/18/chemical-linked-impaired-sexual-development-found-dummies-tests",
+    "published": "2025-10-18T06:00:38Z",
+    "image_url": "https://i.guim.co.uk/img/media/a86f85d64c88c8fbddf20f7dbb96d995854772fe/282_0_5964_4772/master/5964.jpg?width=140&quality=85&auto=format&fit=max&s=798e860940912080227a56d1a53c6e00",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "The Guardian — UK-21a6b92540",
+    "source": "The Guardian — UK",
+    "title": "If you like a lot of chocolate on your biscuit … look away now",
+    "summary": "Club and Penguin bars are now ‘chocolate flavour’ after owner McVitie’s cuts cocoa content amid soaring prices If you like a lot of chocolate on your biscuit you can no longer join our Club or pick up a Penguin , as the lunchbox favourites have reduced the amount of cocoa in their recipe so much they are now only “chocolate flavour”. The two snacks, both made by McVitie’s, changed their recipes earlier this year amid soaring cocoa prices – which have prompted manufacturers to try a number of different tactics to keep prices down. Continue reading...",
+    "url": "https://www.theguardian.com/business/2025/oct/18/chocolate-biscuit-club-penguin-mcvities-cocoa-prices",
+    "published": "2025-10-18T06:00:37Z",
+    "image_url": "https://i.guim.co.uk/img/media/9912c5a0806662f4f7edb9e23f0ba73bef31cdf9/154_0_3193_2554/master/3193.jpg?width=140&quality=85&auto=format&fit=max&s=868b0dd2c285a307051e343632e5f19b",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "BBC — Top Stories-5c037900b9",
+    "source": "BBC — Top Stories",
+    "title": "'Have a great life!' Trump orders prison release of disgraced ex-lawmaker Santos",
+    "summary": "George Santos was jailed for seven years for stealing identities, including from members of his own family.",
+    "url": "https://www.bbc.com/news/articles/cy5q3439xpqo?at_medium=RSS&at_campaign=rss",
+    "published": "2025-10-18T05:45:54Z",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/56e06400-abb2-11f0-aa13-0b0479f6f42a.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
+    "id": "Politico — UK-aadd216a40",
+    "source": "Politico — UK",
+    "title": "France downgraded by S&P as budget uncertainty ‘remains elevated’",
+    "summary": "The ratings cut comes after French Prime Minister Sebastien Lecornu committed to suspend an unpopular law that raised the retirement age.",
+    "url": "https://www.politico.eu/article/france-downgraded-by-sp-as-budget-uncertainty-remains-elevated/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "published": "2025-10-18T05:26:22Z",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/14/GettyImages-2240573162-scaled.jpg",
+    "thumb_url": null,
+    "category": "Politics",
+    "cluster_id": null
+  },
+  {
     "id": "BBC — Top Stories-76a3c38b93",
     "source": "BBC — Top Stories",
     "title": "How an old suitcase revealed a hidden family fortune, lost under Nazi rule",
@@ -26,8 +86,8 @@
   {
     "id": "Politico — UK-ff04b18a96",
     "source": "Politico — UK",
-    "title": "Trump, still convinced Putin ‘wants to end this war,’ lukewarm on Zelenskyy’s request for Tomahawks",
-    "summary": "Although the president didn't rule out giving Ukraine long-range missiles, he expressed optimism that it wouldn't be necessary, suggesting that Russia's leader is serious about peace.",
+    "title": "Trump, still convinced Putin ‘wants to end the war,’ lukewarm on Zelenskyy’s request for Tomahawks",
+    "summary": "Although the U.S. president didn't rule out giving Ukraine long-range missiles, he expressed optimism that it wouldn't be necessary, suggesting that Russia's leader is serious about peace.",
     "url": "https://www.politico.com/news/2025/10/17/trump-still-convinced-putin-wants-to-end-this-war-lukewarm-on-zelenskyys-request-for-tomahawks-00613870?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "published": "2025-10-18T01:22:02Z",
     "image_url": null,
@@ -98,7 +158,7 @@
   {
     "id": "BBC — Top Stories-072b475982",
     "source": "BBC — Top Stories",
-    "title": "Grand Sumo in London? An ancient sport finds new fans far beyond Japan",
+    "title": "Ritual, wrestling and Reddit: Grand Sumo meets internet fandom in London",
     "summary": "Going to Japan is almost the only way to see a top-flight suo sumo tournament. This week, London is hosting.",
     "url": "https://www.bbc.com/news/articles/c4gw7009342o?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T23:10:16Z",
@@ -115,18 +175,6 @@
     "url": "https://www.bbc.com/news/articles/cg43lg3p7wno?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T23:09:44Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b4/live/d7959770-ab6f-11f0-ba75-093eca1ac29b.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-5c037900b9",
-    "source": "BBC — Top Stories",
-    "title": "'Have a great life!' Trump orders prison release of disgraced ex-lawmaker Santos",
-    "summary": "George Santos was jailed for seven years for stealing identities, including from members of his own family.",
-    "url": "https://www.bbc.com/news/articles/cy5q3439xpqo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T23:04:31Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/56e06400-abb2-11f0-aa13-0b0479f6f42a.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -175,18 +223,6 @@
     "url": "https://www.bbc.com/news/articles/c205g21n1zzo?at_medium=RSS&at_campaign=rss",
     "published": "2025-10-17T22:02:31Z",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f714/live/07276060-aba5-11f0-bba9-81f28efa2a1e.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "BBC — Top Stories-e11887b67c",
-    "source": "BBC — Top Stories",
-    "title": "'A drunken Butlin's holiday mishap saved my life'",
-    "summary": "Charlotte Morjaria found out she had cancer after an accident on a trip with her friends to Butlins.",
-    "url": "https://www.bbc.com/news/articles/c864dg1wvplo?at_medium=RSS&at_campaign=rss",
-    "published": "2025-10-17T22:01:06Z",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3cc/live/48979840-ab3b-11f0-b2a1-6f537f66f9aa.jpg",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
@@ -396,18 +432,6 @@
     "cluster_id": null
   },
   {
-    "id": "The Guardian — UK-68996e375b",
-    "source": "The Guardian — UK",
-    "title": "Your Party sets out constitution plans including new year leadership contest",
-    "summary": "Exclusive: Proposals will bring ‘democratic revolution’ and transform ‘post-Labour left’ into formal political force, say organisers Your Party, the leftwing movement steered by Jeremy Corbyn and Zarah Sultana, has set out draft constitution plans including a leadership contest in the new year and new governing structures, the Guardian has learned. Organisers say the proposals will bring a “democratic revolution” and begin transforming Britain’s “post-Labour left” into a formal political force, while drawing a line under months of public rifts. Continue reading...",
-    "url": "https://www.theguardian.com/politics/2025/oct/17/your-party-constitution-leadership-contest-jeremy-corbyn-zarah-sultana",
-    "published": "2025-10-17T16:00:20Z",
-    "image_url": "https://i.guim.co.uk/img/media/fc2b1318aa50ebf0b9a4c748b00cd003f4ad9d1b/230_0_2829_2264/master/2829.jpg?width=140&quality=85&auto=format&fit=max&s=ffde9fb8b2af4e5b03acb067de5c7c15",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
     "id": "The Guardian — UK-2ddb3d8e4d",
     "source": "The Guardian — UK",
     "title": "Mark Sedwill is frontrunner to become new UK ambassador to US, sources say",
@@ -511,30 +535,6 @@
     "url": "https://www.theguardian.com/environment/2025/oct/17/government-u-turns-on-support-for-bird-friendly-swift-bricks-in-new-homes",
     "published": "2025-10-17T11:09:14Z",
     "image_url": "https://i.guim.co.uk/img/media/78dcf8fd3221f0a879fc89b06a26ddca9d4acd7d/551_0_2490_1992/master/2490.jpg?width=140&quality=85&auto=format&fit=max&s=c63c4151745ee00bb3b40efc390fdbc9",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "Politico — UK-14afb16f7e",
-    "source": "Politico — UK",
-    "title": "Beijing beefs with the UK over delayed ‘super-embassy’",
-    "summary": "Foreign Ministry spokesman Lin Jian accuses Britain of “disregard for contractual spirit\" after delaying approval for what would be Europe's largest embassy.",
-    "url": "https://www.politico.eu/article/china-beijing-beefs-with-london-uk-over-delayed-super-embassy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "published": "2025-10-17T10:56:40Z",
-    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/10/17/13249940-scaled.jpg",
-    "thumb_url": null,
-    "category": "Politics",
-    "cluster_id": null
-  },
-  {
-    "id": "The Guardian — UK-af7e4392cd",
-    "source": "The Guardian — UK",
-    "title": "‘Gamechanging’ HIV prevention jab to be approved for England and Wales",
-    "summary": "Long-acting injection offers an alternative to daily pills taken to protect against the virus A “gamechanging” injection to prevent HIV is to be approved for use in England and Wales. The long-acting jab, administered every two months, will offer an alternative to the daily pills used to protect against the virus. Continue reading...",
-    "url": "https://www.theguardian.com/society/2025/oct/17/hiv-prevention-injection-england-wales",
-    "published": "2025-10-17T07:17:49Z",
-    "image_url": "https://i.guim.co.uk/img/media/67ebca48d921b384e87e83d5416a59518086357a/172_0_5156_4125/master/5156.jpg?width=140&quality=85&auto=format&fit=max&s=a482afa114fb037d9c83cee1e4b53d6c",
     "thumb_url": null,
     "category": "Politics",
     "cluster_id": null
